@@ -4,6 +4,6 @@
 
 1 Such quarterly and annual reports forms may be obtained from the Office of the Assistant Regional Director in whose Region the State is located.
 
-(b) Each State with an approved State plan shall submit to the appropriate Regional Office an annual occupational safety and health report in the form and detail provided for in the report and the instructions contained therein.
+(b) Each State with an approved State plan shall submit to the appropriate Regional Office an annual occupational safety and health report in the form and detail provided for in the report and the instructions contained therein. 
 
 (c) Each State with an approved State plan shall submit to the appropriate Regional Office a quarterly occupational safety and health compliance and standards activity report in the form and detail provided for in the report and the instructions contained therein.

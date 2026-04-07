@@ -1,6 +1,6 @@
 ##### § 776.20 “Goods.”
 
-(a) *The statutory provision.* An employee is covered by the wage and hours provisions of the Act if he is engaged in the “production” (as explained in §§ 776.15 through 776.19) “for commerce” (as explained in § 776.21) of anything defined as “goods” in section 3(i) of the Act. This definition is:
+(a) *The statutory provision.* An employee is covered by the wage and hours provisions of the Act if he is engaged in the “production” (as explained in §§ 776.15 through 776.19) “for commerce” (as explained in § 776.21) of anything defined as “goods” in section 3(i) of the Act. This definition is: 
 
 *Goods* means goods (including ships and marine equipment), wares, products, commodities, merchandise, or articles or subjects of commerce of any character, or any part or ingredient thereof, but does not include goods after their delivery into the actual physical possession of the ultimate consumer thereof other than a producer, manufacturer, or processor thereof.
 
@@ -10,7 +10,7 @@
 
 19*Western Union Tel. Co.* v. *Lenroot* 323 U.S. 490.
 
-20*Mabee* v. *White Plains Pub. Co.,* 327 U.S. 178; *Yunker* v. *Abbye Employment Agency,* 32 N.Y.S. 2d 715; *Berry* v. *34 Irving Place Corp.,* 52 F. Supp. 875 (S.D. N.Y.); *Ullo* v. *Smith,* 62 F. Supp. 757, affirmed in 177 F. 2d 101 (C.A. 2); see also opinion of the four dissenting justices in *10 E. 40th St. Bldg.* v. *Callus,* 325 U.S. at p. 586.
+20*Mabee* v. *White Plains Pub. Co.,* 327 U.S. 178; *Yunker* v. *Abbye Employment Agency,* 32 N.Y.S. 2d 715; *Berry* v. *34 Irving Place Corp.,* 52 F. Supp. 875 (S.D. N.Y.); *Ullo* v. *Smith,* 62 F. Supp. 757, affirmed in 177 F. 2d 101 (C.A. 2); see also opinion of the four dissenting justices in *10 E. 40th St. Bldg.* v. *Callus,* 325 U.S. at p. 586. 
 
 Waste paper collected for shipment in commerce is goods. See *Fleming* v. *Schiff,* 1 W.H. Cases 893 (D. Colo.), 15 Labor Cases (CCH) par. 60,864.
 

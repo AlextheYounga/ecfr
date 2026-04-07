@@ -1,8 +1,8 @@
 ##### § 2590.701-3 Limitations on preexisting condition exclusion period.
 
-(a) *Preexisting condition exclusion defined.* (1) A *preexisting condition exclusion* means a *preexisting condition exclusion* within the meaning of § 2590.701-2.
+(a) *Preexisting condition exclusion defined.* (1) A *preexisting condition exclusion* means a *preexisting condition exclusion* within the meaning of § 2590.701-2. 
 
-(2) *Examples.* The rules of this paragraph (a)(1) are illustrated by the following examples:
+(2) *Examples.* The rules of this paragraph (a)(1) are illustrated by the following examples: 
 
 Example 1.(i) *Facts.* A group health plan provides benefits solely through an insurance policy offered by Issuer *S.* At the expiration of the policy, the plan switches coverage to a policy offered by Issuer *T.* Issuer *T*'s policy excludes benefits for any prosthesis if the body part was lost before the effective date of coverage under the policy.
 
@@ -36,6 +36,6 @@ Example 8.(i) *Facts.* A group health plan provides coverage for treatment of cl
 
 (ii) *Conclusion.* In this *Example 8,* the exclusion of coverage for treatment of cleft palate for individuals who have not been covered under the plan from the date of birth operates to exclude benefits in relation to a condition based on the fact that the condition was present before the effective date of coverage. The plan provision, therefore, is prohibited.
 
-(b) *General rules. See* § 2590.715-2704 for rules prohibiting the imposition of a preexisting condition exclusion.
+(b) *General rules. See* § 2590.715-2704 for rules prohibiting the imposition of a preexisting condition exclusion. 
 
 \[69 FR 78763, Dec. 30, 2004, as amended at 75 FR 37229, June 28, 2010; 79 FR 10308, Feb. 24, 2014; 80 FR 72256, Nov. 18, 2015\]

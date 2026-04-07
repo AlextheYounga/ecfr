@@ -1,6 +1,6 @@
 ##### § 1915.118 Tables.
 
-The provisions of this section apply to ship repairing, shipbuilding and shipbreaking.
+The provisions of this section apply to ship repairing, shipbuilding and shipbreaking. 
 
 Table E-1—Dimensions and Spacing of Wood Independent-Pole Scaffold Members
 | Structural members                             | Light duty (Up to 25 pounds per square foot)—Height in feet | Heavy duty (25 to 75 pounds per square foot)—Height in feet |

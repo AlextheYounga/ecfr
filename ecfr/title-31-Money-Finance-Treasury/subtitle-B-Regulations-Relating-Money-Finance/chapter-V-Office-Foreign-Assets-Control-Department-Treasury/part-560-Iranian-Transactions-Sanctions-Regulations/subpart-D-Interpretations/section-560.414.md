@@ -1,10 +1,10 @@
 ##### § 560.414 Reexportation of certain U.S.-origin goods exported prior to May 7, 1995.
 
-The prohibitions on reexportation in § 560.205 do not apply to United States-origin goods or technology that were exported from the United States prior to 12:01 a.m., Eastern Daylight Time, May 7, 1995, if: 
+The prohibitions on reexportation in § 560.205 do not apply to United States-origin goods or technology that were exported from the United States prior to 12:01 a.m., Eastern Daylight Time, May 7, 1995, if:
 
-(a) Such goods or technology were not the property of a United States person as of 12:01 a.m. Eastern Daylight Time, May 7, 1995; and 
+(a) Such goods or technology were not the property of a United States person as of 12:01 a.m. Eastern Daylight Time, May 7, 1995; and
 
-(b) The reexportation of the U.S.-origin goods or technology to Iran or the Government of Iran was not subject to reexport (as opposed to export) license application requirements under U.S. regulations in effect prior to May 6, 1995. 
+(b) The reexportation of the U.S.-origin goods or technology to Iran or the Government of Iran was not subject to reexport (as opposed to export) license application requirements under U.S. regulations in effect prior to May 6, 1995.
 
 Note 1 to § 560.414:
 

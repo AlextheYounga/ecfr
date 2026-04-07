@@ -1,6 +1,6 @@
 ##### § 789.1 Statutory provisions and legislative history.
 
-Section 12(a) of the Act provides, in part that no producer, manufacturer or dealer shall ship or deliver for shipment in commerce any goods produced in an establishment situated in the United States in or about which within 30 days prior to the removal of such goods therefrom, any oppressive child labor has been employed. Section 12(a) then provides an exception from this prohibition in the following language:
+Section 12(a) of the Act provides, in part that no producer, manufacturer or dealer shall ship or deliver for shipment in commerce any goods produced in an establishment situated in the United States in or about which within 30 days prior to the removal of such goods therefrom, any oppressive child labor has been employed. Section 12(a) then provides an exception from this prohibition in the following language: 
 
 *Provided,* That any such shipment or delivery for shipment of such goods by a purchaser who acquired them in good faith in reliance on written assurance from the producer, manufacturer, or dealer that the goods were produced in compliance with the requirements of this section, and who acquired such goods for value without notice of any such violation, shall not be deemed prohibited by this subsection \* \* \*.
 

@@ -1,6 +1,6 @@
 ##### § 1926.56 Illumination.
 
-(a) *General.* Construction areas, ramps, runways, corridors, offices, shops, and storage areas shall be lighted to not less than the minimum illumination intensities listed in Table D-3 while any work is in progress:
+(a) *General.* Construction areas, ramps, runways, corridors, offices, shops, and storage areas shall be lighted to not less than the minimum illumination intensities listed in Table D-3 while any work is in progress: 
 
 Table D-3—Minimum Illumination Intensities in Foot-Candles
 | Foot-candles | Area or operation                                                                                                                                                                                                                                                                  |

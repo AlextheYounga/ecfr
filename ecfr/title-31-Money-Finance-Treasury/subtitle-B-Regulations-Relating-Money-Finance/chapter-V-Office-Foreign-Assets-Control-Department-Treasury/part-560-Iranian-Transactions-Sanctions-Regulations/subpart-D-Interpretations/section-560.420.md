@@ -1,14 +1,14 @@
 ##### § 560.420 Reexportation by non-U.S. persons of certain foreign-made products containing U.S.-origin goods or technology.
 
-For purposes of satisfying the de minimis content rule in § 560.205(b)(2): 
+For purposes of satisfying the de minimis content rule in § 560.205(b)(2):
 
-(a) U.S.-origin goods (excluding software) falling within the definition in § 560.205 must comprise less than 10 percent of the total value of the foreign-made good (excluding software); 
+(a) U.S.-origin goods (excluding software) falling within the definition in § 560.205 must comprise less than 10 percent of the total value of the foreign-made good (excluding software);
 
-(b) U.S.-origin software falling within the definition in § 560.205 must comprise less than 10 percent of the total value of the foreign-made software; 
+(b) U.S.-origin software falling within the definition in § 560.205 must comprise less than 10 percent of the total value of the foreign-made software;
 
-(c) U.S.-origin technology falling within the definition in § 560.205 must comprise less than 10 percent of the total value of the foreign-made technology; and, 
+(c) U.S.-origin technology falling within the definition in § 560.205 must comprise less than 10 percent of the total value of the foreign-made technology; and,
 
-(d) In cases involving a complex product made of a combination of U.S.-origin goods (including software) and technology falling within the definition in § 560.205, the aggregate value of all such U.S.-origin goods (including software) and such technology contained in the foreign-made product must be less than 10 percent of the total value of the foreign-made product. 
+(d) In cases involving a complex product made of a combination of U.S.-origin goods (including software) and technology falling within the definition in § 560.205, the aggregate value of all such U.S.-origin goods (including software) and such technology contained in the foreign-made product must be less than 10 percent of the total value of the foreign-made product.
 
 Note 1 to § 560.420:
 

@@ -1,12 +1,12 @@
 ##### § 1960.67 Federal agency certification of the injury and illness annual summary (OSHA 300-A or equivalent).
 
-As required by 29 CFR 1904.32, a company executive must certify that he or she has examined the OSHA 300 Log and that he or she believes, based on his or her knowledge of the process by which the information was recorded, that the annual summary is correct and complete. For Federal establishments, the person who performs the certification shall be one of the following:
+As required by 29 CFR 1904.32, a company executive must certify that he or she has examined the OSHA 300 Log and that he or she believes, based on his or her knowledge of the process by which the information was recorded, that the annual summary is correct and complete. For Federal establishments, the person who performs the certification shall be one of the following: 
 
-(a) The senior establishment management official,
+(a) The senior establishment management official, 
 
-(b) The head of the Agency for which the senior establishment management official works, or
+(b) The head of the Agency for which the senior establishment management official works, or 
 
-(c) Any management official who is in the direct chain of command between the senior establishment management official and the head of the Agency.
+(c) Any management official who is in the direct chain of command between the senior establishment management official and the head of the Agency. 
 
 Note to § 1960.67:
 

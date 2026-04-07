@@ -1,6 +1,6 @@
 ##### § 780.801 Statutory provisions.
 
-Section 13(b)(15) of the Fair Labor Standards Act exempts from the overtime requirements of section 7:
+Section 13(b)(15) of the Fair Labor Standards Act exempts from the overtime requirements of section 7: 
 
 Any employee engaged in ginning of cotton for market, in any place of employment located in a county where cotton is grown in commercial quantities, or in the processing of sugar beets, sugar-beet molasses, sugarcane, or maple sap, into sugar (other than refined sugar) or syrup.
 

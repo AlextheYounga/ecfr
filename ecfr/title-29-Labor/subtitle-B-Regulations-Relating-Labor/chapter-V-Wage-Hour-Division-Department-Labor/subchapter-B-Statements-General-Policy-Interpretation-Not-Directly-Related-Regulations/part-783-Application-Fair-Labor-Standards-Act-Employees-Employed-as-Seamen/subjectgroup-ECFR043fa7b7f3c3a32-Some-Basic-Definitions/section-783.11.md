@@ -1,6 +1,6 @@
 ##### § 783.11 “Enterprise engaged in commerce or in the production of goods for commerce”.
 
-Portions of the definition of “enterprise engaged in commerce or in the production of goods for commerce” (Act section 3(s)) which may in some situations determine the application of provisions of the Act to employees employed by employers on vessels are as follows:
+Portions of the definition of “enterprise engaged in commerce or in the production of goods for commerce” (Act section 3(s)) which may in some situations determine the application of provisions of the Act to employees employed by employers on vessels are as follows: 
 
 (s) “Enterprise engaged in commerce or in the production of goods for commerce” means any of the following in the activities of which employees are so engaged, including employees handling, selling, or otherwise working on goods that have been moved in or produced for commerce by any person:
 

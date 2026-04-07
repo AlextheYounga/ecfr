@@ -1,6 +1,6 @@
 ##### § 776.8 The statutory provisions.
 
-(a) The activities constituting “commerce” within the meaning of the phrase “engaged in commerce” in sections 6 and 7 of the Act are defined in section 3(b) as follows:
+(a) The activities constituting “commerce” within the meaning of the phrase “engaged in commerce” in sections 6 and 7 of the Act are defined in section 3(b) as follows: 
 
 *Commerce* means trade, commerce, transportation, transmission, or communication among the several States, or between any State and any place outside thereof. 21
 

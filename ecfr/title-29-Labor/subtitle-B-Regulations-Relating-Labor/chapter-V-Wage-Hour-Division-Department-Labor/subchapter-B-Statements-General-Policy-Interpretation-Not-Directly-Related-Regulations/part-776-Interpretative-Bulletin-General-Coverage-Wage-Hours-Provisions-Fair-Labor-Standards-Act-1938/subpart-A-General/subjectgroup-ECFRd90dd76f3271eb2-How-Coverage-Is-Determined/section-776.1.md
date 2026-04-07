@@ -4,6 +4,6 @@ The congressional policy under which employees “engaged in commerce or in the 
 
 7*Kirschbaum* v. *Walling,* 316 U.S. 517; *Walling* v. *Jacksonville Paper Co.,* 317 U.S. 564; *10 East 40th St. Bldg. Co.* v. *Callus,* 325 U.S. 578; *A. H. Phillips, Inc.* v. *Walling,* 324 U.S. 490; *Fleming* v. *Hawkeye Pearl Button Co.,* 113 F. 2d 52 (C.A. 8); *Armstrong* v. *Walling,* 161 F. 2d 515 (C.A. 1); *Bowie* v. *Gonzalez,* 117 F. 2d 11 (C.A. 1).
 
-8 Footnote references to some of the relevant court decisions are made for the assistance of readers who may be interested in such decisions.
+8 Footnote references to some of the relevant court decisions are made for the assistance of readers who may be interested in such decisions. 
 
 Footnote reference to the legislative history of the 1949 amendments are made at points in this part where it is believed they may be helpful. References to the *Statement of the Managers on the part of the House,* appended to the Conference Report on the amendments (H. Rept. No. 1453, 81st Cong., 1st sess.) are abbreviated: H. Mgrs. St. 1949, p. \_\_. References to the *Statement of a majority of the Senate Conferees,* 95 Cong. Rec., October 19, 1949 at 15372-15377 are abbreviated: Sen. St., 1949 Cong. Rec. References to the Congressional Record are to the 1949 daily issues, the permanent volumes being unavailable at the time this part was prepared.

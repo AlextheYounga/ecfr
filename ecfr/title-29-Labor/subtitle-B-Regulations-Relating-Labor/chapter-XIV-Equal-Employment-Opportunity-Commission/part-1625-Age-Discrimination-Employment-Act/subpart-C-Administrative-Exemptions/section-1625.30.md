@@ -1,6 +1,6 @@
 ##### § 1625.30 Administrative exemptions; procedures.
 
-(a) Section 9 of the Act provides that,
+(a) Section 9 of the Act provides that, 
 
 In accordance with the provisions of subchapter II of chapter 5, of title 5, United States Code, the Secretary of Labor \* \* \* may establish such reasonable exemptions to and from any or all provisions of this Act as he may find necessary and proper in the public interest.
 

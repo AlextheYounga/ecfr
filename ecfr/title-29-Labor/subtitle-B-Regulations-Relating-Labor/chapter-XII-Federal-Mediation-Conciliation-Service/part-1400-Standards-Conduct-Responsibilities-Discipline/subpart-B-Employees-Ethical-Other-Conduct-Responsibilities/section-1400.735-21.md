@@ -1,42 +1,42 @@
 ##### § 1400.735-21 Miscellaneous statutory provisions.
 
-Each employee shall acquaint himself with the statutes that relate to his ethical and other conduct as an employee of the Federal Mediation and Conciliation Service and of the Government. The attention of all employees is directed to the following statutory provisions and to the accompanying chart of penalties and statutory references:
+Each employee shall acquaint himself with the statutes that relate to his ethical and other conduct as an employee of the Federal Mediation and Conciliation Service and of the Government. The attention of all employees is directed to the following statutory provisions and to the accompanying chart of penalties and statutory references: 
 
-(a) House Concurrent Resolution 175, 85th Congress, 2d session, 72 Stat. B12, the “Code of Ethics for Government Service.”
+(a) House Concurrent Resolution 175, 85th Congress, 2d session, 72 Stat. B12, the “Code of Ethics for Government Service.” 
 
-(b) Chapter 11 of title 18, United States Code, relating to bribery, graft, and conflicts of interest, as appropriate to the employees concerned.
+(b) Chapter 11 of title 18, United States Code, relating to bribery, graft, and conflicts of interest, as appropriate to the employees concerned. 
 
-(c) The prohibition against lobbying with appropriated funds (18 U.S.C. 1913).
+(c) The prohibition against lobbying with appropriated funds (18 U.S.C. 1913). 
 
-(d) The prohibitions against disloyalty and striking (5 U.S.C. 7311, 18 U.S.C. 1918).
+(d) The prohibitions against disloyalty and striking (5 U.S.C. 7311, 18 U.S.C. 1918). 
 
-(e) The prohibition against the employment of a member of a Communist organization (50 U.S.C. 784).
+(e) The prohibition against the employment of a member of a Communist organization (50 U.S.C. 784). 
 
-(f) The prohibitions against (1) the disclosure of classified information (18 U.S.C. 798, 50 U.S.C. 783); and (2) the disclosure of confidential information (18 U.S.C. 1905).
+(f) The prohibitions against (1) the disclosure of classified information (18 U.S.C. 798, 50 U.S.C. 783); and (2) the disclosure of confidential information (18 U.S.C. 1905). 
 
-(g) The provisions relating to the habitual use of intoxicants to excess (5 U.S.C. 7352).
+(g) The provisions relating to the habitual use of intoxicants to excess (5 U.S.C. 7352). 
 
-(h) The prohibition against the misuse of a Government vehicle (31 U.S.C. 638a (c)).
+(h) The prohibition against the misuse of a Government vehicle (31 U.S.C. 638a (c)). 
 
-(i) The prohibition against the misuse of the franking privilege (18 U.S.C. 1719).
+(i) The prohibition against the misuse of the franking privilege (18 U.S.C. 1719). 
 
-(j) The prohibition against the use of deceit in an examination of personnel action in connection with Government employment (18 U.S.C. 1917).
+(j) The prohibition against the use of deceit in an examination of personnel action in connection with Government employment (18 U.S.C. 1917). 
 
-(k) The prohibition against fraud or false statements in a Government matter (18 U.S.C. 1001).
+(k) The prohibition against fraud or false statements in a Government matter (18 U.S.C. 1001). 
 
-(l) The prohibition against mutilating or destroying a public record (18 U.S.C. 2071).
+(l) The prohibition against mutilating or destroying a public record (18 U.S.C. 2071). 
 
-(m) The prohibition against counterfeiting and forging transportation requests (18 U.S.C. 508).
+(m) The prohibition against counterfeiting and forging transportation requests (18 U.S.C. 508). 
 
-(n) The prohibitions against (1) embezzlement of Government money or property (18 U.S.C. 641); (2) failing to account for public money (18 U.S.C. 643); and (3) embezzlement of the money or property of another person in the possession of an employee by reason of his employment (18 U.S.C. 654).
+(n) The prohibitions against (1) embezzlement of Government money or property (18 U.S.C. 641); (2) failing to account for public money (18 U.S.C. 643); and (3) embezzlement of the money or property of another person in the possession of an employee by reason of his employment (18 U.S.C. 654). 
 
-(o) The prohibition against unauthorized use of documents relating to claims from or by the Government (18 U.S.C. 285).
+(o) The prohibition against unauthorized use of documents relating to claims from or by the Government (18 U.S.C. 285). 
 
-(p) The prohibitions against political activities in subchapter III of chapter 73 of title 5, United States Code and 18 U.S.C. 602, 603, 607, and 608.
+(p) The prohibitions against political activities in subchapter III of chapter 73 of title 5, United States Code and 18 U.S.C. 602, 603, 607, and 608. 
 
-(q) The prohibition against an employee acting as the agent of a foreign principal registered under the Foreign Agents Registration Act (18 U.S.C. 219).
+(q) The prohibition against an employee acting as the agent of a foreign principal registered under the Foreign Agents Registration Act (18 U.S.C. 219). 
 
-(r) Penalties: The following table, copied from the Federal Personnel Manual, lists maximum penalties for some of the more serious offenses.
+(r) Penalties: The following table, copied from the Federal Personnel Manual, lists maximum penalties for some of the more serious offenses. 
 
 | Prohibition                                                                                       | Statute and United States Code | Maximum penalty                                                                                                            |
 | ------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |

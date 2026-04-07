@@ -1,10 +1,10 @@
 ##### § 1601.74 Designated and notice agencies.
 
-The Commission has made the following designations 2:
+The Commission has made the following designations 2: 
 
 2 State and local laws may change and that can affect the timeliness of a claim. It is advisable for individuals to contact the FEP agency to confirm coverage, or otherwise determine that the above designation reflects the current status of the agency under state and local law.
 
-(a) The designated FEP agencies are:
+(a) The designated FEP agencies are: 
 
 Alaska Commission for Human Rights Alexandria (VA) Human Rights Office Allentown (PA) Human Relations Commission Anchorage (AK) Equal Rights Commission Anderson (IN) Human Relations Commission Arizona Civil Rights Division Arlington County (VA) Human Rights Commission 3
 
@@ -52,6 +52,6 @@ Seattle (WA) Human Rights Commission Sioux Falls (SD) Human Relations Commission
 
 Wyoming Fair Employment Practices Commission York (PA) Human Relations Commission Youngstown (OH) Human Relations Commission
 
-(b) The designated Notice Agencies are:
+(b) The designated Notice Agencies are: 
 
 Arkansas Governor's Committee on Human Resources Ohio Director of Industrial Relations Raleigh (NC) Human Resources Department, Civil Rights Unit(Sec. 713(a) 78 Stat. 265 (42 U.S.C. 2000e—12(a))) \[46 FR 33030, June 26, 1981. Redesignated at 56 FR 9625, Mar. 7, 1991\] Editorial Note:For Federal Register citations affecting § 1601.74, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

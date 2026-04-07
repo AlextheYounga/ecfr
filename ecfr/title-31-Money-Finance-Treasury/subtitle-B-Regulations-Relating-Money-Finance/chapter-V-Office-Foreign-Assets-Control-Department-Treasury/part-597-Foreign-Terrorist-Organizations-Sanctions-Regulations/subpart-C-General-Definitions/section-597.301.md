@@ -1,12 +1,12 @@
 ##### § 597.301 Agent.
 
-(a) The term *agent* means: 
+(a) The term *agent* means:
 
-(1) Any person owned or controlled by a foreign terrorist organization; or 
+(1) Any person owned or controlled by a foreign terrorist organization; or
 
-(2) Any person to the extent that such person is, or has been, or to the extent that there is reasonable cause to believe that such person is, or has been, since the effective date, acting or purporting to act directly or indirectly on behalf of a foreign terrorist organization. 
+(2) Any person to the extent that such person is, or has been, or to the extent that there is reasonable cause to believe that such person is, or has been, since the effective date, acting or purporting to act directly or indirectly on behalf of a foreign terrorist organization.
 
-(b) The term *agent* includes, but is not limited to, any person determined by the Director of the Office of Foreign Assets Control to be an agent as defined in paragraph (a) of this section. 
+(b) The term *agent* includes, but is not limited to, any person determined by the Director of the Office of Foreign Assets Control to be an agent as defined in paragraph (a) of this section.
 
 Note to § 597.301:
 

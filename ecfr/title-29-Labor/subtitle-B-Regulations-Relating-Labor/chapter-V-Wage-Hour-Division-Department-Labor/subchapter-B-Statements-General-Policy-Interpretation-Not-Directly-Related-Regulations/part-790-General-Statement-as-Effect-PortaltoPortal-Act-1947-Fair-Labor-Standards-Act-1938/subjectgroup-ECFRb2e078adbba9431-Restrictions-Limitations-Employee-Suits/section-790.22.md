@@ -8,7 +8,7 @@
 
 138 See Conference Report, p. 17; remarks of Representative Walter, 93 Cong. Rec. 1496-1497; President's message of May 14, 1947, to the Congress on approval of the Portal Act, 93 Cong. Rec. 5281.
 
-(c) What constitutes good faith on the part of an employer and whether he had reasonable grounds for believing that his act or omission was not a violation of the Fair Labor Standards Act are mixed questions of fact and law, which should be determined by objective tests. 139 Where an employer makes the required showing, it is for the court to determine in its sound discretion what would be just according to the law on the facts shown.
+(c) What constitutes good faith on the part of an employer and whether he had reasonable grounds for believing that his act or omission was not a violation of the Fair Labor Standards Act are mixed questions of fact and law, which should be determined by objective tests. 139 Where an employer makes the required showing, it is for the court to determine in its sound discretion what would be just according to the law on the facts shown. 
 
 139 Cf. §§ 790.13 to 790.16.
 

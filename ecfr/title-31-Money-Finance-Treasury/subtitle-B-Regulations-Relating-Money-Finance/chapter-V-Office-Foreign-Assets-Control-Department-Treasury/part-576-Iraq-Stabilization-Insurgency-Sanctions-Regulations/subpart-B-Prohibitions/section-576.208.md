@@ -1,6 +1,6 @@
 ##### § 576.208 Prohibited transactions related to certain Iraqi cultural property.
 
-Unless licensed or otherwise authorized pursuant to this part or otherwise consistent with U.S. law, the trade in or transfer of ownership or possession of Iraqi cultural property or other items of archeological, historical, cultural, rare scientific, and religious importance that were illegally removed, or for which a reasonable suspicion exists that they were illegally removed, from the Iraq National Museum, the National Library, and other locations in Iraq since August 6, 1990, is prohibited. 
+Unless licensed or otherwise authorized pursuant to this part or otherwise consistent with U.S. law, the trade in or transfer of ownership or possession of Iraqi cultural property or other items of archeological, historical, cultural, rare scientific, and religious importance that were illegally removed, or for which a reasonable suspicion exists that they were illegally removed, from the Iraq National Museum, the National Library, and other locations in Iraq since August 6, 1990, is prohibited.
 
 Note to § 576.208:
 

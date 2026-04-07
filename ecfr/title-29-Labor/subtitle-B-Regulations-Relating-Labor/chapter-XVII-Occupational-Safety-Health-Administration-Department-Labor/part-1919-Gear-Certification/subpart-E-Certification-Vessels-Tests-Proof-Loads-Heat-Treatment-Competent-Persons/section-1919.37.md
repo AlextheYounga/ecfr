@@ -1,6 +1,6 @@
 ##### § 1919.37 Competent persons.
 
-All gear certification functions shall be performed by competent persons as set forth in the following table:
+All gear certification functions shall be performed by competent persons as set forth in the following table: 
 
 | Functions                                                                                                              | Competent person                                                                                                                                                                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

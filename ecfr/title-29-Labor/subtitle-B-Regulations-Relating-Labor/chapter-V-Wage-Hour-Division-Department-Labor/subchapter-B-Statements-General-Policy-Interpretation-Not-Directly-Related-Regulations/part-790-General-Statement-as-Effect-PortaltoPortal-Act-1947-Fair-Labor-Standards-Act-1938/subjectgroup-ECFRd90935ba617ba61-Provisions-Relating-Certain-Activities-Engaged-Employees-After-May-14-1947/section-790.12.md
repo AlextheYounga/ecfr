@@ -8,6 +8,6 @@ A “preliminary” or “postliminary” activity of the kind referred to in se
 
 86 Conference Report, pp. 12, 13.
 
-87 See Conference Report, p. 13; §§ 790.4(c) and 790.5(b).
+87 See Conference Report, p. 13; §§ 790.4(c) and 790.5(b). 
 
 The scope of section 4(c) is narrower in this respect than that of section 2(b), which is couched in identical language. Cf. Conference Report, pp. 9, 10; pp. 12, 13. See also § 790.23.

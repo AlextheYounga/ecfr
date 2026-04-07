@@ -1,6 +1,6 @@
 ##### § 1960.68 Prohibition against discrimination.
 
-Section 1904.36 of this chapter refers to Section 11(c) of the Occupational Safety and Health Act. For Federal agencies, the words “Section 11(c)” shall be read as “Executive Order 12196 Section 1-201(f).”
+Section 1904.36 of this chapter refers to Section 11(c) of the Occupational Safety and Health Act. For Federal agencies, the words “Section 11(c)” shall be read as “Executive Order 12196 Section 1-201(f).” 
 
 Note to § 1960.68:
 

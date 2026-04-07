@@ -1,5 +1,5 @@
 ##### § 4002.6 Conflict of interest.
 
-(a) *Board Members and Director.* The Board Members and the Director must work with their respective ethics office to identify actual or potential conflicts of interest under 18 U.S.C. 208 or section 4002(j) of ERISA or the appearance of the loss of impartiality under 5 CFR 2635.502.
+(a) *Board Members and Director.* The Board Members and the Director must work with their respective ethics office to identify actual or potential conflicts of interest under 18 U.S.C. 208 or section 4002(j) of ERISA or the appearance of the loss of impartiality under 5 CFR 2635.502. 
 
 (b) *Disqualification.* A Board Member and the Director must notify the Board Members of disqualification in any decision or activity based on a conflict of interest under paragraph (a) of this section. To the extent a matter is delegable under these bylaws, the disqualified Board Member's Board Representative, acting independently of that Member, may vote on the matter in the Member's place. The disqualified Board Member may not ratify any action taken on the matter giving rise to his or her disqualification.

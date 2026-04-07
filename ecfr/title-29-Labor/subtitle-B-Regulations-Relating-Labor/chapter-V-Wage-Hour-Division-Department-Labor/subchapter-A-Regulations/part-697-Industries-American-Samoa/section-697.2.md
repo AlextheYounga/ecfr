@@ -1,6 +1,6 @@
 ##### § 697.2 Industry wage rates and effective dates.
 
-Every employer shall pay to each employee in American Samoa, who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in any enterprise engaged in commerce or in the production of goods for commerce, as these terms are defined in section 3 of the Fair Labor Standards Act of 1938, wages at a rate not less than the minimum rate prescribed in this section for the industries and classifications in which such employee is engaged.
+Every employer shall pay to each employee in American Samoa, who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in any enterprise engaged in commerce or in the production of goods for commerce, as these terms are defined in section 3 of the Fair Labor Standards Act of 1938, wages at a rate not less than the minimum rate prescribed in this section for the industries and classifications in which such employee is engaged. 
 
 | Industry                                           | Minimum wage |
 | -------------------------------------------------- | ------------ |

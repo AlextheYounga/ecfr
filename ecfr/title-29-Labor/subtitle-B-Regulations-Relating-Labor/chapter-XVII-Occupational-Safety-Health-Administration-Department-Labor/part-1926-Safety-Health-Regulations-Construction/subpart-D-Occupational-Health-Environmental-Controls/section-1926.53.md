@@ -1,10 +1,10 @@
 ##### § 1926.53 Ionizing radiation.
 
-(a) In construction and related activities involving the use of sources of ionizing radiation, the pertinent provisions of the Nuclear Regulatory Commission's Standards for Protection Against Radiation (10 CFR part 20), relating to protection against occupational radiation exposure, shall apply.
+(a) In construction and related activities involving the use of sources of ionizing radiation, the pertinent provisions of the Nuclear Regulatory Commission's Standards for Protection Against Radiation (10 CFR part 20), relating to protection against occupational radiation exposure, shall apply. 
 
-(b) Any activity which involves the use of radioactive materials or X-rays, whether or not under license from the Nuclear Regulatory Commission, shall be performed by competent persons specially trained in the proper and safe operation of such equipment. In the case of materials used under Commission license, only persons actually licensed, or competent persons under direction and supervision of the licensee, shall perform such work.
+(b) Any activity which involves the use of radioactive materials or X-rays, whether or not under license from the Nuclear Regulatory Commission, shall be performed by competent persons specially trained in the proper and safe operation of such equipment. In the case of materials used under Commission license, only persons actually licensed, or competent persons under direction and supervision of the licensee, shall perform such work. 
 
-(c)-(r) \[Reserved\]
+(c)-(r) \[Reserved\] 
 
 Note:
 

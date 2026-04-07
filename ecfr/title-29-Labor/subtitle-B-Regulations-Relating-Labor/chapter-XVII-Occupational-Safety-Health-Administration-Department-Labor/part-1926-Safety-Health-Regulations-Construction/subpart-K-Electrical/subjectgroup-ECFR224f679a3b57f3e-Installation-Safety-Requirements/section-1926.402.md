@@ -1,6 +1,6 @@
 ##### § 1926.402 Applicability.
 
-(a) *Covered.* Sections 1926.402 through 1926.408 contain installation safety requirements for electrical equipment and installations used to provide electric power and light at the jobsite. These sections apply to installations, both temporary and permanent, used on the jobsite; but these sections do not apply to existing permanent installations that were in place before the construction activity commenced.
+(a) *Covered.* Sections 1926.402 through 1926.408 contain installation safety requirements for electrical equipment and installations used to provide electric power and light at the jobsite. These sections apply to installations, both temporary and permanent, used on the jobsite; but these sections do not apply to existing permanent installations that were in place before the construction activity commenced. 
 
 Note:
 

@@ -1,6 +1,6 @@
 ##### § 453.4 Trusts (in which a labor organization is interested) within the coverage of section 502(a).
 
-Section 3(l) of the Act defines a *trust in which a labor organization is interested* as:
+Section 3(l) of the Act defines a *trust in which a labor organization is interested* as: 
 
 \* \* \* a trust or other fund or organization (1) which was created or established by a labor organization, or one or more of the trustees or one or more members of the governing body of which is selected or appointed by a labor organization, and (2) a primary purpose of which is to provide benefits for the members of such labor organization or their beneficiaries.
 

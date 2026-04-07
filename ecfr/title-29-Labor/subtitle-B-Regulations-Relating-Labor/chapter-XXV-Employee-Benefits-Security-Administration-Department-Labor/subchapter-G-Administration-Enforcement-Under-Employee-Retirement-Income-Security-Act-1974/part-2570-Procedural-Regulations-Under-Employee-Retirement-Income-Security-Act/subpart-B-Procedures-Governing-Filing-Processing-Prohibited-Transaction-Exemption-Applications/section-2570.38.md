@@ -1,6 +1,6 @@
 ##### § 2570.38 Tentative denial letters.
 
-(a) If, after reviewing an exemption file, the Department tentatively concludes that it will not propose or grant the exemption, it will notify the applicant in writing. At the same time the Department provides the notification, the Department will also provide a brief statement of the reasons for its tentative denial.
+(a) If, after reviewing an exemption file, the Department tentatively concludes that it will not propose or grant the exemption, it will notify the applicant in writing. At the same time the Department provides the notification, the Department will also provide a brief statement of the reasons for its tentative denial. 
 
 Note 1 to paragraph (a):
 

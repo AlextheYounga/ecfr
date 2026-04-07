@@ -1,8 +1,8 @@
 ##### § 1919.73 Unit proof test and examination of derricks.
 
-(a) Unit proof tests of derricks shall be carried out at the same times as are specified in § 1919.71(a) for cranes.
+(a) Unit proof tests of derricks shall be carried out at the same times as are specified in § 1919.71(a) for cranes. 
 
-(b) Unit proof load tests and safe working load ratings shall be based on the design load ratings at the ranges of boom angles or operating radii. Unit proof loads shall exceed the safe working load as follows:
+(b) Unit proof load tests and safe working load ratings shall be based on the design load ratings at the ranges of boom angles or operating radii. Unit proof loads shall exceed the safe working load as follows: 
 
 | Safe working load | Proof Load            |
 | ----------------- | --------------------- |

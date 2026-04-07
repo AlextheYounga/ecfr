@@ -1,6 +1,6 @@
 ##### § 591.509 Official business of the United States Government.
 
-All transactions that are for the conduct of the official business of the United States Government by employees, grantees, or contractors thereof are authorized. 
+All transactions that are for the conduct of the official business of the United States Government by employees, grantees, or contractors thereof are authorized.
 
 Note 1 to § 591.509:
 

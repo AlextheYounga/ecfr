@@ -1,6 +1,6 @@
 ##### § 500.6 Accuracy of information, statements and data.
 
-Information, statements and data submitted in compliance with provisions of the Act or these regulations are subject to title 18, section 1001, of the United States Code, which provides:
+Information, statements and data submitted in compliance with provisions of the Act or these regulations are subject to title 18, section 1001, of the United States Code, which provides: 
 
 Section 1001. Statements or entries generally.
 

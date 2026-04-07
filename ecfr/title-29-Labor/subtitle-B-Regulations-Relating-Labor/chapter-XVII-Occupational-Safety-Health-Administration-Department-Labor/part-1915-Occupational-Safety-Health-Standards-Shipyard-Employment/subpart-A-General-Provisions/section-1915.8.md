@@ -1,6 +1,6 @@
 ##### § 1915.8 OMB control numbers under the Paperwork Reduction Act.
 
-The following sections or paragraphs contain a collection of information requirement which has been approved by the Office of Management and Budget under the control number listed.
+The following sections or paragraphs contain a collection of information requirement which has been approved by the Office of Management and Budget under the control number listed. 
 
 | 29 CFR citation | OMB control No. |
 | --------------- | --------------- |

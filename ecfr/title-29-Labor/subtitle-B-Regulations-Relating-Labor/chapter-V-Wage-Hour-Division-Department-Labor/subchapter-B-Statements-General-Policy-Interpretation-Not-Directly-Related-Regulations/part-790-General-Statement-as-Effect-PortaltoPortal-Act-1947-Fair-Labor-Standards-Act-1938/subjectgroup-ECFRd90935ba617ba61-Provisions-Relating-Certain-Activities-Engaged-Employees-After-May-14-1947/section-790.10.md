@@ -6,7 +6,7 @@
 
 75 See §§ 790.5 and 790.7.
 
-76 See Senate Report, p. 49.
+76 See Senate Report, p. 49. 
 
 The same is true with respect to the activities referred to in section 2 of the Portal Act in an action or proceeding relating to activities performed before May 14, 1947. See Senate Report, p. 45. See also § 790.23.
 

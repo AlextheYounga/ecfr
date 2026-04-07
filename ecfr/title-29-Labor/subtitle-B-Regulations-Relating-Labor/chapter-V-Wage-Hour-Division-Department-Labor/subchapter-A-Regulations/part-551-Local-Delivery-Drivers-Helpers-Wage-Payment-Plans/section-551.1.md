@@ -1,6 +1,6 @@
 ##### § 551.1 Statutory provision.
 
-The following provision for exemption from the overtime pay provision is contained in section 13(b) of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 213(b)):
+The following provision for exemption from the overtime pay provision is contained in section 13(b) of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 213(b)): 
 
 (b) The provisions of section 7 shall not apply with respect to:
 

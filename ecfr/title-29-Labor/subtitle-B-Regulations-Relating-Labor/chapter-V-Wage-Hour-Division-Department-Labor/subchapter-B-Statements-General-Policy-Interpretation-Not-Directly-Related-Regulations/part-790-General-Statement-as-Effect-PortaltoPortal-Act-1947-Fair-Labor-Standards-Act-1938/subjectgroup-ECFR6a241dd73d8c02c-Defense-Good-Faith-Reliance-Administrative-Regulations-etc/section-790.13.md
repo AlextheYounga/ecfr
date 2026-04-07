@@ -12,7 +12,7 @@
 
 92 See § 790.15.
 
-93 Conference Report, pp. 15, 16; statements of Representatives Gwynne and Walter, explaining the conference agreement to the House of Representatives, 93 Cong. Rec. 4388, 4389; statements of Senators Cooper and Donnell, 93 Cong. Rec. 4372, 4451, 4452. See also the President's message of May 14, 1947, to the Congress on approval of the Act (93 Cong. Rec. 5281).
+93 Conference Report, pp. 15, 16; statements of Representatives Gwynne and Walter, explaining the conference agreement to the House of Representatives, 93 Cong. Rec. 4388, 4389; statements of Senators Cooper and Donnell, 93 Cong. Rec. 4372, 4451, 4452. See also the President's message of May 14, 1947, to the Congress on approval of the Act (93 Cong. Rec. 5281). 
 
 The requirements of the statute as to pleading and proof emphasize the continuing recognition by Congress of the remedial nature of the Fair Labor Standards Act and of the need for safeguarding the protection which Congress intended it to afford employees. See § 790.2; of. statements of Senator Wiley, 93 Cong. Rec. 4270; Senator Donnell, 93 Cong. Rec. 4452, and Representative Walter, 93 Cong. Rec. 4388, 4389.
 

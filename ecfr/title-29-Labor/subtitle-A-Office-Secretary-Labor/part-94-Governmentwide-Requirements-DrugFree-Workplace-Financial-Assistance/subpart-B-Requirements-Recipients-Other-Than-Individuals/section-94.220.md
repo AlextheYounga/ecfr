@@ -1,6 +1,6 @@
 ##### § 94.220 By when must I publish my drug-free workplace statement and establish my drug-free awareness program?
 
-If you are a new recipient that does not already have a policy statement as described in § 94.205 and an ongoing awareness program as described in § 94.215, you must publish the statement and establish the program by the time given in the following table:
+If you are a new recipient that does not already have a policy statement as described in § 94.205 and an ongoing awareness program as described in § 94.215, you must publish the statement and establish the program by the time given in the following table: 
 
 | If . . .                                                                                                                                                              | then you . . .                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

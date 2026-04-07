@@ -1,6 +1,6 @@
 ##### § 776.15 “Production.”
 
-(a) *The statutory provisions.* The activities constituting “production” within the meaning of the phrase “engaged in \* \* \* production of goods for commerce” are defined in the Act 52 as follows:
+(a) *The statutory provisions.* The activities constituting “production” within the meaning of the phrase “engaged in \* \* \* production of goods for commerce” are defined in the Act 52 as follows: 
 
 52 Act, section 3(j). This definition is also applicable in determining coverage of the child labor provisions of the Act. See part 4 of this title.
 

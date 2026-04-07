@@ -1,10 +1,10 @@
 ##### § 794.114 The enterprise must be “independently owned and controlled.”
 
-Another requirement for exemption under section 7(b)(3) is that the enterprise must be “independently owned and controlled”. Since this requirement is in the conjunctive, it must be established that the enterprise which is engaged in the wholesale or bulk distribution of petroleum products is both independently owned and independently controlled. (*Wirtz* v. *Lunsford,* 404 F. 2d 693 (C.A. 6).) At the hearing before the Senate Labor Subcommittee, when the amendment was proposed which eventually was incorporated in the Act as section 13(b)(10) by the 1961 amendments (later repealed by the 1966 amendments to the Act and replaced by section 7(b)(3)), a spokesman for proponents of the amendment made the following statement, which bears on this requirement for exemption:
+Another requirement for exemption under section 7(b)(3) is that the enterprise must be “independently owned and controlled”. Since this requirement is in the conjunctive, it must be established that the enterprise which is engaged in the wholesale or bulk distribution of petroleum products is both independently owned and independently controlled. (*Wirtz* v. *Lunsford,* 404 F. 2d 693 (C.A. 6).) At the hearing before the Senate Labor Subcommittee, when the amendment was proposed which eventually was incorporated in the Act as section 13(b)(10) by the 1961 amendments (later repealed by the 1966 amendments to the Act and replaced by section 7(b)(3)), a spokesman for proponents of the amendment made the following statement, which bears on this requirement for exemption: 
 
-The designation “independent” as applied to an oil jobber means that he owns his own office, bulk storage, and delivery facilities; pays his own personnel, and in all respects conducts his business as any other independent businessman.
+The designation “independent” as applied to an oil jobber means that he owns his own office, bulk storage, and delivery facilities; pays his own personnel, and in all respects conducts his business as any other independent businessman. 
 
-It also means that the jobber is not a subsidiary of nor controlled by any so-called major oil company, although the jobber may sell the branded products of such a company.
+It also means that the jobber is not a subsidiary of nor controlled by any so-called major oil company, although the jobber may sell the branded products of such a company. 
 
 Some jobbers own service stations which they lease to independent dealers and a small percentage of jobbers may operate one or more service stations with their own salaried personnel. (Senate Hearings on the Amendments to the Fair Labor Standards Act, 87th Cong., first session, p. 411.)
 

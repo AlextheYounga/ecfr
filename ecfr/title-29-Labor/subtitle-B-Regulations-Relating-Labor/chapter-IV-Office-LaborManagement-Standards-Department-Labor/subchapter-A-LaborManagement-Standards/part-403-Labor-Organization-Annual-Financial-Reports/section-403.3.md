@@ -1,6 +1,6 @@
 ##### § 403.3 Form of annual financial report—detailed report.
 
-Every labor organization shall, except as expressly provided otherwise in this part, file an annual financial report as required by § 403.2, prepared on United States Department of Labor Form LM-2, “Labor Organization Annual Report,” in the detail required by the instructions accompanying the form and constituting a part thereof.
+Every labor organization shall, except as expressly provided otherwise in this part, file an annual financial report as required by § 403.2, prepared on United States Department of Labor Form LM-2, “Labor Organization Annual Report,” in the detail required by the instructions accompanying the form and constituting a part thereof. 
 
 Note:
 

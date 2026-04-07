@@ -1,18 +1,18 @@
 ##### § 542.523 Certain services to the National Coalition of Syrian Revolutionary and Opposition Forces authorized.
 
-(a) Except as provided in paragraphs (b) and (c) of this section, U.S. persons are authorized to export, reexport, sell, or supply, directly or indirectly, to the National Coalition of Syrian Revolutionary and Opposition Forces (“the Coalition”) services otherwise prohibited by § 542.207. 
+(a) Except as provided in paragraphs (b) and (c) of this section, U.S. persons are authorized to export, reexport, sell, or supply, directly or indirectly, to the National Coalition of Syrian Revolutionary and Opposition Forces (“the Coalition”) services otherwise prohibited by § 542.207.
 
 Note to paragraph (a):
 
 *See* § 542.510 for a general license authorizing the exportation and reexportation of certain items and services to Syria.
 
-(b) This section does not authorize: 
+(b) This section does not authorize:
 
-(1) Any transaction with a person whose property and interests in property are blocked pursuant to § 542.201; or 
+(1) Any transaction with a person whose property and interests in property are blocked pursuant to § 542.201; or
 
-(2) The exportation, reexportation, sale, or supply, directly or indirectly, of any services in support of the exportation or reexportation to Syria of any item listed on the United States Munitions List (22 CFR part 121). 
+(2) The exportation, reexportation, sale, or supply, directly or indirectly, of any services in support of the exportation or reexportation to Syria of any item listed on the United States Munitions List (22 CFR part 121).
 
-(c) Any transfer of funds to or from the Coalition under this section must be conducted through the Coalition's U.S. office through an account of the Coalition at a U.S. financial institution specifically licensed for that purpose by OFAC. 
+(c) Any transfer of funds to or from the Coalition under this section must be conducted through the Coalition's U.S. office through an account of the Coalition at a U.S. financial institution specifically licensed for that purpose by OFAC.
 
 Note to paragraph (c):
 

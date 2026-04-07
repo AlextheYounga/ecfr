@@ -1,6 +1,6 @@
 ##### § 1917.4 OMB control numbers under the Paperwork Reduction Act.
 
-The following list identifies the 29 CFR citations for sections or paragraphs in this part that contain a collection of information requirement approved by the Office of Management and Budget (OMB). The list also provides the control number assigned by OMB to each approved requirement; control number 1218-0196 expires on May 31, 2002 and control number 1218-0003 expires on July 31, 2001. The list follows:
+The following list identifies the 29 CFR citations for sections or paragraphs in this part that contain a collection of information requirement approved by the Office of Management and Budget (OMB). The list also provides the control number assigned by OMB to each approved requirement; control number 1218-0196 expires on May 31, 2002 and control number 1218-0003 expires on July 31, 2001. The list follows: 
 
 | 29 CFR citation       | OMB control number. |
 | --------------------- | ------------------- |

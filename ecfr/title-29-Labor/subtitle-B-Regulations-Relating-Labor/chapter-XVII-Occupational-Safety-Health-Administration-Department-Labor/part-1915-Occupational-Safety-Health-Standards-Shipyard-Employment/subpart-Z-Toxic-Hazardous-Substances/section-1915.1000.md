@@ -1,34 +1,34 @@
 ##### § 1915.1000 Air contaminants.
 
-Wherever this section applies, an employee's exposure to any substance listed in Table Z—Shipyards of this section shall be limited in accordance with the requirements of the following paragraphs of this section.
+Wherever this section applies, an employee's exposure to any substance listed in Table Z—Shipyards of this section shall be limited in accordance with the requirements of the following paragraphs of this section. 
 
-(a)(1) *Substances with limits preceded by “C”—Ceiling values.* An employee's exposure to any substance in Table Z—Shipyards, the exposure limit of which is preceded by a “C,” shall at no time exceed the exposure limit given for that substance. If instantaneous monitoring is not feasible, then the ceiling shall be assessed as a 15-minute time weighted average exposure which shall not be exceeded at any time over a working day.
+(a)(1) *Substances with limits preceded by “C”—Ceiling values.* An employee's exposure to any substance in Table Z—Shipyards, the exposure limit of which is preceded by a “C,” shall at no time exceed the exposure limit given for that substance. If instantaneous monitoring is not feasible, then the ceiling shall be assessed as a 15-minute time weighted average exposure which shall not be exceeded at any time over a working day. 
 
-(2) *Other Substances—8-hour Time Weighted Averages.* An employee's exposure to any substance in Table Z—Shipyards, the exposure limit of which is not preceded by a “C,” shall not exceed the 8-hour Time Weighted Average given for that substance in any 8-hour work shift of a 40-hour work week.
+(2) *Other Substances—8-hour Time Weighted Averages.* An employee's exposure to any substance in Table Z—Shipyards, the exposure limit of which is not preceded by a “C,” shall not exceed the 8-hour Time Weighted Average given for that substance in any 8-hour work shift of a 40-hour work week. 
 
-(b)-(c) \[Reserved\]
+(b)-(c) \[Reserved\] 
 
-(d) *Computation formula.* The computation formula which shall apply to employee exposure to more than one substance for which 8-hour time weighted averages are listed in subpart Z of 29 CFR part 1915 in order to determine whether an employee is exposed over the regulatory limit is as follows:
+(d) *Computation formula.* The computation formula which shall apply to employee exposure to more than one substance for which 8-hour time weighted averages are listed in subpart Z of 29 CFR part 1915 in order to determine whether an employee is exposed over the regulatory limit is as follows: 
 
-(1)(i) The cumulative exposure for an 8-hour work shift shall be computed as follows:
+(1)(i) The cumulative exposure for an 8-hour work shift shall be computed as follows: 
 
 E = (Ca Ta + Cb Tb + ...Cn Tn) ÷ 8 Where: E is the equivalent exposure for the working shift. C is the concentration during any period of time T where the concentration remains constant. T is the duration in hours of the exposure at the concentration C. The value of E shall not exceed the 8-hour time weighted average specified in subpart Z of 29 CFR part 1915 for the material involved.
 
-(ii) To illustrate the formula prescribed in paragraph (d)(1)(i) of this section, assume that Substance A has an 8-hour time weighted average limit of 100 ppm noted in Table Z—Shipyards. Assume that an employee is subject to the following exposure:
+(ii) To illustrate the formula prescribed in paragraph (d)(1)(i) of this section, assume that Substance A has an 8-hour time weighted average limit of 100 ppm noted in Table Z—Shipyards. Assume that an employee is subject to the following exposure: 
 
 Two hours exposure at 150 ppm Two hours exposure at 75 ppm Four hours exposure at 50 ppm
 
-Substituting this information in the formula, we have
+Substituting this information in the formula, we have 
 
 (2 × 150 + 2 × 75 + 4 × 50) ÷ 8 = 81.25 ppm
 
-Since 81.25 ppm is less than 100 ppm, the 8-hour time weighted average limit, the exposure is acceptable.
+Since 81.25 ppm is less than 100 ppm, the 8-hour time weighted average limit, the exposure is acceptable. 
 
-(2)(i) in case of a mixture of air contaminants an employer shall compute the equivalent exposure as follows:
+(2)(i) in case of a mixture of air contaminants an employer shall compute the equivalent exposure as follows: 
 
 Em = (C1 ÷ L1 + C2 ÷ L2) + ...(Cn ÷ Ln) Where: Em is the equivalent exposure for the mixture. C is the concentration of a particular contaminant. L is the exposure limit for that substance specified in subpart Z of 29 CFR part 1915. The value of Em shall not exceed unity (1).
 
-(ii) To illustrate the formula prescribed in paragraph (d)(2)(i) of this section, consider the following exposures:
+(ii) To illustrate the formula prescribed in paragraph (d)(2)(i) of this section, consider the following exposures: 
 
 | Substance                              | Actual concentration of 8 hour exposure (ppm) | 8 hr. TWA PEL (ppm) |
 | -------------------------------------- | --------------------------------------------- | ------------------- |

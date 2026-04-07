@@ -1,6 +1,6 @@
 ##### § 1471.25 How is this part organized?
 
-(a) This part is subdivided into ten subparts. Each subpart contains information related to a broad topic or specific audience with special responsibilities, as shown in the following table:
+(a) This part is subdivided into ten subparts. Each subpart contains information related to a broad topic or specific audience with special responsibilities, as shown in the following table: 
 
 | In subpart . . . | You will find provisions related to . . .                                                                                            |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -15,7 +15,7 @@
 | I                | definitions of terms used in this part.                                                                                              |
 | J                | \[Reserved\]                                                                                                                         |
 
-(b) The following table shows which subparts may be of special interest to you, depending on who you are:
+(b) The following table shows which subparts may be of special interest to you, depending on who you are: 
 
 | If you are . . .                                                       | See subpart(s) . . .    |
 | ---------------------------------------------------------------------- | ----------------------- |

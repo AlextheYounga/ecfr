@@ -1,8 +1,8 @@
 ##### § 587.201 Prohibited transactions.
 
-(a) All transactions prohibited pursuant to Executive Order (E.O.) 14024 of April 15, 2021 are prohibited pursuant to this part. 
+(a) All transactions prohibited pursuant to Executive Order (E.O.) 14024 of April 15, 2021 are prohibited pursuant to this part.
 
-(b) All transactions prohibited pursuant to any further Executive orders issued pursuant to the national emergency declared in E.O. 14024 are prohibited pursuant to this part. 
+(b) All transactions prohibited pursuant to any further Executive orders issued pursuant to the national emergency declared in E.O. 14024 are prohibited pursuant to this part.
 
 Note 1 to § 587.201.
 

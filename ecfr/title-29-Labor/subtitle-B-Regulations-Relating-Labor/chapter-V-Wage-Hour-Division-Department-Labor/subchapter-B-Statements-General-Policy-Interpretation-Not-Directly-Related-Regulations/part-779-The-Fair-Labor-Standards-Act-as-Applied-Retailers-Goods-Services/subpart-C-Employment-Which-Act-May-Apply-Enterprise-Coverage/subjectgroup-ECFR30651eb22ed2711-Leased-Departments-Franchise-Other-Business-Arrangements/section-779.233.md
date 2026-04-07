@@ -1,8 +1,8 @@
 ##### § 779.233 Independent contractors performing work “for” an enterprise.
 
-(a) The definition in section 3(r) specifically provides that the “enterprise” shall not include “the related activities performed for such enterprise by an independent contractor.” This exclusion will apply where the related activities are performed “for” the enterprise and if such activities are performed by “an independent contractor.” This provision is discussed generally in part 776 of this chapter.
+(a) The definition in section 3(r) specifically provides that the “enterprise” shall not include “the related activities performed for such enterprise by an independent contractor.” This exclusion will apply where the related activities are performed “for” the enterprise and if such activities are performed by “an independent contractor.” This provision is discussed generally in part 776 of this chapter. 
 
-(b) The Senate Report in referring to this exception states as follows:
+(b) The Senate Report in referring to this exception states as follows: 
 
 It does not include the related activities performed for such an enterprise by an independent contractor, such as an independent accounting firm or sign service or advertising company, \* \* \* (S. Rept. No. 145, 87th Cong., 1st Sess., p. 40).
 

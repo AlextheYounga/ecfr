@@ -1,48 +1,48 @@
 ##### § 588.201 Prohibited transactions.
 
-(a) All property and interests in property that are in the United States, that come within the United States, or that are or come within the possession or control of any U.S. person of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in: 
+(a) All property and interests in property that are in the United States, that come within the United States, or that are or come within the possession or control of any U.S. person of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in:
 
-(1) *E.O. 13219 Annex.* The persons listed in the Annex to E.O. 13219 of June 26, 2001, as amended by E.O. 13304 of May 28, 2003; and 
+(1) *E.O. 13219 Annex.* The persons listed in the Annex to E.O. 13219 of June 26, 2001, as amended by E.O. 13304 of May 28, 2003; and
 
-(2) *E.O. 13219 as amended by E.O. 13304.* Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State: 
+(2) *E.O. 13219 as amended by E.O. 13304.* Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State:
 
-(i) To be under open indictment by the International Criminal Tribunal for the former Yugoslavia, unless circumstances warrant otherwise; 
+(i) To be under open indictment by the International Criminal Tribunal for the former Yugoslavia, unless circumstances warrant otherwise;
 
-(ii) To have committed, or to pose a significant risk of committing, acts of violence that have the purpose or effect of threatening the peace in or diminishing the stability or security of any area or state in the Western Balkans region, undermining the authority, efforts, or objectives of international organizations or entities present in the region, or endangering the safety of persons participating in or providing support to the activities of those international organizations or entities; 
+(ii) To have committed, or to pose a significant risk of committing, acts of violence that have the purpose or effect of threatening the peace in or diminishing the stability or security of any area or state in the Western Balkans region, undermining the authority, efforts, or objectives of international organizations or entities present in the region, or endangering the safety of persons participating in or providing support to the activities of those international organizations or entities;
 
-(iii) To have actively obstructed, or pose a significant risk of actively obstructing, the Ohrid Framework Agreement of 2001 relating to Macedonia, UNSCR 1244 relating to Kosovo, or the Dayton Accords or the Conclusions of the Peace Implementation Conference held in London on December 8-9, 1995, including the decisions or conclusions of the High Representative, the Peace Implementation Council or its Steering Board, relating to Bosnia and Herzegovina; 
+(iii) To have actively obstructed, or pose a significant risk of actively obstructing, the Ohrid Framework Agreement of 2001 relating to Macedonia, UNSCR 1244 relating to Kosovo, or the Dayton Accords or the Conclusions of the Peace Implementation Conference held in London on December 8-9, 1995, including the decisions or conclusions of the High Representative, the Peace Implementation Council or its Steering Board, relating to Bosnia and Herzegovina;
 
-(iv) To have materially assisted in, sponsored, or provided financial, material, or technological support for, or goods or services in support of, such acts of violence or obstructionism or any person listed in or designated pursuant to paragraph (a)(1) of this section or this paragraph (a)(2); or 
+(iv) To have materially assisted in, sponsored, or provided financial, material, or technological support for, or goods or services in support of, such acts of violence or obstructionism or any person listed in or designated pursuant to paragraph (a)(1) of this section or this paragraph (a)(2); or
 
-(v) To be owned or controlled by, or acting or purporting to act directly or indirectly for or on behalf of, any person listed in or designated pursuant to paragraph (a)(1) of this section or this paragraph (a)(2). 
+(v) To be owned or controlled by, or acting or purporting to act directly or indirectly for or on behalf of, any person listed in or designated pursuant to paragraph (a)(1) of this section or this paragraph (a)(2).
 
-(3) *E.O. 14033.* Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State: 
+(3) *E.O. 14033.* Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State:
 
-(i) To be responsible for or complicit in, or to have directly or indirectly engaged in, actions or policies that threaten the peace, security, stability, or territorial integrity of any area or state in the Western Balkans; 
+(i) To be responsible for or complicit in, or to have directly or indirectly engaged in, actions or policies that threaten the peace, security, stability, or territorial integrity of any area or state in the Western Balkans;
 
-(ii) To be responsible for or complicit in, or to have directly or indirectly engaged in, actions or policies that undermine democratic processes or institutions in the Western Balkans; 
+(ii) To be responsible for or complicit in, or to have directly or indirectly engaged in, actions or policies that undermine democratic processes or institutions in the Western Balkans;
 
-(iii) To be responsible for or complicit in, or to have directly or indirectly engaged in, a violation of, or an act that has obstructed or threatened the implementation of, any regional security, peace, cooperation, or mutual recognition agreement or framework or accountability mechanism related to the Western Balkans, including the Prespa Agreement of 2018; the Ohrid Framework Agreement of 2001; United Nations Security Council Resolution 1244; the Dayton Accords; or the Conclusions of the Peace Implementation Conference Council held in London in December 1995, including the decisions or conclusions of the High Representative, the Peace Implementation Council, or its Steering Board; or the International Criminal Tribunal for the former Yugoslavia, or, with respect to the former Yugoslavia, the International Residual Mechanism for Criminal Tribunals; 
+(iii) To be responsible for or complicit in, or to have directly or indirectly engaged in, a violation of, or an act that has obstructed or threatened the implementation of, any regional security, peace, cooperation, or mutual recognition agreement or framework or accountability mechanism related to the Western Balkans, including the Prespa Agreement of 2018; the Ohrid Framework Agreement of 2001; United Nations Security Council Resolution 1244; the Dayton Accords; or the Conclusions of the Peace Implementation Conference Council held in London in December 1995, including the decisions or conclusions of the High Representative, the Peace Implementation Council, or its Steering Board; or the International Criminal Tribunal for the former Yugoslavia, or, with respect to the former Yugoslavia, the International Residual Mechanism for Criminal Tribunals;
 
-(iv) To be responsible for or complicit in, or to have directly or indirectly engaged in, serious human rights abuse in the Western Balkans; 
+(iv) To be responsible for or complicit in, or to have directly or indirectly engaged in, serious human rights abuse in the Western Balkans;
 
-(v) To be responsible for or complicit in, or to have directly or indirectly engaged in, corruption related to the Western Balkans, including corruption by, on behalf of, or otherwise related to a government in the Western Balkans, or a current or former government official at any level of government in the Western Balkans, such as the misappropriation of public assets, expropriation of private assets for personal gain or political purposes, or bribery; 
+(v) To be responsible for or complicit in, or to have directly or indirectly engaged in, corruption related to the Western Balkans, including corruption by, on behalf of, or otherwise related to a government in the Western Balkans, or a current or former government official at any level of government in the Western Balkans, such as the misappropriation of public assets, expropriation of private assets for personal gain or political purposes, or bribery;
 
-(vi) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, any person whose property and interests in property are blocked pursuant to paragraph this (a)(3); or 
+(vi) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, any person whose property and interests in property are blocked pursuant to paragraph this (a)(3); or
 
-(vii) To be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this paragraph (a)(3). 
+(vii) To be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this paragraph (a)(3).
 
-(b) The prohibitions of this section include prohibitions on the following transactions: 
+(b) The prohibitions of this section include prohibitions on the following transactions:
 
-(1) The making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to this section; and 
+(1) The making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to this section; and
 
-(2) The receipt of any contribution or provision of funds, goods, or services from any person whose property and interests in property are blocked pursuant to this section. 
+(2) The receipt of any contribution or provision of funds, goods, or services from any person whose property and interests in property are blocked pursuant to this section.
 
-(c) Unless authorized by this part or by a specific license expressly referring to this part, any dealing in securities (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, any person whose property and interests in property are blocked pursuant to this section is prohibited. This prohibition includes the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any securities on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such securities may have or might appear to have assigned, transferred, or otherwise disposed of the securities. 
+(c) Unless authorized by this part or by a specific license expressly referring to this part, any dealing in securities (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, any person whose property and interests in property are blocked pursuant to this section is prohibited. This prohibition includes the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any securities on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such securities may have or might appear to have assigned, transferred, or otherwise disposed of the securities.
 
-(d) The prohibitions of this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date. 
+(d) The prohibitions of this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date.
 
-(e) All transactions prohibited pursuant to any Executive order issued after June 8, 2021 pursuant to the national emergency declared in E.O. 13219 of June 27, 2001 are prohibited pursuant to this part. 
+(e) All transactions prohibited pursuant to any Executive order issued after June 8, 2021 pursuant to the national emergency declared in E.O. 13219 of June 27, 2001 are prohibited pursuant to this part.
 
 Note 1 to § 588.201.
 

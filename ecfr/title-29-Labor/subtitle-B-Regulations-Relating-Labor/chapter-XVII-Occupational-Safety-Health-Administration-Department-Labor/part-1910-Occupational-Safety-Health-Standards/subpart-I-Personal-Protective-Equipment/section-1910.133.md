@@ -1,14 +1,14 @@
 ##### § 1910.133 Eye and face protection.
 
-(a) *General requirements.* (1) The employer shall ensure that each affected employee uses appropriate eye or face protection when exposed to eye or face hazards from flying particles, molten metal, liquid chemicals, acids or caustic liquids, chemical gases or vapors, or potentially injurious light radiation.
+(a) *General requirements.* (1) The employer shall ensure that each affected employee uses appropriate eye or face protection when exposed to eye or face hazards from flying particles, molten metal, liquid chemicals, acids or caustic liquids, chemical gases or vapors, or potentially injurious light radiation. 
 
-(2) The employer shall ensure that each affected employee uses eye protection that provides side protection when there is a hazard from flying objects. Detachable side protectors (e.g. clip-on or slide-on side shields) meeting the pertinent requirements of this section are acceptable.
+(2) The employer shall ensure that each affected employee uses eye protection that provides side protection when there is a hazard from flying objects. Detachable side protectors (e.g. clip-on or slide-on side shields) meeting the pertinent requirements of this section are acceptable. 
 
-(3) The employer shall ensure that each affected employee who wears prescription lenses while engaged in operations that involve eye hazards wears eye protection that incorporates the prescription in its design, or wears eye protection that can be worn over the prescription lenses without disturbing the proper position of the prescription lenses or the protective lenses.
+(3) The employer shall ensure that each affected employee who wears prescription lenses while engaged in operations that involve eye hazards wears eye protection that incorporates the prescription in its design, or wears eye protection that can be worn over the prescription lenses without disturbing the proper position of the prescription lenses or the protective lenses. 
 
-(4) Eye and face PPE shall be distinctly marked to facilitate identification of the manufacturer.
+(4) Eye and face PPE shall be distinctly marked to facilitate identification of the manufacturer. 
 
-(5) The employer shall ensure that each affected employee uses equipment with filter lenses that have a shade number appropriate for the work being performed for protection from injurious light radiation. The following is a listing of appropriate shade numbers for various operations.
+(5) The employer shall ensure that each affected employee uses equipment with filter lenses that have a shade number appropriate for the work being performed for protection from injurious light radiation. The following is a listing of appropriate shade numbers for various operations. 
 
 | Filter Lenses for Protection Against Radiant Energy |
 | --------------------------------------------------- |
@@ -49,14 +49,14 @@
 | \* As a rule of thumb, start with a shade that is too dark to see the weld zone. Then go to a lighter shade which gives sufficient view of the weld zone without going below the minimum. In oxyfuel gas welding or cutting where the torch produces a high yellow light, it is desirable to use a filter lens that absorbs the yellow or sodium line in the visible light of the (spectrum) operation. |
 | \*\* These values apply where the actual arc is clearly seen. Experience has shown that lighter filters may be used when the arc is hidden by the workpiece.                                                                                                                                                                                                                                            |
 
-(b) *Criteria for protective eye and face protection.* (1) Protective eye and face protection devices must comply with any of the following consensus standards:
+(b) *Criteria for protective eye and face protection.* (1) Protective eye and face protection devices must comply with any of the following consensus standards: 
 
-(i) ANSI/ISEA Z87.1-2010, Occupational and Educational Personal Eye and Face Protection Devices, incorporated by reference in § 1910.6;
+(i) ANSI/ISEA Z87.1-2010, Occupational and Educational Personal Eye and Face Protection Devices, incorporated by reference in § 1910.6; 
 
-(ii) ANSI Z87.1-2003, Occupational and Educational Personal Eye and Face Protection Devices, incorporated by reference in § 1910.6; or
+(ii) ANSI Z87.1-2003, Occupational and Educational Personal Eye and Face Protection Devices, incorporated by reference in § 1910.6; or 
 
-(iii) ANSI Z87.1-1989 (R-1998), Practice for Occupational and Educational Eye and Face Protection, incorporated by reference in § 1910.6;
+(iii) ANSI Z87.1-1989 (R-1998), Practice for Occupational and Educational Eye and Face Protection, incorporated by reference in § 1910.6; 
 
-(2) Protective eye and face protection devices that the employer demonstrates are at least as effective as protective eye and face protection devices that are constructed in accordance with one of the above consensus standards will be deemed to be in compliance with the requirements of this section.
+(2) Protective eye and face protection devices that the employer demonstrates are at least as effective as protective eye and face protection devices that are constructed in accordance with one of the above consensus standards will be deemed to be in compliance with the requirements of this section. 
 
 \[59 FR 16360, Apr. 6, 1994; 59 FR 33911, July 1, 1994, as amended at 61 FR 9238, Mar. 7, 1996; 61 FR 19548, May 2, 1996; 74 FR 46356, Sept. 9, 2009; 81 FR 16090, Mar. 25, 2016\]

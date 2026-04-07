@@ -4,7 +4,7 @@
 
 7 As appears more fully in the following sections of this part, the several provisions of the Portal Act relate, in pertinent part, to actions, causes of action, liabilities, or punishments based on the nonpayment by employers to their employees of minimum or overtime wages under the provision of the Fair Labor Standards Act. Section 13 of the Portal Act provides that the terms, “employer,” “employee,” and “wage”, when used in the Portal Act, in relation to the Fair Labor Standards Act, have the same meaning as when used in the latter Act.
 
-8 Portal Act, sections 1, 2, 4, 6, 9, 10, 11, 12.
+8 Portal Act, sections 1, 2, 4, 6, 9, 10, 11, 12. 
 
 Sponsors of the legislation asserted that the provisions of the Portal Act do not deprive any person of a contract right or other right which he may have under the common law or under a State statute. See colloquy between Senators Donnell, Hatch and Ferguson, 93 Cong. Rec. 2098; colloquy between Senators Donnell and Ferguson, 93 Cong. Rec. 2127; statement of Representative Gwynne, 93 Cong. Rec. 1557.
 

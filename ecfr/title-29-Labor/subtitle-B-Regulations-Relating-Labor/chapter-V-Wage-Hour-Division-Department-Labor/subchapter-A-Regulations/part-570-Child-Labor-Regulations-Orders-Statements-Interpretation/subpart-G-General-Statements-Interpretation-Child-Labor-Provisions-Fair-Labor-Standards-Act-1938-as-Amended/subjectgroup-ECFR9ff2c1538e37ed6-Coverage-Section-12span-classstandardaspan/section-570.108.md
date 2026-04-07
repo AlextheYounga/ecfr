@@ -1,6 +1,6 @@
 ##### § 570.108 “Produced”.
 
-The word “produced” as used in the Act is defined by section 3(j) to mean:
+The word “produced” as used in the Act is defined by section 3(j) to mean: 
 
 \* \* \* produced, manufactured, mined, handled, or in any other manner worked on in any state; \* \* \* 12
 

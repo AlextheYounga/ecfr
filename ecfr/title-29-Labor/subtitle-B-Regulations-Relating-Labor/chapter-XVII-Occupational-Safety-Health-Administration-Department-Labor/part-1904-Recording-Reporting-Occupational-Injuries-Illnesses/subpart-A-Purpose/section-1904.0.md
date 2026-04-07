@@ -1,6 +1,6 @@
 ##### § 1904.0 Purpose.
 
-The purpose of this rule (part 1904) is to require employers to record and report work-related fatalities, injuries, and illnesses.
+The purpose of this rule (part 1904) is to require employers to record and report work-related fatalities, injuries, and illnesses. 
 
 Note to § 1904.0:
 

@@ -1,6 +1,6 @@
 ##### § 1904.45 OMB control numbers under the Paperwork Reduction Act
 
-The following sections each contain a collection of information requirement which has been approved by the Office of Management and Budget under the control number listed
+The following sections each contain a collection of information requirement which has been approved by the Office of Management and Budget under the control number listed 
 
 | 29 CFR citation | OMB Control No. |
 | --------------- | --------------- |

@@ -1,72 +1,72 @@
 ##### § 2520.101-2 Filing by multiple employer welfare arrangements and certain other related entities.
 
-(a) *Basis and scope.* Section 101(g) of the Employee Retirement Income Security Act (ERISA), as amended by the Patient Protection and Affordable Care Act, requires the Secretary of Labor (the Secretary) to establish, by regulation, a requirement that multiple employer welfare arrangements (MEWAs) providing benefits that consist of medical care (as described in paragraph (b)(6) of this section), which are not group health plans, to register with the Secretary prior to operating in a State. Section 101(g) also permits the Secretary to require, by regulation, such MEWAs to report, not more frequently than annually, in such form and manner as the Secretary may require, for the purpose of determining the extent to which the requirements of part 7 of subtitle B of title I of ERISA (part 7) are being carried out in connection with such benefits. Section 734 of ERISA provides that the Secretary may promulgate such regulations as may be necessary or appropriate to carry out the provisions of part 7. This section sets out requirements for reporting by MEWAs that provide benefits that consist of medical care and by certain entities that claim not to be a MEWA solely due to the exception in section 3(40)(A)(i) of ERISA (referred to in this section as Entities Claiming Exception or ECEs). The reporting requirements apply regardless of whether the MEWA or ECE is a group health plan.
+(a) *Basis and scope.* Section 101(g) of the Employee Retirement Income Security Act (ERISA), as amended by the Patient Protection and Affordable Care Act, requires the Secretary of Labor (the Secretary) to establish, by regulation, a requirement that multiple employer welfare arrangements (MEWAs) providing benefits that consist of medical care (as described in paragraph (b)(6) of this section), which are not group health plans, to register with the Secretary prior to operating in a State. Section 101(g) also permits the Secretary to require, by regulation, such MEWAs to report, not more frequently than annually, in such form and manner as the Secretary may require, for the purpose of determining the extent to which the requirements of part 7 of subtitle B of title I of ERISA (part 7) are being carried out in connection with such benefits. Section 734 of ERISA provides that the Secretary may promulgate such regulations as may be necessary or appropriate to carry out the provisions of part 7. This section sets out requirements for reporting by MEWAs that provide benefits that consist of medical care and by certain entities that claim not to be a MEWA solely due to the exception in section 3(40)(A)(i) of ERISA (referred to in this section as Entities Claiming Exception or ECEs). The reporting requirements apply regardless of whether the MEWA or ECE is a group health plan. 
 
-(b) *Definitions.* As used in this section, the following definitions apply:
+(b) *Definitions.* As used in this section, the following definitions apply: 
 
-(1) *Administrator* means—(i) The person specifically so designated by the terms of the instrument under which the MEWA or ECE is operated;
+(1) *Administrator* means—(i) The person specifically so designated by the terms of the instrument under which the MEWA or ECE is operated; 
 
-(ii) If the MEWA or ECE is a group health plan and the administrator is not so designated, the plan sponsor (as defined in section 3(16)(B) of ERISA); or
+(ii) If the MEWA or ECE is a group health plan and the administrator is not so designated, the plan sponsor (as defined in section 3(16)(B) of ERISA); or 
 
-(iii) In the case of a MEWA or ECE for which an administrator is not designated and a plan sponsor cannot be identified, jointly and severally, the person or persons actually responsible (whether or not so designated under the terms of the instrument under which the MEWA or ECE is operated) for the control, disposition, or management of the cash or property received by or contributed to the MEWA or ECE, irrespective of whether such control, disposition, or management is exercised directly by such person or persons or indirectly through an agent, custodian, or trustee designated by such person or persons.
+(iii) In the case of a MEWA or ECE for which an administrator is not designated and a plan sponsor cannot be identified, jointly and severally, the person or persons actually responsible (whether or not so designated under the terms of the instrument under which the MEWA or ECE is operated) for the control, disposition, or management of the cash or property received by or contributed to the MEWA or ECE, irrespective of whether such control, disposition, or management is exercised directly by such person or persons or indirectly through an agent, custodian, or trustee designated by such person or persons. 
 
-(2) *Entity Claiming Exception (ECE)* means an entity that claims it is not a MEWA on the basis that the entity is established or maintained pursuant to one or more agreements that the Secretary finds to be collective bargaining agreements within the meaning of section 3(40)(A)(i) of ERISA and § 2510.3-40.
+(2) *Entity Claiming Exception (ECE)* means an entity that claims it is not a MEWA on the basis that the entity is established or maintained pursuant to one or more agreements that the Secretary finds to be collective bargaining agreements within the meaning of section 3(40)(A)(i) of ERISA and § 2510.3-40. 
 
-(3) *Excepted benefits* means *excepted benefits* within the meaning of section 733(c) of ERISA and § 2590.701-2 of this chapter.
+(3) *Excepted benefits* means *excepted benefits* within the meaning of section 733(c) of ERISA and § 2590.701-2 of this chapter. 
 
-(4) *Group health plan* means a *group health plan* within the meaning of section 733(a) of ERISA and § 2590.701-2 of this chapter.
+(4) *Group health plan* means a *group health plan* within the meaning of section 733(a) of ERISA and § 2590.701-2 of this chapter. 
 
-(5) *Health insurance issuer* means a *health insurance issuer* within the meaning of section 733(b)(2) of ERISA and § 2590.701-2 of this chapter.
+(5) *Health insurance issuer* means a *health insurance issuer* within the meaning of section 733(b)(2) of ERISA and § 2590.701-2 of this chapter. 
 
-(6) *Medical care* means *medical care* within the meaning of section 733(a)(2) of ERISA and § 2590.701-2 of this chapter.
+(6) *Medical care* means *medical care* within the meaning of section 733(a)(2) of ERISA and § 2590.701-2 of this chapter. 
 
-(7) *Multiple employer welfare arrangement (MEWA)* means a *multiple employer welfare arrangement* within the meaning of section 3(40) of ERISA.
+(7) *Multiple employer welfare arrangement (MEWA)* means a *multiple employer welfare arrangement* within the meaning of section 3(40) of ERISA. 
 
 (8) *Operating* means any activity including but not limited to marketing, soliciting, providing, or offering to provide benefits consisting of *medical care.*
 
-(9) *Origination* means, with regard to an ECE, the occurrence of any of the following events (an ECE is considered to have been *originated* only when an event described below occurs)—
+(9) *Origination* means, with regard to an ECE, the occurrence of any of the following events (an ECE is considered to have been *originated* only when an event described below occurs)— 
 
-(i) The ECE begins operating with regard to the employees of two or more employers (including one or more self-employed individuals);
+(i) The ECE begins operating with regard to the employees of two or more employers (including one or more self-employed individuals); 
 
-(ii) The ECE begins operating following a merger with another ECE (unless all of the ECEs that participate in the merger previously were last originated at least three years prior to the merger); or
+(ii) The ECE begins operating following a merger with another ECE (unless all of the ECEs that participate in the merger previously were last originated at least three years prior to the merger); or 
 
-(iii) The number of employees receiving coverage for medical care under the ECE is at least 50 percent greater than the number of such employees on the last day of the previous calendar year (unless the increase is due to a merger with another ECE under which all ECEs that participate in the merger were last originated at least three years prior to the merger).
+(iii) The number of employees receiving coverage for medical care under the ECE is at least 50 percent greater than the number of such employees on the last day of the previous calendar year (unless the increase is due to a merger with another ECE under which all ECEs that participate in the merger were last originated at least three years prior to the merger). 
 
-(10) *Reporting or to report* means to file the Form M-1 as required pursuant to sections 101(g) of ERISA; § 2520.101-2; or the instructions to the Form M-1.
+(10) *Reporting or to report* means to file the Form M-1 as required pursuant to sections 101(g) of ERISA; § 2520.101-2; or the instructions to the Form M-1. 
 
-(11) *Special filing event* means, with regard to an ECE—
+(11) *Special filing event* means, with regard to an ECE— 
 
-(i) The ECE begins knowingly operating in any additional State or States that were not indicated on a previous report filed pursuant to paragraph (e)(1)(i) or (f)(2)(i) of this section; or
+(i) The ECE begins knowingly operating in any additional State or States that were not indicated on a previous report filed pursuant to paragraph (e)(1)(i) or (f)(2)(i) of this section; or 
 
-(ii) The ECE experiences a material change as defined in the Form M-1 instructions.
+(ii) The ECE experiences a material change as defined in the Form M-1 instructions. 
 
-(12) *State* means *State* within the meaning of § 2590.701-2 of this chapter.
+(12) *State* means *State* within the meaning of § 2590.701-2 of this chapter. 
 
-(c) *Persons required to report*—(1) *General rule.* Except as provided in paragraph (c)(2) of this section, the following persons are required to report under this section:
+(c) *Persons required to report*—(1) *General rule.* Except as provided in paragraph (c)(2) of this section, the following persons are required to report under this section: 
 
-(i) The administrator of a MEWA regardless of whether the entity is a group health plan; and
+(i) The administrator of a MEWA regardless of whether the entity is a group health plan; and 
 
-(ii) The administrator of an ECE during the three-year period following an event described in paragraph (b)(9) of this section.
+(ii) The administrator of an ECE during the three-year period following an event described in paragraph (b)(9) of this section. 
 
-(2) *Exceptions.* (i) Nothing in this paragraph (c) shall be construed to require reporting under this section by the administrator of a MEWA or ECE described under this paragraph (c)(2)(i).
+(2) *Exceptions.* (i) Nothing in this paragraph (c) shall be construed to require reporting under this section by the administrator of a MEWA or ECE described under this paragraph (c)(2)(i). 
 
-(A) A MEWA or ECE licensed or authorized to operate as a health insurance issuer in every State in which it offers or provides coverage for medical care to employees;
+(A) A MEWA or ECE licensed or authorized to operate as a health insurance issuer in every State in which it offers or provides coverage for medical care to employees; 
 
-(B) A MEWA or ECE that provides coverage that consists solely of excepted benefits, which are not subject to ERISA part 7. If the MEWA or ECE provides coverage that consists of both excepted benefits and other benefits for medical care that are not excepted benefits, the administrator of the MEWA or ECE is required to report under this section;
+(B) A MEWA or ECE that provides coverage that consists solely of excepted benefits, which are not subject to ERISA part 7. If the MEWA or ECE provides coverage that consists of both excepted benefits and other benefits for medical care that are not excepted benefits, the administrator of the MEWA or ECE is required to report under this section; 
 
-(C) A MEWA or ECE that is a group health plan not subject to ERISA, including a governmental plan, church plan, or a plan maintained solely for the purpose of complying with workmen's compensation laws, within the meaning of sections 4(b)(1), 4(b)(2), or 4(b)(3) of ERISA, respectively; or
+(C) A MEWA or ECE that is a group health plan not subject to ERISA, including a governmental plan, church plan, or a plan maintained solely for the purpose of complying with workmen's compensation laws, within the meaning of sections 4(b)(1), 4(b)(2), or 4(b)(3) of ERISA, respectively; or 
 
-(D) A MEWA or ECE that provides coverage only through group health plans that are not covered by ERISA, including governmental plans, church plans, or plans maintained solely for the purpose of complying with workmen's compensation laws within the meaning of sections 4(b)(1), 4(b)(2), or 4(b)(3) of ERISA, respectively (or other arrangements not covered by ERISA, such as health insurance coverage offered to individuals other than in connection with a group health plan, known as individual market coverage).
+(D) A MEWA or ECE that provides coverage only through group health plans that are not covered by ERISA, including governmental plans, church plans, or plans maintained solely for the purpose of complying with workmen's compensation laws within the meaning of sections 4(b)(1), 4(b)(2), or 4(b)(3) of ERISA, respectively (or other arrangements not covered by ERISA, such as health insurance coverage offered to individuals other than in connection with a group health plan, known as individual market coverage). 
 
-(ii) Nothing in this paragraph (c) shall be construed to require reporting under this section by the administrator of an entity that would not constitute a MEWA or ECE *but for* the following circumstances under this paragraph (c)(2)(ii).
+(ii) Nothing in this paragraph (c) shall be construed to require reporting under this section by the administrator of an entity that would not constitute a MEWA or ECE *but for* the following circumstances under this paragraph (c)(2)(ii). 
 
-(A) The entity provides coverage to the employees of two or more trades or businesses that share a common control interest of at least 25 percent at any time during the plan year, applying principles similar to the principles of section 414(c) of the Internal Revenue Code;
+(A) The entity provides coverage to the employees of two or more trades or businesses that share a common control interest of at least 25 percent at any time during the plan year, applying principles similar to the principles of section 414(c) of the Internal Revenue Code; 
 
-(B) The entity provides coverage to the employees of two or more employers due to a change in control of businesses (such as a merger or acquisition) that occurs for a purpose other than avoiding Form M-1 filing and is temporary in nature. For purposes of this paragraph, “temporary” means the MEWA or ECE does not extend beyond the end of the plan year following the plan year in which the change in control occurs; or
+(B) The entity provides coverage to the employees of two or more employers due to a change in control of businesses (such as a merger or acquisition) that occurs for a purpose other than avoiding Form M-1 filing and is temporary in nature. For purposes of this paragraph, “temporary” means the MEWA or ECE does not extend beyond the end of the plan year following the plan year in which the change in control occurs; or 
 
-(C) The entity provides coverage to persons (excluding spouses and dependents) who are not employees or former employees of the plan sponsor, such as non-employee members of the board of directors or independent contractors, and the number of such persons who are not employees or former employees does not exceed one percent of the total number of employees or former employees covered under the arrangement, determined as of the last day of the year to be reported or, determined as of the 60th day following the date the MEWA or ECE began operating in a manner such that a filing is required pursuant to paragraph (e)(1)(i), (2), or (3) of this section.
+(C) The entity provides coverage to persons (excluding spouses and dependents) who are not employees or former employees of the plan sponsor, such as non-employee members of the board of directors or independent contractors, and the number of such persons who are not employees or former employees does not exceed one percent of the total number of employees or former employees covered under the arrangement, determined as of the last day of the year to be reported or, determined as of the 60th day following the date the MEWA or ECE began operating in a manner such that a filing is required pursuant to paragraph (e)(1)(i), (2), or (3) of this section. 
 
-(3) *Examples.* The rules of this paragraph (c) are illustrated by the following examples:
+(3) *Examples.* The rules of this paragraph (c) are illustrated by the following examples: 
 
 Example 1.(i) *Facts.* MEWA *A* begins operating by offering coverage to the employees of two or more employers on August 1, 2013. MEWA *A* is licensed or authorized to operate as a health insurance issuer in every State in which it offers coverage for medical care to employees.
 
@@ -84,49 +84,49 @@ Example 4.(i) *Facts.* Company *E* maintains a group health plan that provides b
 
 (ii) *Conclusion.* In this *Example 4,* the administrator of Company *E's* group health plan is not required to report via the Form M-1 for calendar year 2013 (a filing that is otherwise due by March 1, 2014) because it is subject to the exception to the filing requirement provided in paragraph (c)(2)(ii)(C) of this section for entities that cover a very small number of persons who are not employees or former employees of the plan sponsor.
 
-(d) *Information to be reported.* (1) Any reporting required by this section shall consist of a completed copy of the Form M-1 Report for Multiple Employer Welfare Arrangements (MEWAs) and Certain Entities Claiming Exception (ECEs) (Form M-1) and any additional statements required pursuant to the instructions for the Form M-1.
+(d) *Information to be reported.* (1) Any reporting required by this section shall consist of a completed copy of the Form M-1 Report for Multiple Employer Welfare Arrangements (MEWAs) and Certain Entities Claiming Exception (ECEs) (Form M-1) and any additional statements required pursuant to the instructions for the Form M-1. 
 
-(2) *Rejected filings.* The Secretary may reject any filing under this section if the Secretary determines that the filing is incomplete, in accordance with § 2560.502c-5 of this chapter.
+(2) *Rejected filings.* The Secretary may reject any filing under this section if the Secretary determines that the filing is incomplete, in accordance with § 2560.502c-5 of this chapter. 
 
-(3) If the Secretary rejects a filing under paragraph (d)(2) of this section, and if a revised filing satisfactory to the Secretary is not submitted within 45 days after the notice of rejection, the Secretary may bring a civil action for such relief as may be appropriate (including penalties under section 502(c)(5) of ERISA and § 2560.502c-5 of this chapter).
+(3) If the Secretary rejects a filing under paragraph (d)(2) of this section, and if a revised filing satisfactory to the Secretary is not submitted within 45 days after the notice of rejection, the Secretary may bring a civil action for such relief as may be appropriate (including penalties under section 502(c)(5) of ERISA and § 2560.502c-5 of this chapter). 
 
-(e) *Origination, registration, and other non-annual reporting requirements and timing*—(1) *General rule for ECEs.* (i) Except as provided in paragraph (e)(1)(ii) of this section, and subject to the limitations established by paragraph (c)(1)(ii) of this section, when an ECE experiences an event described in paragraphs (b)(9) or (b)(11) of this section, the administrator of the ECE shall file Form M-1 by the 30th day following the date of the event.
+(e) *Origination, registration, and other non-annual reporting requirements and timing*—(1) *General rule for ECEs.* (i) Except as provided in paragraph (e)(1)(ii) of this section, and subject to the limitations established by paragraph (c)(1)(ii) of this section, when an ECE experiences an event described in paragraphs (b)(9) or (b)(11) of this section, the administrator of the ECE shall file Form M-1 by the 30th day following the date of the event. 
 
-(ii) *Exception.* Paragraph (e)(1)(i) of this section does not apply to ECEs that experience an origination as described in paragraph (b)(9)(i) of this section. Such entities are required, subject to the limitations established by paragraph (c)(1)(ii) of this section, to file the Form M-1 30 days prior to the date of the event.
+(ii) *Exception.* Paragraph (e)(1)(i) of this section does not apply to ECEs that experience an origination as described in paragraph (b)(9)(i) of this section. Such entities are required, subject to the limitations established by paragraph (c)(1)(ii) of this section, to file the Form M-1 30 days prior to the date of the event. 
 
-(2) *General rule for MEWAs*—(i) *In general.* Except as provided in paragraph (e)(2)(ii) of this section, the administrator of the MEWA is required to register with the Secretary by filing the Form M-1 30 days prior to operating in any State.
+(2) *General rule for MEWAs*—(i) *In general.* Except as provided in paragraph (e)(2)(ii) of this section, the administrator of the MEWA is required to register with the Secretary by filing the Form M-1 30 days prior to operating in any State. 
 
-(ii) *Exception.* Paragraph (e)(2)(i) of this section does not apply to MEWAs that, prior to the effective date of this section, were already in operation in a State (or States). Such entities are required to submit an annual filing pursuant to annual reporting rules described in paragraph (f)(2)(i) of this section for that State (or those States).
+(ii) *Exception.* Paragraph (e)(2)(i) of this section does not apply to MEWAs that, prior to the effective date of this section, were already in operation in a State (or States). Such entities are required to submit an annual filing pursuant to annual reporting rules described in paragraph (f)(2)(i) of this section for that State (or those States). 
 
-(3) *Special rule requiring MEWAs to make additional filings.* Subsequent to registering with the Secretary pursuant to paragraph (e)(2)(i) of this section, the administrator of a MEWA shall file the Form M-1:
+(3) *Special rule requiring MEWAs to make additional filings.* Subsequent to registering with the Secretary pursuant to paragraph (e)(2)(i) of this section, the administrator of a MEWA shall file the Form M-1: 
 
-(i) Within 30 days of knowingly operating in any additional State or States that were not indicated on a previous report filed pursuant to paragraph (e)(2)(i) or (f)(2)(i) of this section;
+(i) Within 30 days of knowingly operating in any additional State or States that were not indicated on a previous report filed pursuant to paragraph (e)(2)(i) or (f)(2)(i) of this section; 
 
-(ii) Within 30 days of the MEWA operating with regard to the employees of an additional employer (or employers, including one or more self-employed individuals) after a merger with another MEWA;
+(ii) Within 30 days of the MEWA operating with regard to the employees of an additional employer (or employers, including one or more self-employed individuals) after a merger with another MEWA; 
 
-(iii) Within 30 days of the date the number of employees receiving coverage for medical care under the MEWA is at least 50 percent greater than the number of such employees on the last day of the previous calendar year; or
+(iii) Within 30 days of the date the number of employees receiving coverage for medical care under the MEWA is at least 50 percent greater than the number of such employees on the last day of the previous calendar year; or 
 
-(iv) Within 30 days of experiencing a material change as defined in the Form M-1 instructions.
+(iv) Within 30 days of experiencing a material change as defined in the Form M-1 instructions. 
 
-(4) *Anti-abuse rule.* If a MEWA or ECE neither offers nor provides benefits consisting of medical care within a State during the calendar year immediately following the year in which a filing is made by the ECE pursuant to paragraph (e)(1) of this section (due to an event described in paragraph (b)(9)(i) or (b)(11)(i) of this section) or a filing is made by the MEWA pursuant to paragraph (e)(2) or (3) of this section, with respect to operating in such State, such filing will be considered to have lapsed.
+(4) *Anti-abuse rule.* If a MEWA or ECE neither offers nor provides benefits consisting of medical care within a State during the calendar year immediately following the year in which a filing is made by the ECE pursuant to paragraph (e)(1) of this section (due to an event described in paragraph (b)(9)(i) or (b)(11)(i) of this section) or a filing is made by the MEWA pursuant to paragraph (e)(2) or (3) of this section, with respect to operating in such State, such filing will be considered to have lapsed. 
 
-(5) *Multiple filings not required in certain circumstances.* If multiple filings are required under this paragraph (e), a single filing will satisfy this section so long as the filing is timely for each required filing.
+(5) *Multiple filings not required in certain circumstances.* If multiple filings are required under this paragraph (e), a single filing will satisfy this section so long as the filing is timely for each required filing. 
 
-(6) *Extensions.* (i) An extension may be granted for filing a report required by paragraph (e)(1), (2), or (3) of this section if the administrator complies with the extension procedure prescribed in the instructions to the Form M-1.
+(6) *Extensions.* (i) An extension may be granted for filing a report required by paragraph (e)(1), (2), or (3) of this section if the administrator complies with the extension procedure prescribed in the instructions to the Form M-1. 
 
-(ii) If the filing deadline set forth in this paragraph (e) is a Saturday, Sunday, or federal holiday, the form must be filed no later than the next business day.
+(ii) If the filing deadline set forth in this paragraph (e) is a Saturday, Sunday, or federal holiday, the form must be filed no later than the next business day. 
 
-(f) *Annual reporting requirements and timing*—(1) *Period for which reporting is required.* A completed copy of the Form M-1 is required to be filed for each calendar year during all or part of which the MEWA is operating and for each of the three calendar years following an origination during all or part of which the ECE is operating.
+(f) *Annual reporting requirements and timing*—(1) *Period for which reporting is required.* A completed copy of the Form M-1 is required to be filed for each calendar year during all or part of which the MEWA is operating and for each of the three calendar years following an origination during all or part of which the ECE is operating. 
 
-(2) *Filing deadline*—(i) *General March 1 filing due date for annual filings.* Except as provided in paragraph (f)(2)(ii) of this section, a completed copy of the Form M-1 is required to be filed on or before each March 1 that follows a period for which reporting is required (as described in paragraph (f)(1) of this section).
+(2) *Filing deadline*—(i) *General March 1 filing due date for annual filings.* Except as provided in paragraph (f)(2)(ii) of this section, a completed copy of the Form M-1 is required to be filed on or before each March 1 that follows a period for which reporting is required (as described in paragraph (f)(1) of this section). 
 
-(ii) *Exception.* Paragraph (f)(2)(i) of this section does not apply to ECEs and MEWAs if, between October 1 and December 31, the entity is required to make a filing pursuant to paragraph (e)(1), (2), or (3) of this section and makes that filing timely.
+(ii) *Exception.* Paragraph (f)(2)(i) of this section does not apply to ECEs and MEWAs if, between October 1 and December 31, the entity is required to make a filing pursuant to paragraph (e)(1), (2), or (3) of this section and makes that filing timely. 
 
-(3) *Extensions.* (i) An extension may be granted for filing a report required by paragraph (f)(2)(i) of this section if the administrator complies with the extension procedure prescribed in the instructions to the Form M-1.
+(3) *Extensions.* (i) An extension may be granted for filing a report required by paragraph (f)(2)(i) of this section if the administrator complies with the extension procedure prescribed in the instructions to the Form M-1. 
 
-(ii) If the filing deadline set forth in this paragraph (f) is a Saturday, Sunday, or federal holiday, the form must be filed no later than the next business day.
+(ii) If the filing deadline set forth in this paragraph (f) is a Saturday, Sunday, or federal holiday, the form must be filed no later than the next business day. 
 
-(4) *Examples.* The rules of paragraphs (e) and (f) of this section are illustrated by the following examples:
+(4) *Examples.* The rules of paragraphs (e) and (f) of this section are illustrated by the following examples: 
 
 Example 1.(i) *Facts.* MEWA *A* began offering coverage for medical care to the employees of two or more employers on July 1, 2003 (and continues to offer such coverage). MEWA *A* has satisfied all filing requirements to date.
 
@@ -168,12 +168,12 @@ Example 10.(i) *Facts.* Same facts as *Example 9,* but MEWA *E* registers on or 
 
 (ii) *Conclusion.* In this Example 10, the registration for all States (other than State Z) have lapsed under (e)(4) because MEWA *E* only offered or provided benefits consisting of medical care to participants in State *Z* in the calendar year immediately following the filing. If subsequently, MEWA *E* begins offering or providing benefits consisting of medical care to participants in any additional State (or States), it must make a new registration filing pursuant to (e)(3) of this section.
 
-(g) *Electronic filing.* A completed Form M-1 is filed with the Secretary by submitting it electronically as prescribed in the instructions to the Form M-1.
+(g) *Electronic filing.* A completed Form M-1 is filed with the Secretary by submitting it electronically as prescribed in the instructions to the Form M-1. 
 
-(h) *Penalties*—(1) *Civil penalties and procedures.* For information on civil penalties under section 502(c)(5) of ERISA for persons who fail to file the information required under this section, see § 2560.502c-5 of this chapter. For information relating to administrative hearings and appeals in connection with the assessment of civil penalties under section 502(c)(5) of ERISA, see §§ 2570.90 through 2570.101 of this chapter.
+(h) *Penalties*—(1) *Civil penalties and procedures.* For information on civil penalties under section 502(c)(5) of ERISA for persons who fail to file the information required under this section, see § 2560.502c-5 of this chapter. For information relating to administrative hearings and appeals in connection with the assessment of civil penalties under section 502(c)(5) of ERISA, see §§ 2570.90 through 2570.101 of this chapter. 
 
-(2) *Criminal penalties and procedures.* For information on criminal penalties under section 519 of ERISA for persons who knowingly make false statements or false representation of fact with regards to the information required under this section, see section 501(b) of ERISA.
+(2) *Criminal penalties and procedures.* For information on criminal penalties under section 519 of ERISA for persons who knowingly make false statements or false representation of fact with regards to the information required under this section, see section 501(b) of ERISA. 
 
-(3) *Cease and desist and summary seizure orders.* For information on the Secretary's authority to issue a cease and desist or summary seizure order under section 521 of ERISA, see § 2560.521.
+(3) *Cease and desist and summary seizure orders.* For information on the Secretary's authority to issue a cease and desist or summary seizure order under section 521 of ERISA, see § 2560.521. 
 
 \[78 FR 13792, Mar. 1, 2013\]

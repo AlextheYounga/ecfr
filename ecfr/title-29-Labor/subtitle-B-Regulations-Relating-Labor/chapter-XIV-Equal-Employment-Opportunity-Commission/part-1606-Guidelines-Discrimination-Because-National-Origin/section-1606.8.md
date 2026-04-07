@@ -4,19 +4,19 @@
 
 8 See CD CL68-12-431 EU (1969), CCH EEOC Decisions ¶ 6085, 2 FEP Cases 295; CD 72-0621 (1971), CCH EEOC Decisions ¶ 6311, 4 FEP Cases 312; CD 72-1561 (1972), CCH EEOC Decisions ¶ 6354, 4 FEP Cases 852; CD 74-05 (1973), CCH EEOC Decisions ¶ 6387, 6 FEP Cases 834; CD 76-41 (1975), CCH EEOC Decisions ¶ 6632. See also, Amendment to *Guidelines on Discrimination Because of Sex,* § 1604.11(a) n. 1, 45 FR 7476 sy 74677 (November 10, 1980).
 
-(b) Ethnic slurs and other verbal or physical conduct relating to an individual's national origin constitute harassment when this conduct:
+(b) Ethnic slurs and other verbal or physical conduct relating to an individual's national origin constitute harassment when this conduct: 
 
-(1) Has the purpose or effect of creating an intimidating, hostile or offensive working environment;
+(1) Has the purpose or effect of creating an intimidating, hostile or offensive working environment; 
 
-(2) Has the purpose or effect of unreasonably interfering with an individual's work performance; or
+(2) Has the purpose or effect of unreasonably interfering with an individual's work performance; or 
 
-(3) Otherwise adversely affects an individual's employment opportunities.
+(3) Otherwise adversely affects an individual's employment opportunities. 
 
-(c) \[Reserved\]
+(c) \[Reserved\] 
 
-(d) With respect to conduct between fellow employees, an employer is responsible for acts of harassment in the workplace on the basis of national origin, where the employer, its agents or supervisory employees, knows or should have known of the conduct, unless the employer can show that it took immediate and appropriate corrective action.
+(d) With respect to conduct between fellow employees, an employer is responsible for acts of harassment in the workplace on the basis of national origin, where the employer, its agents or supervisory employees, knows or should have known of the conduct, unless the employer can show that it took immediate and appropriate corrective action. 
 
-(e) An employer may also be responsible for the acts of non-employees with respect to harassment of employees in the workplace on the basis of national origin, where the employer, its agents or supervisory employees, knows or should have known of the conduct and fails to take immediate and appropriate corrective action. In reviewing these cases, the Commission will consider the extent of the employer's control and any other legal responsibility which the employer may have with respect to the conduct of such non-employees.
+(e) An employer may also be responsible for the acts of non-employees with respect to harassment of employees in the workplace on the basis of national origin, where the employer, its agents or supervisory employees, knows or should have known of the conduct and fails to take immediate and appropriate corrective action. In reviewing these cases, the Commission will consider the extent of the employer's control and any other legal responsibility which the employer may have with respect to the conduct of such non-employees. 
 
 Appendix A to § 1606.8—Background Information
 

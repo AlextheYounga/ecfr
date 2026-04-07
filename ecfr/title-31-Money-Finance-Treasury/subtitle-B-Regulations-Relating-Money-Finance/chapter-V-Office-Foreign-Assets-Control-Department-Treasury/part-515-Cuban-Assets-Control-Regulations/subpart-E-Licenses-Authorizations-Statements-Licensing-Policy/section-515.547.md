@@ -1,6 +1,6 @@
 ##### § 515.547 Certain transactions related to medical research and Cuban-origin pharmaceuticals; research samples.
 
-(a) Persons subject to U.S. jurisdiction are authorized to engage in all transactions incident to joint medical research projects with Cuban nationals. 
+(a) Persons subject to U.S. jurisdiction are authorized to engage in all transactions incident to joint medical research projects with Cuban nationals.
 
 Note 1 to paragraph (a):
 
@@ -14,17 +14,17 @@ Note 3 to paragraph (a):
 
 This paragraph also does not authorize persons subject to U.S. jurisdiction to establish a business or physical presence in Cuba, to hire Cuban nationals, or to engage in any transactions prohibited by § 515.208.
 
-(b) Persons subject to U.S. jurisdiction are authorized to engage in all transactions incident to obtaining approval from the U.S. Food and Drug Administration (FDA) of Cuban-origin pharmaceuticals, including discovery and development, pre-clinical research, clinical research, regulatory review, regulatory approval and licensing, regulatory post-market activities, and the importation into the United States of Cuban-origin pharmaceuticals. 
+(b) Persons subject to U.S. jurisdiction are authorized to engage in all transactions incident to obtaining approval from the U.S. Food and Drug Administration (FDA) of Cuban-origin pharmaceuticals, including discovery and development, pre-clinical research, clinical research, regulatory review, regulatory approval and licensing, regulatory post-market activities, and the importation into the United States of Cuban-origin pharmaceuticals.
 
-(c) Persons subject to U.S. jurisdiction are authorized to engage in all transactions incident to the marketing, sale, or other distribution in the United States of FDA-approved Cuban-origin pharmaceuticals, including the importation into the United States of Cuban-origin pharmaceuticals. 
+(c) Persons subject to U.S. jurisdiction are authorized to engage in all transactions incident to the marketing, sale, or other distribution in the United States of FDA-approved Cuban-origin pharmaceuticals, including the importation into the United States of Cuban-origin pharmaceuticals.
 
-(d)(1) *Opening and maintaining bank accounts at Cuban financial institutions to engage in authorized transactions.* The opening and maintenance of accounts, including the deposit of funds in such accounts by wire transfer, at a financial institution in Cuba, is authorized provided that such accounts are used only for transactions authorized pursuant to this section. 
+(d)(1) *Opening and maintaining bank accounts at Cuban financial institutions to engage in authorized transactions.* The opening and maintenance of accounts, including the deposit of funds in such accounts by wire transfer, at a financial institution in Cuba, is authorized provided that such accounts are used only for transactions authorized pursuant to this section.
 
-(2) *Closing bank accounts.* The closing of an account opened pursuant to the authorization in paragraph (d)(1) of this section is authorized, provided that any transfer of funds may only be effected by wire transfer to an account maintained at a depository institution, as defined in § 515.333, that is a person subject to U.S. jurisdiction. 
+(2) *Closing bank accounts.* The closing of an account opened pursuant to the authorization in paragraph (d)(1) of this section is authorized, provided that any transfer of funds may only be effected by wire transfer to an account maintained at a depository institution, as defined in § 515.333, that is a person subject to U.S. jurisdiction.
 
-(e) *Specific licenses.* (1) To the extent not authorized by paragraph (b) of this section, specific licenses may be issued for the importation of Cuban-origin commodities for bona-fide research purposes in sample quantities only. 
+(e) *Specific licenses.* (1) To the extent not authorized by paragraph (b) of this section, specific licenses may be issued for the importation of Cuban-origin commodities for bona-fide research purposes in sample quantities only.
 
-(2) Specific licenses may be issued for transactions related to medical research or pharmaceutical products not authorized by paragraphs (a) through (c) of this section. 
+(2) Specific licenses may be issued for transactions related to medical research or pharmaceutical products not authorized by paragraphs (a) through (c) of this section.
 
 Note to § 515.547:
 

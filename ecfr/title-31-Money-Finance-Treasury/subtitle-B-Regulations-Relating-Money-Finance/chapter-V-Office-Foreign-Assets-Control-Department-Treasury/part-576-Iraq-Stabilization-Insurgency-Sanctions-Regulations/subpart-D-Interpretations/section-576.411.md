@@ -1,8 +1,8 @@
 ##### § 576.411 Prohibited transactions involving certain Iraqi cultural property.
 
-(a) The prohibition on trade in or transfer of ownership or possession of certain Iraqi cultural property in § 576.208 is separate from, and independent of, other laws and regulations that may also prohibit the same conduct. 
+(a) The prohibition on trade in or transfer of ownership or possession of certain Iraqi cultural property in § 576.208 is separate from, and independent of, other laws and regulations that may also prohibit the same conduct.
 
-(b) The mere compliance with certain legal, administrative, or procedural requirements, such as the filing of a U.S. Customs and Border Protection Form 3461 (Entry/Immediate Delivery) or U.S. Customs and Border Protection Form 7501 (Entry Summary), does not render the trade in or transfer of Iraqi cultural property otherwise consistent with U.S. law for purposes of § 576.208. The trade in or transfer of Iraqi cultural property as described in § 576.208 would violate § 576.208 regardless of whether the U.S. Customs and Border Protection forms were truthfully and accurately completed. 
+(b) The mere compliance with certain legal, administrative, or procedural requirements, such as the filing of a U.S. Customs and Border Protection Form 3461 (Entry/Immediate Delivery) or U.S. Customs and Border Protection Form 7501 (Entry Summary), does not render the trade in or transfer of Iraqi cultural property otherwise consistent with U.S. law for purposes of § 576.208. The trade in or transfer of Iraqi cultural property as described in § 576.208 would violate § 576.208 regardless of whether the U.S. Customs and Border Protection forms were truthfully and accurately completed.
 
 Note to § 576.411:
 

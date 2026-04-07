@@ -20,15 +20,15 @@ The use by Congress of the plural form “activities” in the statute makes it 
 
 60 See statement of Senator Cooper, 93 Cong. Rec. 2299.
 
-(b) The term “principal activities” includes all activities which are an integral part of a principal activity. 61 Two examples of what is meant by an integral part of a principal activity are found in the Report of the Judiciary Committee of the Senate on the Portal-to-Portal Bill. 62 They are the following:
+(b) The term “principal activities” includes all activities which are an integral part of a principal activity. 61 Two examples of what is meant by an integral part of a principal activity are found in the Report of the Judiciary Committee of the Senate on the Portal-to-Portal Bill. 62 They are the following: 
 
 61 Senate Report, p. 48; statements of Senator Cooper, 93 Cong. Rec. 2297-2299.
 
 62 As stated in the Conference Report (p. 12), by Representative Gwynne in the House of Representatives (93 Cong. Rec. 4388) and by Senator Wiley in the Senate (93 Cong. Rec. 4371), the language of the provision here involved follows that of the Senate bill.
 
-(1) In connection with the operation of a lathe an employee will frequently at the commencement of his workday oil, grease or clean his machine, or install a new cutting tool. Such activities are an integral part of the principal activity, and are included within such term.
+(1) In connection with the operation of a lathe an employee will frequently at the commencement of his workday oil, grease or clean his machine, or install a new cutting tool. Such activities are an integral part of the principal activity, and are included within such term. 
 
-(2) In the case of a garment worker in a textile mill, who is required to report 30 minutes before other employees report to commence their principal activities, and who during such 30 minutes distributes clothing or parts of clothing at the work-benches of other employees and gets machines in readiness for operation by other employees, such activities are among the principal activities of such employee.
+(2) In the case of a garment worker in a textile mill, who is required to report 30 minutes before other employees report to commence their principal activities, and who during such 30 minutes distributes clothing or parts of clothing at the work-benches of other employees and gets machines in readiness for operation by other employees, such activities are among the principal activities of such employee. 
 
 Such preparatory activities, which the Administrator has always regarded as work and as compensable under the Fair Labor Standards Act, remain so under the Portal Act, regardless of contrary custom or contract. 63
 

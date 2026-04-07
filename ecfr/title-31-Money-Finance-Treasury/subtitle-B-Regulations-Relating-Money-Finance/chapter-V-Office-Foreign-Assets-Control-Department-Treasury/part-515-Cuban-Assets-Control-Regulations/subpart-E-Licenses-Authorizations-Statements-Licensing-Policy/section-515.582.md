@@ -1,6 +1,6 @@
 ##### § 515.582 Importation of certain goods and services produced by independent private sector entrepreneurs.
 
-Persons subject to U.S. jurisdiction are authorized to engage in all transactions, including payments, necessary to import certain goods and services produced by independent private sector entrepreneurs, as defined in § 515.340. The list of goods and services eligible for importation under this section is located at *https://www.state.gov/the-state-departments-section-515-582-list/*. 
+Persons subject to U.S. jurisdiction are authorized to engage in all transactions, including payments, necessary to import certain goods and services produced by independent private sector entrepreneurs, as defined in § 515.340. The list of goods and services eligible for importation under this section is located at *https://www.state.gov/the-state-departments-section-515-582-list/*.
 
 Note 1 to § 515.582:
 

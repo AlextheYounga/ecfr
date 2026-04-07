@@ -1,6 +1,6 @@
 ##### § 1960.70 Reporting of serious accidents.
 
-Agencies must provide the Office of Federal Agency Programs with a summary report of each fatal and catastrophic accident investigation. The summaries shall address the date/time of accident, agency/establishment named and location, and consequences, description of operation and the accident, causal factors, applicable standards and their effectiveness, and agency corrective/preventive actions.
+Agencies must provide the Office of Federal Agency Programs with a summary report of each fatal and catastrophic accident investigation. The summaries shall address the date/time of accident, agency/establishment named and location, and consequences, description of operation and the accident, causal factors, applicable standards and their effectiveness, and agency corrective/preventive actions. 
 
 Note to § 1960.70:
 

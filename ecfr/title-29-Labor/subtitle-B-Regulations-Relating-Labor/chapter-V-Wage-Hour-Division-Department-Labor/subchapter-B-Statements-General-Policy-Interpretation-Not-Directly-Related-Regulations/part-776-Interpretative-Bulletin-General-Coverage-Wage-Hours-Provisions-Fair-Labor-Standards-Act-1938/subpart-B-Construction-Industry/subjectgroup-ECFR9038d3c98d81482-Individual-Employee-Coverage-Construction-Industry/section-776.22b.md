@@ -24,6 +24,6 @@ So far as construction work specifically is concerned, the courts have cast the 
 
 7*Walling* v. *Jacksonville Paper Co.,* ante; *Bennett* v. *V. P. Loftis Co.,* 167 F. (2d) 286 (C.A.4); *Tobin* v. *Pennington-Winter Const. Co.,* 198 F. (2d) 334 (C.A.10), certiorari denied 345 U.S. 915; See General Coverage Bulletin, §§ 776.19 (a), (b), and 776.21(b).
 
-(e) *Interpretations.* In his task of distinguishing covered from non-covered employees the Administrator will be guided by authoritative court decisions. To the extent that prior administrative rulings, interpretations, practices and enforcement policies relating to employees in the construction industry are inconsistent or in conflict with the principles stated in this subpart, they are hereby rescinded and withdrawn.
+(e) *Interpretations.* In his task of distinguishing covered from non-covered employees the Administrator will be guided by authoritative court decisions. To the extent that prior administrative rulings, interpretations, practices and enforcement policies relating to employees in the construction industry are inconsistent or in conflict with the principles stated in this subpart, they are hereby rescinded and withdrawn. 
 
 \[21 FR 5439, July 20, 1956. Redesignated at 35 FR 5543, Apr. 3, 1970\]

@@ -1,162 +1,162 @@
 ##### § 1910.6 Incorporation by reference.
 
-(a)(1) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Occupational Safety and Health Administration (OSHA) must publish a document in the Federal Register and the material must be available to the public.
+(a)(1) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Occupational Safety and Health Administration (OSHA) must publish a document in the Federal Register and the material must be available to the public. 
 
-(i) The standards of agencies of the U.S. Government, and organizations which are not agencies of the U.S. Government which are incorporated by reference in this part, have the same force and effect as other standards in this part. Only the mandatory provisions (*i.e.,* provisions containing the word “shall” or other mandatory language) of standards incorporated by reference are adopted as standards under the Occupational Safety and Health Act.
+(i) The standards of agencies of the U.S. Government, and organizations which are not agencies of the U.S. Government which are incorporated by reference in this part, have the same force and effect as other standards in this part. Only the mandatory provisions (*i.e.,* provisions containing the word “shall” or other mandatory language) of standards incorporated by reference are adopted as standards under the Occupational Safety and Health Act. 
 
-(ii) Any changes in the standards incorporated by reference in this part and an official historic file of such changes are available for inspection in the Docket Office at the national office of OSHA, U.S. Department of Labor, Washington, DC 20210; telephone: 202-693-2350 (TTY number: 877-889-5627).
+(ii) Any changes in the standards incorporated by reference in this part and an official historic file of such changes are available for inspection in the Docket Office at the national office of OSHA, U.S. Department of Labor, Washington, DC 20210; telephone: 202-693-2350 (TTY number: 877-889-5627). 
 
-(2) All approved incorporation by reference (IBR) material is available for inspection at OSHA and at the National Archives and Records Administration (NARA).
+(2) All approved incorporation by reference (IBR) material is available for inspection at OSHA and at the National Archives and Records Administration (NARA). 
 
-(i) Contact OSHA at any Regional Office of the Occupational Safety and Health Administration (OSHA), or at the OSHA Docket Office, U.S. Department of Labor, 200 Constitution Avenue NW, Room N-3508, Washington, DC 20210; telephone: 202-693-2350 (TTY number: 877-889-5627).
+(i) Contact OSHA at any Regional Office of the Occupational Safety and Health Administration (OSHA), or at the OSHA Docket Office, U.S. Department of Labor, 200 Constitution Avenue NW, Room N-3508, Washington, DC 20210; telephone: 202-693-2350 (TTY number: 877-889-5627). 
 
-(ii) For information on the availability of these standards at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov*.
+(ii) For information on the availability of these standards at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov*. 
 
-(3) The IBR material may be obtained from the sources in the following paragraphs of this section or from one or more private resellers listed in this paragraph (a)(3). For material that is no longer commercially available, contact OSHA (see paragraph (a)(2)(i) of this section).
+(3) The IBR material may be obtained from the sources in the following paragraphs of this section or from one or more private resellers listed in this paragraph (a)(3). For material that is no longer commercially available, contact OSHA (see paragraph (a)(2)(i) of this section). 
 
-(i) Accuris Standards Store, 321 Inverness Drive, South Englewood, CO 80112; phone: (800) 332-6077; website: *https://store.accuristech.com*.
+(i) Accuris Standards Store, 321 Inverness Drive, South Englewood, CO 80112; phone: (800) 332-6077; website: *https://store.accuristech.com*. 
 
-(ii) American National Standards Institute (see paragraph (e) for contact information).
+(ii) American National Standards Institute (see paragraph (e) for contact information). 
 
-(iii) GlobalSpec, 257 Fuller Road, Suite NFE 1100, Albany, NY 12203-3621; phone: (800) 261-2052; website: *https://standards.globalspec.com*.
+(iii) GlobalSpec, 257 Fuller Road, Suite NFE 1100, Albany, NY 12203-3621; phone: (800) 261-2052; website: *https://standards.globalspec.com*. 
 
-(iv) Nimonik Document Center, 401 Roland Way, Suite 224, Oakland, CA 94624; phone (650)591-7600; email: info@document-center.com; website: *www.document-center.com*.
+(iv) Nimonik Document Center, 401 Roland Way, Suite 224, Oakland, CA 94624; phone (650)591-7600; email: info@document-center.com; website: *www.document-center.com*. 
 
-(v) Techstreet, phone: (855) 999-9870; email: *store@techstreet.com*; website: *www.techstreet.com*.
+(v) Techstreet, phone: (855) 999-9870; email: *store@techstreet.com*; website: *www.techstreet.com*. 
 
-(b) The following material is available for purchase from the American Conference of Governmental Industrial Hygienists (ACGIH), 1014 Broadway, Cincinnati OH 45202:
+(b) The following material is available for purchase from the American Conference of Governmental Industrial Hygienists (ACGIH), 1014 Broadway, Cincinnati OH 45202: 
 
-(1) “Industrial Ventilation: A Manual of Recommended Practice” (22nd ed., 1995), incorporation by reference (IBR) approved for § 1910.124(b)(4)(iii).
+(1) “Industrial Ventilation: A Manual of Recommended Practice” (22nd ed., 1995), incorporation by reference (IBR) approved for § 1910.124(b)(4)(iii). 
 
-(2) Threshold Limit Values and Biological Exposure Indices for 1986-87 (1986), IBR approved for § 1910.120, PEL definition.
+(2) Threshold Limit Values and Biological Exposure Indices for 1986-87 (1986), IBR approved for § 1910.120, PEL definition. 
 
-(c) The following material is available for purchase from the American Society of Agricultural Engineers (ASAE), 2950 Niles Road, Post Office Box 229, St. Joseph, MI 49085:
+(c) The following material is available for purchase from the American Society of Agricultural Engineers (ASAE), 2950 Niles Road, Post Office Box 229, St. Joseph, MI 49085: 
 
-(1) ASAE Emblem for Identifying Slow Moving Vehicles, ASAE S276.2 (1968), IBR approved for § 1910.145(d)(10).
+(1) ASAE Emblem for Identifying Slow Moving Vehicles, ASAE S276.2 (1968), IBR approved for § 1910.145(d)(10). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(d) The following material is available for purchase from the Agriculture Ammonia Institute-Rubber Manufacturers (AAI-RMA) Association, 1400 K St. NW, Washington DC 20005:
+(d) The following material is available for purchase from the Agriculture Ammonia Institute-Rubber Manufacturers (AAI-RMA) Association, 1400 K St. NW, Washington DC 20005: 
 
-(1) AAI-RMA Specifications for Anhydrous Ammonia Hose, IBR approved for § 1910.111(b)(8)(i).
+(1) AAI-RMA Specifications for Anhydrous Ammonia Hose, IBR approved for § 1910.111(b)(8)(i). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(e) American National Standards Institute (ANSI), 25 West 43rd Street, Fourth Floor, New York, NY 10036-7417; phone: (212) 642-4980; email: *info@ansi.org*; website: *www.ansi.org*.
+(e) American National Standards Institute (ANSI), 25 West 43rd Street, Fourth Floor, New York, NY 10036-7417; phone: (212) 642-4980; email: *info@ansi.org*; website: *www.ansi.org*. 
 
-(1)-(2) \[Reserved\]
+(1)-(2) \[Reserved\] 
 
-(3) ANSI A11.1-65 (R 70) Practice for Industrial Lighting, IBR approved for §§ 1910.219(c)(5)(iii); 1910.261 (a)(3)(i), (c)(10), and (k)(21); and 1910.265(c)(2).
+(3) ANSI A11.1-65 (R 70) Practice for Industrial Lighting, IBR approved for §§ 1910.219(c)(5)(iii); 1910.261 (a)(3)(i), (c)(10), and (k)(21); and 1910.265(c)(2). 
 
-(4) ANSI A11.1-65 Practice for Industrial Lighting, IBR approved for §§ 1910.262(c)(6) and 1910.265(d)(2)(i)(a).
+(4) ANSI A11.1-65 Practice for Industrial Lighting, IBR approved for §§ 1910.262(c)(6) and 1910.265(d)(2)(i)(a). 
 
-(5) \[Reserved\]
+(5) \[Reserved\] 
 
-(6) ANSI A13.1-56 Scheme for the Identification of Piping Systems, IBR approved for §§ 1910.253(d)(4)(ii); 1910.261(a)(3)(iii); 1910.262(c)(7).
+(6) ANSI A13.1-56 Scheme for the Identification of Piping Systems, IBR approved for §§ 1910.253(d)(4)(ii); 1910.261(a)(3)(iii); 1910.262(c)(7). 
 
-(7) ANSI A14.1-68 Safety Code for Portable Wood Ladders, Supplemented by ANSI A14.1a-77, IBR approved for § 1910.261 (a)(3)(iv) and (c)(3)(i).
+(7) ANSI A14.1-68 Safety Code for Portable Wood Ladders, Supplemented by ANSI A14.1a-77, IBR approved for § 1910.261 (a)(3)(iv) and (c)(3)(i). 
 
-(8) ANSI A14.2-56 Safety Code for Portable Metal Ladders, Supplemented by ANSI A14.2a-77, IBR approved for § 1910.261 (a)(3)(v) and (c)(3)(i).
+(8) ANSI A14.2-56 Safety Code for Portable Metal Ladders, Supplemented by ANSI A14.2a-77, IBR approved for § 1910.261 (a)(3)(v) and (c)(3)(i). 
 
-(9) ANSI A14.3-56 Safety Code for Fixed Ladders, IBR approved for §§ 1910.68(b)(4); and 1910.261 (a)(3)(vi) and (c)(3)(i).
+(9) ANSI A14.3-56 Safety Code for Fixed Ladders, IBR approved for §§ 1910.68(b)(4); and 1910.261 (a)(3)(vi) and (c)(3)(i). 
 
-(10) ANSI A17.1-65 Safety Code for Elevators, Dumbwaiters and Moving Walks, Including Supplements, A17.1a (1967); A17.1b (1968); A17.1c (1969); A17.1d (1970), IBR approved for § 1910.261 (a)(3)(vii), (g)(11)(i), and (l)(4).
+(10) ANSI A17.1-65 Safety Code for Elevators, Dumbwaiters and Moving Walks, Including Supplements, A17.1a (1967); A17.1b (1968); A17.1c (1969); A17.1d (1970), IBR approved for § 1910.261 (a)(3)(vii), (g)(11)(i), and (l)(4). 
 
-(11) ANSI A17.2-60 Practice for the Inspection of Elevators, Including Supplements, A17.2a (1965), A17.2b (1967), IBR approved for § 1910.261(a)(3)(viii).
+(11) ANSI A17.2-60 Practice for the Inspection of Elevators, Including Supplements, A17.2a (1965), A17.2b (1967), IBR approved for § 1910.261(a)(3)(viii). 
 
-(12) ANSI A90.1-69 Safety Standard for Manlifts, IBR approved for § 1910.68(b)(3).
+(12) ANSI A90.1-69 Safety Standard for Manlifts, IBR approved for § 1910.68(b)(3). 
 
-(13) ANSI A92.2-69 Standard for Vehicle Mounted Elevating and Rotating Work Platforms, IBR approved for § 1910.67 (b)(1), (2), (c)(3), and (4) and 1910.268(s)(1)(v).
+(13) ANSI A92.2-69 Standard for Vehicle Mounted Elevating and Rotating Work Platforms, IBR approved for § 1910.67 (b)(1), (2), (c)(3), and (4) and 1910.268(s)(1)(v). 
 
-(14) ANSI A120.1-70 Safety Code for Powered Platforms for Exterior Building Maintenance, IBR approved for § 1910.66 app. D (b) through (d).
+(14) ANSI A120.1-70 Safety Code for Powered Platforms for Exterior Building Maintenance, IBR approved for § 1910.66 app. D (b) through (d). 
 
-(15) ANSI B7.1-70 Safety Code for the Use, Care and Protection of Abrasive Wheels, IBR approved for §§ 1910.215(b)(12) and 1910.218(j).
+(15) ANSI B7.1-70 Safety Code for the Use, Care and Protection of Abrasive Wheels, IBR approved for §§ 1910.215(b)(12) and 1910.218(j). 
 
-(16) ANSI B15.1-53 (R 58) Safety Code for Mechanical Power Transmission Apparatus, IBR approved for §§ 1910.68(b)(4) and 1910.261 (a)(3)(ix), (b)(1), (e)(3), (e)(9), (f)(4), (j)(5)(iv), (k)(12), and (l)(3).
+(16) ANSI B15.1-53 (R 58) Safety Code for Mechanical Power Transmission Apparatus, IBR approved for §§ 1910.68(b)(4) and 1910.261 (a)(3)(ix), (b)(1), (e)(3), (e)(9), (f)(4), (j)(5)(iv), (k)(12), and (l)(3). 
 
-(17) ANSI B20.1-57 Safety Code for Conveyors, Cableways, and Related Equipment, IBR approved for §§ 1910.218(j)(3); 1910.261 (a)(3)(x), (b)(1), (c)(15)(iv), (f)(4), and (j)(2); 1910.265(c)(18)(i).
+(17) ANSI B20.1-57 Safety Code for Conveyors, Cableways, and Related Equipment, IBR approved for §§ 1910.218(j)(3); 1910.261 (a)(3)(x), (b)(1), (c)(15)(iv), (f)(4), and (j)(2); 1910.265(c)(18)(i). 
 
-(18) ANSI B30.2-43 (R 52) Safety Code for Cranes, Derricks, and Hoists, IBR approved for § 1910.261 (a)(3)(xi), (c)(2)(vi), and (c)(8) (i) and (iv).
+(18) ANSI B30.2-43 (R 52) Safety Code for Cranes, Derricks, and Hoists, IBR approved for § 1910.261 (a)(3)(xi), (c)(2)(vi), and (c)(8) (i) and (iv). 
 
-(19) ANSI B30.2.0-67 Safety Code for Overhead and Gantry Cranes, IBR approved for §§ 1910.179(b)(2); 1910.261 (a)(3)(xii), (c)(2)(v), and (c)(8) (i) and (iv).
+(19) ANSI B30.2.0-67 Safety Code for Overhead and Gantry Cranes, IBR approved for §§ 1910.179(b)(2); 1910.261 (a)(3)(xii), (c)(2)(v), and (c)(8) (i) and (iv). 
 
-(20) ANSI B30.5-68 Safety Code for Crawler, Locomotive, and Truck Cranes, IBR approved for §§ 1910.180(b)(2) and 1910.261(a)(3)(xiii).
+(20) ANSI B30.5-68 Safety Code for Crawler, Locomotive, and Truck Cranes, IBR approved for §§ 1910.180(b)(2) and 1910.261(a)(3)(xiii). 
 
-(21) ANSI B30.6-69 Safety Code for Derricks, IBR approved for §§ 1910.181(b)(2) and 1910.268(j)(4)(iv) (E) and (H).
+(21) ANSI B30.6-69 Safety Code for Derricks, IBR approved for §§ 1910.181(b)(2) and 1910.268(j)(4)(iv) (E) and (H). 
 
-(22) ANSI B31.1-55 Code for Pressure Piping, IBR approved for § 1910.261(g)(18)(iii).
+(22) ANSI B31.1-55 Code for Pressure Piping, IBR approved for § 1910.261(g)(18)(iii). 
 
-(23) ANSI B31.1-67, IBR approved for § 1910.253(d)(1)(i)(A)
+(23) ANSI B31.1-67, IBR approved for § 1910.253(d)(1)(i)(A) 
 
-(24) ANSI B31.1a-63 Addenda to ANSI B31.1 (1955), IBR approved for § 1910.261(g)(18)(iii).
+(24) ANSI B31.1a-63 Addenda to ANSI B31.1 (1955), IBR approved for § 1910.261(g)(18)(iii). 
 
-(25) ANSI B31.1-67 and Addenda B31.1 (1969) Code for Pressure Piping, IBR approved for §§ 1910.103(b)(1)(iii)(b); 1910.104(b)(5)(ii); 1910.218 (d)(4) and (e)(1)(iv); and 1910.261 (a)(3)(xiv) and (g)(18)(iii).
+(25) ANSI B31.1-67 and Addenda B31.1 (1969) Code for Pressure Piping, IBR approved for §§ 1910.103(b)(1)(iii)(b); 1910.104(b)(5)(ii); 1910.218 (d)(4) and (e)(1)(iv); and 1910.261 (a)(3)(xiv) and (g)(18)(iii). 
 
-(26) ANSI B31.2-68 Fuel Gas Piping, IBR approved for § 1910.261(g)(18)(iii).
+(26) ANSI B31.2-68 Fuel Gas Piping, IBR approved for § 1910.261(g)(18)(iii). 
 
-(27) ANSI B31.3-66 Petroleum Refinery Piping, IBR approved for § 1910.103(b)(3)(v)(b).
+(27) ANSI B31.3-66 Petroleum Refinery Piping, IBR approved for § 1910.103(b)(3)(v)(b). 
 
-(28) ANSI B31.5-66 Addenda B31.5a (1968) Refrigeration Piping, IB approved for §§ 1910.103(b)(3)(v)(b) and 1910.111(b)(7)(iii).
+(28) ANSI B31.5-66 Addenda B31.5a (1968) Refrigeration Piping, IB approved for §§ 1910.103(b)(3)(v)(b) and 1910.111(b)(7)(iii). 
 
-(29) ANSI B56.1-69 Safety Standard for Powered Industrial Trucks, IBR approved for §§ 1910.178(a) (2) and (3) and 1910.261 (a)(3)(xv), (b)(6), (m)(2), and (m)(5)(iii).
+(29) ANSI B56.1-69 Safety Standard for Powered Industrial Trucks, IBR approved for §§ 1910.178(a) (2) and (3) and 1910.261 (a)(3)(xv), (b)(6), (m)(2), and (m)(5)(iii). 
 
-(30) ANSI B57.1-65 Compressed Gas Cylinder Valve Outlet and Inlet Connections, IBR approved for § 1910.253(b)(1)(iii).
+(30) ANSI B57.1-65 Compressed Gas Cylinder Valve Outlet and Inlet Connections, IBR approved for § 1910.253(b)(1)(iii). 
 
-(31) \[Reserved\]
+(31) \[Reserved\] 
 
-(32) ANSI B175.1-1991, Safety Requirements for Gasoline-Powered Chain Saws 1910.266(e)(2)(i).
+(32) ANSI B175.1-1991, Safety Requirements for Gasoline-Powered Chain Saws 1910.266(e)(2)(i). 
 
-(33) \[Reserved\]
+(33) \[Reserved\] 
 
-(34) ANSI C33.2-56 Safety Standard for Transformer-Type Arc Welding Machines, IBR approved for § 1910.254(b)(1).
+(34) ANSI C33.2-56 Safety Standard for Transformer-Type Arc Welding Machines, IBR approved for § 1910.254(b)(1). 
 
-(35) \[Reserved\]
+(35) \[Reserved\] 
 
-(36) ANSI H23.1-70 Seamless Copper Water Tube Specification, IBR approved for § 1910.110(b) (8)(ii) and (13)(ii)(b)(1).
+(36) ANSI H23.1-70 Seamless Copper Water Tube Specification, IBR approved for § 1910.110(b) (8)(ii) and (13)(ii)(b)(1). 
 
-(37) ANSI H38.7-69 Specification for Aluminum Alloy Seamless Pipe and Seamless Extruded Tube, IBR approved for § 1910.110(b)(8)(i).
+(37) ANSI H38.7-69 Specification for Aluminum Alloy Seamless Pipe and Seamless Extruded Tube, IBR approved for § 1910.110(b)(8)(i). 
 
-(38) ANSI J6.4-71 Standard Specification for Rubber Insulating Blankets, IBR approved for § 1910.268 (f)(1) and (n)(11)(v).
+(38) ANSI J6.4-71 Standard Specification for Rubber Insulating Blankets, IBR approved for § 1910.268 (f)(1) and (n)(11)(v). 
 
-(39) ANSI J6.6-71 Standard Specification for Rubber Insulating Gloves, IBR approved for § 1910.268 (f)(1) and (n)(11)(iv).
+(39) ANSI J6.6-71 Standard Specification for Rubber Insulating Gloves, IBR approved for § 1910.268 (f)(1) and (n)(11)(iv). 
 
-(40) ANSI K13.1-67 Identification of Gas Mask Canisters, IBR approved for § 1910.261 (a)(3)(xvi) and (h)(2)(iii).
+(40) ANSI K13.1-67 Identification of Gas Mask Canisters, IBR approved for § 1910.261 (a)(3)(xvi) and (h)(2)(iii). 
 
-(41) ANSI K61.1-60 Safety Requirements for the Storage and Handling of Anhydrous Ammonia, IBR approved for § 1910.111(b)(11)(i).
+(41) ANSI K61.1-60 Safety Requirements for the Storage and Handling of Anhydrous Ammonia, IBR approved for § 1910.111(b)(11)(i). 
 
-(42) ANSI K61.1-66 Safety Requirements for the Storage and Handling of Anhydrous Ammonia, IBR approved for § 1910.111(b)(11)(i).
+(42) ANSI K61.1-66 Safety Requirements for the Storage and Handling of Anhydrous Ammonia, IBR approved for § 1910.111(b)(11)(i). 
 
-(43) ANSI O1.1-54 (R 61) Safety Code for Woodworking Machinery, IBR approved for § 1910.261 (a)(3)(xvii), (e)(7), and (i)(2).
+(43) ANSI O1.1-54 (R 61) Safety Code for Woodworking Machinery, IBR approved for § 1910.261 (a)(3)(xvii), (e)(7), and (i)(2). 
 
-(44) ANSI S1.4-71 (R 76) Specification for Sound Level Meters, IBR approved for § 1910.95 appendixes D and I.
+(44) ANSI S1.4-71 (R 76) Specification for Sound Level Meters, IBR approved for § 1910.95 appendixes D and I. 
 
-(45) ANSI S1.11-71 (R 76) Specification for Octave, Half-Octave and Third-Octave Band Filter Sets, IBR approved for § 1910.95 appendix D.
+(45) ANSI S1.11-71 (R 76) Specification for Octave, Half-Octave and Third-Octave Band Filter Sets, IBR approved for § 1910.95 appendix D. 
 
-(46) ANSI S3.6-69 Specifications for Audiometers, IBR approved for § 1910.95(h)(2) and (5)(ii) and appendix D.
+(46) ANSI S3.6-69 Specifications for Audiometers, IBR approved for § 1910.95(h)(2) and (5)(ii) and appendix D. 
 
-(47) ANSI Z4.1-68 Requirements for Sanitation in Places of Employment, IBR approved for § 1910.261 (a)(3)(xviii) and (g)(15)(vi).
+(47) ANSI Z4.1-68 Requirements for Sanitation in Places of Employment, IBR approved for § 1910.261 (a)(3)(xviii) and (g)(15)(vi). 
 
-(48) \[Reserved\]
+(48) \[Reserved\] 
 
-(49) ANSI Z9.1-51 Safety Code for Ventilation and Operation of Open Surface Tanks, IBR approved for 1910.261(a)(3)(xix), (g)(18)(v), and (h)(2)(i).
+(49) ANSI Z9.1-51 Safety Code for Ventilation and Operation of Open Surface Tanks, IBR approved for 1910.261(a)(3)(xix), (g)(18)(v), and (h)(2)(i). 
 
-(50) ANSI Z9.1-71 Practices for Ventilation and Operation of Open-Surface Tanks, IBR approved for § 1910.124(b)(4)(iv).
+(50) ANSI Z9.1-71 Practices for Ventilation and Operation of Open-Surface Tanks, IBR approved for § 1910.124(b)(4)(iv). 
 
-(51) ANSI Z9.2-60 Fundamentals Governing the Design and Operation of Local Exhaust Systems, IBR approved for §§ 1910.94(a)(4)(i) introductory text, (a)(6) introductory text, (b)(3)(ix), (b)(4)(i) and (ii), (c)(3)(i) introductory text, (c)(5)(iii)(b), and (c)(7)(iv)(a); 1910.261(a)(3)(xx), (g)(1)(i) and (iii), and (h)(2)(ii).
+(51) ANSI Z9.2-60 Fundamentals Governing the Design and Operation of Local Exhaust Systems, IBR approved for §§ 1910.94(a)(4)(i) introductory text, (a)(6) introductory text, (b)(3)(ix), (b)(4)(i) and (ii), (c)(3)(i) introductory text, (c)(5)(iii)(b), and (c)(7)(iv)(a); 1910.261(a)(3)(xx), (g)(1)(i) and (iii), and (h)(2)(ii). 
 
-(52) ANSI Z9.2-79 Fundamentals Governing the Design and Operation of Local Exhaust Systems, IBR approved for § 1910.124(b)(4)(i).
+(52) ANSI Z9.2-79 Fundamentals Governing the Design and Operation of Local Exhaust Systems, IBR approved for § 1910.124(b)(4)(i). 
 
-(53) ANSI Z12.12-68 Standard for the Prevention of Sulfur Fires and Explosions, IBR approved for § 1910.261 (a)(3)(xxi), (d)(1)(i), (f)(2)(iv), and (g)(1)(i).
+(53) ANSI Z12.12-68 Standard for the Prevention of Sulfur Fires and Explosions, IBR approved for § 1910.261 (a)(3)(xxi), (d)(1)(i), (f)(2)(iv), and (g)(1)(i). 
 
-(54) ANSI Z12.20-62 (R 69) Code for the Prevention of Dust Explosions in Woodworking and Wood Flour Manufacturing Plants, IBR approved for § 1910.265(c)(20)(i).
+(54) ANSI Z12.20-62 (R 69) Code for the Prevention of Dust Explosions in Woodworking and Wood Flour Manufacturing Plants, IBR approved for § 1910.265(c)(20)(i). 
 
-(55) ANSI Z21.30-64 Requirements for Gas Appliances and Gas Piping Installations, IBR approved for § 1910.265(c)(15).
+(55) ANSI Z21.30-64 Requirements for Gas Appliances and Gas Piping Installations, IBR approved for § 1910.265(c)(15). 
 
-(56) ANSI Z24.22-57 Method of Measurement of Real-Ear Attenuation of Ear Protectors at Threshold, IBR approved for § 1910.261(a)(3)(xxii).
+(56) ANSI Z24.22-57 Method of Measurement of Real-Ear Attenuation of Ear Protectors at Threshold, IBR approved for § 1910.261(a)(3)(xxii). 
 
-(57) ANSI Z33.1-61 Installation of Blower and Exhaust Systems for Dust, Stock, and Vapor Removal or Conveying, IBR approved for §§ 1910.94(a)(4)(i); 1910.261 (a)(3)(xxiii) and (f)(5); and 1910.265(c)(20)(i).
+(57) ANSI Z33.1-61 Installation of Blower and Exhaust Systems for Dust, Stock, and Vapor Removal or Conveying, IBR approved for §§ 1910.94(a)(4)(i); 1910.261 (a)(3)(xxiii) and (f)(5); and 1910.265(c)(20)(i). 
 
-(58) ANSI Z33.1-66 Installation of Blower and Exhaust Systems for Dust, Stock, and Vapor Removal or Conveying, IBR approved for § 1910.94(a)(2)(ii).
+(58) ANSI Z33.1-66 Installation of Blower and Exhaust Systems for Dust, Stock, and Vapor Removal or Conveying, IBR approved for § 1910.94(a)(2)(ii). 
 
 (59) ANSI Z35.1-1968, Specifications for Accident Prevention Signs; IBR approved for § 1910.261(c). Copies available for purchase from the IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: 1-877-413-5184; Web site: *www.global.ihs.com.*
 
@@ -164,55 +164,55 @@
 
 (61) ANSI Z41-1991, American National Standard for Personal Protection—Protective Footwear; IBR approved for § 1910.136(b)(1)(iii). Copies of ANSI Z41-1991 are available for purchase only from the National Safety Council, P.O. Box 558, Itasca, IL 60143-0558; telephone: 1-800-621-7619; fax: 708-285-0797; Web site: *http://www.nsc.org.*
 
-(62)-(63) \[Reserved\]
+(62)-(63) \[Reserved\] 
 
-(64) ANSI Z49.1-67 Safety in Welding and Cutting, IBR approved for § 1910.252(c)(1)(iv) (A) and (B).
+(64) ANSI Z49.1-67 Safety in Welding and Cutting, IBR approved for § 1910.252(c)(1)(iv) (A) and (B). 
 
 (65) USAS Z53.1-1967 (also referred to as ANSI Z53.1-1967), Safety Color Code for Marking Physical Hazards, ANSI approved October 9, 1967; IBR approved for § 1910.97(a) and 1910.145(d). Copies available for purchase from the IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: 1-877-413-5184; Web site: *www.global.ihs.com.*
 
-(66) ANSI Z535.1-2006 (R2011), Safety Colors, reaffirmed July 19, 2011; IBR approved for §§ 1910.97(a) and 1910.145(d). Copies available for purchase from the:
+(66) ANSI Z535.1-2006 (R2011), Safety Colors, reaffirmed July 19, 2011; IBR approved for §§ 1910.97(a) and 1910.145(d). Copies available for purchase from the: 
 
 (i) American National Standards Institute's e-Standards Store, 25 W 43rd Street, 4th Floor, New York, NY 10036; telephone: 212-642-4980; Web site: *http://webstore.ansi.org/;*
 
-(ii) IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: 877-413-5184; Web site: *www.global.ihs.com;* or
+(ii) IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: 877-413-5184; Web site: *www.global.ihs.com;* or 
 
 (iii) TechStreet Store, 3916 Ranchero Dr., Ann Arbor, MI 48108; telephone: 877-699-9277; Web site: *www.techstreet.com.*
 
-(67) ANSI Z535.2-2011, Environmental and Facility Safety Signs, published September 15, 2011; IBR approved for § 1910.261(c). Copies available for purchase from the:
+(67) ANSI Z535.2-2011, Environmental and Facility Safety Signs, published September 15, 2011; IBR approved for § 1910.261(c). Copies available for purchase from the: 
 
 (i) American National Standards Institute's e-Standards Store, 25 W 43rd Street, 4th Floor, New York, NY 10036; telephone: 212-642-4980; Web site: *http://webstore.ansi.org/;*
 
-(ii) IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: 877-413-5184; Web site: *www.global.ihs.com;* or
+(ii) IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: 877-413-5184; Web site: *www.global.ihs.com;* or 
 
 (iii) TechStreet Store, 3916 Ranchero Dr., Ann Arbor, MI 48108; telephone: 877-699-9277; Web site: *www.techstreet.com.*
 
-(68) ANSI Z54.1-63 Safety Standard for Non-Medical X-Ray and Sealed Gamma Ray Sources, IBR approved for § 1910.252(d) (1)(vii) and (2)(ii).
+(68) ANSI Z54.1-63 Safety Standard for Non-Medical X-Ray and Sealed Gamma Ray Sources, IBR approved for § 1910.252(d) (1)(vii) and (2)(ii). 
 
-(69) ANSI/ISEA Z87.1-2010, Occupational and Educational Personal Eye and Face Protection Devices, Approved April 13, 2010; IBR approved for § 1910.133(b). Copies are available for purchase from:
-
-(i) American National Standards Institute's e-Standards Store, 25 W 43rd Street, 4th Floor, New York, NY 10036; telephone: (212) 642-4980; Web site: *http://webstore.ansi.org/;*
-
-(ii) IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: (877) 413-5184; Web site: *http://global.ihs.com;* or
-
-(iii) TechStreet Store, 3916 Ranchero Dr., Ann Arbor, MI 48108; telephone: (877) 699-9277; Web site: *http://techstreet.com.*
-
-(70) ANSI Z87.1-2003, Occupational and Educational Eye and Face Personal Protection Devices Approved June 19, 2003; IBR approved for §§ 1910.133(b). Copies available for purchase from the:
+(69) ANSI/ISEA Z87.1-2010, Occupational and Educational Personal Eye and Face Protection Devices, Approved April 13, 2010; IBR approved for § 1910.133(b). Copies are available for purchase from: 
 
 (i) American National Standards Institute's e-Standards Store, 25 W 43rd Street, 4th Floor, New York, NY 10036; telephone: (212) 642-4980; Web site: *http://webstore.ansi.org/;*
 
-(ii) IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: (877) 413-5184; Web site: *http://global.ihs.com;* or
+(ii) IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: (877) 413-5184; Web site: *http://global.ihs.com;* or 
 
 (iii) TechStreet Store, 3916 Ranchero Dr., Ann Arbor, MI 48108; telephone: (877) 699-9277; Web site: *http://techstreet.com.*
 
-(71) ANSI Z87.1-1989 (R-1998), Practice for Occupational and Educational Eye and Face Protection, Reaffirmation approved January 4, 1999; IBR approved for § 1910.133(b). Copies are available for purchase from:
+(70) ANSI Z87.1-2003, Occupational and Educational Eye and Face Personal Protection Devices Approved June 19, 2003; IBR approved for §§ 1910.133(b). Copies available for purchase from the: 
 
-(i) American National Standards Institute's e-Standards Store, 25 W 43rd Street, 4th Floor, New York, NY 10036; telephone: (212) 642-4980; Web site: *http://webstore.ansi.org*/;
+(i) American National Standards Institute's e-Standards Store, 25 W 43rd Street, 4th Floor, New York, NY 10036; telephone: (212) 642-4980; Web site: *http://webstore.ansi.org/;*
 
-(ii) IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: (877) 413-5184; Web site: *http://global.ihs.com;* or
+(ii) IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: (877) 413-5184; Web site: *http://global.ihs.com;* or 
 
 (iii) TechStreet Store, 3916 Ranchero Dr., Ann Arbor, MI 48108; telephone: (877) 699-9277; Web site: *http://techstreet.com.*
 
-(72) ANSI Z88.2-1969, Practices for Respiratory Protection; IBR approved for §§ 1910.94(c)(6)(iii)(*a*), 1910.134(c); and 1910.261(a)(3)(xxvi), (b)(2), (f)(5), (g)(15)(v), (h)(2)(iii), (h)(2)(iv), and (i)(4).
+(71) ANSI Z87.1-1989 (R-1998), Practice for Occupational and Educational Eye and Face Protection, Reaffirmation approved January 4, 1999; IBR approved for § 1910.133(b). Copies are available for purchase from: 
+
+(i) American National Standards Institute's e-Standards Store, 25 W 43rd Street, 4th Floor, New York, NY 10036; telephone: (212) 642-4980; Web site: *http://webstore.ansi.org*/; 
+
+(ii) IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: (877) 413-5184; Web site: *http://global.ihs.com;* or 
+
+(iii) TechStreet Store, 3916 Ranchero Dr., Ann Arbor, MI 48108; telephone: (877) 699-9277; Web site: *http://techstreet.com.*
+
+(72) ANSI Z88.2-1969, Practices for Respiratory Protection; IBR approved for §§ 1910.94(c)(6)(iii)(*a*), 1910.134(c); and 1910.261(a)(3)(xxvi), (b)(2), (f)(5), (g)(15)(v), (h)(2)(iii), (h)(2)(iv), and (i)(4). 
 
 (73) American National Standards Institute (ANSI) Z89.1-2009, American National Standard for Industrial Head Protection, approved January 26, 2009; IBR approved for § 1910.135(b)(1)(i). Copies of ANSI Z89.1-2009 are available for purchase only from the International Safety Equipment Association, 1901 North Moore Street, Arlington, VA 22209-1762; telephone: 703-525-1695; fax: 703-528-2148; Web site: *www.safetyequipment.org.*
 
@@ -220,360 +220,360 @@
 
 (75) American National Standards Institute (ANSI) Z89.1-1997, American National Standard for Personnel Protection—Protective Headwear for Industrial Workers—Requirements; IBR approved for § 1910.135(b)(1)(iii). Copies of ANSI Z89.1-1997 are available for purchase only from the International Safety Equipment Association, 1901 North Moore Street, Arlington, VA 22209-1762; telephone: 703-525-1695; fax: 703-528-2148; Web site: *www.safetyequipment.org.*
 
-(76) ANSI Z41.1-1967 Men's Safety Toe Footwear; IBR approved for § 1910.261(i)(4).
+(76) ANSI Z41.1-1967 Men's Safety Toe Footwear; IBR approved for § 1910.261(i)(4). 
 
-(77) ANSI Z87.1-1968 Practice of Occupational and Educational Eye and Face Protection; IBR approved for § 1910.261(a)(3)(xxv), (d)(1)(ii), (f)(5), (g)(1), (g)(15)(v), (g)(18)(ii), and (i)(4).
+(77) ANSI Z87.1-1968 Practice of Occupational and Educational Eye and Face Protection; IBR approved for § 1910.261(a)(3)(xxv), (d)(1)(ii), (f)(5), (g)(1), (g)(15)(v), (g)(18)(ii), and (i)(4). 
 
-(78) ANSI Z89.1-1969 Safety Requirements for Industrial Head Protection; IBR approved for § 1910.261(a)(3)(xxvii), (b)(2), (g)(15)(v), and (i)(4).
+(78) ANSI Z89.1-1969 Safety Requirements for Industrial Head Protection; IBR approved for § 1910.261(a)(3)(xxvii), (b)(2), (g)(15)(v), and (i)(4). 
 
-(79) ANSI Z89.2-1971 Safety Requirements for Industrial Protective Helmets for Electrical Workers, Class B; IBR approved for § 1910.268(i)(1).
+(79) ANSI Z89.2-1971 Safety Requirements for Industrial Protective Helmets for Electrical Workers, Class B; IBR approved for § 1910.268(i)(1). 
 
-(f) The following material is available for purchase from the American Petroleum Institute (API), 1220 L Street NW, Washington DC 20005:
+(f) The following material is available for purchase from the American Petroleum Institute (API), 1220 L Street NW, Washington DC 20005: 
 
-(1) \[Reserved\]
+(1) \[Reserved\] 
 
-(2) API 12B (May 1958) Specification for Bolted Production Tanks, 11th Ed., With Supplement No. 1, Mar. 1962, IBR approved for § 1910.106(b)(1)(i)(*a*)(*3*).
+(2) API 12B (May 1958) Specification for Bolted Production Tanks, 11th Ed., With Supplement No. 1, Mar. 1962, IBR approved for § 1910.106(b)(1)(i)(*a*)(*3*). 
 
-(3) API 12D (Aug. 1957) Specification for Large Welded Production Tanks, 7th Ed., IBR approved for § 1910.106(b)(1)(i)(*a*)(*3*).
+(3) API 12D (Aug. 1957) Specification for Large Welded Production Tanks, 7th Ed., IBR approved for § 1910.106(b)(1)(i)(*a*)(*3*). 
 
-(4) API 12F (Mar. 1961) Specification for Small Welded Production Tanks, 5th Ed., IBR approved for § 1910.106(b)(1)(i)(*a*)(*3*).
+(4) API 12F (Mar. 1961) Specification for Small Welded Production Tanks, 5th Ed., IBR approved for § 1910.106(b)(1)(i)(*a*)(*3*). 
 
-(5) API 620, Fourth Ed. (1970) Including appendix R, Recommended Rules for Design and Construction of Large Welded Low Pressure Storage Tanks, IBR approved for §§ 1910.103(c)(1)(i)(*a*); 1910.106(b)(1)(iv)(b)(1); and 1910.111(*d*)(*1*) (ii) and (iii).
+(5) API 620, Fourth Ed. (1970) Including appendix R, Recommended Rules for Design and Construction of Large Welded Low Pressure Storage Tanks, IBR approved for §§ 1910.103(c)(1)(i)(*a*); 1910.106(b)(1)(iv)(b)(1); and 1910.111(*d*)(*1*) (ii) and (iii). 
 
-(6) API 650 (1966) Welded Steel Tanks for Oil Storage, 3rd Ed., IBR approved for § 1910.106(b)(1)(iii)(*a*)(*2*).
+(6) API 650 (1966) Welded Steel Tanks for Oil Storage, 3rd Ed., IBR approved for § 1910.106(b)(1)(iii)(*a*)(*2*). 
 
-(7) API 1104 (1968) Standard for Welding Pipelines and Related Facilities, IBR approved for § 1910.252(d)(1)(v).
+(7) API 1104 (1968) Standard for Welding Pipelines and Related Facilities, IBR approved for § 1910.252(d)(1)(v). 
 
-(8) API 2000 (1968) Venting Atmospheric and Low Pressure Storage Tanks, IBR approved for § 1910.106(b)(2)(iv)(*b*)(*1*).
+(8) API 2000 (1968) Venting Atmospheric and Low Pressure Storage Tanks, IBR approved for § 1910.106(b)(2)(iv)(*b*)(*1*). 
 
-(9) API 2201 (1963) Welding or Hot Tapping on Equipment Containing Flammables, IBR approved for § 1910.252(d)(1)(vi).
+(9) API 2201 (1963) Welding or Hot Tapping on Equipment Containing Flammables, IBR approved for § 1910.252(d)(1)(vi). 
 
-(g) The following material is available for purchase from the American Society of Mechanical Engineers (ASME), United Engineering Center, 345 East 47th Street, New York, NY 10017:
+(g) The following material is available for purchase from the American Society of Mechanical Engineers (ASME), United Engineering Center, 345 East 47th Street, New York, NY 10017: 
 
-(1) ASME Boiler and Pressure Vessel Code, Sec. VIII, 1949, 1950, 1952, 1956, 1959, and 1962 Ed., IBR approved for §§ 1910.110 (b)(10)(iii) (Table H-26), (d)(2) (Table H-31); (e)(3)(i) (Table H-32), (h)(2) (Table H-34); and 1910.111(b)(2)(vi);
+(1) ASME Boiler and Pressure Vessel Code, Sec. VIII, 1949, 1950, 1952, 1956, 1959, and 1962 Ed., IBR approved for §§ 1910.110 (b)(10)(iii) (Table H-26), (d)(2) (Table H-31); (e)(3)(i) (Table H-32), (h)(2) (Table H-34); and 1910.111(b)(2)(vi); 
 
-(2) ASME Code for Pressure Vessels, 1968 Ed., IBR approved for §§ 1910.106(i)(3)(i); 1910.110(g)(2)(iii)(*b*)(*2*); and 1910.217(b)(12);
+(2) ASME Code for Pressure Vessels, 1968 Ed., IBR approved for §§ 1910.106(i)(3)(i); 1910.110(g)(2)(iii)(*b*)(*2*); and 1910.217(b)(12); 
 
-(3) ASME Boiler and Pressure Vessel Code, Sec. VIII, 1968, IBR approved for §§ 1910.103; 1910.104(b)(4)(ii); 1910.106 (b)(1)(iv)(*b*)(*2*) and (*i*)(3)(ii); 1910.107; 1910.110(b)(11) (i)(*b*) and (iii)(*a*)(*1*); 1910.111(b)(2) (i), (ii), and (iv); and 1910.169(a)(2) (i) and (ii);
+(3) ASME Boiler and Pressure Vessel Code, Sec. VIII, 1968, IBR approved for §§ 1910.103; 1910.104(b)(4)(ii); 1910.106 (b)(1)(iv)(*b*)(*2*) and (*i*)(3)(ii); 1910.107; 1910.110(b)(11) (i)(*b*) and (iii)(*a*)(*1*); 1910.111(b)(2) (i), (ii), and (iv); and 1910.169(a)(2) (i) and (ii); 
 
-(4) ASME Boiler and Pressure Vessel Code, Sec. VIII, Paragraph UG-84, 1968, IBR approved for § 1910.104 (b)(4)(ii) and (b)(5)(iii);
+(4) ASME Boiler and Pressure Vessel Code, Sec. VIII, Paragraph UG-84, 1968, IBR approved for § 1910.104 (b)(4)(ii) and (b)(5)(iii); 
 
-(5) ASME Boiler and Pressure Vessel Code, Sec. VIII, Unfired Pressure Vessels, Including Addenda (1969), IBR approved for §§ 1910.261; 1910.262; 1910.263(i)(24)(ii);
+(5) ASME Boiler and Pressure Vessel Code, Sec. VIII, Unfired Pressure Vessels, Including Addenda (1969), IBR approved for §§ 1910.261; 1910.262; 1910.263(i)(24)(ii); 
 
-(6) Code for Unfired Pressure Vessels for Petroleum Liquids and Gases of the API and the ASME, 1951 Ed., IBR approved for § 1910.110(b)(3)(iii); and
+(6) Code for Unfired Pressure Vessels for Petroleum Liquids and Gases of the API and the ASME, 1951 Ed., IBR approved for § 1910.110(b)(3)(iii); and 
 
-(7) ASME B56.6-1992 (with addenda), Safety Standard for Rough Terrain Forklift Trucks, IBR approved for § 1910.266(f)(4).
+(7) ASME B56.6-1992 (with addenda), Safety Standard for Rough Terrain Forklift Trucks, IBR approved for § 1910.266(f)(4). 
 
-(h) ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; phone: (610) 832-9585; email: *sevice@astm.org*; website: *www.astm.org*. (27) ASTM D4359-90, Standard Test Method for Determining Whether a Material is a Liquid or a Solid, approved July 1, 2019; IBR approved for § 1910.1200.
+(h) ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; phone: (610) 832-9585; email: *sevice@astm.org*; website: *www.astm.org*. (27) ASTM D4359-90, Standard Test Method for Determining Whether a Material is a Liquid or a Solid, approved July 1, 2019; IBR approved for § 1910.1200. 
 
-(1) ASTM A 47-68, Malleable Iron Castings, IBR approved for § 1910.111.
+(1) ASTM A 47-68, Malleable Iron Castings, IBR approved for § 1910.111. 
 
-(2) ASTM A 53-69, Welded and Seamless Steel Pipe, IBR approved for §§ 1910.110 and 1910.111.
+(2) ASTM A 53-69, Welded and Seamless Steel Pipe, IBR approved for §§ 1910.110 and 1910.111. 
 
-(3) ASTM A 126-66, Gray Iron Casting for Valves, Flanges and Pipe Fitting, IBR approved for § 1910.111.
+(3) ASTM A 126-66, Gray Iron Casting for Valves, Flanges and Pipe Fitting, IBR approved for § 1910.111. 
 
-(4) ASTM A 391-65 (ANSI G61.1-1968), Alloy Steel Chain, IBR approved for § 1910.184.
+(4) ASTM A 391-65 (ANSI G61.1-1968), Alloy Steel Chain, IBR approved for § 1910.184. 
 
-(5) ASTM A 395-68, Ductile Iron for Use at Elevated Temperatures, IBR approved for § 1910.111.
+(5) ASTM A 395-68, Ductile Iron for Use at Elevated Temperatures, IBR approved for § 1910.111. 
 
-(6) ASTM B 88-66A, Seamless Copper Water Tube, IBR approved for § 1910.252.
+(6) ASTM B 88-66A, Seamless Copper Water Tube, IBR approved for § 1910.252. 
 
-(7) ASTM B 88-69, Seamless Copper Water Tube, IBR approved for § 1910.110.
+(7) ASTM B 88-69, Seamless Copper Water Tube, IBR approved for § 1910.110. 
 
-(8) \[Reserved\]
+(8) \[Reserved\] 
 
-(9) ASTM B 210-68, Aluminum-Alloy Drawn Seamless Tubes, IBR approved for § 1910.110.
+(9) ASTM B 210-68, Aluminum-Alloy Drawn Seamless Tubes, IBR approved for § 1910.110. 
 
-(10) ASTM B 241-69, Standard Specifications for Aluminum-Alloy Seamless Pipe and Seamless Extruded Tube, IBR approved for § 1910.110.
+(10) ASTM B 241-69, Standard Specifications for Aluminum-Alloy Seamless Pipe and Seamless Extruded Tube, IBR approved for § 1910.110. 
 
-(11) ASTM D 5-65, Test for Penetration by Bituminous Materials, IBR approved for § 1910.106.
+(11) ASTM D 5-65, Test for Penetration by Bituminous Materials, IBR approved for § 1910.106. 
 
-(12) ASTM D 56-70, Test for Flash Point by Tag Closed Tester, IBR approved for § 1910.106.
+(12) ASTM D 56-70, Test for Flash Point by Tag Closed Tester, IBR approved for § 1910.106. 
 
-(13) ASTM D 56-05, Standard Test Method for Flash Point by Tag Closed Cup Tester, Approved May 1, 2005, IBR approved for Appendix B to § 1910.1200.
+(13) ASTM D 56-05, Standard Test Method for Flash Point by Tag Closed Cup Tester, Approved May 1, 2005, IBR approved for Appendix B to § 1910.1200. 
 
-(14) ASTM D 86-62, Test for Distillation of Petroleum Products, IBR approved for §§ 1910.106 and 1910.119.
+(14) ASTM D 86-62, Test for Distillation of Petroleum Products, IBR approved for §§ 1910.106 and 1910.119. 
 
-(15) ASTM D 86-07a, Standard Test Method for Distillation of Petroleum Products at Atmospheric Pressure, Approved April 1, 2007, IBR approved for Appendix B to § 1910.1200.
+(15) ASTM D 86-07a, Standard Test Method for Distillation of Petroleum Products at Atmospheric Pressure, Approved April 1, 2007, IBR approved for Appendix B to § 1910.1200. 
 
-(16) ASTM D 88-56, Test for Saybolt Viscosity, IBR approved for § 1910.106.
+(16) ASTM D 88-56, Test for Saybolt Viscosity, IBR approved for § 1910.106. 
 
-(17) ASTM D 93-71, Test for Flash Point by Pensky Martens, IBR approved for § 1910.106.
+(17) ASTM D 93-71, Test for Flash Point by Pensky Martens, IBR approved for § 1910.106. 
 
-(18) ASTM D 93-08, Standard Test Methods for Flash Point by Pensky-Martens Closed Cup Tester, Approved Oct. 15, 2008, IBR approved for Appendix B to § 1910.1200.
+(18) ASTM D 93-08, Standard Test Methods for Flash Point by Pensky-Martens Closed Cup Tester, Approved Oct. 15, 2008, IBR approved for Appendix B to § 1910.1200. 
 
-(19) ASTM D 240-02 (Reapproved 2007), Standard Test Method for Heat of Combustion of Liquid Hydrocarbon Fuels by Bomb Calorimeter, Approved May 1, 2007, IBR approved for Appendix B to § 1910.1200.
+(19) ASTM D 240-02 (Reapproved 2007), Standard Test Method for Heat of Combustion of Liquid Hydrocarbon Fuels by Bomb Calorimeter, Approved May 1, 2007, IBR approved for Appendix B to § 1910.1200. 
 
-(20) ASTM D 323-68, Standard Test Method of Test for Vapor Pressure of Petroleum Products (Reid Method), IBR approved for § 1910.106.
+(20) ASTM D 323-68, Standard Test Method of Test for Vapor Pressure of Petroleum Products (Reid Method), IBR approved for § 1910.106. 
 
-(21) ASTM D 445-65, Test for Viscosity of Transparent and Opaque Liquids, IBR approved for § 1910.106.
+(21) ASTM D 445-65, Test for Viscosity of Transparent and Opaque Liquids, IBR approved for § 1910.106. 
 
-(22) ASTM D 1078-05, Standard Test Method for Distillation Range of Volatile Organic Liquids, Approved May 15, 2005, IBR approved for Appendix B to § 1910.1200.
+(22) ASTM D 1078-05, Standard Test Method for Distillation Range of Volatile Organic Liquids, Approved May 15, 2005, IBR approved for Appendix B to § 1910.1200. 
 
-(23) ASTM D 1692-68, Test for Flammability of Plastic Sheeting and Cellular Plastics, IBR approved for § 1910.103.
+(23) ASTM D 1692-68, Test for Flammability of Plastic Sheeting and Cellular Plastics, IBR approved for § 1910.103. 
 
-(24) ASTM D 2161-66, Conversion Tables for SUS, IBR approved for § 1910.106.
+(24) ASTM D 2161-66, Conversion Tables for SUS, IBR approved for § 1910.106. 
 
-(25) ASTM D 3278-96 (Reapproved 2004) E1, Standard Test Methods for Flash Point of Liquids by Small Scale Closed-Cup Apparatus, Approved November 1, 2004, IBR approved for Appendix B to § 1910.1200.
+(25) ASTM D 3278-96 (Reapproved 2004) E1, Standard Test Methods for Flash Point of Liquids by Small Scale Closed-Cup Apparatus, Approved November 1, 2004, IBR approved for Appendix B to § 1910.1200. 
 
-(26) ASTM D 3828-07a, Standard Test Methods for Flash Point by Small Scale Closed Cup Tester, Approved July 15, 2007, IBR approved for Appendix B to § 1910.1200.
+(26) ASTM D 3828-07a, Standard Test Methods for Flash Point by Small Scale Closed Cup Tester, Approved July 15, 2007, IBR approved for Appendix B to § 1910.1200. 
 
-(27) ASTM D 4359-90, Standard Test Method for Determining Whether a Material is a Liquid or a Solid, Approved 2019, IBR approved for § 1910.1200.
+(27) ASTM D 4359-90, Standard Test Method for Determining Whether a Material is a Liquid or a Solid, Approved 2019, IBR approved for § 1910.1200. 
 
-(28) ASTM F-2412-2005, Standard Test Methods for Foot Protection, IBR approved for § 1910.136.
+(28) ASTM F-2412-2005, Standard Test Methods for Foot Protection, IBR approved for § 1910.136. 
 
-(29) ASTM F-2413-2005, Standard Specification for Performance Requirements for Protective Footwear, IBR approved for § 1910.136.
+(29) ASTM F-2413-2005, Standard Specification for Performance Requirements for Protective Footwear, IBR approved for § 1910.136. 
 
 (i) The following material is available at the American Thoracic Society (ATS), 25 Broadway, 18th Floor New York, NY 10004; website: *www.atsjournals.org/.*
 
-(1) Spirometric Reference Values from a Sample of the General U.S. Population. Hankinson JL, Odencrantz JR, Fedan KB. American Journal of Respiratory and Critical Care Medicine, 159:179-187, 1999, IBR approved for § 1910.1043(h).
+(1) Spirometric Reference Values from a Sample of the General U.S. Population. Hankinson JL, Odencrantz JR, Fedan KB. American Journal of Respiratory and Critical Care Medicine, 159:179-187, 1999, IBR approved for § 1910.1043(h). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(j) The following material is available for purchase from the American Welding Society (AWS), 550 NW, LeJeune Road, P.O. Box 351040, Miami FL 33135:
+(j) The following material is available for purchase from the American Welding Society (AWS), 550 NW, LeJeune Road, P.O. Box 351040, Miami FL 33135: 
 
-(1)-(2) \[Reserved\]
+(1)-(2) \[Reserved\] 
 
-(3) AWS B3.0-41 Standard Qualification Procedure, IBR approved for § 1910.67(c)(5)(i).
+(3) AWS B3.0-41 Standard Qualification Procedure, IBR approved for § 1910.67(c)(5)(i). 
 
-(4) AWS D1.0-1966 Code for Welding in Building Construction, IBR approved for § 1910.27(b)(6).
+(4) AWS D1.0-1966 Code for Welding in Building Construction, IBR approved for § 1910.27(b)(6). 
 
-(5) AWS D2.0-69 Specifications for Welding Highway and Railway Bridges, IBR approved for § 1910.67(c)(5)(iv).
+(5) AWS D2.0-69 Specifications for Welding Highway and Railway Bridges, IBR approved for § 1910.67(c)(5)(iv). 
 
-(6) AWS D8.4-61 Recommended Practices for Automotive Welding Design, IBR approved for § 1910.67(c)(5)(ii).
+(6) AWS D8.4-61 Recommended Practices for Automotive Welding Design, IBR approved for § 1910.67(c)(5)(ii). 
 
-(7) AWS D10.9-69 Standard Qualification of Welding Procedures and Welders for Piping and Tubing, IBR approved for § 1910.67(c)(5)(iii).
+(7) AWS D10.9-69 Standard Qualification of Welding Procedures and Welders for Piping and Tubing, IBR approved for § 1910.67(c)(5)(iii). 
 
-(k) The following material is available for purchase from the Department of Commerce:
+(k) The following material is available for purchase from the Department of Commerce: 
 
-(1) \[Reserved\]
+(1) \[Reserved\] 
 
-(2) Publication “Model Performance Criteria for Structural Fire Fighters' Helmets,” IBR approved for § 1910.156(e)(5)(i).
+(2) Publication “Model Performance Criteria for Structural Fire Fighters' Helmets,” IBR approved for § 1910.156(e)(5)(i). 
 
-(l) The following material is available for purchase from the Compressed Gas Association (CGA), 1235 Jefferson Davis Highway, Arlington, VA 22202:
+(l) The following material is available for purchase from the Compressed Gas Association (CGA), 1235 Jefferson Davis Highway, Arlington, VA 22202: 
 
-(1) CGA C-6 (1968) Standards for Visual Inspection of Compressed Gas Cylinders, IBR approved for § 1910.101(a).
+(1) CGA C-6 (1968) Standards for Visual Inspection of Compressed Gas Cylinders, IBR approved for § 1910.101(a). 
 
-(2) CGA C-8 (1962) Standard for Requalification of ICC-3HT Cylinders, IBR approved for § 1910.101(a).
+(2) CGA C-8 (1962) Standard for Requalification of ICC-3HT Cylinders, IBR approved for § 1910.101(a). 
 
 (3) CGA G-1-2009 Acetylene, Twelfth Edition, IBR approved for § 1910.102(a). Copies of CGA Pamphlet G-1-2009 are available for purchase from the: Compressed Gas Association, Inc., 4221 Walney Road, 5th Floor, Chantilly, VA 20151; telephone: (703) 788-2700; fax: (703) 961-1831; email: *cga@cganet.com.*
 
-(4) CGA G-7.1 (1966) Commodity Specification, IBR approved for § 1910.134(d)(1).
+(4) CGA G-7.1 (1966) Commodity Specification, IBR approved for § 1910.134(d)(1). 
 
-(5) CGA G-8.1 (1964) Standard for the Installation of Nitrous Oxide Systems at Consumer Sites, IBR approved for § 1910.105.
+(5) CGA G-8.1 (1964) Standard for the Installation of Nitrous Oxide Systems at Consumer Sites, IBR approved for § 1910.105. 
 
-(6) CGA P-1 (1965) Safe Handling of Compressed Gases, IBR approved for § 1910.101(b).
+(6) CGA P-1 (1965) Safe Handling of Compressed Gases, IBR approved for § 1910.101(b). 
 
-(7) CGA P-3 (1963) Specifications, Properties, and Recommendations for Packaging, Transportation, Storage and Use of Ammonium Nitrate, IBR approved for § 1910.109(i)(1)(ii)(*b*).
+(7) CGA P-3 (1963) Specifications, Properties, and Recommendations for Packaging, Transportation, Storage and Use of Ammonium Nitrate, IBR approved for § 1910.109(i)(1)(ii)(*b*). 
 
-(8) CGA S-1.1 (1963) and 1965 Addenda. Safety Release Device Standards—Cylinders for Compressed Gases, IBR approved for §§ 1910.101(c); 1910.103(c)(1)(iv)(*a*)(*2*).
+(8) CGA S-1.1 (1963) and 1965 Addenda. Safety Release Device Standards—Cylinders for Compressed Gases, IBR approved for §§ 1910.101(c); 1910.103(c)(1)(iv)(*a*)(*2*). 
 
-(9) CGA S-1.2 (1963) Safety Release Device Standards, Cargo and Portable Tanks for Compressed Gases, IBR approved for §§ 1910.101(c); 1910.103(c)(1)(iv)(*a*)(*2*).
+(9) CGA S-1.2 (1963) Safety Release Device Standards, Cargo and Portable Tanks for Compressed Gases, IBR approved for §§ 1910.101(c); 1910.103(c)(1)(iv)(*a*)(*2*). 
 
-(10) CGA S-1.3 (1959) Safety Release Device Standards-Compressed Gas Storage Containers, IBR approved for §§ 1910.103(c)(1)(iv)(*a*)(*2*); 1910.104(b)(6)(iii); and 1910.111(d)(4)(ii)(*b*).
+(10) CGA S-1.3 (1959) Safety Release Device Standards-Compressed Gas Storage Containers, IBR approved for §§ 1910.103(c)(1)(iv)(*a*)(*2*); 1910.104(b)(6)(iii); and 1910.111(d)(4)(ii)(*b*). 
 
-(11) CGA 1957 Standard Hose Connection Standard, IBR approved for § 1910.253(e) (4)(v) and (5)(iii).
+(11) CGA 1957 Standard Hose Connection Standard, IBR approved for § 1910.253(e) (4)(v) and (5)(iii). 
 
-(12) CGA and RMA (Rubber Manufacturer's Association) Specification for Rubber Welding Hose (1958), IBR approved for § 1910.253(e)(5)(i).
+(12) CGA and RMA (Rubber Manufacturer's Association) Specification for Rubber Welding Hose (1958), IBR approved for § 1910.253(e)(5)(i). 
 
-(13) CGA 1958 Regulator Connection Standard, IBR approved for § 1910.253(e) (4)(iv) and (6).
+(13) CGA 1958 Regulator Connection Standard, IBR approved for § 1910.253(e) (4)(iv) and (6). 
 
-(m) The following material is available for purchase from the Crane Manufacturer's Association of America, Inc. (CMAA), 1 Thomas Circle NW, Washington DC 20005:
+(m) The following material is available for purchase from the Crane Manufacturer's Association of America, Inc. (CMAA), 1 Thomas Circle NW, Washington DC 20005: 
 
-(1) CMAA Specification 1B61, Specifications for Electric Overhead Traveling Cranes, IBR approved for § 1910.179(b)(6)(i).
+(1) CMAA Specification 1B61, Specifications for Electric Overhead Traveling Cranes, IBR approved for § 1910.179(b)(6)(i). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(n) German Institute for Standardization (DIN) (Beuth Verlag GmbH) Am DIN-Platz Burggrafenstraße 6 10787 Berlin, Germany; phone: +49 30 58885 70070; website: *https://din.de/en/about-standards/buy-standard*.
+(n) German Institute for Standardization (DIN) (Beuth Verlag GmbH) Am DIN-Platz Burggrafenstraße 6 10787 Berlin, Germany; phone: +49 30 58885 70070; website: *https://din.de/en/about-standards/buy-standard*. 
 
-(1) DIN 51794:2003-05—Determining the ignition temperature of petroleum products, May 2003, IBR approved for appendix B to § 1910.1200.
+(1) DIN 51794:2003-05—Determining the ignition temperature of petroleum products, May 2003, IBR approved for appendix B to § 1910.1200. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(o) The following material is available for purchase from the Fertilizer Institute, 1015 18th Street NW, Washington, DC 20036:
+(o) The following material is available for purchase from the Fertilizer Institute, 1015 18th Street NW, Washington, DC 20036: 
 
-(1) Standard M-1 (1953, 1955, 1957, 1960, 1961, 1963, 1965, 1966, 1967, 1968), Superseded by ANSI K61.1-1972, IBR approved for § 1910.111(b)(1) (i) and (iii).
+(1) Standard M-1 (1953, 1955, 1957, 1960, 1961, 1963, 1965, 1966, 1967, 1968), Superseded by ANSI K61.1-1972, IBR approved for § 1910.111(b)(1) (i) and (iii). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(p) The following material is available for purchase from the General Services Administration:
+(p) The following material is available for purchase from the General Services Administration: 
 
-(1) GSA Pub. GG-B-0067b, Air Compressed for Breathing Purposes, or Interim Federal Specifications, Apr. 1965, IBR approved for § 1910.134(d)(4).
+(1) GSA Pub. GG-B-0067b, Air Compressed for Breathing Purposes, or Interim Federal Specifications, Apr. 1965, IBR approved for § 1910.134(d)(4). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(q) International Electrotechnical Commission (IEC), IEC Secretariat, 3 rue de Varembé, PO Box 131, CH-1211 Geneva 20, Switzerland; phone: +41 22 919 02 11; email: *sales@iec.ch*; website: *https://www.iec.ch*.
+(q) International Electrotechnical Commission (IEC), IEC Secretariat, 3 rue de Varembé, PO Box 131, CH-1211 Geneva 20, Switzerland; phone: +41 22 919 02 11; email: *sales@iec.ch*; website: *https://www.iec.ch*. 
 
-(1) IEC 60079-20-1, Explosive atmospheres—Part 20-1: Material characteristics for gas and vapor classification—Test methods and data, Edition 1.0, 2010-01; IBR approved for appendix B to § 1910.1200.
+(1) IEC 60079-20-1, Explosive atmospheres—Part 20-1: Material characteristics for gas and vapor classification—Test methods and data, Edition 1.0, 2010-01; IBR approved for appendix B to § 1910.1200. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 (r) The following material is available for purchase from the: International Code Council, Chicago District Office, 4051 W. Flossmoor Rd., Country Club Hills, IL 60478; *telephone:* 708-799-2300, x3-3801; *facsimile:* 001-708-799-4981; *e-mail: order@iccsafe.org.*
 
-(1) IFC-2009, International Fire Code, copyright 2009, IBR approved for §§ 1910.34, 1910.35, 1910.36, and 1910.37.
+(1) IFC-2009, International Fire Code, copyright 2009, IBR approved for §§ 1910.34, 1910.35, 1910.36, and 1910.37. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(s) The following material is available for purchase from the Department of Health and Human Services:
+(s) The following material is available for purchase from the Department of Health and Human Services: 
 
-(1) Publication No. 76-120 (1975), List of Personal Hearing Protectors and Attenuation Data, IBR approved for § 1910.95 App. B.
+(1) Publication No. 76-120 (1975), List of Personal Hearing Protectors and Attenuation Data, IBR approved for § 1910.95 App. B. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(t) The following material is available for purchase from the Institute of Makers of Explosives (IME), 420 Lexington Avenue, New York, NY 10017:
+(t) The following material is available for purchase from the Institute of Makers of Explosives (IME), 420 Lexington Avenue, New York, NY 10017: 
 
-(1) IME Pamphlet No. 17, 1960, Safety in the Handling and Use of Explosives, IBR approved for §§ 1910.261 (a)(4)(iii) and (c)(14)(ii).
+(1) IME Pamphlet No. 17, 1960, Safety in the Handling and Use of Explosives, IBR approved for §§ 1910.261 (a)(4)(iii) and (c)(14)(ii). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 (u) The following material is available from the International Labour Organization (ILO), 4 route des Morillons, CH-1211 Genève 22, Switzerland; telephone: +41 (0) 22 799 6111; fax: +41 (0) 22 798 8685; website: *www.ilo.org/.*
 
-(1) Guidelines for the Use of the ILO International Classification of Radiographs of Pneumoconioses, Revised Edition 2011, Occupational safety and health series; 22 (Rev.2011), IBR approved for § 1910.1001.
+(1) Guidelines for the Use of the ILO International Classification of Radiographs of Pneumoconioses, Revised Edition 2011, Occupational safety and health series; 22 (Rev.2011), IBR approved for § 1910.1001. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(v) International Organization for Standardization (ISO), ISO Central Secretariat, Chemin de Blandonnet 8 CP 401—1214 Vernier, Geneva, Switzerland; phone: +41 22 749 01 11; email: *central@iso.org*; website: *www.iso.org/store.html*.
+(v) International Organization for Standardization (ISO), ISO Central Secretariat, Chemin de Blandonnet 8 CP 401—1214 Vernier, Geneva, Switzerland; phone: +41 22 749 01 11; email: *central@iso.org*; website: *www.iso.org/store.html*. 
 
-(1) ISO 817:2014(E), Refrigerants—Designation and safety classification, Third edition, 2014-04-15; IBR approved for appendix B to § 1910.1200.
+(1) ISO 817:2014(E), Refrigerants—Designation and safety classification, Third edition, 2014-04-15; IBR approved for appendix B to § 1910.1200. 
 
-(2) ISO 10156:1996 (E), Gases and Gas Mixtures—Determination of Fire Potential and Oxidizing Ability for the Selection of Cylinder Valve Outlets, Second Edition, Feb. 15, 1996; IBR approved for appendix B to § 1910.1200.
+(2) ISO 10156:1996 (E), Gases and Gas Mixtures—Determination of Fire Potential and Oxidizing Ability for the Selection of Cylinder Valve Outlets, Second Edition, Feb. 15, 1996; IBR approved for appendix B to § 1910.1200. 
 
-(3) ISO 10156:2017(E), Gas Cylinders—Gases and gas mixtures—Determination of fire potential and oxidizing ability for the selection of cylinder valve outlets, Fourth edition, 2017-07; IBR approved for appendix B to § 1910.1200.
+(3) ISO 10156:2017(E), Gas Cylinders—Gases and gas mixtures—Determination of fire potential and oxidizing ability for the selection of cylinder valve outlets, Fourth edition, 2017-07; IBR approved for appendix B to § 1910.1200. 
 
-(4) ISO 10156-2:2005 (E), Gas cylinders—Gases and Gas Mixtures—Part 2: Determination of Oxidizing Ability of Toxic and Corrosive Gases and Gas Mixtures, First Edition, Aug. 1, 2005; IBR approved for appendix B to subpart Z.
+(4) ISO 10156-2:2005 (E), Gas cylinders—Gases and Gas Mixtures—Part 2: Determination of Oxidizing Ability of Toxic and Corrosive Gases and Gas Mixtures, First Edition, Aug. 1, 2005; IBR approved for appendix B to subpart Z. 
 
-(5) ISO 13943:2000 (E/F); Fire Safety—Vocabulary, First Edition, April, 15, 2000, IBR approved for appendix B to § 1910.1200.
+(5) ISO 13943:2000 (E/F); Fire Safety—Vocabulary, First Edition, April, 15, 2000, IBR approved for appendix B to § 1910.1200. 
 
-(w) The following material is available for purchase from the National Electrical Manufacturer's Association (NEMA):
+(w) The following material is available for purchase from the National Electrical Manufacturer's Association (NEMA): 
 
-(1) NEMA EW-1 (1962) Requirements for Electric Arc Welding Apparatus, IBR approved for §§ 1910.254(b)(1).
+(1) NEMA EW-1 (1962) Requirements for Electric Arc Welding Apparatus, IBR approved for §§ 1910.254(b)(1). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 (x) The following material is available for purchase from the National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02269; Telephone: 800-344-3555 or 617-770-3000; Fax: 1-800-593-6372 or 1-508-895-8301; Email: *custserv@nfpa.org;* Web site: *http://www.nfpa.org.*
 
-(1) NFPA 30 (1969) Flammable and Combustible Liquids Code, IBR approved for § 1910.178(f)(1).
+(1) NFPA 30 (1969) Flammable and Combustible Liquids Code, IBR approved for § 1910.178(f)(1). 
 
-(2) NFPA 32-1970 Standard for Dry Cleaning Plants, IBR approved for § 1910.106(j)(6)(i).
+(2) NFPA 32-1970 Standard for Dry Cleaning Plants, IBR approved for § 1910.106(j)(6)(i). 
 
-(3) NFPA 33-1969 Standard for Spray Finishing Using Flammable and Combustible Material, IBR approved for § 1910.94(c)(2).
+(3) NFPA 33-1969 Standard for Spray Finishing Using Flammable and Combustible Material, IBR approved for § 1910.94(c)(2). 
 
-(4) NFPA 34-1966 Standard for Dip Tanks Containing Flammable or Combustible Liquids, IBR approved for § 1910.124(b)(4)(iv).
+(4) NFPA 34-1966 Standard for Dip Tanks Containing Flammable or Combustible Liquids, IBR approved for § 1910.124(b)(4)(iv). 
 
-(5) NFPA 34-1995 Standard for Dip Tanks Containing Flammable or Combustible Liquids, IBR approved for § 1910.124(b)(4)(ii).
+(5) NFPA 34-1995 Standard for Dip Tanks Containing Flammable or Combustible Liquids, IBR approved for § 1910.124(b)(4)(ii). 
 
-(6) NFPA 35-1970 Standard for the Manufacture of Organic Coatings, IBR approved for § 1910.106(j)(6)(ii).
+(6) NFPA 35-1970 Standard for the Manufacture of Organic Coatings, IBR approved for § 1910.106(j)(6)(ii). 
 
-(7) NFPA 36-1967 Standard for Solvent Extraction Plants, IBR approved for § 1910.106(j)(6)(iii).
+(7) NFPA 36-1967 Standard for Solvent Extraction Plants, IBR approved for § 1910.106(j)(6)(iii). 
 
-(8) NFPA 37-1970 Standard for the Installation and Use of Stationary Combustion Engines and Gas Turbines, IBR approved for §§ 1910.106(j)(6)(iv) and 1910.110 (b)(20)(iv)(c) and (e)(11).
+(8) NFPA 37-1970 Standard for the Installation and Use of Stationary Combustion Engines and Gas Turbines, IBR approved for §§ 1910.106(j)(6)(iv) and 1910.110 (b)(20)(iv)(c) and (e)(11). 
 
-(9) NFPA 51B-1962 Standard for Fire Protection in Use of Cutting and Welding Processes, IBR approved for § 1910.252(a)(1) introductory text.
+(9) NFPA 51B-1962 Standard for Fire Protection in Use of Cutting and Welding Processes, IBR approved for § 1910.252(a)(1) introductory text. 
 
-(10) NFPA 54-1969 Standard for the Installation of Gas Appliances and Gas Piping, IBR approved for § 1910.110(b)(20)(iv)(a).
+(10) NFPA 54-1969 Standard for the Installation of Gas Appliances and Gas Piping, IBR approved for § 1910.110(b)(20)(iv)(a). 
 
-(11) NFPA 54A-1969 Standard for the Installation of Gas Piping and Gas Equipment on Industrial Premises and Certain Other Premises, IBR approved for § 1910.110(b)(20)(iv)(b).
+(11) NFPA 54A-1969 Standard for the Installation of Gas Piping and Gas Equipment on Industrial Premises and Certain Other Premises, IBR approved for § 1910.110(b)(20)(iv)(b). 
 
-(12) NFPA 58-1969 Standard for the Storage and Handling of Liquefied Petroleum Gases (ANSI Z106.1-1970), IBR approved for §§ 1910.110 (b)(3)(iv) and (i)(3) (i) and (ii); and 1910.178(f)(2).
+(12) NFPA 58-1969 Standard for the Storage and Handling of Liquefied Petroleum Gases (ANSI Z106.1-1970), IBR approved for §§ 1910.110 (b)(3)(iv) and (i)(3) (i) and (ii); and 1910.178(f)(2). 
 
-(13) NFPA 59-1968 Standard for the Storage and Handling of Liquefied Petroleum Gases at Utility Gas Plants, IBR approved for §§ 1910.110 (b)(3)(iv) and (i)(2)(iv).
+(13) NFPA 59-1968 Standard for the Storage and Handling of Liquefied Petroleum Gases at Utility Gas Plants, IBR approved for §§ 1910.110 (b)(3)(iv) and (i)(2)(iv). 
 
-(14) NFPA 62-1967 Standard for the Prevention of Dust Explosions in the Production, Packaging, and Handling of Pulverized Sugar and Cocoa, IBR approved for § 1910.263(k)(2)(i).
+(14) NFPA 62-1967 Standard for the Prevention of Dust Explosions in the Production, Packaging, and Handling of Pulverized Sugar and Cocoa, IBR approved for § 1910.263(k)(2)(i). 
 
-(15) NFPA 68-1954 Guide for Explosion Venting, IBR approved for § 1910.94(a)(2)(iii).
+(15) NFPA 68-1954 Guide for Explosion Venting, IBR approved for § 1910.94(a)(2)(iii). 
 
-(16) \[Reserved\]
+(16) \[Reserved\] 
 
-(17) NFPA 78-1968 Lightning Protection Code, IBR approved for § 1910.109(i)(6)(ii).
+(17) NFPA 78-1968 Lightning Protection Code, IBR approved for § 1910.109(i)(6)(ii). 
 
-(18) NFPA 80-1968 Standard for Fire Doors and Windows, IBR approved for § 1910.106(d)(4)(i).
+(18) NFPA 80-1968 Standard for Fire Doors and Windows, IBR approved for § 1910.106(d)(4)(i). 
 
-(19) NFPA 80-1970 Standard for the Installation of Fire Doors and Windows, IBR approved for § 1910.253(f)(6)(i)(I).
+(19) NFPA 80-1970 Standard for the Installation of Fire Doors and Windows, IBR approved for § 1910.253(f)(6)(i)(I). 
 
-(20) NFPA 86A-1969 Standard for Oven and Furnaces Design, Location and Equipment, IBR approved for §§ 1910.107 (j)(1) and (l)(3) and 1910.108 (b)(2) and (d)(2).
+(20) NFPA 86A-1969 Standard for Oven and Furnaces Design, Location and Equipment, IBR approved for §§ 1910.107 (j)(1) and (l)(3) and 1910.108 (b)(2) and (d)(2). 
 
-(21) NFPA 91-1961 Standard for the Installation of Blower and Exhaust Systems for Dust, Stock, and Vapor Removal or Conveying (ANSI Z33.1-61), IBR approved for § 1910.107(d)(1).
+(21) NFPA 91-1961 Standard for the Installation of Blower and Exhaust Systems for Dust, Stock, and Vapor Removal or Conveying (ANSI Z33.1-61), IBR approved for § 1910.107(d)(1). 
 
-(22) NFPA 91-1969 Standards for Blower and Exhaust Systems, IBR approved for § 1910.108(b)(1).
+(22) NFPA 91-1969 Standards for Blower and Exhaust Systems, IBR approved for § 1910.108(b)(1). 
 
-(23) NFPA 96-1970 Standard for the Installation of Equipment for the Removal of Smoke and Grease Laden Vapors from Commercial Cooking Equipment, IBR approved for § 1910.110(b)(20)(iv)(d).
+(23) NFPA 96-1970 Standard for the Installation of Equipment for the Removal of Smoke and Grease Laden Vapors from Commercial Cooking Equipment, IBR approved for § 1910.110(b)(20)(iv)(d). 
 
-(24) NFPA 101-1970 Code for Life Safety From Fire in Buildings and Structures, IBR approved for § 1910.261(a)(4)(ii).
+(24) NFPA 101-1970 Code for Life Safety From Fire in Buildings and Structures, IBR approved for § 1910.261(a)(4)(ii). 
 
-(25) NFPA 101-2009, Life Safety Code, 2009 edition, IBR approved for §§ 1910.34, 1910.35, 1910.36, and 1910.37.
+(25) NFPA 101-2009, Life Safety Code, 2009 edition, IBR approved for §§ 1910.34, 1910.35, 1910.36, and 1910.37. 
 
-(26) NFPA 203M-1970 Manual on Roof Coverings, IBR approved for § 1910.109(i)(1)(iii)(c).
+(26) NFPA 203M-1970 Manual on Roof Coverings, IBR approved for § 1910.109(i)(1)(iii)(c). 
 
-(27) NFPA 251-1969 Standard Methods of Fire Tests of Building Construction and Materials, IBR approved for §§ 1910.106 (d)(3)(ii) introductory text and (d)(4)(i).
+(27) NFPA 251-1969 Standard Methods of Fire Tests of Building Construction and Materials, IBR approved for §§ 1910.106 (d)(3)(ii) introductory text and (d)(4)(i). 
 
-(28) NFPA 302-1968 Fire Protection Standard for Motor-Craft (Pleasure and Commercial), IBR approved for § 1910.265(d)(2)(iv) introductory text.
+(28) NFPA 302-1968 Fire Protection Standard for Motor-Craft (Pleasure and Commercial), IBR approved for § 1910.265(d)(2)(iv) introductory text. 
 
-(29) NFPA 385-1966 Recommended Regulatory Standard for Tank Vehicles for Flammable and Combustible Liquids, IBR approved for § 1910.106(g)(1)(i)(e)(1).
+(29) NFPA 385-1966 Recommended Regulatory Standard for Tank Vehicles for Flammable and Combustible Liquids, IBR approved for § 1910.106(g)(1)(i)(e)(1). 
 
-(30) NFPA 496-1967 Standard for Purged Enclosures for Electrical Equipment in Hazardous Locations, IBR approved for § 1910.103(c)(1)(ix)(e)(1).
+(30) NFPA 496-1967 Standard for Purged Enclosures for Electrical Equipment in Hazardous Locations, IBR approved for § 1910.103(c)(1)(ix)(e)(1). 
 
-(31) NFPA 505-1969 Standard for Type Designations, Areas of Use, Maintenance, and Operation of Powered Industrial Trucks, IBR approved for § 1910.110(e)(2)(iv).
+(31) NFPA 505-1969 Standard for Type Designations, Areas of Use, Maintenance, and Operation of Powered Industrial Trucks, IBR approved for § 1910.110(e)(2)(iv). 
 
-(32) NFPA 566-1965 Standard for the Installation of Bulk Oxygen Systems at Consumer Sites, IBR approved for §§ 1910.253 (b)(4)(iv) and (c)(2)(v).
+(32) NFPA 566-1965 Standard for the Installation of Bulk Oxygen Systems at Consumer Sites, IBR approved for §§ 1910.253 (b)(4)(iv) and (c)(2)(v). 
 
-(33) NFPA 656-1959 Code for the Prevention of Dust Ignition in Spice Grinding Plants, IBR approved for § 1910.263(k)(2)(i).
+(33) NFPA 656-1959 Code for the Prevention of Dust Ignition in Spice Grinding Plants, IBR approved for § 1910.263(k)(2)(i). 
 
-(34) NFPA 1971-1975 Protective Clothing for Structural Fire Fighting, IBR approved for § 1910.156(e)(3)(ii) introductory text.
+(34) NFPA 1971-1975 Protective Clothing for Structural Fire Fighting, IBR approved for § 1910.156(e)(3)(ii) introductory text. 
 
 (35) NFPA 51A (2001) Standard for Acetylene Cylinder Charging Plants, IBR approved for § 1910.102(b) and (c). Copies of NFPA 51A-2001 are available for purchase from the: National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169-7471; telephone: 1-800-344-35557; e-mail: *custserv@nfpa.org.*
 
 (36) NFPA 51A (2006) Standard for Acetylene Cylinder Charging Plants, IBR approved for § 1910.102(b) and (c). Copies of NFPA 51A-2006 are available for purchase from the: National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169-7471; telephone: 1-800-344-35557; e-mail: *custserv@nfpa.org.*
 
-(37) NFPA 30B, Code for the Manufacture and Storage of Aerosol Products, 2007 Edition, Approved August 17, 2006, IBR approved for Appendix B to § 1910.1200.
+(37) NFPA 30B, Code for the Manufacture and Storage of Aerosol Products, 2007 Edition, Approved August 17, 2006, IBR approved for Appendix B to § 1910.1200. 
 
-(y) The following material is available for purchase from the National Food Plant Institute, 1700 K St. NW., Washington, DC 20006:
+(y) The following material is available for purchase from the National Food Plant Institute, 1700 K St. NW., Washington, DC 20006: 
 
-(1) Definition and Test Procedures for Ammonium Nitrate Fertilizer (Nov. 1964), IBR approved for § 1910.109 Table H-22, ftn. 3.
+(1) Definition and Test Procedures for Ammonium Nitrate Fertilizer (Nov. 1964), IBR approved for § 1910.109 Table H-22, ftn. 3. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(z) The following material is available for purchase from the National Institute for Occupational Safety and Health (NIOSH):
+(z) The following material is available for purchase from the National Institute for Occupational Safety and Health (NIOSH): 
 
-(1) Registry of Toxic Effects of Chemical Substances, 1978, IBR approved for § 1910.20(c)(13)(i) and appendix B.
+(1) Registry of Toxic Effects of Chemical Substances, 1978, IBR approved for § 1910.20(c)(13)(i) and appendix B. 
 
-(2) Development of Criteria for Fire Fighters Gloves; Vol. II, part II; Test Methods, 1976, IBR approved for § 1910.156(e)(4)(i) introductory text.
+(2) Development of Criteria for Fire Fighters Gloves; Vol. II, part II; Test Methods, 1976, IBR approved for § 1910.156(e)(4)(i) introductory text. 
 
-(3) NIOSH Recommendations for Occupational Safety and Health Standards (Sept. 1987), IBR approved for § 1910.120 PEL definition.
+(3) NIOSH Recommendations for Occupational Safety and Health Standards (Sept. 1987), IBR approved for § 1910.120 PEL definition. 
 
-(aa) The following material is available for purchase from the Public Health Service:
+(aa) The following material is available for purchase from the Public Health Service: 
 
-(1) U.S. Pharmacopeia, IBR approved for § 1910.134(d)(1).
+(1) U.S. Pharmacopeia, IBR approved for § 1910.134(d)(1). 
 
-(2) Publication No. 934 (1962), Food Service Sanitation Ordinance and Code, part V of the Food Service Sanitation Manual, IBR approved for § 1910.142(i)(1).
+(2) Publication No. 934 (1962), Food Service Sanitation Ordinance and Code, part V of the Food Service Sanitation Manual, IBR approved for § 1910.142(i)(1). 
 
-(bb) The following material is available for purchase from the Society of Automotive Engineers (SAE), 485 Lexington Avenue, New York, NY 10017:
+(bb) The following material is available for purchase from the Society of Automotive Engineers (SAE), 485 Lexington Avenue, New York, NY 10017: 
 
-(1) SAE J185, June 1988, Recommended Practice for Access Systems for Off-Road Machines, IBR approved for § 1910.266(f)(5)(i).
+(1) SAE J185, June 1988, Recommended Practice for Access Systems for Off-Road Machines, IBR approved for § 1910.266(f)(5)(i). 
 
-(2) SAE J231, January 1981, Minimum Performance Criteria for Falling Object Protective Structure (FOPS), IBR approved for § 1910.266(f)(3)(ii).
+(2) SAE J231, January 1981, Minimum Performance Criteria for Falling Object Protective Structure (FOPS), IBR approved for § 1910.266(f)(3)(ii). 
 
-(3) SAE J386, June 1985, Operator Restraint Systems for Off-Road Work Machines, IBR approved for § 1910.266(d)(3)(iv).
+(3) SAE J386, June 1985, Operator Restraint Systems for Off-Road Work Machines, IBR approved for § 1910.266(d)(3)(iv). 
 
-(4) SAE J397, April 1988, Deflection Limiting Volume-ROPS/FOPS Laboratory Evaluation, IBR approved for § 1910.266(f)(3)(iv).
+(4) SAE J397, April 1988, Deflection Limiting Volume-ROPS/FOPS Laboratory Evaluation, IBR approved for § 1910.266(f)(3)(iv). 
 
-(5) SAE 765 (1961) SAE Recommended Practice: Crane Loading Stability Test Code, IBR approved for § 1910.180 (c)(1)(iii) and (e)(2)(iii)(*a*).
+(5) SAE 765 (1961) SAE Recommended Practice: Crane Loading Stability Test Code, IBR approved for § 1910.180 (c)(1)(iii) and (e)(2)(iii)(*a*). 
 
-(6) SAE J1040, April 1988, Performance Criteria for Rollover Protective Structures (ROPS) for Construction, Earthmoving, Forestry and Mining Machines, IBR approved for § 1910.266(f)(3)(ii).
+(6) SAE J1040, April 1988, Performance Criteria for Rollover Protective Structures (ROPS) for Construction, Earthmoving, Forestry and Mining Machines, IBR approved for § 1910.266(f)(3)(ii). 
 
-(cc) The following material is available for purchase from Underwriters Laboratories (UL), 207 East Ohio Street, Chicago, IL 60611:
+(cc) The following material is available for purchase from Underwriters Laboratories (UL), 207 East Ohio Street, Chicago, IL 60611: 
 
-(1) UL 58-61 Steel Underground Tanks for Flammable and Combustible Liquids, 5th Ed., IBR approved for § 1910.106(b)(1)(iii)(*a*)(*1*).
+(1) UL 58-61 Steel Underground Tanks for Flammable and Combustible Liquids, 5th Ed., IBR approved for § 1910.106(b)(1)(iii)(*a*)(*1*). 
 
-(2) UL 80-63 Steel Inside Tanks for Oil-Burner Fuel, IBR approved for § 1910.106(b)(1)(iii)(*a*)(*1*).
+(2) UL 80-63 Steel Inside Tanks for Oil-Burner Fuel, IBR approved for § 1910.106(b)(1)(iii)(*a*)(*1*). 
 
-(3) UL 142-68 Steel Above Ground Tanks for Flammable and Combustible Liquids, IBR approved for § 1910.106(b)(1)(iii)(*a*)(*1*).
+(3) UL 142-68 Steel Above Ground Tanks for Flammable and Combustible Liquids, IBR approved for § 1910.106(b)(1)(iii)(*a*)(*1*). 
 
-(dd) United Nations (UN), United Nations Publications, P.O. Box 960 Herndon, VA 20172; phone: (703) 661-1571;; email: *order@un.org*; website: *https://shop.un.org/*.
+(dd) United Nations (UN), United Nations Publications, P.O. Box 960 Herndon, VA 20172; phone: (703) 661-1571;; email: *order@un.org*; website: *https://shop.un.org/*. 
 
-(1) ADR 2019, European Agreement Concerning the International Carriage of Dangerous Goods by Road; Annex A: General provisions and provisions concerning dangerous substances and articles; (Volumes I and II) including December 2018 corrigendum to Volume II, applicable January 1, 2019; IBR approved for § 1910.1200.
+(1) ADR 2019, European Agreement Concerning the International Carriage of Dangerous Goods by Road; Annex A: General provisions and provisions concerning dangerous substances and articles; (Volumes I and II) including December 2018 corrigendum to Volume II, applicable January 1, 2019; IBR approved for § 1910.1200. 
 
-(2) ST/SG/AC.10/Rev.4 (“UN ST/SG/AC.10/Rev.4”), The UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria, Fourth Revised Edition, 2003; IBR approved for appendix B to § 1910.1200.
+(2) ST/SG/AC.10/Rev.4 (“UN ST/SG/AC.10/Rev.4”), The UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria, Fourth Revised Edition, 2003; IBR approved for appendix B to § 1910.1200. 
 
-(3) ST/SG/AC.10/11/Rev.6 (“UN ST/SG/AC.10/11/Rev.6”), Recommendations on the Transport of Dangerous Goods: Manual of Tests and Criteria, sixth revised edition, copyright 2015; IBR approved for appendix B to § 1910.1200.
+(3) ST/SG/AC.10/11/Rev.6 (“UN ST/SG/AC.10/11/Rev.6”), Recommendations on the Transport of Dangerous Goods: Manual of Tests and Criteria, sixth revised edition, copyright 2015; IBR approved for appendix B to § 1910.1200. 
 
 \[39 FR 23502, June 27, 1974\] Editorial Note:For Federal Register citations affecting § 1910.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

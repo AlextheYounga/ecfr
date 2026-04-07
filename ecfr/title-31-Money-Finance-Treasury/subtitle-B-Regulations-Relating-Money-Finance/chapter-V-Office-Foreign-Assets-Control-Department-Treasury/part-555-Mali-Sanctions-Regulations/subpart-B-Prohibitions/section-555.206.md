@@ -1,6 +1,6 @@
 ##### § 555.206 Exempt transactions.
 
-(a) *United Nations Participation Act.* The exemptions described in this section do not apply to transactions involving property or interests in property of persons whose property and interests in property are blocked pursuant to the authority of the United Nations Participation Act, as amended (22 U.S.C. 287c) (UNPA). 
+(a) *United Nations Participation Act.* The exemptions described in this section do not apply to transactions involving property or interests in property of persons whose property and interests in property are blocked pursuant to the authority of the United Nations Participation Act, as amended (22 U.S.C. 287c) (UNPA).
 
 Note 1 to paragraph (a):
 

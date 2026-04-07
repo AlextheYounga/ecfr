@@ -1,6 +1,6 @@
 ##### § 779.206 What are “related activities.”
 
-(a) The Senate Report on the 1961 amendments states as follows, with respect to the meaning of related activities:
+(a) The Senate Report on the 1961 amendments states as follows, with respect to the meaning of related activities: 
 
 Within the meaning of this term, activities are “related” when they are the same or similar, such as those of the individual retail or service stores in a chain, or departments of an establishment operated through leasing arrangements. They are also “related” when they are auxiliary and service activities such as central office and warehousing activities and bookkeeping, auditing, purchasing, advertising and other services. Likewise, activities are “related” when they are part of a vertical structure such as the manufacturing, warehousing, and retailing of a particular product or products under unified operation or common control for a common business purpose. (Senate Report No. 145, 87th Cong., 1st Sess., Page 41.)
 

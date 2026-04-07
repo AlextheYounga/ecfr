@@ -1,8 +1,8 @@
 ##### § 1980.103 Filing of retaliation complaints.
 
-(a) *Who may file.* An employee who believes that he or she has been retaliated against by a covered person in violation of the Act may file, or have filed on the employee's behalf, a complaint alleging such retaliation.
+(a) *Who may file.* An employee who believes that he or she has been retaliated against by a covered person in violation of the Act may file, or have filed on the employee's behalf, a complaint alleging such retaliation. 
 
-(b) *Nature of filing.* No particular form of complaint is required. A complaint may be filed orally or in writing. Oral complaints will be reduced to writing by OSHA. If the complainant is unable to file the complaint in English, OSHA will accept the complaint in any language.
+(b) *Nature of filing.* No particular form of complaint is required. A complaint may be filed orally or in writing. Oral complaints will be reduced to writing by OSHA. If the complainant is unable to file the complaint in English, OSHA will accept the complaint in any language. 
 
 (c) *Place of filing.* The complaint should be filed with the OSHA office responsible for enforcement activities in the geographical area where the employee resides or was employed, but may be filed with any OSHA officer or employee. Addresses and telephone numbers for these officials are set forth in local directories and at the following Internet address: *http://www.osha.gov.*
 

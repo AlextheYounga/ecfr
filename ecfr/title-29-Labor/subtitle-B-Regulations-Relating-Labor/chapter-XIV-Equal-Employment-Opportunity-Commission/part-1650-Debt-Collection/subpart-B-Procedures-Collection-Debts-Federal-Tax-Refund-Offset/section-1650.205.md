@@ -1,12 +1,12 @@
 ##### § 1650.205 Consideration of evidence submitted as a result of notification of intent.
 
-(a) *Consideration of evidence.* If, as a result of the notification of intent, EEOC receives notice that the debtor will submit additional evidence or receives additional evidence from the debtor within the prescribed time period, collection will be stayed until EEOC:
+(a) *Consideration of evidence.* If, as a result of the notification of intent, EEOC receives notice that the debtor will submit additional evidence or receives additional evidence from the debtor within the prescribed time period, collection will be stayed until EEOC: 
 
-(1) Considers the evidence presented by the debtor;
+(1) Considers the evidence presented by the debtor; 
 
-(2) Determines whether all or a portion of the debt is still past-due and legally enforceable; and
+(2) Determines whether all or a portion of the debt is still past-due and legally enforceable; and 
 
-(3) Notifies the debtor of its determination.
+(3) Notifies the debtor of its determination. 
 
 Failure to submit the evidence within 60 days from the date of notification of intent will result in a referral of the debt to Treasury.
 

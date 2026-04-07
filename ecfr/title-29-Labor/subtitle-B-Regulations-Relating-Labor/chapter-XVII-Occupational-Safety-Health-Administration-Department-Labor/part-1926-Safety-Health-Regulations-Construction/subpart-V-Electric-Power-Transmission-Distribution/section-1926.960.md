@@ -1,78 +1,78 @@
 ##### § 1926.960 Working on or near exposed energized parts.
 
-(a) *Application.* This section applies to work on exposed live parts, or near enough to them to expose the employee to any hazard they present.
+(a) *Application.* This section applies to work on exposed live parts, or near enough to them to expose the employee to any hazard they present. 
 
-(b) *General*—(1) *Qualified employees only.* (i) Only qualified employees may work on or with exposed energized lines or parts of equipment.
+(b) *General*—(1) *Qualified employees only.* (i) Only qualified employees may work on or with exposed energized lines or parts of equipment. 
 
-(ii) Only qualified employees may work in areas containing unguarded, uninsulated energized lines or parts of equipment operating at 50 volts or more.
+(ii) Only qualified employees may work in areas containing unguarded, uninsulated energized lines or parts of equipment operating at 50 volts or more. 
 
-(2) *Treat as energized.* Electric lines and equipment shall be considered and treated as energized unless they have been deenergized in accordance with § 1926.961.
+(2) *Treat as energized.* Electric lines and equipment shall be considered and treated as energized unless they have been deenergized in accordance with § 1926.961. 
 
-(3) *At least two employees.* (i) Except as provided in paragraph (b)(3)(ii) of this section, at least two employees shall be present while any employees perform the following types of work:
+(3) *At least two employees.* (i) Except as provided in paragraph (b)(3)(ii) of this section, at least two employees shall be present while any employees perform the following types of work: 
 
-(A) Installation, removal, or repair of lines energized at more than 600 volts,
+(A) Installation, removal, or repair of lines energized at more than 600 volts, 
 
-(B) Installation, removal, or repair of deenergized lines if an employee is exposed to contact with other parts energized at more than 600 volts,
+(B) Installation, removal, or repair of deenergized lines if an employee is exposed to contact with other parts energized at more than 600 volts, 
 
-(C) Installation, removal, or repair of equipment, such as transformers, capacitors, and regulators, if an employee is exposed to contact with parts energized at more than 600 volts,
+(C) Installation, removal, or repair of equipment, such as transformers, capacitors, and regulators, if an employee is exposed to contact with parts energized at more than 600 volts, 
 
-(D) Work involving the use of mechanical equipment, other than insulated aerial lifts, near parts energized at more than 600 volts, and
+(D) Work involving the use of mechanical equipment, other than insulated aerial lifts, near parts energized at more than 600 volts, and 
 
-(E) Other work that exposes an employee to electrical hazards greater than, or equal to, the electrical hazards posed by operations listed specifically in paragraphs (b)(3)(i)(A) through (b)(3)(i)(D) of this section.
+(E) Other work that exposes an employee to electrical hazards greater than, or equal to, the electrical hazards posed by operations listed specifically in paragraphs (b)(3)(i)(A) through (b)(3)(i)(D) of this section. 
 
-(ii) Paragraph (b)(3)(i) of this section does not apply to the following operations:
+(ii) Paragraph (b)(3)(i) of this section does not apply to the following operations: 
 
-(A) Routine circuit switching, when the employer can demonstrate that conditions at the site allow safe performance of this work,
+(A) Routine circuit switching, when the employer can demonstrate that conditions at the site allow safe performance of this work, 
 
-(B) Work performed with live-line tools when the position of the employee is such that he or she is neither within reach of, nor otherwise exposed to contact with, energized parts, and
+(B) Work performed with live-line tools when the position of the employee is such that he or she is neither within reach of, nor otherwise exposed to contact with, energized parts, and 
 
-(C) Emergency repairs to the extent necessary to safeguard the general public.
+(C) Emergency repairs to the extent necessary to safeguard the general public. 
 
-(c) *Live work*—(1) *Minimum approach distances.* (i) The employer shall establish minimum approach distances no less than the distances computed by Table V-2 for ac systems or Table V-7 for dc systems.
+(c) *Live work*—(1) *Minimum approach distances.* (i) The employer shall establish minimum approach distances no less than the distances computed by Table V-2 for ac systems or Table V-7 for dc systems. 
 
-(ii) No later than April 1, 2015, for voltages over 72.5 kilovolts, the employer shall determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through an engineering analysis or assume a maximum anticipated per-unit transient overvoltage, phase-to-ground, in accordance with Table V-8. When the employer uses portable protective gaps to control the maximum transient overvoltage, the value of the maximum anticipated per-unit transient overvoltage, phase-to-ground, must provide for five standard deviations between the statistical sparkover voltage of the gap and the statistical withstand voltage corresponding to the electrical component of the minimum approach distance. The employer shall make any engineering analysis conducted to determine maximum anticipated per-unit transient overvoltage available upon request to employees and to the Assistant Secretary or designee for examination and copying.
+(ii) No later than April 1, 2015, for voltages over 72.5 kilovolts, the employer shall determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through an engineering analysis or assume a maximum anticipated per-unit transient overvoltage, phase-to-ground, in accordance with Table V-8. When the employer uses portable protective gaps to control the maximum transient overvoltage, the value of the maximum anticipated per-unit transient overvoltage, phase-to-ground, must provide for five standard deviations between the statistical sparkover voltage of the gap and the statistical withstand voltage corresponding to the electrical component of the minimum approach distance. The employer shall make any engineering analysis conducted to determine maximum anticipated per-unit transient overvoltage available upon request to employees and to the Assistant Secretary or designee for examination and copying. 
 
 Note to paragraph (c)(1)(ii):
 
 See appendix B to this subpart for information on how to calculate the maximum anticipated per-unit transient overvoltage, phase-to-ground, when the employer uses portable protective gaps to reduce maximum transient overvoltages.
 
-(iii) The employer shall ensure that no employee approaches or takes any conductive object closer to exposed energized parts than the employer's established minimum approach distance, unless:
+(iii) The employer shall ensure that no employee approaches or takes any conductive object closer to exposed energized parts than the employer's established minimum approach distance, unless: 
 
-(A) The employee is insulated from the energized part (rubber insulating gloves or rubber insulating gloves and sleeves worn in accordance with paragraph (c)(2) of this section constitutes insulation of the employee from the energized part upon which the employee is working provided that the employee has control of the part in a manner sufficient to prevent exposure to uninsulated portions of the employee's body), or
+(A) The employee is insulated from the energized part (rubber insulating gloves or rubber insulating gloves and sleeves worn in accordance with paragraph (c)(2) of this section constitutes insulation of the employee from the energized part upon which the employee is working provided that the employee has control of the part in a manner sufficient to prevent exposure to uninsulated portions of the employee's body), or 
 
-(B) The energized part is insulated from the employee and from any other conductive object at a different potential, or
+(B) The energized part is insulated from the employee and from any other conductive object at a different potential, or 
 
-(C) The employee is insulated from any other exposed conductive object in accordance with the requirements for live-line barehand work in § 1926.964(c).
+(C) The employee is insulated from any other exposed conductive object in accordance with the requirements for live-line barehand work in § 1926.964(c). 
 
-(2) *Type of insulation.* (i) When an employee uses rubber insulating gloves as insulation from energized parts (under paragraph (c)(1)(iii)(A) of this section), the employer shall ensure that the employee also uses rubber insulating sleeves. However, an employee need not use rubber insulating sleeves if:
+(2) *Type of insulation.* (i) When an employee uses rubber insulating gloves as insulation from energized parts (under paragraph (c)(1)(iii)(A) of this section), the employer shall ensure that the employee also uses rubber insulating sleeves. However, an employee need not use rubber insulating sleeves if: 
 
-(A) Exposed energized parts on which the employee is not working are insulated from the employee; and
+(A) Exposed energized parts on which the employee is not working are insulated from the employee; and 
 
-(B) When installing insulation for purposes of paragraph (c)(2)(i)(A) of this section, the employee installs the insulation from a position that does not expose his or her upper arm to contact with other energized parts.
+(B) When installing insulation for purposes of paragraph (c)(2)(i)(A) of this section, the employee installs the insulation from a position that does not expose his or her upper arm to contact with other energized parts. 
 
-(ii) When an employee uses rubber insulating gloves or rubber insulating gloves and sleeves as insulation from energized parts (under paragraph (c)(1)(iii)(A) of this section), the employer shall ensure that the employee:
+(ii) When an employee uses rubber insulating gloves or rubber insulating gloves and sleeves as insulation from energized parts (under paragraph (c)(1)(iii)(A) of this section), the employer shall ensure that the employee: 
 
-(A) Puts on the rubber insulating gloves and sleeves in a position where he or she cannot reach into the minimum approach distance, established by the employer under paragraph (c)(1) of this section; and
+(A) Puts on the rubber insulating gloves and sleeves in a position where he or she cannot reach into the minimum approach distance, established by the employer under paragraph (c)(1) of this section; and 
 
-(B) Does not remove the rubber insulating gloves and sleeves until he or she is in a position where he or she cannot reach into the minimum approach distance, established by the employer under paragraph (c)(1) of this section.
+(B) Does not remove the rubber insulating gloves and sleeves until he or she is in a position where he or she cannot reach into the minimum approach distance, established by the employer under paragraph (c)(1) of this section. 
 
-(d) *Working position*—(1) *Working from below.* The employer shall ensure that each employee, to the extent that other safety-related conditions at the worksite permit, works in a position from which a slip or shock will not bring the employee's body into contact with exposed, uninsulated parts energized at a potential different from the employee's.
+(d) *Working position*—(1) *Working from below.* The employer shall ensure that each employee, to the extent that other safety-related conditions at the worksite permit, works in a position from which a slip or shock will not bring the employee's body into contact with exposed, uninsulated parts energized at a potential different from the employee's. 
 
-(2) *Requirements for working without electrical protective equipment.* When an employee performs work near exposed parts energized at more than 600 volts, but not more than 72.5 kilovolts, and is not wearing rubber insulating gloves, being protected by insulating equipment covering the energized parts, performing work using live-line tools, or performing live-line barehand work under § 1926.964(c), the employee shall work from a position where he or she cannot reach into the minimum approach distance, established by the employer under paragraph (c)(1) of this section.
+(2) *Requirements for working without electrical protective equipment.* When an employee performs work near exposed parts energized at more than 600 volts, but not more than 72.5 kilovolts, and is not wearing rubber insulating gloves, being protected by insulating equipment covering the energized parts, performing work using live-line tools, or performing live-line barehand work under § 1926.964(c), the employee shall work from a position where he or she cannot reach into the minimum approach distance, established by the employer under paragraph (c)(1) of this section. 
 
-(e) *Making connections.* The employer shall ensure that employees make connections as follows:
+(e) *Making connections.* The employer shall ensure that employees make connections as follows: 
 
-(1) *Connecting.* In connecting deenergized equipment or lines to an energized circuit by means of a conducting wire or device, an employee shall first attach the wire to the deenergized part;
+(1) *Connecting.* In connecting deenergized equipment or lines to an energized circuit by means of a conducting wire or device, an employee shall first attach the wire to the deenergized part; 
 
-(2) *Disconnecting.* When disconnecting equipment or lines from an energized circuit by means of a conducting wire or device, an employee shall remove the source end first; and
+(2) *Disconnecting.* When disconnecting equipment or lines from an energized circuit by means of a conducting wire or device, an employee shall remove the source end first; and 
 
-(3) *Loose conductors.* When lines or equipment are connected to or disconnected from energized circuits, an employee shall keep loose conductors away from exposed energized parts.
+(3) *Loose conductors.* When lines or equipment are connected to or disconnected from energized circuits, an employee shall keep loose conductors away from exposed energized parts. 
 
-(f) *Conductive articles.* When an employee performs work within reaching distance of exposed energized parts of equipment, the employer shall ensure that the employee removes or renders nonconductive all exposed conductive articles, such as keychains or watch chains, rings, or wrist watches or bands, unless such articles do not increase the hazards associated with contact with the energized parts.
+(f) *Conductive articles.* When an employee performs work within reaching distance of exposed energized parts of equipment, the employer shall ensure that the employee removes or renders nonconductive all exposed conductive articles, such as keychains or watch chains, rings, or wrist watches or bands, unless such articles do not increase the hazards associated with contact with the energized parts. 
 
-(g) *Protection from flames and electric arcs*—(1) *Hazard assessment.* The employer shall assess the workplace to identify employees exposed to hazards from flames or from electric arcs.
+(g) *Protection from flames and electric arcs*—(1) *Hazard assessment.* The employer shall assess the workplace to identify employees exposed to hazards from flames or from electric arcs. 
 
-(2) *Estimate of available heat energy.* For each employee exposed to hazards from electric arcs, the employer shall make a reasonable estimate of the incident heat energy to which the employee would be exposed.
+(2) *Estimate of available heat energy.* For each employee exposed to hazards from electric arcs, the employer shall make a reasonable estimate of the incident heat energy to which the employee would be exposed. 
 
 Note 1 to paragraph (g)(2):
 
@@ -82,57 +82,57 @@ Note 2 to paragraph (g)(2):
 
 This paragraph does not require the employer to estimate the incident heat energy exposure for every job task performed by each employee. The employer may make broad estimates that cover multiple system areas provided the employer uses reasonable assumptions about the energy-exposure distribution throughout the system and provided the estimates represent the maximum employee exposure for those areas. For example, the employer could estimate the heat energy just outside a substation feeding a radial distribution system and use that estimate for all jobs performed on that radial system.
 
-(3) *Prohibited clothing.* The employer shall ensure that each employee who is exposed to hazards from flames or electric arcs does not wear clothing that could melt onto his or her skin or that could ignite and continue to burn when exposed to flames or the heat energy estimated under paragraph (g)(2) of this section.
+(3) *Prohibited clothing.* The employer shall ensure that each employee who is exposed to hazards from flames or electric arcs does not wear clothing that could melt onto his or her skin or that could ignite and continue to burn when exposed to flames or the heat energy estimated under paragraph (g)(2) of this section. 
 
 Note to paragraph (g)(3):
 
 This paragraph prohibits clothing made from acetate, nylon, polyester, rayon and polypropylene, either alone or in blends, unless the employer demonstrates that the fabric has been treated to withstand the conditions that may be encountered by the employee or that the employee wears the clothing in such a manner as to eliminate the hazard involved.
 
-(4) *Flame-resistant clothing.* The employer shall ensure that the outer layer of clothing worn by an employee, except for clothing not required to be arc rated under paragraphs (g)(5)(i) through (g)(5)(v) of this section, is flame resistant under any of the following conditions:
+(4) *Flame-resistant clothing.* The employer shall ensure that the outer layer of clothing worn by an employee, except for clothing not required to be arc rated under paragraphs (g)(5)(i) through (g)(5)(v) of this section, is flame resistant under any of the following conditions: 
 
-(i) The employee is exposed to contact with energized circuit parts operating at more than 600 volts,
+(i) The employee is exposed to contact with energized circuit parts operating at more than 600 volts, 
 
-(ii) An electric arc could ignite flammable material in the work area that, in turn, could ignite the employee's clothing,
+(ii) An electric arc could ignite flammable material in the work area that, in turn, could ignite the employee's clothing, 
 
-(iii) Molten metal or electric arcs from faulted conductors in the work area could ignite the employee's clothing, or
+(iii) Molten metal or electric arcs from faulted conductors in the work area could ignite the employee's clothing, or 
 
 Note to paragraph (g)(4)(iii):
 
 This paragraph does not apply to conductors that are capable of carrying, without failure, the maximum available fault current for the time the circuit protective devices take to interrupt the fault.
 
-(iv) The incident heat energy estimated under paragraph (g)(2) of this section exceeds 2.0 cal/cm 2.
+(iv) The incident heat energy estimated under paragraph (g)(2) of this section exceeds 2.0 cal/cm 2. 
 
-(5) *Arc rating.* The employer shall ensure that each employee exposed to hazards from electric arcs wears protective clothing and other protective equipment with an arc rating greater than or equal to the heat energy estimated under paragraph (g)(2) of this section whenever that estimate exceeds 2.0 cal/cm 2. This protective equipment shall cover the employee's entire body, except as follows:
+(5) *Arc rating.* The employer shall ensure that each employee exposed to hazards from electric arcs wears protective clothing and other protective equipment with an arc rating greater than or equal to the heat energy estimated under paragraph (g)(2) of this section whenever that estimate exceeds 2.0 cal/cm 2. This protective equipment shall cover the employee's entire body, except as follows: 
 
-(i) Arc-rated protection is not necessary for the employee's hands when the employee is wearing rubber insulating gloves with protectors or, if the estimated incident energy is no more than 14 cal/cm 2, heavy-duty leather work gloves with a weight of at least 407 gm/m 2 (12 oz/yd 2),
+(i) Arc-rated protection is not necessary for the employee's hands when the employee is wearing rubber insulating gloves with protectors or, if the estimated incident energy is no more than 14 cal/cm 2, heavy-duty leather work gloves with a weight of at least 407 gm/m 2 (12 oz/yd 2), 
 
-(ii) Arc-rated protection is not necessary for the employee's feet when the employee is wearing heavy-duty work shoes or boots,
+(ii) Arc-rated protection is not necessary for the employee's feet when the employee is wearing heavy-duty work shoes or boots, 
 
-(iii) Arc-rated protection is not necessary for the employee's head when the employee is wearing head protection meeting § 1926.100(b)(2) if the estimated incident energy is less than 9 cal/cm 2 for exposures involving single-phase arcs in open air or 5 cal/cm 2 for other exposures,
+(iii) Arc-rated protection is not necessary for the employee's head when the employee is wearing head protection meeting § 1926.100(b)(2) if the estimated incident energy is less than 9 cal/cm 2 for exposures involving single-phase arcs in open air or 5 cal/cm 2 for other exposures, 
 
-(iv) The protection for the employee's head may consist of head protection meeting § 1926.100(b)(2) and a faceshield with a minimum arc rating of 8 cal/cm 2 if the estimated incident-energy exposure is less than 13 cal/cm 2 for exposures involving single-phase arcs in open air or 9 cal/cm 2 for other exposures, and
+(iv) The protection for the employee's head may consist of head protection meeting § 1926.100(b)(2) and a faceshield with a minimum arc rating of 8 cal/cm 2 if the estimated incident-energy exposure is less than 13 cal/cm 2 for exposures involving single-phase arcs in open air or 9 cal/cm 2 for other exposures, and 
 
-(v) For exposures involving single-phase arcs in open air, the arc rating for the employee's head and face protection may be 4 cal/cm 2 less than the estimated incident energy.
+(v) For exposures involving single-phase arcs in open air, the arc rating for the employee's head and face protection may be 4 cal/cm 2 less than the estimated incident energy. 
 
 Note to paragraph (g):
 
 See appendix E to this subpart for further information on the selection of appropriate protection.
 
-(6) *Dates.* (i) The obligation in paragraph (g)(2) of this section for the employer to make reasonable estimates of incident energy commences January 1, 2015.
+(6) *Dates.* (i) The obligation in paragraph (g)(2) of this section for the employer to make reasonable estimates of incident energy commences January 1, 2015. 
 
-(ii) The obligation in paragraph (g)(4)(iv) of this section for the employer to ensure that the outer layer of clothing worn by an employee is flame-resistant when the estimated incident heat energy exceeds 2.0 cal/cm 2 commences April 1, 2015.
+(ii) The obligation in paragraph (g)(4)(iv) of this section for the employer to ensure that the outer layer of clothing worn by an employee is flame-resistant when the estimated incident heat energy exceeds 2.0 cal/cm 2 commences April 1, 2015. 
 
-(iii) The obligation in paragraph (g)(5) of this section for the employer to ensure that each employee exposed to hazards from electric arcs wears the required arc-rated protective equipment commences April 1, 2015.
+(iii) The obligation in paragraph (g)(5) of this section for the employer to ensure that each employee exposed to hazards from electric arcs wears the required arc-rated protective equipment commences April 1, 2015. 
 
-(h) *Fuse handling.* When an employee must install or remove fuses with one or both terminals energized at more than 300 volts, or with exposed parts energized at more than 50 volts, the employer shall ensure that the employee uses tools or gloves rated for the voltage. When an employee installs or removes expulsion-type fuses with one or both terminals energized at more than 300 volts, the employer shall ensure that the employee wears eye protection meeting the requirements of subpart E of this part, uses a tool rated for the voltage, and is clear of the exhaust path of the fuse barrel.
+(h) *Fuse handling.* When an employee must install or remove fuses with one or both terminals energized at more than 300 volts, or with exposed parts energized at more than 50 volts, the employer shall ensure that the employee uses tools or gloves rated for the voltage. When an employee installs or removes expulsion-type fuses with one or both terminals energized at more than 300 volts, the employer shall ensure that the employee wears eye protection meeting the requirements of subpart E of this part, uses a tool rated for the voltage, and is clear of the exhaust path of the fuse barrel. 
 
-(i) *Covered (noninsulated) conductors.* The requirements of this section that pertain to the hazards of exposed live parts also apply when an employee performs work in proximity to covered (noninsulated) wires.
+(i) *Covered (noninsulated) conductors.* The requirements of this section that pertain to the hazards of exposed live parts also apply when an employee performs work in proximity to covered (noninsulated) wires. 
 
-(j) *Non-current-carrying metal parts.* Non-current-carrying metal parts of equipment or devices, such as transformer cases and circuit-breaker housings, shall be treated as energized at the highest voltage to which these parts are exposed, unless the employer inspects the installation and determines that these parts are grounded before employees begin performing the work.
+(j) *Non-current-carrying metal parts.* Non-current-carrying metal parts of equipment or devices, such as transformer cases and circuit-breaker housings, shall be treated as energized at the highest voltage to which these parts are exposed, unless the employer inspects the installation and determines that these parts are grounded before employees begin performing the work. 
 
-(k) *Opening and closing circuits under load.* (1) The employer shall ensure that devices used by employees to open circuits under load conditions are designed to interrupt the current involved.
+(k) *Opening and closing circuits under load.* (1) The employer shall ensure that devices used by employees to open circuits under load conditions are designed to interrupt the current involved. 
 
-(2) The employer shall ensure that devices used by employees to close circuits under load conditions are designed to safely carry the current involved.
+(2) The employer shall ensure that devices used by employees to close circuits under load conditions are designed to safely carry the current involved. 
 
 ![](/graphics/er11ap14.034.gif)![](/graphics/er11ap14.035.gif)
 

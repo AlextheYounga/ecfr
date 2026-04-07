@@ -1,6 +1,6 @@
 ##### § 4044.58 Tables used to determine expected retirement age.
 
-The following tables are used for determining expected retirement age under §§ 4044.55 through 4044.57.
+The following tables are used for determining expected retirement age under §§ 4044.55 through 4044.57. 
 
 Table 1 to § 4044.58—Table I-24—Selection of Retirement Rate Category
 

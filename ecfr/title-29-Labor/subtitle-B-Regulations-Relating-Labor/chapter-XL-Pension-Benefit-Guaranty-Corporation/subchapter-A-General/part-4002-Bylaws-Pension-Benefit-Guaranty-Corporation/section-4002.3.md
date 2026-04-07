@@ -1,5 +1,5 @@
 ##### § 4002.3 Meetings.
 
-(a) *General.* Meetings of the Board of Directors are called by the Chair in accordance with section 4002(e)(1) of ERISA and on the request of any Board Member. The Chair must provide reasonable notice of any meetings to each Board Member.
+(a) *General.* Meetings of the Board of Directors are called by the Chair in accordance with section 4002(e)(1) of ERISA and on the request of any Board Member. The Chair must provide reasonable notice of any meetings to each Board Member. 
 
 (b) *Minutes.* The General Counsel of the Corporation serves as Secretary to the Board of Directors pursuant to section 4002(d)(5) of ERISA. The General Counsel must keep Board minutes. As soon as practicable after each meeting, the General Counsel must distribute a draft of the minutes of such meeting to each Member of the Board for approval. The Board of Directors may approve minutes by resolution or by voice vote at a subsequent meeting. Subject to appropriate redactions authorized by section 4002(e)(2)(C) of ERISA, approved minutes will be posted on PBGC's Web site.

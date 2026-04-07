@@ -1,6 +1,6 @@
 ##### § 548.500 Methods of computation.
 
-The methods of computing overtime pay on the basic rates for piece workers, hourly rated employees, and salaried employees are the same as the methods of computing overtime pay at the regular rate.
+The methods of computing overtime pay on the basic rates for piece workers, hourly rated employees, and salaried employees are the same as the methods of computing overtime pay at the regular rate. 
 
 Example 1.Under an employment agreement the basic rate to be used in computing overtime compensation for a piece worker for hours of work in excess of 8 in each day is the employee's average hourly earnings for all work performed during that day. 23 The employee is entitled to one-half the basic rate for each daily overtime hour in addition to the total piece work earnings for the day. 
 

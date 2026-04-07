@@ -1,6 +1,6 @@
 ##### § 351.19 What are maturity periods of Series EE savings bonds with issue dates prior to May 1, 1995?
 
-Bonds with issue dates from January 1, 1980, through May 1, 1995 have an original maturity period and two extended maturity periods, as shown by the following table: 
+Bonds with issue dates from January 1, 1980, through May 1, 1995 have an original maturity period and two extended maturity periods, as shown by the following table:
 
 | Issue dates—1st day of | Original term   (in years) | First extended term   (in years) | Second extended term   (in years) | Final maturity dates |
 | ---------------------- | -------------------------- | -------------------------------- | --------------------------------- | -------------------- |

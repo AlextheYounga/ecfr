@@ -1,6 +1,6 @@
 ##### § 780.605 Employment in agriculture.
 
-One requirement for exemption is that the employee be employed in “agriculture.” “Agriculture,” as used in the Act, is defined in section 3(f) as follows:
+One requirement for exemption is that the employee be employed in “agriculture.” “Agriculture,” as used in the Act, is defined in section 3(f) as follows: 
 
 (f) “Agriculture” includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvesting of any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 15(g) of the Agricultural Marketing Act, as amended), the raising of livestock, bees, fur-bearing animals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
 
