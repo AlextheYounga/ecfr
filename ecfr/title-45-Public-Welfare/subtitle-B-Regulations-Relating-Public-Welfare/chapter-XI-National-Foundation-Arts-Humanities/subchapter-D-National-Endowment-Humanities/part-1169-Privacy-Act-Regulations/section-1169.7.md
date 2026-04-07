@@ -14,7 +14,7 @@
 
 (c) NEH will acknowledge a request for amendment or correction as soon as practicable, and in no event less than 5 business days.
 
-(d) When NEH has previously verified the individual's identity pursuant to §§ 1169.6(b) or 1169.6(c), it will not require further verification of identity so long as the request for amendment or correction does not suggest a need for additional verification. If NEH has not previously verified the individual's identity, it may require that the individual validate his or her identity as described in §§ 1169.6(b) or 1169(c).
+(d) When NEH has previously verified the individual's identity pursuant to § 1169.6(b) or § 1169.6(c), it will not require further verification of identity so long as the request for amendment or correction does not suggest a need for additional verification. If NEH has not previously verified the individual's identity, it may require that the individual validate his or her identity as described in § 1169.6(b) or § 1169(c).
 
 (e) To the extent possible, NEH will render a decision upon a request to amend a record no less than 20 business days after receiving such a request. In the event NEH cannot render a decision within that time frame, it will so inform the individual who made the request and provide an expected date for a decision. Any such decision will include the following information:
 
