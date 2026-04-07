@@ -10,6 +10,8 @@
 
 (3)(i) In unusual circumstances, the agency may extend the time for sending the letter for an additional period.
 
+(A) The Agency may provide for an extension of up to 10 working days by providing written notice to the requester setting out the reasons for the extension and the date by which a determination is expected to be sent. In the written notice, the Agency will inform the requester of the right to contact the Freedom of Information Act Public Liaison and to seek dispute resolution services from the Office of Government Information Services.
+
 (B) The agency may provide for an extension of more than 10 working days by providing written notice to the requester setting out the reasons for the extension. The notice also will give the requester an opportunity to limit the scope of the request so that it may be processed in a shorter time and/or an opportunity to agree on a timeframe longer than the 10 extra working days for processing the request.
 
 (ii) Unusual circumstances may exist under any of the following conditions:
