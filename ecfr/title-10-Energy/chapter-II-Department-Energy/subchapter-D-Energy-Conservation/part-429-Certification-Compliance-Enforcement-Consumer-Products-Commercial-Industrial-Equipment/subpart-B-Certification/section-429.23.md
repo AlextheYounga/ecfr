@@ -6,13 +6,13 @@
 
 (i) The mean of the sample, where:
 
-![](/graphics/er16de16.028.gif)and *x* is the sample mean; n is the number of samples; and xi is the i th sample;
+![](/graphics/er16de16.028.gif)and *x />* is the sample mean; n is the number of samples; and xi is the i th sample;
 
 Or,
 
 (ii) The upper 97 1/2 percent confidence limit (UCL) of the true mean divided by 1.05, where:
 
-![](/graphics/er16de16.041.gif)And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and *t*0.975 is the t statistic for a 97.5% one-tailed confidence interval with n-1 degrees of freedom (from appendix A).
+![](/graphics/er16de16.041.gif)And *x />* is the sample mean; s is the sample standard deviation; n is the number of samples; and *t*0.975 is the t statistic for a 97.5% one-tailed confidence interval with n-1 degrees of freedom (from appendix A).
 
 (b) *Certification reports.* (1) The requirements of § 429.12 are applicable to conventional cooking tops, conventional ovens and microwave ovens; and
 

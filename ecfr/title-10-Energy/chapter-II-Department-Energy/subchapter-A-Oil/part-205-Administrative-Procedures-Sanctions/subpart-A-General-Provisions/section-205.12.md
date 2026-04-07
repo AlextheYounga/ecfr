@@ -15,7 +15,7 @@
 
 (4) Documents to be filed with the Office of Private Grievances and Redress, as provided in this part or otherwise, shall be addressed as follows: Office of Private Grievances and Redress, Department of Energy, Attn: (name of person to receive document, if known and/or labeling as specified in § 205.9(c)), Washington, DC 20461.
 
-(5) All other documents filed, except those concerning price (see paragraph (a)(6) of this section), those designated as DOE or FEO forms (see paragraph (a)(7) of this section), and “Surplus Product Reports” (see paragraph (a)(8) of this section), but including those pertaining to compliance and allocation (adjustment and assignment) of allocated products, are to be identified by one of the code numbers stated below and addressed as follows: Department of Energy, Code\_\_, labeling as specified in § 205.9(c), Washington, DC 20461.
+(5) All other documents filed, except those concerning price (see paragraph (a)(6) of this section), those designated as DOE or FEO forms (see paragraph (a)(7) of this section), and “Surplus Product Reports” (see paragraph (a)(8) of this section), but including those pertaining to compliance and allocation (adjustment and assignment) of allocated products, are to be identified by one of the code numbers stated below and addressed as follows: Department of Energy, Code\_\_\_\_, labeling as specified in § 205.9(c), Washington, DC 20461.
 
 Code Numbers
 

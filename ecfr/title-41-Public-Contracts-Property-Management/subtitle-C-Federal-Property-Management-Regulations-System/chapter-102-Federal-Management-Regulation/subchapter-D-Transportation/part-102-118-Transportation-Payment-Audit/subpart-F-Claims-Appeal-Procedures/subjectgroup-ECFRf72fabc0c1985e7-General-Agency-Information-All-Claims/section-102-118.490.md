@@ -1,5 +1,7 @@
 ##### § 102-118.490 What if my agency fails to settle a dispute within 30 days?
 
+Link to an amendment published at 87 FR 32325, May 31, 2022.
+
 (a) If your agency fails to settle a dispute within 30 days, the TSP may appeal to:
 
 General Services Administration Federal Supply Service Audit Division (FBA) Code: CC 1800 F Street, NW. Washington, DC 20405 *www.gsa.gov/transaudits*
