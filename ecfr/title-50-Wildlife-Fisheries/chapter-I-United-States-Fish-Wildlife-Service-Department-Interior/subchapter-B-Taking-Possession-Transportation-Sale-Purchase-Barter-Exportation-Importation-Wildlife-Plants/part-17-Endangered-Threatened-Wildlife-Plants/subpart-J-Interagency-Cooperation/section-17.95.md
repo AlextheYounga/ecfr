@@ -20959,7 +20959,115 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (ii) Map of Unit RF31 follows:
 
-![](/graphics/er30ap15.049.gif)Tumbling Creek Cavesnail (*Antrobia culveri*)
+![](/graphics/er30ap15.049.gif)Yellow Lance (*Elliptio lanceolata*)
+
+(1) Critical habitat units are depicted for Franklin, Granville, Halifax, Johnston, Nash, Vance, Wake, and Warren Counties, North Carolina; Brunswick, Craig, Culpeper, Dinwiddie, Fauquier, Louisa, Lunenburg, Madison, Nottoway, Orange, and Rappahannock Counties, Virginia; and Howard and Montgomery Counties, Maryland, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to yellow lance conservation consist of the following components:
+
+(i) Suitable substrates and connected instream habitats, characterized by geomorphically stable stream channels and banks (*i.e.,* channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation) with habitats that support a diversity of freshwater mussel and native fish (such as stable riffle-run-pool habitats that provide flow refuges consisting of silt-free gravel and coarse sand substrates).
+
+(ii) Adequate flows, or a hydrologic flow regime (which includes the severity, frequency, duration, and seasonality of discharge over time), necessary to maintain benthic habitats where the species is found and to maintain connectivity of streams with the floodplain, allowing the exchange of nutrients and sediment for maintenance of the mussel's and fish host's habitat, food availability, spawning habitat for native fishes, and the ability for newly transformed juveniles to settle and become established in their habitats.
+
+(iii) Water and sediment quality (including, but not limited to, conductivity, hardness, turbidity, temperature, pH, ammonia, heavy metals, and chemical constituents) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages.
+
+(iv) The presence and abundance of fish hosts necessary for yellow lance recruitment.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on May 10, 2021.
+
+(4) *Critical habitat map units.* Data layers defining map units were created by overlaying Natural Heritage Element Occurrence data and U.S. Geological Survey (USGS) hydrologic data for stream reaches. The hydrologic data used in the critical habitat maps were extracted from the USGS 1:1M scale nationwide hydrologic layer (*https://nationalmap.gov/small\_scale/mld/1nethyd.html*) with a projection of EPSG:4269-NAD83 Geographic. The North Carolina, Virginia, and Maryland Natural Heritage program species presence data were used to select specific stream segments for inclusion in the critical habitat layer. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *http://www.regulations.gov* under Docket No. FWS-R4-ES-2018-0094 and at the Raleigh Ecological Services Field Office. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er08ap21.000.gif)
+
+(6) Unit 1: PR1 - Patuxent River, Montgomery and Howard Counties, Maryland.
+
+(i) This unit consists of approximately 10 river miles (16.1 kilometers (km)) of occupied habitat, including 3 miles (4.8 km) of the Patuxent River and 7 miles (11.3 km) of the Hawlings River. Unit 1 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er08ap21.001.gif)
+
+(7) Unit 2: RR1 - Rappahannock Subbasin, Rappahannock, Fauquier, and Culpeper Counties, Virginia.
+
+(i) This unit consists of approximately 44 river miles (70.8 km) of occupied habitat in the Rappahannock Subbasin, including 1.7 miles (2.7 km) in Hungry Run, 7.9 miles (12.7 km) in Thumb Run, 5.9 miles (9.5 km) in South Run/Carter Run, 2.7 miles (4.3 km) in Great Run, and 25.8 miles (41.6 km) in Rappahannock River. Unit 2 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er08ap21.002.gif)
+
+(8) Unit 3: RR2 - Rapidan Subbasin, Madison and Orange Counties, Virginia.
+
+(i) This unit consists of 9 river miles (14.5 km) of occupied habitat in the Rapidan Subbasin, including 1.2 miles (1.9 km) in Marsh Run, 3.1 miles (5.0 km) in Blue Run, and 4.7 miles (7.6 km) in the Rapidan River. Unit 3 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 3 follows:
+
+![](/graphics/er08ap21.003.gif)
+
+(9) Unit 4: YR1 - South Anna River, Louisa County, Virginia.
+
+(i) This unit consists of approximately 8 river miles (12.9 km) of occupied habitat in the South Anna River. Unit 4 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 4 follows:
+
+![](/graphics/er08ap21.004.gif)
+
+(10) Unit 5: JR1 - Johns Creek, Craig County, Virginia.
+
+(i) This unit consists of approximately 14 river miles (22.5 km) of occupied habitat in the Johns Creek. Unit 5 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 5 follows:
+
+![](/graphics/er08ap21.005.gif)
+
+(11) Unit 6: CR1 - Nottoway Subbasin, Nottoway, Lunenburg, Brunswick, and Dinwiddie Counties, Virginia.
+
+(i) This unit consists of approximately 41 river miles (66 km) of occupied habitat in the Nottoway Subbasin, including 1.4 miles (2.3 km) in Crooked Creek, 3.3 miles (5.3 km) in Sturgeon Creek, and 36.3 miles (58.4 km) in the Nottoway River. Unit 6 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 6 follows:
+
+![](/graphics/er08ap21.006.gif)
+
+(12) Unit 7: TR1 - Tar River, Granville, Vance, Franklin, and Nash Counties, North Carolina.
+
+(i) This unit consists of approximately 91 river miles (146.5 km) of occupied habitat in the Tar River, including 4.4 miles (7.1 km) in Ruin Creek, 11.9 miles (19.2 km) in Tabbs Creek, 6.8 miles (10.9 km) in Crooked Creek, and 67.9 miles (109.3 km) in the Tar River. Unit 7 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 7 follows:
+
+![](/graphics/er08ap21.007.gif)
+
+(13) Unit 8: TR2 - Sandy/Swift Creek, Vance, Warren, Halifax, Franklin, and Nash Counties, North Carolina.
+
+(i) This unit consists of 31 river miles (50 km) of occupied habitat in the Sandy and Swift Creeks. Unit 8 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 8 follows:
+
+![](/graphics/er08ap21.008.gif)
+
+(14) Unit 9: TR3 - Fishing Creek Subbasin, Vance, Warren, Halifax, Franklin, and Nash Counties, North Carolina.
+
+(i) This unit consists of approximately 37 river miles (59.5 km) of occupied habitat in the Fishing Creek Subbasin, including 1.6 miles (2.6 km) in Richneck Creek, 8.0 miles (12.9 km) in Shocco Creek, and 27.4 miles (44 km) in Fishing Creek. Unit 9 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 9 follows:
+
+![](/graphics/er08ap21.009.gif)
+
+(15) Unit 10: NR1 - Swift Creek, Wake and Johnston Counties, North Carolina.
+
+(i) This unit consists of approximately 24 river miles (38.6 km) of occupied habitat in the Swift Creek. Unit 10 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 10 follows:
+
+![](/graphics/er08ap21.010.gif)
+
+(16) Unit 11: NR2 - Little River, Johnston County, North Carolina.
+
+(i) This unit consists of approximately 10 river miles (16.1 km) of occupied habitat in the Little River. Unit 11 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 11 follows:
+
+![](/graphics/er08ap21.011.gif)Tumbling Creek Cavesnail (*Antrobia culveri*)
 
 (1) The critical habitat unit is depicted for Taney County, Missouri, on the map at paragraph (f)(5)(ii) of this section. The maps provided are for informational purposes only.
 
