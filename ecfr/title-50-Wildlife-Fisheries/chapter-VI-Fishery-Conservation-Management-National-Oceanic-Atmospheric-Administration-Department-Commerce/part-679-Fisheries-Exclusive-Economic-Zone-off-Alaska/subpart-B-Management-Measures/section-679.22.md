@@ -60,7 +60,7 @@
 
 (*2*) *Inshore catcher vessels greater than 99 ft (30.2 m) LOA.* The Regional Administrator will prohibit directed fishing for pollock by vessels greater than 99 ft (30.2 m) LOA, catching pollock for processing by the inshore component before reaching the inshore SCA harvest limit before April 1 to accommodate fishing by vessels less than or equal to 99 ft (30.2 m) inside the SCA until April 1. The Regional Administrator will estimate how much of the inshore seasonal allowance is likely to be harvested by catcher vessels less than or equal to 99 ft (30.2 m) LOA and reserve a sufficient amount of the inshore SCA allowance to accommodate fishing by such vessels after the closure of the SCA to inshore vessels greater than 99 ft (30.2 m) LOA. The Regional Administrator will prohibit directed fishing for all inshore catcher vessels within the SCA when the harvest limit specified in § 679.20(a)(5)(i)(C) has been met before April 1.
 
-(8) *Steller sea lion protection areas, Aleutian Islands reporting areas.* - (i) *Seguam Foraging area.* (A) The Seguam foraging area is all waters within the area between 52° N lat. and 53° N lat. and between 173°30′ W long. and 172°30′ W long.
+(8) *Steller sea lion protection areas, Aleutian Islands reporting areas* - (i) *Seguam Foraging area.* (A) The Seguam foraging area is all waters within the area between 52° N lat. and 53° N lat. and between 173°30′ W long. and 172°30′ W long.
 
 (B) Directed fishing for pollock, Pacific cod, and Atka mackerel by vessels named on a Federal Fisheries Permit under § 679.4(b) is prohibited in the Seguam Foraging area as described in paragraph (a)(8)(i)(A) of this section.
 
