@@ -1,12 +1,10 @@
 ##### § 571.141 Standard No. 141; Minimum Sound Requirements for Hybrid and Electric Vehicles.
 
-Link to an amendment published at 87 FR 41625, July 13, 2022.
-
 S1. *Scope.* This standard establishes performance requirements for pedestrian alert sounds for motor vehicles.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of injuries that result from electric and hybrid vehicle crashes with pedestrians by providing a sound level and sound characteristics necessary for these vehicles to be detected and recognized by pedestrians.
 
-S3. *Application.* This standard applies to -
+S3. *Application.* This standard applies to—
 
 (a) Electric vehicles with a gross vehicle weight rating (GVWR) of 4,536 Kg or less that are passenger cars, multipurpose passenger vehicles, trucks, or buses;
 
@@ -18,7 +16,7 @@ S3. *Application.* This standard applies to -
 
 *Band sum* means the combination of Sound Pressure Levels (SPLs) from selected bands that produce an SPL representing the sound in all of these bands. Band sum is calculated with the following equation:
 
-![](/graphics/er14de16.018.gif)where SPLi is the sound pressure level in each selected band.
+![](/graphics/er14de16.018.gif)Where: SPLi is the sound pressure level in each selected band.
 
 *Electric vehicle* means a motor vehicle with an electric motor as its sole means of propulsion.
 
@@ -44,8 +42,7 @@ S5.1.1.1 For *detection,* the vehicle must emit a sound having at least the A-we
 
 S5.1.1.2 For *directivity,* the vehicle must emit a sound measured at the microphone on the line CC' having at least the A-weighted sound pressure level according to Table 1 in each of four non-adjacent bands spanning no fewer than 9 of the 13 bands from 315 to 5000Hz.
 
-Table 1 - One-Third Octave Band Min. SPL Requirements for Sound When Stationary and Constant Speeds Less Than 10km/h
-
+Table 1—One-Third Octave Band Min. SPL Requirements for Sound When Stationary and Constant Speeds Less Than 10km/h
 | One-third octave band center frequency, Hz | Min SPL,   A-weighted dB |
 | ------------------------------------------ | ------------------------ |
 | 315                                        | 39                       |
@@ -64,8 +61,7 @@ Table 1 - One-Third Octave Band Min. SPL Requirements for Sound When Stationary 
 
 S5.1.2 *Reverse.* For vehicles capable of rearward self-propulsion, whenever the vehicle's gear selector is in the Reverse position, the vehicle must emit a sound having at least the A-weighted sound pressure level according to Table 2 in each of four non-adjacent bands spanning no fewer than 9 of the 13 bands from 315 to 5000Hz.
 
-Table 2 - One-Third Octave Band Min. SPL Requirements for Sound while in Reverse
-
+Table 2—One-Third Octave Band Min. SPL Requirements for Sound while in Reverse
 | One-third octave band center frequency, Hz | Min SPL,   A-weighted dB |
 | ------------------------------------------ | ------------------------ |
 | 315                                        | 42                       |
@@ -84,8 +80,7 @@ Table 2 - One-Third Octave Band Min. SPL Requirements for Sound while in Reverse
 
 S5.1.3 *Constant pass-by speeds greater than 0 km/h but less than 20 km/h.* When at a constant speed greater than 0 km/h but less than 20 km/h the vehicle must emit a sound having at least the A-weighted sound pressure level according to Table 1 or Table 3 as applicable based upon vehicle test speed in each of four non-adjacent bands spanning no fewer than 9 of the 13 bands from 315 to 5000 Hz.
 
-Table 3 - One-Third Octave Band Min. SPL Requirements for Constant Pass-by Speeds Greater Than or Equal to 10 km/h but Less Than 20 km/h
-
+Table 3—One-Third Octave Band Min. SPL Requirements for Constant Pass-by Speeds Greater Than or Equal to 10 km/h but Less Than 20 km/h
 | One-third octave band center frequency, Hz | Min SPL,   A-weighted dB |
 | ------------------------------------------ | ------------------------ |
 | 315                                        | 45                       |
@@ -104,8 +99,7 @@ Table 3 - One-Third Octave Band Min. SPL Requirements for Constant Pass-by Speed
 
 S5.1.4 *Constant pass-by speeds greater than or equal to 20km/h but less than 30 km/h.* When at a constant speed equal to or greater than 20 km/h but less than 30 km/h the vehicle must emit a sound having at least the A-weighted sound pressure level according to Table 4 in each of four non-adjacent bands spanning no fewer than 9 of the 13 bands from 315 to 5000 Hz.
 
-Table 4 - One-Third Octave Band Min. SPL Requirements for Constant Pass-by Speeds Greater Than or Equal to 20 km/h but Less Than 30 km/h
-
+Table 4—One-Third Octave Band Min. SPL Requirements for Constant Pass-by Speeds Greater Than or Equal to 20 km/h but Less Than 30 km/h
 | One-third octave band center frequency, Hz | Min SPL,   A-weighted dB |
 | ------------------------------------------ | ------------------------ |
 | 315                                        | 52                       |
@@ -124,8 +118,7 @@ Table 4 - One-Third Octave Band Min. SPL Requirements for Constant Pass-by Speed
 
 S5.1.5 *Constant 30km/h pass-by.* When at a constant speed of 30-32 km/h the vehicle must emit a sound having at least the A-weighted sound pressure level according to Table 5 in each of four non-adjacent bands spanning no fewer than 9 of the 13 bands from 315 to 5000 Hz.
 
-Table 5 - One-Third Octave Band Min. SPL Requirements for 30-32 km/h Pass-By
-
+Table 5—One-Third Octave Band Min. SPL Requirements for 30-32 km/h Pass-By
 | One-third octave band center frequency, Hz | Min SPL,   A-weighted dB |
 | ------------------------------------------ | ------------------------ |
 | 315                                        | 56                       |
@@ -144,8 +137,7 @@ Table 5 - One-Third Octave Band Min. SPL Requirements for 30-32 km/h Pass-By
 
 S5.2 *Performance requirements for two-band alert sounds.* When operating under the vehicle speed conditions specified in Table 6, the vehicle must emit sound having two non-adjacent one-third octave bands from 315 to 3150 Hz each having at least the A-weighted sound pressure level according to the minimum SPL requirements in Table 6 and spanning no fewer than three one-third octave bands from 315 to 3150 Hz. One of the two bands meeting the minimum requirements in Table 6 shall be the band that has the highest SPL of the 315 to 800 Hz bands and the second band shall be the band meeting the minimum requirements in Table 6 that has the highest SPL of the 1000 to 3150 Hz bands. The two bands used to meet the two-band minimum requirements must also meet the band sum requirements as specified in Table 6.
 
-Table 6 - One-Third Octave Band Minimum Requirements for Two-Band Alert
-
+Table 6—One-Third Octave Band Minimum Requirements for Two-Band Alert
 | Vehicle speed                                  | A-weighted SPL, dB(A) |
 | ---------------------------------------------- | --------------------- |
 | Reverse                                        | 40                    |
@@ -160,8 +152,7 @@ S5.3 If a hybrid vehicle to which this standard applies is evaluated for complia
 
 S5.4 *Relative volume change to signify acceleration and deceleration.* The sound produced by the vehicle in accordance with paragraph S5 shall change in volume, as calculated in S7.6, from one critical operating condition to the next in accordance with the requirements in Table 7.
 
-Table 7 - Minimum Relative Volume Change Requirements
-
+Table 7—Minimum Relative Volume Change Requirements
 | Critical operating speed intervals | Minimum   relative   volume   change,   dB |
 | ---------------------------------- | ------------------------------------------ |
 | Between:                           |                                            |
@@ -229,14 +220,13 @@ S6.7.1 Measure the ambient noise for at least 30 seconds immediately before and 
 
 S6.7.2 For each microphone, determine the minimum A-weighted overall ambient SPL during the 60 seconds (or more) of recorded ambient noise consisting of at least 30 seconds recorded immediately before and at least 30 seconds immediately after each test series.
 
-S6.7.3 For each of the 13 one-third octave bands, the minimum A-weighted ambient noise level during the 60 seconds (or more) from the two 30 second periods of ambient noise recorded immediately before and after each test series will be determined for each microphone.
+S6.7.3 For each microphone, compute an ambient level for each of the 13 one-third octave bands using the time that is associated with the minimum A-weighted overall ambient identified in S6.7.2 of this section.
 
 S6.7.4 To correct overall SPL values for ambient noise, calculate the difference, for each microphone, between the measured overall SPL values for a test vehicle obtained in sections S7.1.4(b) and S7.3.4(b) and the minimum overall ambient SPL values determined in S6.7.2, above. Using Table 8, determine a correction factor for each microphone. Subtract the correction factor from the overall SPL value measured under sections S7.1.4(b) and S7.3.4(b) to calculate the corrected overall SPL value. Any test for which the minimum overall SPL of the ambient is within 3 dB of the uncorrected overall SPL of the vehicle is invalid and not analyzed further.
 
 S6.7.5 To correct one-third octave band sound levels for ambient noise, calculate the difference, for each microphone, between the uncorrected level for a one-third octave band (obtained in sections S7.1.5(b), S7.1.6(b) and S7.3.5(b)) and the minimum ambient level in the same one-third octave band as determined in S6.7.3. Use Table 9 to determine if a correction is required for each microphone and one-third octave band. If a correction is required, subtract the appropriate correction factor in Table 9 from the uncorrected one-third octave band sound level to calculate the corrected level for each one-third octave band. If the level of any ambient one-third octave band is within 3 dB of the corresponding uncorrected one-third octave band level, then that one-third octave band is invalid and not analyzed further.
 
-Table 8 - Overall SPL Corrections for Ambient Noise
-
+Table 8—Overall SPL Corrections for Ambient Noise
 | Difference between vehicle measurement and ambient noise level | Correction        |
 | -------------------------------------------------------------- | ----------------- |
 | Greater than 10 dB                                             | 0 dB.             |
@@ -246,8 +236,7 @@ Table 8 - Overall SPL Corrections for Ambient Noise
 | Greater than 3 dB but less than or equal to 4.5 dB             | 2.5 dB.           |
 | Less than or equal to 3 dB                                     | Invalid test run. |
 
-Table 9 - 1/3 Octave Band Corrections for Ambient Noise
-
+Table 9—1/3 Octave Band Corrections for Ambient Noise
 | Difference between vehicle 1/3 octave band sound pressure level   and ambient noise level | Correction                               |
 | ----------------------------------------------------------------------------------------- | ---------------------------------------- |
 | Greater than 6 dB                                                                         | 0 dB.                                    |
@@ -417,4 +406,4 @@ S9.1 *Hybrid and Electric Vehicles manufactured on or after March 1, 2020, and b
 
 S9.2 *Hybrid and Electric Vehicles manufactured on or after March 1, 2021.* All hybrid and electric vehicles to which this standard applies manufactured on or after March 1, 2021, shall comply with this safety standard.
 
-\[81 FR 90514, Dec. 14, 2016, as amended at 83 FR 8196, Feb. 26, 2018; 85 FR 54280, Sept. 1, 2020\]
+\[81 FR 90514, Dec. 14, 2016, as amended at 83 FR 8196, Feb. 26, 2018; 85 FR 54280, Sept. 1, 2020; 87 FR 41625, July 13, 2022\]
