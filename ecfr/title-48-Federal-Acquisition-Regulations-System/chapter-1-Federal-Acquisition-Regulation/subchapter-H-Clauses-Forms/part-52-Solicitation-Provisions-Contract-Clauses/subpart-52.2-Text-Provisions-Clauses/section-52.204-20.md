@@ -20,9 +20,9 @@ Predecessor of Offeror (JUL 2016)
 
 (c) If the Offeror has indicated “is” in paragraph (b) of this provision, enter the following information for all predecessors that held a Federal contract or grant within the last three years (if more than one predecessor, list in reverse chronological order):
 
-Predecessor CAGE code: \_\_\_\_ (or mark “Unknown”).
+Predecessor CAGE code: \_\_\_\_\_\_\_\_ (or mark “Unknown”).
 
-Predecessor legal name: \_\_\_\_.
+Predecessor legal name: \_\_\_\_\_\_\_\_.
 
 (*Do not use a “doing business as” name*).
 

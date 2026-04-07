@@ -8,7 +8,7 @@ Connection Charge (FEB 1995)
 
 (b) *Ownership, operation, maintenance and repair of new facilities to be provided.* The facilities to be supplied by the Contractor under this clause, notwithstanding the payment by the Government of a connection charge, shall be and remain the property of the Contractor and shall, at all times during the life of this contract or any renewals thereof, be operated, maintained, and repaired by the Contractor at its expense. All taxes and other charges in connection therewith, together with all liability arising out of the construction, operations, maintenance, or repair of such facilities, shall be the obligation of the Contractor.
 
-(c) *Credits.* (1) The Contractor agrees to allow the Government, on each monthly bill for service furnished under this contract to the service location, a credit of \_\_\_\_ percent of the amount of each such bill as rendered until the accumulation of credits shall equal the amount of such connection charge, provided that the Contractor may at any time allow a credit up to 100 percent of the amount of each such bill.
+(c) *Credits.* (1) The Contractor agrees to allow the Government, on each monthly bill for service furnished under this contract to the service location, a credit of \_\_\_ percent of the amount of each such bill as rendered until the accumulation of credits shall equal the amount of such connection charge, provided that the Contractor may at any time allow a credit up to 100 percent of the amount of each such bill.
 
 (2) In the event the Contractor, before any termination of this contract but after completion of the facilities provided for in this clause, serves any customer other than the Government (regardless of whether the Government is being served simultaneously, intermittently, or not at all) by means of these facilities, the Contractor shall promptly notify the Government in writing. Unless otherwise agreed by the parties in writing at that time, the Contractor shall promptly accelerate the credits provided for under subparagraph (c)(1) of this clause, up to 100 percent of each monthly bill until there is refunded the amount that reflects the Government's connection costs for that portion of the facilities used in serving others.
 
@@ -18,7 +18,7 @@ Connection Charge (FEB 1995)
 
 (e) *Termination after completion of facilities.* In the event the Government terminates this contract after completion of the facilities with respect to which the Government has paid a connection charge, but before the crediting in full by the Contractor of any connection charge in accordance with the terms of this contract, the Contractor shall have the following options:
 
-(1) To retain in place for \_\_\_\_ months after the notice of termination by the Government such facilities on condition that -
+(1) To retain in place for \_\_\_\_ months after the notice of termination by the Government such facilities on condition that—
 
 (i) If, during such \_\_\_\_ month period, the Contractor serves any other customer by means of such facilities, the Contractor, shall, in lieu of allowing credits, pay the Government during such period installments in like amount, manner, and extent as the credit provided for under paragraph (c) of this clause before such termination; and
 

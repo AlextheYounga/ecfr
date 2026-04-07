@@ -10,7 +10,7 @@ Notification of Changes (JAN 2017)
 
 *Specifically Authorized Representative (SAR),* as used in this clause, means any person the Contracting Officer has so designated by written notice (a copy of which shall be provided to the Contractor) which shall refer to this subparagraph and shall be issued to the designated representative before the SAR exercises such authority.
 
-(b) *Notice.* The primary purpose of this clause is to obtain prompt reporting of Government conduct that the Contractor considers to constitute a change to this contract. Except for changes identified as such in writing and signed by the Contracting Officer, the Contractor shall notify the Administrative Contracting Officer in writing promptly, within \_ (*to be negotiated*) calendar days from the date that the Contractor identifies any Government conduct (including actions, inactions, and written or oral communications) that the Contractor regards as a change to the contract terms and conditions. On the basis of the most accurate information available to the Contractor, the notice shall state -
+(b) *Notice.* The primary purpose of this clause is to obtain prompt reporting of Government conduct that the Contractor considers to constitute a change to this contract. Except for changes identified as such in writing and signed by the Contracting Officer, the Contractor shall notify the Administrative Contracting Officer in writing promptly, within \_\_\_ (*to be negotiated*) calendar days from the date that the Contractor identifies any Government conduct (including actions, inactions, and written or oral communications) that the Contractor regards as a change to the contract terms and conditions. On the basis of the most accurate information available to the Contractor, the notice shall state—
 
 (1) The date, nature, and circumstances of the conduct regarded as a change;
 
@@ -20,7 +20,7 @@ Notification of Changes (JAN 2017)
 
 (4) In the instance of alleged acceleration of scheduled performance or delivery, the basis upon which it arose;
 
-(5) The particular elements of contract performance for which the Contractor may seek an equitable adjustment under this clause, including -
+(5) The particular elements of contract performance for which the Contractor may seek an equitable adjustment under this clause, including—
 
 (i) What line items have been or may be affected by the alleged change;
 
@@ -34,7 +34,7 @@ Notification of Changes (JAN 2017)
 
 (c) *Continued performance.* Following submission of the notice required by (b) above, the Contractor shall diligently continue performance of this contract to the maximum extent possible in accordance with its terms and conditions as construed by the Contractor, unless the notice reports a direction of the Contracting Officer or a communication from a SAR of the Contracting Officer, in either of which events the Contractor shall continue performance; *provided,* however, that if the Contractor regards the direction or communication as a change as described in (b) above, notice shall be given in the manner provided. All directions, communications, interpretations, orders and similar actions of the SAR shall be reduced to writing promptly and copies furnished to the Contractor and to the Contracting Officer. The Contracting Officer shall promptly countermand any action which exceeds the authority of the SAR.
 
-(d) *Government response.* The Contracting Officer shall promptly, within \_ (*to be negotiated*) calendar days after receipt of notice, respond to the notice in writing. In responding, the Contracting Officer shall either -
+(d) *Government response.* The Contracting Officer shall promptly, within \_\_\_ (*to be negotiated*) calendar days after receipt of notice, respond to the notice in writing. In responding, the Contracting Officer shall either—
 
 (1) Confirm that the conduct of which the Contractor gave notice constitutes a change and when necessary direct the mode of further performance;
 
@@ -44,7 +44,7 @@ Notification of Changes (JAN 2017)
 
 (4) In the event the Contractor's notice information is inadequate to make a decision under (1), (2), or (3) above, advise the Contractor what additional information is required, and establish the date by which it should be furnished and the date thereafter by which the Government will respond.
 
-(e) *Equitable adjustments.* (1) If the Contracting Officer confirms that Government conduct effected a change as alleged by the Contractor, and the conduct causes an increase or decrease in the Contractor's cost of, or the time required for, performance of any part of the work under this contract, whether changed or not changed by such conduct, an equitable adjustment shall be made -
+(e) *Equitable adjustments.* (1) If the Contracting Officer confirms that Government conduct effected a change as alleged by the Contractor, and the conduct causes an increase or decrease in the Contractor's cost of, or the time required for, performance of any part of the work under this contract, whether changed or not changed by such conduct, an equitable adjustment shall be made—
 
 (i) In the contract price or delivery schedule or both; and
 
