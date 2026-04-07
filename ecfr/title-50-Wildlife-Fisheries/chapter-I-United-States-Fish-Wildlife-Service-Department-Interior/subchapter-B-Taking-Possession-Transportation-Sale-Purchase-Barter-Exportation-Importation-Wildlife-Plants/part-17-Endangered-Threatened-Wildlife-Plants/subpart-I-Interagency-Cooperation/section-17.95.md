@@ -20585,6 +20585,126 @@ Canoe Creek Clubshell (*Pleurobema athearni*)
 
 (vii) Fish hosts, with adequate living, foraging, and spawning areas for them.
 
+“Ouachita” Fanshell (*Cyprogenia* cf. *aberti*)
+
+(1) Critical habitat units are depicted for Ashley, Bradley, Clark, Cleveland, Dallas, Drew, Grant, Nevada, and Ouachita Counties, Arkansas, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of “Ouachita” fanshell consist of the following components:
+
+(i) Adequate flows, or a hydrologic flow regime (magnitude, timing, frequency, duration, rate of change, and overall seasonality of discharge over time), necessary to maintain benthic habitats where the species is found and to maintain stream connectivity, specifically providing for the exchange of nutrients and sediment for maintenance of the mussel's and fish hosts' habitat and food availability, maintenance of spawning habitat for native host fishes, and the ability for newly transformed juveniles to settle and become established in their habitats. Adequate flows ensure delivery of oxygen, enable reproduction, deliver food to filter-feeding mussels, and reduce contaminants and fine sediments from interstitial spaces.
+
+(ii) Suitable substrates and connected instream habitats, characterized by geomorphically stable stream channels and banks (that is, channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation) with habitats that support a diversity of freshwater mussel and native fish (such as stable riffle-run-pool habitats that provide flow refuges consisting of silt-free gravel and coarse sand substrates).
+
+(iii) Water and sediment quality necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages, including, but not limited to, dissolved oxygen (generally above 3 parts per million (ppm)) and water temperature (generally below 80 degrees Fahrenheit ( °F) (27 degrees Celsius ( °C)). Additionally, water and sediment should be low in ammonia (generally below 1.0 ppm total ammonia-nitrogen) and heavy metals, and lack excessive total suspended solids and other pollutants.
+
+(iv) The presence and abundance of fish hosts necessary for recruitment of the “Ouachita” fanshell, including logperch (*Percina caprodes*), slenderhead darter (*Percina phoxocephala*), or orangebelly darter (*Etheostoma radiosum*).
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 27, 2023.
+
+(4) Data layers defining map units were created by overlaying Natural Heritage Element Occurrence data and U.S. Geological Survey hydrologic data for stream reaches using ESRI ArcGIS mapping software. Critical habitat unit upstream and downstream limits were delineated at the nearest road crossing or stream confluence of each occupied reach. Data layers defining map units were created with U.S. Geological Survey National Hydrography Dataset (NHD) Medium Flowline data. ArcGIS was also used to calculate river kilometers and river miles from the NHD dataset, and it was used to determine longitude and latitude coordinates in decimal degrees. The projection used in mapping and calculating distances and locations within the units was EPSG:4269-NAD83 Geographic. Natural Heritage program and State mussel database species presence data from Arkansas were used to select specific river and stream segments for inclusion in the critical habitat layer. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/species/ouachita-fanshell-cyprogenia-sp-cf-aberti,* at *https://www.regulations.gov* at Docket No. FWS-R3-ES-2021-0061, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map for “Ouachita” fanshell critical habitat units follows:
+
+Figure 1 to “Ouachita” Fanshell (*Cyprogenia* cf. *aberti*) paragraph (5) ![](/graphics/er27jn23.002.gif)
+
+(6) Unit OF 1: Little Missouri River; Clark, Nevada, and Ouachita Counties, Arkansas.
+
+(i) Unit OF 1 consists of 22.9 river miles (mi) (36.9 kilometers (km)) of Little Missouri River in Clark, Nevada, and Ouachita Counties, Arkansas, from the mouth of Garland Creek northeast of Prescott, Nevada County, downstream to the mouth of Horse Branch north of Red Hill, Ouachita County. Unit OF 1 includes the river channel up to the ordinary high water mark. Approximately 100 percent of the riparian lands that border the unit are in private ownership.
+
+(ii) Map of Unit OF 1 follows:
+
+Figure 2 to “Ouachita” Fanshell (*Cyprogenia* cf. *aberti*) paragraph (6)(ii) ![](/graphics/er27jn23.003.gif)
+
+(7) Unit OF 2 has been excluded from this critical habitat designation.
+
+(8) Unit OF 3: Ouachita River; Clark, Dallas, and Ouachita Counties, Arkansas.
+
+(i) Unit OF 3 consists of 53.5 river mi (86.1 km) of Ouachita River in Clark, Dallas, and Ouachita Counties, Arkansas, from the mouth of L'Eau Frais Creek southeast of Arkadelphia, Clark County, downstream to the mouth of Ecore Fabre Bayou north of Camden, Ouachita County. Unit OF 3 includes the river channel up to the ordinary high water mark. Approximately 100 percent of the riparian lands that border the unit are in private ownership. There is a Wetlands Reserve Program easement within the unit.
+
+(ii) Map of Unit OF 3 follows:
+
+Figure 3 to “Ouachita” Fanshell (*Cyprogenia* cf. *aberti*) paragraph (8)(ii) ![](/graphics/er27jn23.004.gif)
+
+(9) Unit OF 4: Saline River; Ashley, Bradley, Cleveland, Dallas, Drew, and Grant Counties, Arkansas.
+
+(i) Unit OF 4 consists of 151.3 river mi (243.5 km) of Saline River in Ashley, Bradley, Cleveland, Dallas, Drew, and Grant Counties, Arkansas, from U.S. Highway 270 east of Poyen, Grant County, downstream to the mouth of Mill Creek north of Stillions, Ashley County. Unit OF 4 includes the river channel up to the ordinary high water mark. Approximately 100 percent of the riparian lands that border the unit are in private ownership, and less than 1 percent is in public ownership. The public ownership in this unit is State-owned land associated with Jenkins Ferry State Park.
+
+(ii) Map of Unit OF 4 follows:
+
+Figure 4 to “Ouachita” Fanshell (*Cyprogenia* cf. *aberti*) paragraph (9)(ii) ![](/graphics/er27jn23.005.gif)Western Fanshell (*Cyprogenia aberti*)
+
+(1) Critical habitat units are depicted for Fulton, Independence, Jackson, Lawrence, Randolph, and Sharp Counties, Arkansas, and Butler, Jasper, Madison, and Wayne Counties, Missouri, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of western fanshell consist of the following components:
+
+(i) Adequate flows, or a hydrologic flow regime (magnitude, timing, frequency, duration, rate of change, and overall seasonality of discharge over time), necessary to maintain benthic habitats where the species is found and to maintain stream connectivity, specifically providing for the exchange of nutrients and sediment for maintenance of the mussel's and fish hosts' habitat and food availability, maintenance of spawning habitat for native host fishes, and the ability for newly transformed juveniles to settle and become established in their habitats. Adequate flows ensure delivery of oxygen, enable reproduction, deliver food to filter-feeding mussels, and reduce contaminants and fine sediments from interstitial spaces.
+
+(ii) Suitable substrates and connected instream habitats, characterized by geomorphically stable stream channels and banks (that is, channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation) with habitats that support a diversity of freshwater mussel and native fish (such as stable riffle-run-pool habitats that provide flow refuges consisting of silt-free gravel and coarse sand substrates).
+
+(iii) Water and sediment quality necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages, including, but not limited to: dissolved oxygen (generally above 3 parts per million (ppm)) and water temperature (generally below 80 degrees Fahrenheit ( °F) (27 degrees Celsius ( °C)). Additionally, water and sediment should be low in ammonia (generally below 1.0 ppm total ammonia-nitrogen) and heavy metals, and lack excessive total suspended solids and other pollutants.
+
+(iv) The presence and abundance of fish hosts necessary for recruitment of the western fanshell, including logperch (*Percina caprodes*), rainbow darter (*Etheostoma caeruleum*), slenderhead darter (*Percina phoxocephala*), fantail darter (*Etheostoma flabellare*), or orangebelly darter (*Etheostoma radiosum*).
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 27, 2023.
+
+(4) Data layers defining map units were created by overlaying Natural Heritage Element Occurrence data and U.S. Geological Survey hydrologic data for stream reaches using ESRI ArcGIS mapping software. Critical habitat unit upstream and downstream limits were delineated at the nearest road crossing or stream confluence of each occupied reach. Data layers defining map units were created with U.S. Geological Survey National Hydrography Dataset (NHD) Medium Flowline data. ArcGIS was also used to calculate river kilometers and river miles from the NHD dataset, and it was used to determine longitude and latitude coordinates in decimal degrees. The projection used in mapping and calculating distances and locations within the units was EPSG:4269-NAD83 Geographic. Natural Heritage program and State mussel database species presence data from Arkansas and Missouri were used to select specific river and stream segments for inclusion in the critical habitat layer. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/species/western-fanshell-cyprogenia-aberti,* at *https://www.regulations.gov* at Docket No. FWS-R3-ES-2021-0061, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map for western fanshell critical habitat units follows:
+
+Figure 1 to Western Fanshell (*Cyprogenia aberti*) paragraph (5) ![](/graphics/er27jn23.006.gif)
+
+(6) Unit WF 1: Upper Black River; Butler and Wayne Counties, Missouri.
+
+(i) Unit WF 1 consists of 64.7 river miles (mi) (104.1 kilometers (km)) of Black River in Butler and Wayne Counties, Missouri, from Clearwater Dam southwest of Piedmont, Wayne County, extending downstream to Butler County Road 658 crossing southeast of Poplar Bluff, Butler County. Unit WF 1 includes the river channel up to the ordinary high water mark. Riparian lands that border the unit include approximately 51 river mi (82.1 km; 79 percent) in private ownership and 13.7 river mi (22 km; 21 percent) in public (Federal or State) ownership. Approximately 2.7 miles of the public ownership in this unit are State lands associated with Missouri Department of Conservation's (MDC) Bradley A. Hammer Memorial Conservation Area, Dan River Access, Hilliard Access, and Stephen J. Sun Conservation Area. Eleven miles are Federal land associated with the U.S. Forest Service's (USFS) Mark Twain National Forest and U.S. Army Corps of Engineers' Clearwater Recreation Area.
+
+(ii) Map of Unit WF 1 follows:
+
+Figure 2 to Western Fanshell (*Cyprogenia aberti*) paragraph (6)(ii) ![](/graphics/er27jn23.007.gif)
+
+(7) Unit WF 2: Lower Black/Strawberry River; Independence, Jackson, Lawrence, and Sharp Counties, Arkansas.
+
+(i) Unit WF 2 consists of 111.3 river mi (179.1 km) of Black River and Strawberry River in Independence, Jackson, Lawrence, and Sharp Counties in Arkansas. Unit WF 2 includes the river channel up to the ordinary high water mark. Black River makes up 54.6 river mi (87.9 km) from the mouth of Spring River northeast of Black Rock, extending downstream to the mouth of Strawberry River northeast of Dowdy, Independence County. Strawberry River makes up 56.7 river mi (91.2 km) from the mouth of Lave Creek north of Evening Shade, Sharp County, extending downstream to the confluence with Black River northeast of Dowdy, Independence County. Riparian lands that border the unit include approximately 100.4 river mi (161.6 km; 90 percent) in private ownership and 10.9 river mi (17.5 km; 10 percent) in public (State) ownership. The public land ownership in this unit is associated with Arkansas Game and Fish Commission's Shirey Bay Rainey Brake Wildlife Management Area on Black River. The Nature Conservancy's Strawberry River Preserve and Ranch on Strawberry River is also in this unit.
+
+(ii) Map of Unit WF 2 follows:
+
+Figure 3 to Western Fanshell (*Cyprogenia aberti*) paragraph (7)(ii) ![](/graphics/er27jn23.008.gif)
+
+(8) Units WF 3 and WF 4 have been excluded from this critical habitat designation.
+
+(9) Unit WF 5: St. Francis River; Madison and Wayne Counties, Missouri.
+
+(i) Unit WF 5 consists of 49.3 river mi (79.3 km) of St. Francis River in Madison and Wayne Counties, Missouri, extending from the mouth of Wachita Creek west of Fredericktown, Madison County, downstream to the mouth of Big Creek northwest of Silva, Wayne County. Unit WF 5 includes the river channel up to the ordinary high water mark. Riparian lands that border the unit include approximately 36.7 river mi (59.1 km; 74 percent) in private ownership and 12.6 river mi (20.2 km; 26 percent) in public (Federal or State) ownership. Approximately 2.4 river mi of the public ownership in this unit are State lands associated with MDC's Coldwater Conservation Area, Mill Stream Gardens, and Roselle Access. Ten miles are Federal land associated with the USFS's Mark Twain National Forest.
+
+(ii) Map of Unit WF 5 follows:
+
+Figure 4 to Western Fanshell (*Cyprogenia aberti*) paragraph (9)(ii) ![](/graphics/er27jn23.009.gif)
+
+(10) Unit WF 6: South Fork Spring River; Fulton County, Arkansas.
+
+(i) Unit WF 6 consists of 13.4 river mi (21.6 km) of South Fork Spring River in Fulton County, Arkansas, from the mouth of Camp Creek east of Salem, Fulton County, extending downstream to the Arkansas Highway 289 crossing northwest of Cherokee Village, Fulton County. Unit WF 6 includes the river channel up to the ordinary high water mark. Approximately 100 percent of the riparian lands that border the unit are in private ownership.
+
+(ii) Map of Unit WF 6 follows:
+
+Figure 5 to Western Fanshell (*Cyprogenia aberti*) paragraph (10)(ii) ![](/graphics/er27jn23.010.gif)
+
+(11) Unit WF 7: Spring River (AR); Lawrence and Randolph Counties, Arkansas.
+
+(i) Unit WF 7 consists of 14.2 river mi (22.9 km) of Spring River in Lawrence and Randolph Counties, Arkansas, from the mouth of Wells Creek at Ravenden, extending downstream to the mouth of Stennitt Creek southeast of Imboden, Lawrence County. Unit WF 7 includes the river channel up to the ordinary high water mark. Approximately 100 percent of the riparian lands that border the unit are in private ownership.
+
+(ii) Map of Unit WF 7 follows:
+
+Figure 6 to Western Fanshell (*Cyprogenia aberti*) paragraph (11)(ii) ![](/graphics/er27jn23.011.gif)
+
+(12) Unit WF 8: Spring River (MO); Jasper County, Missouri.
+
+(i) Unit WF 8 consists of 8.5 river mi (13.7 km) of Spring River in Jasper County, Missouri, from the mouth of North Fork Spring River east of Asbury, Jasper County, Missouri, extending downstream to the Kansas State line, then from where it reenters Missouri to the mouth of Center Creek west of Carl Junction, Jasper County, Missouri. Unit WF 8 includes the river channel up to the ordinary high water mark. Approximately 100 percent of the riparian lands that border the unit are in private ownership.
+
+(ii) Map of Unit WF 8 follows:
+
+Figure 7 to Western Fanshell (*Cyprogenia aberti*) paragraph (12)(ii) ![](/graphics/er27jn23.012.gif)
+
+(13) Unit WF 9 has been excluded from this critical habitat designation.
+
 Carolina Heelsplitter (*Lasmigona decorata*)
 
 (1) Critical habitat units are described below and depicted in the maps that follow, with the lateral extent of each designated unit bounded by the ordinary high-water line. The maps provided are for informational purposes only.
