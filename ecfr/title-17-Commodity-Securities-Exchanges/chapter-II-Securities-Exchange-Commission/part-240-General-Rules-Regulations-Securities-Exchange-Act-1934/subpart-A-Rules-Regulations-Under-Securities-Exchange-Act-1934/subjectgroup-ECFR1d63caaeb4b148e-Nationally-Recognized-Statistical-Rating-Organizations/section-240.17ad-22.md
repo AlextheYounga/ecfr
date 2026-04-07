@@ -1,16 +1,24 @@
-##### § 240.17Ad-22 Standards for clearing agencies.
-
-Link to an amendment published at 89 FR 2829, Jan. 16, 2024.
+##### § 240.17ad-22 Standards for clearing agencies.
 
 (a) *Definitions.* For purposes of this section:
 
-(1) *Backtesting* means an ex-post comparison of actual outcomes with expected outcomes derived from the use of margin models.
+*Affiliated counterparty* means any counterparty which meets the following criteria:
 
-(2) *Central counterparty* means a clearing agency that interposes itself between the counterparties to securities transactions, acting functionally as the buyer to every seller and the seller to every buyer.
+(i) The counterparty is either a bank (as defined in 15 U.S.C. 78c(6)), broker (as defined in 15 U.S.C. 78c(4)), dealer (as defined in 15 U.S.C. 78c(5)), or futures commission merchant (as defined in 7 U.S.C. 1a(28)), or any entity regulated as a bank, broker, dealer, or futures commission merchant in its home jurisdiction;
 
-(3) *Central securities depository* means a clearing agency that is a securities depository as described in Section 3(a)(23)(A) of the Act (15 U.S.C. 78c(a)(23)(A)).
+(ii) The counterparty holds, directly or indirectly, a majority ownership interest in the direct participant, or the direct participant, directly or indirectly, holds a majority ownership interest in the counterparty, or a third party, directly or indirectly, holds a majority ownership interest in both the direct participant and the counterparty; and
 
-(4) *Clearing agency involved in activities with a more complex risk profile* means a clearing agency registered with the Commission under Section 17A of the Act (15 U.S.C. 78q-1) that:
+(iii) The counterparty, direct participant, or third party referenced in paragraph (ii) of this definition as holding the majority ownership interest would be required to report its financial statements on a consolidated basis under U.S. Generally Accepted Accounting Principles or International Financial Reporting Standards, and such consolidated financial statements include the financial results of the majority-owned party or of both majority-owned parties.
+
+*Backtesting* means an ex-post comparison of actual outcomes with expected outcomes derived from the use of margin models.
+
+*Central bank* means a reserve bank or monetary authority of a central government (including the Board of Governors of the Federal Reserve System or any of the Federal Reserve Banks) and the Bank for International Settlements.
+
+*Central counterparty* means a clearing agency that interposes itself between the counterparties to securities transactions, acting functionally as the buyer to every seller and the seller to every buyer.
+
+*Central securities depository* means a clearing agency that is a securities depository as described in Section 3(a)(23)(A) of the Act (15 U.S.C. 78c(a)(23)(A)).
+
+*Clearing agency involved in activities with a more complex risk profile* means a clearing agency registered with the Commission under Section 17A of the Act (15 U.S.C. 78q-1) that:
 
 (i) Provides central counterparty services for security-based swaps;
 
@@ -18,25 +26,45 @@ Link to an amendment published at 89 FR 2829, Jan. 16, 2024.
 
 (iii) Is subsequently determined by the Commission to be involved in activities with a more complex risk profile pursuant to § 240.17Ab2-2(b).
 
-(5) *Covered clearing agency* means a registered clearing agency that provides the services of a central counterparty or central securities depository.
+*Covered clearing agency* means a registered clearing agency that provides the services of a central counterparty or central securities depository.
 
-(6) *Designated clearing agency* means a clearing agency registered with the Commission under Section 17A of the Exchange Act (15 U.S.C. 78q-1) that is designated systemically important by the Financial Stability Oversight Council pursuant to the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5461 *et seq.*) and for which the Commission is the supervisory agency as defined in Section 803(8) of the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5461 *et seq.*).
+*Designated clearing agency* means a clearing agency registered with the Commission under Section 17A of the Exchange Act (15 U.S.C. 78q-1) that is designated systemically important by the Financial Stability Oversight Council pursuant to the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5461 *et seq.*) and for which the Commission is the supervisory agency as defined in Section 803(8) of the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5461 *et seq.*).
 
-(7) *Financial market utility* has the same meaning as defined in Section 803(6) of the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5462(6)).
+*Eligible secondary market transaction* refers to a secondary market transaction in U.S. Treasury securities of a type accepted for clearing by a registered covered clearing agency that is:
 
-(8) *Link* means, for purposes of paragraph (e)(20) of this section, a set of contractual and operational arrangements between two or more clearing agencies, financial market utilities, or trading markets that connect them directly or indirectly for the purposes of participating in settlement, cross margining, expanding their services to additional instruments or participants, or for any other purposes material to their business.
+(i) A repurchase or reverse repurchase agreement collateralized by U.S. Treasury securities, in which one of the counterparties is a direct participant; or
 
-(9) *Model validation* means an evaluation of the performance of each material risk management model used by a covered clearing agency (and the related parameters and assumptions associated with such models), including initial margin models, liquidity risk models, and models used to generate clearing or guaranty fund requirements, performed by a qualified person who is free from influence from the persons responsible for the development or operation of the models or policies being validated.
+(ii) A purchase or sale, between a direct participant and:
 
-(10) *Net capital* as used in paragraph (b)(7) of this section means net capital as defined in § 240.15c3-1 for broker-dealers or any similar risk adjusted capital calculation for all other prospective clearing members.
+(A) Any counterparty, if the direct participant of the covered clearing agency brings together multiple buyers and sellers using a trading facility (such as a limit order book) and is a counterparty to both the buyer and seller in two separate transactions; or
 
-(11) *Normal market conditions* as used in paragraphs (b)(1) and (2) of this section means conditions in which the expected movement of the price of cleared securities would produce changes in a clearing agency's exposures to its participants that would be expected to breach margin requirements or other risk control mechanisms only one percent of the time.
+(B) Registered broker-dealer, government securities broker, or government securities dealer; except that:
 
-(12) *Participant family* means that if a participant directly, or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, another participant then the affiliated participants shall be collectively deemed to be a single participant family for purposes of paragraphs (b)(3), (d)(14), (e)(4), and (e)(7) of this section.
+(iii) Any purchase or sale transaction in U.S. Treasury securities or repurchase or reverse repurchase agreement collateralized by U.S. Treasury securities in which one counterparty is a central bank, a sovereign entity, an international financial institution, or a natural person shall be excluded from the definition set forth in this section of an eligible secondary market transaction;
 
-(13) *Potential future exposure* means the maximum exposure estimated to occur at a future point in time with an established single-tailed confidence level of at least 99 percent with respect to the estimated distribution of future exposure.
+(iv) Any repurchase or reverse repurchase agreement collateralized by U.S. Treasury securities in which one counterparty is a covered clearing agency providing central counterparty services or a derivatives clearing organization (*see* 7 U.S.C. 7a-1 and 17 CFR 39.3), or is regulated as a central counterparty in its home jurisdiction, shall be excluded from the definition set forth in this section of an eligible secondary market transaction;
 
-(14) *Qualifying liquid resources* means, for any covered clearing agency, the following, in each relevant currency:
+(v) Any repurchase or reverse repurchase agreement collateralized by U.S. Treasury securities in which one counterparty is a state or local government shall be excluded from the definition set forth in this section of an eligible secondary market transaction;
+
+(vi) Any repurchase or reverse repurchase agreement collateralized by U.S. Treasury securities entered into between a direct participant and an affiliated counterparty shall be excluded from the definition set forth in this section of an eligible secondary market transaction, provided that the affiliated counterparty submit for clearance and settlement all other repurchase or reverse repurchase agreements collateralized by U.S. Treasury securities to which the affiliate is a party.
+
+*Financial market utility* has the same meaning as defined in Section 803(6) of the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5462(6)).
+
+*International financial institution* means the African Development Bank; African Development Fund; Asian Development Bank; Banco Centroamericano de Integración Económica; Bank for Economic Cooperation and Development in the Middle East and North Africa; Caribbean Development Bank; Corporación Andina de Fomento; Council of Europe Development Bank; European Bank for Reconstruction and Development; European Investment Bank; European Investment Fund; European Stability Mechanism; Inter-American Development Bank; Inter-American Investment Corporation; International Bank for Reconstruction and Development; International Development Association; International Finance Corporation; International Monetary Fund; Islamic Development Bank; Multilateral Investment Guarantee Agency; Nordic Investment Bank; North American Development Bank; and any other entity that provides financing for national or regional development in which the U.S. Government is a shareholder or contributing member.
+
+*Link* means, for purposes of paragraph (e)(20) of this section, a set of contractual and operational arrangements between two or more clearing agencies, financial market utilities, or trading markets that connect them directly or indirectly for the purposes of participating in settlement, cross margining, expanding their services to additional instruments or participants, or for any other purposes material to their business.
+
+*Model validation* means an evaluation of the performance of each material risk management model used by a covered clearing agency (and the related parameters and assumptions associated with such models), including initial margin models, liquidity risk models, and models used to generate clearing or guaranty fund requirements, performed by a qualified person who is free from influence from the persons responsible for the development or operation of the models or policies being validated.
+
+*Net capital* as used in paragraph (b)(7) of this section means net capital as defined in § 240.15c3-1 for broker-dealers or any similar risk adjusted capital calculation for all other prospective clearing members.
+
+*Normal market conditions* as used in paragraphs (b)(1) and (2) of this section means conditions in which the expected movement of the price of cleared securities would produce changes in a clearing agency's exposures to its participants that would be expected to breach margin requirements or other risk control mechanisms only one percent of the time.
+
+*Participant family* means that if a participant directly, or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, another participant then the affiliated participants shall be collectively deemed to be a single participant family for purposes of paragraphs (b)(3), (d)(14), (e)(4), and (e)(7) of this section.
+
+*Potential future exposure* means the maximum exposure estimated to occur at a future point in time with an established single-tailed confidence level of at least 99 percent with respect to the estimated distribution of future exposure.
+
+*Qualifying liquid resources* means, for any covered clearing agency, the following, in each relevant currency:
 
 (i) Cash held either at the central bank of issue or at creditworthy commercial banks;
 
@@ -54,9 +82,9 @@ Link to an amendment published at 89 FR 2829, Jan. 16, 2024.
 
 (iii) Other assets that are readily available and eligible for pledging to (or conducting other appropriate forms of transactions with) a relevant central bank, if the covered clearing agency has access to routine credit at such central bank in a jurisdiction that permits said pledges or other transactions by the covered clearing agency.
 
-(15) *Security-based swap* means a security-based swap as defined in Section 3(a)(68) of the Act (15 U.S.C. 78c(a)(68)).
+*Security-based swap* means a security-based swap as defined in Section 3(a)(68) of the Act (15 U.S.C. 78c(a)(68)).
 
-(16) *Sensitivity analysis* means an analysis that involves analyzing the sensitivity of a model to its assumptions, parameters, and inputs that:
+*Sensitivity analysis* means an analysis that involves analyzing the sensitivity of a model to its assumptions, parameters, and inputs that:
 
 (i) Considers the impact on the model of both moderate and extreme changes in a wide range of inputs, parameters, and assumptions, including correlations of price movements or returns if relevant, which reflect a variety of historical and hypothetical market conditions;
 
@@ -66,11 +94,17 @@ Link to an amendment published at 89 FR 2829, Jan. 16, 2024.
 
 (iv) Tests the sensitivity of the model to stressed market conditions, including the market conditions that may ensue after the default of a member and other extreme but plausible conditions as defined in a covered clearing agency's risk policies.
 
-(17) *Stress testing* means the estimation of credit or liquidity exposures that would result from the realization of potential stress scenarios, such as extreme price changes, multiple defaults, or changes in other valuation inputs and assumptions.
+*Sovereign entity* means a central government (including the U.S. Government), or an agency, department, or ministry of a central government.
 
-(18) *Systemically important in multiple jurisdictions* means, with respect to a covered clearing agency, a covered clearing agency that has been determined by the Commission to be systemically important in more than one jurisdiction pursuant to § 240.17Ab2-2.
+*State or local government* means a state or any political subdivision thereof, or an agency or instrumentality of a State or any political subdivision thereof, but shall not include any pension or retirement plan established and maintained by a State, its political subdivisions, or any agency or instrumentality of a State or its political subdivisions, for the benefit of its employees.
 
-(19) *Transparent* means, for the purposes of paragraphs (e)(1), (2), and (10) of this section, to the extent consistent with other statutory and Commission requirements on confidentiality and disclosure, that documentation required under paragraphs (e)(1), (2), and (10) is disclosed to the Commission and, as appropriate, to other relevant authorities, to clearing members and to customers of clearing members, to the owners of the covered clearing agency, and to the public.
+*Stress testing* means the estimation of credit or liquidity exposures that would result from the realization of potential stress scenarios, such as extreme price changes, multiple defaults, or changes in other valuation inputs and assumptions.
+
+*Systemically important in multiple jurisdictions* means, with respect to a covered clearing agency, a covered clearing agency that has been determined by the Commission to be systemically important in more than one jurisdiction pursuant to § 240.17Ab2-2.
+
+*Transparent* means, for the purposes of paragraphs (e)(1), (2), and (10) of this section, to the extent consistent with other statutory and Commission requirements on confidentiality and disclosure, that documentation required under paragraphs (e)(1), (2), and (10) is disclosed to the Commission and, as appropriate, to other relevant authorities, to clearing members and to customers of clearing members, to the owners of the covered clearing agency, and to the public.
+
+*U.S. Treasury security* means any security issued by the U.S. Department of the Treasury.
 
 (b) A registered clearing agency that performs central counterparty services shall establish, implement, maintain and enforce written policies and procedures reasonably designed to:
 
@@ -194,7 +228,7 @@ Link to an amendment published at 89 FR 2829, Jan. 16, 2024.
 
 (6) Cover, if the covered clearing agency provides central counterparty services, its credit exposures to its participants by establishing a risk-based margin system that, at a minimum:
 
-(i) Considers, and produces margin levels commensurate with, the risks and particular attributes of each relevant product, portfolio, and market;
+(i) Considers, and produces margin levels commensurate with, the risks and particular attributes of each relevant product, portfolio, and market, and, if the covered clearing agency provides central counterparty services for U.S. Treasury securities, calculates, collects, and holds margin amounts from a direct participant for its proprietary positions in Treasury securities separately and independently from margin calculated and collected from that direct participant in connection with U.S. Treasury securities transactions by an indirect participant that relies on the services provided by the direct participant to access the covered clearing agency's payment, clearing, or settlement facilities;
 
 (ii) Marks participant positions to market and collects margin, including variation margin or equivalent charges if relevant, at least daily and includes the authority and operational capacity to make intraday margin calls in defined circumstances;
 
@@ -292,7 +326,21 @@ Link to an amendment published at 89 FR 2829, Jan. 16, 2024.
 
 (iii) Establishing and maintaining a business continuity plan that addresses events posing a significant risk of disrupting operations.
 
-(18) Establish objective, risk-based, and publicly disclosed criteria for participation, which permit fair and open access by direct and, where relevant, indirect participants and other financial market utilities, require participants to have sufficient financial resources and robust operational capacity to meet obligations arising from participation in the clearing agency, and monitor compliance with such participation requirements on an ongoing basis.
+(18) Establish objective, risk-based, and publicly disclosed criteria for participation, which:
+
+(i) Permit fair and open access by direct and, where relevant, indirect participants and other financial market utilities;
+
+(ii) Require participants to have sufficient financial resources and robust operational capacity to meet obligations arising from participation in the clearing agency;
+
+(iii) Monitor compliance with such participation requirements on an ongoing basis; and
+
+(iv) When the covered clearing agency provides central counterparty services for transactions in U.S. Treasury securities,
+
+(A) Require that any direct participant of such covered clearing agency submit for clearance and settlement all of the eligible secondary market transactions to which such direct participant is a counterparty;
+
+(B) Identify and monitor its direct participants' submission of transactions for clearing as required in paragraph (e)(18)(iv)(A) of this section, including how the covered clearing agency would address a failure to submit transactions in accordance with paragraph (e)(18)(iv)(A) of this section; and
+
+(C) Ensure that it has appropriate means to facilitate access to clearance and settlement services of all eligible secondary market transactions in U.S. Treasury securities, including those of indirect participants, which policies and procedures the board of directors of such covered clearing agency reviews annually.
 
 (19) Identify, monitor, and manage the material risks to the covered clearing agency arising from arrangements in which firms that are indirect participants in the covered clearing agency rely on the services provided by direct participants to access the covered clearing agency's payment, clearing, or settlement facilities.
 
@@ -338,4 +386,4 @@ Link to an amendment published at 89 FR 2829, Jan. 16, 2024.
 
 (f) For purposes of enforcing the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5461 *et seq.*), a designated clearing agency for which the Commission acts as supervisory agency shall be subject to, and the Commission shall have the authority under, the provisions of paragraphs (b) through (n) of Section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818) in the same manner and to the same extent as if such designated clearing agency were an insured depository institution and the Commission were the appropriate Federal banking agency for such insured depository institution.
 
-\[77 FR 66285, Nov. 2, 2012, as amended at 81 FR 70901, Oct. 13, 2016; 85 FR 28867, May 14, 2020\]
+\[77 FR 66285, Nov. 2, 2012, as amended at 81 FR 70901, Oct. 13, 2016; 85 FR 28867, May 14, 2020; Redesignated and amended at 89 FR 2829, Jan. 16, 2024\]
