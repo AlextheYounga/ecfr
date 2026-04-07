@@ -2,7 +2,7 @@
 
 Link to an amendment published at 86 FR 64333, Nov. 17, 2021.Link to a delay of the above amendment published at 87 FR 62032, Oct. 13, 2022.The amendment of Nov. 17, 2021 was delayed indefinitely at 88 FR 62463, Sept. 12, 2023.Link to an amendment published at 89 FR 91091, Nov. 18, 2024.
 
-(a) The Office requires the following process fees:
+(a) The Office requires the following process fees:*Certification of international application based on single application or registration.*
 
 (1) *Certification of international application based on single application or registration.* (i) For certifying an international application based on a single basic application or registration, filed on paper, per class—$200.00
 

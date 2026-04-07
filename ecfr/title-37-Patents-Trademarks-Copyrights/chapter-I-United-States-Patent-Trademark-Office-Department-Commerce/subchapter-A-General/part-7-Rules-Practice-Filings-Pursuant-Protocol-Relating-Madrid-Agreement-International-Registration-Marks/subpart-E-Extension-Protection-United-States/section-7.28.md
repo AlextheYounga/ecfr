@@ -17,3 +17,5 @@ Link to an amendment published at 90 FR 23290, June 2, 2025.
 (3) The fee required by § 7.6.
 
 (c) If the request to note replacement is denied, the Office will notify the holder of the reason(s) for refusal.
+
+\[90 FR 23290, June 2, 2025\]

@@ -1,6 +1,6 @@
 ##### § 7.21 Subsequent designation.
 
-(a) A subsequent designation may be filed directly with the International Bureau, or, if it meets the requirements of paragraph (b) of this section, submitted through the Office.
+(a) A subsequent designation may be filed directly with the International Bureau, or, if it meets the requirements of paragraph (b) of this section, submitted through the Office.*see*
 
 (b) The Office will grant a date of receipt to a subsequent designation that is filed through TEAS in accordance with § 7.4(a), or typed on the official paper form issued by the International Bureau, if permitted under § 7.4(c) or accepted on petition pursuant to § 7.4(d). The subsequent designation must contain all of the following:
 

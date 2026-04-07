@@ -1,6 +1,6 @@
 ##### § 7.11 Requirements for international application originating from the United States.
 
-(a) The Office will grant a date of receipt to an international application that is filed through TEAS in accordance with § 7.4(a), or typed on the official paper form issued by the International Bureau, if permitted under § 7.4(c) or accepted on petition pursuant to § 7.4(d). The international application must include all of the following:
+(a) The Office will grant a date of receipt to an international application that is filed through TEAS in accordance with § 7.4(a), or typed on the official paper form issued by the International Bureau, if permitted under § 7.4(c) or accepted on petition pursuant to § 7.4(d). The international application must include all of the following:*Nice Agreement Concerning the International Classification of Goods and Services for the Purposes of the Registration of Marks*
 
 (1) The filing date and serial number of the basic application and/or the registration date and registration number of the basic registration;
 

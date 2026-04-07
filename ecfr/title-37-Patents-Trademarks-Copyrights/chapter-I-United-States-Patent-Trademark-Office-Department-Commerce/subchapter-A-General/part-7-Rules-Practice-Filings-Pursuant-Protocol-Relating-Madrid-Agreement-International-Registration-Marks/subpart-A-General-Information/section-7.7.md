@@ -1,6 +1,6 @@
 ##### § 7.7 Payments of fees to International Bureau.
 
-(a) For documents filed through TEAS, the following fees may be paid either directly to the International Bureau or through the Office:
+(a) For documents filed through TEAS, the following fees may be paid either directly to the International Bureau or through the Office:*http://www.wipo.int/madrid/en/.*
 
 (1) International application fees;
 

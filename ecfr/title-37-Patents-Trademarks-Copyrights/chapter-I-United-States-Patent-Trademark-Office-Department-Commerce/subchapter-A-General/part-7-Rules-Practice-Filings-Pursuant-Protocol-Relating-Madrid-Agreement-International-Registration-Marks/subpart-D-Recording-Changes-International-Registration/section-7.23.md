@@ -1,6 +1,6 @@
 ##### § 7.23 Requests for recording assignments at the International Bureau.
 
-A request to record an assignment of an international registration may be submitted through the Office for forwarding to the International Bureau only if the assignee cannot obtain the assignor's signature for the request to record the assignment.
+A request to record an assignment of an international registration may be submitted through the Office for forwarding to the International Bureau only if the assignee cannot obtain the assignor's signature for the request to record the assignment.*see*
 
 (a) A request to record an assignment submitted through the Office must include all of the following:
 
