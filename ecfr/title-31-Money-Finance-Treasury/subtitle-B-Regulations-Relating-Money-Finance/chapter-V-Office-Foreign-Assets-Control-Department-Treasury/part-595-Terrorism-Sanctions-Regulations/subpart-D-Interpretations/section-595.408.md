@@ -1,7 +1,0 @@
-##### § 595.408 Charitable contributions.
-
-(a) Unless specifically authorized by the Office of Foreign Assets Control pursuant to this part, no charitable contribution or donation of funds, goods, services, or technology, including contributions or donations to relieve human suffering, such as food, clothing, or medicine, may be made by, to, or for the benefit of, or received from, any *specially designatedterrorist.* For the purposes of this part, a contribution or donation is made by, to, or for the benefit of, or received from, a *specially designatedterrorist* if made by, to, or in the name of, or received from or in the name of, a *specially designatedterrorist;* if made by, to, or in the name of, or received from or in the name of, an entity or individual acting for or on behalf of, or owned or controlled by, a *specially designatedterrorist;* or if made in an attempt to violate, to evade, or to avoid the bar on the provision of contributions or donations by, to, or for the benefit of a *specially designatedterrorist,* or the receipt of contributions or donations from a *specially designatedterrorist.*
-
-(b) Individuals and organizations who donate or contribute funds, goods, services, or technology without knowledge or reason to know that the donation or contribution is destined to or for the benefit of a *specially designatedterrorist* shall not be subject to penalties for such donation or contribution.
-
-\[78 FR 38576, June 27, 2013\]

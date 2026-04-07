@@ -1,5 +1,0 @@
-##### § 595.317 Financial, material, or technological support.
-
-The term *financial, material,or technologicalsupport,* as used in § 595.311(a)(2)(ii) of this part, means any property, tangible or intangible, including but not limited to currency, financial instruments, securities, or any other transmission of value; weapons or related materiel; chemical or biological agents; explosives; false documentation or identification; communications equipment; computers; electronic or other devices or equipment; technologies; lodging; safe houses; facilities; vehicles or other means of transportation; or goods. “Technologies” as used in this definition means specific information necessary for the development, production, or use of a product, including related technical data such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals, or other recorded instructions.
-
-\[78 FR 38576, June 27, 2013\]
