@@ -1,6 +1,6 @@
 ##### § 173.2 Hazardous material classes and index to hazard class definitions.
 
-The hazard class of a hazardous material is indicated by either the class or division number or the class name. The following table lists class numbers, division numbers, class or division names and those sections of this subchapter which contain definitions for classifying hazardous materials, including forbidden materials. 
+The hazard class of a hazardous material is indicated by either the class or division number or the class name. The following table lists class numbers, division numbers, class or division names and those sections of this subchapter which contain definitions for classifying hazardous materials, including forbidden materials.
 
 Table 1 to § 173.2
 | Class No. | Division   number   (if applicable) | Name of class or division                     | 49 CFR reference for   definitions |

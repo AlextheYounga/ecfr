@@ -1,6 +1,6 @@
 ##### § 40.91 What are the cutoff concentrations for oral fluid drug tests?
 
-As a laboratory, you must use the cutoff concentrations displayed in the following table for initial and confirmatory drug tests for oral fluid specimens. All cutoff concentrations are expressed in nanograms per milliliter (ng/mL). The table follows: 
+As a laboratory, you must use the cutoff concentrations displayed in the following table for initial and confirmatory drug tests for oral fluid specimens. All cutoff concentrations are expressed in nanograms per milliliter (ng/mL). The table follows:
 
 Table 1 to § 40.91—Oral Fluid Testing Cutoff Concentrations
 | Initial test analyte                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Initial test   cutoff 1 | Confirmatory test analyte     | Confirmatory test cutoff concentration |

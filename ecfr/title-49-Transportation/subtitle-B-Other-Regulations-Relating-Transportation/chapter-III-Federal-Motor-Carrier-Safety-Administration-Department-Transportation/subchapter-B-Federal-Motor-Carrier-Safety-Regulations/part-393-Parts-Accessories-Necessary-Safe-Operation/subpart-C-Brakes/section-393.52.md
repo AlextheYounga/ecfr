@@ -1,24 +1,24 @@
 ##### § 393.52 Brake performance.
 
-(a) Upon application of its service brakes, a motor vehicle or combination of motor vehicles must under any condition of loading in which it is found on a public highway, be capable of— 
+(a) Upon application of its service brakes, a motor vehicle or combination of motor vehicles must under any condition of loading in which it is found on a public highway, be capable of—
 
-(1) Developing a braking force at least equal to the percentage of its gross weight specified in the table in paragraph (d) of this section; 
+(1) Developing a braking force at least equal to the percentage of its gross weight specified in the table in paragraph (d) of this section;
 
-(2) Decelerating to a stop from 20 miles per hour at not less than the rate specified in the table in paragraph (d) of this section; and 
+(2) Decelerating to a stop from 20 miles per hour at not less than the rate specified in the table in paragraph (d) of this section; and
 
-(3) Stopping from 20 miles per hour in a distance, measured from the point at which movement of the service brake pedal or control begins, that is not greater than the distance specified in the table in paragraph (d) of this section; or, for motor vehicles or motor vehicle combinations that have a GVWR or GVW greater than 4,536 kg (10,000 pounds), 
+(3) Stopping from 20 miles per hour in a distance, measured from the point at which movement of the service brake pedal or control begins, that is not greater than the distance specified in the table in paragraph (d) of this section; or, for motor vehicles or motor vehicle combinations that have a GVWR or GVW greater than 4,536 kg (10,000 pounds),
 
-(4) Developing only the braking force specified in paragraph (a)(1) of this section and the stopping distance specified in paragraph (a)(3) of this section, if braking force is measured by a performance-based brake tester which meets the requirements of functional specifications for performance-based brake testers for commercial motor vehicles, where braking force is the sum of the braking force at each wheel of the vehicle or vehicle combination as a percentage of gross vehicle or combination weight. 
+(4) Developing only the braking force specified in paragraph (a)(1) of this section and the stopping distance specified in paragraph (a)(3) of this section, if braking force is measured by a performance-based brake tester which meets the requirements of functional specifications for performance-based brake testers for commercial motor vehicles, where braking force is the sum of the braking force at each wheel of the vehicle or vehicle combination as a percentage of gross vehicle or combination weight.
 
-(b) Upon application of its emergency brake system and with no other brake system applied, a motor vehicle or combination of motor vehicles must, under any condition of loading in which it is found on a public highway, be capable of stopping from 20 miles per hour in a distance, measured from the point at which movement of the emergency brake control begins, that is not greater than the distance specified in the table in paragraph (d) of this section. 
+(b) Upon application of its emergency brake system and with no other brake system applied, a motor vehicle or combination of motor vehicles must, under any condition of loading in which it is found on a public highway, be capable of stopping from 20 miles per hour in a distance, measured from the point at which movement of the emergency brake control begins, that is not greater than the distance specified in the table in paragraph (d) of this section.
 
-(c) Conformity to the stopping-distance requirements of paragraphs (a) and (b) of this section shall be determined under the following conditions: 
+(c) Conformity to the stopping-distance requirements of paragraphs (a) and (b) of this section shall be determined under the following conditions:
 
-(1) Any test must be made with the vehicle on a hard surface that is substantially level, dry, smooth, and free of loose material. 
+(1) Any test must be made with the vehicle on a hard surface that is substantially level, dry, smooth, and free of loose material.
 
-(2) The vehicle must be in the center of a 12-foot-wide lane when the test begins and must not deviate from that lane during the test. 
+(2) The vehicle must be in the center of a 12-foot-wide lane when the test begins and must not deviate from that lane during the test.
 
-(d) Vehicle brake performance table: 
+(d) Vehicle brake performance table:
 
 | Type of motor vehicle                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Service brake systems | Emergency brake systems |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | ----------------------- |

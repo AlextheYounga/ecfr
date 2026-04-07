@@ -1,6 +1,6 @@
 ##### § 325.7 Allowable noise levels.
 
-Motor vehicle noise emissions, when measured according to the rules of this part, shall not exceed the values specified in Table 1. 
+Motor vehicle noise emissions, when measured according to the rules of this part, shall not exceed the values specified in Table 1.
 
 Table 1—Maximum Permissible Sound Level Readings (Decibel (A)) 1 2
 |                                                                                                                                                    | Highway operation test | Stationary tests |

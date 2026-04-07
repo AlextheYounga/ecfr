@@ -1,5 +1,5 @@
 ##### § 384.236 Entry-level driver training provider notification.
 
-The State must meet the entry-level driver training provider notification requirement of § 383.73(p). 
+The State must meet the entry-level driver training provider notification requirement of § 383.73(p).
 
 \[81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017\]

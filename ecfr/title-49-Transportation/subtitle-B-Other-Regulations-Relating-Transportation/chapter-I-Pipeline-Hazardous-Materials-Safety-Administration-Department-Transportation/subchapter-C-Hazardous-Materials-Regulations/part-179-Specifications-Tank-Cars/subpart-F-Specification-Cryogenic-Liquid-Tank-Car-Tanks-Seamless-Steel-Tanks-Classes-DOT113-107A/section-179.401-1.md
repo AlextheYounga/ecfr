@@ -1,6 +1,6 @@
 ##### § 179.401-1 Individual specification requirements.
 
-In addition to § 179.400, the individual specification requirements for the inner tank and its appurtenances are as follows: 
+In addition to § 179.400, the individual specification requirements for the inner tank and its appurtenances are as follows:
 
 | DOT specification                                                          | 113A60W        | 113C120W        |
 | -------------------------------------------------------------------------- | -------------- | --------------- |

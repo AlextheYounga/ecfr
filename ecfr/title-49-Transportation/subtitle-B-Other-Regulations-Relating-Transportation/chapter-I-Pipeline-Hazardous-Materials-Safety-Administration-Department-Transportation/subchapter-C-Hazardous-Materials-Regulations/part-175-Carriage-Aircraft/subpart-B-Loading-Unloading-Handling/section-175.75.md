@@ -1,42 +1,42 @@
 ##### § 175.75 Quantity limitations and cargo location.
 
-(a) No person may carry on an aircraft a hazardous material except as permitted by this subchapter. 
+(a) No person may carry on an aircraft a hazardous material except as permitted by this subchapter.
 
-(b) *Hazardous materials stowage.* (1) Except as otherwise provided in this subchapter, no person may carry a hazardous material in the cabin of a passenger-carrying aircraft or on the flight deck of any aircraft, and the hazardous material must be located in a place that is inaccessible to persons other than crew members. 
+(b) *Hazardous materials stowage.* (1) Except as otherwise provided in this subchapter, no person may carry a hazardous material in the cabin of a passenger-carrying aircraft or on the flight deck of any aircraft, and the hazardous material must be located in a place that is inaccessible to persons other than crew members.
 
-(2) Hazardous materials may be carried in a main deck cargo compartment of a passenger aircraft provided that the compartment is inaccessible to passengers and that it meets all certification requirements for: a Class B aircraft cargo compartment in 14 CFR 25.857(b); or a Class C aircraft cargo compartment in 14 CFR 25.857(c). 
+(2) Hazardous materials may be carried in a main deck cargo compartment of a passenger aircraft provided that the compartment is inaccessible to passengers and that it meets all certification requirements for: a Class B aircraft cargo compartment in 14 CFR 25.857(b); or a Class C aircraft cargo compartment in 14 CFR 25.857(c).
 
-(3) A package bearing a “KEEP AWAY FROM HEAT” handling marking must be protected from direct sunshine and stored in a cool and ventilated place, away from sources of heat. 
+(3) A package bearing a “KEEP AWAY FROM HEAT” handling marking must be protected from direct sunshine and stored in a cool and ventilated place, away from sources of heat.
 
-(4) Except as provided in paragraph (f) of this section, a package containing a hazardous material acceptable for cargo-only aircraft must be loaded in an accessible manner. 
+(4) Except as provided in paragraph (f) of this section, a package containing a hazardous material acceptable for cargo-only aircraft must be loaded in an accessible manner.
 
-(c) For each package containing a hazardous material acceptable for carriage aboard passenger-carrying aircraft, no more than 25 kg (55 pounds) net weight of hazardous material may be loaded in an inaccessible manner. In addition to the 25 kg limitation, an additional 75 kg (165 pounds) net weight of Division 2.2 (non-flammable compressed gas) may be loaded in an inaccessible manner. The requirements of this paragraph (c) do not apply to Class 9, articles of Identification Numbers UN0012, UN0014, or UN0055 also meeting the requirements of § 173.63(b) of this subchapter, articles of Identification Numbers UN3528 or UN3529, and Limited or Excepted Quantity material. 
+(c) For each package containing a hazardous material acceptable for carriage aboard passenger-carrying aircraft, no more than 25 kg (55 pounds) net weight of hazardous material may be loaded in an inaccessible manner. In addition to the 25 kg limitation, an additional 75 kg (165 pounds) net weight of Division 2.2 (non-flammable compressed gas) may be loaded in an inaccessible manner. The requirements of this paragraph (c) do not apply to Class 9, articles of Identification Numbers UN0012, UN0014, or UN0055 also meeting the requirements of § 173.63(b) of this subchapter, articles of Identification Numbers UN3528 or UN3529, and Limited or Excepted Quantity material.
 
-(d) For the purposes of this section— 
+(d) For the purposes of this section—
 
-(1) *Accessible* means, on passenger-carrying or cargo-only aircraft that each package is loaded where a crew member or other authorized person can access, handle, and, when size and weight permit, separate such packages from other cargo during flight, including a freight container in an accessible cargo compartment when packages are loaded in an accessible manner. Additionally, a package is considered accessible when transported on a cargo-only aircraft if it is: 
+(1) *Accessible* means, on passenger-carrying or cargo-only aircraft that each package is loaded where a crew member or other authorized person can access, handle, and, when size and weight permit, separate such packages from other cargo during flight, including a freight container in an accessible cargo compartment when packages are loaded in an accessible manner. Additionally, a package is considered accessible when transported on a cargo-only aircraft if it is:
 
-(i) In a cargo compartment certified by FAA as a Class C aircraft cargo compartment as defined in 14 CFR 25.857(c); or 
+(i) In a cargo compartment certified by FAA as a Class C aircraft cargo compartment as defined in 14 CFR 25.857(c); or
 
-(ii) In an FAA-certified freight container that has an approved fire or smoke detection system and fire suppression system equivalent to that required by the certification requirements for a Class C aircraft cargo compartment. 
+(ii) In an FAA-certified freight container that has an approved fire or smoke detection system and fire suppression system equivalent to that required by the certification requirements for a Class C aircraft cargo compartment.
 
-(2) *Inaccessible* means all other configurations to include packages loaded where a crew member or other authorized person cannot access, handle, and, when size and weight permit, separate such packages from other cargo during flight, including a freight container in an accessible cargo compartment when packages are loaded in an inaccessible manner. 
+(2) *Inaccessible* means all other configurations to include packages loaded where a crew member or other authorized person cannot access, handle, and, when size and weight permit, separate such packages from other cargo during flight, including a freight container in an accessible cargo compartment when packages are loaded in an inaccessible manner.
 
-(e) For transport aboard cargo-only aircraft, the requirements of paragraphs (c) and (d) of this section do not apply to the following hazardous materials: 
+(e) For transport aboard cargo-only aircraft, the requirements of paragraphs (c) and (d) of this section do not apply to the following hazardous materials:
 
-(1) Class 3, PG III (unless the substance is also labeled CORROSIVE), Class 6.1 (unless the substance is also labeled for any hazard class or division except FLAMMABLE LIQUID), Division 6.2, Class 7 (unless the hazardous material meets the definition of another hazard class), Class 9, articles of Identification Numbers UN0012, UN0014, or UN0055 also meeting the requirements of § 173.63(b) of this subchapter, articles of Identification Numbers UN3528 or UN3529, and those marked as a Limited Quantity or Excepted Quantity material. 
+(1) Class 3, PG III (unless the substance is also labeled CORROSIVE), Class 6.1 (unless the substance is also labeled for any hazard class or division except FLAMMABLE LIQUID), Division 6.2, Class 7 (unless the hazardous material meets the definition of another hazard class), Class 9, articles of Identification Numbers UN0012, UN0014, or UN0055 also meeting the requirements of § 173.63(b) of this subchapter, articles of Identification Numbers UN3528 or UN3529, and those marked as a Limited Quantity or Excepted Quantity material.
 
-(2) Packages of hazardous materials transported aboard a cargo aircraft, when other means of transportation are impracticable or not available, in accordance with procedures approved in writing by the FAA Regional Office in the region where the operator is certificated. 
+(2) Packages of hazardous materials transported aboard a cargo aircraft, when other means of transportation are impracticable or not available, in accordance with procedures approved in writing by the FAA Regional Office in the region where the operator is certificated.
 
-(3) Packages of hazardous materials carried on small, single pilot, cargo aircraft if: 
+(3) Packages of hazardous materials carried on small, single pilot, cargo aircraft if:
 
-(i) No person is carried on the aircraft other than the pilot, an FAA Flight Standards inspector, the shipper or consignee of the material, a representative of the shipper or consignee so designated in writing, or a person necessary for handling the material; 
+(i) No person is carried on the aircraft other than the pilot, an FAA Flight Standards inspector, the shipper or consignee of the material, a representative of the shipper or consignee so designated in writing, or a person necessary for handling the material;
 
-(ii) The pilot is provided with written instructions on the characteristics and proper handling of the materials; and 
+(ii) The pilot is provided with written instructions on the characteristics and proper handling of the materials; and
 
-(iii) Whenever a change of pilots occurs while the material is on board, the new pilot is briefed under a hand-to-hand signature service provided by the operator of the aircraft. 
+(iii) Whenever a change of pilots occurs while the material is on board, the new pilot is briefed under a hand-to-hand signature service provided by the operator of the aircraft.
 
-(f) At a minimum, quantity limits and loading instructions in the following quantity and loading table must be followed to maintain acceptable quantity and loading between packages containing hazardous materials. The quantity and loading table is as follows: 
+(f) At a minimum, quantity limits and loading instructions in the following quantity and loading table must be followed to maintain acceptable quantity and loading between packages containing hazardous materials. The quantity and loading table is as follows:
 
 Quantity and Loading Table
 | Applicability                                                                                                                                                     | Forbidden                            | Quantity Limitation: 25 kg net weight of hazardous material plus 75 kg net weight of Division 2.2 (non-flammable compressed gas) per cargo compartment | No limit             |

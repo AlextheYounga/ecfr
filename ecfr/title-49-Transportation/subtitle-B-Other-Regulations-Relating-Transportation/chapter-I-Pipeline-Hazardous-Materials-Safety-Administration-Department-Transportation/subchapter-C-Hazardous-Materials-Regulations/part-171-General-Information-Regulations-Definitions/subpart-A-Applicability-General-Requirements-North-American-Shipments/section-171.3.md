@@ -1,26 +1,26 @@
 ##### § 171.3 Hazardous waste.
 
-(a) No person may offer for transportation or transport a hazardous waste (as defined in § 171.8 of this subchapter) in interstate or intrastate commerce except in accordance with the requirements of this subchapter. 
+(a) No person may offer for transportation or transport a hazardous waste (as defined in § 171.8 of this subchapter) in interstate or intrastate commerce except in accordance with the requirements of this subchapter.
 
-(b) No person may accept for transportation, transport, or deliver a hazardous waste for which a manifest is required unless that person: 
+(b) No person may accept for transportation, transport, or deliver a hazardous waste for which a manifest is required unless that person:
 
-(1) Has marked each motor vehicle used to transport hazardous waste in accordance with § 390.21 of this title even though placards may not be required; 
+(1) Has marked each motor vehicle used to transport hazardous waste in accordance with § 390.21 of this title even though placards may not be required;
 
-(2) Complies with the requirements for manifests set forth in § 172.205 of this subchapter; and 
+(2) Complies with the requirements for manifests set forth in § 172.205 of this subchapter; and
 
-(3) Delivers, as designated on the manifest by the generator, the entire quantity of the waste received from the generator or a transporter to: 
+(3) Delivers, as designated on the manifest by the generator, the entire quantity of the waste received from the generator or a transporter to:
 
-(i) The designated facility or, if not possible, to the designated alternate facility; 
+(i) The designated facility or, if not possible, to the designated alternate facility;
 
-(ii) The designated subsequent carrier; or 
+(ii) The designated subsequent carrier; or
 
-(iii) A designated place outside the United States. 
+(iii) A designated place outside the United States.
 
 Note:
 
 Federal law specifies penalties up to $250,000 fine for an individual and $500,000 for a company and 5 years imprisonment for the willful discharge of hazardous waste at other than designated facilities. 49 U.S.C. 5124.
 
-(c) If a discharge of hazardous waste or other hazardous material occurs during transportation, and an official of a State or local government or a Federal agency, acting within the scope of his official responsibilities, determines that immediate removal of the waste is necessary to prevent further consequence, that official may authorize the removal of the waste without the preparation of a manifest. \[Note: In such cases, EPA does not require carriers to have EPA identification numbers.\] 
+(c) If a discharge of hazardous waste or other hazardous material occurs during transportation, and an official of a State or local government or a Federal agency, acting within the scope of his official responsibilities, determines that immediate removal of the waste is necessary to prevent further consequence, that official may authorize the removal of the waste without the preparation of a manifest. \[Note: In such cases, EPA does not require carriers to have EPA identification numbers.\]
 
 Note 1:
 

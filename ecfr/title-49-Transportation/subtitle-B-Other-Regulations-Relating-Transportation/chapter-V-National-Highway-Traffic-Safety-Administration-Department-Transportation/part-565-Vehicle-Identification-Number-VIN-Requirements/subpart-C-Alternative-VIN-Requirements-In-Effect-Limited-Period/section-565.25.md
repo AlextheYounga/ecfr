@@ -1,10 +1,10 @@
 ##### § 565.25 Content requirements.
 
-The VIN shall consist of four sections of characters which shall be grouped accordingly: 
+The VIN shall consist of four sections of characters which shall be grouped accordingly:
 
-(a) The first section shall consist of three characters that occupy positions one through three (1-3) in the VIN. This section shall uniquely identify the manufacturer, make and type of the motor vehicle if its manufacturer produces 500 or more motor vehicles of its type annually. If the manufacturer produces less than 500 motor vehicles of its type annually, these characters along with the third, fourth and fifth characters of the fourth section shall uniquely identify the manufacturer, make and type of the motor vehicle. These characters are assigned in accordance with § 565.26(a). 
+(a) The first section shall consist of three characters that occupy positions one through three (1-3) in the VIN. This section shall uniquely identify the manufacturer, make and type of the motor vehicle if its manufacturer produces 500 or more motor vehicles of its type annually. If the manufacturer produces less than 500 motor vehicles of its type annually, these characters along with the third, fourth and fifth characters of the fourth section shall uniquely identify the manufacturer, make and type of the motor vehicle. These characters are assigned in accordance with § 565.26(a).
 
-(b) The second section shall consist of five characters, which occupy positions four through eight (4-8) in the VIN. This section shall uniquely identify the attributes of the vehicle as specified in Table VIII. For passenger cars, and for multipurpose passenger vehicles and trucks with a gross vehicle weight rating of 4536 kg (10,000 lb) or less, the first and second characters shall be alphabetic and the third and fourth characters shall be numeric. The fifth character may be either alphabetic or numeric. The characters utilized and their placement within the section may be determined by the manufacturer, but the specified attributes must be decipherable with information supplied by the manufacturer in accordance with § 565.26(c). In submitting the required information to NHTSA relating to gross vehicle weight rating, the designations in Table IX shall be used. The use of these designations within the VIN itself is not required. Tables VIII and IX follow: 
+(b) The second section shall consist of five characters, which occupy positions four through eight (4-8) in the VIN. This section shall uniquely identify the attributes of the vehicle as specified in Table VIII. For passenger cars, and for multipurpose passenger vehicles and trucks with a gross vehicle weight rating of 4536 kg (10,000 lb) or less, the first and second characters shall be alphabetic and the third and fourth characters shall be numeric. The fifth character may be either alphabetic or numeric. The characters utilized and their placement within the section may be determined by the manufacturer, but the specified attributes must be decipherable with information supplied by the manufacturer in accordance with § 565.26(c). In submitting the required information to NHTSA relating to gross vehicle weight rating, the designations in Table IX shall be used. The use of these designations within the VIN itself is not required. Tables VIII and IX follow:
 
 Table VIII—Type of Vehicle and Information Decipherable
 | Passenger car: Line, series, body type, engine type and restraint system type.                                                                                                                                                                                                                                                                                      |
@@ -32,9 +32,9 @@ Table IX—Gross Vehicle Weight Rating Classes
 | Class 7—Greater than 11793 kg. to 14968 kg.(26,001-33,000 lbs.) |
 | Class 8—Greater than 14968 kg. (33,001 lbs. and over).          |
 
-(c) The third section shall consist of one character, which occupies position nine (9) in the VIN. This section shall be the check digit whose purpose is to provide a means for verifying the accuracy of any VIN transcription. After all other characters in VIN have been determined by the manufacturer, the check digit shall be calculated by carrying out the mathematical computation specified in paragraphs (c) (1) through (4) of this section. 
+(c) The third section shall consist of one character, which occupies position nine (9) in the VIN. This section shall be the check digit whose purpose is to provide a means for verifying the accuracy of any VIN transcription. After all other characters in VIN have been determined by the manufacturer, the check digit shall be calculated by carrying out the mathematical computation specified in paragraphs (c) (1) through (4) of this section.
 
-(1) Assign to each number in the VIN its actual mathematical value and assign to each letter the value specified for it in Table X, as follows: 
+(1) Assign to each number in the VIN its actual mathematical value and assign to each letter the value specified for it in Table X, as follows:
 
 Table X—Assigned Values
 | A = 1 |
@@ -61,7 +61,7 @@ Table X—Assigned Values
 | Y = 8 |
 | Z = 9 |
 
-(2) Multiply the assigned value for each character in the VIN by the position weight factor specified in Table XI, as follows: 
+(2) Multiply the assigned value for each character in the VIN by the position weight factor specified in Table XI, as follows:
 
 Table XI—VIN Position and Weight Factor
 | 1st  | 8             |
@@ -82,11 +82,11 @@ Table XI—VIN Position and Weight Factor
 | 16th | 3             |
 | 17th | 2             |
 
-(3) Add the resulting products and divide the total by 11. 
+(3) Add the resulting products and divide the total by 11.
 
-(4) The numerical remainder is the check digit. If the remainder is 10 the letter “X” shall be used to designate the check digit. The correct numeric remainder, zero through nine (0-9) or the letter “X,” shall appear in VIN position nine (9). 
+(4) The numerical remainder is the check digit. If the remainder is 10 the letter “X” shall be used to designate the check digit. The correct numeric remainder, zero through nine (0-9) or the letter “X,” shall appear in VIN position nine (9).
 
-(5) A sample check digit calculation is shown in Table XII as follows: 
+(5) A sample check digit calculation is shown in Table XII as follows:
 
 Table XII—Calculation of a Check Digit
 | VIN Position 12                                                                                   | 1 | 2  | 3  | 4 | 5  | 6  | 7  | 8  | 9   | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |  |
@@ -98,9 +98,9 @@ Table XII—Calculation of a Check Digit
 | Divide by 11: 411/11 = 37 4/11.                                                                   |   |    |    |   |    |    |    |    |     |    |    |    |    |    |    |    |    |  |
 | The remainder is 4; this is the check digit to be inserted in position nine (9) of the VIN.       |   |    |    |   |    |    |    |    |     |    |    |    |    |    |    |    |    |  |
 
-(d) The fourth section shall consist of eight characters, which occupy positions ten through seventeen (10-17) of the VIN. The last five (5) characters of this section shall be numeric for passenger cars and for multipurpose passenger vehicles and trucks with a gross vehicle weight rating of 4536 kg. (10,000 lbs.) or less, and the last four (4) characters shall be numeric for all other vehicles. 
+(d) The fourth section shall consist of eight characters, which occupy positions ten through seventeen (10-17) of the VIN. The last five (5) characters of this section shall be numeric for passenger cars and for multipurpose passenger vehicles and trucks with a gross vehicle weight rating of 4536 kg. (10,000 lbs.) or less, and the last four (4) characters shall be numeric for all other vehicles.
 
-(1) The first character of the fourth section shall represent the vehicle model year. The year shall be designated as indicated in Table XIII as follows: 
+(1) The first character of the fourth section shall represent the vehicle model year. The year shall be designated as indicated in Table XIII as follows:
 
 Table XIII—Year Codes for VIN
 | Year | Code |
@@ -140,6 +140,6 @@ Table XIII—Year Codes for VIN
 | 2012 | C    |
 | 2013 | D    |
 
-(2) The second character of the fourth section shall represent the plant of manufacture. 
+(2) The second character of the fourth section shall represent the plant of manufacture.
 
 (3) The third through the eighth characters of the fourth section shall represent the number sequentially assigned by the manufacturer in the production process if the manufacturer produces 500 or more vehicles of its type annually. If the manufacturer produces less than 500 motor vehicles of its type annually, the third, fourth and fifth characters of the fourth section, combined with the three characters of the first section, shall uniquely identify the manufacturer, make and type of the motor vehicle and the sixth, seventh, and eighth characters of the fourth section shall represent the number sequentially assigned by the manufacturer in the production process.

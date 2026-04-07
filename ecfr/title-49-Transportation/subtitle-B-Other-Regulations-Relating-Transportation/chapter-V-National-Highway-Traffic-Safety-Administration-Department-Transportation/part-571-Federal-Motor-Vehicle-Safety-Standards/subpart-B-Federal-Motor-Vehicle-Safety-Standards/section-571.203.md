@@ -1,22 +1,22 @@
 ##### § 571.203 Standard No. 203; Impact protection for the driver from the steering control system.
 
-S1. *Purpose and scope.* This standard specifies requirements for steering control systems that will minimize chest, neck, and facial injuries to the driver as a result of impact. 
+S1. *Purpose and scope.* This standard specifies requirements for steering control systems that will minimize chest, neck, and facial injuries to the driver as a result of impact.
 
-S2. *Application.* This standard applies to passenger cars and to multipurpose passenger vehicles, trucks and buses with a gross vehicle weight rating of 4,536 kg or less. However, it does not apply to vehicles that conform to the frontal barrier crash requirements (S5.1) of Standard No. 208 (49 CFR 571.208) by means of other than seat belt assemblies. It also does not apply to walk-in vans or vehicles without a steering control. 
+S2. *Application.* This standard applies to passenger cars and to multipurpose passenger vehicles, trucks and buses with a gross vehicle weight rating of 4,536 kg or less. However, it does not apply to vehicles that conform to the frontal barrier crash requirements (S5.1) of Standard No. 208 (49 CFR 571.208) by means of other than seat belt assemblies. It also does not apply to walk-in vans or vehicles without a steering control.
 
 S3. \[Reserved\]
 
-S4. *Requirements.* Each passenger car and each multipurpose passenger vehicle, truck and bus with a gross vehicle weight rating of 4,536 kg or less manufactured on or after September 1, 1981 shall meet the requirements of S5.1 and S5.2. 
+S4. *Requirements.* Each passenger car and each multipurpose passenger vehicle, truck and bus with a gross vehicle weight rating of 4,536 kg or less manufactured on or after September 1, 1981 shall meet the requirements of S5.1 and S5.2.
 
 S5. *Impact protection requirements.*
 
-S5.1 Except as provided in this paragraph, the steering control system of any vehicle to which this standard applies shall be impacted in accordance with S5.1(a). 
+S5.1 Except as provided in this paragraph, the steering control system of any vehicle to which this standard applies shall be impacted in accordance with S5.1(a).
 
-(a) When the steering control system is impacted by a body block in accordance with SAE Recommended Practice J944 JUN80 (incorporated by reference, see § 571.5), at a relative velocity of 24 km/h, the impact force developed on the chest of the body block transmitted to the steering control system shall not exceed 11,120 N, except for intervals whose cumulative duration is not more than 3 milliseconds. 
+(a) When the steering control system is impacted by a body block in accordance with SAE Recommended Practice J944 JUN80 (incorporated by reference, see § 571.5), at a relative velocity of 24 km/h, the impact force developed on the chest of the body block transmitted to the steering control system shall not exceed 11,120 N, except for intervals whose cumulative duration is not more than 3 milliseconds.
 
-(b) \[Reserved\] 
+(b) \[Reserved\]
 
-S5.2 The steering control system shall be so constructed that no components or attachments, including horn actuating mechanisms and trim hardware, can catch the driver's clothing or jewelry during normal driving maneuvers. 
+S5.2 The steering control system shall be so constructed that no components or attachments, including horn actuating mechanisms and trim hardware, can catch the driver's clothing or jewelry during normal driving maneuvers.
 
 Note:
 

@@ -1,6 +1,6 @@
 ##### § 179.101-1 Individual specification requirements.
 
-In addition to § 179.100, the individual specification requirements are as follows: 
+In addition to § 179.100, the individual specification requirements are as follows:
 
 | DOT specification                                                                                                                                                                                                                                                                                                                           | Insulation | Bursting pressure (psig) | Minimum plate thickness (inches) | Test pressure (psig) | Manway cover thickness | Bottom outlet | Bottom washout | Reference   (179.\*\*\*) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------ | -------------------------------- | -------------------- | ---------------------- | ------------- | -------------- | ------------------------ |

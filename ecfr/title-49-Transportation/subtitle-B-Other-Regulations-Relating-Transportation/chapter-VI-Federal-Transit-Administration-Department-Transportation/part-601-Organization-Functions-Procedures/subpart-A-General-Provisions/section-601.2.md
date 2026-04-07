@@ -1,24 +1,24 @@
 ##### § 601.2 Organization of the administration.
 
-(a) The headquarters organization of FTA is comprised of eight principal offices which function under the overall direction of the Federal Transit Administrator (“the Administrator”) and Deputy Administrator. These offices are: 
+(a) The headquarters organization of FTA is comprised of eight principal offices which function under the overall direction of the Federal Transit Administrator (“the Administrator”) and Deputy Administrator. These offices are:
 
-(1) Office of Administration. 
+(1) Office of Administration.
 
-(2) Office of Budget and Policy. 
+(2) Office of Budget and Policy.
 
-(3) Office of Chief Counsel. 
+(3) Office of Chief Counsel.
 
-(4) Office of Civil Rights. 
+(4) Office of Civil Rights.
 
-(5) Office of Communications and Congressional Affairs. 
+(5) Office of Communications and Congressional Affairs.
 
-(6) Office of Planning and Environment. 
+(6) Office of Planning and Environment.
 
-(7) Office of Program Management. 
+(7) Office of Program Management.
 
-(8) Office of Research, Demonstration and Innovation. 
+(8) Office of Research, Demonstration and Innovation.
 
-(b) FTA has ten regional offices, each of which function under the overall direction of the Administrator and Deputy Administrator, and under the general direction of a Regional Administrator. In addition, FTA has established a Lower Manhattan Recovery Office, which is under the general direction of the Director for this office. 
+(b) FTA has ten regional offices, each of which function under the overall direction of the Administrator and Deputy Administrator, and under the general direction of a Regional Administrator. In addition, FTA has established a Lower Manhattan Recovery Office, which is under the general direction of the Director for this office.
 
 | Region/States                                                                                                    | Office/address                                                                                                     | Telephone No.  |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------- |

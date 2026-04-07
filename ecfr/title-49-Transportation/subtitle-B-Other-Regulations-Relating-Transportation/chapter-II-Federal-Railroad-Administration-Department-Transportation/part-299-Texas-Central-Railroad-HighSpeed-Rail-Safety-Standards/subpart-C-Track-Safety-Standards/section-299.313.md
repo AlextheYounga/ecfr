@@ -1,6 +1,6 @@
 ##### § 299.313 Track geometry; performance based.
 
-(a) For all track of Class H4 and above, vibration in the lateral and vertical directions measured on the carbody of a vehicle representative of the service fleet traveling at a speed no less than 10 km/h (6.2 mph) below the maximum speed permitted for the class of track, shall not exceed the limits prescribed in the following table: 
+(a) For all track of Class H4 and above, vibration in the lateral and vertical directions measured on the carbody of a vehicle representative of the service fleet traveling at a speed no less than 10 km/h (6.2 mph) below the maximum speed permitted for the class of track, shall not exceed the limits prescribed in the following table:
 
 Table 1 to Paragraph (a)
 | Carbody acceleration limits 1 2                                                                                                                                                                                       |

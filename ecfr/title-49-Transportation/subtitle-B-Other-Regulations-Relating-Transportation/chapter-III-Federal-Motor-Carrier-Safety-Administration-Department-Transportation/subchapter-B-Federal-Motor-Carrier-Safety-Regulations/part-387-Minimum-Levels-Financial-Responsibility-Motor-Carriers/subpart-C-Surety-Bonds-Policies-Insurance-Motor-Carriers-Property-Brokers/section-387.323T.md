@@ -1,10 +1,10 @@
 ##### § 387.323T Electronic filing of surety bonds, trust fund agreements, certificates of insurance and cancellations.
 
-(a) Insurers may, at their option and in accordance with the requirements and procedures set forth in paragraphs (a) through (d) of this section, file forms BMC 34, BMC 35, BMC 36, BMC 82, BMC 83, BMC 84, BMC 85, BMC 91, and BMC 91X electronically, in lieu of using the prescribed printed forms. 
+(a) Insurers may, at their option and in accordance with the requirements and procedures set forth in paragraphs (a) through (d) of this section, file forms BMC 34, BMC 35, BMC 36, BMC 82, BMC 83, BMC 84, BMC 85, BMC 91, and BMC 91X electronically, in lieu of using the prescribed printed forms.
 
-(b) Each insurer must obtain authorization to file electronically by registering with the FMCSA. An individual account number and password for computer access will be issued to each registered insurer. 
+(b) Each insurer must obtain authorization to file electronically by registering with the FMCSA. An individual account number and password for computer access will be issued to each registered insurer.
 
-(c) Filings may be transmitted online via the internet at: *https://li-public.fmcsa.dot.gov* or via American Standard Code Information Interchange (ASCII). All ASCII transmission must be in fixed format, *i.e.,* all records must have the same number of fields and same length. The record layouts for ASCII electronic transactions are described in the following table: 
+(c) Filings may be transmitted online via the internet at: *https://li-public.fmcsa.dot.gov* or via American Standard Code Information Interchange (ASCII). All ASCII transmission must be in fixed format, *i.e.,* all records must have the same number of fields and same length. The record layouts for ASCII electronic transactions are described in the following table:
 
 Electronic Insurance Filing Transactions
 | Field name                       | Number of   positions | Description                                                                                                                  | Required   F = filing   C = cancel   B = both | Start field | End field |
@@ -27,6 +27,6 @@ Electronic Insurance Filing Transactions
 | Effective date                   | 8 Text                | MM/DD/YY Format for both Filing or Cancellation                                                                              | B                                             | 298         | 305       |
 | Policy number                    | 25 Text               | Surety companies may enter bond number                                                                                       | B                                             | 306         | 330       |
 
-(d) All registered insurers agree to furnish upon request to the FMCSA a duplicate original of any policy (or policies) and all endorsements, surety bond, trust fund agreement, or other filing. 
+(d) All registered insurers agree to furnish upon request to the FMCSA a duplicate original of any policy (or policies) and all endorsements, surety bond, trust fund agreement, or other filing.
 
 \[82 FR 5308, Jan. 17, 2017, as amended at 86 FR 57072, Oct. 14, 2021\]

@@ -1,12 +1,12 @@
 ##### § 171.10 Units of measure.
 
-(a) *General.* To ensure compatibility with international transportation standards, most units of measure in this subchapter are expressed using the International System of Units (“SI” or metric). Where SI units appear, they are the regulatory standard. U.S. standard or customary units, which appear in parentheses following the SI units, are for information only and are not intended to be the regulatory standard. 
+(a) *General.* To ensure compatibility with international transportation standards, most units of measure in this subchapter are expressed using the International System of Units (“SI” or metric). Where SI units appear, they are the regulatory standard. U.S. standard or customary units, which appear in parentheses following the SI units, are for information only and are not intended to be the regulatory standard.
 
-(b) Abbreviations for SI units of measure generally used throughout this subchapter are as shown in paragraph (c) of this section. Customary units shown throughout this subchapter are generally not abbreviated. 
+(b) Abbreviations for SI units of measure generally used throughout this subchapter are as shown in paragraph (c) of this section. Customary units shown throughout this subchapter are generally not abbreviated.
 
-(c) *Conversion values.* (1) Conversion values are provided in the following table and are based on values provided in ASTM E 380, “Standard for Metric Practice”. 
+(c) *Conversion values.* (1) Conversion values are provided in the following table and are based on values provided in ASTM E 380, “Standard for Metric Practice”.
 
-(2) If an exact conversion is needed, the following conversion table should be used. 
+(2) If an exact conversion is needed, the following conversion table should be used.
 
 Table of Conversion Factors for SI Units
 | Measurement                                                                                                                                                                                              | SI to U.S. standard                                                      | U.S. standard to SI                                             |

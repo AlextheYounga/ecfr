@@ -1,16 +1,16 @@
 ##### § 192.739 Pressure limiting and regulating stations: Inspection and testing.
 
-(a) Each pressure limiting station, relief device (except rupture discs), and pressure regulating station and its equipment must be subjected at intervals not exceeding 15 months, but at least once each calendar year, to inspections and tests to determine that it is— 
+(a) Each pressure limiting station, relief device (except rupture discs), and pressure regulating station and its equipment must be subjected at intervals not exceeding 15 months, but at least once each calendar year, to inspections and tests to determine that it is—
 
-(1) In good mechanical condition; 
+(1) In good mechanical condition;
 
-(2) Adequate from the standpoint of capacity and reliability of operation for the service in which it is employed; 
+(2) Adequate from the standpoint of capacity and reliability of operation for the service in which it is employed;
 
-(3) Except as provided in paragraph (b) of this section, set to control or relieve at the correct pressure consistent with the pressure limits of § 192.201(a); and 
+(3) Except as provided in paragraph (b) of this section, set to control or relieve at the correct pressure consistent with the pressure limits of § 192.201(a); and
 
-(4) Properly installed and protected from dirt, liquids, or other conditions that might prevent proper operation. 
+(4) Properly installed and protected from dirt, liquids, or other conditions that might prevent proper operation.
 
-(b) For steel pipelines whose MAOP is determined under § 192.619(c), if the MAOP is 60 psi (414 kPa) gage or more, the control or relief pressure limit is as follows: 
+(b) For steel pipelines whose MAOP is determined under § 192.619(c), if the MAOP is 60 psi (414 kPa) gage or more, the control or relief pressure limit is as follows:
 
 | If the MAOP produces a hoop stress that is: | Then the pressure limit is:                                                                                               |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |

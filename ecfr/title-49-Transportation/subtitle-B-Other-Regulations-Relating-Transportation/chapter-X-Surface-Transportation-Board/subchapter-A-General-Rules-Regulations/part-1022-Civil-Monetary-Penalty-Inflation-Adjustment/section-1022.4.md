@@ -1,8 +1,8 @@
 ##### § 1022.4 Cost-of living adjustments of civil monetary penalties.
 
-(a) The inflation adjustment under § 1022.3 will initially be determined by increasing each maximum civil monetary penalty by the initial cost-of-living adjustment. Not later than January 15 of every year thereafter, the inflation adjustment will subsequently be determined by increasing the maximum civil monetary penalty for each civil monetary penalty by the cost-of-living adjustment. Any increase determined under this section shall be rounded to the nearest dollar. 
+(a) The inflation adjustment under § 1022.3 will initially be determined by increasing each maximum civil monetary penalty by the initial cost-of-living adjustment. Not later than January 15 of every year thereafter, the inflation adjustment will subsequently be determined by increasing the maximum civil monetary penalty for each civil monetary penalty by the cost-of-living adjustment. Any increase determined under this section shall be rounded to the nearest dollar.
 
-(b) The cost-of-living adjustment required by the statute results in the following adjustments to the civil monetary penalties within the jurisdiction of the Board: 
+(b) The cost-of-living adjustment required by the statute results in the following adjustments to the civil monetary penalties within the jurisdiction of the Board:
 
 Table 1 to Paragraph (b)
 | U.S. Code citation          | Civil monetary penalty description                                                                                                                 | 2023—   Penalty   amount | 2024—   Adjusted penalty   amount |

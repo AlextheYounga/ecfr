@@ -1,47 +1,47 @@
 ##### § 801.10 General.
 
-(a) The NTSB's Chief FOIA Officer provides high level oversight and support to NTSB's FOIA programs, and recommends adjustments to agency practices, personnel, and funding as may be necessary to improve FOIA administration. The Chief FOIA Officer is responsible for the initial determination of whether to release records within the 20-working-day time limit, or the extension, specified in the Freedom of Information Act. The Chief FOIA Officer is also responsible for designating one or more FOIA Public Liaisons. 
+(a) The NTSB's Chief FOIA Officer provides high level oversight and support to NTSB's FOIA programs, and recommends adjustments to agency practices, personnel, and funding as may be necessary to improve FOIA administration. The Chief FOIA Officer is responsible for the initial determination of whether to release records within the 20-working-day time limit, or the extension, specified in the Freedom of Information Act. The Chief FOIA Officer is also responsible for designating one or more FOIA Public Liaisons.
 
-(b) The NTSB's Chief, Records Management Division: 
+(b) The NTSB's Chief, Records Management Division:
 
-(1) Is responsible for the custody and control of all NTSB records required to be preserved under the Federal Records Act, 44 U.S.C. Chapters 21, 29, 31, and 33. 
+(1) Is responsible for the custody and control of all NTSB records required to be preserved under the Federal Records Act, 44 U.S.C. Chapters 21, 29, 31, and 33.
 
 (2) Maintains an electronic reading room in accordance with 5 U.S.C. 552(a)(2). The NTSB's electronic reading room is accessible on the NTSB's FOIA website at *https://www.ntsb.gov/.*
 
-(3) Maintains a public access link on the NTSB's FOIA Website for requesters to electronically submit a FOIA request and track the status of the request. 
+(3) Maintains a public access link on the NTSB's FOIA Website for requesters to electronically submit a FOIA request and track the status of the request.
 
-(c) The NTSB maintains in its electronic reading room, making the following available: 
+(c) The NTSB maintains in its electronic reading room, making the following available:
 
-(1) Records that have been provided pursuant to a FOIA request, and 
+(1) Records that have been provided pursuant to a FOIA request, and
 
-(i) Have been requested at least three times or 
+(i) Have been requested at least three times or
 
-(ii) Are likely to be the subject of repeat requests. 
+(ii) Are likely to be the subject of repeat requests.
 
-(2) A general index of the records in paragraph (c)(1) of this section; 
+(2) A general index of the records in paragraph (c)(1) of this section;
 
-(3) Final opinions, including concurring and dissenting opinions, as well as orders, made in the adjudication of appeals under parts 821 and 825 of this chapter. 
+(3) Final opinions, including concurring and dissenting opinions, as well as orders, made in the adjudication of appeals under parts 821 and 825 of this chapter.
 
-(4) Statements of policy and interpretations which have been adopted by the agency and are not published in the Federal Register; 
+(4) Statements of policy and interpretations which have been adopted by the agency and are not published in the Federal Register;
 
-(5) Administrative staff manuals and instructions to staff that affect a member of the public; 
+(5) Administrative staff manuals and instructions to staff that affect a member of the public;
 
-(6)(i) The annual report submitted to the Attorney General and the Office of Government Information Services in the National Archives and Records Administration (OGIS), under 5 U.S.C. 552(e)(1); and 
+(6)(i) The annual report submitted to the Attorney General and the Office of Government Information Services in the National Archives and Records Administration (OGIS), under 5 U.S.C. 552(e)(1); and
 
-(ii) The raw statistical data used in the annual report in an aggregate, searchable, and downloadable format, provided without charge, license, or registration requirement; 
+(ii) The raw statistical data used in the annual report in an aggregate, searchable, and downloadable format, provided without charge, license, or registration requirement;
 
-(7) A guide for requesting records or information from the NTSB that includes an index of the agency's major information systems, major information and record locator systems, concise descriptions of FOIA exemptions, and general categories of NTSB records to which the exemptions apply; and 
+(7) A guide for requesting records or information from the NTSB that includes an index of the agency's major information systems, major information and record locator systems, concise descriptions of FOIA exemptions, and general categories of NTSB records to which the exemptions apply; and
 
-(8) A record of the votes of each Member in NTSB proceedings. 
+(8) A record of the votes of each Member in NTSB proceedings.
 
-(d) FOIA requests for records or information not publicly available on the NTSB Website may be submitted electronically by email or through the public access link, or in writing to: National Transportation Safety Board, Attention: FOIA Requester Service Center, CIO-40, 490 L'Enfant Plaza SW, Washington, DC 20594-003. All requests must reasonably identify the record requested and contain the name, address, email address, and telephone number of the person making the request. A requester must inform the NTSB of changes to the requester's contact information. Requests mailed to the NTSB must prominently display the letters “FOIA” to distinguish the FOIA request from other types of document requests. For requests regarding an investigation of a particular accident, requesters should include the date and location of the accident, as well as the NTSB investigation number. 
+(d) FOIA requests for records or information not publicly available on the NTSB Website may be submitted electronically by email or through the public access link, or in writing to: National Transportation Safety Board, Attention: FOIA Requester Service Center, CIO-40, 490 L'Enfant Plaza SW, Washington, DC 20594-003. All requests must reasonably identify the record requested and contain the name, address, email address, and telephone number of the person making the request. A requester must inform the NTSB of changes to the requester's contact information. Requests mailed to the NTSB must prominently display the letters “FOIA” to distinguish the FOIA request from other types of document requests. For requests regarding an investigation of a particular accident, requesters should include the date and location of the accident, as well as the NTSB investigation number.
 
-(e) In response to broad requests for records regarding a particular investigation, the FOIA Office will notify the requester that a public docket has been or will be opened for the investigation, and attempt to clarify whether the information in the docket satisfies the request. 
+(e) In response to broad requests for records regarding a particular investigation, the FOIA Office will notify the requester that a public docket has been or will be opened for the investigation, and attempt to clarify whether the information in the docket satisfies the request.
 
-(f) The NTSB will not release records originally generated by other agencies or entities. Instead, the NTSB will refer such requests for other agencies' records to the appropriate agency, which will make a release determination upon receiving and processing the referred request. 
+(f) The NTSB will not release records originally generated by other agencies or entities. Instead, the NTSB will refer such requests for other agencies' records to the appropriate agency, which will make a release determination upon receiving and processing the referred request.
 
-(g) Where a requester seeks a record on behalf of another person, and the record contains that person's personal information protected by 5 U.S.C. 552(b)(6) and § 801.56, the personal information will not be provided to the requester unless the requester submits a notarized statement of consent from the person whose personal information is contained in the record. 
+(g) Where a requester seeks a record on behalf of another person, and the record contains that person's personal information protected by 5 U.S.C. 552(b)(6) and § 801.56, the personal information will not be provided to the requester unless the requester submits a notarized statement of consent from the person whose personal information is contained in the record.
 
-(h) In general, the NTSB will deny requests for records concerning a pending investigation, pursuant to appropriate exemptions under the FOIA. The FOIA Office will notify the requester of this denial in accordance with § 801.21(b), and provide the requester additional information regarding how the requester may receive information on the investigation once the investigation is complete. 
+(h) In general, the NTSB will deny requests for records concerning a pending investigation, pursuant to appropriate exemptions under the FOIA. The FOIA Office will notify the requester of this denial in accordance with § 801.21(b), and provide the requester additional information regarding how the requester may receive information on the investigation once the investigation is complete.
 
 \[82 FR 58356, Dec. 12, 2017, as amended at 86 FR 74377, Dec. 30, 2021\]

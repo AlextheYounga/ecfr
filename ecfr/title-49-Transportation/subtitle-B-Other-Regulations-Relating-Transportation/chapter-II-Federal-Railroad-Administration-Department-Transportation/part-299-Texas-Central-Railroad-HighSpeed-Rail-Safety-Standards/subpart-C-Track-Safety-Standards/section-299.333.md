@@ -1,6 +1,6 @@
 ##### § 299.333 Frog guard rails and guard faces; gauge.
 
-The guard check and guard face gages in frogs shall be within the limits prescribed in the following table: 
+The guard check and guard face gages in frogs shall be within the limits prescribed in the following table:
 
 Table 1 to § 299.333
 | Track class                                                                                                                                                           | Guard check gage   The distance between the gauge line of a frog to the guard line 1 of its guard rail or guarding face, measured across the track at right   angles to the gauge line,2 may not be less than— | Guard face gage   The distance between the guard lines,1   measured across the track at right angles to the gauge line,2 may not be more than— |

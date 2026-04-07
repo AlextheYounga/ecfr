@@ -1,6 +1,6 @@
 ##### § 192.115 Temperature derating factor (T) for steel pipe.
 
-The temperature derating factor to be used in the design formula in § 192.105 is determined as follows: 
+The temperature derating factor to be used in the design formula in § 192.105 is determined as follows:
 
 | Gas temperature in degrees   Fahrenheit (Celsius) | Temperature   derating factor (T) |
 | ------------------------------------------------- | --------------------------------- |

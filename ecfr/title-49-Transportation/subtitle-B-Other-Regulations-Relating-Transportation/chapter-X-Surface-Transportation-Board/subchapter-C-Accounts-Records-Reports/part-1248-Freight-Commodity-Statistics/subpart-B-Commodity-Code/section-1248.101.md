@@ -1,6 +1,6 @@
 ##### § 1248.101 Commodity codes required.
 
-Commodity codes required to be reported, as referred to in this part, are as follows: 
+Commodity codes required to be reported, as referred to in this part, are as follows:
 
 | Code  | Description                                                                                                                                                            |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

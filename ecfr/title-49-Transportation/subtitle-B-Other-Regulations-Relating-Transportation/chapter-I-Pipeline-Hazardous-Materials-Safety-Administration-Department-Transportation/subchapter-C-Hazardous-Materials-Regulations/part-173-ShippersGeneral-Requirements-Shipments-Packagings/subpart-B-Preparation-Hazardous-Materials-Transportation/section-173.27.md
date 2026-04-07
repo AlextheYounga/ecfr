@@ -1,80 +1,80 @@
 ##### § 173.27 General requirements for transportation by aircraft.
 
-(a) The requirements of this section are in addition to requirements prescribed elsewhere under this part and apply to packages offered or intended for transportation aboard aircraft. Except for materials not subject to performance packaging requirements in subpart E of this part, a packaging containing a Packing Group III material with a primary or subsidiary risk of Division 4.1, 4.2, 4.3, 5.1, or Class 8 must meet the Packing Group II performance level when offered for transportation by aircraft. 
+(a) The requirements of this section are in addition to requirements prescribed elsewhere under this part and apply to packages offered or intended for transportation aboard aircraft. Except for materials not subject to performance packaging requirements in subpart E of this part, a packaging containing a Packing Group III material with a primary or subsidiary risk of Division 4.1, 4.2, 4.3, 5.1, or Class 8 must meet the Packing Group II performance level when offered for transportation by aircraft.
 
-(b) *Packages authorized onboard aircraft.* (1) When Column 9a of the § 172.101 table indicates that a material is “Forbidden”, that material may not be offered for transportation or transported aboard passenger-carrying aircraft. 
+(b) *Packages authorized onboard aircraft.* (1) When Column 9a of the § 172.101 table indicates that a material is “Forbidden”, that material may not be offered for transportation or transported aboard passenger-carrying aircraft.
 
-(2) When Column 9b of the § 172.101 table indicates that a material is “Forbidden”, that material may not be offered for transportation or transported aboard aircraft. 
+(2) When Column 9b of the § 172.101 table indicates that a material is “Forbidden”, that material may not be offered for transportation or transported aboard aircraft.
 
-(3) The maximum quantity of hazardous material in a package that may be offered for transportation or transported aboard a passenger-carrying aircraft or cargo aircraft may not exceed that quantity prescribed for the material in Column 9a or 9b, respectively, of the § 172.101 table. 
+(3) The maximum quantity of hazardous material in a package that may be offered for transportation or transported aboard a passenger-carrying aircraft or cargo aircraft may not exceed that quantity prescribed for the material in Column 9a or 9b, respectively, of the § 172.101 table.
 
-(4) A package containing a hazardous material which is authorized aboard cargo aircraft but not aboard passenger aircraft must be labeled with the CARGO AIRCRAFT ONLY label required by § 172.402(c) of this subchapter and may not be offered for transportation or transported aboard passenger-carrying aircraft. 
+(4) A package containing a hazardous material which is authorized aboard cargo aircraft but not aboard passenger aircraft must be labeled with the CARGO AIRCRAFT ONLY label required by § 172.402(c) of this subchapter and may not be offered for transportation or transported aboard passenger-carrying aircraft.
 
-(c) *Pressure requirements.* (1) Packagings must be designed and constructed to prevent leakage that may be caused by changes in altitude and temperature during transportation aboard aircraft. 
+(c) *Pressure requirements.* (1) Packagings must be designed and constructed to prevent leakage that may be caused by changes in altitude and temperature during transportation aboard aircraft.
 
-(2) Except for packagings used for material transported as “UN3082, Environmentally hazardous substance, liquid, n.o.s.,” packagings for which retention of liquid is a basic function must be capable of withstanding without leakage the greater of— 
+(2) Except for packagings used for material transported as “UN3082, Environmentally hazardous substance, liquid, n.o.s.,” packagings for which retention of liquid is a basic function must be capable of withstanding without leakage the greater of—
 
-(i) An internal pressure which produces a gauge pressure of not less than 75 kPa (11 psig) for liquids in Packing Group III of Class 3 or Division 6.1; or 95 kPa (14 psig) for other liquids; or 
+(i) An internal pressure which produces a gauge pressure of not less than 75 kPa (11 psig) for liquids in Packing Group III of Class 3 or Division 6.1; or 95 kPa (14 psig) for other liquids; or
 
-(ii) A pressure related to the vapor pressure of the liquid to be conveyed, determined by one of the following: 
+(ii) A pressure related to the vapor pressure of the liquid to be conveyed, determined by one of the following:
 
-(A) The total gauge pressure measured in the receptacle (i.e., the vapor pressure of the material and the partial pressure of air or other inert gases, less 100 kPa (15 psia)) at 55 °C (131 °F), multiplied by a safety factor of 1.5; determined on the basis of a filling temperature of 15 °C (59 °F) and a degree of filling such that the receptacle is not completely liquid full at a temperature of 55 °C (131 °F) or less; 
+(A) The total gauge pressure measured in the receptacle (i.e., the vapor pressure of the material and the partial pressure of air or other inert gases, less 100 kPa (15 psia)) at 55 °C (131 °F), multiplied by a safety factor of 1.5; determined on the basis of a filling temperature of 15 °C (59 °F) and a degree of filling such that the receptacle is not completely liquid full at a temperature of 55 °C (131 °F) or less;
 
-(B) 1.75 times the vapor pressure at 50 °C (122 °F) less 100 kPa (15 psia); or 
+(B) 1.75 times the vapor pressure at 50 °C (122 °F) less 100 kPa (15 psia); or
 
-(C) 1.5 times the vapor pressure at 55 °C (131 °) less 100 kPa (15 psia). 
+(C) 1.5 times the vapor pressure at 55 °C (131 °) less 100 kPa (15 psia).
 
-(3) Notwithstanding the provisions of paragraph (c)(2) of this section— 
+(3) Notwithstanding the provisions of paragraph (c)(2) of this section—
 
-(i) Hazardous materials may be contained in an inner packaging which does not itself meet the pressure requirement provided that the inner packaging is packed within a supplementary packaging which does meet the pressure requirement and other applicable packaging requirements of this subchapter. 
+(i) Hazardous materials may be contained in an inner packaging which does not itself meet the pressure requirement provided that the inner packaging is packed within a supplementary packaging which does meet the pressure requirement and other applicable packaging requirements of this subchapter.
 
-(ii) Packagings which are subject to the hydrostatic pressure test and marking requirements of §§ 178.605 and 178.503(a)(5), respectively, of this subchapter must have a marked test pressure of not less than 250 kPa (36 psig) for liquids in Packing Group I, 80 kPa (12 psig) for liquids in Packing Group III of Class 3 or Division 6.1, and 100 kPa (15 psig) for other liquids. 
+(ii) Packagings which are subject to the hydrostatic pressure test and marking requirements of §§ 178.605 and 178.503(a)(5), respectively, of this subchapter must have a marked test pressure of not less than 250 kPa (36 psig) for liquids in Packing Group I, 80 kPa (12 psig) for liquids in Packing Group III of Class 3 or Division 6.1, and 100 kPa (15 psig) for other liquids.
 
-(d) *Closures.* The body and closure of any packaging must be constructed to be able to adequately resist the effects of temperature and vibration occurring in conditions normally incident to air transportation. Inner packaging or receptacle closures of combination packages containing liquids must be held securely, tightly and effectively in place by secondary means. Examples of such secondary methods include: Adhesive tape, friction sleeves, welding or soldering, locking wires, locking rings, induction heat seals, and child-resistant closures. The closure device must be designed so that it is unlikely that it can be incorrectly or incompletely closed. Closures must be as follows: 
+(d) *Closures.* The body and closure of any packaging must be constructed to be able to adequately resist the effects of temperature and vibration occurring in conditions normally incident to air transportation. Inner packaging or receptacle closures of combination packages containing liquids must be held securely, tightly and effectively in place by secondary means. Examples of such secondary methods include: Adhesive tape, friction sleeves, welding or soldering, locking wires, locking rings, induction heat seals, and child-resistant closures. The closure device must be designed so that it is unlikely that it can be incorrectly or incompletely closed. Closures must be as follows:
 
-(1) *Packing Group I.* An inner packaging containing liquids of Packing Group I must have a secondary means of closure applied and packed in accordance with paragraph (e) of this section. 
+(1) *Packing Group I.* An inner packaging containing liquids of Packing Group I must have a secondary means of closure applied and packed in accordance with paragraph (e) of this section.
 
-(2) *Packing Groups II and III.* When a secondary means of closure cannot be applied or is impracticable to apply to an inner packaging containing liquids of Packing Groups II and III, this requirement may be satisfied by securely closing the inner packaging and placing it in a leakproof liner or bag before placing the inner packaging in its outer packaging. 
+(2) *Packing Groups II and III.* When a secondary means of closure cannot be applied or is impracticable to apply to an inner packaging containing liquids of Packing Groups II and III, this requirement may be satisfied by securely closing the inner packaging and placing it in a leakproof liner or bag before placing the inner packaging in its outer packaging.
 
-(e) *Absorbent materials.* Except as otherwise provided in this subchapter, Packing Group I liquid hazardous materials of Classes 3, 4, or 8, or Divisions 5.1 or 6.1 that are packaged in combination packagings and offered for air transport in glass, earthenware, plastic, or metal inner packagings must be packed using absorbent material as follows: 
+(e) *Absorbent materials.* Except as otherwise provided in this subchapter, Packing Group I liquid hazardous materials of Classes 3, 4, or 8, or Divisions 5.1 or 6.1 that are packaged in combination packagings and offered for air transport in glass, earthenware, plastic, or metal inner packagings must be packed using absorbent material as follows:
 
-(1) Inner packagings must be packed in a rigid and leakproof receptacle or intermediate packaging containing sufficient absorbent material to absorb the entire contents of the inner packaging before packing the inner packaging in its outer package. 
+(1) Inner packagings must be packed in a rigid and leakproof receptacle or intermediate packaging containing sufficient absorbent material to absorb the entire contents of the inner packaging before packing the inner packaging in its outer package.
 
-(2) Absorbent material must not react dangerously with the liquid (see §§ 173.24 and 173.24a.). 
+(2) Absorbent material must not react dangerously with the liquid (see §§ 173.24 and 173.24a.).
 
-(f) *Combination packagings.* Unless otherwise specified in this part, or in subpart C of part 171 of this subchapter, when combination packagings are intended for transportation aboard an aircraft, inner packagings must conform to the quantity limitations set forth in Table 1 of this paragraph for transport aboard passenger-carrying aircraft and Table 2 of this paragraph for transport aboard cargo-only aircraft. For materials that are authorized to exceed 220 L (58 gallons) or 200 kg (441 pounds) in accordance with columns (9A) and (9B) of the § 172.101 Hazardous Materials Table, there is no limitation on the maximum authorized net capacity of each inner packaging. 
+(f) *Combination packagings.* Unless otherwise specified in this part, or in subpart C of part 171 of this subchapter, when combination packagings are intended for transportation aboard an aircraft, inner packagings must conform to the quantity limitations set forth in Table 1 of this paragraph for transport aboard passenger-carrying aircraft and Table 2 of this paragraph for transport aboard cargo-only aircraft. For materials that are authorized to exceed 220 L (58 gallons) or 200 kg (441 pounds) in accordance with columns (9A) and (9B) of the § 172.101 Hazardous Materials Table, there is no limitation on the maximum authorized net capacity of each inner packaging.
 
-(1) *Excepted quantities.* For authorized materials and inner and outer package quantity limits for combination packages of excepted quantities intended for transportation by aircraft, *see* § 173.4a of this part. 
+(1) *Excepted quantities.* For authorized materials and inner and outer package quantity limits for combination packages of excepted quantities intended for transportation by aircraft, *see* § 173.4a of this part.
 
-(2) *Limited quantities.* (i) Unless otherwise specified in this part, or in subpart C of part 171 of this subchapter, when a limited quantity of hazardous material packaged in a combination packaging is intended for transportation aboard an aircraft, the inner and outer packagings must conform to the quantity limitations set forth in Table 3 of this paragraph (f). Materials and articles must be authorized for transportation aboard a passenger-carrying aircraft (see Column (9A) of the § 172.101 Hazardous Materials Table of this subchapter). Not all unauthorized materials or articles may be indicated in this table. For mixed content packages of limited quantity material, the total net quantity must not exceed the lowest permitted maximum net quantity (for each of the hazard classes or divisions represented in the package) per outer package set forth in Table 3 of this paragraph (f). The permitted maximum net quantity must be calculated in kilograms for a package that contains both a solid and a liquid. Unless otherwise excepted, packages must be marked and labeled in accordance with this section and any additional requirements in subparts D and E, respectively, of part 172 of this subchapter. Materials or articles not authorized as limited quantity by aircraft are: 
+(2) *Limited quantities.* (i) Unless otherwise specified in this part, or in subpart C of part 171 of this subchapter, when a limited quantity of hazardous material packaged in a combination packaging is intended for transportation aboard an aircraft, the inner and outer packagings must conform to the quantity limitations set forth in Table 3 of this paragraph (f). Materials and articles must be authorized for transportation aboard a passenger-carrying aircraft (see Column (9A) of the § 172.101 Hazardous Materials Table of this subchapter). Not all unauthorized materials or articles may be indicated in this table. For mixed content packages of limited quantity material, the total net quantity must not exceed the lowest permitted maximum net quantity (for each of the hazard classes or divisions represented in the package) per outer package set forth in Table 3 of this paragraph (f). The permitted maximum net quantity must be calculated in kilograms for a package that contains both a solid and a liquid. Unless otherwise excepted, packages must be marked and labeled in accordance with this section and any additional requirements in subparts D and E, respectively, of part 172 of this subchapter. Materials or articles not authorized as limited quantity by aircraft are:
 
-(A) Those in Packing Group I; 
+(A) Those in Packing Group I;
 
-(B) Class 1 (explosive) material (see § 173.63(b) of this part for exceptions provided to certain articles of Division 1.4S) and Class 7 (radioactive) material (see §§ 173.421 through 173.425 of this part, as applicable, for exceptions provided to certain substances, instruments or articles of Class 7); 
+(B) Class 1 (explosive) material (see § 173.63(b) of this part for exceptions provided to certain articles of Division 1.4S) and Class 7 (radioactive) material (see §§ 173.421 through 173.425 of this part, as applicable, for exceptions provided to certain substances, instruments or articles of Class 7);
 
-(C) Divisions 2.1 (flammable gas) (*except* Aerosols (UN1950) and Receptacles, small (UN2037) without subsidiary risk) and Division 2.3 (toxic gas); 
+(C) Divisions 2.1 (flammable gas) (*except* Aerosols (UN1950) and Receptacles, small (UN2037) without subsidiary risk) and Division 2.3 (toxic gas);
 
-(D) Divisions 4.1 (self-reactive and UN2555, UN2556, UN2557, or UN2907), 4.2 (spontaneously combustible) (primary or subsidiary risk), and 4.3 (dangerous when wet) (liquids); 
+(D) Divisions 4.1 (self-reactive and UN2555, UN2556, UN2557, or UN2907), 4.2 (spontaneously combustible) (primary or subsidiary risk), and 4.3 (dangerous when wet) (liquids);
 
-(E) Division 5.2 (organic peroxide) (*except* when contained in a Chemical or First aid kit (UN3316) or Polyester resin kit (UN3269) (Types D, E and F non-temperature controlled only)); 
+(E) Division 5.2 (organic peroxide) (*except* when contained in a Chemical or First aid kit (UN3316) or Polyester resin kit (UN3269) (Types D, E and F non-temperature controlled only));
 
-(F) Class 8 (corrosive) materials UN2794, UN2795, UN2803, UN2809, UN3028, UN3506; and 
+(F) Class 8 (corrosive) materials UN2794, UN2795, UN2803, UN2809, UN3028, UN3506; and
 
-(G) All Class 9 (miscellaneous) materials *except for* UN1941, UN1990, UN2071, UN3077, UN3082, UN3316, UN3334, UN3335, and ID8000. 
+(G) All Class 9 (miscellaneous) materials *except for* UN1941, UN1990, UN2071, UN3077, UN3082, UN3316, UN3334, UN3335, and ID8000.
 
-(ii) Packages must be marked with the limited quantity “Y” mark as prescribed in § 172.315 of this subchapter when conforming to Table 3 of this paragraph. 
+(ii) Packages must be marked with the limited quantity “Y” mark as prescribed in § 172.315 of this subchapter when conforming to Table 3 of this paragraph.
 
-(iii) Strong outer packagings are required and a completed package may not exceed 30 kg (66 lbs) gross weight. 
+(iii) Strong outer packagings are required and a completed package may not exceed 30 kg (66 lbs) gross weight.
 
-(iv) A secondary means of closure required for all liquids contained in inner packagings. If this requirement cannot be satisfied, the use of an intermediate and leakproof form of containment, such as a liner, is required. 
+(iv) A secondary means of closure required for all liquids contained in inner packagings. If this requirement cannot be satisfied, the use of an intermediate and leakproof form of containment, such as a liner, is required.
 
-(v) Packages must be capable of passing a 1.2 m drop test on to a rigid, non-resilient, flat and horizontal surface, in the position most likely to cause damage. The criteria for passing the test is that the outer packaging must not exhibit any damage affecting safety in transport and there must be no leakage from the inner packagings. 
+(v) Packages must be capable of passing a 1.2 m drop test on to a rigid, non-resilient, flat and horizontal surface, in the position most likely to cause damage. The criteria for passing the test is that the outer packaging must not exhibit any damage affecting safety in transport and there must be no leakage from the inner packagings.
 
-(vi) Each package must be capable of withstanding, without breakage or leakage of any inner packaging, a force applied to the top surface for a duration of 24 hours equivalent to the total weight of identical packages if stacked to a height of 3 m (including the test sample). 
+(vi) Each package must be capable of withstanding, without breakage or leakage of any inner packaging, a force applied to the top surface for a duration of 24 hours equivalent to the total weight of identical packages if stacked to a height of 3 m (including the test sample).
 
-(vii) Except for UN3082, inner packagings of combination packagings containing liquids must be capable of passing the appropriate pressure differential test prescribed in paragraph (c) of this section. 
+(vii) Except for UN3082, inner packagings of combination packagings containing liquids must be capable of passing the appropriate pressure differential test prescribed in paragraph (c) of this section.
 
-(3) The tables are as follows: 
+(3) The tables are as follows:
 
 Table 1 to Paragraph (f)—Maximum Net Capacity of Inner Packaging for Transportation on Passenger-Carrying Aircraft
 | Maximum net quantity per package from Column 9a   of the § 172.101 table                | Maximum authorized net capacity of each inner packaging |
@@ -143,14 +143,14 @@ Table 3 to Paragraph (f)—Maximum Net Quantity of Each Inner and Outer Packagin
 | Class 9 (liquid material)                              | 30 mL (UN3316); 5.0L (UN1941, UN1990, UN3082, UN3334)                                      | 30 mL (UN3316); 5.0L (UN1941, UN1990, UN3082, UN3334)                                      | 1 kg (UN3316); 30 kg gross (all other authorized Class 9 material) |
 | Class 9 (solid material)                               | 100 g (UN3316); 5.0 kg (UN2071, UN3077, UN3335)                                            | 100 g (UN3316); 5.0 kg (UN2071, UN3077, UN3335)                                            | 1 kg (UN3316); 30 kg gross (all other authorized Class 9 material) |
 
-(g) *Cylinders.* For any cylinder containing hazardous materials and incorporating valves, sufficient protection must be provided to prevent operation of, and damage to, the valves during transportation, by one of the following methods: 
+(g) *Cylinders.* For any cylinder containing hazardous materials and incorporating valves, sufficient protection must be provided to prevent operation of, and damage to, the valves during transportation, by one of the following methods:
 
-(1) By equipping each cylinder with securely attached valve caps or protective headrings; or 
+(1) By equipping each cylinder with securely attached valve caps or protective headrings; or
 
-(2) By boxing or crating the cylinder. 
+(2) By boxing or crating the cylinder.
 
-(h) Tank cars and cargo tanks. Any tank car or cargo tank containing a hazardous material may not be transported aboard aircraft. 
+(h) Tank cars and cargo tanks. Any tank car or cargo tank containing a hazardous material may not be transported aboard aircraft.
 
-(i) Each person who offers a hazardous material for transportation by aircraft must include the certification statement specified in § 172.204(c)(3) of this subchapter. 
+(i) Each person who offers a hazardous material for transportation by aircraft must include the certification statement specified in § 172.204(c)(3) of this subchapter.
 
 \[Amdt. 173-224, 55 FR 52612, Dec. 21, 1990\] Editorial Note:For Federal Register citations affecting § 173.27, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

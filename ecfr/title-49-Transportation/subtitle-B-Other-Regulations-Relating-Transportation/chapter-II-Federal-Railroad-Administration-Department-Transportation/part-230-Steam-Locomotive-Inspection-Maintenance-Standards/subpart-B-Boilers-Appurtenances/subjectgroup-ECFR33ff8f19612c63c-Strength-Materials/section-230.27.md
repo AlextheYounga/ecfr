@@ -1,6 +1,6 @@
 ##### § 230.27 Maximum shearing strength of rivets.
 
-The maximum shearing strength of rivets per square inch of cross sectional area shall be taken as follows: 
+The maximum shearing strength of rivets per square inch of cross sectional area shall be taken as follows:
 
 | Rivets                       | Pounds per square inch |
 | ---------------------------- | ---------------------- |

@@ -1,6 +1,6 @@
 ##### § 173.436 Exempt material activity concentrations and exempt consignment activity limits for radionuclides.
 
-The Table of Exempt material activity concentrations and exempt consignment activity limits for radionuclides is as follows: 
+The Table of Exempt material activity concentrations and exempt consignment activity limits for radionuclides is as follows:
 
 | Symbol of   radionuclide                                                                                                                                                      | Element and atomic number | Activity concentration for exempt material   (Bq/g) | Activity concentration for exempt material   (Ci/g) | Activity limit for exempt consignment   (Bq) | Activity limit for exempt consignment   (Ci) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------- | --------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |

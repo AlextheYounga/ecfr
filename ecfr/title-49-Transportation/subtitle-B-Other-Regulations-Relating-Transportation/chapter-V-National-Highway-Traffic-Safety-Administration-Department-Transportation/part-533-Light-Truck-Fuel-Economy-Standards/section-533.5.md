@@ -1,6 +1,6 @@
 ##### § 533.5 Requirements.
 
-(a) Each manufacturer of light trucks shall comply with the following fleet average fuel economy standards, expressed in miles per gallon, in the model year (MY) specified as applicable: 
+(a) Each manufacturer of light trucks shall comply with the following fleet average fuel economy standards, expressed in miles per gallon, in the model year (MY) specified as applicable:
 
 Table 1 to § 533.5(a)
 | Model year | 2-wheel drive light trucks | 4-wheel drive light trucks | Limited product line light trucks |
@@ -87,36 +87,36 @@ Table 7 to Paragraph (a)-Parameters for the Light Truck Fuel Economy Targets for
 | 2030       | 55.94      |
 | 2031       | 57.08      |
 
-(b)(1) For model year 1979, each manufacturer may: 
+(b)(1) For model year 1979, each manufacturer may:
 
-(i) Combine its 2- and 4-wheel drive light trucks and comply with the average fuel economy standard in paragraph (a) of this section for 2-wheel drive light trucks; or 
+(i) Combine its 2- and 4-wheel drive light trucks and comply with the average fuel economy standard in paragraph (a) of this section for 2-wheel drive light trucks; or
 
-(ii) Comply separately with the two standards specified in paragraph (a) of this section. 
+(ii) Comply separately with the two standards specified in paragraph (a) of this section.
 
-(2) For model year 1979, the standard specified in paragraph (a) of this section for 4-wheel drive light trucks applies only to 4-wheel drive general utility vehicles. All other 4-wheel drive light trucks in that model year shall be included in the 2-wheel drive category for compliance purposes. 
+(2) For model year 1979, the standard specified in paragraph (a) of this section for 4-wheel drive light trucks applies only to 4-wheel drive general utility vehicles. All other 4-wheel drive light trucks in that model year shall be included in the 2-wheel drive category for compliance purposes.
 
-(c) For model years 1980 and 1981, manufacturers of limited product line light trucks may: 
+(c) For model years 1980 and 1981, manufacturers of limited product line light trucks may:
 
-(1) Comply with the separate standard for limited product line light trucks in Table 1 to paragraph (a) of this section; or 
+(1) Comply with the separate standard for limited product line light trucks in Table 1 to paragraph (a) of this section; or
 
-(2) Comply with the other standards specified in paragraph (a) of this section, as applicable. 
+(2) Comply with the other standards specified in paragraph (a) of this section, as applicable.
 
-(d) For model years 1982-91, each manufacturer may: 
+(d) For model years 1982-91, each manufacturer may:
 
-(1) Combine its 2- and 4-wheel drive light trucks (segregating captive import and other light trucks) and comply with the combined average fuel economy standard specified in paragraph (a) of this section; or 
+(1) Combine its 2- and 4-wheel drive light trucks (segregating captive import and other light trucks) and comply with the combined average fuel economy standard specified in paragraph (a) of this section; or
 
-(2) Comply separately with the 2-wheel drive standards and the 4-wheel drive standards (segregating captive import and other light trucks) specified in paragraph (a) of this section. 
+(2) Comply separately with the 2-wheel drive standards and the 4-wheel drive standards (segregating captive import and other light trucks) specified in paragraph (a) of this section.
 
-(e) For model year 1992, each manufacturer shall comply with the average fuel economy standard specified in paragraph (a) of this section (segregating captive import and other light trucks). 
+(e) For model year 1992, each manufacturer shall comply with the average fuel economy standard specified in paragraph (a) of this section (segregating captive import and other light trucks).
 
-(f) For each model year 1996 and thereafter, each manufacturer shall combine its captive imports with its other light trucks and comply with the fleet average fuel economy standard in paragraph (a) of this section. 
+(f) For each model year 1996 and thereafter, each manufacturer shall combine its captive imports with its other light trucks and comply with the fleet average fuel economy standard in paragraph (a) of this section.
 
-(g) For model years 2008-2010, at a manufacturer's option, a manufacturer's light truck fleet may comply with the fuel economy standard calculated for each model year according to Figure 1 to paragraph (a) of this section and the appropriate values in Table 5 to paragraph (a) of this section, with said option being irrevocably chosen for that model year and reported as specified in § 537.8 of this chapter. 
+(g) For model years 2008-2010, at a manufacturer's option, a manufacturer's light truck fleet may comply with the fuel economy standard calculated for each model year according to Figure 1 to paragraph (a) of this section and the appropriate values in Table 5 to paragraph (a) of this section, with said option being irrevocably chosen for that model year and reported as specified in § 537.8 of this chapter.
 
-(h) For model year 2011, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figure 1 to paragraph (a) of this section and the appropriate values in Table 5 to paragraph (a) of this section. 
+(h) For model year 2011, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figure 1 to paragraph (a) of this section and the appropriate values in Table 5 to paragraph (a) of this section.
 
-(i) For model years 2012-2016, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figures 2 and 3 to paragraph (a) of this section and the appropriate values in Table 6 to paragraph (a) of this section. 
+(i) For model years 2012-2016, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figures 2 and 3 to paragraph (a) of this section and the appropriate values in Table 6 to paragraph (a) of this section.
 
-(j) For model years 2017-2031, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to figures 2 and 4 to paragraph (a) of this section and the appropriate values in table 7 to paragraph (a) of this section. 
+(j) For model years 2017-2031, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to figures 2 and 4 to paragraph (a) of this section and the appropriate values in table 7 to paragraph (a) of this section.
 
 \[87 FR 26076, May 2, 2022, as amended at 89 FR 52949, June 24, 2024\]

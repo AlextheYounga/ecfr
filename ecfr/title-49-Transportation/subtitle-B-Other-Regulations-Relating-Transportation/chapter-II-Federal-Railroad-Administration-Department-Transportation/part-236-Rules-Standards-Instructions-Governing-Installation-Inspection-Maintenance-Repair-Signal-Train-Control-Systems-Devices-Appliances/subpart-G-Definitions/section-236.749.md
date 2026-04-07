@@ -1,6 +1,6 @@
 ##### § 236.749 Indication.
 
-The information conveyed by the aspect of a signal. 
+The information conveyed by the aspect of a signal.
 
 Cross Reference:
 

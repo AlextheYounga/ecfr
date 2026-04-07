@@ -1,24 +1,24 @@
 ##### § 176.708 Segregation distances.
 
-(a) Table IV lists minimum separation distances between radioactive materials and spaces regularly occupied by crew members or passengers, or between radioactive materials and undeveloped photographic film. It expresses the separation distances as a function of the sum of the TIs of all packages in a single consignment, in the case of 0 or 3 feet of intervening cargo of unit density for persons, and 0, 3, or 6 feet of intervening cargo of unit density for undeveloped film. Cargo of unit density is stowed cargo with a density of 1 long ton (2240 lbs.) per 36 cubic feet. Separation distances may be interpolated from the table where appropriate. 
+(a) Table IV lists minimum separation distances between radioactive materials and spaces regularly occupied by crew members or passengers, or between radioactive materials and undeveloped photographic film. It expresses the separation distances as a function of the sum of the TIs of all packages in a single consignment, in the case of 0 or 3 feet of intervening cargo of unit density for persons, and 0, 3, or 6 feet of intervening cargo of unit density for undeveloped film. Cargo of unit density is stowed cargo with a density of 1 long ton (2240 lbs.) per 36 cubic feet. Separation distances may be interpolated from the table where appropriate.
 
-(b) Table IV is to be used to determine the separation distance for undeveloped film. 
+(b) Table IV is to be used to determine the separation distance for undeveloped film.
 
-(c) Category YELLOW-II or YELLOW-III packages or overpacks must not be transported in spaces occupied by passengers, except those exclusively reserved for couriers specially authorized to accompany such packages or overpacks. 
+(c) Category YELLOW-II or YELLOW-III packages or overpacks must not be transported in spaces occupied by passengers, except those exclusively reserved for couriers specially authorized to accompany such packages or overpacks.
 
-(d) The separation distances for crew members and passengers may be determined by one of two methods: 
+(d) The separation distances for crew members and passengers may be determined by one of two methods:
 
-(1) By using Table IV to determine the minimum distances between the radioactive material packages and regularly occupied spaces or living quarters; or 
+(1) By using Table IV to determine the minimum distances between the radioactive material packages and regularly occupied spaces or living quarters; or
 
-(2) For one or more consignments of Class 7 (radioactive) material to be loaded on board a vessel under the exclusive use conditions described in § 176.704(f), by demonstration through direct measurement, made and documented by a suitably qualified person, that for the indicated exposure times the dose rate in regularly occupied spaces or living quarters is less than— 
+(2) For one or more consignments of Class 7 (radioactive) material to be loaded on board a vessel under the exclusive use conditions described in § 176.704(f), by demonstration through direct measurement, made and documented by a suitably qualified person, that for the indicated exposure times the dose rate in regularly occupied spaces or living quarters is less than—
 
-(i) For the crew: 7.0 µSv/h (0.70 mrem/h) up to 700 hours in a year, or 1.8 µSv/h (0.18 mrem/h) up to 2750 hours in a year; and 
+(i) For the crew: 7.0 µSv/h (0.70 mrem/h) up to 700 hours in a year, or 1.8 µSv/h (0.18 mrem/h) up to 2750 hours in a year; and
 
-(ii) For the passengers: 1.8 µSv/h (0.18 mrem/h) up to 550 hours in a year, taking into account any relocation of cargo during the voyage. 
+(ii) For the passengers: 1.8 µSv/h (0.18 mrem/h) up to 550 hours in a year, taking into account any relocation of cargo during the voyage.
 
-(e) Any departure from the segregation provisions should be approved by the competent authority of the flag state of the ship and, when requested, by the competent authority at each port of call. 
+(e) Any departure from the segregation provisions should be approved by the competent authority of the flag state of the ship and, when requested, by the competent authority at each port of call.
 
-(f) Table IV is as follows: 
+(f) Table IV is as follows:
 
 Table IV
 | Sum of transport indexes of the packages                                                                                                                                                         | Minimum distance in feet from living accommodation or regularly occupied working space | Minimum distance in feet from undeveloped film and plates |

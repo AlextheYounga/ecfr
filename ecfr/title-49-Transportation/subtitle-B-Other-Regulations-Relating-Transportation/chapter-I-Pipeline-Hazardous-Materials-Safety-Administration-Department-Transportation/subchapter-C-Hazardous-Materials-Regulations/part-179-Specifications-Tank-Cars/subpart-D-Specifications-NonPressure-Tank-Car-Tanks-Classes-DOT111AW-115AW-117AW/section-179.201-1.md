@@ -1,6 +1,6 @@
 ##### § 179.201-1 Individual specification requirements.
 
-In addition to § 179.200, the individual specification requirements are as follows: 
+In addition to § 179.200, the individual specification requirements are as follows:
 
 | DOT Specification 1                                                                                                                                                                                                                                                | Insulation           | Bursting pressure (psig) | Minimum plate   thickness (inches) | Test   pressure (psig) | Bottom   outlet | Bottom   washout | References (179.201 - \*\*\*) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | ------------------------ | ---------------------------------- | ---------------------- | --------------- | ---------------- | ----------------------------- |

@@ -1,10 +1,10 @@
 ##### § 387.33T Financial responsibility, minimum levels.
 
-Except as provided in § 387.27(b), the minimum levels of financial responsibility referred to in § 387.31 are hereby prescribed as follows: 
+Except as provided in § 387.27(b), the minimum levels of financial responsibility referred to in § 387.31 are hereby prescribed as follows:
 
 SCHEDULE OF LIMITS Public Liability
 
-For-hire motor carriers of passengers operating in interstate or foreign commerce. 
+For-hire motor carriers of passengers operating in interstate or foreign commerce.
 
 | Vehicle seating capacity                                                               | Minimum limits |
 | -------------------------------------------------------------------------------------- | -------------- |

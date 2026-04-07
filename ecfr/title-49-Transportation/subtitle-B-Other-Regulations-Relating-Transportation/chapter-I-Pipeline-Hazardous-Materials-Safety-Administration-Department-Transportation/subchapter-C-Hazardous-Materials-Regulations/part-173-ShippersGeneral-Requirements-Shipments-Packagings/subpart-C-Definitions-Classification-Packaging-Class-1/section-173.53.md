@@ -1,6 +1,6 @@
 ##### § 173.53 Provisions for using old classifications of explosives.
 
-Where the classification system in effect prior to January 1, 1991, is referenced in State or local laws, ordinances or regulations not pertaining to the transportation of hazardous materials, the following table may be used to compare old and new hazard class names: 
+Where the classification system in effect prior to January 1, 1991, is referenced in State or local laws, ordinances or regulations not pertaining to the transportation of hazardous materials, the following table may be used to compare old and new hazard class names:
 
 | Current classification | Class name prior to Jan. 1, 1991 |
 | ---------------------- | -------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 538.8 Gallon Equivalents for Gaseous Fuels.
 
-The gallon equivalent of gaseous fuels, for purposes of calculations made under 49 U.S.C. 32905, are listed in Table I: 
+The gallon equivalent of gaseous fuels, for purposes of calculations made under 49 U.S.C. 32905, are listed in Table I:
 
 Table I—Gallon Equivalent Measurements for Gaseous Fuels per 100 Standard Cubic Feet
 | Fuel                                   | Gallon equivalent measurement |

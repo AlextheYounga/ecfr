@@ -1,6 +1,6 @@
 ##### § 299.311 Track geometry; general.
 
-If the values listed in the following table are exceeded, the railroad shall initiate remedial action. A reduction in operating speed so that the condition complies with the limits listed for a lower speed shall constitute bringing the track into compliance. 
+If the values listed in the following table are exceeded, the railroad shall initiate remedial action. A reduction in operating speed so that the condition complies with the limits listed for a lower speed shall constitute bringing the track into compliance.
 
 Table 1 to § 299.311
 | Track geometry parameter (millimeter (mm))                                                                                                                                                                                                                      | Track class | H0   | H1   | H2   | H3   | H4   | H5   | H6   | H7   |

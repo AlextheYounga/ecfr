@@ -1,18 +1,18 @@
 ##### § 393.47 Brake actuators, slack adjusters, linings/pads and drums/rotors.
 
-(a) *General requirements.* Brake components must be constructed, installed and maintained to prevent excessive fading and grabbing. The means of attachment and physical characteristics must provide for safe and reliable stopping of the commercial motor vehicle. 
+(a) *General requirements.* Brake components must be constructed, installed and maintained to prevent excessive fading and grabbing. The means of attachment and physical characteristics must provide for safe and reliable stopping of the commercial motor vehicle.
 
-(b) *Brake chambers.* The service brake chambers and spring brake chambers on each end of an axle must be the same size. 
+(b) *Brake chambers.* The service brake chambers and spring brake chambers on each end of an axle must be the same size.
 
-(c) *Slack adjusters.* The effective length of the slack adjuster on each end of an axle must be the same. 
+(c) *Slack adjusters.* The effective length of the slack adjuster on each end of an axle must be the same.
 
-(d) *Linings and pads.* The thickness of the brake linings or pads shall meet the applicable requirements of this paragraph— 
+(d) *Linings and pads.* The thickness of the brake linings or pads shall meet the applicable requirements of this paragraph—
 
-(1) *Steering axle brakes.* The brake lining/pad thickness on the steering axle of a truck, truck-tractor or bus shall not be less than 4.8 mm ( 3/16 inch) at the shoe center for a shoe with a continuous strip of lining; less than 6.4 mm ( 1/4 inch) at the shoe center for a shoe with two pads; or worn to the wear indicator if the lining is so marked, for air drum brakes. The steering axle brake lining/pad thickness shall not be less than 3.2 mm ( 1/8 inch) for air disc brakes, or 1.6 mm ( 1/16 inch) or less for hydraulic disc, drum and electric brakes. 
+(1) *Steering axle brakes.* The brake lining/pad thickness on the steering axle of a truck, truck-tractor or bus shall not be less than 4.8 mm ( 3/16 inch) at the shoe center for a shoe with a continuous strip of lining; less than 6.4 mm ( 1/4 inch) at the shoe center for a shoe with two pads; or worn to the wear indicator if the lining is so marked, for air drum brakes. The steering axle brake lining/pad thickness shall not be less than 3.2 mm ( 1/8 inch) for air disc brakes, or 1.6 mm ( 1/16 inch) or less for hydraulic disc, drum and electric brakes.
 
-(2) *Non-steering axle brakes.* An air braked commercial motor vehicle shall not be operated with brake lining/pad thickness less than 6.4 mm ( 1/4 inch) or to the wear indicator if the lining is so marked (measured at the shoe center for drum brakes); or less than 3.2 mm ( 1/8 inch) for disc brakes. Hydraulic or electric braked commercial motor vehicles shall not be operated with a lining/pad thickness less than 1.6 mm ( 1/16 inch) (measured at the shoe center) for disc or drum brakes. 
+(2) *Non-steering axle brakes.* An air braked commercial motor vehicle shall not be operated with brake lining/pad thickness less than 6.4 mm ( 1/4 inch) or to the wear indicator if the lining is so marked (measured at the shoe center for drum brakes); or less than 3.2 mm ( 1/8 inch) for disc brakes. Hydraulic or electric braked commercial motor vehicles shall not be operated with a lining/pad thickness less than 1.6 mm ( 1/16 inch) (measured at the shoe center) for disc or drum brakes.
 
-(e) *Clamp, Bendix DD-3, bolt-type, and rotochamber brake actuator readjustment limits.* (1) The pushrod stroke must not be greater than the values specified in the following tables: 
+(e) *Clamp, Bendix DD-3, bolt-type, and rotochamber brake actuator readjustment limits.* (1) The pushrod stroke must not be greater than the values specified in the following tables:
 
 Clamp-Type Brake Chambers
 | Type                                                       | Outside diameter     | Brake readjustment limit: standard stroke chamber | Brake readjustment limit: long stroke chamber |
@@ -56,10 +56,10 @@ Rotochamber-Type Brake Chambers
 | 36   | 7 5/8 in. (194 mm)   | 2 3/4 in. (69.9 mm).     |
 | 50   | 8 7/8 in. (226 mm)   | 3 in. (76.2 mm).         |
 
-(2) For actuator types not listed in these tables, the pushrod stroke must not be greater than 80 percent of the rated stroke marked on the actuator by the actuator manufacturer, or greater than the readjustment limit marked on the actuator by the actuator manufacturer. 
+(2) For actuator types not listed in these tables, the pushrod stroke must not be greater than 80 percent of the rated stroke marked on the actuator by the actuator manufacturer, or greater than the readjustment limit marked on the actuator by the actuator manufacturer.
 
-(f) *Wedge brake adjustment.* The movement of the scribe mark on the lining shall not exceed 1.6 mm ( 1/16 inch). 
+(f) *Wedge brake adjustment.* The movement of the scribe mark on the lining shall not exceed 1.6 mm ( 1/16 inch).
 
-(g) *Drums and rotors.* The thickness of the drums or rotors shall not be less than the limits established by the brake drum or rotor manufacturer. 
+(g) *Drums and rotors.* The thickness of the drums or rotors shall not be less than the limits established by the brake drum or rotor manufacturer.
 
 \[70 FR 48051, Aug. 15, 2005, as amended at 77 FR 46638, Aug. 6, 2012; 86 FR 57076, Oct. 14, 2021\]

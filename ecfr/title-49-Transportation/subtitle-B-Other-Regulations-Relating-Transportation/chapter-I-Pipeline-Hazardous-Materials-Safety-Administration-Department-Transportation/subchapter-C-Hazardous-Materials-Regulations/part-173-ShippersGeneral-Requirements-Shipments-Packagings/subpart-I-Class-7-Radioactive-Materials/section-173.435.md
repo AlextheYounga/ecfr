@@ -1,6 +1,6 @@
 ##### § 173.435 Table of A1 and A2 values for radionuclides.
 
-The table of A1 and A2 values for radionuclides is as follows: 
+The table of A1 and A2 values for radionuclides is as follows:
 
 | Symbol of   radionuclide                                                                                                                                                                                                                                                                        | Element and   atomic number | A1 (TBq)   | A1 (Ci) b  | A2 (TBq)   | A2 (Ci) b  | Specific activity |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------- | ---------- | ---------- | ---------- | ----------------- |
