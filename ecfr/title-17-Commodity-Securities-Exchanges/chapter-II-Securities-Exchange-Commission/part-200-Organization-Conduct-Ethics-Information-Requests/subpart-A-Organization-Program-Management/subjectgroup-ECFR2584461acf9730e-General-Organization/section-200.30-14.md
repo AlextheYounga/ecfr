@@ -6,7 +6,7 @@ Pursuant to the provisions of Pub. L. 101-181, 101 Stat. 1254, 101 Stat. 1255, 1
 
 (b) Determine whether the Commission will submit, after consultation with any Division or Office of the Commission designated by the Commission, and amicus curiae brief in private litigation on issues previously considered and designated by the Commission as appropriate for the exercise of delegated authority. A list of the issues designated by the Commission as subject to this delegated authority and, where determined by the Commission, the position to be taken on each such issue, may be obtained on request addressed to Securities and Exchange Commission, Washington, DC 20549.
 
-(c) Determine the appropriate disposition of all Freedom of Information Act and confidential treatment appeals in accordance with §§ 200.80(d)(6), 200.80(e)(4), 200.83(e), 200.83(f), and 200.83(h).
+(c) Determine the appropriate disposition of all Freedom of Information Act and confidential treatment appeals in accordance with §§ 200.80(f) and (g)(12) and 200.83(e), (f), and (h).
 
 (d) Determine the appropriate disposition of all Privacy Act appeals and related matters in accordance with §§ 200.304 (a) and (c); 200.307 (a) and (b); 200.308(a) (4)-(10); 200.308(b) (1)-(4); and 200.309(e) (1) and (2).
 
