@@ -1,6 +1,6 @@
-##### 1812.301 Solicitation provisions and contract clauses for the acquisition of commercial items.
+##### 1812.301 Solicitation provisions and contract clauses for the acquisition of Commercial Products and Commercial Services.
 
-(f)(i) The following clauses are authorized for use in acquisitions of commercial items when required by the clause prescription:
+(f)(i) The following clauses are authorized for use in acquisitions of Commercial Products and Commercial Services when required by the clause prescription:
 
 (A) 1852.204-75, Security Classification Requirements.
 
@@ -44,4 +44,4 @@
 
 (U) 1852.247.71, Protection of the Florida Manatee.
 
-\[80 FR 36720, June 26, 2015, as amended at 81 FR 10520, Mar. 1, 2016; 85 FR 52927, Aug. 28, 2020\]
+\[80 FR 36720, June 26, 2015, as amended at 81 FR 10520, Mar. 1, 2016; 85 FR 52927, Aug. 28, 2020; 88 FR 64385, Sept. 19, 2023\]
