@@ -32,7 +32,9 @@ For purposes of this section, an appeal is a participant's action taken with res
 
 (iii) The rules in § 460.90(a) that specify that certain limitations and conditions applicable to Medicare or Medicaid or both benefits do not apply.
 
-(6) Maintenance of confidentiality of appeals.
+(6) Responses to, and resolution of, appeals as expeditiously as the participant's health condition requires, but no later than 30 calendar days after the organization receives an appeal.
+
+(7) Maintenance of confidentiality of appeals.
 
 (d) *Opportunity to submit evidence.* A PACE organization must give all parties involved in the appeal a reasonable opportunity to present evidence related to the dispute, in person, as well as in writing.
 
@@ -60,7 +62,7 @@ For purposes of this section, an appeal is a participant's action taken with res
 
 (1) *Notice of a favorable decision.* Notice of any favorable decision must explain the conditions of the approval in understandable language.
 
-(2) *Notice of partially or fully adverse decisions.* (i) Notice of any denial must -
+(2) *Notice of partially or fully adverse decisions.* (i) Notice of any denial must—
 
 (A) State the specific reason(s) for the denial;
 
