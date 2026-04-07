@@ -1,6 +1,6 @@
 ##### § 165.945 Regulated navigation area; St. Louis River Area of Concern, Duluth, Minnesota.
 
-(a) *Location.* The following areas are a regulated navigation area:
+(a) *Location.* The following areas are a regulated navigation area: 
 
 Table 1 to § 165.945
 | Number | Site name                                                      | Regulated area   (Note: all geographic coordinates expressed in term of latitude and   longitude datum are based on WGS 84 coordinates) |
@@ -98,20 +98,20 @@ Table 1 to § 165.945
 |        |                                                                | • 46°40′26.2216″ N 092°11′48.4650″ W                                                                                                    |
 |        |                                                                | • 46°40′25.0613″ N 092°11′51.2108″ W                                                                                                    |
 
-(b) *Regulations.* In addition to the general Regulated Navigation Area regulations in Subpart B of this Section, all vessels and persons are prohibited from activities that would disturb the integrity of engineered remedies designed to address contaminated sediments at the sites identified above, and further described in the St. Louis River Area of Concern Remedial Action Plan. Such activities may include, but are not limited to anchoring, dragging, spudding, or dredging. The prohibitions in this section shall not supersede restrictions outlined in executed Records of Decision for Superfund sites.
+(b) *Regulations.* In addition to the general Regulated Navigation Area regulations in Subpart B of this Section, all vessels and persons are prohibited from activities that would disturb the integrity of engineered remedies designed to address contaminated sediments at the sites identified above, and further described in the St. Louis River Area of Concern Remedial Action Plan. Such activities may include, but are not limited to anchoring, dragging, spudding, or dredging. The prohibitions in this section shall not supersede restrictions outlined in executed Records of Decision for Superfund sites. 
 
 (c) *Exemptions.*
 
-(1) Public vessels operating in an official capacity. Public vessels are defined as any vessel owned or operated by the United States or by the State or local government.
+(1) Public vessels operating in an official capacity. Public vessels are defined as any vessel owned or operated by the United States or by the State or local government. 
 
-(2) Any vessel in an emergency situation may deviate from this regulation to the extent necessary to avoid endangering the safety of persons, the environment, and/or property. If deviation occurs, the master or designee shall inform the Coast Guard as soon as it is safe and practicable to do so.
+(2) Any vessel in an emergency situation may deviate from this regulation to the extent necessary to avoid endangering the safety of persons, the environment, and/or property. If deviation occurs, the master or designee shall inform the Coast Guard as soon as it is safe and practicable to do so. 
 
-(d) *Waivers.* The Captain of the Port Duluth may, in consultation with local, state, and Federal agencies or regulated private entities, authorize a waiver from this section if it is determined that activity can be performed without undue risk to environmental remediation construction, monitoring, and maintenance. Requests for waivers should be submitted in writing and at least 120 days prior to the proposed operations to Commander, U.S. Coast Guard Marine Safety Unit, Duluth, 515 West First Street, Room 145, Duluth, MN 55802 to facilitate review by the U.S. Coast Guard.
+(d) *Waivers.* The Captain of the Port Duluth may, in consultation with local, state, and Federal agencies or regulated private entities, authorize a waiver from this section if it is determined that activity can be performed without undue risk to environmental remediation construction, monitoring, and maintenance. Requests for waivers should be submitted in writing and at least 120 days prior to the proposed operations to Commander, U.S. Coast Guard Marine Safety Unit, Duluth, 515 West First Street, Room 145, Duluth, MN 55802 to facilitate review by the U.S. Coast Guard. 
 
-(e) *Penalties.* Vessel or persons that violate this section are subject to the penalties set forth in 46 U.S.C. 70036.
+(e) *Penalties.* Vessel or persons that violate this section are subject to the penalties set forth in 46 U.S.C. 70036. 
 
-(f) *Enforcement period.* This Regulated Navigation Area is in effect permanently and can be enforced at any time.
+(f) *Enforcement period.* This Regulated Navigation Area is in effect permanently and can be enforced at any time. 
 
-(g) *Contact information.* If you observe violations of the regulations in this section, you may notify the COTP by email, at *MSUDuluthWWM@uscg.mil,* or by phone, 218-725-3818.
+(g) *Contact information.* If you observe violations of the regulations in this section, you may notify the COTP by email, at *MSUDuluthWWM@uscg.mil,* or by phone, 218-725-3818. 
 
 \[USCG-2023-0368, 89 FR 16458, Mar. 7, 2024\]
