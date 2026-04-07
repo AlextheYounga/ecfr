@@ -2,7 +2,7 @@
 
 *Basic.* As prescribed in 225.1101(6) and (6)(i), use the following clause:
 
-Trade Agreements - Basic (DEC 2016)
+Trade Agreements - Basic (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -68,6 +68,7 @@ Trade Agreements - Basic (DEC 2016)
 *   Austria
 *   Belgium
 *   Canada
+*   Czech Republic
 *   Denmark
 *   Egypt
 *   Estonia
@@ -78,6 +79,7 @@ Trade Agreements - Basic (DEC 2016)
 *   Israel
 *   Italy
 *   Japan
+*   Latvia
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -148,7 +150,7 @@ Trade Agreements - Basic (DEC 2016)
 
 *Alternate II.* As prescribed in 225.1101(6) and (6)(ii), use the following clause, which (i) adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a); (ii) uses a different paragraph (c) than the basic clause; (iii) adds a new paragraph (d); and (iv) includes paragraphs (e) and (f) which are the same paragraphs (d) and (e) of the basic clause:
 
-Trade Agreements - Alternate II (DEC 2016)
+Trade Agreements - Alternate II (DEC 2017)
 
 (a) *Definitions. As used in this clause - Caribbean Basin country end product* -
 
@@ -225,6 +227,7 @@ Trade Agreements - Alternate II (DEC 2016)
 *   Israel
 *   Italy
 *   Japan
+*   Latvia
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -299,4 +302,4 @@ Trade Agreements - Alternate II (DEC 2016)
 
 (4) Section XXII, Chapter 98, Subchapter XX, Goods Eligible for Special Tariff Benefits Under the United States - Caribbean Basin Trade Partnership Act.
 
-(End of clause) \[68 FR 15637, Mar. 31, 2003\] Editorial Note:For Federal Register citations affecting section 252.225-7021, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(End of clause) \[68 FR 15637, Mar. 31, 2003\] Editorial Note:For Federal Register citations affecting section 252.225-7021, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

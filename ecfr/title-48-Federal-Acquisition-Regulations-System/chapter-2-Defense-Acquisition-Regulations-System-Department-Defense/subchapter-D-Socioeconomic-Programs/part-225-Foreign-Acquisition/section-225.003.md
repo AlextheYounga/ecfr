@@ -51,6 +51,7 @@ As used in this part -
 *   Israel
 *   Italy
 *   Japan
+*   Latvia
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -83,4 +84,4 @@ As used in this part -
 
 (ii) In the case of an article that consists in whole or in part of materials from another country, has been substantially transformed in an SC/CASA state into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was transformed. The term refers to a product offered for purchase under a supply contract, but for purposes of calculating the value of the end product, includes services (except transportation services) incidental to its supply, provided that the value of those incidental services does not exceed the value of the product itself.
 
-\[68 FR 15618, Mar. 31, 2003, as amended at 69 FR 1927, Jan. 13, 2004; 70 FR 73153, Dec. 9, 2005; 73 FR 76971, Dec. 18, 2008; 74 FR 37651, July 29, 2009; 75 FR 34945, June 21, 2010; 75 FR 81916, Dec. 29, 2010; 77 FR 35880, June 15, 2012; 77 FR 38737, June 29, 2012; 77 FR 76942, Dec. 31, 2012; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016\]
+\[68 FR 15618, Mar. 31, 2003, as amended at 69 FR 1927, Jan. 13, 2004; 70 FR 73153, Dec. 9, 2005; 73 FR 76971, Dec. 18, 2008; 74 FR 37651, July 29, 2009; 75 FR 34945, June 21, 2010; 75 FR 81916, Dec. 29, 2010; 77 FR 35880, June 15, 2012; 77 FR 38737, June 29, 2012; 77 FR 76942, Dec. 31, 2012; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017\]

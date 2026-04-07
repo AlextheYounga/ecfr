@@ -2,7 +2,7 @@
 
 *Basic.* As prescribed in 225.1101(2)(i) and (2)(ii), use the following clause:
 
-Buy American and Balance of Payments Program - Basic (DEC 2016)
+Buy American and Balance of Payments Program - Basic (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -55,6 +55,7 @@ Buy American and Balance of Payments Program - Basic (DEC 2016)
 *   Israel
 *   Italy
 *   Japan
+*   Latvia
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -97,7 +98,7 @@ Buy American and Balance of Payments Program - Basic (DEC 2016)
 
 *Alternate I.* As prescribed in 225.1101(2)(i) and (2)(iii), use the following clause, which adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a), and uses different paragraphs (b) and (c) than the basic clause:
 
-Buy American and Balance of Payments Program - Alternate I (DEC 2016)
+Buy American and Balance of Payments Program - Alternate I (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -150,6 +151,7 @@ Buy American and Balance of Payments Program - Alternate I (DEC 2016)
 *   Israel
 *   Italy
 *   Japan
+*   Latvia
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -196,4 +198,4 @@ Buy American and Balance of Payments Program - Alternate I (DEC 2016)
 
 (d) The contract price does not include duty for end products or components for which the Contractor will claim duty-free entry.
 
-(End of clause) \[68 FR 15634, Mar. 31, 2003, as amended at 70 FR 35546, June 21, 2005; 74 FR 2423, Jan. 15, 2009; 75 FR 81918, Dec. 29, 2010; 76 FR 58138, Sept. 20, 2011; 77 FR 35882, June 15, 2012; 77 FR 76942, Dec. 31, 2012; 79 FR 3520, Jan. 22, 2014; 79 FR 65819, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016\]
+(End of clause) \[68 FR 15634, Mar. 31, 2003, as amended at 70 FR 35546, June 21, 2005; 74 FR 2423, Jan. 15, 2009; 75 FR 81918, Dec. 29, 2010; 76 FR 58138, Sept. 20, 2011; 77 FR 35882, June 15, 2012; 77 FR 76942, Dec. 31, 2012; 79 FR 3520, Jan. 22, 2014; 79 FR 65819, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017\]

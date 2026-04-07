@@ -2,7 +2,7 @@
 
 *Basic.* As prescribed in 225.1101(10)(i) and (10)(i)(A), use the following clause:
 
-Buy American - Free Trade Agreements - Balance of Payments Program - Basic (DEC 2016)
+Buy American - Free Trade Agreements - Balance of Payments Program - Basic (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -87,6 +87,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Basic (DEC 
 *   Israel
 *   Italy
 *   Japan
+*   Latvia
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -129,7 +130,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Basic (DEC 
 
 *Alternate I.* As prescribed in 225.1101(10)(i) and (10)(i)(B), use the following clause, which adds *Canadian end product* to paragraph (a), and uses a different paragraph (c) than the basic clause:
 
-Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I (DEC 2016)
+Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -220,6 +221,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I
 *   Israel
 *   Italy
 *   Japan
+*   Latvia
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -262,7 +264,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I
 
 *Alternate II.* As prescribed in 225.1101(10)(i) and (10)(i)(C), use the following clause, which adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a), and uses a different paragraph (c) than the basic clause:
 
-Buy American - Free Trade Agreements - Balance of Payments Program - Alternate II (DEC 2016)
+Buy American - Free Trade Agreements - Balance of Payments Program - Alternate II (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -347,6 +349,7 @@ Commercially available off-the-shelf *(COTS) item* -
 *   Israel
 *   Italy
 *   Japan
+*   Latvia
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -397,7 +400,7 @@ Commercially available off-the-shelf *(COTS) item* -
 
 *Alternate III.* As prescribed in 225.1101(10)(i) and (10)(i)(D), use the following clause, which adds *Canadian end product, South Caucasus/Central and South Asian (SC/CASA) state,* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a) and uses a different paragraph (c) than the basic clause:
 
-Buy American - Free Trade Agreements - Balance of Payments Program - Alternate III (DEC 2016)
+Buy American - Free Trade Agreements - Balance of Payments Program - Alternate III (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -488,6 +491,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I
 *   Israel
 *   Italy
 *   Japan
+*   Latvia
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -538,7 +542,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I
 
 *Alternate IV.* As prescribed in 225.1101(10)(i) and (10)(i)(E), use the following clause, which adds *Korean end product* to paragraph (a), and uses a different paragraph (c) than the basic clause:
 
-Buy American - Free Trade Agreements - Balance of Payments Program - Alternate IV (DEC 2016)
+Buy American - Free Trade Agreements - Balance of Payments Program - Alternate IV (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -629,6 +633,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I
 *   Israel
 *   Italy
 *   Japan
+*   Latvia
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -671,7 +676,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I
 
 *Alternate V.* As prescribed in 225.1101(10)(i) and (10)(i)(F), use the following clause, which adds *Korean end product, South Caucasus/Central and South Asian (SC/CASA) state,* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a), and uses a different paragraph (c) than the basic clause:
 
-Buy American - Free Trade Agreements - Balance of Payments Program - Alternate V (DEC 2016)
+Buy American - Free Trade Agreements - Balance of Payments Program - Alternate V (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -762,6 +767,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate V
 *   Israel
 *   Italy
 *   Japan
+*   Latvia
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -808,4 +814,4 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate V
 
 (d) The contract price does not include duty for end products or components for which the Contractor will claim duty-free entry.
 
-(End of clause) \[68 FR 15640, Mar. 31, 2003, as amended at 69 FR 1929, Jan. 13, 2004; 69 FR 74992, Dec. 15, 2004; 70 FR 2365, Jan. 13, 2005; 70 FR 35548, June 21, 2005; 71 FR 34835, June 16, 2006; 71 FR 58543, Oct. 4, 2006; 72 FR 14243, Mar. 27, 2007; 73 FR 53156, Sept. 15, 2008; 74 FR 2423, Jan. 15, 2009; 74 FR 37642, 37651, July 29, 2009; 75 FR 81920, Dec. 29, 2010; 76 FR 61283, Oct. 4, 2011; 77 FR 30359, May 22, 2012; 77 FR 31537, May 29, 2012; 77 FR 35882, June 15, 2012; 77 FR 38737, June 29, 2012; 77 FR 43470, July 24, 2012; 77 FR 68702, Nov. 16, 2012; 77 FR 76942, Dec. 31, 2012; 78 FR 59859, Sept. 30, 2013; 79 FR 65824, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 81 FR 50651, Aug. 2, 2016; 81 FR 93841, Dec. 22, 2016\]
+(End of clause) \[68 FR 15640, Mar. 31, 2003, as amended at 69 FR 1929, Jan. 13, 2004; 69 FR 74992, Dec. 15, 2004; 70 FR 2365, Jan. 13, 2005; 70 FR 35548, June 21, 2005; 71 FR 34835, June 16, 2006; 71 FR 58543, Oct. 4, 2006; 72 FR 14243, Mar. 27, 2007; 73 FR 53156, Sept. 15, 2008; 74 FR 2423, Jan. 15, 2009; 74 FR 37642, 37651, July 29, 2009; 75 FR 81920, Dec. 29, 2010; 76 FR 61283, Oct. 4, 2011; 77 FR 30359, May 22, 2012; 77 FR 31537, May 29, 2012; 77 FR 35882, June 15, 2012; 77 FR 38737, June 29, 2012; 77 FR 43470, July 24, 2012; 77 FR 68702, Nov. 16, 2012; 77 FR 76942, Dec. 31, 2012; 78 FR 59859, Sept. 30, 2013; 79 FR 65824, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 81 FR 50651, Aug. 2, 2016; 81 FR 93841, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017\]
