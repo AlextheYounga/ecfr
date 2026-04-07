@@ -1,8 +1,8 @@
 ##### § 75.109 Changes to application; number of copies.
 
-(a) Each applicant that submits a paper application shall submit an original and two copies to the Department, including any information that the applicant supplies voluntarily.
+(a) Each applicant that submits a paper application shall submit an original and two copies to the Department, including any information that the applicant supplies voluntarily. 
 
-(b) An applicant may make changes to its application on or before the deadline date for submitting applications under the program.
+(b) An applicant may make changes to its application on or before the deadline date for submitting applications under the program. 
 
 (Authority: 20 U.S.C. 1221e-3 and 3474) Cross Reference:
 

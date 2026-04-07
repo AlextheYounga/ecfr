@@ -1,12 +1,12 @@
 ##### § 76.783 State educational agency action—subgrantee's opportunity for a hearing.
 
-(a) A subgrantee may request a hearing if it alleges that any of the following actions by the State educational agency violated a State or Federal statute or regulation:
+(a) A subgrantee may request a hearing if it alleges that any of the following actions by the State educational agency violated a State or Federal statute or regulation: 
 
-(1) Ordering, in accordance with a final State audit resolution determination, the repayment of misspent or misapplied Federal funds; or
+(1) Ordering, in accordance with a final State audit resolution determination, the repayment of misspent or misapplied Federal funds; or 
 
-(2) Terminating further assistance for an approved project.
+(2) Terminating further assistance for an approved project. 
 
-(b) The procedures in § 76.401(d)(2)-(7) apply to any request for a hearing under this section.
+(b) The procedures in § 76.401(d)(2)-(7) apply to any request for a hearing under this section. 
 
 Note:
 

@@ -1,6 +1,6 @@
 ##### § 76.707 When obligations are made.
 
-The following table shows when a State or a subgrantee makes obligations for various kinds of property and services.
+The following table shows when a State or a subgrantee makes obligations for various kinds of property and services. 
 
 | If the obligation is for—                                                                                                                   | The obligation is made—                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |

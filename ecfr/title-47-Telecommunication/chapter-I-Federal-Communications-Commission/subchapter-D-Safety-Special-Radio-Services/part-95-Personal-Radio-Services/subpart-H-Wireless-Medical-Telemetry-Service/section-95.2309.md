@@ -38,9 +38,9 @@ Operation of WMTS devices is subject to the frequency coordination procedures in
 
 (5) The legal name of the authorized health care provider;
 
-(6) The location of the WMTS device (*e.g.,* coordinates, street address, building, as appropriate); and,
+(6) The location of the WMTS device (e.g., coordinates, street address, building, as appropriate); and,
 
-(7) Contact information for the authorized health care provider (*e.g.,* name, title, office address, telephone number, fax number, email address).
+(7) Contact information for the authorized health care provider (e.g., name, title, office address, telephone number, fax number, email address).
 
 (f) *Specific requirements for WMTS devices in the 608-614 MHz frequency band.* For a wireless medical telemetry device operating within the frequency range 608-614 MHz that will be located near the radio astronomy observatories listed below, operation is not permitted until a WMTS frequency coordinator referenced in § 95.2309 has coordinated with, and obtained the written concurrence of, the director of the affected radio astronomy observatory before the equipment can be installed or operated—
 

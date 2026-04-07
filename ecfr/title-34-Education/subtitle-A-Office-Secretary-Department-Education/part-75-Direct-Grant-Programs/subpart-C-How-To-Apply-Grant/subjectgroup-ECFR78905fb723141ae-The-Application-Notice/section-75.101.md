@@ -1,26 +1,26 @@
 ##### § 75.101 Information in the application notice that helps an applicant apply.
 
-(a) The Secretary may include such information as the following in an application notice:
+(a) The Secretary may include such information as the following in an application notice: 
 
-(1) How an applicant can get an application package that contains:
+(1) How an applicant can get an application package that contains: 
 
-(i) Information about the program; and
+(i) Information about the program; and 
 
-(ii) The application form that the applicant must use.
+(ii) The application form that the applicant must use. 
 
-(2) The amount of funds available for grants, the estimated number of those grants, the estimated amounts of those grants and, if appropriate, the maximum award amounts of those grants.
+(2) The amount of funds available for grants, the estimated number of those grants, the estimated amounts of those grants and, if appropriate, the maximum award amounts of those grants. 
 
-(3) If the Secretary plans to approve multi-year projects, the project period that will be approved.
+(3) If the Secretary plans to approve multi-year projects, the project period that will be approved. 
 
-(4) Any priorities established by the Secretary for the program for that year and the method the Secretary will use to implement the priorities. (See § 75.105 *Annual priorities.*)
+(4) Any priorities established by the Secretary for the program for that year and the method the Secretary will use to implement the priorities. (See § 75.105 *Annual priorities.*) 
 
-(5) Where to find the regulations that apply to the program.
+(5) Where to find the regulations that apply to the program. 
 
-(6) The statutory authority for the program.
+(6) The statutory authority for the program. 
 
-(7) The deadlines established under § 75.102 (Deadline date for applications.) and 34 CFR 79.8 (How does the Secretary provide States an opportunity to comment on proposed Federal financial assistance?)
+(7) The deadlines established under § 75.102 (Deadline date for applications.) and 34 CFR 79.8 (How does the Secretary provide States an opportunity to comment on proposed Federal financial assistance?) 
 
-(b) If the Secretary either requires or permits preapplications under a program, an application notice for the program explains how an applicant can get the preapplication form.
+(b) If the Secretary either requires or permits preapplications under a program, an application notice for the program explains how an applicant can get the preapplication form. 
 
 (Authority: 20 U.S.C. 1221e-3 and 3474) Cross Reference:
 

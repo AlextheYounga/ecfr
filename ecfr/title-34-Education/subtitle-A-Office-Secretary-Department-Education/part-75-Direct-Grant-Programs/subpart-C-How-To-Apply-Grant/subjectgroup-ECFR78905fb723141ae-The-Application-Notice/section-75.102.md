@@ -1,26 +1,26 @@
 ##### § 75.102 Deadline date for applications.
 
-(a) The application notice for a program sets a deadline date for the transmittal of applications to the Department.
+(a) The application notice for a program sets a deadline date for the transmittal of applications to the Department. 
 
-(b) If an applicant wants a new grant, the applicant must submit an application in accordance with the requirements in the application notice.
+(b) If an applicant wants a new grant, the applicant must submit an application in accordance with the requirements in the application notice. 
 
-(c) \[Reserved\]
+(c) \[Reserved\] 
 
-(d) If the Secretary allows an applicant to submit a paper application, the applicant must show one of the following as proof of mailing by the deadline date:
+(d) If the Secretary allows an applicant to submit a paper application, the applicant must show one of the following as proof of mailing by the deadline date: 
 
-(1) A legibly dated U.S. Postal Service postmark.
+(1) A legibly dated U.S. Postal Service postmark. 
 
-(2) A legible mail receipt with the date of mailing stamped by the U.S. Postal Service.
+(2) A legible mail receipt with the date of mailing stamped by the U.S. Postal Service. 
 
-(3) A dated shipping label, invoice, or receipt from a commercial carrier.
+(3) A dated shipping label, invoice, or receipt from a commercial carrier. 
 
-(4) Any other proof of mailing acceptable to the Secretary.
+(4) Any other proof of mailing acceptable to the Secretary. 
 
-(e) If an application is mailed through the U.S. Postal Service, the Secretary does not accept either of the following as proof of mailing:
+(e) If an application is mailed through the U.S. Postal Service, the Secretary does not accept either of the following as proof of mailing: 
 
-(1) A private metered postmark.
+(1) A private metered postmark. 
 
-(2) A mail receipt that is not dated by the U.S. Postal Service.
+(2) A mail receipt that is not dated by the U.S. Postal Service. 
 
 (Authority: 20 U.S.C. 1221e-3 and 3474) Note:
 

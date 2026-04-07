@@ -1,6 +1,6 @@
 ##### § 76.102 Definition of “State plan” for part 76.
 
-As used in this part, *State plan* means any of the following documents:
+As used in this part, *State plan* means any of the following documents: 
 
 | Document                                                                                                               | Program                                                               | Authorizing statute                                                                                                                              | Principal Office |
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- |

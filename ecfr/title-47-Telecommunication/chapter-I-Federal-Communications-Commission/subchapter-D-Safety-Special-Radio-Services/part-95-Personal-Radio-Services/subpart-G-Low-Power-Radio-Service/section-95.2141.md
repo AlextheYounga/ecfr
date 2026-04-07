@@ -2,7 +2,7 @@
 
 LPRS operators must ensure that their stations satisfy the antenna requirements in this section.
 
-(a) For LPRS units where the antenna is an integral part of the unit, and for LPRS stations operating entirely within an enclosed structure, *e.g.,* a building, there is no limit on antenna height.
+(a) For LPRS units where the antenna is an integral part of the unit, and for LPRS stations operating entirely within an enclosed structure, e.g., a building, there is no limit on antenna height.
 
 (b) For all other LPRS units, the tip of the antenna must not exceed 30.5 meters (100 feet) above ground level. If harmful interference occurs, the FCC may require that the LPRS station antenna height be reduced.
 

@@ -1,6 +1,6 @@
 ##### § 36.2 Penalty adjustment.
 
-The citations for the adjusted penalty provisions, a brief description of the penalty, and the adjusted maximum (and minimum, if applicable) penalty amounts are listed in Table 1 of this section.
+The citations for the adjusted penalty provisions, a brief description of the penalty, and the adjusted maximum (and minimum, if applicable) penalty amounts are listed in Table 1 of this section. 
 
 Table 1 to § 36.2—Civil Monetary Penalty Inflation Adjustments
 | Statute                                                                            | Description                                                                                                                                                                                                                                               | New maximum   (and minimum,   if applicable)   penalty amount |

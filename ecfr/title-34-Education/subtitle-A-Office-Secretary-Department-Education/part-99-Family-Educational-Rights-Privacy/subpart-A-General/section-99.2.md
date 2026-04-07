@@ -1,6 +1,6 @@
 ##### § 99.2 What is the purpose of these regulations?
 
-The purpose of this part is to set out requirements for the protection of privacy of parents and students under section 444 of the General Education Provisions Act, as amended.
+The purpose of this part is to set out requirements for the protection of privacy of parents and students under section 444 of the General Education Provisions Act, as amended. 
 
 (Authority: 20 U.S.C. 1232g) Note to § 99.2:
 

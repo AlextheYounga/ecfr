@@ -1,10 +1,10 @@
 ##### § 694.1 What is the maximum amount that the Secretary may award each fiscal year to a Partnership or a State under this program?
 
-(a) *Partnership grants.* The Secretary may establish the maximum amount that may be awarded each fiscal year for a GEAR UP Partnership grant in a notice published in the Federal Register. The maximum amount for which a Partnership may apply may not exceed the lesser of the maximum amount established by the Secretary, if applicable, or the amount calculated by multiplying—
+(a) *Partnership grants.* The Secretary may establish the maximum amount that may be awarded each fiscal year for a GEAR UP Partnership grant in a notice published in the Federal Register. The maximum amount for which a Partnership may apply may not exceed the lesser of the maximum amount established by the Secretary, if applicable, or the amount calculated by multiplying— 
 
-(1) $800; by
+(1) $800; by 
 
-(2) The number of students the Partnership proposes to serve that year, as stated in the Partnership's plan.
+(2) The number of students the Partnership proposes to serve that year, as stated in the Partnership's plan. 
 
 (b) *State grants.* The Secretary establishes the maximum amount that may be awarded each fiscal year for a GEAR UP State grant in a notice published in the Federal Register.
 

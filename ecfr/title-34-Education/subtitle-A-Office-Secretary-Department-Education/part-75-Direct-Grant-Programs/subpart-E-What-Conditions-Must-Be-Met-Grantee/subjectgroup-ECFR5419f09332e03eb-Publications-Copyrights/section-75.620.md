@@ -1,8 +1,8 @@
 ##### § 75.620 General conditions on publication.
 
-(a) *Content of materials.* Subject to any specific requirements that apply to its grant, a grantee may decide the format and content of project materials that it publishes or arranges to have published.
+(a) *Content of materials.* Subject to any specific requirements that apply to its grant, a grantee may decide the format and content of project materials that it publishes or arranges to have published. 
 
-(b) *Required statement.* The grantee shall ensure that any publication that contains project materials also contains the following statements:
+(b) *Required statement.* The grantee shall ensure that any publication that contains project materials also contains the following statements: 
 
 The contents of this (insert type of publication; e.g., book, report, film) were developed under a grant from the Department of Education. However, those contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government.
 

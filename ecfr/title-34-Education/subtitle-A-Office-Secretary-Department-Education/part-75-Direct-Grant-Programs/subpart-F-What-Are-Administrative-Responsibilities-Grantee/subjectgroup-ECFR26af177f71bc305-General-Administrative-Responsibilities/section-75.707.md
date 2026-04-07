@@ -1,6 +1,6 @@
 ##### § 75.707 When obligations are made.
 
-The following table shows when a grantee makes obligations for various kinds of property and services.
+The following table shows when a grantee makes obligations for various kinds of property and services. 
 
 | If the obligation is for—                                                                                                                   | The obligation is made—                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |

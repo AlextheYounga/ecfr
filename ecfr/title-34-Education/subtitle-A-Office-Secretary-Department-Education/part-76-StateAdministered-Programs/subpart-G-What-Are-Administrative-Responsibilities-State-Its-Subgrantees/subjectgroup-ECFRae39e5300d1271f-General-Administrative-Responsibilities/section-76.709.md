@@ -1,8 +1,8 @@
 ##### § 76.709 Funds may be obligated during a “carryover period.”
 
-(a) If a State or a subgrantee does not obligate all of its grant or subgrant funds by the end of the fiscal year for which Congress appropriated the funds, it may obligate the remaining funds during a carryover period of one additional fiscal year.
+(a) If a State or a subgrantee does not obligate all of its grant or subgrant funds by the end of the fiscal year for which Congress appropriated the funds, it may obligate the remaining funds during a carryover period of one additional fiscal year. 
 
-(b) The State shall return to the Federal Government any carryover funds not obligated by the end of the carryover period by the State and its subgrantees.
+(b) The State shall return to the Federal Government any carryover funds not obligated by the end of the carryover period by the State and its subgrantees. 
 
 Note:
 

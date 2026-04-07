@@ -1,6 +1,6 @@
 ##### § 75.626 Show Federal support; give papers to vest title.
 
-Any patent application filed by a grantee for an invention made under a grant must include the following statement in the first paragraph:
+Any patent application filed by a grantee for an invention made under a grant must include the following statement in the first paragraph: 
 
 The invention described in this application was made under a grant from the Department of Education.
 

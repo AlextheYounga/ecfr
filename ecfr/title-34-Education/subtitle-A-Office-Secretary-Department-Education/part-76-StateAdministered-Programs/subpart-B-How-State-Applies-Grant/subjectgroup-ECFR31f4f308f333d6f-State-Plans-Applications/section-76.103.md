@@ -1,20 +1,20 @@
 ##### § 76.103 Multi-year State plans.
 
-(a) Beginning with fiscal year 1996, each State plan will be effective for a period of more than one fiscal year, to be determined by the Secretary or by regulations.
+(a) Beginning with fiscal year 1996, each State plan will be effective for a period of more than one fiscal year, to be determined by the Secretary or by regulations. 
 
-(b) If the Secretary determines that the multi-year State plans under a program should be submitted by the States on a staggered schedule, the Secretary may require groups of States to submit or resubmit their plans in different years.
+(b) If the Secretary determines that the multi-year State plans under a program should be submitted by the States on a staggered schedule, the Secretary may require groups of States to submit or resubmit their plans in different years. 
 
-(c) This section does not apply to:
+(c) This section does not apply to: 
 
-(1) The annual accountability report under part A of title I of the Vocational Education Act;
+(1) The annual accountability report under part A of title I of the Vocational Education Act; 
 
-(2) The annual programs under the Library Services and Construction Act;
+(2) The annual programs under the Library Services and Construction Act; 
 
-(3) The application under sections 141-143 of the Elementary and Secondary Education Act; and
+(3) The application under sections 141-143 of the Elementary and Secondary Education Act; and 
 
-(4) The State application under section 209 of title II of the Education for Economic Security Act.
+(4) The State application under section 209 of title II of the Education for Economic Security Act. 
 
-(d) A State may submit an annual State plan under the Vocational Education Act. If a State submits an annual plan under that program, this section does not apply to that plan.
+(d) A State may submit an annual State plan under the Vocational Education Act. If a State submits an annual plan under that program, this section does not apply to that plan. 
 
 Note:
 

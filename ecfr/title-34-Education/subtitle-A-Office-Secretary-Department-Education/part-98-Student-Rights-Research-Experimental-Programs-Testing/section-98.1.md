@@ -1,14 +1,14 @@
 ##### § 98.1 Applicability of part.
 
-This part applies to any program administered by the Secretary of Education that:
+This part applies to any program administered by the Secretary of Education that: 
 
-(a)(1) Was transferred to the Department by the Department of Education Organization Act (DEOA); and
+(a)(1) Was transferred to the Department by the Department of Education Organization Act (DEOA); and 
 
-(2) Was administered by the Education Division of the Department of Health, Education, and Welfare on the day before the effective date of the DEOA; or
+(2) Was administered by the Education Division of the Department of Health, Education, and Welfare on the day before the effective date of the DEOA; or 
 
-(b) Was enacted after the effective date of the DEOA, unless the law enacting the new Federal program has the effect of making section 439 of the General Education Provisions Act inapplicable.
+(b) Was enacted after the effective date of the DEOA, unless the law enacting the new Federal program has the effect of making section 439 of the General Education Provisions Act inapplicable. 
 
-(c) The following chart lists the funded programs to which part 98 does not apply as of February 16, 1984.
+(c) The following chart lists the funded programs to which part 98 does not apply as of February 16, 1984. 
 
 | Name of program                                                                             | Authorizing statute                                                                                                                 | Implementing regulations                                                |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |

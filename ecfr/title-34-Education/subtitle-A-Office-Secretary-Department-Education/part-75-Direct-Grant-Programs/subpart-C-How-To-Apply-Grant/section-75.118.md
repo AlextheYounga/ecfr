@@ -1,8 +1,8 @@
 ##### § 75.118 Requirements for a continuation award.
 
-(a) A recipient that wants to receive a continuation award shall submit a performance report that provides the most current performance and financial expenditure information, as directed by the Secretary, that is sufficient to meet the reporting requirements of 2 CFR 200.327 and 200.328 and 34 CFR 75.590 and 75.720.
+(a) A recipient that wants to receive a continuation award shall submit a performance report that provides the most current performance and financial expenditure information, as directed by the Secretary, that is sufficient to meet the reporting requirements of 2 CFR 200.327 and 200.328 and 34 CFR 75.590 and 75.720. 
 
-(b) If a recipient fails to submit a performance report that meets the requirements of paragraph (a) of this section, the Secretary denies continued funding for the grant.
+(b) If a recipient fails to submit a performance report that meets the requirements of paragraph (a) of this section, the Secretary denies continued funding for the grant. 
 
 (Approved by the Office of Management and Budget under control number 1875-0102) (Authority: 20 U.S.C. 1221e-3(a)(1) and 3474) Cross Reference:
 
