@@ -8,7 +8,7 @@
 
 (b) *Logbook entries.* For the purposes of meeting the requirements of paragraph (a) of this section, each person must enter the following information for each flight or lesson logged:
 
-(1) General -
+(1) General—
 
 (i) Date.
 
@@ -20,7 +20,7 @@
 
 (v) The name of a safety pilot, if required by § 91.109 of this chapter.
 
-(2) Type of pilot experience or training -
+(2) Type of pilot experience or training—
 
 (i) Solo.
 
@@ -32,7 +32,7 @@
 
 (v) Training received in a full flight simulator, flight training device, or aviation training device from an authorized instructor.
 
-(3) Conditions of flight -
+(3) Conditions of flight—
 
 (i) Day or night.
 
@@ -40,7 +40,7 @@
 
 (iii) Simulated instrument conditions in flight, a full flight simulator, flight training device, or aviation training device.
 
-(iv) Use of night vision goggles in an aircraft in flight, in a flight simulator, or in a flight training device.
+(iv) Use of night vision goggles in an aircraft in flight, in a full flight simulator, or in a flight training device.
 
 (c) *Logging of pilot time.* The pilot time described in this section may be used to:
 
@@ -58,11 +58,11 @@
 
 (iii) When the pilot, except for a holder of a sport or recreational pilot certificate, acts as pilot in command of an aircraft for which more than one pilot is required under the type certification of the aircraft or the regulations under which the flight is conducted; or
 
-(iv) When the pilot performs the duties of pilot in command while under the supervision of a qualified pilot in command provided -
+(iv) When the pilot performs the duties of pilot in command while under the supervision of a qualified pilot in command provided—
 
 (A) The pilot performing the duties of pilot in command holds a commercial or airline transport pilot certificate and aircraft rating that is appropriate to the category and class of aircraft being flown, if a class rating is appropriate;
 
-(B) The pilot performing the duties of pilot in command is undergoing an approved pilot in command training program that includes ground and flight training on the following areas of operation -
+(B) The pilot performing the duties of pilot in command is undergoing an approved pilot in command training program that includes ground and flight training on the following areas of operation—
 
 (*1*) Preflight preparation;
 
@@ -82,7 +82,7 @@
 
 (*9*) Postflight procedures;
 
-(C) The supervising pilot in command holds -
+(C) The supervising pilot in command holds—
 
 (*1*) A commercial pilot certificate and flight instructor certificate, and aircraft rating that is appropriate to the category, class, and type of aircraft being flown, if a class or type rating is required; or
 
@@ -94,7 +94,7 @@
 
 (3) A certificated flight instructor may log pilot in command flight time for all flight time while serving as the authorized instructor in an operation if the instructor is rated to act as pilot in command of that aircraft.
 
-(4) A student pilot may log pilot-in-command time only when the student pilot -
+(4) A student pilot may log pilot-in-command time only when the student pilot—
 
 (i) Is the sole occupant of the aircraft or is performing the duties of pilot of command of an airship requiring more than one pilot flight crewmember;
 
@@ -116,7 +116,7 @@
 
 (2) An authorized instructor may log instrument time when conducting instrument flight instruction in actual instrument flight conditions.
 
-(3) For the purposes of logging instrument time to meet the recent instrument experience requirements of § 61.57(c) of this part, the following information must be recorded in the person's logbook -
+(3) For the purposes of logging instrument time to meet the recent instrument experience requirements of § 61.57(c) of this part, the following information must be recorded in the person's logbook—
 
 (i) The location and type of each instrument approach accomplished; and
 
@@ -134,7 +134,7 @@
 
 (ii) Include a description of the training given, the length of the training lesson, and the authorized instructor's signature, certificate number, and certificate expiration date.
 
-(i) *Presentation of required documents.* (1) Persons must present their pilot certificate, medical certificate, logbook, or any other record required by this part for inspection upon a reasonable request by -
+(i) *Presentation of required documents.* (1) Persons must present their pilot certificate, medical certificate, logbook, or any other record required by this part for inspection upon a reasonable request by—
 
 (i) The Administrator;
 
@@ -142,7 +142,7 @@
 
 (iii) Any Federal, State, or local law enforcement officer.
 
-(2) A student pilot must carry the following items in the aircraft on all solo cross-country flights as evidence of the required authorized instructor clearances and endorsements -
+(2) A student pilot must carry the following items in the aircraft on all solo cross-country flights as evidence of the required authorized instructor clearances and endorsements—
 
 (i) Pilot logbook;
 
@@ -152,7 +152,7 @@
 
 (3) A sport pilot must carry his or her logbook or other evidence of required authorized instructor endorsements on all flights.
 
-(4) A recreational pilot must carry his or her logbook with the required authorized instructor endorsements on all solo flights -
+(4) A recreational pilot must carry his or her logbook with the required authorized instructor endorsements on all solo flights—
 
 (i) That exceed 50 nautical miles from the airport at which training was received;
 
@@ -164,7 +164,7 @@
 
 (5) A flight instructor with a sport pilot rating must carry his or her logbook or other evidence of required authorized instructor endorsements on all flights when providing flight training.
 
-(j) *Aircraft requirements for logging flight time.* For a person to log flight time, the time must be acquired in an aircraft that is identified as an aircraft under § 61.5(b), and is -
+(j) *Aircraft requirements for logging flight time.* For a person to log flight time, the time must be acquired in an aircraft that is identified as an aircraft under § 61.5(b), and is—
 
 (1) An aircraft of U.S. registry with either a standard or special airworthiness certificate;
 
