@@ -6,7 +6,7 @@
 
 (1) The name and address of the place where the embryos were collected;
 
-(2) The name and address of the vetrinarian who collected the embryos;
+(2) The name and address of the veterinarian who collected the embryos;
 
 (3) The date of embryo collection;
 

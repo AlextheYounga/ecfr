@@ -1,16 +1,16 @@
-##### § 94.17 Dry-cured pork products from regions where foot-and-mouth disease, rinderpest, African swine fever, classical swine fever, or swine vesicular disease exists.
+##### § 94.17 Dry-cured pork products from regions where foot-and-mouth disease, African swine fever, classical swine fever, or swine vesicular disease exists.
 
 Notwithstanding any other provisions in this part, dry-cured ham, pork shoulder, or pork loin, whether whole or sliced and packaged, shall not be prohibited from being imported into the United States if it meets the following conditions:
 
 (a) Except for Italian-type hams, Serrano hams, Iberian hams, Iberian pork shoulders, and Iberian pork loins that have been processed in accordance with paragraph (i) of this section, the dry-cured ham, pork shoulder, or pork loin came from a swine that was never out of the region in which the dry-cured ham, pork shoulder, or pork loin was processed;
 
-(b) The ham, pork shoulder, or pork loin came from a region determined by the Administrator, to have and to enforce laws requiring the immediate reporting to the national veterinary services in that region any premises found to have any animal infected with foot-and-mouth disease, rinderpest, African Swine fever, classical swine fever, or swine vesicular disease;
+(b) The ham, pork shoulder, or pork loin came from a region determined by the Administrator, to have and to enforce laws requiring the immediate reporting to the national veterinary services in that region any premises found to have any animal infected with foot-and-mouth disease, African Swine fever, classical swine fever, or swine vesicular disease;
 
-(c) The ham, pork shoulder, or pork loin came from a swine that was not on any premises where foot-and-mouth disease, rinderpest, African swine fever, classical swine fever, or swine vesicular disease exists or had existed within 60 days prior to slaughter;
+(c) The ham, pork shoulder, or pork loin came from a swine that was not on any premises where foot-and-mouth disease, African swine fever, classical swine fever, or swine vesicular disease exists or had existed within 60 days prior to slaughter;
 
 (d) The whole ham, pork shoulder, or pork loin was accompanied from the slaughtering facility to the processing establishment by a numbered certificate issued by a person authorized by the government of the region of origin stating that the provisions of paragraphs (a) and (c) of this section have been met;
 
-(e) The ham, pork shoulder, or pork loin was processed whole as set forth in paragraph (i) of this section in only one processing establishment; 15/>
+(e) The ham, pork shoulder, or pork loin was processed whole as set forth in paragraph (i) of this section in only one processing establishment; 15
 
 15 As a condition of entry into the United States, pork and pork products must also meet all of the requirements of the Federal Meat Inspection Act (21 U.S.C. 601 *et seq.*) and regulations thereunder (9 CFR, chapter III), including requirements that the pork or pork products be prepared only in approved establishments.
 
@@ -110,7 +110,9 @@ Notwithstanding any other provisions in this part, dry-cured ham, pork shoulder,
 
 (l) The whole dry-cured ham, pork shoulder, or pork loin came from a processing establishment which allows the unannounced entry into the establishment of APHIS personnel, or other persons authorized by the Administrator, for the purpose of inspecting the establishment and records of the establishment;
 
-(m) The dry-cured ham, pork shoulder, or pork loin was processed in accordance with one of the following criteria: (1) The ham, if it is an Italian-type ham processed in accordance with paragraph (i)(1) of this section, was processed in a region which has been determined by the Administrator, to be free of rinderpest, and which has through its veterinary services submitted to the Administrator, a written statement stating that it conducts a program to authorize persons to supervise activities specified under this section;
+(m) The dry-cured ham, pork shoulder, or pork loin was processed in accordance with one of the following criteria:
+
+(1) The ham, if it is an Italian-type ham processed in accordance with paragraph (i)(1) of this section, was processed in a region which has submitted, through its veterinary services, to the Administrator, a written statement stating that it conducts a program to authorize persons to supervise activities specified under this section;
 
 (2) The Serrano ham, processed in accordance with paragraph (i)(2) of this section, and came from any breed of large, white swine, including but not limited to Landrace, Pietrain, Duroc, Jersey, Hampshire, and Yorkshire breeds, and crosses of such breeds;
 
@@ -148,7 +150,7 @@ Notwithstanding any other provisions in this part, dry-cured ham, pork shoulder,
 
 (p) Whole hams, pork shoulders, and pork loins that have been dry-cured in accordance with paragraph (i) of this section may be transported to a facility in the same region for slicing and packaging in accordance with this paragraph.
 
-(1) *The slicing/packaging facility.* (i) The slicing/packaging facility 16/> must be inspected, prior to slicing and packaging any hams, pork shoulders, or pork loins in accordance with this paragraph, by an APHIS representative and determined by the Administrator to be capable of meeting the provisions of this paragraph.
+(1) *The slicing/packaging facility.* (i) The slicing/packaging facility 16 must be inspected, prior to slicing and packaging any hams, pork shoulders, or pork loins in accordance with this paragraph, by an APHIS representative and determined by the Administrator to be capable of meeting the provisions of this paragraph.
 
 16 See footnote 15.
 
@@ -186,4 +188,4 @@ Notwithstanding any other provisions in this part, dry-cured ham, pork shoulder,
 
 (iii) The sliced and packaged dry-cured pork ham, pork shoulder, or pork loin must be labeled with the date that processing of the meat under paragraph (i) of this section began, and with the date the meat was sliced and packaged.
 
-(Approved by the Office of Management and Budget under control number 0579-0015) \[52 FR 11625, Apr. 10, 1987, as amended at 53 FR 48520, Dec. 1, 1988; 54 FR 7395, Feb. 21, 1989, 59 FR 55024, Nov. 3, 1994; 59 FR 67134, Dec. 29, 1994; 62 FR 46181, Sept. 2, 1997; 62 FR 56023, Oct. 28, 1997; 62 FR 61004, Nov. 14, 1997; 64 FR 38550, July 19, 1999; 68 FR 16939, Apr. 7, 2003; 73 FR 17885, Apr. 2, 2008; 74 FR 18288, Apr. 22, 2009; 76 FR 4054, 4055, Jan. 24, 2011; 77 FR 1395, Jan. 10, 2012\]
+(Approved by the Office of Management and Budget under control number 0579-0015) \[52 FR 11625, Apr. 10, 1987\] Editorial Note:For Federal Register citations affecting § 94.17, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

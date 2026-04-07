@@ -1,6 +1,6 @@
-##### § 94.4 Cured or cooked meat from regions where rinderpest or foot-and-mouth disease exists.
+##### § 94.4 Cured or cooked meat from regions where foot-and-mouth disease exists.
 
-(a) The importation of cured meats derived from ruminants or swine, originating in any region where rinderpest or foot-and-mouth disease exists, as designated in § 94.1, is prohibited unless the following conditions have been fulfilled:
+(a) The importation of cured meats derived from ruminants or swine, originating in any region where foot-and-mouth disease exists, as designated in § 94.1, is prohibited unless the following conditions have been fulfilled:
 
 (1) All bones shall have been completely removed in the region of origin.
 
@@ -12,7 +12,7 @@
 
 (4) The cured meat shall be accompanied by a certificate issued by an official of the national government of the region of origin who is authorized to issue the foreign meat inspection certificate required by § 327.4 of this title, stating that such meat has been prepared in accordance with paragraphs (a)(1), (a)(2) and (a)(3)(i) of this section. Upon arrival of the cured meat in the United States, the certificate must be presented to an authorized inspector at the port of arrival.
 
-(b) The importation of cooked meats from ruminants or swine originating in any region where rinderpest or foot-and-mouth disease exists, as designated in § 94.1, is prohibited, except as provided in this section.
+(b) The importation of cooked meats from ruminants or swine originating in any region where foot-and-mouth disease exists, as designated in § 94.1, is prohibited, except as provided in this section.
 
 (1) The cooked meat must be boneless and must be thoroughly cooked.
 
@@ -48,7 +48,7 @@
 
 (ii) For cooked meat that is further processed in accordance with paragraph (b)(6) of this section, the certificate must include the following statement, in addition to the certification required under paragraph (b)(9)(i) of this section: “No more than two tubes were randomly selected per batch per cooker for cutting an indicator piece or obtaining a piece containing a TID. The indicator piece or piece containing a TID represents a shipment of (describe form of processed product - e.g., diced cubes of a particular size). A piece containing a TID or a piece 3.8 cm (1.5 in) or larger in each dimension was cut from the cold spot of the tube, and was sealed and marked with the following cooking date, cooker, and batch: \_\_\_\_\_ and the following date of selection of the tube\_\_\_\_\_. The total number of indicator pieces or pieces containing TID's enclosed in a sealed box is\_\_\_\_\_.”
 
-(10) The meat is inspected by an FSIS inspector at a port of arrival in a defrost facility approved by the Administrator 2/> and the meat is found to be thoroughly cooked.
+(10) The meat is inspected by an FSIS inspector at a port of arrival in a defrost facility approved by the Administrator 2 and the meat is found to be thoroughly cooked.
 
 2 The names and addresses of approved defrost facilities and conditions for approval may be obtained from the Administrator, Animal and Plant Health Inspection Service, United States Department of Agriculture, Washington, DC 20250.
 
@@ -58,7 +58,7 @@
 
 (B) The defrost facility is located at a port of arrival; and
 
-(C) The defrost facility is approved by the Food Safety and Inspection Service, United States Department of Agriculture. 3/>
+(C) The defrost facility is approved by the Food Safety and Inspection Service, United States Department of Agriculture. 3
 
 3 Conditions for the approval of any defrost facility by the Food Safety and Inspection Service, United States Department of Agriculture, may be obtained from the Import Inspection Division, International Programs, Food Safety and Inspection Service, United States Department of Agriculture, Washington, DC 20250.
 
@@ -68,11 +68,17 @@
 
 (c) *Meat processing establishment; standards.* (1) Before the Administrator will approve a meat processing establishment for export shipment of cooked meat to the United States, the Administrator must determine:
 
-(i) That the meat processing establishment has furnished APHIS with a description of the process used to inactivate rinderpest or FMD virus that may be present in meat intended for export to the United States, and with blueprints of the facilities where this meat is cooked and packaged;
+(i) That the meat processing establishment has furnished APHIS with a description of the process used to inactivate FMD virus that may be present in meat intended for export to the United States, and with blueprints of the facilities where this meat is cooked and packaged;
 
 (ii) That an APHIS representative has inspected the establishment and found that it meets the standards set forth in paragraph (c)(2) of this section;
 
-(iii) That the operator of the establishment has signed a cooperative service agreement with APHIS, stating: (A) That all cooked meat processed for importation into the United States will be processed in accordance with the requirements of this part; (B) that a full-time, salaried meat inspection official of the National Government of the exporting region will supervise the processing (including certification of the cold spot) and examination of the product, and certify that it has been processed in accordance with this section; and (C) that APHIS personnel or other persons authorized by the Administrator may enter the establishment, unannounced, to inspect the establishment and its records; and
+(iii) That the operator of the establishment has signed a cooperative service agreement with APHIS, stating:
+
+(A) That all cooked meat processed for importation into the United States will be processed in accordance with the requirements of this part;
+
+(B) that a full-time, salaried meat inspection official of the National Government of the exporting region will supervise the processing (including certification of the cold spot) and examination of the product, and certify that it has been processed in accordance with this section; and
+
+(C) that APHIS personnel or other persons authorized by the Administrator may enter the establishment, unannounced, to inspect the establishment and its records; and
 
 (iv) That the operator of the establishment has entered into a trust fund agreement with APHIS and is current in paying all costs for an APHIS representative to inspect the establishment for initial evaluation, and periodically thereafter, including travel, salary, subsistence, administrative overhead, and other incidental expenses (including an excess baggage provision up to 150 pounds). In accordance with the terms of the trust fund agreement, before the APHIS representative's site inspection, the operator of the processing establishment must deposit with the Administrator an amount equal to the approximate cost of one inspection by an APHIS representative, including travel, salary, subsistence, administrative overhead, and other incidental expenses (including an excess baggage provision up to 150 pounds). As funds from that amount are obligated, a bill for costs incurred based on official accounting records will be issued, to restore the deposit to the original level, revised as necessary to allow for inflation or other changes in estimated costs. To be current, bills must be paid within 14 days of receipt.
 

@@ -4,7 +4,7 @@
 
 (b) *Cetaceans.* Primary enclosures housing cetaceans shall contain a pool of water and may consist entirely of a pool of water. In determining the minimum space required in a pool holding cetaceans, four factors must be satisfied. These are MHD, depth, volume, and surface area. For the purposes of this subpart, cetaceans are divided into Group I cetaceans and Group II cetaceans as shown in Table III in this section.
 
-(1)(i) *The required minimum horizontal dimension* (MHD) of a pool for Group I cetaceans shall be 7.32 meters (24.0 feet) or two times the average adult length of the longest species of Group I cetacean housed therein (as measured in a parallel or horizontal line, from the tip of its upper jaw, or from the most anterior portion of the head in bulbous headed animals, to the notch in the tail fluke 8), whichever is greater; except that such MHD measurement may be reduced from the greater number by up to 20 percent if the amount of the reduction is added to the MHD at the 90-degree angle and if the minimum volume and surface area requirements are met based on an MHD of 7.32 meters (24.0 feet) or two times the average adult length of the longest species of Group I cetacean housed therein, whichever is greater. />
+(1)(i) *The required minimum horizontal dimension* (MHD) of a pool for Group I cetaceans shall be 7.32 meters (24.0 feet) or two times the average adult length of the longest species of Group I cetacean housed therein (as measured in a parallel or horizontal line, from the tip of its upper jaw, or from the most anterior portion of the head in bulbous headed animals, to the notch in the tail fluke 8), whichever is greater; except that such MHD measurement may be reduced from the greater number by up to 20 percent if the amount of the reduction is added to the MHD at the 90-degree angle and if the minimum volume and surface area requirements are met based on an MHD of 7.32 meters (24.0 feet) or two times the average adult length of the longest species of Group I cetacean housed therein, whichever is greater. 
 
 8 The body length of a *Monodon monoceros* (narwhale) is measured from the tip of the upper incisor tooth to the notch in the tail fluke. If the upper incisor is absent or does not extend beyond the front of the head, then it is measured like other cetaceans, from the tip of the upper jaw to the notch in the tail fluke. Immature males should be anticipated to develop the “tusk” (usually left incisor tooth) beginning at sexual maturity.
 
@@ -14,116 +14,109 @@
 
 (iv) Once the required MHD has been satisfied, the pool size may be required to be adjusted to increase the surface area and volume when cetaceans are added. Examples of MHD and volume requirements for Group I cetaceans are shown in Table I, and for Group II cetaceans in Table II.
 
-Table I - Group I Cetaceans 1
+Table I—Group I Cetaceans 1
+| Representative average adult lengths                                                                                                                                                                                                                                                                                                                                                                                                                                         | Minimum horizontal dimension (MHD) | Minimum required   depth | Volume of water required for each additional cetacean in excess of two |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------ | ---------------------------------------------------------------------- |
+| 1.68                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 5.5                                | 7.32                     | 24                                                                     |
+| 2.29                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 7.5                                | 7.32                     | 24                                                                     |
+| 2.74                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 9.0                                | 7.32                     | 24                                                                     |
+| 3.05                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 10.0                               | 7.32                     | 24                                                                     |
+| 3.51                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 11.5                               | 7.32                     | 24                                                                     |
+| 3.66                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 12.0                               | 7.32                     | 24                                                                     |
+| 4.27                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 14.0                               | 8.53                     | 28                                                                     |
+| 5.49                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 18.0                               | 10.97                    | 36                                                                     |
+| 5.64                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 18.5                               | 11.28                    | 37                                                                     |
+| 5.79                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 19.0                               | 11.58                    | 38                                                                     |
+| 6.71                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 22.0                               | 13.41                    | 44                                                                     |
+| 6.86                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 22.5                               | 13.72                    | 45                                                                     |
+| 7.32                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 24.0                               | 14.63                    | 48                                                                     |
+| 8.53                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 28.0                               | 17.07                    | 56                                                                     |
+| 1 All calculations are rounded off to the nearest hundredth. In converting the length of cetaceans from feet to meters, 1 foot equals .3048 meter. Due to rounding of meter figures as to the length of the cetacean, the correlation of meters to feet in subsequent calculations of MHD and additional volume of water required per cetacean, over two, may vary slightly from a strict feet to meters ratio. Cubic meters is based on: 1 cubic foot = 0.0283 cubic meter. |                                    |                          |                                                                        |
 
-| Representative average adult lengths | Minimum horizontal dimension (MHD) | Minimum required   depth | Volume of water required for each additional cetacean in excess of two |
-| ------------------------------------ | ---------------------------------- | ------------------------ | ---------------------------------------------------------------------- |
-| 1.68                                 | 5.5                                | 7.32                     | 24                                                                     |
-| 2.29                                 | 7.5                                | 7.32                     | 24                                                                     |
-| 2.74                                 | 9.0                                | 7.32                     | 24                                                                     |
-| 3.05                                 | 10.0                               | 7.32                     | 24                                                                     |
-| 3.51                                 | 11.5                               | 7.32                     | 24                                                                     |
-| 3.66                                 | 12.0                               | 7.32                     | 24                                                                     |
-| 4.27                                 | 14.0                               | 8.53                     | 28                                                                     |
-| 5.49                                 | 18.0                               | 10.97                    | 36                                                                     |
-| 5.64                                 | 18.5                               | 11.28                    | 37                                                                     |
-| 5.79                                 | 19.0                               | 11.58                    | 38                                                                     |
-| 6.71                                 | 22.0                               | 13.41                    | 44                                                                     |
-| 6.86                                 | 22.5                               | 13.72                    | 45                                                                     |
-| 7.32                                 | 24.0                               | 14.63                    | 48                                                                     |
-| 8.53                                 | 28.0                               | 17.07                    | 56                                                                     |
+Table II—Group II Cetaceans 1
+| Representative average adult length                                                          | Minimum horizontal dimension (MHD) | Minimum required   depth | Volume of water required for each additional cetacean in excess of four |
+| -------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------ | ----------------------------------------------------------------------- |
+| 1.52                                                                                         | 5.0                                | 7.32                     | 24                                                                      |
+| 1.68                                                                                         | 5.5                                | 7.32                     | 24                                                                      |
+| 1.83                                                                                         | 6.0                                | 7.32                     | 24                                                                      |
+| 2.13                                                                                         | 7.0                                | 8.53                     | 28                                                                      |
+| 2.29                                                                                         | 7.5                                | 9.14                     | 30                                                                      |
+| 2.44                                                                                         | 8.0                                | 9.75                     | 32                                                                      |
+| 2.59                                                                                         | 8.5                                | 10.36                    | 34                                                                      |
+| 2.74                                                                                         | 9.0                                | 10.97                    | 36                                                                      |
+| 1 Converting cubic feet to cubic meters is based on: 1 cubic foot = 0.0283 of a cubic meter. |                                    |                          |                                                                         |
 
-1 All calculations are rounded off to the nearest hundredth. In converting the length of cetaceans from feet to meters, 1 foot equals .3048 meter. Due to rounding of meter figures as to the length of the cetacean, the correlation of meters to feet in subsequent calculations of MHD and additional volume of water required per cetacean, over two, may vary slightly from a strict feet to meters ratio. Cubic meters is based on: 1 cubic foot = 0.0283 cubic meter.
+Table III—Average Adult Lengths of Marine Mammals Maintained in Captivity 1
+| Species                                                                                                                                                                                                                                                                                                                                                                                          | Common name                  | Average adult length |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- | -------------------- |
+| Group I Cetaceans:                                                                                                                                                                                                                                                                                                                                                                               |                              |                      |
+| Balaenoptera acutorostrata                                                                                                                                                                                                                                                                                                                                                                       | Minke whale                  | 8.50                 |
+| Cephalorhynchus commersonii                                                                                                                                                                                                                                                                                                                                                                      | Commerson's dolphin          | 1.52                 |
+| Delphinapterus leucas                                                                                                                                                                                                                                                                                                                                                                            | Beluga whale                 | 4.27                 |
+| Monodon monoceros                                                                                                                                                                                                                                                                                                                                                                                | Narwhale                     | 3.96                 |
+| Globicephala melaena                                                                                                                                                                                                                                                                                                                                                                             | Long-finned pilot whale      | 5.79                 |
+| Globicephala macrorhynchus                                                                                                                                                                                                                                                                                                                                                                       | Short-finned pilot whale     | 5.49                 |
+| Grampus griseus                                                                                                                                                                                                                                                                                                                                                                                  | Risso's dolphin              | 3.66                 |
+| Orcinus orca                                                                                                                                                                                                                                                                                                                                                                                     | Killer whale                 | 7.32                 |
+| Pseudorca carassidens                                                                                                                                                                                                                                                                                                                                                                            | False killer whale           | 4.35                 |
+| Tursiops truncatus (Atlantic)                                                                                                                                                                                                                                                                                                                                                                    | Bottlenose dolphin           | 2.74                 |
+| Tursiops truncatus (Pacific)                                                                                                                                                                                                                                                                                                                                                                     | Bottlenose dolphin           | 3.05                 |
+| Inia geoffrensis                                                                                                                                                                                                                                                                                                                                                                                 | Amazon porpoise              | 2.44                 |
+| Phocoena phocoena                                                                                                                                                                                                                                                                                                                                                                                | Harbor porpoise              | 1.68                 |
+| Pontoporia blainvillei                                                                                                                                                                                                                                                                                                                                                                           | Franciscana                  | 1.52                 |
+| Sotalia fluviatilis                                                                                                                                                                                                                                                                                                                                                                              | Tucuxi                       | 1.68                 |
+| Platanista, all species                                                                                                                                                                                                                                                                                                                                                                          | River dolphin                | 2.44                 |
+| Group II Cetaceans:                                                                                                                                                                                                                                                                                                                                                                              |                              |                      |
+| Delphinus delphis                                                                                                                                                                                                                                                                                                                                                                                | Common dolphin               | 2.59                 |
+| Feresa attenuata                                                                                                                                                                                                                                                                                                                                                                                 | Pygmy killer whale           | 2.44                 |
+| Kogia breviceps                                                                                                                                                                                                                                                                                                                                                                                  | Pygmy sperm whale            | 3.96                 |
+| Kogia simus                                                                                                                                                                                                                                                                                                                                                                                      | Dwarf sperm whale            | 2.90                 |
+| Lagenorhynchus acutus                                                                                                                                                                                                                                                                                                                                                                            | Atlantic white-sided dolphin | 2.90                 |
+| Lagenorhynchus cruciger                                                                                                                                                                                                                                                                                                                                                                          | Hourglass dolphin            | 1.70                 |
+| Lagenorhynchus obliquidens                                                                                                                                                                                                                                                                                                                                                                       | Pacific white-sided dolphin  | 2.29                 |
+| Lagenorhynchus albirostris                                                                                                                                                                                                                                                                                                                                                                       | White-beaked dolphin         | 2.74                 |
+| Lagenorhynchus obscurus                                                                                                                                                                                                                                                                                                                                                                          | Duskey dolphin               | 2.13                 |
+| Lissodelphis borealis                                                                                                                                                                                                                                                                                                                                                                            | Northern right whale dolphin | 2.74                 |
+| Neophocaena phocaenoides                                                                                                                                                                                                                                                                                                                                                                         | Finless porpoise             | 1.83                 |
+| Peponocephala electra                                                                                                                                                                                                                                                                                                                                                                            | Melon-headed whale           | 2.74                 |
+| Phocoenoides dalli                                                                                                                                                                                                                                                                                                                                                                               | Dall's porpoise              | 2.00                 |
+| Stenella longirostris                                                                                                                                                                                                                                                                                                                                                                            | Spinner dolphin              | 2.13                 |
+| Stenella coeruleoalba                                                                                                                                                                                                                                                                                                                                                                            | Striped dolphin              | 2.29                 |
+| Stenella attenuata                                                                                                                                                                                                                                                                                                                                                                               | Spotted dolphin              | 2.29                 |
+| Stenella plagiodon                                                                                                                                                                                                                                                                                                                                                                               | Spotted dolphin              | 2.29                 |
+| Steno bredanensis                                                                                                                                                                                                                                                                                                                                                                                | Rough-toothed dolphin        | 2.44                 |
+| 1 This table contains the species of marine mammals known by the Department to be presently in captivity or that are likely to become captive in the future. Anyone who is subject to the Animal Welfare Act having species of marine mammals in captivity which are not included in this table should consult the Deputy Administrator with regard to the average adult length of such animals. |                              |                      |
 
-Table II - Group II Cetaceans 1
-
-| Representative average adult length | Minimum horizontal dimension (MHD) | Minimum required   depth | Volume of water required for each additional cetacean in excess of four |
-| ----------------------------------- | ---------------------------------- | ------------------------ | ----------------------------------------------------------------------- |
-| 1.52                                | 5.0                                | 7.32                     | 24                                                                      |
-| 1.68                                | 5.5                                | 7.32                     | 24                                                                      |
-| 1.83                                | 6.0                                | 7.32                     | 24                                                                      |
-| 2.13                                | 7.0                                | 8.53                     | 28                                                                      |
-| 2.29                                | 7.5                                | 9.14                     | 30                                                                      |
-| 2.44                                | 8.0                                | 9.75                     | 32                                                                      |
-| 2.59                                | 8.5                                | 10.36                    | 34                                                                      |
-| 2.74                                | 9.0                                | 10.97                    | 36                                                                      |
-
-1 Converting cubic feet to cubic meters is based on: 1 cubic foot = 0.0283 of a cubic meter.
-
-Table III - Average Adult Lengths of Marine Mammals Maintained in Captivity 1
-
-| Species                       | Common name                  | Average adult length |
-| ----------------------------- | ---------------------------- | -------------------- |
-| Group I Cetaceans:            |                              |                      |
-| Balaenoptera acutorostrata    | Minke whale                  | 8.50                 |
-| Cephalorhynchus commersonii   | Commerson's dolphin          | 1.52                 |
-| Delphinapterus leucas         | Beluga whale                 | 4.27                 |
-| Monodon monoceros             | Narwhale                     | 3.96                 |
-| Globicephala melaena          | Long-finned pilot whale      | 5.79                 |
-| Globicephala macrorhynchus    | Short-finned pilot whale     | 5.49                 |
-| Grampus griseus               | Risso's dolphin              | 3.66                 |
-| Orcinus orca                  | Killer whale                 | 7.32                 |
-| Pseudorca carassidens         | False killer whale           | 4.35                 |
-| Tursiops truncatus (Atlantic) | Bottlenose dolphin           | 2.74                 |
-| Tursiops truncatus (Pacific)  | Bottlenose dolphin           | 3.05                 |
-| Inia geoffrensis              | Amazon porpoise              | 2.44                 |
-| Phocoena phocoena             | Harbor porpoise              | 1.68                 |
-| Pontoporia blainvillei        | Franciscana                  | 1.52                 |
-| Sotalia fluviatilis           | Tucuxi                       | 1.68                 |
-| Platanista, all species       | River dolphin                | 2.44                 |
-| Group II Cetaceans:           |                              |                      |
-| Delphinus delphis             | Common dolphin               | 2.59                 |
-| Feresa attenuata              | Pygmy killer whale           | 2.44                 |
-| Kogia breviceps               | Pygmy sperm whale            | 3.96                 |
-| Kogia simus                   | Dwarf sperm whale            | 2.90                 |
-| Lagenorhynchus acutus         | Atlantic white-sided dolphin | 2.90                 |
-| Lagenorhynchus cruciger       | Hourglass dolphin            | 1.70                 |
-| Lagenorhynchus obliquidens    | Pacific white-sided dolphin  | 2.29                 |
-| Lagenorhynchus albirostris    | White-beaked dolphin         | 2.74                 |
-| Lagenorhynchus obscurus       | Duskey dolphin               | 2.13                 |
-| Lissodelphis borealis         | Northern right whale dolphin | 2.74                 |
-| Neophocaena phocaenoides      | Finless porpoise             | 1.83                 |
-| Peponocephala electra         | Melon-headed whale           | 2.74                 |
-| Phocoenoides dalli            | Dall's porpoise              | 2.00                 |
-| Stenella longirostris         | Spinner dolphin              | 2.13                 |
-| Stenella coeruleoalba         | Striped dolphin              | 2.29                 |
-| Stenella attenuata            | Spotted dolphin              | 2.29                 |
-| Stenella plagiodon            | Spotted dolphin              | 2.29                 |
-| Steno bredanensis             | Rough-toothed dolphin        | 2.44                 |
-
-1 This table contains the species of marine mammals known by the Department to be presently in captivity or that are likely to become captive in the future. Anyone who is subject to the Animal Welfare Act having species of marine mammals in captivity which are not included in this table should consult the Deputy Administrator with regard to the average adult length of such animals.
-
-| Species                      | Common name               | Average adult length |
-| ---------------------------- | ------------------------- | -------------------- |
-| Group I Pinnipeds:           |                           |                      |
-| Arctocephalus gazella\*\*    | Antarctic Fur Seal        | 1.80                 |
-| Arctocephalus tropicalis\*\* | Amsterdam Island Fur Seal | 1.80                 |
-| Arctocephalus australis\*\*  | South American Fur Seal   | 1.88                 |
-| Arctocephalus pusillis\*\*   | Cape Fur Seal             | 2.73                 |
-| Callorhinus ursinus\*\*      | Northern Fur Seal         | 2.20                 |
-| Eumetopias jubatus\*\*       | Steller's Sea Lion        | 2.86                 |
-| Hydrurga leptonyx            | Leopard Seal              | 2.90                 |
-| Mirounga angustirostris\*\*  | Northern Elephant Seal    | 3.96                 |
-| Mirounga leonina\*\*         | Southern Elephant Seal    | 4.67                 |
-| Odobenus rosmarus\*\*        | Walrus                    | 3.15                 |
-| Otaria flavescens\*\*        | South American Sea Lion   | 2.40                 |
-| Phoca caspica                | Caspian Seal              | 1.45                 |
-| Phoca fasciata               | Ribbon Seal               | 1.75                 |
-| Phoca larga                  | Harbor Seal               | 1.70                 |
-| Phoca vitulina               | Habor Seal                | 1.70                 |
-| Zalophus californianus       | California Sea Lion       | 2.24                 |
-| Halichoerus grypus\*\*       | Grar Seal                 | 2.30                 |
-| Phoca sibirica               | Baikal Seal               | 1.70                 |
-| Phoca groenlandica           | Harp Seal                 | 1.85                 |
-| Leptonychotes weddelli\*\*   | Weddell Seal              | 2.90                 |
-| Lobodon carcinophagus\*\*    | Crabeater Seal            | 2.21                 |
-| Ommatophoca rossi\*\*        | Ross Seal                 | 1.99                 |
-| Group II Pinnipeds:          |                           |                      |
-| Erignathus barbatus          | Bearded Seal              | 2.33                 |
-| Phoca hispida                | Ringed Seal               | 1.35                 |
-| Cystophora cristata          | Hooded Seal               | 2.60                 |
-
-Note. \*\*Any Group I animals maintained together will be considered as Group II when the animals maintained together include two or more sexually mature males from species marked with a double asterisk (\*\*) regardless of whether the sexually mature males from the same species.
+| Species                                                                                                                                                                                                                                                                                      | Common name               | Average adult length |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
+| Group I Pinnipeds:                                                                                                                                                                                                                                                                           |                           |                      |
+| Arctocephalus gazella\*\*                                                                                                                                                                                                                                                                    | Antarctic Fur Seal        | 1.80                 |
+| Arctocephalus tropicalis\*\*                                                                                                                                                                                                                                                                 | Amsterdam Island Fur Seal | 1.80                 |
+| Arctocephalus australis\*\*                                                                                                                                                                                                                                                                  | South American Fur Seal   | 1.88                 |
+| Arctocephalus pusillis\*\*                                                                                                                                                                                                                                                                   | Cape Fur Seal             | 2.73                 |
+| Callorhinus ursinus\*\*                                                                                                                                                                                                                                                                      | Northern Fur Seal         | 2.20                 |
+| Eumetopias jubatus\*\*                                                                                                                                                                                                                                                                       | Steller's Sea Lion        | 2.86                 |
+| Hydrurga leptonyx                                                                                                                                                                                                                                                                            | Leopard Seal              | 2.90                 |
+| Mirounga angustirostris\*\*                                                                                                                                                                                                                                                                  | Northern Elephant Seal    | 3.96                 |
+| Mirounga leonina\*\*                                                                                                                                                                                                                                                                         | Southern Elephant Seal    | 4.67                 |
+| Odobenus rosmarus\*\*                                                                                                                                                                                                                                                                        | Walrus                    | 3.15                 |
+| Otaria flavescens\*\*                                                                                                                                                                                                                                                                        | South American Sea Lion   | 2.40                 |
+| Phoca caspica                                                                                                                                                                                                                                                                                | Caspian Seal              | 1.45                 |
+| Phoca fasciata                                                                                                                                                                                                                                                                               | Ribbon Seal               | 1.75                 |
+| Phoca larga                                                                                                                                                                                                                                                                                  | Harbor Seal               | 1.70                 |
+| Phoca vitulina                                                                                                                                                                                                                                                                               | Habor Seal                | 1.70                 |
+| Zalophus californianus                                                                                                                                                                                                                                                                       | California Sea Lion       | 2.24                 |
+| Halichoerus grypus\*\*                                                                                                                                                                                                                                                                       | Grar Seal                 | 2.30                 |
+| Phoca sibirica                                                                                                                                                                                                                                                                               | Baikal Seal               | 1.70                 |
+| Phoca groenlandica                                                                                                                                                                                                                                                                           | Harp Seal                 | 1.85                 |
+| Leptonychotes weddelli\*\*                                                                                                                                                                                                                                                                   | Weddell Seal              | 2.90                 |
+| Lobodon carcinophagus\*\*                                                                                                                                                                                                                                                                    | Crabeater Seal            | 2.21                 |
+| Ommatophoca rossi\*\*                                                                                                                                                                                                                                                                        | Ross Seal                 | 1.99                 |
+| Group II Pinnipeds:                                                                                                                                                                                                                                                                          |                           |                      |
+| Erignathus barbatus                                                                                                                                                                                                                                                                          | Bearded Seal              | 2.33                 |
+| Phoca hispida                                                                                                                                                                                                                                                                                | Ringed Seal               | 1.35                 |
+| Cystophora cristata                                                                                                                                                                                                                                                                          | Hooded Seal               | 2.60                 |
+| **Note.** \*\*Any Group I animals maintained together will be considered as Group II when the animals maintained together include two or more sexually mature males from species marked with a double asterisk (\*\*) regardless of whether the sexually mature males from the same species. |                           |                      |
 
 | Species             | Common name         | Average adult length |
 | ------------------- | ------------------- | -------------------- |
@@ -152,11 +145,11 @@ Note. \*\*Any Group I animals maintained together will be considered as Group II
 
 (4)(i) *The minimum surface area* requirements for each cetacean housed in a pool, regardless of Group I or Group II classification, are calculated as follows:
 
-![](/graphics/ec14no91.014.gif)In a pool containing more than two Group I cetaceans or more than four Group II cetaceans, 9/> the additional surface area which may be required when animals are added must be calculated for each such animal.
+![](/graphics/ec14no91.014.gif)In a pool containing more than two Group I cetaceans or more than four Group II cetaceans, 9 the additional surface area which may be required when animals are added must be calculated for each such animal. 
 
 9 A pool containing up to two Group I cetaceans or up to four Group II cetaceans which meets the required MHD and depth will have the necessary surface area and volume required for the animals contained therein.
 
-(ii) When a mixture of Group I and Group II cetaceans are to be housed in a pool, the required MHD, depth, and volume must be met. Then the required surface area must be determined for each animal in the pool. The sum of these surface areas must then be compared to the surface area which is obtained by a computation based on the required MHD of the pool. 10/> The larger of the two figures represents the surface area which is required for a pool housing a mixture of Group I and Group II cetaceans. Pool surfaces where the depth does not meet the minimum requirements cannot be used in determining the required surface area.
+(ii) When a mixture of Group I and Group II cetaceans are to be housed in a pool, the required MHD, depth, and volume must be met. Then the required surface area must be determined for each animal in the pool. The sum of these surface areas must then be compared to the surface area which is obtained by a computation based on the required MHD of the pool. 10 The larger of the two figures represents the surface area which is required for a pool housing a mixture of Group I and Group II cetaceans. Pool surfaces where the depth does not meet the minimum requirements cannot be used in determining the required surface area.
 
 10 Since the MHD represents the diameter of a circle, the surface area based on the MHD is calculated by use of the following formula:
 
@@ -164,28 +157,26 @@ SA = π × (MHD / 2). 2
 
 (iii) Surface area requirements are given in Table IV.
 
-Table IV - Minimum Surface Area Required for Each Cetacean
-
-| Average adult length of each cetacean | Surface area required for each cetacean |
-| ------------------------------------- | --------------------------------------- |
-| 1.68                                  | 5.5                                     |
-| 2.13                                  | 7.0                                     |
-| 2.29                                  | 7.5                                     |
-| 2.59                                  | 8.5                                     |
-| 2.74                                  | 9.0                                     |
-| 3.05                                  | 10.0                                    |
-| 3.51                                  | 11.5                                    |
-| 3.66                                  | 12.0                                    |
-| 4.27                                  | 14.0                                    |
-| 5.49                                  | 18.0                                    |
-| 5.64                                  | 18.5                                    |
-| 5.79                                  | 19.0                                    |
-| 6.71                                  | 22.0                                    |
-| 6.86                                  | 22.5                                    |
-| 7.32                                  | 24.0                                    |
-| 8.53                                  | 28.0                                    |
-
-1 Square meter = square feet/9 × 0.8361.
+Table IV—Minimum Surface Area Required for Each Cetacean
+| Average adult length of each cetacean    | Surface area required for each cetacean |
+| ---------------------------------------- | --------------------------------------- |
+| 1.68                                     | 5.5                                     |
+| 2.13                                     | 7.0                                     |
+| 2.29                                     | 7.5                                     |
+| 2.59                                     | 8.5                                     |
+| 2.74                                     | 9.0                                     |
+| 3.05                                     | 10.0                                    |
+| 3.51                                     | 11.5                                    |
+| 3.66                                     | 12.0                                    |
+| 4.27                                     | 14.0                                    |
+| 5.49                                     | 18.0                                    |
+| 5.64                                     | 18.5                                    |
+| 5.79                                     | 19.0                                    |
+| 6.71                                     | 22.0                                    |
+| 6.86                                     | 22.5                                    |
+| 7.32                                     | 24.0                                    |
+| 8.53                                     | 28.0                                    |
+| 1 Square meter = square feet/9 × 0.8361. |                                         |
 
 (c) *Sirenians.* Primary enclosures housing sirenians shall contain a pool of water and may consist entirely of a pool of water.
 
@@ -207,21 +198,17 @@ Table IV - Minimum Surface Area Required for Each Cetacean
 
 Examples: DRA for 1 Group II Pinniped = \[(Average adult length) 2 × 1.5\] + \[(Average adult length) 2 × 1.4\]
 
-1st pinniped (avg. adult length) 2 × 1.5 = social and DRA required 
+| 1st pinniped (avg. adult length) 2 × 1.5 = social and DRA required                                           |
+| 2nd pinniped (avg. adult length) 2 × 1.4 = social and DRA required                                           |
+| 3rd pinniped (avg. adult length) 1 × 1.3 = social and DRA required                                           |
+| 4th pinniped (avg. adult length) 2 × 1.2 = social and DRA required                                           |
+| 5th pinniped (avg. adult length) 2 × 1.1 = social and DRA required                                           |
+| Each pinniped over 5 (avg. adult length) 2 = social and DRA required                                         |
+| Total minimum social activity and dry resting area required for all pinnipeds housed in a primary enclosure. |
 
-2nd pinniped (avg. adult length) 2 × 1.4 = social and DRA required 
+If all the pinnipeds in the primary enclosure are of the same species, the same descending order of calculation shall apply. Example: Hooded seal—average adult length of male = 8.5 feet and female = 6.6 feet. In a primary enclosure containing 2 males and 2 females, the social or DRA required would be the sum of \[(8.5) 2 × 1.5\] + \[(8.5) 2 × 1.4\] + \[(6.6) 2 × 1.3\] + \[(6.6) 2 × 1.2\].
 
-3rd pinniped (avg. adult length) 1 × 1.3 = social and DRA required 
-
-4th pinniped (avg. adult length) 2 × 1.2 = social and DRA required 
-
-5th pinniped (avg. adult length) 2 × 1.1 = social and DRA required 
-
-Each pinniped over 5 (avg. adult length) 2 = social and DRA required 
-
-Total minimum social activity and dry resting area required for all pinnipeds housed in a primary enclosure.
-
-If all the pinnipeds in the primary enclosure are of the same species, the same descending order of calculation shall apply. Example: Hooded seal - average adult length of male = 8.5 feet and female = 6.6 feet. In a primary enclosure containing 2 males and 2 females, the social or DRA required would be the sum of \[(8.5) 2 × 1.5\] + \[(8.5) 2 × 1.4\] + \[(6.6) 2 × 1.3\] + \[(6.6) 2 × 1.2\]. If two or more sexually mature males are maintained together in a primary enclosure, the dry resting or social activity area shall be divided into two or more separate areas with sufficient visual barriers (such as fences, rocks, or foliage) to provide relief from aggressive animals.
+If two or more sexually mature males are maintained together in a primary enclosure, the dry resting or social activity area shall be divided into two or more separate areas with sufficient visual barriers (such as fences, rocks, or foliage) to provide relief from aggressive animals.
 
 (iii) *Mixture of Group I and Group II pinnipeds.* In a primary enclosure where a mixture of Group I and Group II pinnipeds is to be housed, the dry resting or social activity area shall be calculated as for Group II pinnipeds. The dry resting or social activity area shall be divided into two or more separate areas with sufficient visual barriers (such as fences, rocks, or foliage) to provide relief from aggressive animals.
 
@@ -239,8 +226,7 @@ If all the pinnipeds in the primary enclosure are of the same species, the same 
 
 (3) The minimum dry resting area required for one or two sea otters shall be based on the sea otter's average adult length. The minimum dry resting area for one or two sea otters shall be computed using the following method: Square the average adult length of the sea otter and multiply the total by 3.14. When the enclosure is to contain more than two sea otters, the dry resting area for each additional animal shall be computed by multiplying one-half of the sea otter's average adult length by 3.14. Using 1.25 meters or 4.1 feet (the average adult length of a sea otter), the calculations for additional space will result in the following figures:
 
-Table V - Additional Space Required for Each Sea Otter When More Than Two in a Primary Enclosure
-
+Table V—Additional Space Required for Each Sea Otter When More Than Two in a Primary Enclosure
 | Average adult length of sea otter | Resting area | Pool Volume |
 | --------------------------------- | ------------ | ----------- |
 | 1.25                              | 4.1          | 1.96        |

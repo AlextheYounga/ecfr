@@ -1,6 +1,6 @@
 ##### § 98.3 General conditions.
 
-Except as provided in subpart B of this part, an animal embryo shall not be imported into the United States unless it is from a region listed under § 94.1(a) of this chapter as being free of rinderpest and foot-and-mouth disease, and:
+Except as provided in subpart B of this part, an animal embryo shall not be imported into the United States unless it is from a region listed under § 94.1(a) of this chapter as being free of foot-and-mouth disease, and:
 
 (a) The embryo is exported to the United States from the region in which it was conceived;
 
@@ -20,4 +20,4 @@ Except as provided in subpart B of this part, an animal embryo shall not be impo
 
 (i) The embryo is contained in a shipping container which at the time of offer for entry is sealed with an official seal which was affixed to the shipping container by a full-time salaried veterinarian of the national animal health service of the region of origin or by a veterinarian authorized to do so by the national animal health service of the region of origin.
 
-\[50 FR 43563, Oct. 25, 1985, as amended at 55 FR 31558, Aug. 2, 1990; 56 FR 55809, Oct. 30, 1991; 57 FR 29194, July 1, 1992; 62 FR 56025, Oct. 28, 1997; 77 FR 1396, Jan. 10, 2012\]
+\[50 FR 43563, Oct. 25, 1985, as amended at 55 FR 31558, Aug. 2, 1990; 56 FR 55809, Oct. 30, 1991; 57 FR 29194, July 1, 1992; 62 FR 56025, Oct. 28, 1997; 77 FR 1396, Jan. 10, 2012; 83 FR 15494, Apr. 11, 2018\]

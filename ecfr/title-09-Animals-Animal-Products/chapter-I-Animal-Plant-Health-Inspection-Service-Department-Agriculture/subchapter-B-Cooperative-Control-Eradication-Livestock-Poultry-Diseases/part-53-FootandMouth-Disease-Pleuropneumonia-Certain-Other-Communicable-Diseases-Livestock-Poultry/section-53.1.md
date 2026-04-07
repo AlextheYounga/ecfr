@@ -14,7 +14,7 @@
 
 *Department.* The United States Department of Agriculture.
 
-*Disease.* Foot-and-mouth disease, rinderpest, contagious pleuropneumonia, Newcastle disease, highly pathogenic avian influenza, infectious salmon anemia, spring viremia of carp, or any other communicable disease of livestock or poultry that in the opinion of the Secretary constitutes an emergency and threatens the livestock or poultry of the United States.
+*Disease.* Foot-and-mouth disease, contagious pleuropneumonia, Newcastle disease, highly pathogenic avian influenza, infectious salmon anemia, spring viremia of carp, or any other communicable disease of livestock or poultry that in the opinion of the Secretary constitutes an emergency and threatens the livestock or poultry of the United States.
 
 *Highly pathogenic avian influenza.* (1) Any influenza virus that kills at least 75 percent of eight 4- to 6-week-old susceptible chickens within 10 days following intravenous inoculation with 0.2 ml of a 1:10 dilution of a bacteria-free, infectious allantoic fluid;
 
@@ -42,4 +42,4 @@
 
 *State.* Each of the States of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands of the United States, or any other territory or possession of the United States.
 
-\[61 FR 56882, Nov. 5, 1996, as amended at 67 FR 17610, Apr. 11, 2002; 69 FR 27827, May 17, 2004; 74 FR 18287, Apr. 22, 2009; 78 FR 19082, Mar. 29, 2013\]
+\[61 FR 56882, Nov. 5, 1996, as amended at 67 FR 17610, Apr. 11, 2002; 69 FR 27827, May 17, 2004; 74 FR 18287, Apr. 22, 2009; 78 FR 19082, Mar. 29, 2013; 83 FR 15492, Apr. 11, 2018\]
