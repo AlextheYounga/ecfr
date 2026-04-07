@@ -1,5 +1,7 @@
 ##### § 199.620 Alternatives for all vessels in a specified service.
 
+Link to an amendment published at 89 FR 97402, Dec. 6, 2024.
+
 (a) *General.* Vessels operating in oceans; coastwise; Great Lakes; lakes, bays, and sounds; and rivers service may comply with alternative requirements to subparts A through E of this part as described in this section for the services specified in table 199.620(a) of this section. 
 
 Table 199.620(a)—Alternative Requirements for All Vessels in a Specified Service
