@@ -2,7 +2,7 @@
 
 (a) Participants in supplemental youth services activities must be Native Americans, as determined by the INA grantee according to § 668.300(a), and must meet the definition of Eligible Youth, as defined in WIA section 101(13).
 
-(b)Youth participants must be low-income individuals, except that not more than five percent (5%) who do not meet the minimum income criteria, may be considered eligible youth if they meet one or more of the following categories:
+(b) Youth participants must be low-income individuals, except that not more than five percent (5%) who do not meet the minimum income criteria, may be considered eligible youth if they meet one or more of the following categories:
 
 (1) School dropouts;
 
