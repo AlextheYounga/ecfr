@@ -1,5 +1,7 @@
 ##### § 9.20 Traumatic injury protection.
 
+Link to an amendment published at 88 FR 15910, Mar. 15, 2023.
+
 (a) *What is traumatic injury protection?* Traumatic injury protection provides for the payment of a specified benefit amount to a member insured by Servicemembers' Group Life Insurance who sustains a traumatic injury directly resulting in a scheduled loss.
 
 (b) *What is a traumatic event?* (1) A traumatic event is the application of external force, violence, chemical, biological, or radiological weapons, or accidental ingestion of a contaminated substance causing damage to a living being occurring on or after October 7, 2001.
@@ -8,7 +10,7 @@
 
 (c) *What is a traumatic injury?* (1) A traumatic injury is physical damage to a living body that is caused by a traumatic event as defined in paragraph (b) of this section.
 
-(2) For purposes of this section, the term “traumatic injury” does not include damage to a living body caused by -
+(2) For purposes of this section, the term “traumatic injury” does not include damage to a living body caused by—
 
 (i) A mental disorder; or
 
@@ -32,9 +34,9 @@
 
 (2) The maximum amount payable under the schedule for all losses resulting from traumatic events occurring within a seven-day period is $100,000. We will calculate the seven-day period beginning with the day on which the first traumatic event occurs.
 
-(3) A benefit will not be paid if a scheduled loss is due to a traumatic injury -
+(3) A benefit will not be paid if a scheduled loss is due to a traumatic injury—
 
-(i) Caused by -
+(i) Caused by—
 
 (A) The member's attempted suicide, while sane or insane;
 
@@ -46,7 +48,7 @@
 
 (ii) Sustained while a member was committing or attempting to commit a felony.
 
-(4) A benefit will not be paid for a scheduled loss resulting from -
+(4) A benefit will not be paid for a scheduled loss resulting from—
 
 (i) A physical or mental illness or disease, whether or not caused by a traumatic injury, other than a pyogenic infection or physical illness or disease caused by biological, chemical, or radiological weapons or accidental ingestion of a contaminated substance; or
 
@@ -56,7 +58,7 @@
 
 (ii) If a member suffers more than one scheduled loss from separate traumatic events occurring more than seven full days apart, the scheduled losses will be considered separately and a benefit will be paid for each loss up to the maximum amount according to the schedule. For example, if a member suffers the loss of one foot at or above the ankle on May 1, 2006, from one event, the member will be paid $50,000. If the same member suffers loss of sight in both eyes from an event that occurred on November 1, 2006, the member will be paid an additional $100,000.
 
-(6) *Definitions.* For purposes of this paragraph (e)(6) -
+(6) *Definitions.* For purposes of this paragraph (e)(6)—
 
 (i) The term *quadriplegia* means the complete and irreversible paralysis of all four limbs.
 
@@ -148,12 +150,12 @@
 
 For losses listed in paragraphs (f)(1) through (19) of this section, multiple losses resulting from a single traumatic event may be combined for purposes of a single payment (except where noted otherwise); however, the total payment amount may not exceed $100,000 for losses resulting from a single traumatic event. 
 
-Payments for losses listed in paragraphs (f)(20) through (21) of this section may not be made in addition to payments for losses under paragraphs (f)(1) through (19) - only the higher amount will be paid. The total payment amount may not exceed $100,000 for losses resulting from a single traumatic event. 
+Payments for losses listed in paragraphs (f)(20) through (21) of this section may not be made in addition to payments for losses under paragraphs (f)(1) through (19)—only the higher amount will be paid. The total payment amount may not exceed $100,000 for losses resulting from a single traumatic event. 
 
-If the loss is - 
+If the loss is—
 
 Then the amount  
-payable for the loss is - 
+payable for the loss is— 
 
 (1) Total and permanent loss of sight: 
 
@@ -255,33 +257,33 @@ $50,000
 
 (16) Facial Reconstruction: 
 
-• Jaw - surgery to correct discontinuity loss of the upper or lower jaw
+• Jaw—surgery to correct discontinuity loss of the upper or lower jaw
 
 $75,000 
 
-• Nose - surgery to correct discontinuity loss of 50% or more of the cartilaginous nose
+• Nose—surgery to correct discontinuity loss of 50% or more of the cartilaginous nose
 
 $50,000 
 
-• Lips - surgery to correct discontinuity loss of 50% or more of the upper or lower lip 
+• Lips—surgery to correct discontinuity loss of 50% or more of the upper or lower lip 
 
-- For one lip
+—For one lip
 
 $50,000 
 
-- For both lips
+—For both lips
 
 $75,000 
 
-• Eyes - surgery to correct discontinuity loss of 30% or more of the periorbita. 
+• Eyes—surgery to correct discontinuity loss of 30% or more of the periorbita. 
 
-- For each eye
+—For each eye
 
 $25,000 
 
-• Facial Tissue - surgery to correct discontinuity loss of the tissue in 50% or more of any of the following facial subunits: forehead, temple, zygomatic, mandibular, infraorbital or chin. 
+• Facial Tissue—surgery to correct discontinuity loss of the tissue in 50% or more of any of the following facial subunits: forehead, temple, zygomatic, mandibular, infraorbital or chin. 
 
-- For each facial subunit
+—For each facial subunit
 
 $25,000 
 
