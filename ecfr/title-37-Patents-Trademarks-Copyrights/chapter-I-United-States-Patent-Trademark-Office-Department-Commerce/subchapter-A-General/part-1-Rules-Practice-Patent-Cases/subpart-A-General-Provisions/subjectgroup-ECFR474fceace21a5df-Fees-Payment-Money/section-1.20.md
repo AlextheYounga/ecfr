@@ -1,5 +1,7 @@
 ##### § 1.20 Post issuance fees.
 
+Link to an amendment published at 85 FR 46988, Aug. 3, 2020.
+
 (a) For providing a certificate of correction for applicant's mistake (§ 1.323)
 
 $150.00 
