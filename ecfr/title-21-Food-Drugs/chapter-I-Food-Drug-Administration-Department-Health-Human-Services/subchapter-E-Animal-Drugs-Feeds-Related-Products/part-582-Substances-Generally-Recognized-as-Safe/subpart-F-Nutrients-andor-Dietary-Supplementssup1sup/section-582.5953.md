@@ -1,4 +1,4 @@
-##### § 582.5953 Vitamin D2.
+##### § 582.5953 Vitamin D3.
 
 (a) *Product.* Vitamin D3.
 

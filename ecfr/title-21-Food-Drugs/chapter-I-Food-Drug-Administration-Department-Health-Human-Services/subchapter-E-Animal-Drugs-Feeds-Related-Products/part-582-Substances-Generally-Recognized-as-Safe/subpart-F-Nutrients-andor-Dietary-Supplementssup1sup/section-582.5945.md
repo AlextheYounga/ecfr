@@ -1,4 +1,4 @@
-##### § 582.5945 Vitamin B2.
+##### § 582.5945 Vitamin B12.
 
 (a) *Product.* Vitamin B12.
 
