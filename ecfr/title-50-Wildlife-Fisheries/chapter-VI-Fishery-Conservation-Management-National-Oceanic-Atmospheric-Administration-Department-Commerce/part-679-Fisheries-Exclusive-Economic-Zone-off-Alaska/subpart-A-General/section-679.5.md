@@ -1,6 +1,6 @@
 ##### § 679.5 Recordkeeping and reporting (R&R).
 
-Link to an amendment published at 89 FR 60808, July 29, 2024.Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
+Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
 
 (a) *General R&R requirements.* R&R requirements include, but are not limited to, paper and electronic documentation, logbooks, forms, reports, receipts, computer printouts, and requests for inspection described in this section and in § 679.28.
 
@@ -19,6 +19,7 @@ Link to an amendment published at 89 FR 60808, July 29, 2024.Link to an amendmen
 | (E) Open access (OA)                                 | \[for recording in eLandings only\] | paragraph (e) of this section     |
 | (F) Rockfish Program                                 | Cooperative number                  | subpart H to this part.           |
 | (G) PCTC Program                                     | Cooperative number                  | subpart L to this part.           |
+| (H) Trawl EM Category (TEM)                          | Management program modifier as TEM  | § 679.51.                         |
 
 (2) *Responsibility.* (i) The operator of a catcher vessel, catcher/processor, mothership, or tender vessel (hereafter referred to as the operator) and the manager of a shoreside processor, SFP, or buying station (hereafter referred to as the manager) are each responsible for complying with the applicable R&R requirements in this section and in § 679.28.
 
@@ -38,7 +39,13 @@ Link to an amendment published at 89 FR 60808, July 29, 2024.Link to an amendmen
 
 (iv) Transfer information, including fish transferred out of the facility or off the vessel.
 
-(4) *Exemptions*—(i) *Catcher vessels less than 60 ft (18.3 m) LOA.* Except for vessels using pot gear as described in paragraph (c)(3)(i)(B)(*1*) of this section or vessels participating in the PCTC Program as described in paragraph (x) of this section, the owner and operator of a catcher vessel less than 60 ft (18.3 m) LOA are not required to comply with the R&R requirements of this section, but must comply with the vessel activity report described at paragraph (k) of this section.
+(4) *Exemptions*—(i) *Catcher vessels less than 60 ft (18.3 m) LOA.* The owner and operator of a catcher vessel less than 60 ft (18.3 m) LOA are required to comply with the vessel activity report described at paragraph (k) of this section, but otherwise are not required to comply with the R&R requirements of this section, except for:
+
+(A) Vessels using pot gear as described in paragraph (c)(3)(i)(B)(*1*) of this section;
+
+(B) Vessels participating in the PCTC Program as described in paragraph (x) of this section; and
+
+(C) Catcher vessels in the trawl EM category as described in § 679.51(g).
 
 (ii) *Catcher vessels that take groundfish in crab pot gear for use as crab bait on that vessel.* (A) Owners or operators of catcher vessels who, when crab is open anywhere or in the same area as an open crab season, take groundfish in crab pot gear for use as crab bait onboard their same vessels, and the bait is neither transferred nor sold, are not required to comply with R&R requirements of this section.
 
