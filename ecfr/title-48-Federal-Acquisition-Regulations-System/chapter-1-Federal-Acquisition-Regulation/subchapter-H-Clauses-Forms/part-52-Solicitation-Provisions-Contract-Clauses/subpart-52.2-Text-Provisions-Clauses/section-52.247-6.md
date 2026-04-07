@@ -1,6 +1,6 @@
 ##### 52.247-6 Financial Statement.
 
-As prescribed in 47.207-1(e), insert the following provision in solicitations for transportation or for transportation-related services to ensure that offerors are prepared to furnish financial statements: 
+As prescribed in 47.207-1(e), insert the following provision in solicitations for transportation or for transportation-related services to ensure that offerors are prepared to furnish financial statements:
 
 Financial Statement (APR 1984)
 

@@ -1,6 +1,6 @@
 ##### 52.229-1 State and Local Taxes.
 
-As prescribed in 29.401-1, insert the following clause: 
+As prescribed in 29.401-1, insert the following clause:
 
 State and Local Taxes (APR 1984)
 

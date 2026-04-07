@@ -1,6 +1,6 @@
 ##### 52.214-22 Evaluation of Bids for Multiple Awards.
 
-As prescribed in 14.201-6(q), insert the following provision: 
+As prescribed in 14.201-6(q), insert the following provision:
 
 Evaluation of Bids for Multiple Awards (MAR 1990)
 

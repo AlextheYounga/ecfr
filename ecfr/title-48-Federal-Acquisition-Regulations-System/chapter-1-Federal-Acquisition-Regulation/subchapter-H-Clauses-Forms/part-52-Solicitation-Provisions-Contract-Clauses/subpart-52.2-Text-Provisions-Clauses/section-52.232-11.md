@@ -1,6 +1,6 @@
 ##### 52.232-11 Extras.
 
-As prescribed in 32.111(c)(2), insert the following clause, appropriately modified with respect to payment due dates in accordance with agency regulations, in solicitations and contracts when a fixed-price supply contract, fixed-price service contract, or transportation contract is contemplated: 
+As prescribed in 32.111(c)(2), insert the following clause, appropriately modified with respect to payment due dates in accordance with agency regulations, in solicitations and contracts when a fixed-price supply contract, fixed-price service contract, or transportation contract is contemplated:
 
 Extras (APR 1984)
 

@@ -1,6 +1,6 @@
 ##### 52.241-2 Order of Precedence—Utilities.
 
-As prescribed in 41.501(c)(1), insert a clause substantially the same as the following: 
+As prescribed in 41.501(c)(1), insert a clause substantially the same as the following:
 
 Order of Precedence—Utilities (FEB 1995)
 

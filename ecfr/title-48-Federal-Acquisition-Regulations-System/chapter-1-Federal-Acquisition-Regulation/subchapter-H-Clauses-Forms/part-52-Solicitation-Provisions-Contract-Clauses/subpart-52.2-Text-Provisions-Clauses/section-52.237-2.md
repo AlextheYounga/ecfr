@@ -1,6 +1,6 @@
 ##### 52.237-2 Protection of Government Buildings, Equipment, and Vegetation.
 
-As prescribed in 37.110(b), insert the following clause in solicitations and contracts for services to be performed on Government installations, unless a construction contract is contemplated: 
+As prescribed in 37.110(b), insert the following clause in solicitations and contracts for services to be performed on Government installations, unless a construction contract is contemplated:
 
 Protection of Government Buildings, Equipment, and Vegetation (APR 1984)
 

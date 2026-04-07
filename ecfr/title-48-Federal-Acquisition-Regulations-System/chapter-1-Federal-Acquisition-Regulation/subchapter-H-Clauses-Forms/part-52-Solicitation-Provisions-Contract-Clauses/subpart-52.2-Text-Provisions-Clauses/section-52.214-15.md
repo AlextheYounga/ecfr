@@ -1,6 +1,6 @@
 ##### 52.214-15 Period for Acceptance of Bids.
 
-As prescribed in 14.201-6(i), insert the following provision: 
+As prescribed in 14.201-6(i), insert the following provision:
 
 Period for Acceptance of Bids (APR 1984)
 

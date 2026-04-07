@@ -1,6 +1,6 @@
 ##### 52.247-8 Estimated Weights or Quantities Not Guaranteed.
 
-As prescribed in 47.207-3(e)(2), insert the following clause in solicitations and contracts for transportation or for transportation-related services when weights or quantities are estimates: 
+As prescribed in 47.207-3(e)(2), insert the following clause in solicitations and contracts for transportation or for transportation-related services when weights or quantities are estimates:
 
 Estimated Weights or Quantities Not Guaranteed (APR 1984)
 

@@ -1,6 +1,6 @@
 ##### 52.217-4 Evaluation of Option Exercised at Time of Contract Award.
 
-As prescribed in 17.208(b), insert a provision substantially the same as the following: 
+As prescribed in 17.208(b), insert a provision substantially the same as the following:
 
 Evaluation of Options Exercised at Time of Contract Award (JUN 1988)
 

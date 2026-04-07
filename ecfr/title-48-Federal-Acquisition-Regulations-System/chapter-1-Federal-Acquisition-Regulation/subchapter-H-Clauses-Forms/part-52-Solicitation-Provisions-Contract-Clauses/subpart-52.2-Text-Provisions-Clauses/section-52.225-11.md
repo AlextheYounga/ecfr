@@ -1,152 +1,152 @@
 ##### 52.225-11 Buy American—Construction Materials Under Trade Agreements.
 
-As prescribed in 25.1102(c), insert the following clause: 
+As prescribed in 25.1102(c), insert the following clause:
 
 Buy American—Construction Materials Under Trade Agreements (NOV 2023)
 
-(a) *Definitions.* As used in this clause— 
+(a) *Definitions.* As used in this clause—
 
-*Caribbean Basin country construction material* means a construction material that— 
+*Caribbean Basin country construction material* means a construction material that—
 
-(1) Is wholly the growth, product, or manufacture of a Caribbean Basin country; or 
+(1) Is wholly the growth, product, or manufacture of a Caribbean Basin country; or
 
-(2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a Caribbean Basin country into a new and different construction material distinct from the materials from which it was transformed. 
+(2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a Caribbean Basin country into a new and different construction material distinct from the materials from which it was transformed.
 
-*Commercially available off-the-shelf (COTS) item*—(1) Means any item of supply (including construction material) that is— 
+*Commercially available off-the-shelf (COTS) item*—(1) Means any item of supply (including construction material) that is—
 
-(i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” at Federal Acquisition Regulation (FAR) 2.101; 
+(i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” at Federal Acquisition Regulation (FAR) 2.101;
 
-(ii) Sold in substantial quantities in the commercial marketplace; and 
+(ii) Sold in substantial quantities in the commercial marketplace; and
 
-(iii) Offered to the Government, under a contract or subcontract at any tier, without modification, in the same form in which it is sold in the commercial marketplace; and 
+(iii) Offered to the Government, under a contract or subcontract at any tier, without modification, in the same form in which it is sold in the commercial marketplace; and
 
-(2) Does not include bulk cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products and petroleum products. 
+(2) Does not include bulk cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products and petroleum products.
 
-*Component* means an article, material, or supply incorporated directly into a construction material. 
+*Component* means an article, material, or supply incorporated directly into a construction material.
 
-*Construction material* means an article, material, or supply brought to the construction site by the Contractor or subcontractor for incorporation into the building or work. The term also includes an item brought to the site preassembled from articles, materials, or supplies. However, emergency life safety systems, such as emergency lighting, fire alarm, and audio evacuation systems, that are discrete systems incorporated into a public building or work and that are produced as complete systems, are evaluated as a single and distinct construction material regardless of when or how the individual parts or components of those systems are delivered to the construction site. Materials purchased directly by the Government are supplies, not construction material. 
+*Construction material* means an article, material, or supply brought to the construction site by the Contractor or subcontractor for incorporation into the building or work. The term also includes an item brought to the site preassembled from articles, materials, or supplies. However, emergency life safety systems, such as emergency lighting, fire alarm, and audio evacuation systems, that are discrete systems incorporated into a public building or work and that are produced as complete systems, are evaluated as a single and distinct construction material regardless of when or how the individual parts or components of those systems are delivered to the construction site. Materials purchased directly by the Government are supplies, not construction material.
 
-*Cost of components* means— 
+*Cost of components* means—
 
-(1) For components purchased by the Contractor, the acquisition cost, including transportation costs to the place of incorporation into the construction material (whether or not such costs are paid to a domestic firm), and any applicable duty (whether or not a duty-free entry certificate is issued); or 
+(1) For components purchased by the Contractor, the acquisition cost, including transportation costs to the place of incorporation into the construction material (whether or not such costs are paid to a domestic firm), and any applicable duty (whether or not a duty-free entry certificate is issued); or
 
-(2) For components manufactured by the Contractor, all costs associated with the manufacture of the component, including transportation costs as described in paragraph (1) of this definition, plus allocable overhead costs, but excluding profit. Cost of components does not include any costs associated with the manufacture of the construction material. 
+(2) For components manufactured by the Contractor, all costs associated with the manufacture of the component, including transportation costs as described in paragraph (1) of this definition, plus allocable overhead costs, but excluding profit. Cost of components does not include any costs associated with the manufacture of the construction material.
 
-*Critical component* means a component that is mined, produced, or manufactured in the United States and deemed critical to the U.S. supply chain. The list of critical components is at FAR 25.105. 
+*Critical component* means a component that is mined, produced, or manufactured in the United States and deemed critical to the U.S. supply chain. The list of critical components is at FAR 25.105.
 
-*Critical item* means a domestic construction material or domestic end product that is deemed critical to U.S. supply chain resiliency. The list of critical items is at FAR 25.105. 
+*Critical item* means a domestic construction material or domestic end product that is deemed critical to U.S. supply chain resiliency. The list of critical items is at FAR 25.105.
 
-*Designated country* means any of the following countries: 
+*Designated country* means any of the following countries:
 
-(1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, North Macedonia, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom); 
+(1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, North Macedonia, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
 
-(2) A Free Trade Agreement (FTA) country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore); 
+(2) A Free Trade Agreement (FTA) country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);
 
-(3) A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan,Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia); or 
+(3) A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan,Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia); or
 
-(4) A Caribbean Basin country ((Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, Bonaire, British Virgin Islands, Curacao, Dominica, Grenada, Guyana, Haiti, Jamaica, Montserrat, Saba, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sint Eustatius, Sint Maarten, or Trinidad and Tobago). 
+(4) A Caribbean Basin country ((Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, Bonaire, British Virgin Islands, Curacao, Dominica, Grenada, Guyana, Haiti, Jamaica, Montserrat, Saba, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sint Eustatius, Sint Maarten, or Trinidad and Tobago).
 
-*Designated country construction material* means a construction material that is a WTO GPA country construction material, an FTA country construction material, a least developed country construction material, or a Caribbean Basin country construction material. 
+*Designated country construction material* means a construction material that is a WTO GPA country construction material, an FTA country construction material, a least developed country construction material, or a Caribbean Basin country construction material.
 
-*Domestic construction material* means— 
+*Domestic construction material* means—
 
-(1) For construction material that does not consist wholly or predominantly of iron or steel or a combination of both— 
+(1) For construction material that does not consist wholly or predominantly of iron or steel or a combination of both—
 
-(i) An unmanufactured construction material mined or produced in the United States; or 
+(i) An unmanufactured construction material mined or produced in the United States; or
 
-(ii) A construction material manufactured in the United States, if— 
+(ii) A construction material manufactured in the United States, if—
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or 
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
 
-(B) The construction material is a COTS item; or 
+(B) The construction material is a COTS item; or
 
-(2) For construction material that consists wholly or predominantly of iron or steel or a combination of both, a construction material manufactured in the United States if the cost of foreign iron and steel constitutes less than 5 percent of the cost of all components used in such construction material. The cost of foreign iron and steel includes but is not limited to the cost of foreign iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the construction material and a good faith estimate of the cost of all foreign iron or steel components excluding COTS fasteners. Iron or steel components of unknown origin are treated as foreign. If the construction material contains multiple components, the cost of all the materials used in such construction material is calculated in accordance with the definition of “cost of components”. 
+(2) For construction material that consists wholly or predominantly of iron or steel or a combination of both, a construction material manufactured in the United States if the cost of foreign iron and steel constitutes less than 5 percent of the cost of all components used in such construction material. The cost of foreign iron and steel includes but is not limited to the cost of foreign iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the construction material and a good faith estimate of the cost of all foreign iron or steel components excluding COTS fasteners. Iron or steel components of unknown origin are treated as foreign. If the construction material contains multiple components, the cost of all the materials used in such construction material is calculated in accordance with the definition of “cost of components”.
 
-*Fastener* means a hardware device that mechanically joins or affixes two or more objects together. Examples of fasteners are nuts, bolts, pins, rivets, nails, clips, and screws. 
+*Fastener* means a hardware device that mechanically joins or affixes two or more objects together. Examples of fasteners are nuts, bolts, pins, rivets, nails, clips, and screws.
 
-*Foreign construction material* means a construction material other than a domestic construction material. 
+*Foreign construction material* means a construction material other than a domestic construction material.
 
-*Foreign iron and steel* means iron or steel products not produced in the United States. Produced in the United States means that all manufacturing processes of the iron or steel must take place in the United States, from the initial melting stage through the application of coatings, except metallurgical processes involving refinement of steel additives. The origin of the elements of the iron or steel is not relevant to the determination of whether it is domestic or foreign. 
+*Foreign iron and steel* means iron or steel products not produced in the United States. Produced in the United States means that all manufacturing processes of the iron or steel must take place in the United States, from the initial melting stage through the application of coatings, except metallurgical processes involving refinement of steel additives. The origin of the elements of the iron or steel is not relevant to the determination of whether it is domestic or foreign.
 
-*Free Trade Agreement country construction material* means a construction material that— 
+*Free Trade Agreement country construction material* means a construction material that—
 
-(1) Is wholly the growth, product, or manufacture of a Free Trade Agreement (FTA) country; or 
+(1) Is wholly the growth, product, or manufacture of a Free Trade Agreement (FTA) country; or
 
-(2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a FTA country into a new and different construction material distinct from the materials from which it was transformed. 
+(2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a FTA country into a new and different construction material distinct from the materials from which it was transformed.
 
-*Least developed country construction material* means a construction material that— 
+*Least developed country construction material* means a construction material that—
 
-(1) Is wholly the growth, product, or manufacture of a least developed country; or 
+(1) Is wholly the growth, product, or manufacture of a least developed country; or
 
-(2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a least developed country into a new and different construction material distinct from the materials from which it was transformed. 
+(2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a least developed country into a new and different construction material distinct from the materials from which it was transformed.
 
-*Predominantly of iron or steel or a combination of both* means that the cost of the iron and steel content exceeds 50 percent of the total cost of all its components. The cost of iron and steel is the cost of the iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the product and a good faith estimate of the cost of iron or steel components excluding COTS fasteners. 
+*Predominantly of iron or steel or a combination of both* means that the cost of the iron and steel content exceeds 50 percent of the total cost of all its components. The cost of iron and steel is the cost of the iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the product and a good faith estimate of the cost of iron or steel components excluding COTS fasteners.
 
-*Steel* means an alloy that includes at least 50 percent iron, between 0.02 and 2 percent carbon, and may include other elements. 
+*Steel* means an alloy that includes at least 50 percent iron, between 0.02 and 2 percent carbon, and may include other elements.
 
-*United States* means the 50 States, the District of Columbia, and outlying areas. 
+*United States* means the 50 States, the District of Columbia, and outlying areas.
 
-*WTO GPA country construction material* means a construction material that— 
+*WTO GPA country construction material* means a construction material that—
 
-(1) Is wholly the growth, product, or manufacture of a WTO GPA country; or 
+(1) Is wholly the growth, product, or manufacture of a WTO GPA country; or
 
-(2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a WTO GPA country into a new and different construction material distinct from the materials from which it was transformed. 
+(2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a WTO GPA country into a new and different construction material distinct from the materials from which it was transformed.
 
-(b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for construction material that is a COTS item, except that for construction material that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the construction material, excluding COTS fasteners. (See FAR 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and Free Trade Agreements (FTAs) apply to this acquisition. Therefore, the Buy American restrictions are waived for designated country construction materials. 
+(b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for construction material that is a COTS item, except that for construction material that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the construction material, excluding COTS fasteners. (See FAR 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and Free Trade Agreements (FTAs) apply to this acquisition. Therefore, the Buy American restrictions are waived for designated country construction materials.
 
-(2) The Contractor shall use only domestic or designated country construction material in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause. 
+(2) The Contractor shall use only domestic or designated country construction material in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.
 
-(3) The requirement in paragraph (b)(2) of this clause does not apply to information technology that is a commercial product or to the construction materials or components listed by the Government as follows: 
+(3) The requirement in paragraph (b)(2) of this clause does not apply to information technology that is a commercial product or to the construction materials or components listed by the Government as follows:
 
-\[Contracting Officer is to list applicable excepted materials or indicate “none”\] 
+\[Contracting Officer is to list applicable excepted materials or indicate “none”\]
 
-(4) The Contracting Officer may add other foreign construction material to the list in paragraph (b)(3) of this clause if the Government determines that— 
+(4) The Contracting Officer may add other foreign construction material to the list in paragraph (b)(3) of this clause if the Government determines that—
 
-(i) The cost of domestic construction material would be unreasonable. 
+(i) The cost of domestic construction material would be unreasonable.
 
-(A) *For domestic construction material that is not a critical item or does not contain critical components.* (*1*) The cost of a particular domestic construction material subject to the restrictions of the Buy American statute is unreasonable when the cost of such material exceeds the cost of foreign material by more than 20 percent; 
+(A) *For domestic construction material that is not a critical item or does not contain critical components.* (*1*) The cost of a particular domestic construction material subject to the restrictions of the Buy American statute is unreasonable when the cost of such material exceeds the cost of foreign material by more than 20 percent;
 
-(*2*) For construction material that is not a COTS item and does not consist wholly or predominantly of iron or steel or a combination of both, if the cost of a particular domestic construction material is determined to be unreasonable or there is no domestic offer received, and the low offer is for foreign construction material that does not exceed 55 percent domestic content, the Contracting Officer will treat the lowest offer of foreign construction material that is manufactured in the United States and exceeds 55 percent domestic content as a domestic offer and determine whether the cost of that offer is unreasonable by applying the evaluation factor listed in paragraph (b)(4)(i)(A)(*1*) of this clause. 
+(*2*) For construction material that is not a COTS item and does not consist wholly or predominantly of iron or steel or a combination of both, if the cost of a particular domestic construction material is determined to be unreasonable or there is no domestic offer received, and the low offer is for foreign construction material that does not exceed 55 percent domestic content, the Contracting Officer will treat the lowest offer of foreign construction material that is manufactured in the United States and exceeds 55 percent domestic content as a domestic offer and determine whether the cost of that offer is unreasonable by applying the evaluation factor listed in paragraph (b)(4)(i)(A)(*1*) of this clause.
 
-(*3*) The procedures in paragraph (b)(4)(i)(A)(*2*) of this clause will no longer apply as of January 1, 2030. 
+(*3*) The procedures in paragraph (b)(4)(i)(A)(*2*) of this clause will no longer apply as of January 1, 2030.
 
-(B) *For domestic construction material that is a critical item or contains critical components.* (*1*) The cost of a particular domestic construction material that is a critical item or contains critical components, subject to the requirements of the Buy American statute, is unreasonable when the cost of such material exceeds the cost of foreign material by more than 20 percent plus the additional preference factor identified for the critical item or construction material containing critical components listed at FAR 25.105. 
+(B) *For domestic construction material that is a critical item or contains critical components.* (*1*) The cost of a particular domestic construction material that is a critical item or contains critical components, subject to the requirements of the Buy American statute, is unreasonable when the cost of such material exceeds the cost of foreign material by more than 20 percent plus the additional preference factor identified for the critical item or construction material containing critical components listed at FAR 25.105.
 
-(*2*) For construction material that does not consist wholly or predominantly of iron or steel or a combination of both, if the cost of a particular domestic construction material is determined to be unreasonable or there is no domestic offer received, and the low offer is for foreign construction material that does not exceed 55 percent domestic content, the Contracting Officer will treat the lowest offer of foreign construction material that is manufactured in the United States and exceeds 55 percent domestic content as a domestic offer, and determine whether the cost of that offer is unreasonable by applying the evaluation factor listed in paragraph (b)(4)(i)(B)(*1*) of this clause. 
+(*2*) For construction material that does not consist wholly or predominantly of iron or steel or a combination of both, if the cost of a particular domestic construction material is determined to be unreasonable or there is no domestic offer received, and the low offer is for foreign construction material that does not exceed 55 percent domestic content, the Contracting Officer will treat the lowest offer of foreign construction material that is manufactured in the United States and exceeds 55 percent domestic content as a domestic offer, and determine whether the cost of that offer is unreasonable by applying the evaluation factor listed in paragraph (b)(4)(i)(B)(*1*) of this clause.
 
-(*3*) The procedures in paragraph (b)(4)(i)(B)(*2*) of this clause will no longer apply as of January 1, 2030. 
+(*3*) The procedures in paragraph (b)(4)(i)(B)(*2*) of this clause will no longer apply as of January 1, 2030.
 
-(ii) The application of the restriction of the Buy American statute to a particular construction material would be impracticable or inconsistent with the public interest; or 
+(ii) The application of the restriction of the Buy American statute to a particular construction material would be impracticable or inconsistent with the public interest; or
 
-(iii) The construction material is not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities of a satisfactory quality. 
+(iii) The construction material is not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities of a satisfactory quality.
 
-(c) *Request for determination of inapplicability of the Buy American statute.* (1)(i) Any Contractor request to use foreign construction material in accordance with paragraph (b)(4) of this clause shall include adequate information for Government evaluation of the request, including— 
+(c) *Request for determination of inapplicability of the Buy American statute.* (1)(i) Any Contractor request to use foreign construction material in accordance with paragraph (b)(4) of this clause shall include adequate information for Government evaluation of the request, including—
 
-(A) A description of the foreign and domestic construction materials; 
+(A) A description of the foreign and domestic construction materials;
 
-(B) Unit of measure; 
+(B) Unit of measure;
 
-(C) Quantity; 
+(C) Quantity;
 
-(D) Price; 
+(D) Price;
 
-(E) Time of delivery or availability; 
+(E) Time of delivery or availability;
 
-(F) Location of the construction project; 
+(F) Location of the construction project;
 
-(G) Name and address of the proposed supplier; and 
+(G) Name and address of the proposed supplier; and
 
-(H) A detailed justification of the reason for use of foreign construction materials cited in accordance with paragraph (b)(3) of this clause. 
+(H) A detailed justification of the reason for use of foreign construction materials cited in accordance with paragraph (b)(3) of this clause.
 
-(ii) A request based on unreasonable cost shall include a reasonable survey of the market and a completed price comparison table in the format in paragraph (d) of this clause. 
+(ii) A request based on unreasonable cost shall include a reasonable survey of the market and a completed price comparison table in the format in paragraph (d) of this clause.
 
-(iii) The price of construction material shall include all delivery costs to the construction site and any applicable duty (whether or not a duty-free certificate may be issued). 
+(iii) The price of construction material shall include all delivery costs to the construction site and any applicable duty (whether or not a duty-free certificate may be issued).
 
-(iv) Any Contractor request for a determination submitted after contract award shall explain why the Contractor could not reasonably foresee the need for such determination and could not have requested the determination before contract award. If the Contractor does not submit a satisfactory explanation, the Contracting Officer need not make a determination. 
+(iv) Any Contractor request for a determination submitted after contract award shall explain why the Contractor could not reasonably foresee the need for such determination and could not have requested the determination before contract award. If the Contractor does not submit a satisfactory explanation, the Contracting Officer need not make a determination.
 
-(2) If the Government determines after contract award that an exception to the Buy American statute applies and the Contracting Officer and the Contractor negotiate adequate consideration, the Contracting Officer will modify the contract to allow use of the foreign construction material. However, when the basis for the exception is the unreasonable price of a domestic construction material, adequate consideration is not less than the differential established in paragraph (b)(4)(i) of this clause. 
+(2) If the Government determines after contract award that an exception to the Buy American statute applies and the Contracting Officer and the Contractor negotiate adequate consideration, the Contracting Officer will modify the contract to allow use of the foreign construction material. However, when the basis for the exception is the unreasonable price of a domestic construction material, adequate consideration is not less than the differential established in paragraph (b)(4)(i) of this clause.
 
-(3) Unless the Government determines that an exception to the Buy American statute applies, use of foreign construction material is noncompliant with the Buy Americanstatute. 
+(3) Unless the Government determines that an exception to the Buy American statute applies, use of foreign construction material is noncompliant with the Buy Americanstatute.
 
 (d) *Data.* To permit evaluation of requests under paragraph (c) of this clause based on unreasonable cost, the Contractor shall include the following information and any applicable supporting data based on the survey of suppliers:
 
@@ -165,19 +165,19 @@ Foreign and Domestic Construction Materials Price Comparison
 
 (End of clause)
 
-*Alternate I* (NOV 2023). As prescribed in 25.1102(c)(3), add the following definition of “Bahraini, Mexican, or Omani construction material” to paragraph (a) of the basic clause, and substitute the following paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and (b)(2) of the basic clause: 
+*Alternate I* (NOV 2023). As prescribed in 25.1102(c)(3), add the following definition of “Bahraini, Mexican, or Omani construction material” to paragraph (a) of the basic clause, and substitute the following paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and (b)(2) of the basic clause:
 
-*Bahraini, Mexican, or Omani construction material* means a construction material that— 
+*Bahraini, Mexican, or Omani construction material* means a construction material that—
 
-(1) Is wholly the growth, product, or manufacture of Bahrain, Mexico, or Oman; or 
+(1) Is wholly the growth, product, or manufacture of Bahrain, Mexico, or Oman; or
 
-(2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in Bahrain, Mexico, or Oman into a new and different construction material distinct from the materials from which it was transformed. 
+(2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in Bahrain, Mexico, or Oman into a new and different construction material distinct from the materials from which it was transformed.
 
-(b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for construction material that is a COTS item, except that for construction material that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the construction material, excluding COTS fasteners. (See 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and all the Free Trade Agreements except the Bahrain FTA, United States-Mexico-Canada Agreement, and the Oman FTA apply to this acquisition. Therefore, the Buy American statute restrictions are waived for designated country construction materials other than Bahraini, Mexican, or Omani construction materials. 
+(b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for construction material that is a COTS item, except that for construction material that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the construction material, excluding COTS fasteners. (See 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and all the Free Trade Agreements except the Bahrain FTA, United States-Mexico-Canada Agreement, and the Oman FTA apply to this acquisition. Therefore, the Buy American statute restrictions are waived for designated country construction materials other than Bahraini, Mexican, or Omani construction materials.
 
 (2) The Contractor shall use only domestic or designated country construction material other than Bahraini, Mexican, or Omani construction material in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.
 
-*Alternate II* (OCT 2022). As prescribed in 25.1102(c)(4) substitute the following sentence for the first sentence of paragraph (1)(ii)(A) of the definition of *domestic construction material* in paragraph (a): 
+*Alternate II* (OCT 2022). As prescribed in 25.1102(c)(4) substitute the following sentence for the first sentence of paragraph (1)(ii)(A) of the definition of *domestic construction material* in paragraph (a):
 
 (A) The cost of its components mined, produced, or manufactured in the United States exceeds \_\_\_\_ percent of the cost of all its components. \[*Contracting officer to insert the percentage.*\]
 

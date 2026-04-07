@@ -1,10 +1,10 @@
 ##### 52.244-5 Competition in Subcontracting.
 
-As prescribed in 44.204(c), insert the following clause: 
+As prescribed in 44.204(c), insert the following clause:
 
 Competition in Subcontracting (AUG 2024)
 
-(a) The Contractor shall select subcontractors (including suppliers) on a competitive basis to the maximum practical extent consistent with the objectives and requirements of the contract. 
+(a) The Contractor shall select subcontractors (including suppliers) on a competitive basis to the maximum practical extent consistent with the objectives and requirements of the contract.
 
 (b) If the Contractor is an approved mentor under the DoD Mentor-Protégé Program (10 U.S.C. 4902), the Contractor may award subcontracts under this contract on a noncompetitive basis to its protégés.
 

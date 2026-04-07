@@ -1,6 +1,6 @@
 ##### 52.214-24 Multiple Technical Proposals.
 
-As prescribed in 14.201-6(s), insert the following provision: 
+As prescribed in 14.201-6(s), insert the following provision:
 
 Multiple Technical Proposals (APR 1984)
 

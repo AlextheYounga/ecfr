@@ -1,40 +1,40 @@
 ##### 43.204 Administration.
 
-(a) *Change order documentation.* When change orders are not forward priced, they require two documents: the change order and a supplemental agreement reflecting the resulting equitable adjustment in contract terms. If an equitable adjustment in the contract price or delivery terms or both can be agreed upon in advance, only a supplemental agreement need be issued, but administrative changes and changes issued pursuant to a clause giving the Government a unilateral right to make a change (e.g., an option clause) initially require only one document. 
+(a) *Change order documentation.* When change orders are not forward priced, they require two documents: the change order and a supplemental agreement reflecting the resulting equitable adjustment in contract terms. If an equitable adjustment in the contract price or delivery terms or both can be agreed upon in advance, only a supplemental agreement need be issued, but administrative changes and changes issued pursuant to a clause giving the Government a unilateral right to make a change (e.g., an option clause) initially require only one document.
 
-(b) *Definitization.* (1)(i) Contracting officers shall negotiate equitable adjustments resulting from change orders in the shortest practicable time. 
+(b) *Definitization.* (1)(i) Contracting officers shall negotiate equitable adjustments resulting from change orders in the shortest practicable time.
 
-(ii) Agencies shall, in accordance with agency procedures, record and maintain data regarding the time required to definitize equitable adjustments associated with change orders for construction. The definitization of an equitable adjustment begins upon receipt of an adequate change order definitization proposal by the contracting officer, and ends upon the contracting officer's execution of a contractual action to definitize the change order. The contracting officer shall ensure the data is recorded promptly in accordance with agency procedures. See 36.211(b). 
+(ii) Agencies shall, in accordance with agency procedures, record and maintain data regarding the time required to definitize equitable adjustments associated with change orders for construction. The definitization of an equitable adjustment begins upon receipt of an adequate change order definitization proposal by the contracting officer, and ends upon the contracting officer's execution of a contractual action to definitize the change order. The contracting officer shall ensure the data is recorded promptly in accordance with agency procedures. See 36.211(b).
 
-(2) Administrative contracting officers negotiating equitable adjustments by delegation under 42.302(b)(1), shall obtain the contracting officer's concurrence before adjusting the contract delivery schedule. 
+(2) Administrative contracting officers negotiating equitable adjustments by delegation under 42.302(b)(1), shall obtain the contracting officer's concurrence before adjusting the contract delivery schedule.
 
-(3) Contracting offices and contract administration offices, as appropriate, shall establish suspense systems adequate to ensure accurate identification and prompt definitization of unpriced change orders. 
+(3) Contracting offices and contract administration offices, as appropriate, shall establish suspense systems adequate to ensure accurate identification and prompt definitization of unpriced change orders.
 
-(4) The contracting officer shall ensure that a cost analysis is made, if appropriate, under 15.404-1(c) and shall consider the contractor's segregable costs of the change, if available. If additional funds are required as a result of the change, the contracting officer shall secure the funds before making any adjustment to the contract. 
+(4) The contracting officer shall ensure that a cost analysis is made, if appropriate, under 15.404-1(c) and shall consider the contractor's segregable costs of the change, if available. If additional funds are required as a result of the change, the contracting officer shall secure the funds before making any adjustment to the contract.
 
-(5) When the contracting officer requires a field pricing review of requests for equitable adjustment, the contracting officer shall provide a list of any significant contract events which may aid in the analysis of the request. This list should include— 
+(5) When the contracting officer requires a field pricing review of requests for equitable adjustment, the contracting officer shall provide a list of any significant contract events which may aid in the analysis of the request. This list should include—
 
-(i) Date and dollar amount of contract award and/or modification; 
+(i) Date and dollar amount of contract award and/or modification;
 
-(ii) Date of submission of initial contract proposal and dollar amount; 
+(ii) Date of submission of initial contract proposal and dollar amount;
 
-(iii) Date of alleged delays or disruptions; 
+(iii) Date of alleged delays or disruptions;
 
-(iv) Performance dates as scheduled at date of award and/or modification; 
+(iv) Performance dates as scheduled at date of award and/or modification;
 
-(v) Actual performance dates; 
+(v) Actual performance dates;
 
-(vi) Date entitlement to an equitable adjustment was determined or contracting officer decision was rendered, if applicable; 
+(vi) Date entitlement to an equitable adjustment was determined or contracting officer decision was rendered, if applicable;
 
-(vii) Date of certification of the request for adjustment if certification is required; and 
+(vii) Date of certification of the request for adjustment if certification is required; and
 
-(viii) Dates of any pertinent Government actions or other key events during contract performance which may have an impact on the contractor's request for equitable adjustment. 
+(viii) Dates of any pertinent Government actions or other key events during contract performance which may have an impact on the contractor's request for equitable adjustment.
 
-(c) *Complete and final equitable adjustments.* To avoid subsequent controversies that may result from a supplemental agreement containing an equitable adjustment as the result of a change order, the contracting officer should— 
+(c) *Complete and final equitable adjustments.* To avoid subsequent controversies that may result from a supplemental agreement containing an equitable adjustment as the result of a change order, the contracting officer should—
 
-(1) Ensure that all elements of the equitable adjustment have been presented and resolved; and 
+(1) Ensure that all elements of the equitable adjustment have been presented and resolved; and
 
-(2) Include, in the supplemental agreement, a release similar to the following: 
+(2) Include, in the supplemental agreement, a release similar to the following:
 
 CONTRACTOR'S STATEMENT OF RELEASE 
 

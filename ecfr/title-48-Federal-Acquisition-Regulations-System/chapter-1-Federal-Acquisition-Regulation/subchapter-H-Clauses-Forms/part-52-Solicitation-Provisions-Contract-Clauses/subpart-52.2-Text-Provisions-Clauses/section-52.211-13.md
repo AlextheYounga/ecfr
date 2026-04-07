@@ -1,6 +1,6 @@
 ##### 52.211-13 Time Extensions.
 
-As prescribed in 11.503(c), insert the following clause: 
+As prescribed in 11.503(c), insert the following clause:
 
 Time Extensions (SEP 2000)
 

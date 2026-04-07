@@ -1,6 +1,6 @@
 ##### 52.247-7 Freight Excluded.
 
-As prescribed in 47.207-3(d)(2), insert a clause substantially as follows in solicitations and contracts for transportation or for transportation-related services when any commodities or types of shipments have been identified for exclusion: 
+As prescribed in 47.207-3(d)(2), insert a clause substantially as follows in solicitations and contracts for transportation or for transportation-related services when any commodities or types of shipments have been identified for exclusion:
 
 Freight Excluded (APR 1984)
 

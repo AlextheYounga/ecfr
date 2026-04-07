@@ -1,6 +1,6 @@
 ##### 52.227-22 Major System—Minimum Rights.
 
-As prescribed in 27.409(k), insert the following clause: 
+As prescribed in 27.409(k), insert the following clause:
 
 Major System—Minimum Rights (JUN 1987)
 

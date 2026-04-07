@@ -1,6 +1,6 @@
 ##### 52.247-45 F.o.b. Origin and/or F.o.b. Destination Evaluation.
 
-As prescribed in 47.305-2(b), insert the following provision in solicitations when offers are solicited on the basis of both f.o.b. origin and f.o.b. destination: 
+As prescribed in 47.305-2(b), insert the following provision in solicitations when offers are solicited on the basis of both f.o.b. origin and f.o.b. destination:
 
 F.o.b. Origin and/or f.o.b. Destination Evaluation (APR 1984)
 

@@ -1,6 +1,6 @@
 ##### 52.232-18 Availability of Funds.
 
-As prescribed in 32.706-1(a), insert the following clause: 
+As prescribed in 32.706-1(a), insert the following clause:
 
 Availability of Funds (APR 1984)
 

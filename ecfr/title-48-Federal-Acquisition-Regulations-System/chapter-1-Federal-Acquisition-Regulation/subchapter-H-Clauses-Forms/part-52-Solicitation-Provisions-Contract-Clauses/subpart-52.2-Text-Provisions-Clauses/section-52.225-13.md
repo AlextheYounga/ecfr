@@ -1,10 +1,10 @@
 ##### 52.225-13 Restrictions on Certain Foreign Purchases.
 
-As prescribed in 25.1103(a), insert the following clause: 
+As prescribed in 25.1103(a), insert the following clause:
 
 Restrictions on Certain Foreign Purchases (FEB 2021)
 
-(a) Except as authorized by the Office of Foreign Assets Control (OFAC) in the Department of the Treasury, the Contractor shall not acquire, for use in the performance of this contract, any supplies or services if any proclamation, Executive order, or statute administered by OFAC, or if OFAC's implementing regulations at 31 CFR chapter V, would prohibit such a transaction by a person subject to the jurisdiction of the United States. 
+(a) Except as authorized by the Office of Foreign Assets Control (OFAC) in the Department of the Treasury, the Contractor shall not acquire, for use in the performance of this contract, any supplies or services if any proclamation, Executive order, or statute administered by OFAC, or if OFAC's implementing regulations at 31 CFR chapter V, would prohibit such a transaction by a person subject to the jurisdiction of the United States.
 
 (b) Except as authorized by OFAC, most transactions involving Cuba, Iran, and Sudan are prohibited, as are most imports from Burma or North Korea, into the United States or its outlying areas. Lists of entities and individuals subject to economic sanctions are included in OFAC's List of Specially Designated Nationals and Blocked Persons at *https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists.* More information about these restrictions, as well as updates, is available in the OFAC's regulations at 31 CFR chapter V and/or on OFAC's Web site at *https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information.*
 

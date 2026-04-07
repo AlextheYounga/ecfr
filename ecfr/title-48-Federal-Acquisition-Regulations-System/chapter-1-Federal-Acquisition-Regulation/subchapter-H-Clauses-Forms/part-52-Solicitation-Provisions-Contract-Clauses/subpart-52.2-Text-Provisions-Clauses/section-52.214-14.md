@@ -1,10 +1,10 @@
 ##### 52.214-14 Place of Performance—Sealed Bidding.
 
-As prescribed in 14.201-6(h), insert the following provision: 
+As prescribed in 14.201-6(h), insert the following provision:
 
 Place of Performance—Sealed Bidding (APR 1985)
 
-(a) The bidder, in the performance of any contract resulting from this solicitation, □ intends, □ does not intend \[*check applicable box*\] to use one or more plants or facilities located at a different address from the address of the bidder as indicated in this bid. 
+(a) The bidder, in the performance of any contract resulting from this solicitation, □ intends, □ does not intend \[*check applicable box*\] to use one or more plants or facilities located at a different address from the address of the bidder as indicated in this bid.
 
 (b) If the bidder checks *intends* in paragraph (a) above, it shall insert in the spaces provided below the required information:
 

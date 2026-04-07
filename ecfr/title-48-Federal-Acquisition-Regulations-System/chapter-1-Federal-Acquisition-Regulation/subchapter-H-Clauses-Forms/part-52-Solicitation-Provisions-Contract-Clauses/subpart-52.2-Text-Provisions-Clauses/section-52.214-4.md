@@ -1,6 +1,6 @@
 ##### 52.214-4 False Statements in Bids.
 
-As prescribed in 14.201-6(b)(2), insert the following provision in all invitations for bids: 
+As prescribed in 14.201-6(b)(2), insert the following provision in all invitations for bids:
 
 False Statements in Bids (APR 1984)
 
