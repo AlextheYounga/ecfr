@@ -1,5 +1,7 @@
 ##### § 165.819 Security Zone; Sabine Bank Channel, Sabine Pass Channel and Sabine-Neches Waterway, TX.
 
+Link to an amendment published at 86 FR 43091, Aug. 6, 2021.
+
 (a) *Location.* (1) The following LNG facility mooring basins are designated as fixed security zones whenever LNG carriers are moored within them:
 
 (i) *Golden Pass LNG, Sabine TX:* All mooring basin waters south of a line connecting the following points - beginning at 29°45′58″ N, 093°55′40″ W; then east to a point at 29°45′52.8″ N, 093°55′20.8″ W; then bearing 120° T to the shoreline at 29°45′50″ N, 093°55′17″ W.
