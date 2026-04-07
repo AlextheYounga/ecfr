@@ -1,5 +1,7 @@
 ##### § 78.1 Definitions.
 
+Link to an amendment published at 89 FR 39563, May 9, 2024.
+
 The following terms are defined in this section:
 
 Accredited veterinarian Administrator Animals Animal and Plant Health Inspection Service Animal identification number APHIS representative Approved brucella vaccine Approved individual herd plan Approved intermediate handling facility Area “B” branded Boar Brucellosis Brucellosis exposed Brucellosis negative Brucellosis reactor Brucellosis ring test Brucellosis suspect Certificate Certified brucellosis-free herd Class A State or area Class B State or area Class C State or area Class Free State or area Complete herd test (CHT) Confirmatory test Dairy cattle Designated epidemiologist Directly Epidemiologist Epidemiology Farm of origin Feral swine Finished fed cattle Herd Herd blood test Herd known to be affected Herd not known to be affected Herd of origin of swine Interstate Market cattle identification test cattle Market swine test (MST) reactor Market swine test swine Monitored-negative feral swine population Moved Moved (movement) in interstate commerce Official adult vaccinate Official brand inspection certificate Official brand recording agency Official calfhood vaccinate Official eartag Official seal Official swine tattoo Official test Official vaccinate Official vaccination eartag Originate Parturient Permit Permit for entry Person Postparturient Purebred registry association Qualified herd Quarantined area Quarantined feedlot Quarantined pasture Recognized slaughtering establishment “S” branded “S” brand permit Sow Specifically approved stockyard State State animal health official State representative Successfully closed case Swine brucellosis Test-eligible cattle and bison United States United States Department of Agriculture backtag Validated brucellosis-free herd Validated brucellosis-free State Veterinarian in Charge Whole herd vaccinationAs used in this part, the following terms shall have the meanings set forth in this section.
@@ -351,58 +353,46 @@ Accredited veterinarian Administrator Animals Animal and Plant Health Inspection
 (2) *Standard tube test (STT) or standard plate test (SPT).* A test to determine the brucellosis disease status of test-eligible cattle and bison when conducted according to instructions approved by APHIS and the State in which the test is to be conducted. Cattle and bison are classified according to the following agglutination reactions:
 
 SPT OR STT Classification—Official Vaccinates Vaccinated With a Brucella Abortus Strain 19 Approved Brucella Vaccine
-
-| Titer | Classification |
-| ----- | -------------- |
-| −     | −              |
-| I     | −              |
-| +     | −              |
-| +     | I              |
-| +     | +              |
-| +     | +              |
-| +     | +              |
-
-− No agglutination.
-
-I Incomplete agglutination.
-
-+ Complete agglutination.
+| Titer                       | Classification |
+| --------------------------- | -------------- |
+| −                           | −              |
+| I                           | −              |
+| \+                          | −              |
+| \+                          | I              |
+| \+                          | \+             |
+| \+                          | \+             |
+| \+                          | \+             |
+| − No agglutination.         |                |
+| I Incomplete agglutination. |                |
+| + Complete agglutination.   |                |
 
 Official Vaccinates Vaccinated With an Approved Brucella Vaccine Other Than a Brucella Abortus Strain 19 Approved Brucella Vaccine
-
-| Titer | Classification |
-| ----- | -------------- |
-| −     | −              |
-| I     | −              |
-| +     | −              |
-| +     | I              |
-| +     | +              |
-| +     | +              |
-| +     | +              |
-
-− No agglutination.
-
-I Incomplete agglutination.
-
-+ Complete agglutination.
+| Titer                       | Classification |
+| --------------------------- | -------------- |
+| −                           | −              |
+| I                           | −              |
+| \+                          | −              |
+| \+                          | I              |
+| \+                          | \+             |
+| \+                          | \+             |
+| \+                          | \+             |
+| − No agglutination.         |                |
+| I Incomplete agglutination. |                |
+| + Complete agglutination.   |                |
 
 All Cattle and Bison Which Are Not Official Vaccinates
-
-| Titer | Classification |
-| ----- | -------------- |
-| −     | −              |
-| I     | −              |
-| +     | −              |
-| +     | I              |
-| +     | +              |
-| +     | +              |
-| +     | +              |
-
-− No agglutination.
-
-I Incomplete agglutination.
-
-+ Complete agglutination.
+| Titer                       | Classification |
+| --------------------------- | -------------- |
+| −                           | −              |
+| I                           | −              |
+| \+                          | −              |
+| \+                          | I              |
+| \+                          | \+             |
+| \+                          | \+             |
+| \+                          | \+             |
+| − No agglutination.         |                |
+| I Incomplete agglutination. |                |
+| + Complete agglutination.   |                |
 
 (3) *Manual complement-fixation (CF) test.* A test to determine the brucellosis disease status of test-eligible cattle and bison when conducted according to instructions approved by APHIS and the State in which the test is to be conducted. Cattle and bison are classified according to the following reactions:
 
@@ -520,36 +510,30 @@ I Incomplete agglutination.
 
 (i) If all of the following apply: (A) The swine are part of a herd not known to be affected; (B) No swine tested, individually or as part of a group, has a complete agglutination reaction at a dilution of 1:100 or higher; and (C) the swine are tested as part of a herd blood test or are part of a validated brucellosis-free herd, then the swine are classified according to the following agglutination reactions:
 
-| Titer | Classification |
-| ----- | -------------- |
-| I     | \]—            |
-| +     | −              |
-| +     | I              |
-| +     | +              |
-| +     | +              |
-
-− No agglutination.
-
-I Incomplete agglutination.
-
-+ Complete agglutination.
+| Titer                       | Classification |
+| --------------------------- | -------------- |
+| I                           | \]—            |
+| \+                          | −              |
+| \+                          | I              |
+| \+                          | \+             |
+| \+                          | \+             |
+| − No agglutination.         |                |
+| I Incomplete agglutination. |                |
+| + Complete agglutination.   |                |
 
 (ii) If any of the following apply: (A) The swine are part of a herd known to be affected; (B) Any swine tested, individually or as part of a group, has a complete agglutination reaction at a dilution of 1:100 or higher or; (C) The swine are not part of a validated brucellosis-free herd and are not being tested as part of a herd blood test, then the swine are classified according to the following agglutination reactions:
 
-| Titer | Classification |
-| ----- | -------------- |
-| I     | −              |
-| +     | −              |
-| +     | I              |
-| +     | +              |
-| +     | +              |
-| +     | +              |
-
-− No agglutination.
-
-I Incomplete agglutination.
-
-+ Complete agglutination.
+| Titer                       | Classification |
+| --------------------------- | -------------- |
+| I                           | −              |
+| \+                          | −              |
+| \+                          | I              |
+| \+                          | \+             |
+| \+                          | \+             |
+| \+                          | \+             |
+| − No agglutination.         |                |
+| I Incomplete agglutination. |                |
+| + Complete agglutination.   |                |
 
 (3) *Particle concentration fluoresence immunoassay (PCFIA).* An automated serologic test to determine the brucellosis disease status of test-eligible swine when conducted according to instructions approved by the Animal and Plant Health Inspection Service. Swine are classified according to the following ratios between the test sample and a known negative sample (S/N ratio):
 
