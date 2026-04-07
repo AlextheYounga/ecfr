@@ -2,7 +2,7 @@
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JAN 2019)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (AUG 2019)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -12,17 +12,19 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (ii) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
-(iii) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
+(iii) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2019) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
-(iv) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
+(iv) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-(v) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
+(v) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
-(vi) 52.225-13, Restrictions on Certain Foreign Purchases (JUN 2008) (E.O.s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
+(vi) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
 
-(vii) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+(vii) 52.225-13, Restrictions on Certain Foreign Purchases (JUN 2008) (E.O.s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
-(viii) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Pub. L. 108-77, 108-78 (19 U.S.C. 3805 note).
+(viii) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+
+(ix) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Pub. L. 108-77, 108-78 (19 U.S.C. 3805 note).
 
 (2) Listed below are additional clauses that apply:
 
@@ -40,7 +42,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (vii) 52.233-1, Disputes (MAY 2014).
 
-(viii) 52.244-6, Subcontracts for Commercial Items (JAN 2019).
+(viii) 52.244-6, Subcontracts for Commercial Items (AUG 2019).
 
 (b) The Contractor shall comply with the following FAR clauses, incorporated by reference, unless the circumstances do not apply:
 
