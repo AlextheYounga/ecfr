@@ -18,8 +18,10 @@
 
 (5) The specific entries to be suspended by name of manufacturer, producer, exporter, or U.S. importer.
 
-(d) *Filing and service.* (1) A request for Continued Suspension of Liquidation must be filed with the Assistant Secretary for Enforcement and Compliance, room B-099, 14th and Constitution Avenue, NW., Washington, DC 20230, in accordance with the requirements set forth in 19 CFR 353.31(d) and (e)(2) or 355.31(d) and (e)(2). A letter of transmittal must be bound to the original and each copy as the first page of the request. The envelope and the first page of the request must be marked: Panel Review - Request for Continued Suspension of Liquidation. The request may be made no earlier than the date on which the first request for binational panel review is filed.
+(d) *Filing and service.* (1) A request for Continued Suspension of Liquidation must be filed with the Assistant Secretary for Enforcement and Compliance, Attention: APO/Dockets Unit, Room 18022, U.S. Department of Commerce, 14th Street and Constitution Avenue NW, Washington, DC 20230, in accordance with the requirements set forth in 19 CFR 351.303(b) and (d)(2). A letter of transmittal must be the first page of the request and be marked: Panel Review—Request for Continued Suspension of Liquidation. The request may be made no earlier than the date on which the first request for binational panel review is filed.
 
-(2) The requesting party shall serve a copy of the Request for Continued Suspension of Liquidation on the United States Secretary and all parties to the proceeding in accordance with the requirements of 19 CFR 353.31(g) or 19 CFR 355.31(g).
+(2) The requesting party shall serve a copy of the Request for Continued Suspension of Liquidation on the United States Secretary and all parties to the proceeding in accordance with the requirements of 19 CFR 351.303(f).
 
 (e) *Termination of Continued Suspension.* Upon completion of the panel review, including any panel review of remand determinations and any review by an extraordinary challenge committee, the Department will order liquidation of entries, the suspension of which was continued pursuant to this section.
+
+\[59 FR 229, Jan. 3, 1994, as amended at 86 FR 70049, Dec. 9, 2021\]

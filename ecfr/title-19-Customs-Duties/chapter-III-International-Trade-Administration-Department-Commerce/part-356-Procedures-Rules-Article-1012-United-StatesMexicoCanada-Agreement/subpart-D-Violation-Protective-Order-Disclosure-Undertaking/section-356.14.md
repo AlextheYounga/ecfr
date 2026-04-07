@@ -10,14 +10,16 @@
 
 (1) Disclosure of proprietary information to any person not granted access to that information by protective order, including an official of the Department or member of the Secretariat staff not directly involved with the panel review pursuant to which the proprietary information was released, an employee of any other United States, foreign government or international agency, or a member of the United States Congress, the Canadian Parliament, or the Mexican Congress.
 
-(2) Failure to follow the detailed procedures outlined in the protective order for safeguarding proprietary information, including maintaining a log showing when each proprietary document is used, and by whom, and requiring all employees who obtain access to proprietary information (under the terms of a protective order granted their employer) to sign and date a copy of that protective order.
+(2) Failure to follow the detailed procedures outlined in the protective order for safeguarding proprietary information, including requiring all employees who obtain access to proprietary information (under the terms of a protective order granted their employer) to sign and date a copy of that protective order.
 
 (3) Loss of proprietary information.
 
-(4) Failure to return or destroy all copies of the original documents and all notes, memoranda, and submissions containing proprietary information at the close of the proceeding for which the data were obtained by burning or shredding of the documents or by erasing electronic memory, computer disk, or tape memory, as set forth in the protective order.
+(4) Failure to destroy and certify to the Department the destruction of all copies of the original documents and all notes, memoranda, and submissions containing proprietary information at the close of the proceeding for which the data were obtained by burning or shredding of the documents or by erasing electronic memory, computer disk, or tape memory, as set forth in the protective order.
 
 (5) Failure to delete proprietary information from the public version of a brief or other correspondence filed with the Secretariat.
 
 (6) Disclosure of proprietary information during a public hearing.
 
 (e) Each day of a continuing violation shall constitute a separate violation.
+
+\[59 FR 229, Jan. 3, 1994, as amended at 86 FR 70052, Dec. 9, 2021\]

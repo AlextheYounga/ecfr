@@ -18,7 +18,7 @@
 
 (3) Barring a person from appearing before the Department; and
 
-(4) Requiring the person to return material previously provided by the Department or the investigating authority of the involved FTA country, and all other materials containing the proprietary information, such as briefs, notes, or charts based on any such information received under a protective order or disclosure undertaking.
+(4) Requiring the person to destroy and certify to the Department the destruction of all material previously provided by the Department or the investigating authority of the involved FTA country, and all other materials containing the proprietary information, such as briefs, notes, or charts based on any such information received under a protective order or disclosure undertaking.
 
 (d) The Deputy Under Secretary will notify the person against whom interim sanctions are sought of the request for interim sanctions and provide to that person the material submitted to the administrative law judge to support the request. The notice will include a reference to the procedures of this section.
 
@@ -37,3 +37,5 @@
 (k) If a hearing has not been requested, the Deputy Under Secretary will request that the Under Secretary appoint an administrative law judge for making determinations under this section.
 
 (l) The Deputy Under Secretary will notify the Secretariat concerning the imposition or revocation of interim sanctions or emergency interim sanctions.
+
+\[59 FR 229, Jan. 3, 1994, as amended at 86 FR 70052, Dec. 9, 2021\]

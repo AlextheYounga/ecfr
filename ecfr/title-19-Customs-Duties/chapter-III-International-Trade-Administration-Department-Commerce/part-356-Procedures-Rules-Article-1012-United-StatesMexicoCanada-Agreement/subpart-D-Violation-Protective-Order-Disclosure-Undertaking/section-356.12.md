@@ -10,8 +10,10 @@
 
 (4) Other appropriate administrative sanctions, including striking from the record of the panel review any information or argument submitted by, or on behalf of, the violating party or the party represented by the violating party; terminating any proceeding then in progress; or revoking any order then in effect; and
 
-(5) Required to return material previously provided by the investigating authority, and all other materials containing the proprietary information, such as briefs, notes, or charts based on any such information received under a protective order or a disclosure undertaking.
+(5) Required to destroy and certify to the Department the destruction of all material previously provided by the investigating authority, and all other materials containing the proprietary information, such as briefs, notes, or charts based on any such information received under a protective order or a disclosure undertaking.
 
 (b)(1) The firm of which a person determined to have violated a protective order or a disclosure undertaking is a partner, associate, or employee; any partner, associate, employer, or employee of such person; and any person represented by such person may be barred from appearing before the Department for a designated time period from the date of publication in an official publication of notice that a violation has been determined to exist or may be subjected to the sanctions set forth in paragraph (a) of this section, as appropriate.
 
 (2) Each person against whom sanctions are proposed under paragraph (b)(1) of this section is entitled to all the administrative rights set forth in this subpart separately and apart from rights provided to a person subject to sanctions under paragraph (a) of this section, including the right to a charging letter, right to representation, and right to a hearing, but subject to joinder or consolidation by the administrative law judge under § 356.23(b).
+
+\[59 FR 229, Jan. 3, 1994, as amended at 86 FR 70052, Dec. 9, 2021\]
