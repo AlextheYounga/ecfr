@@ -60,53 +60,16 @@ Table 1 to § 401.43 - Docket Application Filing Fee
 
 Table 2 to § 401.43 - Annual Monitoring and Coordination Fee
 
-Annual fee
-
-Allocation 
-
-Water Allocation
-
-1 $304  
-1 456
-
-<4.99 mgm.  
-5.00 to 49.99 mgm. 
-
-1 658
-
-50.00 to 499.99 mgm. 
-
-1 835
-
-500.00 to 9,999.99 mgm. 
-
-1 1,013
-
-\>or = to 10,000 mgm. 
-
-Annual fee
-
-Discharge design capacity 
-
-Wastewater Discharge
-
-1 $304  
-1 618
-
-<0.05 mgd.  
-0.05 to 1 mgd. 
-
-1 830
-
-1 to 10 mgd. 
-
-Annual fee
-
-Discharge design capacity
-
-1 1,013
-
-\>10 mgd. 
+|                      | Annual fee     | Allocation                      |
+| -------------------- | -------------- | ------------------------------- |
+| Water Allocation     | 1 $304   1 456 | <4.99 mgm.   5.00 to 49.99 mgm. |
+|                      | 1 658          | 50.00 to 499.99 mgm.            |
+|                      | 1 835          | 500.00 to 9,999.99 mgm.         |
+|                      | 1 1,013        | \>or = to 10,000 mgm.           |
+|                      | Annual fee     | Discharge design capacity       |
+| Wastewater Discharge | 1 $304   1 618 | <0.05 mgd.   0.05 to 1 mgd.     |
+|                      | 1 830          | 1 to 10 mgd.                    |
+|                      | 1 1,013        | \>10 mgd.                       |
 
 1 Subject to annual adjustment in accordance with paragraph (c) of this section.
 

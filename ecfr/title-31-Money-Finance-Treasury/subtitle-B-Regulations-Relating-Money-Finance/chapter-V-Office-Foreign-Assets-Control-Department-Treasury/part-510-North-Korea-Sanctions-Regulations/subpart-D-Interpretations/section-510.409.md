@@ -1,0 +1,3 @@
+##### § 510.409 Credit extended and cards issued by financial institutions to a person whose property and interests in property are blocked.
+
+The prohibition in § 510.201 on dealing in property subject to that section and the prohibition in § 510.206 on exporting services to North Korea prohibit U.S. financial institutions from performing under any existing credit agreements, including charge cards, debit cards, or other credit facilities issued by a financial institution to the Government of North Korea, the Workers' Party of Korea, or any other person whose property and interests in property are blocked pursuant to § 510.201(a).
