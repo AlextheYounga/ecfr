@@ -1,6 +1,6 @@
 ##### § 250.180 What am I required to do to keep my lease term in effect?
 
-(a) If your lease is in its primary term:
+(a) If your lease is in its primary term:*operations*
 
 (1) You must submit a report to the District Manager according to paragraphs (h) and (i) of this section whenever production begins initially, whenever production ceases during the last year of the primary term, and whenever production resumes during the last year of the primary term.
 

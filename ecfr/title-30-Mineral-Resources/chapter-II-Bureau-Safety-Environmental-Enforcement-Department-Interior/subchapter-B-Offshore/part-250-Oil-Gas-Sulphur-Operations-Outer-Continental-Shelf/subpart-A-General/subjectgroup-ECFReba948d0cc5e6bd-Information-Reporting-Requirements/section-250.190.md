@@ -1,6 +1,6 @@
 ##### § 250.190 Reporting requirements for incidents requiring written notification.
 
-(a) For any incident covered under § 250.188, you must submit a written report within 15 calendar days after the incident to the District Manager. The report must contain the following information:
+(a) For any incident covered under § 250.188, you must submit a written report within 15 calendar days after the incident to the District Manager. The report must contain the following information:*i.e.,*
 
 (1) Date and time of occurrence;
 

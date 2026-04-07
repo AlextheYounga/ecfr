@@ -1,6 +1,6 @@
 ##### § 250.1601 Definitions.
 
-Terms used in this subpart shall have the meanings as defined below:
+Terms used in this subpart shall have the meanings as defined below:*Air line*
 
 *Air line* means a tubing string that is used to inject air within a sulphur producing well to airlift sulphur out of the well.
 
@@ -17,3 +17,5 @@ Terms used in this subpart shall have the meanings as defined below:
 *Sulphur deposit* means a formation of rock that contains elemental sulphur.
 
 *Sulphur production rate* means the number of long tons of sulphur produced during a certain period of time, usually per day.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

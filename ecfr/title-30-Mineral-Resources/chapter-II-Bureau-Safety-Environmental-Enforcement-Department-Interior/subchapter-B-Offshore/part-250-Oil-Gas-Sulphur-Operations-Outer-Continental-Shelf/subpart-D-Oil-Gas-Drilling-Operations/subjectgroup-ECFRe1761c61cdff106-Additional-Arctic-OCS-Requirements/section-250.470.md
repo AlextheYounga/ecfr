@@ -1,6 +1,6 @@
 ##### § 250.470 What additional information must I submit with my APD for Arctic OCS exploratory drilling operations?
 
-In addition to complying with all other applicable requirements included in this part, you must provide with your APD all of the following information pertaining to your proposed Arctic OCS exploratory drilling:
+In addition to complying with all other applicable requirements included in this part, you must provide with your APD all of the following information pertaining to your proposed Arctic OCS exploratory drilling:*i.e.,*
 
 (a) A detailed description of:
 

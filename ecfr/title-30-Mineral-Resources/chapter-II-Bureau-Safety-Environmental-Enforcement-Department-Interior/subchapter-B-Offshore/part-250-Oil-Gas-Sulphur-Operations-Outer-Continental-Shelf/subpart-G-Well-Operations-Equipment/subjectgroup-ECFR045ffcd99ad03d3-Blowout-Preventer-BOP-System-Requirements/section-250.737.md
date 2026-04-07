@@ -1,6 +1,6 @@
 ##### § 250.737 What are the BOP system testing requirements?
 
-Your BOP system (this includes the choke manifold, kelly-type valves, inside BOP, and drill string safety valve) must meet the following testing requirements:
+Your BOP system (this includes the choke manifold, kelly-type valves, inside BOP, and drill string safety valve) must meet the following testing requirements:*Pressure test frequency.*
 
 (a) *Pressure test frequency.* You must pressure test your BOP system:
 

@@ -1,6 +1,6 @@
 ##### § 250.1622 Approvals and reporting of well-completion and well-workover operations.
 
-(a) No well-completion or well-workover operation shall begin until the lessee receives written approval from the District Manager. Approval for such operations shall be requested on Form BSEE-0124. Approvals by the District Manager shall be based upon a determination that the operations will be conducted in a manner to protect against harm or damage to life, property, natural resources of the OCS, including any mineral deposits, the National security or defense, or the marine, coastal, or human environment.
+(a) No well-completion or well-workover operation shall begin until the lessee receives written approval from the District Manager. Approval for such operations shall be requested on Form BSEE-0124. Approvals by the District Manager shall be based upon a determination that the operations will be conducted in a manner to protect against harm or damage to life, property, natural resources of the OCS, including any mineral deposits, the National security or defense, or the marine, coastal, or human environment.2
 
 (b) The following information shall be submitted with Form BSEE-0124 (or with Form BSEE-0123):
 
@@ -13,3 +13,5 @@
 (c)(1) Within 30 days after completion, Form BSEE-0125, including a schematic of the tubing and the results of any well tests, shall be submitted to the District Manager.
 
 (2) Within 30 days after completing the well-workover operation, except routine operations, Form BSEE-0124 shall be submitted to the District Manager and shall include the results of any well tests and a new schematic of the well if any subsurface equipment has been changed.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

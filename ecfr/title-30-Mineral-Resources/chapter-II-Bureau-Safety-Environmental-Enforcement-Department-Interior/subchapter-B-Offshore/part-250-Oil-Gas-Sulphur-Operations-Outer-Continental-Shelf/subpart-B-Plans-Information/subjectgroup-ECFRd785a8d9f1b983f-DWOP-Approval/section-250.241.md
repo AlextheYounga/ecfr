@@ -1,6 +1,6 @@
 ##### § 250.241 What subsea systems and pipeline information must my DWOP include?
 
-(a) You must include the following information common to the subsea system and the associated pipeline systems, which constitute all or part of a single project development covered by the DWOP and/or is consistent with activities addressed in your associated pipeline application, as applicable:
+(a) You must include the following information common to the subsea system and the associated pipeline systems, which constitute all or part of a single project development covered by the DWOP and/or is consistent with activities addressed in your associated pipeline application, as applicable:*e.g.,*
 
 (1) The subsea field schematic depicting the planned subsea development equipment and infrastructure, including wells/trees, non-pipe subsea equipment, pipeline route(s), pipeline riser systems, umbilical(s), and platform footprint;
 

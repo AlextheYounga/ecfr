@@ -1,6 +1,6 @@
 ##### § 250.188 What incidents must I report to BSEE and when must I report them?
 
-(a) You must report the following incidents to the District Manager immediately via oral communication, and provide a written follow-up report (hard copy or electronically transmitted) within 15 calendar days after the incident:
+(a) You must report the following incidents to the District Manager immediately via oral communication, and provide a written follow-up report (hard copy or electronically transmitted) within 15 calendar days after the incident:2
 
 (1) All fatalities.
 

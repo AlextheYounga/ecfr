@@ -1,6 +1,6 @@
 ##### § 250.461 What are the requirements for directional and inclination surveys?
 
-For this subpart, BSEE classifies a well as vertical if the calculated average of inclination readings does not exceed 3 degrees from the vertical.
+For this subpart, BSEE classifies a well as vertical if the calculated average of inclination readings does not exceed 3 degrees from the vertical.*Survey requirements for a vertical well.*
 
 (a) *Survey requirements for a vertical well.* (1) You must conduct inclination surveys on each vertical well and record the results. Survey intervals may not exceed 1,000 feet during the normal course of drilling;
 

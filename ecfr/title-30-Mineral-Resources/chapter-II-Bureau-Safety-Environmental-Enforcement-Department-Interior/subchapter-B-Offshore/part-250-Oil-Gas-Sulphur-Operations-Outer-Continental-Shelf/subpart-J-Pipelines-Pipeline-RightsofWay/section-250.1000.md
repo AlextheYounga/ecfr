@@ -1,6 +1,6 @@
 ##### § 250.1000 General requirements.
 
-(a) Pipelines and associated valves, flanges, and fittings shall be designed, installed, operated, maintained, and abandoned to provide safe and pollution-free transportation of fluids in a manner which does not unduly interfere with other uses in the Outer Continental Shelf (OCS).
+(a) Pipelines and associated valves, flanges, and fittings shall be designed, installed, operated, maintained, and abandoned to provide safe and pollution-free transportation of fluids in a manner which does not unduly interfere with other uses in the Outer Continental Shelf (OCS).*etc.*
 
 (b) An application must be accompanied by payment of the service fee listed in § 250.125 and submitted to the Regional Supervisor and approval obtained before:
 

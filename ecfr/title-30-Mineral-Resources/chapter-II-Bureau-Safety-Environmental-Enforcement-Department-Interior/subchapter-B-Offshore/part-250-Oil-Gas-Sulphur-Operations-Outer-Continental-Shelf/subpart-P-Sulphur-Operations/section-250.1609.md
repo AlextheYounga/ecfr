@@ -4,4 +4,4 @@
 
 (b) After cementing any string of casing other than structural, drilling shall not be resumed until there has been a time lapse of at least 8 hours under pressure for the conductor casing string or 12 hours under pressure for all other casing strings. Cement is considered under pressure if one or more float valves are shown to be holding the cement in place or when other means of holding pressure are used.
 
-\[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 36151, June 6, 2016\]
+\[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 36151, June 6, 2016\] Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

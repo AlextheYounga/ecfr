@@ -1,6 +1,6 @@
 ##### § 250.1500 Definitions.
 
-Terms used in this subpart have the following meaning:
+Terms used in this subpart have the following meaning:*Contractor and contract personnel*
 
 *Contractor and contract personnel* mean anyone, other than an employee of the lessee, performing well control, deepwater well control, or production safety duties for the lessee.
 

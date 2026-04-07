@@ -1,6 +1,6 @@
 ##### § 250.513 Approval and reporting of well-completion operations.
 
-(a) No well-completion operation may begin until the lessee receives written approval from the District Manager. If completion is planned and the data are available at the time you submit the Application for Permit to Drill and Supplemental APD Information Sheet (Forms BSEE-0123 and BSEE-0123S), you may request approval for a well-completion on those forms (see §§ 250.410 through 250.418 of this part). If the District Manager has not approved the completion or if the completion objective or plans have significantly changed, you must submit an Application for Permit to Modify (Form BSEE-0124) for approval of such operations.
+(a) No well-completion operation may begin until the lessee receives written approval from the District Manager. If completion is planned and the data are available at the time you submit the Application for Permit to Drill and Supplemental APD Information Sheet (Forms BSEE-0123 and BSEE-0123S), you may request approval for a well-completion on those forms (see §§ 250.410 through 250.418 of this part). If the District Manager has not approved the completion or if the completion objective or plans have significantly changed, you must submit an Application for Permit to Modify (Form BSEE-0124) for approval of such operations.2
 
 (b) You must submit the following with Form BSEE-0124 (or with Form BSEE-0123; Form BSEE-0123S):
 

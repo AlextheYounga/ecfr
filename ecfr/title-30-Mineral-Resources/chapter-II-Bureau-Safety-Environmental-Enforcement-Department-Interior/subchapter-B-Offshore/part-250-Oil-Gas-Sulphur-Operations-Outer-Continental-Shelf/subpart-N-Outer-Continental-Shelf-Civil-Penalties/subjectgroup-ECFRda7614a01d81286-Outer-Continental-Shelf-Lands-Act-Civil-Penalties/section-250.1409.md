@@ -1,6 +1,6 @@
 ##### § 250.1409 What are my appeal rights?
 
-(a) When you receive the Reviewing Officer's final decision, you have 60 days to either pay the penalty or file an appeal in accordance with 30 CFR part 290, subpart A.
+(a) When you receive the Reviewing Officer's final decision, you have 60 days to either pay the penalty or file an appeal in accordance with 30 CFR part 290, subpart A.*i.e.,*
 
 (b) In order to file an appeal, you must perform one of the following actions within the 60-day appeal period to have your appeal heard:
 

@@ -1,6 +1,6 @@
 ##### § 250.732 What are the independent third party requirements for BOP systems and system components?
 
-(a) Prior to beginning any operation requiring the use of any BOP, you must submit verification by an independent third party and supporting documentation as required by this paragraph to the appropriate District Manager and Regional Supervisor.
+(a) Prior to beginning any operation requiring the use of any BOP, you must submit verification by an independent third party and supporting documentation as required by this paragraph to the appropriate District Manager and Regional Supervisor.*e.g.,*
 
 | You must submit verification and documentation related to: | That:                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

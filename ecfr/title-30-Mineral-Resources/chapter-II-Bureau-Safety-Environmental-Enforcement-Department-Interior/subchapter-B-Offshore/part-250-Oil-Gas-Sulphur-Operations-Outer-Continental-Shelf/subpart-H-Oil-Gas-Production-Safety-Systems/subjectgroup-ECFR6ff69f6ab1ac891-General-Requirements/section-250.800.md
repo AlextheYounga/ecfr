@@ -1,6 +1,6 @@
 ##### § 250.800 General.
 
-(a) You must design, install, use, maintain, and test production safety equipment in a manner to ensure the safety and protection of the human, marine, and coastal environments. For production safety systems operated in subfreezing climates, you must use equipment and procedures that account for floating ice, icing, and other extreme environmental conditions that may occur in the area. Before you commence production on a new production facility:
+(a) You must design, install, use, maintain, and test production safety equipment in a manner to ensure the safety and protection of the human, marine, and coastal environments. For production safety systems operated in subfreezing climates, you must use equipment and procedures that account for floating ice, icing, and other extreme environmental conditions that may occur in the area. Before you commence production on a new production facility:*i.e.,*
 
 (1) BSEE must approve your production safety system application, as required in § 250.842.
 

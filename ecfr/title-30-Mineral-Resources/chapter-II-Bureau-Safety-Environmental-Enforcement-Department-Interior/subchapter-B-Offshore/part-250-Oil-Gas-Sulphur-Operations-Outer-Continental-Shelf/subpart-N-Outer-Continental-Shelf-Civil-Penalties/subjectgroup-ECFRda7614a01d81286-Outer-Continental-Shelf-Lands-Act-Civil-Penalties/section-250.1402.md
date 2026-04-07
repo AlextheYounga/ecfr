@@ -1,6 +1,6 @@
 ##### § 250.1402 Definitions.
 
-Terms used in this subpart have the following meaning:
+Terms used in this subpart have the following meaning:*Case file*
 
 *Case file* means a BSEE document file containing information and the record of evidence related to the alleged violation.
 

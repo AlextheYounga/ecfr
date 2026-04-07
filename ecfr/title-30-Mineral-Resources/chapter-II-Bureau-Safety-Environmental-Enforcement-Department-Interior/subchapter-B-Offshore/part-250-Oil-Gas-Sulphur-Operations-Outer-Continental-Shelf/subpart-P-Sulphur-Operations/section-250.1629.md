@@ -31,3 +31,5 @@
 (v) Fire- and gas-detection systems must be an approved type, designed and installed according to API RP 14C, API RP 14G, and either API RP 14F or API RP 14FZ (the preceding four documents as incorporated by reference in § 250.198).
 
 (c) *General platform operations.* Safety devices shall not be bypassed or blocked out of service unless they are temporarily out of service for startup, maintenance, or testing procedures. Only the minimum number of safety devices shall be taken out of service. Personnel shall monitor the bypassed or blocked out functions until the safety devices are placed back in service. Any safety device that is temporarily out of service shall be flagged by the person taking such device out of service.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

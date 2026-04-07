@@ -1,6 +1,6 @@
 ##### § 250.875 Subsea pump systems.
 
-If you choose to install a subsea pump system, your system must comply with your approved DWOP, which must meet the following minimum requirements:
+If you choose to install a subsea pump system, your system must comply with your approved DWOP, which must meet the following minimum requirements:*i.e.,*
 
 (a) Include the installation of an isolation valve at the inlet of your subsea pump module.
 

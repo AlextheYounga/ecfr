@@ -1,6 +1,6 @@
 ##### § 250.1507 How will BSEE measure training results?
 
-BSEE may periodically assess your training program, using one or more of the methods in this section.
+BSEE may periodically assess your training program, using one or more of the methods in this section.*Training system audit.*
 
 (a) *Training system audit.* BSEE or its authorized representative may conduct a training system audit at your office. The training system audit will compare your training program against this subpart. You must be prepared to explain your overall training program and produce evidence to support your explanation.
 

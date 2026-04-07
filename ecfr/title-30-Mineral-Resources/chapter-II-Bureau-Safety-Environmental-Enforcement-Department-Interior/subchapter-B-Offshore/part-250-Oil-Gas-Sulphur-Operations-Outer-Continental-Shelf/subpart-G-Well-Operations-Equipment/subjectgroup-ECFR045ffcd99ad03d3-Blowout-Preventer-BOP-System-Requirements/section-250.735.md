@@ -1,6 +1,6 @@
 ##### § 250.735 What associated systems and related equipment must all BOP systems include?
 
-All BOP systems must include the following associated systems and related equipment:
+All BOP systems must include the following associated systems and related equipment:*i.e.*
 
 (a) An accumulator system (as specified in API Standard 53, incorporated by reference in § 250.198). Your accumulator system must have the fluid volume capacity and appropriate pre-charge pressures in accordance with API Standard 53. If you supply the accumulator regulators by rig air and do not have a secondary source of pneumatic supply, you must equip the regulators with manual overrides or other devices to ensure capability of hydraulic operations if rig air is lost;
 

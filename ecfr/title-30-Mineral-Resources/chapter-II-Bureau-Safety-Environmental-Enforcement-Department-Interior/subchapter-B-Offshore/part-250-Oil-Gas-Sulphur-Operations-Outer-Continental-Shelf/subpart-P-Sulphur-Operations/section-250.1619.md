@@ -15,3 +15,5 @@
 (d) As soon as available, the lessee shall transmit copies of logs and charts developed by well-logging operations, directional-well surveys, and core analyses. Composite logs of multiple runs and directional-well surveys shall be transmitted to the District Manager in duplicate as soon as available but not later than 30 days after completion of such operations for each well.
 
 (e) If the District Manager determines that circumstances warrant, the lessee shall submit any other reports and records of operations in the manner and form prescribed by the District Manager.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

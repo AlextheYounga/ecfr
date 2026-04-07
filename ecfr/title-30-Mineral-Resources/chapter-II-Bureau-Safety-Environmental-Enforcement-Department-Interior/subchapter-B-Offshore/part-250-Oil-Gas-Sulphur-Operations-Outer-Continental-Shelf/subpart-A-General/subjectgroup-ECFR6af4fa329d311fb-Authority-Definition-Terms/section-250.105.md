@@ -1,6 +1,6 @@
 ##### § 250.105 Definitions.
 
-Terms used in this part will have the meanings given in the Act and as defined in this section:
+Terms used in this part will have the meanings given in the Act and as defined in this section:*Act*2
 
 *Act* means the OCS Lands Act, as amended (43 U.S.C. 1331 *et seq.*).
 

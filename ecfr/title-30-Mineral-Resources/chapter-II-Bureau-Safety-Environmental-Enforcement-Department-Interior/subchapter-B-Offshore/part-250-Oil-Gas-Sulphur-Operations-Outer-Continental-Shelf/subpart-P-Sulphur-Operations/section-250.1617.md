@@ -1,6 +1,6 @@
 ##### § 250.1617 Application for permit to drill.
 
-(a) Before drilling a well under a BOEM-approved Exploration Plan, Development and Production Plan, or Development Operations Coordination Document, you must file Form BSEE-0123, APD, with the District Manager for approval. The submission of your APD must be accompanied by payment of the service fee listed in § 250.125. Before starting operations, you must receive written approval from the District Manager unless you received oral approval under § 250.140.
+(a) Before drilling a well under a BOEM-approved Exploration Plan, Development and Production Plan, or Development Operations Coordination Document, you must file Form BSEE-0123, APD, with the District Manager for approval. The submission of your APD must be accompanied by payment of the service fee listed in § 250.125. Before starting operations, you must receive written approval from the District Manager unless you received oral approval under § 250.140.2
 
 (b) An APD shall include rated capacities of the proposed drilling unit and of major drilling equipment. After a drilling unit has been approved for use in a BSEE district, the information need not be resubmitted unless required by the District Manager or there are changes in the equipment that affect the rated capacity of the unit.
 
@@ -57,3 +57,5 @@
 (10) Such other information as may be required by the District Manager.
 
 (d) Public information copies of the APD shall be submitted in accordance with § 250.186 of this part.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

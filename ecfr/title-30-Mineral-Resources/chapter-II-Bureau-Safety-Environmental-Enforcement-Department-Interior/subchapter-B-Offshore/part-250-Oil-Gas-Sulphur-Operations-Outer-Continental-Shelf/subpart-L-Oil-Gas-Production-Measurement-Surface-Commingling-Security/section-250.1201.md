@@ -1,6 +1,6 @@
 ##### § 250.1201 Definitions.
 
-Terms not defined in this section have the meanings given in the applicable chapter of the API MPMS, which is incorporated by reference in § 250.198. Terms used in Subpart L have the following meaning:
+Terms not defined in this section have the meanings given in the applicable chapter of the API MPMS, which is incorporated by reference in § 250.198. Terms used in Subpart L have the following meaning:*Allocation meter*
 
 *Allocation meter*—a meter used to determine the portion of hydrocarbons attributable to one or more platforms, leases, units, or wells, in relation to the total production from a royalty or allocation measurement point.
 

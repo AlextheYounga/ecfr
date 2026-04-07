@@ -1,6 +1,6 @@
 ##### § 250.1902 What must I include in my SEMS program?
 
-You must have a properly documented SEMS program in place and make it available to BSEE upon request as required by § 250.1924(b).
+You must have a properly documented SEMS program in place and make it available to BSEE upon request as required by § 250.1924(b).*see*
 
 (a) Your SEMS program must meet the minimum criteria outlined in this subpart, including the following SEMS program elements:
 

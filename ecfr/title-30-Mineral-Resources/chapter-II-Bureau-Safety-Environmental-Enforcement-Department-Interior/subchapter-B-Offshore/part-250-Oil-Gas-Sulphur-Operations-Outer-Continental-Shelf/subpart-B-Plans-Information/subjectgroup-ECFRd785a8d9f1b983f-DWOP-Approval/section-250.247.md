@@ -1,6 +1,6 @@
 ##### § 250.247 When must I supplement my DWOP?
 
-You must supplement your DWOP to reflect additions or changes in your development project that:
+You must supplement your DWOP to reflect additions or changes in your development project that:*e.g.,*
 
 (a) Physically alter the equipment or systems upstream of your boarding shut down valve, approved in your DWOP. If a Supplemental DWOP includes the addition of a well or wells (*e.g.,* a new subsea field) not approved in your original DWOP, you may not complete or produce from the new well(s) until BSEE approves the Supplemental DWOP; or
 

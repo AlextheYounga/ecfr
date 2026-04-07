@@ -1,6 +1,6 @@
 ##### § 250.912 What plans must I submit under the Platform Verification Program?
 
-If your platform, associated structure, or major modification meets the criteria in § 250.910, you must submit the following plans to the Regional Supervisor for approval:
+If your platform, associated structure, or major modification meets the criteria in § 250.910, you must submit the following plans to the Regional Supervisor for approval:*Design verification plan.*
 
 (a) *Design verification plan.* You may submit your design verification plan to BSEE with or subsequent to the submittal of your Development and Production Plan (DPP) or Development Operations Coordination Document (DOCD) to BOEM. Your design verification must be conducted by, or be under the direct supervision of, a registered professional civil or structural engineer or equivalent, or a naval architect or marine engineer or equivalent, with previous experience in directing the design of similar facilities, systems, structures, or equipment. For floating platforms, you must ensure that the requirements of the USCG for structural integrity and stability, e.g., verification of center of gravity, *etc.,* have been met. Your design verification plan must include the following:
 

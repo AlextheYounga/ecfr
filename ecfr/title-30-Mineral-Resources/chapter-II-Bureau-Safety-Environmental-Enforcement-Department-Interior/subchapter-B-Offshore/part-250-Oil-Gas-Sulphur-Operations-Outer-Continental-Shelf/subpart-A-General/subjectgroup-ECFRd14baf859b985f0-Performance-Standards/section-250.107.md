@@ -1,6 +1,6 @@
 ##### § 250.107 What must I do to protect health, safety, property, and the environment?
 
-(a) You must protect health, safety, property, and the environment by:
+(a) You must protect health, safety, property, and the environment by:*Best available and safest technology.*
 
 (1) Performing all operations in a safe and workmanlike manner;
 

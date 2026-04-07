@@ -1,6 +1,6 @@
 ##### § 250.710 What instructions must be given to personnel engaged in well operations?
 
-Prior to engaging in well operations, personnel must be instructed in:
+Prior to engaging in well operations, personnel must be instructed in:*Hazards and safety requirements.*
 
 (a) *Hazards and safety requirements.* You must instruct your personnel regarding the safety requirements for the operations to be performed, possible hazards to be encountered, and general safety considerations to protect personnel, equipment, and the environment as required by subpart S of this part. The date and time of safety meetings must be recorded and available at the facility for review by BSEE representatives.
 

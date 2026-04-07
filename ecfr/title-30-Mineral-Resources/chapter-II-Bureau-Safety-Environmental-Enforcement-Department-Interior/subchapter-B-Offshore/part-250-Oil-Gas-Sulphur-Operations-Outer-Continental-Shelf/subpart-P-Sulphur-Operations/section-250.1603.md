@@ -9,3 +9,5 @@
 (2) An estimate of the amount of recoverable sulphur in long tons over a specified period of time; and
 
 (3) Contour map of the cap rock together with isopach map showing the extent and estimated thickness of the sulphur deposit.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

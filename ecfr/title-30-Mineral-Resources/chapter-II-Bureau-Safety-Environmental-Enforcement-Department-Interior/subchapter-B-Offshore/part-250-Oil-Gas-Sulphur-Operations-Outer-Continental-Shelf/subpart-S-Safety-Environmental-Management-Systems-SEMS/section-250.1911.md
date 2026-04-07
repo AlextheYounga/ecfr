@@ -1,6 +1,6 @@
 ##### § 250.1911 What hazards analysis criteria must my SEMS program meet?
 
-You must ensure that a hazards analysis (facility level) and a JSA (operations/task level) are developed and implemented for all of your facilities and activities identified or discussed in your SEMS. You must document and maintain a current analysis for each operation covered by this section for the life of the operation at the facility. You must update the analysis when an internal audit is conducted to ensure that it is consistent with your facility's current operations.
+You must ensure that a hazards analysis (facility level) and a JSA (operations/task level) are developed and implemented for all of your facilities and activities identified or discussed in your SEMS. You must document and maintain a current analysis for each operation covered by this section for the life of the operation at the facility. You must update the analysis when an internal audit is conducted to ensure that it is consistent with your facility's current operations.*Hazards analysis (facility level).*
 
 (a) *Hazards analysis (facility level).* The hazards analysis must be appropriate for the complexity of the operation and must identify, evaluate, and manage the hazards involved in the operation.
 

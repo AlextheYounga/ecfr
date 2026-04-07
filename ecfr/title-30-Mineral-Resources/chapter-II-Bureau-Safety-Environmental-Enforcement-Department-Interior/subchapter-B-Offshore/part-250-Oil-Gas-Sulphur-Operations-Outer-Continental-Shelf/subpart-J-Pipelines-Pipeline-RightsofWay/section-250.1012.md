@@ -1,6 +1,6 @@
 ##### § 250.1012 Required payments for pipeline right-of-way holders.
 
-(a) You must pay ONRR, under the regulations at 30 CFR part 1218, an annual rental of $15 for each statute mile, or part of a statute mile, of the OCS that your pipeline right-of-way crosses.
+(a) You must pay ONRR, under the regulations at 30 CFR part 1218, an annual rental of $15 for each statute mile, or part of a statute mile, of the OCS that your pipeline right-of-way crosses.*Late payments.*
 
 (b) This paragraph applies to you if you obtain a pipeline right-of-way that includes a site for an accessory to the pipeline, including but not limited to a platform. This paragraph also applies if you apply to modify a right-of-way to change the site footprint. In either case, you must pay the amounts shown in the following table.
 

@@ -1,6 +1,6 @@
 ##### § 250.227 What must the Project Conceptual Plan contain?
 
-In the Project Conceptual Plan, you must explain the basis of design that you will use to develop the field. You must include the following information:
+In the Project Conceptual Plan, you must explain the basis of design that you will use to develop the field. You must include the following information:*i.e.,*2
 
 (a) An overview of the development concept(s);
 

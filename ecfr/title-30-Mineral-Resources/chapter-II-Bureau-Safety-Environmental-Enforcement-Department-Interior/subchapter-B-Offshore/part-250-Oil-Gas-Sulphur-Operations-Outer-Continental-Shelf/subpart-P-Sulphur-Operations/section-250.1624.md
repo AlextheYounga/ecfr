@@ -1,6 +1,6 @@
 ##### § 250.1624 Blowout prevention equipment.
 
-(a) The BOP system and system components and related well-control equipment shall be designed, used, maintained, and tested in a manner necessary to assure well control in foreseeable conditions and circumstances, including subfreezing conditions. The working pressure of the BOP system and system components shall equal or exceed the expected surface pressure to which they may be subjected.
+(a) The BOP system and system components and related well-control equipment shall be designed, used, maintained, and tested in a manner necessary to assure well control in foreseeable conditions and circumstances, including subfreezing conditions. The working pressure of the BOP system and system components shall equal or exceed the expected surface pressure to which they may be subjected.3/4*i.e.,*
 
 (b) The minimum BOP stack for well-completion operations or for well-workover operations with the tree removed shall consist of the following:
 
@@ -31,3 +31,5 @@
 (2) For other work inside of the sulphur line, a tubing stripper or annular preventer shall be installed prior to beginning work.
 
 (e) An essentially full-opening, work-string safety valve shall be maintained on the rig floor at all times during well-completion operations. A wrench to fit the work-string safety valve shall be readily available. Proper connections shall be readily available for inserting a safety valve in the work string.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

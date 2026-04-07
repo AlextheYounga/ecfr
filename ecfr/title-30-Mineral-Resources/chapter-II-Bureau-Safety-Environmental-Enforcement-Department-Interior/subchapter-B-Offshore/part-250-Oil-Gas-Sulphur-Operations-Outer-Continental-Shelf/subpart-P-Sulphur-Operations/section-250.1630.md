@@ -23,3 +23,5 @@
 (6) Prior to the commencement of production, the lessee shall notify the District Manager when the lessee is ready to conduct a preproduction test and inspection of the safety system. The lessee shall also notify the District Manager upon commencement of production in order that a complete inspection may be conducted.
 
 (b) *Records.* The lessee shall maintain records for a period of 2 years for each safety device installed. These records shall be maintained by the lessee at the lessee's field office nearest the OCS facility or another location conveniently available to the District Manager. These records shall be available for BSEE review. The records shall show the present status and history of each safety device, including dates and details of installation, removal, inspection, testing, repairing, adjustments, and reinstallation.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

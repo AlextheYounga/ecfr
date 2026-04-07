@@ -1,6 +1,6 @@
 ##### § 250.115 What are the procedures for, and effects of, incorporation of documents by reference in this part?
 
-For the documents incorporated by reference in this part:
+For the documents incorporated by reference in this part:Federal Register
 
 (a) Incorporation by reference of a document is limited to the edition of the document, or the specific edition and supplement or addendum, that is cited in § 250.198. Future amendments or revisions of the incorporated document are not included. BSEE will publish any changes to the incorporation of the document in the Federal Register and amend § 250.198 as appropriate.
 

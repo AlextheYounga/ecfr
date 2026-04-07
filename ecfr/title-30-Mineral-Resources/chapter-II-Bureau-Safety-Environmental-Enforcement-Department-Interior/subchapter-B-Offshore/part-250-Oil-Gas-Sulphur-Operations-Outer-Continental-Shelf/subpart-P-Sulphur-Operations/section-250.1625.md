@@ -33,3 +33,5 @@
 (3) Any problems or irregularities observed during BOP and auxiliary equipment testing and any actions taken to remedy such problems or irregularities shall be noted in the operations log.
 
 (4) Documentation required to be entered in the driller's report may instead be referenced in the driller's report. All records, including pressure charts, driller's report, and referenced documents, pertaining to BOP tests, actuations, and inspections shall be available for BSEE review at the facility for the duration of the drilling activity. Following completion of the drilling activity, all drilling records shall be retained for a period of 2 years at the facility, at the lessee's field office nearest the OCS facility, or at another location conveniently available to the District Manager.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

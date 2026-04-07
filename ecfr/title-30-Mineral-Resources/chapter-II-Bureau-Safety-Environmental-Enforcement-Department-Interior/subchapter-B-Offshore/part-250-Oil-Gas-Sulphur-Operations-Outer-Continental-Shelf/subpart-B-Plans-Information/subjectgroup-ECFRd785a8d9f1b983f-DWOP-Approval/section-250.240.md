@@ -1,6 +1,6 @@
 ##### § 250.240 What production safety system information must my DWOP include?
 
-You must include the following information in your DWOP, as applicable, to be consistent with the activities you plan to address in the associated production safety system application:
+You must include the following information in your DWOP, as applicable, to be consistent with the activities you plan to address in the associated production safety system application:*e.g.,*
 
 (a) A general description of the operating procedures;
 

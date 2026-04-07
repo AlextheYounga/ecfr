@@ -1,6 +1,6 @@
 ##### § 250.220 What is the DWOP process?
 
-(a) The DWOP process consists of providing sufficient information from a total system approach for BSEE to review:
+(a) The DWOP process consists of providing sufficient information from a total system approach for BSEE to review:*e.g.,*
 
 (1) A deepwater development project,
 

@@ -37,3 +37,5 @@
 (e) *Production liner setting and cementing requirements.* (1) Production liners for sulphur wells and bleedwells shall be set in cap rock at or above the bottom of the open hole (hole that is open in cap rock, below the bottom of the cap rock casing) and lapped into the previous casing string or to the surface. For brine wells, the liner shall be set in salt and lapped into the previous casing string or to the surface.
 
 (2) The production liner is not required to be cemented unless the cap rock contains oil or gas. If the cap rock contains oil or gas, sufficient cement shall be used to fill the annular space to the top of the production liner.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

@@ -11,3 +11,5 @@
 (2) No spool outlet or diverter line internal diameter shall be less than 10 inches, except that dual spool outlets are acceptable if each outlet has a minimum internal diameter of 8 inches, and both outlets are piped to overboard lines and that each line downstream of the changeover nipple at the spool has a minimum internal diameter of 10 inches.
 
 (d) The diverter sealing element and diverter valves shall be pressure tested to a minimum of 200 psi when nippled upon conductor casing. No more than 7 days shall elapse between subsequent pressure tests. The diverter sealing element, diverter valves, and diverter control systems (including the remote) shall be actuation tested, and the diverter lines shall be tested for flow prior to spudding and thereafter at least once each 24-hour period alternating between control stations. All test times and results shall be recorded in the driller's report.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

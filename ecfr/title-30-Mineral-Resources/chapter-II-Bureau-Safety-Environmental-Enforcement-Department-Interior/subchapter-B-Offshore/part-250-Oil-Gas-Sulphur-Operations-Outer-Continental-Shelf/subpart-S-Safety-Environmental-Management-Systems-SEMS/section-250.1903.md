@@ -1,6 +1,6 @@
 ##### § 250.1903 Acronyms and definitions.
 
-Definitions listed in this section apply to this subpart and supersede definitions in API RP 75, Appendices D and E; COS-2-01, COS-2-03, and COS-2-04; and ISO/IEC 17011 (incorporated by reference as specified in § 250.198).
+Definitions listed in this section apply to this subpart and supersede definitions in API RP 75, Appendices D and E; COS-2-01, COS-2-03, and COS-2-04; and ISO/IEC 17011 (incorporated by reference as specified in § 250.198).*Acronyms*
 
 (a) *Acronyms* used frequently in this subpart have the following meanings:
 

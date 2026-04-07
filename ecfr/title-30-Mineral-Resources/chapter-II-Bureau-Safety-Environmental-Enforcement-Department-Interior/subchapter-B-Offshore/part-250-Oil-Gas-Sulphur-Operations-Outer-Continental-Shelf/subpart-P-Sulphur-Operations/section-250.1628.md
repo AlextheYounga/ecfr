@@ -43,3 +43,5 @@
 (iv) Method and frequency of calibration; and
 
 (v) A functional block diagram of the detection system, including the electric power supply.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

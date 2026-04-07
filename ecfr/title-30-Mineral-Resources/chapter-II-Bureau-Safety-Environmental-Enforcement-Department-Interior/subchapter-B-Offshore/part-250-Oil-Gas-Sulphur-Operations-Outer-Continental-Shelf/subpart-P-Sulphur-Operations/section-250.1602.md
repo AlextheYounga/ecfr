@@ -5,3 +5,5 @@
 (b) Lessees conducting sulphur operations in the OCS shall comply with the requirements of the applicable provisions of subparts A, B, C, I, J, M, N, O, and Q of this part and the applicable provisions of 30 CFR 550 subparts A, B, C, J and N.
 
 (c) Lessees conducting sulphur operations in the OCS are also required to comply with the requirements in the applicable provisions of subparts D, E, F, H, K, and L of this part and the applicable provisions of 30 CFR 550, subpart K, where such provisions specifically are referenced in this subpart.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

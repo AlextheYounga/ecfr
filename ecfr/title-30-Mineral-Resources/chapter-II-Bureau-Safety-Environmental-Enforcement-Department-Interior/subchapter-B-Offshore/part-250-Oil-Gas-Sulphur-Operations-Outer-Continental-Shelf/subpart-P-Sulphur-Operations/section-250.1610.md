@@ -49,3 +49,5 @@
 (1) One set of variable bore rams capable of sealing around both sizes in the string and one set of blind rams, or
 
 (2) One set of pipe rams capable of sealing around the larger size string, provided that blind-shear ram capability is present, and crossover subs to the larger size pipe are readily available on the rig floor.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

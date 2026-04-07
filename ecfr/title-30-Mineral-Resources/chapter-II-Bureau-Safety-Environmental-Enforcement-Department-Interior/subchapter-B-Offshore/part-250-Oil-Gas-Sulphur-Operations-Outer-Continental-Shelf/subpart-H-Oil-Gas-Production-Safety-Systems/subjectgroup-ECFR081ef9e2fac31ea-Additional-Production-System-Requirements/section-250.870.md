@@ -1,6 +1,6 @@
 ##### § 250.870 Time delays on pressure safety low (PSL) sensors.
 
-(a) You may apply industry standard Class B, Class C, or Class B/C logic to applicable PSL sensors installed on process equipment. If the device may be bypassed for greater than 45 seconds, you must monitor the bypassed devices in accordance with § 250.869(a). You must document on your field test records any use of a PSL sensor with a time delay greater than 45 seconds. For purposes of this section, PSL sensors are categorized as follows:
+(a) You may apply industry standard Class B, Class C, or Class B/C logic to applicable PSL sensors installed on process equipment. If the device may be bypassed for greater than 45 seconds, you must monitor the bypassed devices in accordance with § 250.869(a). You must document on your field test records any use of a PSL sensor with a time delay greater than 45 seconds. For purposes of this section, PSL sensors are categorized as follows:*i.e.,*
 
 (1) Class B safety devices have logic that allows for the PSL sensors to be bypassed for a fixed time period (typically less than 15 seconds, but not more than 45 seconds). Examples include sensors used in conjunction with the design of pump and compressor panels such as PSL sensors, lubricator no-flows, and high-water jacket temperature shutdowns.
 

@@ -1,6 +1,6 @@
 ##### § 250.231 What are your requirements for the Independent Third Party (I3P) nomination?
 
-In accordance with each applicable Conceptual Plan, you must:
+In accordance with each applicable Conceptual Plan, you must:*e.g.,*
 
 (a) Nominate I3P(s) to review the design verification and design validation documentation of the Original Equipment Manufacturer (OEM). Your I3P must be a technical classification society, a licensed professional engineering firm, or a registered professional engineer capable of providing the required verifications and validations. You must submit your I3P nomination(s) within the applicable Conceptual Plan for separate BSEE acceptance before BSEE will approve the applicable Conceptual Plan. Your I3P nomination must include the following descriptions:
 

@@ -1,6 +1,6 @@
 ##### § 250.601 Definitions.
 
-When used in this subpart, the following terms shall have the meanings given below:
+When used in this subpart, the following terms shall have the meanings given below:*Expected surface pressure*
 
 *Expected surface pressure* means the highest pressure predicted to be exerted upon the surface of a well. In calculating expected surface pressure, you must consider reservoir pressure as well as applied surface pressure.
 

@@ -1,6 +1,6 @@
 ##### § 250.186 What reporting information and report forms must I submit?
 
-(a) You must submit information and reports as BSEE requires.
+(a) You must submit information and reports as BSEE requires.*Public Information*
 
 (1) You may obtain copies of forms from, and submit completed forms to, the District Manager or Regional Supervisor.
 

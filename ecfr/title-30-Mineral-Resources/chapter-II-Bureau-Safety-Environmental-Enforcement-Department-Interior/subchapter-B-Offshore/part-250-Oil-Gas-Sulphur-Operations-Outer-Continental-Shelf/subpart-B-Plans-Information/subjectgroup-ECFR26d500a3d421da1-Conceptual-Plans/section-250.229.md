@@ -1,6 +1,6 @@
 ##### § 250.229 What must the New or Unusual Technology Barrier Equipment Conceptual Plan include?
 
-Your New or Unusual Technology Barrier Equipment Conceptual Plan must include the following information:
+Your New or Unusual Technology Barrier Equipment Conceptual Plan must include the following information:*e.g.,*
 
 (a) A description how the New or Unusual Technology Barrier Equipment Conceptual Plan fits within your overall site-specific project, if applicable. You must include an overview of the project development concepts and a proposed schedule for submittal of associated Conceptual Plans;
 

@@ -1,6 +1,6 @@
 ##### § 250.1001 Definitions.
 
-Terms used in this subpart shall have the meanings given below:
+Terms used in this subpart shall have the meanings given below:*DOI pipelines*
 
 *DOI pipelines* include:
 

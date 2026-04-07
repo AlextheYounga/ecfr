@@ -5,3 +5,5 @@
 (b) The Form BSEE-0124 submittal shall contain a detailed statement of the proposed work that will materially change from the work described in the approved APD. Information submitted shall include the present state of the well, including the production liner and last string of casing, the well depth and production zone, and the well's capability to produce. Within 30 days after completion of the work, a subsequent detailed report of all the work done and the results obtained shall be submitted.
 
 (c) Public information copies of Form BSEE-0124 shall be submitted in accordance with § 250.186 of this part.
+
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.

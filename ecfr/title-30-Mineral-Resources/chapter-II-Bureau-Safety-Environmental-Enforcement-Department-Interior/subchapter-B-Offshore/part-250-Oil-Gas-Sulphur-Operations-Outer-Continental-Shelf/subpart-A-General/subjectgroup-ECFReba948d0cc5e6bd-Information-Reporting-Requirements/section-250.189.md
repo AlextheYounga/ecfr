@@ -1,6 +1,6 @@
 ##### § 250.189 Reporting requirements for incidents requiring immediate notification.
 
-For an incident requiring immediate notification under § 250.188(a), you must notify the District Manager via oral communication immediately after aiding the injured and stabilizing the situation. Your oral communication must provide the following information:
+For an incident requiring immediate notification under § 250.188(a), you must notify the District Manager via oral communication immediately after aiding the injured and stabilizing the situation. Your oral communication must provide the following information:*i.e.,*
 
 (a) Date and time of occurrence;
 

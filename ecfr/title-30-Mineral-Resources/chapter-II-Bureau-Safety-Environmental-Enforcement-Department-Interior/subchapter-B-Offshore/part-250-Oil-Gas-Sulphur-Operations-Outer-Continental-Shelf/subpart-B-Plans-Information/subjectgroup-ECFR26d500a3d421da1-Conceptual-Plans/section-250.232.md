@@ -1,6 +1,6 @@
 ##### § 250.232 What are the I3P review requirements for Conceptual Plan reviews?
 
-In accordance with each applicable Conceptual Plan, the I3P must:
+In accordance with each applicable Conceptual Plan, the I3P must:*e.g.,*
 
 (a) Review the following information regarding the applicable equipment and/or system:
 

@@ -1,6 +1,6 @@
 ##### § 250.713 What must I provide if I plan to use a mobile offshore drilling unit (MODU) for well operations?
 
-If you plan to use a MODU for well operations, you must provide:
+If you plan to use a MODU for well operations, you must provide:*Fitness requirements.*
 
 (a) *Fitness requirements.* Information and data to demonstrate the MODU's capability to perform at the proposed location. This information must include the maximum environmental and operational conditions that the MODU is designed to withstand, including the minimum air gap necessary for both hurricane and non-hurricane seasons. If sufficient environmental information and data are not available at the time you submit your APD or APM, the District Manager may approve your APD or APM, but require you to collect and report this information during operations. Under this circumstance, the District Manager may revoke the approval of the APD or APM if information collected during operations shows that the MODU is not capable of performing at the proposed location.
 

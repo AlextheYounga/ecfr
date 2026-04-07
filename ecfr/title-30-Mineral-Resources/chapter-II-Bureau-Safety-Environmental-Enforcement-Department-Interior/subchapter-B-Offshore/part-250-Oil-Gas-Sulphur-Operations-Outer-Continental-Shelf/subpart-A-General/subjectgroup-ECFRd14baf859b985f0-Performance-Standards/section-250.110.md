@@ -1,6 +1,6 @@
 ##### § 250.110 What must I include in my welding plan?
 
-You must include all of the following in the welding plan that you prepare under § 250.109:
+You must include all of the following in the welding plan that you prepare under § 250.109:*i.e.,*
 
 (a) Standards or requirements for welders;
 

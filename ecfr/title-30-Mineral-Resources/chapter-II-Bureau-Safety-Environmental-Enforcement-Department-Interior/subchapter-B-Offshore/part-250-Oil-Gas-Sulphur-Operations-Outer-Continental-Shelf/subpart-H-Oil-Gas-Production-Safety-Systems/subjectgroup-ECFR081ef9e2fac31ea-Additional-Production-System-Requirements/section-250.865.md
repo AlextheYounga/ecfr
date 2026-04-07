@@ -1,6 +1,6 @@
 ##### § 250.865 Surface pumps.
 
-(a) You must equip pump installations with the protective equipment required in API RP 14C, Appendix A—A.7, Pumps (incorporated by reference as specified in § 250.198).
+(a) You must equip pump installations with the protective equipment required in API RP 14C, Appendix A—A.7, Pumps (incorporated by reference as specified in § 250.198).1/2
 
 (b) You must use pressure recording devices to establish the new operating pressure ranges for pump discharge sensors at any time when the normalized system pressure changes by 50 psig or 5 percent, whichever is higher. Once system pressure has stabilized, pressure recording devices must be utilized to establish the new operating pressure ranges. The pressure recording devices must document the pressure range over time intervals that are no less than 4 hours and no more than 30 days long. You must only maintain the most recent pressure recording information that you used to determine operating pressure ranges at your field office nearest the OCS facility or at another location conveniently available to the District Manager.
 

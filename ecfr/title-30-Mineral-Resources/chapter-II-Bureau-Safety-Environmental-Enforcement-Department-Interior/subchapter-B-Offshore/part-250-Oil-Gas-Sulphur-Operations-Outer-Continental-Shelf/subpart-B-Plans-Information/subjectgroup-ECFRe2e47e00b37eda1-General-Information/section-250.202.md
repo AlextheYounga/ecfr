@@ -1,6 +1,6 @@
 ##### § 250.202 How must I protect the rights of the Federal government?
 
-(a) To protect the rights of the Federal government, you must either:
+(a) To protect the rights of the Federal government, you must either:*e.g.,*
 
 (1) Drill and produce the wells that the Regional Supervisor determines are necessary to protect the Federal government from loss due to production on other leases or units or from adjacent lands under the jurisdiction of other entities (*e.g.,* State and foreign governments); or
 

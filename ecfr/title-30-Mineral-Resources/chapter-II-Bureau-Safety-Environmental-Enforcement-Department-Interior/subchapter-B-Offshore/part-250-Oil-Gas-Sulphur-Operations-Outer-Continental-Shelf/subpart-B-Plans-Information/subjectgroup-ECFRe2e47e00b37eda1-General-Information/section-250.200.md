@@ -1,6 +1,6 @@
 ##### § 250.200 Definitions.
 
-Acronyms and terms used in this subpart have the following meanings:
+Acronyms and terms used in this subpart have the following meanings:*Amendment*
 
 (a) Acronyms used frequently in this subpart are listed alphabetically below:
 
