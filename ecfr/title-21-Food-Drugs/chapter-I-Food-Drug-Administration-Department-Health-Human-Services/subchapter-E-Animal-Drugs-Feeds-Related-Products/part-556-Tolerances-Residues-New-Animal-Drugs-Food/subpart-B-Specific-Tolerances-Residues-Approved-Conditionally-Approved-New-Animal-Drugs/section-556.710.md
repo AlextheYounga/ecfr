@@ -14,4 +14,6 @@
 
 (2) \[Reserved\]
 
-(c) *Related conditions of use.* See § 522.842 of this chapter.
+(c) *Related conditions of use.* See § 522.2343 of this chapter.
+
+\[84 FR 32993, July 11, 2019, as amended at 87 FR 10970, Feb. 28, 2022\]

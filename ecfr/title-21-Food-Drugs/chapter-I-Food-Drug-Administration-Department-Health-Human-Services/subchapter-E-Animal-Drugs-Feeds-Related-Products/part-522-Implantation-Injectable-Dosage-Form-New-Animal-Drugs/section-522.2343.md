@@ -1,4 +1,4 @@
-##### § 522.842 Estradiol benzoate and testosterone propionate.
+##### § 522.2343 Testosterone propionate and estradiol benzoate.
 
 (a) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (c) of this section.
 
@@ -18,4 +18,4 @@
 
 (3) *Limitations.* For heifers weighing 400 pounds or more; for subcutaneous ear implantation, one dose per animal; not for use in dairy or beef replacement heifers. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
 
-\[69 FR 68252, Nov. 24, 2004, as amended at 77 FR 31723, May 30, 2012; 79 FR 16187, Mar. 25, 2014; 81 FR 48702, July 26, 2016\]
+\[69 FR 68252, Nov. 24, 2004, as amended at 77 FR 31723, May 30, 2012; 79 FR 16187, Mar. 25, 2014; 81 FR 48702, July 26, 2016. Redesignated and amended at 87 FR 10969, Feb. 28, 2022\]
