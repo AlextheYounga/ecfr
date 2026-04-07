@@ -1,6 +1,6 @@
 ##### § 126.16 Exemption pursuant to the Defense Trade Cooperation Treaty between the United States and Australia.
 
-(a) *Scope of exemption and required conditions*—(1) *Definitions.* (i) An *export* means, for purposes of this section only, the initial movement of defense articles or defense services from the United States Community to the Australian Community.
+(a) *Scope of exemption and required conditions*—(1) *Definitions.* (i) An *export* means, for purposes of this section only, the initial movement of defense articles or defense services from the United States Community to the Australian Community.Federal Register
 
 (ii) A *transfer* means, for purposes of this section only, the movement of a previously exported defense article or defense service by a member of the Australian Community within the Australian Community, or between a member of the United States Community and a member of the Australian Community.
 

@@ -1,0 +1,5 @@
+##### § 139.75 Firearms, dangerous weapons, and explosives.
+
+(a) Any person on Federal property is prohibited from knowingly carrying or otherwise possessing a firearm or other dangerous weapon, as defined by 18 U.S.C. 921 and 930, whether carried or otherwise possessed either openly or concealed, unless authorized by 18 U.S.C. 930(d).
+
+(b) Any person on Federal property is prohibited from knowingly carrying or otherwise possessing explosives, as defined by 18 U.S.C. 841, or items intended to be used to fabricate an explosive or incendiary device, whether carried or otherwise possessed either openly or concealed, except for official purposes as authorized by the Facility Security Committee, Designated Official, FPS, or other primary law enforcement agency responsible for the security of the Federal property.

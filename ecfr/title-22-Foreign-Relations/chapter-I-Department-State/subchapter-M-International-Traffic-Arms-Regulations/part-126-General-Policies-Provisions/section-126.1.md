@@ -1,6 +1,6 @@
 ##### § 126.1 Prohibited exports, imports, and sales to or from certain countries.
 
-(a) *General.* It is the policy of the United States to deny licenses and other approvals for exports and imports of defense articles and defense services, destined for or originating in certain countries. (See also § 129.7 of this subchapter, which imposes restrictions on brokering activities similar to those in this section.) The exemptions provided in this subchapter do not apply with respect to defense articles or defense services originating in or for export to any proscribed countries, areas, or persons as described in this section, except that the following exemptions may be utilized:
+(a) *General.* It is the policy of the United States to deny licenses and other approvals for exports and imports of defense articles and defense services, destined for or originating in certain countries. (See also § 129.7 of this subchapter, which imposes restrictions on brokering activities similar to those in this section.) The exemptions provided in this subchapter do not apply with respect to defense articles or defense services originating in or for export to any proscribed countries, areas, or persons as described in this section, except that the following exemptions may be utilized:Federal Register
 
 (1) Transfers pursuant to § 123.17 of this subchapter, or § 126.6, or § 126.18(e);
 
@@ -30,6 +30,7 @@
 
 Table 1 to Paragraph (d)(1)
 
+Table 2 to Paragraph (d)(2)
 | Country      |
 | ------------ |
 | Belarus.     |

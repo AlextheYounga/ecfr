@@ -1,6 +1,6 @@
 ##### § 126.6 Foreign-owned military aircraft and naval vessels, and the Foreign Military Sales program.
 
-(a) A license from the Directorate of Defense Trade Controls is not required if:
+(a) A license from the Directorate of Defense Trade Controls is not required if:*Foreign military aircraft and naval vessels.*
 
 (1) The article or technical data to be exported was sold, leased, or loaned by the Department of Defense to a foreign country or international organization pursuant to the Arms Export Control Act or the Foreign Assistance Act of 1961, as amended, and
 

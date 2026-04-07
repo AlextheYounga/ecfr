@@ -1,6 +1,6 @@
 ##### § 126.9 Exemptions for certain activities involving defense articles.
 
-(a)-(t) \[Reserved\]
+(a)-(t) \[Reserved\]*Exemption for certain large Unmanned Underwater Vehicle (UUV) activities*
 
 (u) *Exemption for certain large Unmanned Underwater Vehicle (UUV) activities*—(1) *Activities exempted.* No license or other approval is required for the following activities, subject to the restrictions in paragraph (u)(2) of this section:
 
