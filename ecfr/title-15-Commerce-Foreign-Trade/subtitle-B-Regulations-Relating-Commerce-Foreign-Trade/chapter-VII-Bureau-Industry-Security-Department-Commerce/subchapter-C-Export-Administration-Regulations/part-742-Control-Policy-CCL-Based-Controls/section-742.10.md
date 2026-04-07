@@ -4,7 +4,7 @@
 
 1 AT column 1 refers to items controlled to Iran, Sudan, and Syria for anti-terrorism purposes. AT column 2 refers to additional items controlled to Iran and Sudan for anti-terrorism purposes. In addition, items included in ECCNs 2A994, 2D994 and 2E994 are controlled to Iran for anti-terrorism purposes.
 
-(2) If AT column 1 or AT column 2 of the Commerce Country Chart (supplement no. 1 to part 738 of the EAR) is indicated in the appropriate ECCN, a license is required for *reexport* to Sudan for anti-terrorism purposes, *except* for ECCNs 2A994, 3A992.a, 5A991.g, 5A992.c, 5D992. c, 6A991, 6A998, 7A994, 8A992.d, .e, .f, and .g, 9A990.a and .b, and 9A991.d and .e. In addition, items in these ECCNs are not counted as controlled U.S. content for the purpose of determining license requirements for U.S. parts, components or materials incorporated into foreign made products. However, the export from the United States to any destination with knowledge that they will be reexported directly or indirectly, in whole or in part to Sudan is prohibited without a license.
+(2) If AT column 1 or AT column 2 of the Commerce Country Chart (supplement no. 1 to part 738 of the EAR) is indicated in the appropriate ECCN, a license is required for *reexport* to Sudan for anti-terrorism purposes, *except* for ECCNs 2A994, 3A992.a, 5A991.g, 5A992.c, 5D992.c, 6A991, 6A998, 7A994, 8A992.d, .e, .f, and .g, 9A990.a and .b, and 9A991.d and .e. In addition, items in these ECCNs are not counted as controlled U.S. content for the purpose of determining license requirements for U.S. parts, components or materials incorporated into foreign made products. However, the export from the United States to any destination with knowledge that they will be reexported directly or indirectly, in whole or in part to Sudan is prohibited without a license.
 
 (3) The Secretary of State has designated Sudan as a country whose government has repeatedly provided support for acts of international terrorism.
 
@@ -14,7 +14,7 @@
 
 (ii) Items listed in paragraphs (c)(1) through (c)(5) of supplement no. 2 to part 742 destined to other end-users in Sudan, as well as items to all end-users listed in (c)(6) through (c)(14) and (c)(16) through (c)(44) of supplement no. 2 to part 742 are controlled to Sudan under section 6(a) of the EAA.
 
-(b) *Licensing policy.* (1) *General policy of denial.* Applications for export and reexport to all end-users in Sudan of the following items will generally be denied:
+(b) *Licensing policy* - (1) *General policy of denial.* Applications for export and reexport to all end-users in Sudan of the following items will generally be denied:
 
 (i) Items that are controlled for chemical and biological weapons proliferation reasons to any destination. These are items that contain CB Column 1, CB Column 2, or CB Column 3 in the Country Chart column of the “License Requirements” section of an ECCN on the CCL.
 

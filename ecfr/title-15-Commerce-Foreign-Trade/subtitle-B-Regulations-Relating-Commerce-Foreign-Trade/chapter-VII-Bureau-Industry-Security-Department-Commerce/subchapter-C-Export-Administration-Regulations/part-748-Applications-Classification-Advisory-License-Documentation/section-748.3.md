@@ -10,7 +10,7 @@
 
 (3) BIS assigns each of its commodity classifications a Commodity Classification Automated Tracking System (CCATS) number. Neither the BIS classification nor the CCATS number may be relied upon or cited as evidence that the U.S. Government has determined that the items described in the commodity classification determination are subject to the EAR (See 15 CFR 734.3).
 
-(c) *Advisory Opinions.* Advisory opinion requests must be in writing and be submitted to the address listed in § 748.1(d)(2). Both your letter and envelope must be marked “Advisory Opinion.”
+(c) *Advisory opinions.* Advisory opinion requests must be in writing and be submitted to the address listed in § 748.1(d)(2). Both your letter and envelope must be marked “Advisory Opinion.”
 
 (1) Your letter must contain the following information if you are requesting guidance regarding interpretations of the EAR:
 

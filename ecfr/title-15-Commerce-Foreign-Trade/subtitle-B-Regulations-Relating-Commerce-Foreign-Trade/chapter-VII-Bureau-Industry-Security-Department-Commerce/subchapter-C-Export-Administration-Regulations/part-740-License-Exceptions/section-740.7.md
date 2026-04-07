@@ -22,7 +22,7 @@
 
 (2) *Eligible commodities.* All computers, including electronic assemblies and specially designed components therefore are eligible for export or reexport under License Exception APP to Tier 1 destinations, subject to the restrictions in paragraph (b) of this section.
 
-(3) *Eligible technology and software.* (i) Technology and software described in paragraph (a)(2) of this section for computers of unlimited APP are eligible for export, reexport, transfer (in-country) under License Exception APP to countries listed in Country Group A:5, see Supplement No. 1 to this part; and
+(3) *Eligible technology and software.* (i) Technology and software described in paragraph (a)(2) of this section for computers of unlimited APP are eligible for export, reexport, transfer (in-country) under License Exception APP to countries listed in Country Group A:5, see supplement no. 1 to this part; and
 
 (ii) “Development” and “production” technology and source code described in paragraph (a)(2) of this section for computers with a APP less than or equal to 40 Weighted TeraFLOPS (WT) are eligible for deemed exports under License Exception APP to foreign nationals of Tier 1 destinations, other than the destinations that are listed in paragraph (c)(3)(i) of this section, subject to the restrictions in paragraph (b) of this section.
 

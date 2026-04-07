@@ -26,7 +26,7 @@
 
 (4) A temporary denial order may be renewed more than once.
 
-(e) *Appeals* - (1) *Filing.* (i) A respondent may, at any time, file an appeal of the initial or renewed temporary denial order with the administrative law judge.
+(e) *Appeals*—(1) *Filing.* (i) A respondent may, at any time, file an appeal of the initial or renewed temporary denial order with the administrative law judge.
 
 (ii) The filing of an appeal shall stay neither the effectiveness of the temporary denial order nor any application for renewal, nor will it operate to bar the Assistant Secretary's consideration of any renewal application.
 
@@ -34,7 +34,7 @@
 
 (3) *Appeal procedure.* A full written statement in support of the appeal must be filed with the appeal together with appropriate evidence, and be simultaneously served on BIS, which shall have seven days from receipt to file a reply. Service on the administrative law judge shall be addressed to U.S. Coast Guard, ALJ Docketing Center, 40 S. Gay Street, Baltimore, Maryland, 21202-4022. Service on BIS shall be as set forth in § 766.5(b) of this part. The administrative law judge normally will not hold hearings or entertain oral argument on appeals.
 
-(4) *Recommended Decision.* Within 10 working days after an appeal is filed, the administrative law judge shall submit a recommended decision to the Under Secretary, and serve copies on the parties, recommending whether the issuance or the renewal of the temporary denial order should be affirmed, modified or vacated.
+(4) *Recommended decision.* Within 10 working days after an appeal is filed, the administrative law judge shall submit a recommended decision to the Under Secretary, and serve copies on the parties, recommending whether the issuance or the renewal of the temporary denial order should be affirmed, modified or vacated.
 
 (5) *Final decision.* Within five working days after receipt of the recommended decision, the Under Secretary shall issue a written order accepting, rejecting or modifying the recommended decision. Because of the time constraints, the Under Secretary's review will ordinarily be limited to the written record for decision, including the transcript of any hearing. The issuance or renewal of the temporary denial order shall be affirmed only if there is reason to believe that the temporary denial order is required in the public interest to prevent an imminent violation of the EAA, the EAR, or any order, license or other authorization issued under the EAA.
 
