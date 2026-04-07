@@ -16,17 +16,15 @@
 
 (d) Protection for Table Mountain Radio Receiving Zone, Boulder County, Colorado: Applicants for a station authorization to operate in the vicinity of Boulder County, Colorado under this part are advised to give due consideration, prior to filing applications, to the need to protect the Table Mountain Radio Receiving Zone from harmful interference. These are the research laboratories of the Department of Commerce, Boulder County, Colorado. To prevent degradation of the present ambient radio signal level at the site, the Department of Commerce seeks to ensure that the field strengths of any radiated signals (excluding reflected signals) received on this 1800 acre site (in the vicinity of coordinates 40°07′50″ N Latitude, 105°14′40″ W Longitude) resulting from new assignments (other than mobile stations) or from the modification or relocation of existing facilities do not exceed the following values:
 
-| Frequency range | In authorized bandwidth of service |
-| --------------- | ---------------------------------- |
-| Below 540 kHz   | 10                                 |
-| 540 to 1600 kHz | 20                                 |
-| 1.6 to 470 MHz  | 10                                 |
-| 470 to 890 MHz  | 30                                 |
-| Above 890 MHz   | 1                                  |
-
-1 Equivalent values of power flux density are caculated assuming free space characteristic impedance of 376.7 = 120π ohms.
-
-2 Space stations shall conform to the power flux density limits at the earth's surface specified in appropriate parts of the FCC rules, but in no case should exceed the above levels in any 4 kHz band for all angles of arrival.
+| Frequency range                                                                                                                                                                                                                    | In authorized bandwidth of service |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| Below 540 kHz                                                                                                                                                                                                                      | 10                                 |
+| 540 to 1600 kHz                                                                                                                                                                                                                    | 20                                 |
+| 1.6 to 470 MHz                                                                                                                                                                                                                     | 10                                 |
+| 470 to 890 MHz                                                                                                                                                                                                                     | 30                                 |
+| Above 890 MHz                                                                                                                                                                                                                      | 1                                  |
+| 1 Equivalent values of power flux density are caculated assuming free space characteristic impedance of 376.7 = 120π ohms.                                                                                                         |                                    |
+| 2 Space stations shall conform to the power flux density limits at the earth's surface specified in appropriate parts of the FCC rules, but in no case should exceed the above levels in any 4 kHz band for all angles of arrival. |                                    |
 
 (1) Advance consultation is recomended particularly for those applicants who have no reliable data which indicates whether the field strength or power flux density figures in the above table would be exceeded by their proposed radio facilities (except mobile stations). In such instances, the following is a suggested guide for determining whether coordination is recommended:
 
@@ -94,4 +92,4 @@ Note to § 78.19(f):
 
 The coordinates cited in this section are specified in terms of the “North American Datum of 1983 (NAD 83).
 
-\[37 FR 3292, Feb. 12, 1972\] Editorial Note:For Federal Register citations affecting § 78.19, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+\[37 FR 3292, Feb. 12, 1972\] Editorial Note:For Federal Register citations affecting § 78.19, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1254,4 +1254,4 @@ Effective Date of this Endorsement 12:01 a.m. Standard Time To form a part of Po
 
 For the subscribing companies
 
-By General Manager Endorsement No. Countersigned by \[25 FR 2948, Apr. 7, 1960\] Editorial Note:For Federal Register citations affecting § 140.91, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+By General Manager Endorsement No. Countersigned by \[25 FR 2948, Apr. 7, 1960\] Editorial Note:For Federal Register citations affecting § 140.91, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
