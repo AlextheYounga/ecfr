@@ -1,5 +1,7 @@
 ##### § 922.62 Permit procedure and criteria.
 
+Link to an amendment published at 87 FR 29632, May 13, 2022.
+
 (a) Any person or entity may conduct in the Sanctuary any activity listed in § 922.61 if such activity is either:
 
 (1) For the purpose of research related to the Monitor, or

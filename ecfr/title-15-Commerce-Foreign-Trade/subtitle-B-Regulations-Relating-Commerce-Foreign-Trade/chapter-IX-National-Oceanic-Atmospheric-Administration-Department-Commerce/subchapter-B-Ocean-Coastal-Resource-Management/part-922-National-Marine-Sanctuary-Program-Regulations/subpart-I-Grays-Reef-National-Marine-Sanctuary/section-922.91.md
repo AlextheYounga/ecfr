@@ -1,5 +1,7 @@
 ##### § 922.91 Definitions.
 
+Link to an amendment published at 87 FR 29633, May 13, 2022.
+
 In addition to those definitions found at § 922.3, the following definitions apply to this subpart:
 
 *Handline* means fishing gear that is set and pulled by hand and consists of one vertical line to which may be attached leader lines with hooks.

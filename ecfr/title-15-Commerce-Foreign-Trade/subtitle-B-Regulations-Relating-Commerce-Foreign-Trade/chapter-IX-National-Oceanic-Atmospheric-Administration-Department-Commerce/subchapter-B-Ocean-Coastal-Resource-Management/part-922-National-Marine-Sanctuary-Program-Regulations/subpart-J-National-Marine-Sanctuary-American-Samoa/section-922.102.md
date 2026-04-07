@@ -1,5 +1,7 @@
 ##### § 922.102 Definitions.
 
+Link to an amendment published at 87 FR 29633, May 13, 2022.
+
 In addition to those definitions found at § 922.3, the following definitions apply to this subpart:
 
 *Clean* means not containing detectable levels of harmful matter.
