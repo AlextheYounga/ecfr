@@ -18,7 +18,7 @@
 
 (i) *Amount.* Administer at the 0.012 percent level in drinking water as soon as coccidiosis is diagnosed and continue for 3 to 5 days (in severe outbreaks, give amprolium at the 0.024 percent level); continue with 0.006 percent amprolium-medicated water for an additional 1 to 2 weeks.
 
-(ii)*Indications for use.* For the treatment of coccidiosis.
+(ii) *Indications for use.* For the treatment of coccidiosis.
 
 (iii) *Limitations.* Use as the sole source of amprolium.
 

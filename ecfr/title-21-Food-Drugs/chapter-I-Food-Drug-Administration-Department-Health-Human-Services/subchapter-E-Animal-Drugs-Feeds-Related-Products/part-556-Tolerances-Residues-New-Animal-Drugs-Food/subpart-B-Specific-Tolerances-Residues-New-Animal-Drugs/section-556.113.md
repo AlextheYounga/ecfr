@@ -10,7 +10,7 @@
 
 (i) *Kidney (target tissue).* 0.25 parts per million (ppm).
 
-(ii)*Liver.* 3 ppm.
+(ii) *Liver.* 3 ppm.
 
 (iii) *Muscle.* 2 ppm.
 
@@ -20,7 +20,7 @@
 
 (ii) *Liver.* 2 ppm.
 
-(iii)*Muscle.* 1 ppm.
+(iii) *Muscle.* 1 ppm.
 
 (iv) *Milk.* 0.1 ppm.
 
