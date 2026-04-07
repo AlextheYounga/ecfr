@@ -52,7 +52,7 @@ Notes to paragraph (c)(1):
 
 (3) Reexports of foreign technology commingled with or drawn from controlled U.S.-origin technology valued at 10% or less of the total value of the foreign technology. Before you may rely upon the *de minimis* exclusion for foreign-made technology commingled with controlled U.S.-origin technology, you must file a one-time report. See supplement no. 2 to part 734 for submission requirements.
 
-(d) *25% De Minimis Rule.* Except as provided in paragraph (a) of this section and subject to the provisions of paragraph (b) of this section, the following reexports are not subject to the EAR when made to countries other than those listed in Country Group E:1 of supplement no. 1 to part 740 of the EAR. See supplement no. 2 to this part for guidance on calculating values.
+(d) *25% De Minimis Rule.* Except as provided in paragraph (a) of this section and subject to the provisions of paragraph (b) of this section, the following reexports are not subject to the EAR when made to countries other than those listed in Country Group E:1 or E:2 of supplement no. 1 to part 740 of the EAR. See supplement no. 2 to this part for guidance on calculating values.
 
 (1) Reexports of a foreign-made commodity incorporating controlled U.S.-origin commodities or “bundled” with U.S.-origin software valued at 25% or less of the total value of the foreign-made commodity;
 

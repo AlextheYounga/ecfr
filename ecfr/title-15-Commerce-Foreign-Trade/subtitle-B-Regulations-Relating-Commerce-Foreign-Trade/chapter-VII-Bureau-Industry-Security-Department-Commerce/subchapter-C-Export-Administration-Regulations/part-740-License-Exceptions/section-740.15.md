@@ -4,13 +4,13 @@ This License Exception authorizes departure from the United States of foreign re
 
 (a) *Aircraft on temporary sojourn* - (1) *Foreign registered aircraft.* An operating civil aircraft of foreign registry that has been in the United States on a temporary sojourn may depart from the United States under its own power for any destination, provided that:
 
-(i) No sale or transfer of operational control of the aircraft to nationals of a destination in Country Group E:1 (see supplement no. 1 to this part) has occurred while in the United States;
+(i) No sale or transfer of operational control of the aircraft to a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part) has occurred while in the United States;
 
-(ii) The aircraft is not departing for the purpose of sale or transfer of operational control to nationals of a destination in Country Group E:1 (see supplement no. 1 to this part); and
+(ii) The aircraft is not departing for the purpose of sale or transfer of operational control to a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part); and
 
 (iii) It does not carry from the United States any item for which an export license is required and has not been granted by the U.S. Government.
 
-(2) *U.S. registered aircraft.* (i) A civil aircraft of U.S. registry operating under an Air Carrier Operating Certificate, Commercial Operating Certificate, or Air Taxi Operating Certificate issued by the Federal Aviation Administration (FAA), conducting flights under operating specifications approved by the FAA pursuant to 14 CFR part 129, or air ambulances operating under 14 CFR part 135, may depart from the United States under its own power for any destination, provided that:
+(2) *U.S. registered aircraft.* (i) A civil aircraft of U.S. registry operating under an Air Carrier Operating Certificate, Commercial Operating Certificate, or Air Taxi Operating Certificate issued by the Federal Aviation Administration (FAA) or conducting flights under operating specifications approved by the FAA pursuant to 14 CFR part 129, or an air ambulance of U.S. registry operating under 14 CFR part 135, may depart from the United States under its own power for any destination, provided that:
 
 (A) The aircraft does not depart for the purpose of sale, lease or other disposition of operational control of the aircraft, or its equipment, parts, accessories, or components to a foreign country or any national thereof;
 
@@ -20,7 +20,7 @@ This License Exception authorizes departure from the United States of foreign re
 
 (D) The aircraft does not carry from the United States any item for which a license is required and has not been granted by the U.S. Government.
 
-(ii) Any other operating civil aircraft of U.S. registry may depart from the United States under its own power for any destination, except to Cuba or a destination in Country Group E:1 (see supplement no. 1 to this part) (flights to these destinations require a license), provided that:
+(ii) Any other operating civil aircraft of U.S. registry may depart from the United States under its own power for any destination, except to or a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part) (flights to these destinations require a license), provided that:
 
 (A) The aircraft does not depart for the purpose of sale, lease or other disposition of operational control of the aircraft, or its equipment, parts, accessories, or components to a foreign country or any national thereof;
 
@@ -32,7 +32,7 @@ This License Exception authorizes departure from the United States of foreign re
 
 (E) The aircraft will be operated while abroad by a U.S. licensed pilot, except that during domestic flights within a foreign country, the aircraft may be operated by a pilot currently licensed by that foreign country.
 
-(3) *Criteria.* The following nine criteria each must be met if the flight is to qualify as a temporary sojourn. To be considered a temporary sojourn, the flight must not be for the purpose of sale or transfer of operational control. An export is for the transfer of operational control unless the exporter retains each of the following indicia of control:
+(3) *Criteria.* The following ten criteria each must be met if the flight is to qualify as a temporary sojourn. To be considered a temporary sojourn, the flight must not be for the purpose of sale or transfer of operational control. An export is for the transfer of operational control unless the exporter retains each of the following indicia of control:
 
 (i) *Hiring of cockpit crew.* Right to hire and fire the cockpit crew.
 
@@ -40,17 +40,19 @@ This License Exception authorizes departure from the United States of foreign re
 
 (iii) *Selection of routes.* Right to determine the aircraft's routes (except for contractual commitments entered into by the exporter for specifically designated routes).
 
-(iv) *Place of maintenance.* Right to perform or obtain the principal maintenance on the aircraft, which principal maintenance is conducted outside a destination in Country Group E:1 (see supplement no. 1 to this part), under the control of a party who is not a national of any of these countries. (The minimum necessary in-transit maintenance may be performed in any country).
+(iv) *Place of maintenance.* Right to perform or obtain the principal maintenance on the aircraft, which principal maintenance is conducted outside a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part), under the control of a party who is not a national of any of these countries. (The minimum necessary in-transit maintenance may be performed in any country).
 
-(v) *Location of spares.* Spares are not located in a destination in Country Group E:1 (see supplement no. 1 to this part).
+(v) *Location of spares.* Spares are not located in a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part).
 
-(vi) *Place of registration.* The place of registration is not changed to a destination in Country Group E:1 (see supplement no. 1 to this part).
+(vi) *Place of registration.* The place of registration is not changed to a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part).
 
-(vii) No transfer of technology. No technology is transferred to a national of a destination in Country Group E:1 (see supplement no. 1 to this part), except the minimum necessary in transit maintenance to perform flight line servicing required to depart safely.
+(vii) *Transfer of technology.* No technology is transferred to a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part), except the minimum necessary for in-transit maintenance to perform flight line servicing required to depart safely.
 
-(viii) *Color and logos.* The aircraft does not bear the livery, colors, or logos of a national of a destination in Country Group E:1 (see supplement no. 1 to this part).
+(viii) *Color and logos.* The aircraft does not bear the livery, colors, or logos of a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part).
 
-(ix) *Flight number.* The aircraft does not fly under a flight number issued to a national of a destination in Country Group E:1 (see supplement no. 1 to this part) as such a number appears in the Official Airline Guide.
+(ix) *Flight number.* The aircraft does not fly under a flight number issued to a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part) as such number appears in the Official Airline Guide.
+
+(x) *Lease or charter.* The aircraft is not leased to or chartered by a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part).
 
 (4) *Reexports.* Civil aircraft legally exported from the United States may be reexported under this section, provided the restrictions described in this paragraph (a) are met.
 
@@ -116,9 +118,9 @@ An aircraft exported or reexported to a country pursuant to this paragraph (a) m
 
 (d) *Vessels on temporary sojourn* - (1) *Foreign flagged vessels.* A foreign flagged vessel in the United States may depart from the United States under its own power for any destination, provided that:
 
-(i) No sale or transfer of operational control of the vessel to nationals of a destination in Country Group E:1 (see supplement no. 1 to this part) has occurred while in the United States;
+(i) No sale or transfer of operational control of the vessel to a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part) has occurred while in the United States;
 
-(ii) The vessel is not departing for the purpose of sale or transfer of operational control to nationals of a destination in Country Group E:1 (see supplement no. 1 to this part); and
+(ii) The vessel is not departing for the purpose of sale or transfer of operational control to a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part); and
 
 (iii) The vessel does not carry from the United States any item for which a license is required and has not been granted by the U.S. Government.
 
@@ -132,11 +134,11 @@ An aircraft exported or reexported to a country pursuant to this paragraph (a) m
 
 (iv) The vessel will not carry from the United States any item for which a license is required and has not been granted by the U.S. Government;
 
-(v) Spares for the vessel are not located in a destination in Country Group E:1 (see supplement no. 1 to this part);
+(v) Spares for the vessel are not located in a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part);
 
-(vi) Technology is not transferred to a national of a destination in Country Group E:1 (see supplement no. 1 to this part), except the minimum necessary in-transit maintenance to perform servicing required to depart and enter a port safely; and
+(vi) Technology is not transferred to a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part), except the minimum necessary in-transit maintenance to perform servicing required to depart and enter a port safely; and
 
-(vii) The vessel does not bear the livery, colors, or logos of a national of a destination in Country Group E:1 (see supplement no. 1 to this part).
+(vii) The vessel does not bear the livery, colors, or logos of a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part).
 
 (3) *Criteria for temporary sojourn of vessels.* The following criteria must be met if a voyage is to be considered a temporary sojourn under this paragraph (d). To be considered a temporary sojourn, the voyage must not be for the purpose of sale or transfer of operational control. A transfer of operational control occurs unless the exporter or reexporter retains each of the following indicia of control:
 
@@ -146,7 +148,9 @@ An aircraft exported or reexported to a country pursuant to this paragraph (a) m
 
 (iii) *Selection of routes.* Right to determine the vessel's routes (except for contractual commitments entered into by the exporter for specifically designated routes).
 
-(iv) *Place of maintenance.* Right to perform or obtain the principal maintenance on the vessel, which principal maintenance is conducted outside a destination in Country Group E:1 (see supplement no. 1 to this part), under the control of a party who is not a national of any of these countries. (The minimum necessary in-transit maintenance may be performed in any country).
+(iv) *Place of maintenance.* Right to perform or obtain the principal maintenance on the vessel, which principal maintenance is conducted outside a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part), under the control of a party who is not a national of any of these countries. (The minimum necessary in-transit maintenance may be performed in any country).
+
+(v) *Lease or charter.* The vessel is not leased to or chartered by a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part).
 
 (4) *Reexports.* Vessels subject to the EAR may be reexported under this section on temporary sojourn, provided that:
 
@@ -158,11 +162,11 @@ An aircraft exported or reexported to a country pursuant to this paragraph (a) m
 
 (iv) The vessel will not carry any item for which a license is required and has not been granted by the U.S. Government;
 
-(v) Spares for the vessel are not located in a destination in Country Group E:1 (see supplement no. 1 to this part);
+(v) Spares for the vessel are not located in a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part);
 
-(vi) Technology is not transferred to a national of a destination in Country Group E:1 (see supplement no. 1 to this part), except the minimum necessary in-transit maintenance to perform servicing required to depart and enter a port safely; and
+(vi) Technology is not transferred to a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part), except the minimum necessary in-transit maintenance to perform servicing required to depart and enter a port safely; and
 
-(vii) The vessel does not bear the livery, colors, or logos of a national of a destination in Country Group E:1 (see supplement no. 1 to this part).
+(vii) The vessel does not bear the livery, colors, or logos of a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part).
 
 (5) No vessels may be exported or reexported under this License Exception to a country in Country Group E:1.
 
