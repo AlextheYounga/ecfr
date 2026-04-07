@@ -2,11 +2,11 @@
 
 (a) In accordance with § 665.4, the ACLs and ACTs for MHI bottomfish fisheries for each fishing year are as follows:
 
-| Fishery           | 2021-22 ACT   (lb) | 2022-23 ACT   (lb) | 2023-24 ACT   (lb) |
+| Fishery           | 2021-22 ACL   (lb) | 2022-23 ACL   (lb) | 2023-24 ACL   (lb) |
 | ----------------- | ------------------ | ------------------ | ------------------ |
 | Deep 7 bottomfish | 492,000            | 492,000            | 492,000            |
 
-| Fishery | 2022 ACT   (lb) | 2023 ACT   (lb) | 2024 ACT   (lb) | 2025 ACT   (lb) |
+| Fishery | 2022 ACL   (lb) | 2023 ACL   (lb) | 2024 ACL   (lb) | 2025 ACL   (lb) |
 | ------- | --------------- | --------------- | --------------- | --------------- |
 | Uku     | 295,419         | 295,419         | 295,419         | 295,419         |
 
@@ -26,4 +26,4 @@
 
 (g) Fishing for, and the resultant possession or sale of, any bottomfish MUS by vessels legally registered to Mau Zone, Ho'omalu Zone, or PRIA bottomfish fishing permits and conducted in compliance with all other laws and regulations, is exempted from this section.
 
-\[85 FR 26624, May 5, 2020, as amended at 87 FR 3047, Jan. 20, 2022; 87 FR 17196, Mar. 28, 2022\]
+\[85 FR 26624, May 5, 2020, as amended at 87 FR 3047, Jan. 20, 2022; 87 FR 17196, Mar. 28, 2022; 87 FR 78876, Dec. 23, 2022\]

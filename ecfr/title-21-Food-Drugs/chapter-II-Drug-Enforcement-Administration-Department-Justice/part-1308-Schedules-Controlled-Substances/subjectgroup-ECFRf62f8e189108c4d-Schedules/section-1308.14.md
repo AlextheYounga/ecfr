@@ -254,11 +254,7 @@
 
 2784
 
-(d) *Fenfluramine.* Any material, compound, mixture, or preparation which contains any quantity of the following substances, including its salts, isomers (whether optical, position, or geometric), and salts of such isomers, whenever the existence of such salts, isomers, and salts of isomers is possible:
-
-(1) Fenfluramine
-
-1670
+(d) \[Reserved\]
 
 (e) *Lorcaserin.* Any material, compound, mixture, or preparation which contains any quantity of the following substances, including its salts, isomers, and salts of such isomers, whenever the existence of such salts, isomers, and salts of isomers is possible:
 
