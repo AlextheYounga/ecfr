@@ -60,7 +60,7 @@
 
 (xi) Technology identified in ECCN 2E201 or 2E290 for the use of valves controlled by ECCN 2A226 having the characteristics of those described in 2B350.g.
 
-(3) If CB Column 3 of the Country Chart (Supplement No. 1 to part 738 of the EAR) is indicated in the appropriate ECCN, a license is required to Country Group D:3 (see Supplement No. 1 to part 740 of the EAR) for medical products identified in ECCN 1C991.c.
+(3) If CB Column 3 of the Country Chart (supplement no. 1 to part 738 of the EAR) is indicated in the appropriate ECCN, a license is required to Country Group D:3 (see supplement no. 1 to part 740 of the EAR) for medical products identified in ECCN 1C991.c.
 
 (4) A license is required, to States not Party to the CWC (destinations not listed in supplement no. 2 to part 745 of the EAR), for mixtures controlled by 1C395.a and test kits controlled by 1C395.b.
 

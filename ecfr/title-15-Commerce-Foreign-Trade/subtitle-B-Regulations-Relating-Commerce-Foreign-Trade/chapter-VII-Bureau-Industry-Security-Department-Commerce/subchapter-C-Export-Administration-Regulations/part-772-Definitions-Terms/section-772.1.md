@@ -1206,6 +1206,8 @@ Note:
 
 *Substrate blanks.* (Cat 3 and 6) - Monolithic compounds with dimensions suitable for the production of optical elements such as mirrors or optical windows.
 
+*Super High Power Laser.* (SHPL) (Cat 6) - A “laser” capable of delivering (the total or any portion of) the output energy exceeding 1 kJ within 50 ms or having an average or CW power exceeding 20 kW.
+
 *Superalloy.* (Cat 2 and 9) Nickel, cobalt, or iron base alloys having a stress rupture life greater than 1,000 hours at 400 MPa and an ultimate tensile strength greater than 850 MPa, at 922 K (649 °C) or higher.
 
 *Superconductive.* (Cat 1, 3, 5P1, 6, and 8) - Materials, i.e., metals, alloys, or compounds that can lose all electrical resistance, i.e., that can attain infinite electrical conductivity and carry very large electrical currents without Joule heating.
@@ -1213,8 +1215,6 @@ Note:
 Note:
 
 The “superconductive” state of a material is individually characterized by a “critical temperature”, a critical magnetic field that is a function of temperature, and a critical current density that is a function of both magnetic field and temperature.
-
-*Super High Power Laser.* (SHPL) (Cat 6) - A “laser” capable of delivering (the total or any portion of) the output energy exceeding 1 kJ within 50 ms or having an average or CW power exceeding 20 kW.
 
 *Superplastic forming.* (Cat 1 and 2) - A deformation process using heat for metals that are normally characterized by low elongation (less than 20%) at the breaking point as determined at room temperature by conventional tensile strength testing, in order to achieve elongations during processing that are at least 2 times those values.
 

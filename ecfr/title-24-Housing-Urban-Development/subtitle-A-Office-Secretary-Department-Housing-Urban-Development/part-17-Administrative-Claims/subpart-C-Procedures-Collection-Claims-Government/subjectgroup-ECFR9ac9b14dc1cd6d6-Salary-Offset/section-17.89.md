@@ -32,4 +32,4 @@ Except as provided in § 17.83(d), deductions will not be made unless the Secret
 
 (l) Unless there are applicable contractual or statutory provisions to the contrary, that amounts paid on or deducted for the debt which are later waived or found not owed to the United States will be promptly refunded to the employee; and
 
-(m) The method and time period for requesting a hearing, including the address of the Office of Appeals to which the request must be sent.
+(m) The method and time period for requesting a hearing, including the address of the Office of Hearings and Appeals to which the request must be sent.
