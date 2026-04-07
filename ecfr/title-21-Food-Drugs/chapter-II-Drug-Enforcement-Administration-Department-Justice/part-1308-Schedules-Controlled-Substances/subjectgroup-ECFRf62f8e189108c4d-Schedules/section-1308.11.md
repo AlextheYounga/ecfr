@@ -988,7 +988,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 6\. At 83 FR 472, Jan. 4, 2018, § 1308.11 was amended by adding paragraph (h)(22), effective Jan. 4, 2018, through Jan. 4, 2020.
 
-7\. At 83 FR 4584, Feb. 1, 2018, § 1308.11 was amended by adding paragraphs (h)(23) through (h)(29), effective Feb. 1, 2018, through Feb. 1, 2020.
+7\. At 83 FR 4584, Feb. 1, 2018, § 1308.11 was amended by adding paragraphs (h)(23) through (h)(29), effective Feb. 1, 2018, through Feb. 1, 2021.
 
 8\. At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020.
 
