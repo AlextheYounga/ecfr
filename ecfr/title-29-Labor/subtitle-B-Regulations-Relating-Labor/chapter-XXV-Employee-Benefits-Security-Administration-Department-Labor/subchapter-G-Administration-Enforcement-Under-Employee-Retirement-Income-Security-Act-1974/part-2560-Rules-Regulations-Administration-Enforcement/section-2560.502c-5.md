@@ -24,7 +24,7 @@
 
 (h) *Administrative hearing.* A notice issued pursuant to paragraph (g) of this section will not become a final order, within the meaning of 29 CFR 2570.91(g), if, within thirty (30) days from the date of the service of the notice, the administrator or a representative thereof files a request for a hearing under 29 CFR 2570.90 through 2570.101, and files an answer to the notice. The request for hearing and answer must be filed in accordance with 29 CFR 2570.92 and 18.4. The answer opposing the proposed sanction shall be in writing, and supported by reference to specific circumstances or facts surrounding the notice of determination issued pursuant to paragraph (g) of this section.
 
-(i) *Service of notices and filing of statements* - (1) Service of a notice for purposes of paragraphs (c) and (g) of this section shall be made:
+(i) *Service of notices and filing of statements.* (1) Service of a notice for purposes of paragraphs (c) and (g) of this section shall be made:
 
 (i) By delivering a copy to the administrator or representative thereof;
 
@@ -44,7 +44,7 @@
 
 (iv) In the case of any other method of filing, upon receipt by the Department at the address provided in the notice of intent to assess a penalty.
 
-(j) *Liability* - (1) If more than one person is responsible as administrator for the failure to file the report, all such persons shall be jointly and severally liable with respect to such failure.
+(j) *Liability*. (1) If more than one person is responsible as administrator for the failure to file the report, all such persons shall be jointly and severally liable with respect to such failure.
 
 (2) Any person against whom a civil penalty has been assessed under section 502(c)(5) pursuant to a final order, within the meaning of 29 CFR 2570.91(g), shall be personally liable for the payment of such penalty.
 

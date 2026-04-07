@@ -44,7 +44,7 @@
 
 (b) *Additional projections.* PBGC may ask the plan for additional projections based on assumptions that it specifies.
 
-(c) *Actuarial calculations and assumptions.* (1) *General.* All calculations required by this part must be performed by an enrolled actuary.
+(c) *Actuarial calculations and assumptions*—(1) *General.* All calculations required by this part must be performed by an enrolled actuary.
 
 (2) *Assumptions.* All calculations required by this part must be consistent with calculations used for purposes of an application for suspension of benefits under section 305(e)(9) of ERISA, and based on methods and assumptions each of which is reasonable (taking into account the experience of the plan and reasonable expectations), and which, in combination, offer the actuary's best estimate of anticipated experience under the plan. Any change(s) in assumptions from the most recent actuarial valuation, and critical and declining status certification, must be disclosed and must be accompanied by a statement explaining the reason(s) for any change(s) in assumptions.
 
