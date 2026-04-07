@@ -34,7 +34,7 @@
 
 (3) The frequency 156.300 MHz may be used for safety purposes only. The frequency 156.800 MHz may be used for distress, safety and calling purposes only.
 
-(4) Except in the Great Lakes and along the St. Lawrence Seaway the frequency 157.425 MHz is available for communications with commerical fishing vessels.
+(4) Except in the Great Lakes and along the St. Lawrence Seaway the frequency 157.425 MHz is available for communications with commercial fishing vessels.
 
 (5) The frequency 156.375 MHz cannot be used in the New Orleans, LA, VTS protection area. No harmful interference shall be caused to the VTS.
 
@@ -46,7 +46,9 @@
 
 (p) The 1435-1525 MHz and 2360-2395 MHz bands are available on a primary basis, and the 2345-2360 MHz band is available on a secondary basis (the latter band only until January 1, 2020), for telemetry and telecommand associated with the flight testing of aircraft, missiles, or related major components. This includes launching into space, reentry into the Earth's atmosphere and incidental orbiting prior to reentry. In the 1435-1525 MHz band, the following frequencies are shared on a co-equal basis with flight telemetering mobile stations: 1444.5, 1453.5, 1501.5, 1515.5, and 1524.5 MHz. In the 2360-2395 MHz band, the following frequencies may be assigned for telemetry and associated telecommand operations of expendable and re-usable launch vehicles, whether or not such operations involve flight testing: 2364.5, 2370.5 and 2382.5 MHz. *See* § 87.303(d).
 
-Note to paragraph (p):Aeronautical telemetry operations must protect Miscellaneous Wireless Communications Services operating in the 2345-2360 MHz band.
+Note to paragraph (p):
+
+Aeronautical telemetry operations must protect Miscellaneous Wireless Communications Services operating in the 2345-2360 MHz band.
 
 (q) The frequencies in the band 1545.000-1559.000 MHz and 1646.500-1660.500 MHz are authorized for use by the Aeronautical Mobile-Satellite (R) Service. The use of the bands 1544.000-1545.000 MHz (space-to-Earth) and 1645.500-1646.500 MHz (Earth-to-space) by the Mobile-Satellite Service is limited to distress and safety operations. In the frequency bands 1549.500-1558.500 MHz and 1651.000-1660.000 MHz, the Aeronautical Mobile-Satellite (R) requirements that cannot be accommodated in the 1545.000-1549.500 MHz, 1558.500-1559.000 MHz, 1646.500-1651.000 MHz, and 1660.000-1660.500 MHz bands shall have priority access with real-time preemptive capability for communications in the Mobile-Satellite Service. Systems not interoperable with the Aeronautical Mobile-Satellite (R) Service shall operate on a secondary basis. Account shall be taken of the priority of safety-related communications in the Mobile-Satellite Service.
 
