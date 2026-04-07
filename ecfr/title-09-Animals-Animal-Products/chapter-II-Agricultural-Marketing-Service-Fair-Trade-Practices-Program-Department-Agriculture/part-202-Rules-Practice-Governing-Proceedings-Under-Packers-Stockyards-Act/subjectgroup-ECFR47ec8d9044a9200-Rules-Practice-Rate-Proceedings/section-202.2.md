@@ -6,4 +6,4 @@ As used in these rules:
 
 (b) *Administrator* means the Administrator of the Grain Inspection, Agricultural Marketing Service (AMS), or any officer or employee of AMS to whom authority has heretofore been delegated, or to whom authority may hereafter be delegated, to act for the Administrator.
 
-\[43 FR 30510, July 14, 1978, as amended at 84 FR 45647, Aug. 30, 2019; 84 Fr 56678, Oct. 23, 2019\]
+\[43 FR 30510, July 14, 1978, as amended at 84 FR 45647, Aug. 30, 2019; 84 FR 56678, Oct. 23, 2019\]

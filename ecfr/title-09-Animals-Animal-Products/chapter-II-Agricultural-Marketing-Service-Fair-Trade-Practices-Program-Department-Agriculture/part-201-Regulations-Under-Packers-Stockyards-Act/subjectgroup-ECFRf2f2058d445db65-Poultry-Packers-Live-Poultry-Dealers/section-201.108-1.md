@@ -66,4 +66,4 @@ Live poultry dealers who operate scales on which live poultry or feed is weighed
 
 (6) When a scale has been adjusted, modified, or repaired in any manner which can affect the accuracy of weighing or weight recording, the weigher shall not use the scale until it has been tested and inspected and found to be accurate.
 
-(Approved by the Office of Management and Budget under control number 0580-0015) \[37 FR 4955, Mar. 8, 1972, as amended at 61 FR 36282, July 10, 1996; 68 FR 75388, Dec. 31, 2003; 78 FR 51664, Aug. 21, 2013; 84 Fr 56678, Oct. 23, 2019\]
+(Approved by the Office of Management and Budget under control number 0580-0015) \[37 FR 4955, Mar. 8, 1972, as amended at 61 FR 36282, July 10, 1996; 68 FR 75388, Dec. 31, 2003; 78 FR 51664, Aug. 21, 2013; 84 FR 45647, Aug. 30, 2019; 84 FR 56678, Oct. 23, 2019\]
