@@ -7,5 +7,3 @@
 (c) Pursuant to 21 U.S.C. 1035 and 1043, the failure of an official plant to operate in accordance with the Hazard Analysis and Critical Control Point (HACCP) Systems requirements in part 417 of this chapter, may render the product produced under those conditions adulterated.
 
 (d) Pursuant to 21 U.S.C. 1035 and 1043, the failure of an official plant to operate in accordance with the requirements in part 500 of this chapter, Rules of Practice, and part 590 of this chapter, Inspection of Eggs and Egg Products (Egg Products Inspection Act) may render the products produced under those conditions adulterated.
-
-Effective Date Note:At 85 FR 81340, Dec. 16, 2020, § 591.2(a) and (c) are stayed through Oct. 31, 2022.

@@ -21,5 +21,3 @@
 (1) Verify the supply-chain-applied control; or
 
 (2) Obtain documentation of an appropriate verification activity from another entity, review and assess the entity's applicable documentation, and document that review and assessment.
-
-Effective Date Note:At 80 FR 56337, Sept. 17, 2015, part 507 was added, effective Nov. 16, 2015, with the exception of paragraph (a)(2) in § 507.105, which is not yet effective.

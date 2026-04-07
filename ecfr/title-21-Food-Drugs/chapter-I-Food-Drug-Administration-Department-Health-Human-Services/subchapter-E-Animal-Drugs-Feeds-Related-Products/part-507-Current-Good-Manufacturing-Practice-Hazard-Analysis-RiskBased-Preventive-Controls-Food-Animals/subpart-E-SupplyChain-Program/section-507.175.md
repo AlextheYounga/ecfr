@@ -101,5 +101,3 @@
 (B) The results of an audit conducted by a third-party qualified auditor in accordance with §§ 507.130(f) and 507.135; and
 
 (v) Applicable documentation, from an entity other than the receiving facility, of verification activities when a supply-chain-applied control is applied by an entity other than the receiving facility's supplier.
-
-Effective Date Note:At 80 FR 56337, Sept. 17, 2015, part 507 was added, effective Nov. 16, 2015, with the exception of paragraph (c)(2) in § 507.175, which is not yet effective.
