@@ -84,4 +84,6 @@ The spectrum leasing policies and rules of this subpart apply to the following s
 
 (nn) The 900 MHz Broadband Service (part 27 of this chapter).
 
-\[69 FR 77551, Dec. 27, 2004, as amended at 71 FR 29815, May 24, 2006; 72 FR 27708, May 16, 2007; 72 FR 48843, Aug. 24, 2007; 76 FR 31259, May 31, 2011; 79 FR 596, Jan. 6, 2014; 79 FR 48533, Aug. 15, 2014; 81 FR 49065, July 26, 2016; 81 FR 79931, Nov. 14, 2016; 85 FR 22861, Apr. 23, 2020; 85 FR 43129, July 16, 2020\]
+(oo) The 4940-4990 MHz band (part 90 of this chapter).
+
+\[69 FR 77551, Dec. 27, 2004, as amended at 71 FR 29815, May 24, 2006; 72 FR 27708, May 16, 2007; 72 FR 48843, Aug. 24, 2007; 76 FR 31259, May 31, 2011; 79 FR 596, Jan. 6, 2014; 79 FR 48533, Aug. 15, 2014; 81 FR 49065, July 26, 2016; 81 FR 79931, Nov. 14, 2016; 85 FR 22861, Apr. 23, 2020; 85 FR 43129, July 16, 2020; 85 FR 76479, Nov. 30, 2020\]
