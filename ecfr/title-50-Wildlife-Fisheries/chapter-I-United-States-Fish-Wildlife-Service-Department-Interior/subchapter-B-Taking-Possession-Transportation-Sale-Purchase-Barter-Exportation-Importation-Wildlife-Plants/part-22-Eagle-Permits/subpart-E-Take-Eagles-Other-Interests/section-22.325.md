@@ -1,8 +1,6 @@
-##### § 22.75 What are the requirements concerning permits to take golden eagle nests?
+##### § 22.325 Permits for golden eagle nest take for resource recovery operations.
 
-Link to an amendment published at 89 FR 9965, Feb. 12, 2024.
-
-The Director may, upon receipt of an application and in accordance with the issuance criteria of this section, issue a permit authorizing any person to take alternate golden eagle nests during a resource development or recovery operation if the taking is compatible with the preservation of golden eagles. The Office of Management and Budget (OMB) has approved the information collection requirements contained in this section and assigned OMB Control Number 1018-0167. Federal agencies may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. Direct comments regarding the burden estimate or any other aspect of the information collection to the Service's Information Collection Clearance Officer at the address provided at 50 CFR 2.1(b).
+The Director may, upon receipt of an application and in accordance with the issuance criteria of this section, issue a permit authorizing any person to take alternate golden eagle nests during a resource development or recovery operation if the taking is compatible with the preservation of golden eagles.
 
 (a) *How do I apply for a permit to take golden eagle nests?* You must submit applications for permits to take golden eagle nests to the appropriate Regional Director—Attention: Migratory Bird Permit Office. You can find addresses for the appropriate Regional Directors in 50 CFR 2.2. We will only accept applications if you are engaged in a resource development or recovery operation, including the planning and permitting stages of an operation. Your application must contain the general information and certification required by § 13.12(a) of this chapter plus the following additional information:
 
@@ -48,4 +46,4 @@ The Director may, upon receipt of an application and in accordance with the issu
 
 (d) *Tenure of permits.* The tenure of any permit to take golden eagle nests is 2 years from the date of issuance, unless a shorter period of time is prescribed on the face of the permit. Permits may be renewed in accordance with part 13 of this chapter.
 
-\[48 FR 57300, Dec. 29, 1983, as amended at 63 FR 52638, Oct. 1, 1998; 64 FR 50474, Sept. 17, 1999; 81 FR 91550, Dec. 16, 2016. Redesignated and amended at 87 FR 884, Jan. 7, 2022\]
+\[48 FR 57300, Dec. 29, 1983, as amended at 63 FR 52638, Oct. 1, 1998; 64 FR 50474, Sept. 17, 1999; 81 FR 91550, Dec. 16, 2016. Redesignated and amended at 89 FR 9965, Feb. 12, 2024\]

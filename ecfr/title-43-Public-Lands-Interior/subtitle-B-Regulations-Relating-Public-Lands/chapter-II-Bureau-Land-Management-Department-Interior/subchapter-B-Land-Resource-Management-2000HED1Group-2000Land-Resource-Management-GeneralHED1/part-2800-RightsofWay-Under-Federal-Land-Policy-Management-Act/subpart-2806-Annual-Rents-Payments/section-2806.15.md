@@ -1,5 +1,7 @@
 ##### § 2806.15 Under what circumstances may BLM waive or reduce my rent?
 
+Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
+
 (a) BLM may waive or reduce your rent payment, even to zero in appropriate circumstances. BLM may require you to submit information to support a finding that your grant qualifies for a waiver or a reduction of rent.
 
 (b) BLM may waive or reduce your rent if you show BLM that:

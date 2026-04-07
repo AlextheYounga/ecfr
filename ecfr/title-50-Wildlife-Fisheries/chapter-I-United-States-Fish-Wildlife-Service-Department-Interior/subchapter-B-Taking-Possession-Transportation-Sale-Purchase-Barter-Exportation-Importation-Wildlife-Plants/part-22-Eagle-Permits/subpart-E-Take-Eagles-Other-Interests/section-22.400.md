@@ -1,10 +1,8 @@
-##### § 22.90 Permits for bald eagle take exempted under the Endangered Species Act.
+##### § 22.400 Permits for bald eagle take exempted under the Endangered Species Act.
 
-Link to an amendment published at 89 FR 9965, Feb. 12, 2024.
+(a) *Purpose and scope.* This permit authorizes take of bald eagles (*Haliaeetus leucocephalus*) in compliance with the terms and conditions of a section 7 incidental take statement under the Endangered Species Act of 1973, as amended (ESA) (16 U.S.C. 1531 *et seq.;* 50 CFR 402, Subpart B) issued prior to November 10, 2009.
 
-(a) *Purpose and scope.* This permit authorizes take of bald eagles (*Haliaeetus leucocephalus*) in compliance with the terms and conditions of a section 7 incidental take statement under the Endangered Species Act of 1973, as amended (ESA) (16 U.S.C. 1531 *et seq.;* 50 CFR 402, Subpart B) issued prior to the effective date of 50 CFR 22.80.
-
-(b) *Issuance criteria.* Before issuing you a permit under this section, we must find that you are in full compliance with the terms and conditions contained in the applicable ESA incidental take statement issued prior to the effective date of 50 CFR 22.80 for take of eagles, based on your certification and any other relevant information available to us, including, but not limited to, monitoring or progress reports required pursuant to your incidental take statement. The terms and conditions of the Eagle Act permit under this section, including any modified terms and conditions, must be compatible with the preservation of the bald eagle.
+(b) *Issuance criteria.* Before issuing you a permit under this section, we must find that you are in full compliance with the terms and conditions contained in the applicable ESA incidental take statement issued prior to November 10, 2009 for take of eagles, based on your certification and any other relevant information available to us, including, but not limited to, monitoring or progress reports required pursuant to your incidental take statement. The terms and conditions of the Eagle Act permit under this section, including any modified terms and conditions, must be compatible with the preservation of the bald eagle.
 
 (c) *Permit conditions.* (1) You must comply with all terms and conditions of the incidental take statement issued under section 7 of the ESA, or modified measures specified in the terms of your permit issued under this section. At permit issuance or at any time during its tenure, the Service may modify the terms and conditions that were included in your ESA incidental take statement, based on one or more of the following factors:
 
@@ -26,4 +24,4 @@ Link to an amendment published at 89 FR 9965, Feb. 12, 2024.
 
 (3) Send completed permit applications to the Regional Director of the Region in which the disturbance would occur—Attention: Migratory Bird Permit Office. You can find the current addresses for the Regional Directors in § 2.2 of subchapter A of this chapter.
 
-\[73 FR 29083, May 20, 2008; 74 FR 46879, Sept. 11, 2009. Redesignated at 87 FR 884, Jan. 7, 2022; 87 FR 885, Jan. 7, 2022\]
+\[73 FR 29083, May 20, 2008; 74 FR 46879, Sept. 11, 2009. Redesignated at 87 FR 884, Jan. 7, 2022; 87 FR 885, Jan. 7, 2022. Redesignated and amended at 89 FR 9965, Feb. 12, 2024\]

@@ -1,5 +1,7 @@
 ##### § 2806.14 Under what circumstances am I exempt from paying rent?
 
+Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
+
 (a)You do not have to pay rent for your use if:
 
 (1) BLM issues the grant under a statute which does not allow BLM to charge rent;
