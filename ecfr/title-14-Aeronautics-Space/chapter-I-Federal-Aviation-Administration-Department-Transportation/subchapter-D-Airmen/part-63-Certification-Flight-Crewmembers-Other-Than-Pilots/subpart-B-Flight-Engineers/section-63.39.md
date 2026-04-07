@@ -1,6 +1,6 @@
 ##### § 63.39 Skill requirements.
 
-(a) An applicant for a flight engineer certificate with a class rating must pass a practical test in the class of airplane for which a rating is sought. To pass the practical test for a flight engineer certificate, the applicant must satisfactorily demonstrate the objectives in the areas of operation specified in the Flight Engineer Practical Test Standards for Reciprocating Engine, Turbopropeller, and Turbojet Powered Aircraft (incorporated by reference, see paragraph (c) of this section). The test may only be given in an airplane specified in § 63.37(a).
+(a) An applicant for a flight engineer certificate with a class rating must pass a practical test in the class of airplane for which a rating is sought. To pass the practical test for a flight engineer certificate, the applicant must satisfactorily demonstrate the objectives in the areas of operation specified in the Flight Engineer Practical Test Standards for Reciprocating Engine, Turbopropeller, and Turbojet Powered Aircraft (incorporated by reference, see paragraph (c) of this section). The test may only be given in an airplane specified in § 63.37(a).*ACSPTSinquiries@faa.gov, www.faa.gov/training\_testing.*
 
 (b) The applicant must—
 

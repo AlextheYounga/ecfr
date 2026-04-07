@@ -1,14 +1,14 @@
 ##### § 172.210 Coatings on fresh citrus fruit.
 
-Coatings may be applied to fresh citrus fruit for protection of the fruit in accordance with the following conditions: 
+Coatings may be applied to fresh citrus fruit for protection of the fruit in accordance with the following conditions:
 
-(a) The coating is applied in the minimum amount required to accomplish the intended effect. 
+(a) The coating is applied in the minimum amount required to accomplish the intended effect.
 
-(b) The coating may be formulated from the following components, each used in the minimum quantity required to accomplish the intended effect: 
+(b) The coating may be formulated from the following components, each used in the minimum quantity required to accomplish the intended effect:
 
-(1) Substances generally recognized as safe for the purpose or previously sanctioned for the purpose. 
+(1) Substances generally recognized as safe for the purpose or previously sanctioned for the purpose.
 
-(2) One or more of the following: 
+(2) One or more of the following:
 
 | Component                                                                                | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ Coatings may be applied to fresh citrus fruit for protection of the fruit in acc
 | Sodium lauryl sulfate                                                                    | Complying with § 172.822. As a film former.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Wood rosin                                                                               | Color of K or paler.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
-(3) In lieu of the components listed in paragraph (b)(2) and (4) of this section, the following copolymer and one or more of the listed adjuvants. 
+(3) In lieu of the components listed in paragraph (b)(2) and (4) of this section, the following copolymer and one or more of the listed adjuvants.
 
 | Component                                    | Limitations                                                                     |
 | -------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ Coatings may be applied to fresh citrus fruit for protection of the fruit in acc
 | Propylene glycol alginate                    | Do.                                                                             |
 | Sodium decylbenzenesulfonate                 | Do.                                                                             |
 
-(4) In lieu of the components listed in paragraph (b)(2) and (3) of this section, the following rosin derivative and either or both of the listed adjuvants: 
+(4) In lieu of the components listed in paragraph (b)(2) and (3) of this section, the following rosin derivative and either or both of the listed adjuvants:
 
 | Component                                 | Limitations                                                                                                                                                                                                                                                                                                                                                  |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

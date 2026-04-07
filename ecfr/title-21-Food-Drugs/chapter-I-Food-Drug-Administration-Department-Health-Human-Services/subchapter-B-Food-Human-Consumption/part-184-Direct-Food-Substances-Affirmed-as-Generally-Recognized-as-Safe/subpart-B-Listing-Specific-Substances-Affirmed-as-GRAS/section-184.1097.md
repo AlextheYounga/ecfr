@@ -4,7 +4,7 @@
 
 (b) The ingredient meets the specifications of the Food Chemicals Codex, 3d Ed. (1981), p. 319, which is incorporated by reference. Copies are available from the National Academy Press, 2101 Constitution Ave. NW., Washington, DC 20418, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(c)(1) In accordance with § 184.1(b)(2), the ingredient is used in food only within the following specific limitations: 
+(c)(1) In accordance with § 184.1(b)(2), the ingredient is used in food only within the following specific limitations:
 
 | Category of food                                                                                                                                  | Maximum level of use in food (as served) (percent) | Functional use                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,8 +15,8 @@
 | Hard candy and cough drops, § 170.3(n)(25) of this chapter                                                                                        | 0.013                                              | Do.                                                                                                                                                            |
 | Meat products, § 170.3(n)(29) of this chapter                                                                                                     | 0.001                                              | Do.                                                                                                                                                            |
 
-(2) Tannic acid may be used in rendered animal fat in accordance with 9 CFR 424.21. 
+(2) Tannic acid may be used in rendered animal fat in accordance with 9 CFR 424.21.
 
-(d) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived. 
+(d) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived.
 
 \[50 FR 21043, May 22, 1985, as amended at 85 FR 72907, Nov. 16, 2020

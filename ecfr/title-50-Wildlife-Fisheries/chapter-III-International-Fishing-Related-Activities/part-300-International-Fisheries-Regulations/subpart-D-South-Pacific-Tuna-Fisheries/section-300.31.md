@@ -1,10 +1,10 @@
 ##### § 300.31 Definitions.
 
-In addition to the terms defined in § 300.2, in the Act, and in the Treaty, and unless the context requires otherwise, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Treaty, the definition in this section shall apply.*Administrator*
+In addition to the terms defined in § 300.2, in the Act, and in the Treaty, and unless the context requires otherwise, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Treaty, the definition in this section shall apply. 
 
-*Administrator* means the individual or organization designated by the Pacific Island Parties to act on their behalf under the Treaty and notified to the United States.
+*Administrator* means the individual or organization designated by the Pacific Island Parties to act on their behalf under the Treaty and notified to the United States. 
 
-*Applicable national law* means any of the laws of Pacific Island Parties in the following table and any regulations or other instruments having the force of law implemented pursuant to these laws:
+*Applicable national law* means any of the laws of Pacific Island Parties in the following table and any regulations or other instruments having the force of law implemented pursuant to these laws: 
 
 | Pacific Island Party           | Laws                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,13 +27,13 @@ In addition to the terms defined in § 300.2, in the Act, and in the Treaty, and
 | VANUATU                        | Fisheries Act 1982 (Cap 158).   Fisheries Regulations, 1983.   Maritime Zones Act 1981 (Cap 138).                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | SAMOA                          | Exclusive Economic Zone Act, 1977.   Territorial Sea Act, 1971.   Fisheries Act, 1988.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-*Authorized inspector* means any individual authorized by a Pacific Island Party or the Secretary to conduct inspections, to remove samples of fish and to gather any other information relating to fisheries in the Licensing Area.
+*Authorized inspector* means any individual authorized by a Pacific Island Party or the Secretary to conduct inspections, to remove samples of fish and to gather any other information relating to fisheries in the Licensing Area. 
 
-*Authorized officer* means any officer who is authorized by the Secretary, or the Secretary of Transportation, or the head of any Federal or state agency that has entered into an enforcement agreement with the Secretary under section 10(a) of the Act.
+*Authorized officer* means any officer who is authorized by the Secretary, or the Secretary of Transportation, or the head of any Federal or state agency that has entered into an enforcement agreement with the Secretary under section 10(a) of the Act. 
 
-*Authorized party officer* means any officer authorized by a Pacific Island Party to enforce the provisions of the Treaty.
+*Authorized party officer* means any officer authorized by a Pacific Island Party to enforce the provisions of the Treaty. 
 
-*Closed area* means any of the areas in the following table, as depicted on charts provided by the Regional Administrator and as further described in additional information that may be provided by the Regional Administrator:
+*Closed area* means any of the areas in the following table, as depicted on charts provided by the Regional Administrator and as further described in additional information that may be provided by the Regional Administrator: 
 
 | Pacific Island Party           | Area                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -62,35 +62,35 @@ In addition to the terms defined in § 300.2, in the Act, and in the Treaty, and
 | VANUATU                        | Archipelagic waters and the territorial sea, and internal waters.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | SAMOA                          | Territorial sea; reefs, banks and sea-mounts and within 2 nautical miles of any anchored fish aggregating device within the Samoa exclusive economic zone for which notification of its location shall be given by geographical coordinates.                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-*FFA Vessel Register* means the registry of fishing vessels maintained by the FFA, comprising those vessels which are in good standing and licensed to fish in the waters of FFA member countries, including those vessels licensed under § 300.32.
+*FFA Vessel Register* means the registry of fishing vessels maintained by the FFA, comprising those vessels which are in good standing and licensed to fish in the waters of FFA member countries, including those vessels licensed under § 300.32. 
 
-*Fishing* means searching for, catching, taking, or harvesting fish; attempting to search for, catch, take, or harvest fish; engaging in any other activity that can reasonably be expected to result in the locating, catching, taking, or harvesting of fish; placing, searching for, or recovering fish aggregating devices or associated electronic equipment such as radio beacons; any operations at sea directly in support of, or in preparation for, any activity described in this paragraph; or aircraft use, relating to the activities described in this definition, except for flights in emergencies involving the health or safety of crew members or the safety of a vessel.
+*Fishing* means searching for, catching, taking, or harvesting fish; attempting to search for, catch, take, or harvest fish; engaging in any other activity that can reasonably be expected to result in the locating, catching, taking, or harvesting of fish; placing, searching for, or recovering fish aggregating devices or associated electronic equipment such as radio beacons; any operations at sea directly in support of, or in preparation for, any activity described in this paragraph; or aircraft use, relating to the activities described in this definition, except for flights in emergencies involving the health or safety of crew members or the safety of a vessel. 
 
-*Fishing arrangement* means an arrangement between a Pacific Island Party and the owner of a U.S. fishing vessel that complies with section 6(b) of the Act.
+*Fishing arrangement* means an arrangement between a Pacific Island Party and the owner of a U.S. fishing vessel that complies with section 6(b) of the Act. 
 
-*Fishing vessel* or *vessel* means any boat, ship, or other craft that is used for, equipped to be used for, or of a type normally used for commercial fishing, and that is documented under the laws of the United States.
+*Fishing vessel* or *vessel* means any boat, ship, or other craft that is used for, equipped to be used for, or of a type normally used for commercial fishing, and that is documented under the laws of the United States. 
 
-*Licensing Area* means all waters in the Treaty Area except for:
+*Licensing Area* means all waters in the Treaty Area except for: 
 
-(1) Those waters subject to the jurisdiction of the United States in accordance with international law.
+(1) Those waters subject to the jurisdiction of the United States in accordance with international law. 
 
-(2) Those waters within closed areas.
+(2) Those waters within closed areas. 
 
-(3) Those waters within limited areas closed to fishing.
+(3) Those waters within limited areas closed to fishing. 
 
-*Licensing period* means the period of validity of licenses issued in accordance with the Treaty.
+*Licensing period* means the period of validity of licenses issued in accordance with the Treaty. 
 
-*Operator* means any person who is in charge of, directs or controls a vessel, including the owner, charterer and master.
+*Operator* means any person who is in charge of, directs or controls a vessel, including the owner, charterer and master. 
 
-*Pacific Island Party* means a Pacific island nation that is a party to the Treaty.
+*Pacific Island Party* means a Pacific island nation that is a party to the Treaty. 
 
-*Pacific Islands Forum Fisheries Agency* or *FFA* means the organization established by the 1979 South Pacific Forum Fisheries Agency Convention.
+*Pacific Islands Forum Fisheries Agency* or *FFA* means the organization established by the 1979 South Pacific Forum Fisheries Agency Convention. 
 
-*Regional Administrator* means the Regional Administrator, Pacific Islands Region, NMFS, 1845 Wasp Blvd., Bldg. 176, Honolulu, HI 96818, facsimile: 808-725-5215, or a designee.
+*Regional Administrator* means the Regional Administrator, Pacific Islands Region, NMFS, 1845 Wasp Blvd., Bldg. 176, Honolulu, HI 96818, facsimile: 808-725-5215, or a designee. 
 
-*Transship* means to unload any or all of the fish on board a licensed vessel either ashore or onto another vessel.
+*Transship* means to unload any or all of the fish on board a licensed vessel either ashore or onto another vessel. 
 
-*Treaty Area* means all waters north of 60° S. lat. and east of 90° E. long., subject to the fisheries jurisdiction of Pacific Island Parties, and all other waters within rhumb lines connecting the following points, except for waters subject to the jurisdiction in accordance with international law of a State which is not a party to the Treaty:
+*Treaty Area* means all waters north of 60° S. lat. and east of 90° E. long., subject to the fisheries jurisdiction of Pacific Island Parties, and all other waters within rhumb lines connecting the following points, except for waters subject to the jurisdiction in accordance with international law of a State which is not a party to the Treaty: 
 
 | Point | Latitude    | Longitude                                                                                                                 |
 | ----- | ----------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -126,8 +126,8 @@ In addition to the terms defined in § 300.2, in the Act, and in the Treaty, and
 | AD    | 59°00′00″ S | 160°00′00″ E                                                                                                              |
 | AE    | 59°00′00″ S | 152°00′00″ E and north along the 152 degrees of East longitude until intersecting the Australian 200-nautical-mile limit. |
 
-*UTC* means Universal Coordinated Time.
+*UTC* means Universal Coordinated Time. 
 
-*Vessel Monitoring System Unit* or *VMS unit,* sometimes known as a “mobile transmitting unit,” means Administrator-approved and NMFS-approved VMS unit hardware and software that is installed on a vessel pursuant to § 300.45. The VMS units are a component of the regional vessel monitoring system administered by the FFA, as well as of the vessel monitoring system administered by NMFS, and as such are used to transmit information between the vessel and the Administrator and NMFS and/or other reporting points designated by NMFS.
+*Vessel Monitoring System Unit* or *VMS unit,* sometimes known as a “mobile transmitting unit,” means Administrator-approved and NMFS-approved VMS unit hardware and software that is installed on a vessel pursuant to § 300.45. The VMS units are a component of the regional vessel monitoring system administered by the FFA, as well as of the vessel monitoring system administered by NMFS, and as such are used to transmit information between the vessel and the Administrator and NMFS and/or other reporting points designated by NMFS. 
 
 \[61 FR 35550, July 5, 1996, as amended at 72 FR 6149, Feb. 9, 2007; 75 FR 74643, Dec. 1, 2010; 79 FR 64110, Oct. 28, 2014\]

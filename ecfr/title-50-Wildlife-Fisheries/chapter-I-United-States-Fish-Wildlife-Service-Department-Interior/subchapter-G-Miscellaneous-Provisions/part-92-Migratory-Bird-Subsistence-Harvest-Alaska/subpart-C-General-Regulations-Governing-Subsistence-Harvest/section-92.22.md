@@ -1,193 +1,195 @@
 ##### § 92.22 Subsistence migratory bird species.
 
-You may harvest birds or gather eggs from the following species, listed in taxonomic order, within all included areas except where region-specific harvest restrictions apply as set forth in § 92.31. When birds are listed at the species level, all subspecies existing in Alaska are also open to harvest. All bird species not listed are closed to harvesting and egg gathering.
+You may harvest birds or gather eggs from the following species, listed in taxonomic order, within all included areas except Southeast Alaska, which is restricted to Glaucous-winged gull egg harvesting only. When birds are listed at the species level, all subspecies existing in Alaska are also open to harvest. All bird species not listed are closed to harvesting and egg gathering. 
 
-(a) *Family Anatidae.* (1) Snow Goose (*Anser caerulescens*).
+(a) *Family Anatidae.* (1) Emperor Goose (*Anser canagicus*)—except no egg gathering is permitted. 
 
-(2) Greater White-fronted Goose (*Anser albifrons*).
+(2) Snow Goose (*Anser caerulescens*). 
 
-(3) Brant (*Branta bernicla*)—except no egg gathering is permitted in the Yukon/Kuskokwim Delta and the North Slope regions.
+(3) Greater White-fronted Goose (*Anser albifrons*). 
 
-(4) Cackling Goose (*Branta hutchinsii*)—except in the Semidi Islands.
+(4) Brant (*Branta bernicla*)—except no egg gathering is permitted in the Yukon/Kuskokwim Delta and the North Slope regions. 
 
-(5) Canada Goose (*Branta canadensis*).
+(5) Cackling Goose (*Branta hutchinsii*)—except in the Semidi Islands. 
 
-(6) Tundra Swan (*Cygnus columbianus*)—except in Units 9(D) and 10.
+(6) Canada Goose (*Branta canadensis*). 
 
-(7) Blue-winged Teal (*Spatula discors*).
+(7) Tundra Swan (*Cygnus columbianus*)—except in Units 9(D) and 10. 
 
-(8) Northern Shoveler (*Spatula clypeata*).
+(8) Blue-winged Teal (*Spatula discors*). 
 
-(9) Gadwall (*Mareca strepera*).
+(9) Northern Shoveler (*Spatula clypeata*). 
 
-(10) Eurasian Wigeon (*Mareca penelope*).
+(10) Gadwall (*Mareca strepera*). 
 
-(11) American Wigeon (*Mareca americana*).
+(11) Eurasian Wigeon (*Mareca penelope*). 
 
-(12) Mallard (*Anas platyrhynchos*).
+(12) American Wigeon (*Mareca americana*). 
 
-(13) Northern Pintail (*Anas acuta*).
+(13) Mallard (*Anas platyrhynchos*). 
 
-(14) Green-winged Teal (*Anas crecca*).
+(14) Northern Pintail (*Anas acuta*). 
 
-(15) Canvasback (*Aythya valisineria*).
+(15) Green-winged Teal (*Anas crecca*). 
 
-(16) Redhead (*Aythya americana*).
+(16) Canvasback (*Aythya valisineria*). 
 
-(17) Ring-necked Duck (*Aythya collaris*).
+(17) Redhead (*Aythya americana*). 
 
-(18) Greater Scaup (*Aythya marila*).
+(18) Ring-necked Duck (*Aythya collaris*). 
 
-(19) Lesser Scaup (*Aythya affinis*).
+(19) Greater Scaup (*Aythya marila*). 
 
-(20) King Eider (*Somateria spectabilis*).
+(20) Lesser Scaup (*Aythya affinis*). 
 
-(21) Common Eider (*Somateria mollissima*).
+(21) King Eider (*Somateria spectabilis*). 
 
-(22) Harlequin Duck (*Histrionicus histrionicus*).
+(22) Common Eider (*Somateria mollissima*). 
 
-(23) Surf Scoter (*Melanitta perspicillata*).
+(23) Harlequin Duck (*Histrionicus histrionicus*). 
 
-(24) White-winged Scoter (*Melanitta deglandi*).
+(24) Surf Scoter (*Melanitta perspicillata*). 
 
-(25) Black Scoter (*Melanitta americana*).
+(25) White-winged Scoter (*Melanitta deglandi*). 
 
-(26) Long-tailed Duck (*Clangula hyemalis*).
+(26) Black Scoter (*Melanitta americana*). 
 
-(27) Bufflehead (*Bucephala albeola*).
+(27) Long-tailed Duck (*Clangula hyemalis*). 
 
-(28) Common Goldeneye (*Bucephala clangula*).
+(28) Bufflehead (*Bucephala albeola*). 
 
-(29) Barrow's Goldeneye (*Bucephala islandica*).
+(29) Common Goldeneye (*Bucephala clangula*). 
 
-(30) Hooded Merganser (*Lophodytes cucullatus*).
+(30) Barrow's Goldeneye (*Bucephala islandica*). 
 
-(31) Common Merganser (*Mergus merganser*).
+(31) Hooded Merganser (*Lophodytes cucullatus*). 
 
-(32) Red-breasted Merganser (*Mergus serrator*).
+(32) Common Merganser (*Mergus merganser*). 
 
-(b) *Family Podicipedidae.* (1) Horned Grebe (*Podiceps auritus*).
+(33) Red-breasted Merganser (*Mergus serrator*). 
 
-(2) Red-necked Grebe (*Podiceps grisegena*).
+(b) *Family Podicipedidae.* (1) Horned Grebe (*Podiceps auritus*). 
 
-(c) *Family Gruidae.* (1) Sandhill Crane (*Antigone canadensis*).
+(2) Red-necked Grebe (*Podiceps grisegena*). 
 
-(2) \[Reserved\]
+(c) *Family Gruidae.* (1) Sandhill Crane (*Antigone canadensis*). 
 
-(d) *Family Haematopodidae.* (1) Black Oystercatcher (*Haematopus bachmani*).
+(2) \[Reserved\] 
 
-(2) \[Reserved\]
+(d) *Family Haematopodidae.* (1) Black Oystercatcher (*Haematopus bachmani*). 
 
-(e) *Family Charadriidae.* (1) Black-bellied Plover (*Pluvialis squatarola*).
+(2) \[Reserved\] 
 
-(2) Common Ringed Plover (*Charadrius hiaticula*).
+(e) *Family Charadriidae.* (1) Black-bellied Plover (*Pluvialis squatarola*). 
 
-(f) *Family Scolopacidae.* (1) Bar-tailed Godwit (*Limosa lapponica*).
+(2) Common Ringed Plover (*Charadrius hiaticula*). 
 
-(2) Ruddy Turnstone (*Arenaria interpres*).
+(f) *Family Scolopacidae.* (1) Bar-tailed Godwit (*Limosa lapponica*). 
 
-(3) Sharp-tailed Sandpiper (*Calidris acuminata*).
+(2) Ruddy Turnstone (*Arenaria interpres*). 
 
-(4) Dunlin (*Calidris alpina*).
+(3) Sharp-tailed Sandpiper (*Calidris acuminata*). 
 
-(5) Baird's Sandpiper (*Calidris bairdii*).
+(4) Dunlin (*Calidris alpina*). 
 
-(6) Least Sandpiper (*Calidris minutilla*).
+(5) Baird's Sandpiper (*Calidris bairdii*). 
 
-(7) Semipalmated Sandpiper (*Calidris pusilla*).
+(6) Least Sandpiper (*Calidris minutilla*). 
 
-(8) Western Sandpiper (*Calidris mauri*).
+(7) Semipalmated Sandpiper (*Calidris pusilla*). 
 
-(9) Long-billed Dowitcher (*Limnodromus scolopaceus*).
+(8) Western Sandpiper (*Calidris mauri*). 
 
-(10) Common Snipe (*Gallinago gallinago*).
+(9) Long-billed Dowitcher (*Limnodromus scolopaceus*). 
 
-(11) Wilson's Snipe (*Gallinago delicata*).
+(10) Common Snipe (*Gallinago gallinago*). 
 
-(12) Spotted Sandpiper (*Actitis macularius*).
+(11) Wilson's Snipe (*Gallinago delicata*). 
 
-(13) Lesser Yellowlegs (*Tringa flavipes*).
+(12) Spotted Sandpiper (*Actitis macularius*). 
 
-(14) Greater Yellowlegs (*Tringa melanoleuca*).
+(13) Lesser Yellowlegs (*Tringa flavipes*). 
 
-(15) Red-necked Phalarope (*Phalaropus lobatus*).
+(14) Greater Yellowlegs (*Tringa melanoleuca*). 
 
-(16) Red Phalarope (*Phalaropus fulicarius*).
+(15) Red-necked Phalarope (*Phalaropus lobatus*). 
 
-(g) *Family Stercorariidae.* (1) Pomarine Jaeger (*Stercorarius pomarinus*).
+(16) Red Phalarope (*Phalaropus fulicarius*). 
 
-(2) Parasitic Jaeger (*Stercorarius parasiticus*).
+(g) *Family Stercorariidae.* (1) Pomarine Jaeger (*Stercorarius pomarinus*). 
 
-(3) Long-tailed Jaeger (*Stercorarius longicaudus*).
+(2) Parasitic Jaeger (*Stercorarius parasiticus*). 
 
-(h) *Family Alcidae.* (1) Common Murre (*Uria aalge*).
+(3) Long-tailed Jaeger (*Stercorarius longicaudus*). 
 
-(2) Thick-billed Murre (*Uria lomvia*).
+(h) *Family Alcidae.* (1) Common Murre (*Uria aalge*). 
 
-(3) Black Guillemot (*Cepphus grylle*).
+(2) Thick-billed Murre (*Uria lomvia*). 
 
-(4) Pigeon Guillemot (*Cepphus columba*).
+(3) Black Guillemot (*Cepphus grylle*). 
 
-(5) Cassin's Auklet (*Ptychoramphus aleuticus*).
+(4) Pigeon Guillemot (*Cepphus columba*). 
 
-(6) Parakeet Auklet (*Aethia psittacula*).
+(5) Cassin's Auklet (*Ptychoramphus aleuticus*). 
 
-(7) Least Auklet (*Aethia pusilla*).
+(6) Parakeet Auklet (*Aethia psittacula*). 
 
-(8) Whiskered Auklet (*Aethia pygmaea*).
+(7) Least Auklet (*Aethia pusilla*). 
 
-(9) Crested Auklet (*Aethia cristatella*).
+(8) Whiskered Auklet (*Aethia pygmaea*). 
 
-(10) Rhinoceros Auklet (*Cerorhinca monocerata*).
+(9) Crested Auklet (*Aethia cristatella*). 
 
-(11) Horned Puffin (*Fratercula corniculata*).
+(10) Rhinoceros Auklet (*Cerorhinca monocerata*). 
 
-(12) Tufted Puffin (*Fratercula cirrhata*).
+(11) Horned Puffin (*Fratercula corniculata*). 
 
-(i) *Family Laridae.* (1) Black-legged Kittiwake (*Rissa tridactyla*).
+(12) Tufted Puffin (*Fratercula cirrhata*). 
 
-(2) Red-legged Kittiwake (*Rissa brevirostris*).
+(i) *Family Laridae.* (1) Black-legged Kittiwake (*Rissa tridactyla*). 
 
-(3) Ivory Gull (*Pagophila eburnea*).
+(2) Red-legged Kittiwake (*Rissa brevirostris*). 
 
-(4) Sabine's Gull (*Xema sabini*).
+(3) Ivory Gull (*Pagophila eburnea*). 
 
-(5) Bonaparte's Gull (*Chroicocephalus philadelphia*).
+(4) Sabine's Gull (*Xema sabini*). 
 
-(6) Short-billed Gull (*Larus brachyrhynchus*).
+(5) Bonaparte's Gull (*Chroicocephalus philadelphia*). 
 
-(7) Herring Gull (*Larus argentatus*).
+(6) Mew Gull (*Larus canus*). 
 
-(8) Slaty-backed Gull (*Larus schistisagus*).
+(7) Herring Gull (*Larus argentatus*). 
 
-(9) Glaucous-winged Gull (*Larus glaucescens*).
+(8) Slaty-backed Gull (*Larus schistisagus*). 
 
-(10) Glaucous Gull (*Larus hyperboreus*).
+(9) Glaucous-winged Gull (*Larus glaucescens*). 
 
-(11) Aleutian Tern (*Onychoprion aleuticus*).
+(10) Glaucous Gull (*Larus hyperboreus*). 
 
-(12) Arctic Tern (*Sterna paradisaea*).
+(11) Aleutian Tern (*Onychoprion aleuticus*). 
 
-(j) *Family Gaviidae.* (1) Red-throated Loon (*Gavia stellata*).
+(12) Arctic Tern (*Sterna paradisaea*). 
 
-(2) Arctic Loon (*Gavia arctica*).
+(j) *Family Gaviidae.* (1) Red-throated Loon (*Gavia stellata*). 
 
-(3) Pacific Loon (*Gavia pacifica*).
+(2) Arctic Loon (*Gavia arctica*). 
 
-(4) Common Loon (*Gavia immer*).
+(3) Pacific Loon (*Gavia pacifica*). 
 
-(5) Yellow-billed Loon (*Gavia adamsii*)—In the North Slope Region only, a total of up to 20 yellow-billed loons inadvertently caught in fishing nets may be kept for subsistence purposes.
+(4) Common Loon (*Gavia immer*). 
 
-(k) *Family Procellariidae.* (1) Northern Fulmar (*Fulmarus glacialis*).
+(5) Yellow-billed Loon (*Gavia adamsii*)—In the North Slope Region only, a total of up to 20 yellow-billed loons inadvertently caught in fishing nets may be kept for subsistence purposes. 
 
-(2) \[Reserved\]
+(k) *Family Procellariidae.* (1) Northern Fulmar (*Fulmarus glacialis*). 
 
-(l) *Family Phalacrocoracidae.* (1) Double-crested Cormorant (*Nannopterum auritum*).
+(2) \[Reserved\] 
 
-(2) Pelagic Cormorant (*Urile pelagicus*).
+(l) *Family Phalacrocoracidae.* (1) Double-crested Cormorant (*Phalacrocorax auritus*). 
 
-(m) *Family Strigidae.* (1) Great Horned Owl (*Bubo virginianus*).
+(2) Pelagic Cormorant (*Phalacrocorax pelagicus*). 
 
-(2) Snowy Owl (*Bubo scandiacus*).
+(m) *Family Strigidae.* (1) Great Horned Owl (*Bubo virginianus*). 
 
-\[73 FR 13791, Mar. 14, 2008, as amended at 81 FR 18787, Apr. 1, 2016; 82 FR 16304, Apr. 4, 2017; 83 FR 13688, Mar. 30, 2018; 86 FR 20318, Apr. 19, 2021; 90 FR 14422, Apr. 2, 2025\]
+(2) Snowy Owl (*Bubo scandiacus*). 
+
+\[73 FR 13791, Mar. 14, 2008, as amended at 81 FR 18787, Apr. 1, 2016; 82 FR 16304, Apr. 4, 2017; 83 FR 13688, Mar. 30, 2018; 86 FR 20318, Apr. 19, 2021\]

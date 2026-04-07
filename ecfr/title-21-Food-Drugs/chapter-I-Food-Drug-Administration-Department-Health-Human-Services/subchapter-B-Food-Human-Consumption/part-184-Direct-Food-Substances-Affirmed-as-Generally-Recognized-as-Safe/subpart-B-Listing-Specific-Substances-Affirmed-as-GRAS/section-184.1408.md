@@ -1,22 +1,22 @@
 ##### § 184.1408 Licorice and licorice derivatives.
 
-(a)(1) Licorice (glycyrrhiza) root is the dried and ground rhizome and root portions of *Glycyrrhiza glabra* or other species of *Glycyrrhiza.* Licorice extract is that portion of the licorice root that is, after maceration, extracted by boiling water. The extract can be further purified by filtration and by treatment with acids and ethyl alcohol. Licorice extract is sold as a liquid, paste (“block”), or spray-dried powder. 
+(a)(1) Licorice (glycyrrhiza) root is the dried and ground rhizome and root portions of *Glycyrrhiza glabra* or other species of *Glycyrrhiza.* Licorice extract is that portion of the licorice root that is, after maceration, extracted by boiling water. The extract can be further purified by filtration and by treatment with acids and ethyl alcohol. Licorice extract is sold as a liquid, paste (“block”), or spray-dried powder.
 
-(2) Ammoniated glycyrrhizin is prepared from the water extract of licorice root by acid precipitation followed by neutralization with dilute ammonia. Monoammonium glycyrrhizinate (C42H61O16NH45H2O, CAS Reg. No. 1407-03-0) is prepared from ammoniated glycyrrhizin by solvent extraction and separation techniques. 
+(2) Ammoniated glycyrrhizin is prepared from the water extract of licorice root by acid precipitation followed by neutralization with dilute ammonia. Monoammonium glycyrrhizinate (C42H61O16NH45H2O, CAS Reg. No. 1407-03-0) is prepared from ammoniated glycyrrhizin by solvent extraction and separation techniques.
 
-(b) The ingredients shall meet the following specifications when analyzed: 
+(b) The ingredients shall meet the following specifications when analyzed:
 
 (1) *Assay.* The glycyrrhizin content of each flavoring ingredient shall be determined by the method in the Official Methods of Analysis of the Association of Official Analytical Chemists, 13th Ed., §§ 19.136-19.140, which is incorporated by reference, or by methods 19.CO1 through 19.CO4 in the *Journal of the Association of Official Analytical Chemists,* 65:471-472 (1982), which are also incorporated by reference. Copies of all of these methods are available from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (2) *Ash.* Not more than 9.5 percent for licorice, 2.5 percent for ammoniated glycyrrhizin, and 0.5 percent for monoammonium glycyrrhizinate on an anhydrous basis as determined by the method in the Food Chemicals Codex, 3d Ed. (1981), p. 466, which is incorporated by reference. Copies are available from the National Academy Press, 2101 Constitution Ave. NW., Washington, DC 20418, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(3) *Acid unsoluble ash.* Not more than 2.5 percent for licorice on an anhydrous basis as determined by the method in the Food Chemicals Codex, 3d Ed. (1981), p. 466, which is incorporated by reference. 
+(3) *Acid unsoluble ash.* Not more than 2.5 percent for licorice on an anhydrous basis as determined by the method in the Food Chemicals Codex, 3d Ed. (1981), p. 466, which is incorporated by reference.
 
-(4) *Heavy metals (as Pb).* Not more than 40 parts per million as determined by method II in the Food Chemicals Codex, 3d Ed. (1981), p. 512, which is incorporated by reference. 
+(4) *Heavy metals (as Pb).* Not more than 40 parts per million as determined by method II in the Food Chemicals Codex, 3d Ed. (1981), p. 512, which is incorporated by reference.
 
-(5) *Arsenic (As).* Not more than 3 parts per million as determined by the method in the Food Chemicals Codex. 3d Ed. (1981), p. 464, which is incorporated by reference. 
+(5) *Arsenic (As).* Not more than 3 parts per million as determined by the method in the Food Chemicals Codex. 3d Ed. (1981), p. 464, which is incorporated by reference.
 
-(c) In accordance with § 184.1(b)(2), these ingredients are used in food only within the following specific limitations: 
+(c) In accordance with § 184.1(b)(2), these ingredients are used in food only within the following specific limitations:
 
 | Category of food                                                                                                                                                      | Maximum level in food (percent glycyrrhizin content of food) (as served) | Functional use                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,6 +31,6 @@
 | Vitamin or mineral dietary supplements                                                                                                                                | 0.5                                                                      | Do.                                                                                                                                                     |
 | All other foods except sugar substitutes, § 170.3(n)(42) of this chapter. The ingredient is not permitted to be used as a nonnutritive sweetener in sugar substitutes | 0.1                                                                      | Do.                                                                                                                                                     |
 
-(d) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived. 
+(d) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived.
 
 \[50 FR 21044, May 22, 1985, as amended at 54 FR 24899, June 12, 1989\]

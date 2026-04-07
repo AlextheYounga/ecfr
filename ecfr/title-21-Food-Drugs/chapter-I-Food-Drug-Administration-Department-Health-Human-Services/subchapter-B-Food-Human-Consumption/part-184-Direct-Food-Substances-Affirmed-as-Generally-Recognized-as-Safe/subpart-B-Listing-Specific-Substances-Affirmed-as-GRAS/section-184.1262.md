@@ -1,10 +1,10 @@
 ##### § 184.1262 Corn silk and corn silk extract.
 
-(a) Corn silk is the fresh styles and stigmas of *Zea mays* L. collected when the corn is in milk. The filaments are extracted with dilute ethanol to produce corn silk extract. The extract may be concentrated at a temperature not exceeding 60 °C. 
+(a) Corn silk is the fresh styles and stigmas of *Zea mays* L. collected when the corn is in milk. The filaments are extracted with dilute ethanol to produce corn silk extract. The extract may be concentrated at a temperature not exceeding 60 °C.
 
-(b) The ingredient must be of a purity suitable for its intended use. 
+(b) The ingredient must be of a purity suitable for its intended use.
 
-(c) In accordance with § 184.1(b)(2), the ingredients are used in food only within the following specific limitations: 
+(c) In accordance with § 184.1(b)(2), the ingredients are used in food only within the following specific limitations:
 
 | Category of food                                            | Maximum level of use in food (as served) 1 | Functional use                                   |
 | ----------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------ |
@@ -15,6 +15,6 @@
 | All other food categories                                   | 4                                          | Do.                                              |
 | 1 Parts per million.                                        |                                            |                                                  |
 
-(d) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived. 
+(d) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived.
 
 \[47 FR 29953, July 9, 1982, as amended at 73 FR 8607, Feb. 14, 2008\]
