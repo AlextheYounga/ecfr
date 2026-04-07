@@ -1264,7 +1264,7 @@ Our Duties -
 
 (2) If the records you provided are from acreage that one or more other producers double cropped in at least two of the last four crop years, you may only use the history of double cropping for the same physical acres from which double cropping records were provided (*e.g.,* if a neighbor has double cropped 100 acres of wheat and soybeans in the county and you acquire your neighbor's 100 double cropped acres and an additional 100 acres in the county, you can only apply your neighbor's history of double cropped acreage to the same 100 acres that your neighbor double cropped).
 
-(3) If you acquired additional land for the current crop year and the following calculation results in a greater number of double cropping acres than determined in 15(i), you may apply the percentage of acres that you have previously double cropped to the total cropland acres that you are farming this year (if greater):
+(3) If you acquired additional land for the current crop year and the following calculation results in a greater number of double cropping acres than determined in the introductory paragraph of section 15(i), you may apply the percentage of acres that you have previously double cropped to the total cropland acres that you are farming this year (if greater):
 
 (i) Determine the number of acres of the first insured crop that were double cropped in each of the years for which double cropping records are provided (for example, records are provided showing: 100 acres of wheat planted in 2019 and 50 of those acres were double cropped with soybeans; and 100 acres of wheat planted in 2020 and 70 of those acres were double cropped with soybeans);
 
