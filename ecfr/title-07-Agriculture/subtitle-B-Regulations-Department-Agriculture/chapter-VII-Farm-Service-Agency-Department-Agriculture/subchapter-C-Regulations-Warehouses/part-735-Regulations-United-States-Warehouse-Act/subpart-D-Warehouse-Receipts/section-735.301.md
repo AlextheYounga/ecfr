@@ -1,3 +1,0 @@
-##### § 735.301 Notification requirements.
-
-Warehouse operators must file with DACO the name and genuine signature of each person authorized to sign warehouse receipts for the licensed warehouse operator, and will promptly notify DACO of any changes with respect to persons authorized to sign.
