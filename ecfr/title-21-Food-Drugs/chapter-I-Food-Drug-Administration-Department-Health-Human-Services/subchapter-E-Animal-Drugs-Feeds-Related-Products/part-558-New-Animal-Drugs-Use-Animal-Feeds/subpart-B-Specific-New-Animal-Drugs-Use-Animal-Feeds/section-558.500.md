@@ -1,30 +1,30 @@
 ##### § 558.500 Ractopamine.
 
-(a) *Specifications.* Type A medicated articles containing 9 or 45.4 grams of ractopamine hydrochloride per pound.
+(a) *Specifications.* Type A medicated articles containing 9 or 45.4 grams of ractopamine hydrochloride per pound. 
 
-(b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter.
+(b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter. 
 
-(1) Nos. 016592 and 058198: Type A medicated articles containing 9 or 45.4 grams per pound (g/lb) ractopamine hydrochloride.
+(1) Nos. 016592 and 058198: Type A medicated articles containing 9 or 45.4 grams per pound (g/lb) ractopamine hydrochloride. 
 
-(2) Nos. 051311 and 054771: Type A medicated articles containing 45.4 g/lb ractopamine hydrochloride.
+(2) Nos. 051311 and 054771: Type A medicated articles containing 45.4 g/lb ractopamine hydrochloride. 
 
-(c) *Related tolerances.* See § 556.570 of this chapter.
+(c) *Related tolerances.* See § 556.570 of this chapter. 
 
-(d) *Special considerations.* (1) Labeling of Type B and Type C feeds shall bear the following: “Not for animals intended for breeding.”
+(d) *Special considerations.* (1) Labeling of Type B and Type C feeds shall bear the following: “Not for animals intended for breeding.” 
 
-(2) Labeling of Type B and Type C swine feeds shall bear the following:
+(2) Labeling of Type B and Type C swine feeds shall bear the following: 
 
-(i) “No increased benefit has been shown when ractopamine concentrations in the diet are greater than 4.5 g/ton.”
+(i) “No increased benefit has been shown when ractopamine concentrations in the diet are greater than 4.5 g/ton.” 
 
-(ii) “Ractopamine may increase the number of injured and/or fatigued pigs during marketing.”
+(ii) “Ractopamine may increase the number of injured and/or fatigued pigs during marketing.” 
 
-(3) Labeling of Type B and Type C tom turkey feeds shall bear the following: “No increased benefit has been shown when ractopamine concentrations in the diet are greater than 4.6 g/ton.”
+(3) Labeling of Type B and Type C tom turkey feeds shall bear the following: “No increased benefit has been shown when ractopamine concentrations in the diet are greater than 4.6 g/ton.” 
 
-(4) Tylosin in combinations as tylosin phosphate.
+(4) Tylosin in combinations as tylosin phosphate. 
 
-(5) Ractopamine liquid Type B cattle feeds may be manufactured from dry ractopamine Type A articles. The liquid Type B feeds must be maintained at a pH of 4.5 to 7.5 or, if in combination with monensin and/or tylosin, at a pH of 4.5 to 6.0. Mixing directions for liquid Type B feeds requiring recirculation or agitation: Recirculate immediately prior to use for not less than 10 minutes, moving not less than 1 percent of the tank contents per minute from the bottom of the tank to the top. Recirculate daily as described even when not used.
+(5) Ractopamine liquid Type B cattle feeds may be manufactured from dry ractopamine Type A articles. The liquid Type B feeds must be maintained at a pH of 4.5 to 7.5 or, if in combination with monensin and/or tylosin, at a pH of 4.5 to 6.0. Mixing directions for liquid Type B feeds requiring recirculation or agitation: Recirculate immediately prior to use for not less than 10 minutes, moving not less than 1 percent of the tank contents per minute from the bottom of the tank to the top. Recirculate daily as described even when not used. 
 
-(e) *Conditions of use*—(1) *Swine*—
+(e) *Conditions of use*—(1) *Swine*— 
 
 | Ractopamine in grams/ton | Combination in grams/ton | Indications for use                                                                                                                                                                                                                                            | Limitations                      | Sponsor                  |
 | ------------------------ | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------ |
@@ -43,7 +43,7 @@
 | (vi) Not to exceed 800; to provide 70 to 400 mg/head/day  |                                                                                                                                                                                                              | Cattle fed in confinement for slaughter: For increased rate of weight gain and improved feed efficiency during the last 28 to 42 days on feed                                                                                                                                        | Top dress ractopamine at a minimum of 1.0 lb/head/day of medicated feed continuously during the last 28 to 42 days on feed. Not for animals intended for breeding                                                                                                                                                                                                                                            | 016592   051311   054771   058198 |
 | (vii) Not to exceed 800; to provide 70 to 400 mg/head/day | Monensin 10 to 40 to provide 0.14 to 0.42 mg monensin/lb of body weight, depending on severity of coccidiosis challenge, up to 480 mg/head/day                                                               | Cattle fed in confinement for slaughter: For increased rate of weight gain, improved feed efficiency, and prevention and control of coccidiosis due to Eimeria bovis and E. zuernii during the last 28 to 42 days on feed                                                            | Top dress ractopamine at a minimum of 1.0 lb/head/day of medicated feed continuously during the last 28 to 42 days on feed. Not for animals intended for breeding. See special labeling considerations in § 558.355(d) of this chapter. Ractopamine as provided by No. 016592, 054771, or 058198; monensin as provided by No. 016592 or 058198 in § 510.600(c) of this chapter                               | 016592   054771   058198          |
 
-(3) *Turkeys*—
+(3) *Turkeys*— 
 
 | Ractopamine in grams/ton        | Combination in grams/ton | Indications for use                                                                                                                                                                             | Limitations                                                                                                                                                                                           | Sponsor |
 | ------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
@@ -52,6 +52,6 @@
 | (iii) 4.6 to 11.8 (5 to 13 ppm) | Monensin 54 to 90        | Finishing hen turkeys: As in paragraph (e)(3)(i) of this section; and for the prevention of coccidiosis in growing turkeys caused by Eimeria adenoeides, E. meleagrimitis and E. gallopavonis.  | Feed continuously as sole ration during the last 7 to 14 days prior to slaughter. See § 558.355(d).                                                                                                   | 058198  |
 | (iv) 4.6 to 11.8 (5 to 13 ppm)  | Monensin 54 to 90        | Finishing tom turkeys: As in paragraph (e)(3)(ii) of this section; and for the prevention of coccidiosis in growing turkeys caused by Eimeria adenoeides, E. meleagrimitis and E. gallopavonis. | Feed continuously as sole ration during the last 14 days prior to slaughter. Feeding ractopamine to tom turkeys during periods of excessive heat can result in increased mortality. See § 558.355(d). | 058198  |
 
-(4) Ractopamine may also be used in combination with tylosin in as in § 558.625.
+(4) Ractopamine may also be used in combination with tylosin in as in § 558.625. 
 
 \[67 FR 71820, Dec. 3, 2002, as amended at 68 FR 54659, Sept. 18, 2003; 69 FR 12068, Mar. 15, 2004; 69 FR 51174, Aug. 18, 2004; 71 FR 31074, June 1, 2006; 71 FR 67301, Nov. 21, 2006; 72 FR 10358, Mar. 8, 2007; 72 FR 41619, July 31, 2007; 72 FR 56897, Oct. 5, 2007; 72 FR 62571, Nov. 6, 2007; 72 FR 65667, Nov. 23, 2007; 72 FR 70777, Dec. 13, 2007; 73 FR 72715, Dec. 1, 2008; 73 FR 75323, Dec. 11, 2008; 74 FR 66914, Dec. 17, 2009; 75 FR 1276, Jan. 11, 2010; 75 FR 5888, Feb. 5, 2010; 75 FR 20917, Apr. 22, 2010; 75 FR 54018, Sept. 3, 2010; 77 FR 31724, May 30, 2012; 78 FR 63872, Oct. 25, 2013; 79 FR 13546, Mar. 11, 2014; 79 FR 37621, July 2, 2014; 79 FR 44278, July 31, 2014; 79 FR 53136, Sept. 8, 2014; 80 FR 61298, Oct. 13, 2015; 81 FR 48703, July 26, 2016; 81 FR 95013, Dec. 27, 2016; 85 FR 18122, Apr. 1, 2020; 85 FR 45311, July 28, 2020; 86 FR 58013, Oct. 20, 2021; 87 FR 17947, Mar. 29, 2022; 89 FR 42361, May 15, 2024\]

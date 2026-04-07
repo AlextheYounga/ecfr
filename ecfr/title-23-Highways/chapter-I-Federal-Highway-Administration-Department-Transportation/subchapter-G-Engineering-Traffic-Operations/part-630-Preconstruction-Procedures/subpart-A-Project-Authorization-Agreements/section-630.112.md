@@ -1,6 +1,6 @@
 ##### § 630.112 Agreement provisions.
 
-(a) The State, through its transportation department, accepts and agrees to comply with the applicable terms and conditions set forth in title 23, U.S.C., the regulations issued pursuant thereto, the policies and procedures promulgated by the FHWA relative to the designated project covered by the agreement, and all other applicable Federal laws and regulations.
+(a) The State, through its transportation department, accepts and agrees to comply with the applicable terms and conditions set forth in title 23, U.S.C., the regulations issued pursuant thereto, the policies and procedures promulgated by the FHWA relative to the designated project covered by the agreement, and all other applicable Federal laws and regulations.*Project for acquisition of rights-of-way.*
 
 (b) Federal funds obligated for the project must not exceed the amount agreed to on the project agreement, the balance of the estimated total cost being an obligation of the State. Such obligation of Federal funds extends only to project costs incurred by the State after the execution of a formal project agreement with the FHWA.
 

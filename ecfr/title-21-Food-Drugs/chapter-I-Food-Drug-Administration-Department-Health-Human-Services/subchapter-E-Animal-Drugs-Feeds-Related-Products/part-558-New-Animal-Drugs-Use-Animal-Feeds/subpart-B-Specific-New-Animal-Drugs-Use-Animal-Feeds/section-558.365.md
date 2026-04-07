@@ -1,16 +1,16 @@
 ##### § 558.365 Neomycin sulfate.
 
-(a) *Specifications.* Type A medicated article containing 325 grams neomycin sulfate per pound.
+(a) *Specifications.* Type A medicated article containing 325 grams neomycin sulfate per pound. 
 
-(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter. 
 
-(c) *Related tolerances.* See § 556.430 of this chapter.
+(c) *Related tolerances.* See § 556.430 of this chapter. 
 
-(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
+(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements. 
 
-(2) The expiration date of VFDs for neomycin medicated feeds must not exceed 6 months from the date of issuance. VFDs for neomycin shall not be refilled.
+(2) The expiration date of VFDs for neomycin medicated feeds must not exceed 6 months from the date of issuance. VFDs for neomycin shall not be refilled. 
 
-(e) *Conditions of use.* Neomycin sulfate is used as follows:
+(e) *Conditions of use.* Neomycin sulfate is used as follows: 
 
 | Neomycin Sulfate                                         | Combination | Indications for Use                                                                                                                                    | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Sponsor |
 | -------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |

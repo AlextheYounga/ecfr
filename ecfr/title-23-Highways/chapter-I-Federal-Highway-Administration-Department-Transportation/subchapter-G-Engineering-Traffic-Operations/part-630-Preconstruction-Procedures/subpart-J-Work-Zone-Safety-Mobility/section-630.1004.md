@@ -1,6 +1,6 @@
 ##### § 630.1004 Definitions and explanation of terms.
 
-As used in this subpart:
+As used in this subpart:*Agency*
 
 *Agency* means a State or local highway agency or authority that receives Federal-aid highway funding.
 

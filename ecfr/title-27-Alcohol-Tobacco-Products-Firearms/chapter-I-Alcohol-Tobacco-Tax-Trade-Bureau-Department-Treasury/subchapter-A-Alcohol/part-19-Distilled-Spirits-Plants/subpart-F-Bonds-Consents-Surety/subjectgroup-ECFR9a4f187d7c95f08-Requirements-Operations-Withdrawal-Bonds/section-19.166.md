@@ -1,6 +1,6 @@
 ##### § 19.166 Required penal sums.
 
-A person must determine the penal sums for the various bonds required by this subpart according to the following table: 
+A person must determine the penal sums for the various bonds required by this subpart according to the following table:
 
 | (a) Operations bond for a single plant operating as a:                                                                                                                                               | Required penal sum represents:                                                                                                                                                                           | The penal sum must be: |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |

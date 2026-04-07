@@ -1,6 +1,6 @@
 ##### § 27.1 Imported distilled spirits, wines, and beer.
 
-This part, “Importation of Distilled Spirits, Wines, and Beer”, contains procedural and substantive requirements relative to the importation of distilled spirits, wines, and beer into the United States from foreign countries including commodity taxes, permits, marking, branding, closing and labeling of containers and packages, and records and reports. 
+This part, “Importation of Distilled Spirits, Wines, and Beer”, contains procedural and substantive requirements relative to the importation of distilled spirits, wines, and beer into the United States from foreign countries including commodity taxes, permits, marking, branding, closing and labeling of containers and packages, and records and reports.
 
 Note:
 

@@ -1,16 +1,16 @@
 ##### § 558.550 Salinomycin.
 
-(a) *Specifications.* Type A medicated articles containing 30 or 60 grams of salinomycin sodium activity per pound.
+(a) *Specifications.* Type A medicated articles containing 30 or 60 grams of salinomycin sodium activity per pound. 
 
-(b) *Sponsor.* See No. 016592 in § 510.600(c) of this chapter for use as in paragraph (e) of this section.
+(b) *Sponsor.* See No. 016592 in § 510.600(c) of this chapter for use as in paragraph (e) of this section. 
 
-(c) *Related tolerances.* See § 556.592 of this chapter.
+(c) *Related tolerances.* See § 556.592 of this chapter. 
 
-(d) *Special considerations.* Not approved for use with pellet binders.
+(d) *Special considerations.* Not approved for use with pellet binders. 
 
-(e) *Conditions of use.* It is used as follows:
+(e) *Conditions of use.* It is used as follows: 
 
-(1) *Chickens*—
+(1) *Chickens*— 
 
 | Salinomycin in grams/ton | Combination in   grams/ton                   | Indications for use                                                                                                                                                                                                                                                                            | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Sponsor         |
 | ------------------------ | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -21,23 +21,23 @@
 | (v) 40 to 60             | Bacitracin zinc, 10 to 50                    | Broiler chickens: For the prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. maxima, E. brunetti, and E. mivati, and for increased rate of weight gain                                                                                                        | Feed continuously as sole ration. Not approved for use with pellet binders. Do not feed to layers. May be fatal if accidentally fed to adult turkeys or horses. Bacitracin zinc as provided by No. 054771 in § 510.600(c) of this chapter                                                                                                                                                                                                                                                                                               | 016592   054771 |
 | (vi) 40 to 60            | Bambermycins, 1 to 3                         | Broiler chickens: For the prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. maxima, E. brunetti, and E. mivati, and for improved feed efficiency                                                                                                             | Feed continuously as sole ration. Do not feed to laying chickens. Not approved for use with pellet binders. May be fatal if accidentally fed to adult turkeys or horses. Salinomycin and bambermycins as provided by No. 016592 in § 510.600(c) in this chapter                                                                                                                                                                                                                                                                         | 016592          |
 
-(2) *Game birds*—
+(2) *Game birds*— 
 
 | Salinomycin in grams/ton | Combination in   grams per ton | Indications for use                                                                | Limitations                                                                                                                                              | Sponsor |
 | ------------------------ | ------------------------------ | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | (i) 50                   |                                | Quail: For the prevention of coccidiosis caused by Eimeria dispersa and E. lettyae | Feed continuously as sole ration. Do not feed to birds producing eggs for human consumption. May be fatal if accidentally fed to adult turkeys or horses | 016592  |
 | (ii) \[Reserved\]        |                                |                                                                                    |                                                                                                                                                          |         |
 
-(3) *Combinations.* Salinomycin may also be used in combination with:
+(3) *Combinations.* Salinomycin may also be used in combination with: 
 
-(i) Avilamycin as in § 558.68.
+(i) Avilamycin as in § 558.68. 
 
-(ii) Chlortetracycline as in § 558.128.
+(ii) Chlortetracycline as in § 558.128. 
 
-(iii) Lincomycin as in § 558.325.
+(iii) Lincomycin as in § 558.325. 
 
-(iv) Oxytetracycline as in § 558.450.
+(iv) Oxytetracycline as in § 558.450. 
 
-(v) Virginiamycin as in § 558.635.
+(v) Virginiamycin as in § 558.635. 
 
 \[48 FR 30616, July 5, 1983\] Editorial Note:For Federal Register citations affecting § 558.550, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

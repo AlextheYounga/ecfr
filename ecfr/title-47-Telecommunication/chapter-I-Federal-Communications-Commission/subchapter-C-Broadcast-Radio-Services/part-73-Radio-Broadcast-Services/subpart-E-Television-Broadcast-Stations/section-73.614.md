@@ -77,7 +77,7 @@ Table 3 to Paragraph (b)(3)(i)—Maximum Allowable ERP and Antenna Height for TV
 
 (ii) For TV stations located in Zone I, II or III that operate on channels 14-36 with an HAAT that exceeds 610 meters, the allowable maximum ERP expressed in decibels above 1 kW (dBk) is determined using the following formula, with HAAT expressed in meters:
 
-ERPmax = 72.57−17.08 \* log10(HAAT) Where: ERPmax = Maximum Effective Radiated Power measured in decibels above 1 kW (dBk). HAAT = Height Above Average Terrain measured in meters.
+ERPmax = 72.57−17.08 \* log10(HAAT) Where: maxERPmax = Maximum Effective Radiated Power measured in decibels above 1 kW (dBk). HAAT = Height Above Average Terrain measured in meters.
 
 (4)-(5) \[Reserved\]
 

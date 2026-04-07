@@ -1,6 +1,6 @@
 ##### § 73.682 TV transmission standards.
 
-(a)-(c) \[Reserved\]
+(a)-(c) \[Reserved\]*Broadcast television transmission standards.*
 
 (d) *Broadcast television transmission standards.*
 

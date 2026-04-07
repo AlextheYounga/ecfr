@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 40538, Aug. 20, 2025.
 
-The following definitions apply to terminology employed in this subpart:
+The following definitions apply to terminology employed in this subpart:*International broadcast stations.*
 
 (a) *International broadcast stations.* A broadcasting station employing frequencies allocated to the broadcasting service between 5900 and 26100 kHz, the transmissions of which are intended to be received directly by the general public in foreign countries. (A station may be authorized more than one transmitter.) There are both Federal and non-Federal Government international broadcast stations; only the latter are licensed by the Commission and are subject to the rules of this subpart.
 

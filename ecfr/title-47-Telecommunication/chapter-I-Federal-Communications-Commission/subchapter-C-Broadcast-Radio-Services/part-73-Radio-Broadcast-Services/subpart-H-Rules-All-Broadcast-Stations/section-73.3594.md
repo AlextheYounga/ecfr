@@ -1,6 +1,6 @@
 ##### § 73.3594 Local public notice of designation for hearing.
 
-(a) When an application subject to the provisions of § 73.3580 is designated for hearing, the applicant shall give notice of such designation as follows:
+(a) When an application subject to the provisions of § 73.3580 is designated for hearing, the applicant shall give notice of such designation as follows:*On-air announcement.*
 
 (1) *On-air announcement.* The applicant (except an applicant filing an application for an International broadcast, low power TV, TV translator, FM translator, and FM booster station) shall broadcast an on-air announcement of the designation of an application for hearing over its radio or television station as follows:
 

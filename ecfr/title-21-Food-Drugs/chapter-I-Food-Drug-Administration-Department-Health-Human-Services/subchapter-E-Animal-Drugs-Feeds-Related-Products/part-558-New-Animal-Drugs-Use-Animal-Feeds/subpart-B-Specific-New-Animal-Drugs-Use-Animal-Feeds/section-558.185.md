@@ -1,14 +1,14 @@
 ##### § 558.185 Coumaphos.
 
-(a) *Specifications.* Type A medicated articles containing 1.12, 2.0, 11.2, or 50 percent coumaphos.
+(a) *Specifications.* Type A medicated articles containing 1.12, 2.0, 11.2, or 50 percent coumaphos. 
 
-(b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter. 
 
-(c) *Related tolerances.* See § 556.168 of this chapter.
+(c) *Related tolerances.* See § 556.168 of this chapter. 
 
-(d) *Special considerations.* (1) Labeling shall bear the following warning: The active ingredient coumaphos is a cholinesterase inhibitor. Do not use this product on animals simultaneously or within a few days before or after treatment with, or exposure to, cholinesterase-inhibiting drugs, pesticides, or chemicals.
+(d) *Special considerations.* (1) Labeling shall bear the following warning: The active ingredient coumaphos is a cholinesterase inhibitor. Do not use this product on animals simultaneously or within a few days before or after treatment with, or exposure to, cholinesterase-inhibiting drugs, pesticides, or chemicals. 
 
-(2) See § 500.25 of this chapter.
+(2) See § 500.25 of this chapter. 
 
 (e) *Conditions of use in laying chickens.*
 

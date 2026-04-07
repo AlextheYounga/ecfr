@@ -1,18 +1,18 @@
 ##### § 558.455 Oxytetracycline and neomycin.
 
-(a) *Specifications.* Type A medicated articles containing oxytetracycline equivalent to 50 grams per pound (g/lb) oxytetracycline hydrochloride and 50 g/lb neomycin sulfate or oxytetracycline equivalent to 100 g/lb oxytetracycline hydrochloride and 100 g/lb neomycin sulfate.
+(a) *Specifications.* Type A medicated articles containing oxytetracycline equivalent to 50 grams per pound (g/lb) oxytetracycline hydrochloride and 50 g/lb neomycin sulfate or oxytetracycline equivalent to 100 g/lb oxytetracycline hydrochloride and 100 g/lb neomycin sulfate. 
 
-(b) *Sponsors.* See Nos. 066104 and 069254 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 066104 and 069254 in § 510.600(c) of this chapter. 
 
-(c) *Related tolerances.* See §§ 556.430 and 556.500 of this chapter.
+(c) *Related tolerances.* See §§ 556.430 and 556.500 of this chapter. 
 
-(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
+(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements. 
 
-(2) The expiration date of VFDs for oxytetracycline and neomycin medicated feeds must not exceed 6 months from the date of issuance. VFDs for oxytetracycline and neomycin shall not be refilled.
+(2) The expiration date of VFDs for oxytetracycline and neomycin medicated feeds must not exceed 6 months from the date of issuance. VFDs for oxytetracycline and neomycin shall not be refilled. 
 
-(3) Cattle feeds shall bear the following warning statement: “Use of more than one product containing neomycin or failure to follow withdrawal times may result in illegal drug residues.”
+(3) Cattle feeds shall bear the following warning statement: “Use of more than one product containing neomycin or failure to follow withdrawal times may result in illegal drug residues.” 
 
-(e) *Indications for use*—(1) *Chickens.* It is used in feed as follows:
+(e) *Indications for use*—(1) *Chickens.* It is used in feed as follows: 
 
 | Oxytetracycline and neomycin sulfate amount in grams per ton of feed | Indications for use                                                                                                                                                  | Limitations                                                                                                                                                                      | Sponsors        |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -20,7 +20,7 @@
 | (ii) 400                                                             | Chickens: For control of chronic respiratory disease (CRD) and air sac infection caused by M. gallisepticum and Escherichia coli susceptible to oxytetracycline.     | Feed continuously for 7 to 14 d; do not feed to chickens producing eggs for human consumption; in low calcium feeds, withdraw 3 d before slaughter.                              | 066104   069254 |
 | (iii) 500                                                            | Chickens: For reduction of mortality due to air sacculitis (air-sac- infection) caused by E. coli susceptible to oxytetracycline.                                    | Feed continuously for 5 d; do not feed to chickens producing eggs for human consumption; withdraw 24 hours before slaughter; in low calcium feeds withdraw 3 d before slaughter. | 066104   069254 |
 
-(2) *Turkeys.* It is used in feed as follows:
+(2) *Turkeys.* It is used in feed as follows: 
 
 | Oxytetracycline and neomycin sulfate amount                            | Indications for use                                                                                                                                                | Limitations                                                                                                                  | Sponsors        |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -28,14 +28,14 @@
 | (ii) 200 g/ton of feed                                                 | Turkeys: For control of infectious synovitis caused by M. synoviae susceptible to oxytetracycline.                                                                 | Feed continuously for 7 to 14 d; withdraw 5 d before slaughter; do not feed to turkeys producing eggs for human consumption. | 066104   069254 |
 | (iii) To provide 25 milligrams per pound (mg/lb) of body weight daily. | Turkeys: For control of complicating bacterial organisms associated with bluecomb (transmissible enteritis; coronaviral enteritis) susceptible to oxytetracycline. | Feed continuously for 7 to 14 d; withdraw 5 d before slaughter; do not feed to turkeys producing eggs for human consumption. | 066104   069254 |
 
-(3) *Swine.* It is used in feed as follows:
+(3) *Swine.* It is used in feed as follows: 
 
 | Oxytetracycline and neomycin sulfate amount   |                                                                                                                                                                                                                                                                                               | Limitations                                                             | Sponsors        |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------------- |
 | (i) To provide 10 mg/lb of body weight daily  | Swine: For treatment of bacterial enteritis caused by E. coli and Salmonella choleraesuis and treatment of bacterial pneumonia caused by P. multocida susceptible to oxytetracycline; treatment and control of colibacillosis (bacterial enteritis) caused by E. coli susceptible to neomycin | Feed continuously for 7 to 14 d; withdraw 5 d before slaughter          | 066104   069254 |
 | (ii) To provide 10 mg/lb of body weight daily | Breeding swine: For control and treatment of leptospirosis (reducing the incidence of abortion and shedding of leptospirae) caused by Leptospira pomona susceptible to oxytetracycline                                                                                                        | Feed continuously for not more than 14 d; withdraw 5 d before slaughter | 066104   069254 |
 
-(4) *Cattle.* It is used in feed as follows:
+(4) *Cattle.* It is used in feed as follows: 
 
 | Oxytetracycline and neomycin sulfate amount   | Indications for use                                                                                                                                                                                                                                                                                                   | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                | Sponsors        |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -44,12 +44,12 @@
 | (iii) To provide 75 mg/head/day               | Growing cattle (over 400 lb): For the reduction of the incidence of liver abscesses                                                                                                                                                                                                                                   | Feed continuously                                                                                                                                                                                                                                                                                                                                                                                                                                          | 066104   069254 |
 | (iv) To provide 0.5 to 2.0 g/head/ day        | Cattle: For prevention and treatment of the early stages of shipping fever complex                                                                                                                                                                                                                                    | Feed 3 to 5 d before and after arrival in feedlots. A withdrawal period has not been established for use in preruminating calves. Do not use in calves to be processed for veal. A milk discard time has not been established for use in lactating dairy cattle. Do not use in female dairy cattle 20 months of age or older                                                                                                                               | 066104   069254 |
 
-(5) *Sheep.* It is used in feed as follows:
+(5) *Sheep.* It is used in feed as follows: 
 
 | Oxytetracycline and neomycin sulfate amount  | Indications for use                                                                                                                                                                                                                                                    | Limitations                                                                                                                                                  | Sponsors        |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
 | (i) To provide 10 mg/lb of body weight daily | Sheep: For treatment of bacterial enteritis caused by Escherichia coli and bacterial pneumonia caused by Pasteurella multocida susceptible to oxytetracycline; treatment and control of colibacillosis (bacterial enteritis) caused by E. coli susceptible to neomycin | Feed continuously for 7 to 14 days. Treatment should continue 24 to 48 hours beyond remission of clinical signs of disease. Withdraw 5 days before slaughter | 066104   069254 |
 
-(ii) \[Reserved\]
+(ii) \[Reserved\] 
 
 \[71 FR 16225, Mar. 31, 2006, as amended at 74 FR 40724, Aug. 13, 2009; 80 FR 13232, Mar. 13, 2015; 81 FR 95012, Dec. 27, 2016; 87 FR 76423, Dec. 14, 2022; 88 FR 27701, May 3, 2023\]

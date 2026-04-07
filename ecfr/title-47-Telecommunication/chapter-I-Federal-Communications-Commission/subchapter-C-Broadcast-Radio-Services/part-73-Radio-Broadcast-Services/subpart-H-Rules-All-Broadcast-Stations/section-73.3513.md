@@ -1,6 +1,6 @@
 ##### § 73.3513 Signing of applications.
 
-(a) Applications, amendments thereto, and related statements of fact required by the FCC must be signed by the following persons:
+(a) Applications, amendments thereto, and related statements of fact required by the FCC must be signed by the following persons:*Individual Applicant.*
 
 (1) *Individual Applicant.* The applicant, if the applicant is an individual.
 

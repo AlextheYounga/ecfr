@@ -1,21 +1,21 @@
 ##### § 558.415 Novobiocin.
 
-(a) *Specifications.* Type A medicated article containing 25 grams of novobiocin activity per pound.
+(a) *Specifications.* Type A medicated article containing 25 grams of novobiocin activity per pound. 
 
-(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter. 
 
-(c) *Related tolerances.* See § 556.460 of this chapter.
+(c) *Related tolerances.* See § 556.460 of this chapter. 
 
-(d) *Conditions of use.* It is used in animal feeds as follows:
+(d) *Conditions of use.* It is used in animal feeds as follows: 
 
-(1) *Chickens*—
+(1) *Chickens*— 
 
 | Novobiocin amount                                                          | Indications for use                                                                                                          | Limitations                                                                                                                                                                                  | Sponsor |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | (i) To provide 6 to 7 milligrams per pound (mg/lb) of body weight per day. | Chickens: As an aid in the treatment of breast blisters associated with staphylococcal infections susceptible to novobiocin. | Administer feed which contains not less than 200 grams of novobiocin activity per ton of feed as the sole ration for 5 to 7 days. Not for laying chickens. Withdraw 4 days before slaughter. | 054771  |
 | (ii) To provide 10 to 14 mg/lb of body weight per day.                     | Chickens: For the treatment of staphylococcal synovitis and generalized staphylococcal infections susceptible to novobiocin. | Administer feed which contains not less than 350 grams of novobiocin activity per ton of feed as the sole ration for 5 to 7 days. Not for laying chickens. Withdraw 4 days before slaughter. | 054771  |
 
-(2) *Turkeys*—
+(2) *Turkeys*— 
 
 | Novobiocin amount                                     | Indications for use                                                                                                                                                                                                                                | Limitations                                                                                                                                                                                 | Sponsor |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
@@ -23,7 +23,7 @@
 | (ii) To provide 5 to 8 mg/lb of body weight per day.  | Turkeys: As an aid in the control of recurring outbreaks of fowl cholera caused by strains of Pasteurella multocida susceptible to novobiocin following initial treatment with 7 to 8 mg/lb of body weight per day.                                | Administer feed which contains not less than 200 grams of novobiocin activity per ton of feed as the sole ration for 5 to 7 days. Not for laying turkeys. Withdraw 4 days before slaughter. | 054771  |
 | (iii) To provide 7 to 8 mg/lb of body weight per day. | Turkeys: For the treatment of staphylococcal synovitis and generalized staphylococcal infections susceptible to novobiocin; and treatment of acute outbreaks of fowl cholera caused by strains of Pasteurella multocida susceptible to novobiocin. | Administer feed which contains not less than 350 grams of novobiocin activity per ton of feed as the sole ration for 5 to 7 days. Not for laying turkeys. Withdraw 4 days before slaughter. | 054771  |
 
-(3) *Minor species*—
+(3) *Minor species*— 
 
 | Novobiocin amount                                | Indications for use                                                                                                                                       | Limitations                                                                                                                                                                                               | Sponsor |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |

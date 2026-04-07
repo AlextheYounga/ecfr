@@ -1,20 +1,20 @@
 ##### § 17.901 Provision of health care.
 
-(a) *Spina bifida.* VA will provide a Vietnam veteran or veteran with covered service in Korea's child who has been determined under § 3.814 or § 3.815 of this title to suffer from spina bifida with health care as the Secretary determines is needed. VA may inform spina bifida patients, parents, or guardians that health care may be available at not-for-profit charitable entities. 
+(a) *Spina bifida.* VA will provide a Vietnam veteran or veteran with covered service in Korea's child who has been determined under § 3.814 or § 3.815 of this title to suffer from spina bifida with health care as the Secretary determines is needed. VA may inform spina bifida patients, parents, or guardians that health care may be available at not-for-profit charitable entities.
 
-(b) *Covered birth defects.* VA will provide a woman Vietnam veteran's child who has been determined under § 3.815 of this title to suffer from covered birth defects (other than spina bifida) with such health care as the Secretary determines is needed by the child for the covered birth defects. However, if VA has determined for a particular covered birth defect that § 3.815(a)(2) of this title applies (concerning affirmative evidence of cause other than the mother's service during the Vietnam era), no benefits or assistance will be provided under this section with respect to that particular birth defect. 
+(b) *Covered birth defects.* VA will provide a woman Vietnam veteran's child who has been determined under § 3.815 of this title to suffer from covered birth defects (other than spina bifida) with such health care as the Secretary determines is needed by the child for the covered birth defects. However, if VA has determined for a particular covered birth defect that § 3.815(a)(2) of this title applies (concerning affirmative evidence of cause other than the mother's service during the Vietnam era), no benefits or assistance will be provided under this section with respect to that particular birth defect.
 
-(c) *Providers of care.* Health care provided under this section will be provided directly by VA, by contract with an approved health care provider, or by other arrangement with an approved health care provider. 
+(c) *Providers of care.* Health care provided under this section will be provided directly by VA, by contract with an approved health care provider, or by other arrangement with an approved health care provider.
 
-(d) *Submission of information.* For purposes of §§ 17.900 through 17.905: 
+(d) *Submission of information.* For purposes of §§ 17.900 through 17.905:
 
-(1) The telephone number of the Health Administration Center is (888) 820-1756; 
+(1) The telephone number of the Health Administration Center is (888) 820-1756;
 
-(2) The facsimile number of the Health Administration Center is (303) 331-7807; 
+(2) The facsimile number of the Health Administration Center is (303) 331-7807;
 
-(3) The hand-delivery address of the Health Administration Center is 3773 Cherry Creek Drive North, Denver, CO 80246; and 
+(3) The hand-delivery address of the Health Administration Center is 3773 Cherry Creek Drive North, Denver, CO 80246; and
 
-(4) The mailing address of the Health Administration Center for claims submitted pursuant to either paragraph (a) or (b) of this section is P.O. Box 469065, Denver, CO 80246-9065. 
+(4) The mailing address of the Health Administration Center for claims submitted pursuant to either paragraph (a) or (b) of this section is P.O. Box 469065, Denver, CO 80246-9065.
 
 (Authority: 38 U.S.C. 101(2), 1802-1803, 1811-1813, 1831) Note to § 17.901:
 

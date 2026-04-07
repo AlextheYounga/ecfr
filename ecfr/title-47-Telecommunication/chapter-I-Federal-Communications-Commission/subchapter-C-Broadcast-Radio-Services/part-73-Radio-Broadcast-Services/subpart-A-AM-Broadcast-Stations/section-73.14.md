@@ -68,7 +68,7 @@
 
 In a positive direction:
 
-M = MAX−C × 100 ————--—--— c
+M = MAX−C × 100 ————--—--— cM = Modulation level in percent.
 
 In a negative direction:
 

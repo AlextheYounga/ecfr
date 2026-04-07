@@ -1,6 +1,6 @@
 ##### § 630.1104 Definitions and explanation of terms.
 
-For the purposes of this subpart, the following definitions apply:
+For the purposes of this subpart, the following definitions apply:*Agency*
 
 *Agency* means a State or local highway agency or authority that receives Federal-aid highway funding.
 

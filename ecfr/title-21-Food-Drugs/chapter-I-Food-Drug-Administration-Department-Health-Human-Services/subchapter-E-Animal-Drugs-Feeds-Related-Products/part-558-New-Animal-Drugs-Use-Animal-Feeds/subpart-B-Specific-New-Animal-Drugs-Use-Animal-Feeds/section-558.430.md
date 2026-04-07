@@ -1,12 +1,12 @@
 ##### § 558.430 Nystatin.
 
-(a) *Specifications.* Type A medicated article containing 20 grams of nystatin activity per pound.
+(a) *Specifications.* Type A medicated article containing 20 grams of nystatin activity per pound. 
 
-(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter. 
 
-(c) *Related tolerances.* See § 556.470 of this chapter.
+(c) *Related tolerances.* See § 556.470 of this chapter. 
 
-(d) *Conditions of use*—
+(d) *Conditions of use*— 
 
 | Amount in grams/ton | Indications for use                                                                                                               | Limitations                | Sponsor |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------- |

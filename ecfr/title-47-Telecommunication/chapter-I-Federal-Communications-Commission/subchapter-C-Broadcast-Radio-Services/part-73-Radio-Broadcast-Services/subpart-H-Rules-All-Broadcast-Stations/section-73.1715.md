@@ -1,6 +1,6 @@
 ##### § 73.1715 Share time.
 
-Operation is permitted by two or more broadcast stations using the same channel in accordance with a division of hours mutually agreed upon and considered part of their licenses.
+Operation is permitted by two or more broadcast stations using the same channel in accordance with a division of hours mutually agreed upon and considered part of their licenses.*And further provided,*
 
 (a) If the licenses of stations authorized to share time do not specify hours of operation, the licensees shall endeavor to reach an agreement for a definite schedule of periods of time to be used by each. Such agreement shall be in writing and each licensee shall file it in duplicate original with each application to the FCC in Washington, DC for renewal of license. If and when such written agreements are properly filed in conformity with this section, the file mark of the FCC will be affixed thereto, one copy will be retained by the FCC, and one copy returned to the licensee and will be considered as part of the station's license. If the license specifies a proportionate time division, the agreement shall maintain this proportion. If no proportionate time division is specified in the license, the licensees shall agree upon a division of time. Such division of time shall not include simultaneous operation of the stations unless specifically authorized by the terms of the license
 

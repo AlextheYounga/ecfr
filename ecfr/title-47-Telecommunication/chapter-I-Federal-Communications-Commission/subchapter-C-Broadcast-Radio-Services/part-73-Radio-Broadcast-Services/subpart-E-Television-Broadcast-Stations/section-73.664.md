@@ -12,7 +12,7 @@
 
 (c) *Indirect method.* The operating power is determined by the indirect method by applying an appropriate factor to the input power to the final radio-frequency amplifier stage of the transmitter using the following formula:
 
-Formula 1 to introductory text of paragraph (c) Transmitter output power = Ep × Ip × *F*Where: Ep = DC input voltage of the final radio-frequency amplifier stage. Ip = DC input current of the final radio-frequency amplifier stage. *F* = Efficiency factor.
+Formula 1 to introductory text of paragraph (c) Transmitter output power = Ep × Ip × *F*Where: *F*Ep = DC input voltage of the final radio-frequency amplifier stage. Ip = DC input current of the final radio-frequency amplifier stage. *F* = Efficiency factor.
 
 (1) If the above formula is not appropriate for the design of the transmitter final amplifier, use a formula specified by the transmitter manufacturer with other appropriate operating parameters.
 

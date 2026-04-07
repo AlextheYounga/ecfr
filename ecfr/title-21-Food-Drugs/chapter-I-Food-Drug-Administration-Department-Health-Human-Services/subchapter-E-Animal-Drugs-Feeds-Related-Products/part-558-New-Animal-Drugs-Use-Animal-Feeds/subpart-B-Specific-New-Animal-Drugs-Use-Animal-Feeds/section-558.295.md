@@ -1,17 +1,17 @@
 ##### § 558.295 Iodinated casein.
 
-(a) *Specifications.* Type A medicated article containing iodinated casein.
+(a) *Specifications.* Type A medicated article containing iodinated casein. 
 
-(b) *Sponsor. See* No. 017762 in § 510.600(c) of this chapter.
+(b) *Sponsor. See* No. 017762 in § 510.600(c) of this chapter. 
 
-(c) *Conditions of use*—(1) *Ducks*—
+(c) *Conditions of use*—(1) *Ducks*— 
 
 | Amount in grams/ton | Indications for use                              | Limitations | Sponsor |
 | ------------------- | ------------------------------------------------ | ----------- | ------- |
 | (i) 100 to 200      | Growing ducks: For increased rate of weight gain |             | 017762  |
 | (ii) \[Reserved\]   |                                                  |             |         |
 
-(2) *Dairy cows*—
+(2) *Dairy cows*— 
 
 | Amount in grams/pound                    | Indications for use                       | Limitations                                                                                                                                                                                                                                         | Sponsor |
 | ---------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |

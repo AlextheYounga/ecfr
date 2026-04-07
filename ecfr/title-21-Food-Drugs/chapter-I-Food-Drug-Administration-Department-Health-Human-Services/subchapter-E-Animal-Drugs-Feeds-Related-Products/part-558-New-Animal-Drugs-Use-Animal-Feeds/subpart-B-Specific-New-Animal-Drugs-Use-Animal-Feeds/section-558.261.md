@@ -1,38 +1,38 @@
 ##### § 558.261 Florfenicol.
 
-(a) *Specifications.* Type A medicated articles containing florfenicol in the following concentrations:
+(a) *Specifications.* Type A medicated articles containing florfenicol in the following concentrations: 
 
-(1) 40 grams per kilogram for use as in paragraph (e)(1) of this section.
+(1) 40 grams per kilogram for use as in paragraph (e)(1) of this section. 
 
-(2) 500 grams per kilogram for use as in paragraph (e)(2) of this section.
+(2) 500 grams per kilogram for use as in paragraph (e)(2) of this section. 
 
-(b) *Sponsors.* See sponsor numbers as in § 510.600(c) of this chapter.
+(b) *Sponsors.* See sponsor numbers as in § 510.600(c) of this chapter. 
 
-(1) No. 000061 for use of products described in paragraph (a) of this section as in paragraph (e) of this section.
+(1) No. 000061 for use of products described in paragraph (a) of this section as in paragraph (e) of this section. 
 
-(2) No. 066104 for use of product described in paragraph (a)(2) of this section as in paragraph (e)(2) of this section.
+(2) No. 066104 for use of product described in paragraph (a)(2) of this section as in paragraph (e)(2) of this section. 
 
-(c) *Related tolerances.* See § 556.283 of this chapter.
+(c) *Related tolerances.* See § 556.283 of this chapter. 
 
-(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
+(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements. 
 
-(2) The expiration date of VFDs for florfenicol medicated feeds:
+(2) The expiration date of VFDs for florfenicol medicated feeds: 
 
-(i) For swine must not exceed 90 days from the date of issuance.
+(i) For swine must not exceed 90 days from the date of issuance. 
 
-(ii) For fish must not exceed 6 months from the date of issuance.
+(ii) For fish must not exceed 6 months from the date of issuance. 
 
-(3) VFDs for florfenicol shall not be refilled.
+(3) VFDs for florfenicol shall not be refilled. 
 
-(4) Type A medicated articles and medicated feeds intended for use in fish shall bear the following: “Not for use in animals intended for breeding purposes. The effects of florfenicol on reproductive performance have not been determined. Toxicity studies in dogs, rats, and mice have associated the use of florfenicol with testicular degeneration and atrophy.”
+(4) Type A medicated articles and medicated feeds intended for use in fish shall bear the following: “Not for use in animals intended for breeding purposes. The effects of florfenicol on reproductive performance have not been determined. Toxicity studies in dogs, rats, and mice have associated the use of florfenicol with testicular degeneration and atrophy.” 
 
-(e) *Conditions of use*—(1) *Swine*—
+(e) *Conditions of use*—(1) *Swine*— 
 
 | Florfenicol in grams/ton of feed | Indications for use                                                                                                                                                                                                                           | Limitations                                                                                                                                                                                                                                           |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 182                              | For the control of swine respiratory disease (SRD) associated with Actinobacillus pleuropneumoniae, Pasteurella multocida, Streptococcus suis, and Bordetella bronchiseptica in groups of swine in buildings experiencing an outbreak of SRD. | Feed continuously as a sole ration for 5 consecutive days. The safety of florfenicol on swine reproductive performance, pregnancy, and lactation have not been determined. Feeds containing florfenicol must be withdrawn 13 days prior to slaughter. |
 
-(2) *Fish*—
+(2) *Fish*— 
 
 | Florfenicol in grams/ton of feed | Indications for use                                                                                                                                                                    | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

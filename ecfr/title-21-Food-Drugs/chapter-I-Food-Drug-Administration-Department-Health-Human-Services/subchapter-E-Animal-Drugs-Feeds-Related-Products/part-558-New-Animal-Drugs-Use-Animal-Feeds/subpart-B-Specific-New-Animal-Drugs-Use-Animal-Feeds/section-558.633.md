@@ -1,16 +1,16 @@
 ##### § 558.633 Tylvalosin.
 
-(a) *Specifications.* Type A medicated articles containing 77.12 grams tylvalosin per pound as tylvalosin tartrate.
+(a) *Specifications.* Type A medicated articles containing 77.12 grams tylvalosin per pound as tylvalosin tartrate. 
 
-(b) *Sponsor.* See No. 066916 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 066916 in § 510.600(c) of this chapter. 
 
-(c) *Related tolerances.* See § 556.748 of this chapter.
+(c) *Related tolerances.* See § 556.748 of this chapter. 
 
-(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
+(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements. 
 
-(2) VFDs for tylvalosin shall not be refilled.
+(2) VFDs for tylvalosin shall not be refilled. 
 
-(3) Crumbled Type C medicated feeds must bear an expiration date of 7 days after the date of manufacture.
+(3) Crumbled Type C medicated feeds must bear an expiration date of 7 days after the date of manufacture. 
 
 (e) *Conditions of use.*
 

@@ -1,16 +1,16 @@
 ##### § 558.248 Erythromycin.
 
-(a) *Specifications.* Type A medicated articles containing 92.5 grams per pound erythromycin (as the thiocyanate salt).
+(a) *Specifications.* Type A medicated articles containing 92.5 grams per pound erythromycin (as the thiocyanate salt). 
 
-(b) *Sponsor.* See No. 061133 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 061133 in § 510.600(c) of this chapter. 
 
-(c) *Related tolerances.* See § 556.230 of this chapter.
+(c) *Related tolerances.* See § 556.230 of this chapter. 
 
-(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
+(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements. 
 
-(2) The expiration date of VFDs for erythromycin medicated feeds must not exceed 6 months from the date of issuance. VFDs for erythromycin shall not be refilled.
+(2) The expiration date of VFDs for erythromycin medicated feeds must not exceed 6 months from the date of issuance. VFDs for erythromycin shall not be refilled. 
 
-(e) *Conditions of use*—(1) *Chickens*—
+(e) *Conditions of use*—(1) *Chickens*— 
 
 | Erythromycin in grams/ton | Combination in grams/ton | Indications for use                                                                                                          | Limitations                                                                                           | Sponsor |
 | ------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- |
@@ -18,7 +18,7 @@
 | (ii) 92.5                 |                          | Chickens: As an aid in the prevention of infectious coryza                                                                   | Feed for 7 to 14 days. Withdraw 24 hours before slaughter                                             | 061623  |
 | (iii) 185                 |                          | Chickens: As an aid in the prevention and reduction of lesions and in lowering severity of chronic respiratory disease (CRD) | Feed for 5 to 8 days. Withdraw 48 hours before slaughter. Do not use in birds producing eggs for food | 061623  |
 
-(2) *Turkeys*—
+(2) *Turkeys*— 
 
 | Erythromycin thiocyanate in grams/ton | Combination in grams/ton | Indications for use                                                                                                         | Limitations                                                       | Sponsor |
 | ------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- |

@@ -1,26 +1,26 @@
 ##### § 558.140 Chlortetracycline and sulfamethazine.
 
-(a) *Specifications.* Type A medicated articles containing:
+(a) *Specifications.* Type A medicated articles containing: 
 
-(1) 35 grams (g) per pound (/lb) each, chlortetracycline and sulfamethazine.
+(1) 35 grams (g) per pound (/lb) each, chlortetracycline and sulfamethazine. 
 
-(2) 40 g/lb each, chlortetracycline and sulfamethazine.
+(2) 40 g/lb each, chlortetracycline and sulfamethazine. 
 
-(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows: 
 
-(1) No. 054771 for use of product described in paragraph (a)(1) as in paragraph (e)(1) of this section.
+(1) No. 054771 for use of product described in paragraph (a)(1) as in paragraph (e)(1) of this section. 
 
-(2) No. 069254 for use of product described in paragraph (a)(1) as in paragraph (e)(1)(i) of this section.
+(2) No. 069254 for use of product described in paragraph (a)(1) as in paragraph (e)(1)(i) of this section. 
 
-(3) Nos. 054771 and 069254 for use of product described in paragraph (a)(2) as in paragraph (e)(2) of this section.
+(3) Nos. 054771 and 069254 for use of product described in paragraph (a)(2) as in paragraph (e)(2) of this section. 
 
-(c) *Related tolerances.* See §§ 556.150 and 556.670 of this chapter.
+(c) *Related tolerances.* See §§ 556.150 and 556.670 of this chapter. 
 
-(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
+(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements. 
 
-(2) The expiration date of VFDs for chlortetracycline and sulfamethazine medicated feeds must not exceed 6 months from the date of issuance. VFDs for chlortetracycline and sulfamethazine shall not be refilled.
+(2) The expiration date of VFDs for chlortetracycline and sulfamethazine medicated feeds must not exceed 6 months from the date of issuance. VFDs for chlortetracycline and sulfamethazine shall not be refilled. 
 
-(e) *Conditions of use*—(1) *Cattle*—
+(e) *Conditions of use*—(1) *Cattle*— 
 
 | Chlortetracycline   and sulfamethazine   amount each | Combination in   grams/ton | Indications for use                                                                                                                                                                                                                       | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Sponsors        |
 | ---------------------------------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -29,7 +29,7 @@
 | (iii) 35 to 42.2 g/ton, each                         | Lasalocid, 25 to 30        | Beef steers and heifers fed in confinement for slaughter: As an aid in the maintenance of weight gains in the presence of respiratory disease such as shipping fever, and for improved feed efficiency and increased rate of weight gain. | Feed continuously for 28 days to provide 350 mg chlortetracycline, 350 mg sulfamethazine, and 250 to 300 mg lasalocid per head per day. Do not allow horses or other equines access to Type C feeds containing lasalocid as ingestion may be fatal. Safety of lasalocid for use in unapproved species has not been established. Withdraw 7 days prior to slaughter. A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in calves to be processed for veal. Lasalocid as provided by No. 054771 in § 510.600(c) of this chapter.                                                                | 054771          |
 | (iv) 35 to 700 g/ton, each                           | Lasalocid, 30 to 181.8     | Beef cattle up to 800 lb: As an aid in the maintenance of weight gains in the presence of respiratory disease such as shipping fever, and for control of coccidiosis caused by Eimeria bovis and E. zuernii.                              | Hand feed continuously for 28 days to provide 350 mg chlortetracycline, 350 mg sulfamethazine, and 1 mg lasalocid per 2.2 lb body weight per day up to a maximum of 360 mg lasalocid per head per day. Do not allow horses or other equines access to Type C feeds containing lasalocid as ingestion may be fatal. Safety of lasalocid for use in unapproved species has not been established. Withdraw 7 days prior to slaughter. A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in calves to be processed for veal. Lasalocid as provided by No. 054771 in § 510.600(c) of this chapter. | 054771          |
 
-(2) *Swine*—
+(2) *Swine*— 
 
 | Chlortetracycline and sulfamethazine amount                      | Indications for use                                                                                                                                                                                                                                                                                                            | Limitations                                                  | Sponsors        |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |

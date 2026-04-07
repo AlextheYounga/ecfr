@@ -1,30 +1,30 @@
 ##### § 558.95 Bambermycins.
 
-(a) *Specifications.* Type A medicated articles containing 2, 4, or 10 grams bambermycins per pound.
+(a) *Specifications.* Type A medicated articles containing 2, 4, or 10 grams bambermycins per pound. 
 
-(b) *Sponsor.* See No. 016592 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 016592 in § 510.600(c) of this chapter. 
 
-(c) *Related tolerances.* See § 556.75 of this chapter.
+(c) *Related tolerances.* See § 556.75 of this chapter. 
 
-(d) *Special considerations.* (1) Bambermycins liquid Type B feeds may be manufactured from dry bambermycins Type A articles. The liquid Type B feeds must have a pH of 3.8 to 7.5, moisture content of 30 to 45 percent.
+(d) *Special considerations.* (1) Bambermycins liquid Type B feeds may be manufactured from dry bambermycins Type A articles. The liquid Type B feeds must have a pH of 3.8 to 7.5, moisture content of 30 to 45 percent. 
 
-(2) The expiration date for the liquid Type B feed is 8 weeks after date of manufacture. The expiration date for the dry Type C feed made from the liquid Type B feed is 1 week after date of manufacture.
+(2) The expiration date for the liquid Type B feed is 8 weeks after date of manufacture. The expiration date for the dry Type C feed made from the liquid Type B feed is 1 week after date of manufacture. 
 
-(e) *Conditions of use*—(1) *Chickens.* Use in medicated feed as follows:
+(e) *Conditions of use*—(1) *Chickens.* Use in medicated feed as follows: 
 
 | Bambermycins in grams/ton | Indications for use                                                              | Limitations                          | Sponsor |
 | ------------------------- | -------------------------------------------------------------------------------- | ------------------------------------ | ------- |
 | (i) 1 to 2                | Broiler chickens: For increased rate of weight gain and improved feed efficiency | Feed continuously as the sole ration | 016592. |
 | (ii) \[Reserved\]         |                                                                                  |                                      |         |
 
-(2) *Turkeys.* Use in medicated feed as follows:
+(2) *Turkeys.* Use in medicated feed as follows: 
 
 | Bambermycins in grams/ton | Indications for use                                                             | Limitations                          | Sponsor |
 | ------------------------- | ------------------------------------------------------------------------------- | ------------------------------------ | ------- |
 | (i) 1 to 2                | Growing turkeys: For improved feed efficiency                                   | Feed continuously as the sole ration | 016592  |
 | (ii) 2                    | Growing turkeys: For increased rate of weight gain and improved feed efficiency | Feed continuously as the sole ration | 016592  |
 
-(3) *Swine.* Use in medicated feed as follows:
+(3) *Swine.* Use in medicated feed as follows: 
 
 | Bambermycins in grams/ton | Indications for use                                                                     | Limitations                          | Sponsor |
 | ------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------ | ------- |
@@ -38,7 +38,7 @@
 | (i) 1 to 4                | Growing beef steers and heifers fed in confinement for slaughter: For increased rate of weight gain and improved feed efficiency                                  | Feed continuously at a rate of 10 to 20 milligrams per head per day                                                                             | 016592. |
 | (ii) 2 to 80              | Growing beef steers and heifers on pasture (stocker, feeder, and slaughter), and replacement beef and dairy heifers on pasture: For increased rate of weight gain | Feed continuously on a hand-fed basis at a rate of 10 to 40 milligrams per head per day in 1 to 10 pounds of supplemental Type C medicated feed | 016592. |
 
-(iii) Used as a free-choice Type C medicated loose-mineral feed for pasture cattle (slaughter, stocker, and feeder cattle; and beef replacement heifers) as follows:
+(iii) Used as a free-choice Type C medicated loose-mineral feed for pasture cattle (slaughter, stocker, and feeder cattle; and beef replacement heifers) as follows: 
 
 (*a*) *Specifications.*
 
@@ -60,21 +60,21 @@
 | Potassium sulfate (0.33%)                                                                                                                                                                                                                                                                                                                                            | 6-06-098               | 0.16    |
 | \*Content of vitamin/trace mineral premix may be varied. However, they should be comparable to those used for other free-choice feeds. Formulation modifications require FDA approval prior to marketing. Selenium must comply with 21 CFR 573.920. Ethylenediamine dihydroiodide (EDDI) should comply with FDA Compliance Policy Guides Sec. 651.100 (CPG 7125.18). |                        |         |
 
-(*b*) *Amount per ton.* 120 grams.
+(*b*) *Amount per ton.* 120 grams. 
 
-(*c*)*Indications for use.* For increased rate of weight gain.
+(*c*)*Indications for use.* For increased rate of weight gain. 
 
-(*d*) *Limitations.* For free-choice feeding to pasture cattle (slaughter, stocker, and feeder cattle; and beef replacement heifers). Feed a nonmedicated commercial mineral product for 6 weeks to stabilize consumption between 2.66 and 10.66 ounces per head per day. Feed continuously to provide 10 to 40 milligrams bambermycins per head per day. Daily bambermycins intakes in excess of 20 mg/head/day have not been shown to be more effective than 20 mg/head/day.
+(*d*) *Limitations.* For free-choice feeding to pasture cattle (slaughter, stocker, and feeder cattle; and beef replacement heifers). Feed a nonmedicated commercial mineral product for 6 weeks to stabilize consumption between 2.66 and 10.66 ounces per head per day. Feed continuously to provide 10 to 40 milligrams bambermycins per head per day. Daily bambermycins intakes in excess of 20 mg/head/day have not been shown to be more effective than 20 mg/head/day. 
 
-(iv) Use free-choice Type C medicated feeds for pasture cattle (slaughter, stocker, and feeder cattle; and beef replacement heifers) as follows:
+(iv) Use free-choice Type C medicated feeds for pasture cattle (slaughter, stocker, and feeder cattle; and beef replacement heifers) as follows: 
 
-(*a*) *Amount.* Feed continuously to provide 10 to 40 milligrams of bambermycins per head per day.
+(*a*) *Amount.* Feed continuously to provide 10 to 40 milligrams of bambermycins per head per day. 
 
-(*b*) *Indications for use.* For increased rate of weight gain.
+(*b*) *Indications for use.* For increased rate of weight gain. 
 
-(*c*) *Limitations.* Each use in a free-choice Type C medicated feed must be the subject of an approved new animal drug application (NADA) or supplemental NADA as required by 21 CFR 510.455. Daily bambermycins intakes in excess of 20 mg/head/day have not been shown to be more effective than 20 mg/head/day.
+(*c*) *Limitations.* Each use in a free-choice Type C medicated feed must be the subject of an approved new animal drug application (NADA) or supplemental NADA as required by 21 CFR 510.455. Daily bambermycins intakes in excess of 20 mg/head/day have not been shown to be more effective than 20 mg/head/day. 
 
-(v) Used as a free-choice Type C medicated loose mineral feed for pasture cattle (slaughter, stocker, and feeder cattle; and dairy and beef replacement heifers) as follows:
+(v) Used as a free-choice Type C medicated loose mineral feed for pasture cattle (slaughter, stocker, and feeder cattle; and dairy and beef replacement heifers) as follows: 
 
 (A) *Specifications.*
 
@@ -95,36 +95,36 @@
 | Potassium sulfate (0.33%)                                                                                                                                                                                                                                                                                                   | 6-06-098               | 0.16    |
 | \* Content of vitamin/trace mineral premix may be varied. However, they should be comparable to those used for other free-choice feeds. Formulation modifications require FDA approval prior to marketing. Ethylenediamine dihydroiodide (EDDI) should comply with FDA Compliance Policy Guides Sec. 651.100 (CPG 7125.18). |                        |         |
 
-(B) *Amount per ton.* 120 grams.
+(B) *Amount per ton.* 120 grams. 
 
-(C) *Indications for use.* For increased rate of weight gain.
+(C) *Indications for use.* For increased rate of weight gain. 
 
-(D) *Limitations.* For free-choice feeding to pasture cattle (slaughter, stocker, and feeder cattle; and dairy and beef replacement heifers). Feed a non-medicated commercial mineral product for 6 weeks to stabilize consumption between 2.66 and 10.66 ounces per head per day. Feed continuously to provide 10 to 40 milligrams bambermycins per head per day. Daily bambermycins intakes in excess of 20 mg/head/day have not been shown to be more effective than 20 mg/head/day.
+(D) *Limitations.* For free-choice feeding to pasture cattle (slaughter, stocker, and feeder cattle; and dairy and beef replacement heifers). Feed a non-medicated commercial mineral product for 6 weeks to stabilize consumption between 2.66 and 10.66 ounces per head per day. Feed continuously to provide 10 to 40 milligrams bambermycins per head per day. Daily bambermycins intakes in excess of 20 mg/head/day have not been shown to be more effective than 20 mg/head/day. 
 
-(5) *Combinations.* Bambermycins may also be used in combination with:
+(5) *Combinations.* Bambermycins may also be used in combination with: 
 
-(i) Amprolium as in § 558.55.
+(i) Amprolium as in § 558.55. 
 
-(ii) Amprolium and ethopabate as in § 558.58.
+(ii) Amprolium and ethopabate as in § 558.58. 
 
-(iii) Clopidol as in § 558.175.
+(iii) Clopidol as in § 558.175. 
 
-(iv) Diclazuril as in § 558.198.
+(iv) Diclazuril as in § 558.198. 
 
-(v) Halofuginone as in § 558.265.
+(v) Halofuginone as in § 558.265. 
 
-(vi) Lasalocid as in § 558.311.
+(vi) Lasalocid as in § 558.311. 
 
-(vii) Monensin as in § 558.355.
+(vii) Monensin as in § 558.355. 
 
-(viii) Narasin as in § 558.363.
+(viii) Narasin as in § 558.363. 
 
-(ix) Narasin and nicarbazin as in § 558.364.
+(ix) Narasin and nicarbazin as in § 558.364. 
 
-(x) Nicarbazin as in § 558.366.
+(x) Nicarbazin as in § 558.366. 
 
-(xi) Salinomycin as in § 558.550.
+(xi) Salinomycin as in § 558.550. 
 
-(xii) Zoalene as in § 558.680.
+(xii) Zoalene as in § 558.680. 
 
 \[40 FR 13959, Mar. 27, 1975\] Editorial Note:For Federal Register citations affecting § 558.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

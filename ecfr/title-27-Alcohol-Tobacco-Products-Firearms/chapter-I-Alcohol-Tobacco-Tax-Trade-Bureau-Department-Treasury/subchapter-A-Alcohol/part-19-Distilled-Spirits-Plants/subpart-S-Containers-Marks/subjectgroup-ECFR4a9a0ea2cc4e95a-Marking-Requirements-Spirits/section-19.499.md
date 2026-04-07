@@ -1,6 +1,6 @@
 ##### § 19.499 Authorized abbreviations to identify marks.
 
-In addition to the other abbreviations and symbols authorized under this part for use in marking containers, a proprietor may use the following abbreviations to identify the following marks: 
+In addition to the other abbreviations and symbols authorized under this part for use in marking containers, a proprietor may use the following abbreviations to identify the following marks:
 
 | Mark                         | Abbre-   viation |
 | ---------------------------- | ---------------- |
