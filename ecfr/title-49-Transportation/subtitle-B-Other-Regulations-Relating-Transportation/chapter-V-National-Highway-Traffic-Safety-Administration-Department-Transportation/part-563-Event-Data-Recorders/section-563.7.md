@@ -1,5 +1,7 @@
 ##### § 563.7 Data elements.
 
+Link to an amendment published at 89 FR 102832, Dec. 18, 2024.
+
 (a) *Data elements required for all vehicles.* Each vehicle equipped with an EDR must record all of the data elements listed in Table I, during the interval/time and at the sample rate specified in that table.
 
 Table I—Data Elements Required for All Vehicles Equipped With an EDR

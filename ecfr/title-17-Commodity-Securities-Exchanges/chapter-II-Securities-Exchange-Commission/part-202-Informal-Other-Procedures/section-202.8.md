@@ -1,6 +1,6 @@
 ##### § 202.8 Small entity compliance guides.
 
-The following small entity compliance guides are available to the public from the Commission's Publications Room and regional offices: 
+The following small entity compliance guides are available to the public from the Commission's Publications Room and regional offices:
 
 (a) *Q & A: Small Business and the SEC.*1
 

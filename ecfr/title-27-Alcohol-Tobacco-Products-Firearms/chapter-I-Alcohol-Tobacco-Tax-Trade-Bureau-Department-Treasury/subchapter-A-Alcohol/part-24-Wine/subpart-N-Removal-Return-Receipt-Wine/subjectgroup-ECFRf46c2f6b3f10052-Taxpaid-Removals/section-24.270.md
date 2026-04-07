@@ -12,7 +12,7 @@
 
 (c) *Tax rates imposed on wine.* The following taxes are imposed on wine:
 
-(1) *Tax class 5041(b)(1).* On still wines containing not more than 16 percent alcohol by volume, $1.07, per wine gallon;
+(1) *Tax class 5041(b)(1).* On still wines containing not more than 16 percent alcohol by volume, $1.07 per wine gallon;
 
 (2) *Tax class 5041(b)(2).* On still wines containing more than 16 percent and not exceeding 21 percent alcohol by volume, $1.57 per wine gallon;
 

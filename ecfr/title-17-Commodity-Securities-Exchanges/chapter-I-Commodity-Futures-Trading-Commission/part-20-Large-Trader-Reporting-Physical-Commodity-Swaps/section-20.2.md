@@ -1,6 +1,6 @@
 ##### § 20.2 Covered contracts.
 
-The futures and option contracts listed by designated contract markets for the purpose of reports filed and information provided under this part are as follows: 
+The futures and option contracts listed by designated contract markets for the purpose of reports filed and information provided under this part are as follows:
 
 Covered Agricultural and Exempt Futures Contracts
 | Chicago Board of Trade (“CBOT”) Corn.         |
