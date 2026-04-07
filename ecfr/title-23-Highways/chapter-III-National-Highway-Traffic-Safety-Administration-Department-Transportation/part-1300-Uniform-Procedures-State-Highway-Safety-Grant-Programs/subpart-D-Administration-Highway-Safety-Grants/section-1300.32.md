@@ -1,7 +1,7 @@
 ##### § 1300.32 Amendments to annual grant applications.
 
-(a) During the fiscal year of the grant, States may amend the annual grant application, except performance targets, subsequent to the initial approval under § 1300.12. States shall document changes to the annual grant application electronically. 
+(a) During the fiscal year of the grant, States may amend the annual grant application, except performance targets, subsequent to the initial approval under § 1300.12. States shall document changes to the annual grant application electronically.
 
-(b) The State shall amend the annual grant application, prior to beginning project performance, to provide complete and updated information at the level of detail required by § 1300.12(b)(2), about each project agreement it enters into. 
+(b) The State shall amend the annual grant application, prior to beginning project performance, to provide complete and updated information at the level of detail required by § 1300.12(b)(2), about each project agreement it enters into.
 
 (c) Amendments and changes to the annual grant application are subject to approval by the Regional Administrator before approval of vouchers for payment, except that amendments to information submitted under § 1300.12(b)(2)(iii) through (vii) do not require approval unless the amendment requires prior approval under 2 CFR 200.407. Regional Administrators will disapprove changes and projects that are inconsistent with the triennial HSP, as updated, or that do not constitute an appropriate use of highway safety grant funds. States are independently responsible for ensuring that projects constitute an appropriate use of highway safety grant funds.

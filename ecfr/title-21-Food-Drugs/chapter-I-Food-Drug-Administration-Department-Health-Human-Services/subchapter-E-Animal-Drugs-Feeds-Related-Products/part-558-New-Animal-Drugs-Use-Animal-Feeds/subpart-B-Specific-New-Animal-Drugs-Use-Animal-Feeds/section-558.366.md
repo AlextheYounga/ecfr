@@ -1,14 +1,14 @@
 ##### § 558.366 Nicarbazin.
 
-(a) *Specifications.* Type A medicated articles containing 25 percent nicarbazin.
+(a) *Specifications.* Type A medicated articles containing 25 percent nicarbazin. 
 
-(b) *Sponsors.* See Nos. 060728, 066104, and 069254 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 060728, 066104, and 069254 in § 510.600(c) of this chapter. 
 
-(c) *Related tolerances.* See § 556.445 of this chapter.
+(c) *Related tolerances.* See § 556.445 of this chapter. 
 
-(d) *Conditions of use.* It is used as follows:
+(d) *Conditions of use.* It is used as follows: 
 
-(1) *Chickens*—
+(1) *Chickens*— 
 
 | Nicarbazin in   grams per ton | Combination   in grams per ton            | Indications for use                                                                                                                                                                                                                                                                                              | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Sponsor         |
 | ----------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -21,10 +21,10 @@
 | (vii) 113.5                   | Bacitracin zinc, 4 to 50                  | Broiler chickens; aid in preventing outbreaks of cecal (Eimeria tenella) and intestinal (E. acervulina, E. maxima, E. necatrix, and E. brunetti) coccidiosis, and for increased rate of weight gain and improved feed efficiency                                                                                 | For broiler chickens only. Feed continuously as sole ration from time chicks are placed on litter until past the time when coccidiosis is ordinarily a hazard. Do not use in flushing mashes. Do not feed to laying hens. Withdraw 4 days before slaughter. Nicarbazin as provided by No. 066104, bacitracin zinc as provided by No. 054771 in § 510.600(c) of this chapter                                                                                                                                                         | 054771   066104 |
 | (viii) 113.5                  | Bambermycins, 1 to 2                      | Broiler chickens: As an aid in preventing outbreaks of cecal (Eimeria tenella) and intestinal (E. acervulina, E. maxima, E. necatrix, and E. brunetti) coccidiosis, and for increased rate of weight gain and improved feed efficiency                                                                           | Feed continuously as sole ration from time chicks are placed on litter until past the time when coccidiosis is ordinarily a hazard; do not use as a treatment for coccidiosis. Do not use in flushing mashes. Do not feed to laying hens. Withdraw 4 days before slaughter. Nicarbazin as provided by No. 066104; bambermycins as provided by No. 016592 in § 510.600(c) of this chapter                                                                                                                                            | 016592          |
 
-(2) Nicarbazin single-ingredient Type A medicated articles may also be used in combination with:
+(2) Nicarbazin single-ingredient Type A medicated articles may also be used in combination with: 
 
-(i) \[Reserved\]
+(i) \[Reserved\] 
 
-(ii) Virginiamycin as in § 558.635.
+(ii) Virginiamycin as in § 558.635. 
 
 \[83 FR 64743, Dec. 18, 2018, as amended at 86 FR 14825, Mar. 19, 2021; 88 FR 14907, Mar. 10, 2023; 88 FR 55570, Aug. 16, 2023\]

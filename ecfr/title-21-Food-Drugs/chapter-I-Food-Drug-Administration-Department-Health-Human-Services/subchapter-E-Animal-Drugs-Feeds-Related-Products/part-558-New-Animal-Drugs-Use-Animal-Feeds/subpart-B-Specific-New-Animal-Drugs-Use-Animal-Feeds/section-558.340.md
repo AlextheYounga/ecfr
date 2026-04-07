@@ -1,12 +1,12 @@
 ##### § 558.340 Maduramicin.
 
-(a) *Specifications.* Type A medicated articles containing 4.54 grams maduramicin per pound.
+(a) *Specifications.* Type A medicated articles containing 4.54 grams maduramicin per pound. 
 
-(b) *Sponsor. See* No. 054771 in § 510.600(c) of this chapter.
+(b) *Sponsor. See* No. 054771 in § 510.600(c) of this chapter. 
 
-(c) *Tolerances. See* § 556.375 of this chapter.
+(c) *Tolerances. See* § 556.375 of this chapter. 
 
-(d) *Conditions of use in chickens*—
+(d) *Conditions of use in chickens*— 
 
 | Amount in grams/ton | Indications for use                                                                                                                          | Limitations                                                                                                               | Sponsor |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------- |

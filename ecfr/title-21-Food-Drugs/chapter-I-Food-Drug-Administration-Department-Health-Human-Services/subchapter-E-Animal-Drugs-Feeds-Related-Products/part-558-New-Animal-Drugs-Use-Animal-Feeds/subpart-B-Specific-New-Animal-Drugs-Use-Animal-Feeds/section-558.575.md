@@ -1,40 +1,40 @@
 ##### § 558.575 Sulfadimethoxine and ormetoprim.
 
-(a) *Specifications.* Type A medicated articles containing either:
+(a) *Specifications.* Type A medicated articles containing either: 
 
-(1) 25 percent sulfadimethoxine and 15 percent ormetoprim; or
+(1) 25 percent sulfadimethoxine and 15 percent ormetoprim; or 
 
-(2) 25 percent sulfadimethoxine and 5 percent ormetoprim.
+(2) 25 percent sulfadimethoxine and 5 percent ormetoprim. 
 
-(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows: 
 
-(1) No. 054771 for use of the product described in paragraph (a)(1) as in paragraphs (e)(1), (e)(2)(i), and (e)(3)(i) through (iii) of this section.
+(1) No. 054771 for use of the product described in paragraph (a)(1) as in paragraphs (e)(1), (e)(2)(i), and (e)(3)(i) through (iii) of this section. 
 
-(2) No. 015331 for use of the product described in paragraph (a)(2) as in paragraphs (e)(3)(iv) and (v) of this section.
+(2) No. 015331 for use of the product described in paragraph (a)(2) as in paragraphs (e)(3)(iv) and (v) of this section. 
 
-(c) *Related tolerances.* See §§ 556.490 and 556.640 of this chapter.
+(c) *Related tolerances.* See §§ 556.490 and 556.640 of this chapter. 
 
-(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
+(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements. 
 
-(2) The expiration date of VFDs for sulfadimethoxine and ormetoprim medicated feeds must not exceed 6 months from the date of issuance. VFDs for sulfadimethoxine and ormetoprim shall not be refilled.
+(2) The expiration date of VFDs for sulfadimethoxine and ormetoprim medicated feeds must not exceed 6 months from the date of issuance. VFDs for sulfadimethoxine and ormetoprim shall not be refilled. 
 
-(e) *Conditions of use.* It is used in animal feeds as follows:
+(e) *Conditions of use.* It is used in animal feeds as follows: 
 
-(1) *Chickens*—
+(1) *Chickens*— 
 
 | Sulfadimethoxine   and ormetoprim   grams/ton   | Indications for use                                                                                                                                                                                                                                                                                                                                                             | Limitations                                                                                                     | Sponsors |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------- |
 | (i) Sulfadimethoxine, 113.5; ormetoprim, 68.1.  | Broiler chickens: As an aid in the prevention of coccidiosis caused by all Eimeria species known to be pathogenic to chickens, namely, E. tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati, and E. maxima, and bacterial infections due to Heterakis gallinarum (infectious coryza), Escherichia coli (colibacillosis) and Pasteurella multocida (fowl cholera).     | Feed as sole ration. Withdraw 5 days before slaughter.                                                          | 054771   |
 | (ii) Sulfadimethoxine, 113.5; ormetoprim, 68.1. | Replacement chickens: As an aid in the prevention of coccidiosis caused by all Eimeria species known to be pathogenic to chickens, namely, E. tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati, and E. maxima, and bacterial infections due to Heterakis gallinarum (infectious coryza), Escherichia coli (colibacillosis) and Pasteurella multocida (fowl cholera). | Feed as sole ration. Do not feed to chickens over 16 weeks (112 days) of age. Withdraw 5 days before slaughter. | 054771   |
 
-(2) *Turkeys*—
+(2) *Turkeys*— 
 
 | Sulfadimethoxine   and ormetoprim   grams/ton   | Indications for use                                                                                                                                                                                                                                    | Limitations                                                                       | Sponsors |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | -------- |
 | (i) Sulfadimethoxine, 56.75; ormetoprim, 34.05. | Turkeys: As an aid in the prevention of coccidiosis caused by all Eimeria species known to be pathogenic to turkeys, namely, E. adenoeides, E. gallopavonis, and E. meleagrimitis and bacterial infection due to Pasteurella multocida (fowl cholera). | Do not feed to turkeys producing eggs for food. Withdraw 5 days before slaughter. | 054771   |
 | (ii) \[Reserved\]                               |                                                                                                                                                                                                                                                        |                                                                                   |          |
 
-(3) *Minor species*—
+(3) *Minor species*— 
 
 | Sulfadimethoxine   and ormetoprim amount                                                                                                                 | Indications for use                                                                                                                                                           | Limitations                                                                                                                                                                                             | Sponsors |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
