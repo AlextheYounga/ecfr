@@ -1,6 +1,6 @@
 ##### § 90.25 Non-Federal use of the Federal interoperability channels.
 
-The Commission may authorize non-Federal licensees to operate mobile and portable radio units on the frequencies listed below in Tables 1 and 2, provided the applicant includes with its application to the Commission, written concurrence from the Statewide Interoperability Coordinator (SWIC) or state appointed official stating that the application conforms to the agreement with a federal agency with a valid assignment from the National Telecommunications and Information Administration. 
+The Commission may authorize non-Federal licensees to operate mobile and portable radio units on the frequencies listed below in Tables 1 and 2, provided the applicant includes with its application to the Commission, written concurrence from the Statewide Interoperability Coordinator (SWIC) or state appointed official stating that the application conforms to the agreement with a federal agency with a valid assignment from the National Telecommunications and Information Administration.
 
 Table 1—Law Enforcement Plans (MHz)
 | LE VHF plan  | LE UHF plan  |

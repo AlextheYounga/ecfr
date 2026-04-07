@@ -1,16 +1,16 @@
 ##### § 22.1013 Effective radiated power limitations.
 
-The effective radiated power (ERP) of transmitters in the Offshore Radiotelephone Service must not exceed the limits in this section. 
+The effective radiated power (ERP) of transmitters in the Offshore Radiotelephone Service must not exceed the limits in this section.
 
-(a) *Maximum power.* The ERP of transmitters in this service must not exceed 1000 Watts under any circumstances. 
+(a) *Maximum power.* The ERP of transmitters in this service must not exceed 1000 Watts under any circumstances.
 
-(b) *Mobile transmitters.* The ERP of mobile transmitters must not exceed 100 Watts. The ERP of mobile transmitters, when located within 32 kilometers (20 miles) of the 4.8 kilometer (3 mile) limit, must not exceed 25 Watts. The ERP of airborne mobile stations must not exceed 1 Watt. 
+(b) *Mobile transmitters.* The ERP of mobile transmitters must not exceed 100 Watts. The ERP of mobile transmitters, when located within 32 kilometers (20 miles) of the 4.8 kilometer (3 mile) limit, must not exceed 25 Watts. The ERP of airborne mobile stations must not exceed 1 Watt.
 
-(c) *Protection for TV Reception.* The ERP limitations in this paragraph are intended to reduce the likelihood that interference to television reception from offshore radiotelephone operations will occur. 
+(c) *Protection for TV Reception.* The ERP limitations in this paragraph are intended to reduce the likelihood that interference to television reception from offshore radiotelephone operations will occur.
 
-(1) *Co-channel protection.* The ERP of offshore stations must not exceed the limits in Table I-1 of this section. The limits depend upon the height above mean sea level of the offshore transmitting antenna and the distance between the antenna location of the offshore transmitter and the antenna location of the main transmitter of the nearest full-service television station that transmits on the TV channel containing the channel on which the offshore station transmits. 
+(1) *Co-channel protection.* The ERP of offshore stations must not exceed the limits in Table I-1 of this section. The limits depend upon the height above mean sea level of the offshore transmitting antenna and the distance between the antenna location of the offshore transmitter and the antenna location of the main transmitter of the nearest full-service television station that transmits on the TV channel containing the channel on which the offshore station transmits.
 
-(2) *Adjacent channel protection.* The ERP of offshore stations located within 128.8 kilometers (80 miles) of the main transmitter antenna of a full service TV station that transmits on a TV channel adjacent to the TV channel which contains the channel on which the offshore station transmits must not exceed the limits in the Table I-2 of § 22.1015. The limits depend upon the height above mean sea level of the offshore transmitting antenna and the distance between the location of the offshore transmitter and the 4.8 kilometer (3 mile) limit. 
+(2) *Adjacent channel protection.* The ERP of offshore stations located within 128.8 kilometers (80 miles) of the main transmitter antenna of a full service TV station that transmits on a TV channel adjacent to the TV channel which contains the channel on which the offshore station transmits must not exceed the limits in the Table I-2 of § 22.1015. The limits depend upon the height above mean sea level of the offshore transmitting antenna and the distance between the location of the offshore transmitter and the 4.8 kilometer (3 mile) limit.
 
 Table I-1—Maximum ERP (Watts)
 | Distance        | 30 meters (100 feet) | 45 meters (150 feet) | 61 meters (200 feet) |

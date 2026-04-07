@@ -1,6 +1,6 @@
 ##### § 225.35 When a PIA used in computing a retirement annuity can be increased for DRC's.
 
-Delayed retirement credits earned at different times are added to the PIA used in computing a retirement annuity as follows: 
+Delayed retirement credits earned at different times are added to the PIA used in computing a retirement annuity as follows:
 
 | DRC's earned for month in                                                                        | Are added to PIA                                       |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |

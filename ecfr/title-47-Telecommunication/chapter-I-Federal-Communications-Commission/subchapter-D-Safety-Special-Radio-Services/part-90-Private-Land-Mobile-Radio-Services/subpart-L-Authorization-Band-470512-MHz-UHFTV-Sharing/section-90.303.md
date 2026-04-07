@@ -1,8 +1,8 @@
 ##### § 90.303 Availability of frequencies.
 
-(a) Frequencies in the band 470-512 MHz are available for assignment as described below. Note: coordinates are referenced to the North American Datum 1983 (NAD83). 
+(a) Frequencies in the band 470-512 MHz are available for assignment as described below. Note: coordinates are referenced to the North American Datum 1983 (NAD83).
 
-(b) The following table lists frequency bands that are available for assignment in specific urban areas. The available frequencies are listed in § 90.311 of this part. 
+(b) The following table lists frequency bands that are available for assignment in specific urban areas. The available frequencies are listed in § 90.311 of this part.
 
 | Urbanized area                                                                                                                                                                                                                            | Geographic center | Bands (MHz)  | TV channels               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------ | ------------------------- |
@@ -24,16 +24,16 @@
 | 3 Channels 15 and 16 are not available in Detroit, MI, until further order from the Commission.                                                                                                                                           |                   |              |                           |
 | 4 Channel 16 is available in Los Angeles, CA, for use by eligibles in the Public Safety Radio Pool.                                                                                                                                       |                   |              |                           |
 
-(c) The band 482-488 MHz (TV Channel 16) is available for use by eligibles in the Public Safety Radio Pool in the following areas: New York City; Nassau, Suffolk, and Westchester counties in New York State; and Bergen County, New Jersey. All part 90 rules shall apply to said operations, except that: 
+(c) The band 482-488 MHz (TV Channel 16) is available for use by eligibles in the Public Safety Radio Pool in the following areas: New York City; Nassau, Suffolk, and Westchester counties in New York State; and Bergen County, New Jersey. All part 90 rules shall apply to said operations, except that:
 
-(1) *Location of stations.* Base stations shall be located in the areas specified in this paragraph (c). Mobile stations may operate throughout the areas specified in this paragraph (c) and may additionally operate in areas not specified in this paragraph (c) provided that the distance from the Empire State Building (40° 44′ 54.4″ N, 73° 59′ 8.4″ W) does not exceed 48 kilometers (30 miles). 
+(1) *Location of stations.* Base stations shall be located in the areas specified in this paragraph (c). Mobile stations may operate throughout the areas specified in this paragraph (c) and may additionally operate in areas not specified in this paragraph (c) provided that the distance from the Empire State Building (40° 44′ 54.4″ N, 73° 59′ 8.4″ W) does not exceed 48 kilometers (30 miles).
 
-(2) *Protection criteria.* In order to provide co-channel television protection, the following height and power restrictions are required: 
+(2) *Protection criteria.* In order to provide co-channel television protection, the following height and power restrictions are required:
 
-(i) Except as specified in paragraph (c)(2)(ii) of this section, base stations shall be limited to a maximum effective radiated power (ERP) of 225 watts at an antenna height of 152.5 meters (500 feet) above average terrain (AAT). Adjustment of the permitted power will be allowed provided it is in accordance with the “169 kilometer Distance Separation” entries specified in Table B in 47 CFR 90.309(a) or the “LM/TV Separation 110 miles (177 km)” curve in Figure B in 47 CFR 90.309(b). 
+(i) Except as specified in paragraph (c)(2)(ii) of this section, base stations shall be limited to a maximum effective radiated power (ERP) of 225 watts at an antenna height of 152.5 meters (500 feet) above average terrain (AAT). Adjustment of the permitted power will be allowed provided it is in accordance with the “169 kilometer Distance Separation” entries specified in Table B in 47 CFR 90.309(a) or the “LM/TV Separation 110 miles (177 km)” curve in Figure B in 47 CFR 90.309(b).
 
-(ii) For base stations located west of the Hudson River, Kill Van Kull, and Arthur Kill, the maximum ERP and antenna height shall be limited to the entries specified in Table B in 47 CFR 90.309(a) or in Figure B in 47 CFR 90.309(b) for the actual separation distance between the base station and the transmitter site of WNEP-TV in Scranton, PA (41° 10′ 58.0″ N, 75° 52′ 20.0″ W). 
+(ii) For base stations located west of the Hudson River, Kill Van Kull, and Arthur Kill, the maximum ERP and antenna height shall be limited to the entries specified in Table B in 47 CFR 90.309(a) or in Figure B in 47 CFR 90.309(b) for the actual separation distance between the base station and the transmitter site of WNEP-TV in Scranton, PA (41° 10′ 58.0″ N, 75° 52′ 20.0″ W).
 
-(iii) Mobile stations shall be limited to 100 watts ERP in areas of operation extending eastward from the Hudson River and to 10 watts ERP in areas of operation extending westward from the Hudson River. 
+(iii) Mobile stations shall be limited to 100 watts ERP in areas of operation extending eastward from the Hudson River and to 10 watts ERP in areas of operation extending westward from the Hudson River.
 
 \[69 FR 31907, June 8, 2004, as amended 72 FR 35196, June 27, 2007\]

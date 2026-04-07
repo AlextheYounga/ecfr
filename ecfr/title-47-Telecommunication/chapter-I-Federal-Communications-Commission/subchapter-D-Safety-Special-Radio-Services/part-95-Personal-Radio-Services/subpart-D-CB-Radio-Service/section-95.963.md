@@ -1,6 +1,6 @@
 ##### § 95.963 CBRS channel frequencies.
 
-The channels listed in this section are allotted for shared use in the CBRS. Each CBRS channel is designated by its center frequency in Megahertz (MHz). 
+The channels listed in this section are allotted for shared use in the CBRS. Each CBRS channel is designated by its center frequency in Megahertz (MHz).
 
 | CBRS channel No. | Center   frequency   (MHz) |
 | ---------------- | -------------------------- |

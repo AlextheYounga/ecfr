@@ -1,6 +1,6 @@
 ##### § 640.5 Criteria for compliance.
 
-The criteria in the schedule below shall apply in determining whether, in the administration of a State law, there has been substantial compliance with the provision required by section 303(a)(1) in the issuance of benefit payments to eligible claimants for the first compensable weeks of unemployment in their benefit years: 
+The criteria in the schedule below shall apply in determining whether, in the administration of a State law, there has been substantial compliance with the provision required by section 303(a)(1) in the issuance of benefit payments to eligible claimants for the first compensable weeks of unemployment in their benefit years:
 
 |                                                                                                                                                                     | Percentage of first payments issued—days following end of first compensable week |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |

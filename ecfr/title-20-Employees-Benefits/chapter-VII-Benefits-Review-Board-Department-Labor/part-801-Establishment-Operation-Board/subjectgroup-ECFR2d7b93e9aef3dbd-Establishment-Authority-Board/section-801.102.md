@@ -1,12 +1,12 @@
 ##### § 801.102 Review authority.
 
-(a) The Board is authorized, as provided in 33 U.S.C. 921(b), as amended, to hear and determine appeals raising a substantial question of law or fact taken by any party in interest from decisions or orders with respect to claims for compensation or benefits arising under the following Acts, as amended and extended: 
+(a) The Board is authorized, as provided in 33 U.S.C. 921(b), as amended, to hear and determine appeals raising a substantial question of law or fact taken by any party in interest from decisions or orders with respect to claims for compensation or benefits arising under the following Acts, as amended and extended:
 
 (1) The Longshore and Harbor Workers' Compensation Act (LHWCA), 33 U.S.C. 901 *et seq.;*
 
 (2) The Defense Base Act (DBA), 42 U.S.C. 1651 *et seq.;*
 
-(3) The District of Columbia Workmen's Compensation Act (DCWCA), 36 D.C. Code 501 *et seq.* (1973); 
+(3) The District of Columbia Workmen's Compensation Act (DCWCA), 36 D.C. Code 501 *et seq.* (1973);
 
 (4) The Outer Continental Shelf Lands Act (OCSLA), 43 U.S.C. 1331 *et seq.;*
 

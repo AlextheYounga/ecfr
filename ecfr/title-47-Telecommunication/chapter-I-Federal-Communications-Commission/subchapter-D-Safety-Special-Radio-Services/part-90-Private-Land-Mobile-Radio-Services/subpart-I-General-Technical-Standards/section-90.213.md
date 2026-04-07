@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 100852, Dec. 13, 2024.
 
-(a) Unless noted elsewhere, transmitters used in the services governed by this part must have a minimum frequency stability as specified in the following table. 
+(a) Unless noted elsewhere, transmitters used in the services governed by this part must have a minimum frequency stability as specified in the following table.
 
 Table 1 to § 90.213(a)—Minimum Frequency Stability
 
@@ -42,6 +42,6 @@ Table 1 to § 90.213(a)—Minimum Frequency Stability
 | 13 Fixed non-multilateration transmitters with an authorized bandwidth that is more than 40 kHz from the band edge, intermittently operated hand-held readers, and mobile transponders are not subject to frequency tolerance restrictions.                                                                                                                                                              |                         |                 |
 | 14 Control stations may operate with the frequency tolerance specified for associated mobile frequencies.                                                                                                                                                                                                                                                                                                |                         |                 |
 
-(b) For the purpose of determining the frequency stability limits, the power of a transmitter is considered to be the maximum rated output power as specified by the manufacturer. 
+(b) For the purpose of determining the frequency stability limits, the power of a transmitter is considered to be the maximum rated output power as specified by the manufacturer.
 
 \[60 FR 37266, July 19, 1995, as amended at 61 FR 4235, Feb. 5, 1996; 61 FR 18986, Apr. 30, 1996; 61 FR 38403, July 24, 1996; 62 FR 2040, Jan. 15, 1997; 62 FR 18927, Apr. 17, 1997; 67 FR 41860, June 20, 2002; 69 FR 46443, Aug. 3, 2004; 69 FR 67838, Nov. 22, 2004; 85 FR 43139, July 15, 2020; 86 FR 23297, May 3, 2021\] Editorial Note:At 85 FR 43139, July 16, 2020, § 90.213 was amended in the table by adding entries in numerical order for “896-901” and “935-940”, however due to an inaccurate amendatory instruction, this amendment could not be incorporated.

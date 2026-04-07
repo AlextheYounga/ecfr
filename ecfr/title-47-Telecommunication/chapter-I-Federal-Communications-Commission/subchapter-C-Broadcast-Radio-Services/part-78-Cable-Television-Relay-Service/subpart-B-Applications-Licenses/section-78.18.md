@@ -1,8 +1,8 @@
 ##### § 78.18 Frequency assignments.
 
-(a) The Cable Television Relay Service is assigned the band of frequencies from 12.70 to 13.20 GHz. This band is shared with the Fixed-Satellite Service (earth-to-space) from 12.70 to 12.75 GHz and Television Auxiliary Broadcast Stations from 12.70 to 13.20 GHz. The following channels may be assigned to CARS stations for the propagation of radio waves with the indicated polarization: 
+(a) The Cable Television Relay Service is assigned the band of frequencies from 12.70 to 13.20 GHz. This band is shared with the Fixed-Satellite Service (earth-to-space) from 12.70 to 12.75 GHz and Television Auxiliary Broadcast Stations from 12.70 to 13.20 GHz. The following channels may be assigned to CARS stations for the propagation of radio waves with the indicated polarization:
 
-(1) For CARS stations using FM transmission: 
+(1) For CARS stations using FM transmission:
 
 Group A Channels
 | Designation                                                                                        | Channel boundaries (GHz) |
@@ -61,7 +61,7 @@ Group B Channels
 | 2 See paragraph (l) of this section.                                                               |                          |
 | **Note:** Polarization designations shall be in accordance with IEEE standard 100-1972 as amended. |                          |
 
-(2) CARS stations using vestigal sideband AM transmission and FM transmission requiring a necessary bandwidth of no more than 6 MHz. 
+(2) CARS stations using vestigal sideband AM transmission and FM transmission requiring a necessary bandwidth of no more than 6 MHz.
 
 Group C Channels
 | Designation                                                                      | Channel   boundaries (GHz)   \[C channels\] | Alternate   change boundaries (GHz)   \[Ca channels\] |
@@ -249,7 +249,7 @@ Group F Channels
 | 2 For transmission of pilot subcarriers or other authorized narrow band signals. |                                         |                                                    |
 | 3 See paragraph (l) of this section.                                             |                                         |                                                    |
 
-(3) For CARS stations using AM and FM transmission requiring a necessary bandwidth of no more than 12.5 MHz. 
+(3) For CARS stations using AM and FM transmission requiring a necessary bandwidth of no more than 12.5 MHz.
 
 Group K Channel
 | Designation                                  | Channel boundaries (GHz) |
@@ -297,15 +297,15 @@ Group K Channel
 | 1 See footnote 1 following GROUP A CHANNELS. |                          |
 | 2 See paragraph (l) of this section.         |                          |
 
-(4) The Cable Television Relay Service is also assigned the following frequencies in the 17,700-19,700 MHz band. These frequencies are co-equally shared with stations in other services under parts 25, 74, and 101 of this chapter. Cable Television Relay Service stations operating on frequencies in the sub-bands 18.3-18.58 GHz and 19.26-19.3 GHz that were licensed or had applications pending before the Commission as of September 18, 1998 may continue those operations on a shared co-primary basis with other services under parts 25, 74, and 101 of this chapter. Such stations, however, are subject to relocation by licensees in the fixed-satellite service. Such relocation is subject to the provisions of §§ 101.85 through 101.97 of this chapter. No new applications for part 78 licenses will be accepted in the 19.26-19.3 GHz band after June 8, 2000, and no new applications for part 78 licenses will be accepted in the 18.3-18.58 GHz band after November 19, 2002. 
+(4) The Cable Television Relay Service is also assigned the following frequencies in the 17,700-19,700 MHz band. These frequencies are co-equally shared with stations in other services under parts 25, 74, and 101 of this chapter. Cable Television Relay Service stations operating on frequencies in the sub-bands 18.3-18.58 GHz and 19.26-19.3 GHz that were licensed or had applications pending before the Commission as of September 18, 1998 may continue those operations on a shared co-primary basis with other services under parts 25, 74, and 101 of this chapter. Such stations, however, are subject to relocation by licensees in the fixed-satellite service. Such relocation is subject to the provisions of §§ 101.85 through 101.97 of this chapter. No new applications for part 78 licenses will be accepted in the 19.26-19.3 GHz band after June 8, 2000, and no new applications for part 78 licenses will be accepted in the 18.3-18.58 GHz band after November 19, 2002.
 
-(i) 2 MHz maximum authorized bandwidth channel: 
+(i) 2 MHz maximum authorized bandwidth channel:
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
 | 18141.0                  | n/a                      |
 
-(ii) 6 MHz maximum authorized bandwidth channels: 
+(ii) 6 MHz maximum authorized bandwidth channels:
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -348,7 +348,7 @@ Group K Channel
 | 18355.0                  | 18571.0                  |
 | 18361.0                  | 18577.0                  |
 
-(iii) 10 MHz maximum authorized bandwidth channels: 
+(iii) 10 MHz maximum authorized bandwidth channels:
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -398,7 +398,7 @@ Group K Channel
 | 18125.0                  | 19685.0                  |
 | 18135.0                  | 19695.0                  |
 
-(iv) 20 MHz maximum authorized bandwidth channels: 
+(iv) 20 MHz maximum authorized bandwidth channels:
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -426,7 +426,7 @@ Group K Channel
 | 18110.0                  | 19670.0                  |
 | 18130.0                  | 19690.0                  |
 
-(v) 40 MHz maximum authorized bandwidth channels: 
+(v) 40 MHz maximum authorized bandwidth channels:
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -443,7 +443,7 @@ Group K Channel
 | 18080.0                  | 19640.0                  |
 | 18120.0                  | 19680.0                  |
 
-(vi) 80 MHz maximum authorized bandwidth channels: 
+(vi) 80 MHz maximum authorized bandwidth channels:
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -454,16 +454,16 @@ Group K Channel
 | 17980.0                  | 19540.0                  |
 | 18060.0                  | 19620.0                  |
 
-(5) *6425 to 6525 MHz—Mobile only.* Paired and unpaired operations permitted. Use of this spectrum for direct delivery of video programs to the general public or multi-channel cable distribution is not permitted. This band is co-equally shared with mobile stations licensed pursuant to Parts 74 and 101 of the Commission's Rules. The following channel plans apply. 
+(5) *6425 to 6525 MHz—Mobile only.* Paired and unpaired operations permitted. Use of this spectrum for direct delivery of video programs to the general public or multi-channel cable distribution is not permitted. This band is co-equally shared with mobile stations licensed pursuant to Parts 74 and 101 of the Commission's Rules. The following channel plans apply.
 
-(i) 1 MHz maximum authorized bandwidth channels. 
+(i) 1 MHz maximum authorized bandwidth channels.
 
 | Transmit (or receive) (MHz) | Receive (or transmit) (MHz) |
 | --------------------------- | --------------------------- |
 | 6425.5                      | 6475.5                      |
 | 6450.5                      | 6500.5                      |
 
-(ii) 8 MHz maximum authorized bandwidth channels. 
+(ii) 8 MHz maximum authorized bandwidth channels.
 
 | Transmit (or receive) (MHz) | Receive (or transmit) (MHz) |
 | --------------------------- | --------------------------- |
@@ -474,55 +474,55 @@ Group K Channel
 | 6463.0                      | 6513.0                      |
 | 6471.0                      | 6521.0                      |
 
-(iii) 25 MHz maximum authorized bandwidth channels. 
+(iii) 25 MHz maximum authorized bandwidth channels.
 
 | Transmit (or receive) (MHz) | Receive (or transmit) (MHz) |
 | --------------------------- | --------------------------- |
 | 6437.5                      | 6487.5                      |
 | 6462.5                      | 6512.5                      |
 
-(6) *1990-2110 MHz—Mobile only.* (i) Use of this spectrum for direct delivery of video programs to the general public or multi-channel cable distribution is not permitted. This band is co-equally shared with stations licensed pursuant to parts 74 and 101 of the Commission's Rules. (Common carriers may use this band pursuant to provisions of § 101.803(b)). The following channeling plan applies subject to the provisions of § 74.604. 
+(6) *1990-2110 MHz—Mobile only.* (i) Use of this spectrum for direct delivery of video programs to the general public or multi-channel cable distribution is not permitted. This band is co-equally shared with stations licensed pursuant to parts 74 and 101 of the Commission's Rules. (Common carriers may use this band pursuant to provisions of § 101.803(b)). The following channeling plan applies subject to the provisions of § 74.604.
 
 Frequency Band (MHz) 1990-2008 2008-2025 2025-2042 2042-2059 2059-2076 2076-2093 2093-2110
 
-(ii) After a licensee has been relocated in accordance with the provisions of § 78.40, operations will be in the band 2025-2110 MHz. The following channel plan will apply, subject to the provisions of § 74.604 of this part: 
+(ii) After a licensee has been relocated in accordance with the provisions of § 78.40, operations will be in the band 2025-2110 MHz. The following channel plan will apply, subject to the provisions of § 74.604 of this part:
 
 Frequency Band (MHz) 2025.5-2037.5 2037.5-2049.5 2049.5-2061.5 2061.5-2073.5 2073.5-2085.5 2085.5-2097.5 2097.5-2109.5
 
-(7) *6875-7125 MHz—Mobile only.* Use of this spectrum for direct delivery of video programs to the general public or multi-channel cable distribution is not permitted. This band is co-equally shared with stations licensed pursuant to parts 74 and 101 of the Commission's Rules. (Common carriers may use this band pursuant to provisions of § 101.803(b)). The following channeling plan applies subject to the provisions of § 74.604. 
+(7) *6875-7125 MHz—Mobile only.* Use of this spectrum for direct delivery of video programs to the general public or multi-channel cable distribution is not permitted. This band is co-equally shared with stations licensed pursuant to parts 74 and 101 of the Commission's Rules. (Common carriers may use this band pursuant to provisions of § 101.803(b)). The following channeling plan applies subject to the provisions of § 74.604.
 
 Frequency Band (MHz) 6875—6900 6900—6925 6925—6950 6950—6975 6975—7000 7000—7025 7025—7050 7050—7075 7075—7100 7100—7125
 
-(b) Television Auxiliary Broadcast Service stations may be assigned channels in the band 12.70-13.20 GHz subject to the condition that no harmful interference is caused to fixed CARS stations authorized at the time of such grants. Translator Relay stations are assigned on a secondary basis. New CARS stations shall not cause harmful interference to television STL and intercity relay stations authorized at the time of such grants. Television pickup stations and CARS pickup stations will be assigned channels in the band on a co-equal basis subject to the conditions that they accept interference from and cause no interference to existing or subsequently authorized television STL, television intercity relay, or fixed CARS stations. Channels in the 13.150-13.200 GHz band will be assigned exclusively to television pickup and CARS pickup stations on a co-equal basis. A cable television system operator will normally be limited in any one area to the assignment of not more than three channels for CARS pickup use: *Provided, however,* That additional channels may be assigned upon a satisfactory showing that additional channels are necessary and are available. 
+(b) Television Auxiliary Broadcast Service stations may be assigned channels in the band 12.70-13.20 GHz subject to the condition that no harmful interference is caused to fixed CARS stations authorized at the time of such grants. Translator Relay stations are assigned on a secondary basis. New CARS stations shall not cause harmful interference to television STL and intercity relay stations authorized at the time of such grants. Television pickup stations and CARS pickup stations will be assigned channels in the band on a co-equal basis subject to the conditions that they accept interference from and cause no interference to existing or subsequently authorized television STL, television intercity relay, or fixed CARS stations. Channels in the 13.150-13.200 GHz band will be assigned exclusively to television pickup and CARS pickup stations on a co-equal basis. A cable television system operator will normally be limited in any one area to the assignment of not more than three channels for CARS pickup use: *Provided, however,* That additional channels may be assigned upon a satisfactory showing that additional channels are necessary and are available.
 
-(c) An application for a CARS station shall be specific with regard to the channel or channels requested. Channels shall be identified by the appropriate designations set forth in paragraph (a) of this section. 
+(c) An application for a CARS station shall be specific with regard to the channel or channels requested. Channels shall be identified by the appropriate designations set forth in paragraph (a) of this section.
 
-(d) For CARS Fixed stations using FM transmission with an authorized bandwidth per channel of 25 MHz, to conserve spectrum applicants are encouraged to use alternate A and B channels such that adjacent R.F. carriers are spaced 12.5 MHz. As example, a fixed station in the CARS, relaying several channels, would use A01, B01, A02, B02, A03, etc. 
+(d) For CARS Fixed stations using FM transmission with an authorized bandwidth per channel of 25 MHz, to conserve spectrum applicants are encouraged to use alternate A and B channels such that adjacent R.F. carriers are spaced 12.5 MHz. As example, a fixed station in the CARS, relaying several channels, would use A01, B01, A02, B02, A03, etc.
 
-(e) For CARS stations using vestigial sideband AM transmissions, channels from only the Groups C, D, E or F and those frequencies listed in paragraph (a)(4)(ii) of this section normally will be assigned a station, although upon adequate showing variations in the use of channels in Groups C, D, E or F and those frequencies listed in paragraph (a)(4)(ii) of this section may be authorized on a case-by-case basis in order to avoid potential interference or to permit a more efficient use. In situations where the number or the arrangement of channels available in these groups is not adequate, or in order to avoid potential interference, or in order to achieve the required VHF channelization arrangement on the cable television system or for repeated operations, or for two way transmission, or upon the showing of other good cause, the use of channels in the Groups C, D, E or F and those frequencies listed in paragraph (a)(4)(ii) of this section may be authorized. Applicants are encouraged to apply for adjacent channels within each group of channels, except that different channel arrangements may be authorized when required to conform to the required channelization arrangement at VHF on the cable television system, when it is necessary to transmit non-adjacent off-the-air channels or signals intended to fill non-adjacent slots in the spectrum, or to avoid potential interference, or upon other showing of good cause. 
+(e) For CARS stations using vestigial sideband AM transmissions, channels from only the Groups C, D, E or F and those frequencies listed in paragraph (a)(4)(ii) of this section normally will be assigned a station, although upon adequate showing variations in the use of channels in Groups C, D, E or F and those frequencies listed in paragraph (a)(4)(ii) of this section may be authorized on a case-by-case basis in order to avoid potential interference or to permit a more efficient use. In situations where the number or the arrangement of channels available in these groups is not adequate, or in order to avoid potential interference, or in order to achieve the required VHF channelization arrangement on the cable television system or for repeated operations, or for two way transmission, or upon the showing of other good cause, the use of channels in the Groups C, D, E or F and those frequencies listed in paragraph (a)(4)(ii) of this section may be authorized. Applicants are encouraged to apply for adjacent channels within each group of channels, except that different channel arrangements may be authorized when required to conform to the required channelization arrangement at VHF on the cable television system, when it is necessary to transmit non-adjacent off-the-air channels or signals intended to fill non-adjacent slots in the spectrum, or to avoid potential interference, or upon other showing of good cause.
 
-(f) For vestigial sideband AM transmission, the assigned visual carrier frequency for each channel listed in Groups C, D, E or F and those frequencies listed in paragraph (a)(4)(ii) of this section shall be 1.25 MHz above the lower channel-edge frequency. The center frequency for the accompanying FM aural carrier in each channel shall be 4.5 MHz above the corresponding visual carrier frequency. 
+(f) For vestigial sideband AM transmission, the assigned visual carrier frequency for each channel listed in Groups C, D, E or F and those frequencies listed in paragraph (a)(4)(ii) of this section shall be 1.25 MHz above the lower channel-edge frequency. The center frequency for the accompanying FM aural carrier in each channel shall be 4.5 MHz above the corresponding visual carrier frequency.
 
-(g) For CARS stations using double sideband AM transmission or FM transmission with authorized bandwidth of no more than 12.5 MHz, Group K channels normally will be assigned to a station, although upon adequate showing variations in the use of channels in Group K may be authorized on a case-by-case basis in order to avoid potential interference or to permit a more efficient use. 
+(g) For CARS stations using double sideband AM transmission or FM transmission with authorized bandwidth of no more than 12.5 MHz, Group K channels normally will be assigned to a station, although upon adequate showing variations in the use of channels in Group K may be authorized on a case-by-case basis in order to avoid potential interference or to permit a more efficient use.
 
-(h) For double sideband AM transmission, the assigned carrier frequency for each channel listed in Group K shall be 6.25 MHz above the lower boundary frequency for each channel, and the sideband frequencies corresponding to the carrier frequency of the accompanying FM aural signal shall be 4.5 MHz above and below the visual carrier frequency. 
+(h) For double sideband AM transmission, the assigned carrier frequency for each channel listed in Group K shall be 6.25 MHz above the lower boundary frequency for each channel, and the sideband frequencies corresponding to the carrier frequency of the accompanying FM aural signal shall be 4.5 MHz above and below the visual carrier frequency.
 
-(i) All stations shall employ no more than a 12.5 MHz authorized bandwidth per channel except in any one or more of the following circumstances: 
+(i) All stations shall employ no more than a 12.5 MHz authorized bandwidth per channel except in any one or more of the following circumstances:
 
-(1) The station is a CARS pickup station; 
+(1) The station is a CARS pickup station;
 
-(2) The transmission path is more than 16.1 km (10 miles) in length; 
+(2) The transmission path is more than 16.1 km (10 miles) in length;
 
-(3) The station was authorized or an application was on file therefor prior to July 26, 1973. 
+(3) The station was authorized or an application was on file therefor prior to July 26, 1973.
 
-(4) Other good cause has been shown that use of a bandwidth of 12.5 MHz or less per channel would be inefficient, impractical, or otherwise contrary to the public interest. 
+(4) Other good cause has been shown that use of a bandwidth of 12.5 MHz or less per channel would be inefficient, impractical, or otherwise contrary to the public interest.
 
-(j) Should any conflict arise among applications for stations in this band, priority will be based on the filing date of an application completed in accordance with the instructions thereon. 
+(j) Should any conflict arise among applications for stations in this band, priority will be based on the filing date of an application completed in accordance with the instructions thereon.
 
-(k) Applicants for Group K channels shall apply for adjacent channels and the requested channels shall overlap the least possible number of Group A channels, except that different channel arrangements may be authorized upon an adequate showing that the foregoing arrangement cannot be used or would be contrary to the public interest, or in order to avoid potential interference or to permit a more efficient use. 
+(k) Applicants for Group K channels shall apply for adjacent channels and the requested channels shall overlap the least possible number of Group A channels, except that different channel arrangements may be authorized upon an adequate showing that the foregoing arrangement cannot be used or would be contrary to the public interest, or in order to avoid potential interference or to permit a more efficient use.
 
-(l) The band 13.15-13.20 GHz is reserved for television pickup and CARS pickup stations inside a 50 km radius of the 100 television markets delineated in § 76.51 of this chapter. Outside a 50 km radius of the 100 television markets delineated in § 76.51 of this chapter, television pickup stations, CARS stations and NGSO FSS gateway earth stations shall operate on a primary co-equal basis. The band 13.20-13.2125 GHz is reserved for television pickup stations on a primary basis and CARS pickup stations on a secondary basis inside a 50 km radius of the 100 television markets delineated in § 76.51 of this chapter. Outside a 50 km radius of the 100 markets delineated in § 76.51 of this chapter, television pickup stations and NGSO FSS gateway earth stations shall operate on a co-primary basis, CARS stations shall operate on a secondary basis. Fixed television auxiliary stations licensed pursuant to applications accepted for filing before September 1, 1979, may continue operation on channels in the 13.15-13.25 GHz band, subject to periodic license renewals. NGSO FSS gateway uplink transmissions in the 13.15-13.2125 GHz segment shall be limited to a maximum EIRP of 3.2 dBW towards 0 degrees on the radio horizon. These provisions shall not apply to GSO FSS operations in the 12.75-13.25 GHz band. 
+(l) The band 13.15-13.20 GHz is reserved for television pickup and CARS pickup stations inside a 50 km radius of the 100 television markets delineated in § 76.51 of this chapter. Outside a 50 km radius of the 100 television markets delineated in § 76.51 of this chapter, television pickup stations, CARS stations and NGSO FSS gateway earth stations shall operate on a primary co-equal basis. The band 13.20-13.2125 GHz is reserved for television pickup stations on a primary basis and CARS pickup stations on a secondary basis inside a 50 km radius of the 100 television markets delineated in § 76.51 of this chapter. Outside a 50 km radius of the 100 markets delineated in § 76.51 of this chapter, television pickup stations and NGSO FSS gateway earth stations shall operate on a co-primary basis, CARS stations shall operate on a secondary basis. Fixed television auxiliary stations licensed pursuant to applications accepted for filing before September 1, 1979, may continue operation on channels in the 13.15-13.25 GHz band, subject to periodic license renewals. NGSO FSS gateway uplink transmissions in the 13.15-13.2125 GHz segment shall be limited to a maximum EIRP of 3.2 dBW towards 0 degrees on the radio horizon. These provisions shall not apply to GSO FSS operations in the 12.75-13.25 GHz band.
 
-(m) CARS stations may be authorized for use of the band from 13.20 to 13.25 GHz on a secondary basis to Television Broadcast Auxiliary Stations. CARS stations are also secondary to NGSO FSS gateway earth station uplink operations. Any CARS application seeking authorization for use of the 13.20 to 13.25 GHz band must demonstrate that the applicant has exhausted all spectrum available to it in the 12.70 to 13.20 GHz band. Applications for use of this band must specify whether the channels are 6 MHz, 12.5 MHz, or 25 MHz wide and give the upper and lower boundaries and the polarization for each channel. 
+(m) CARS stations may be authorized for use of the band from 13.20 to 13.25 GHz on a secondary basis to Television Broadcast Auxiliary Stations. CARS stations are also secondary to NGSO FSS gateway earth station uplink operations. Any CARS application seeking authorization for use of the 13.20 to 13.25 GHz band must demonstrate that the applicant has exhausted all spectrum available to it in the 12.70 to 13.20 GHz band. Applications for use of this band must specify whether the channels are 6 MHz, 12.5 MHz, or 25 MHz wide and give the upper and lower boundaries and the polarization for each channel.
 
 \[37 FR 3292, Feb. 12, 1972. Redesignated at 37 FR 15926, Aug. 8, 1972\] Editorial Note:For Federal Register citations affecting § 78.18, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

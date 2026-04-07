@@ -1,25 +1,23 @@
 ##### § 4044.58 Tables used to determine expected retirement age.
 
-Link to an amendment published at 89 FR 104043, Dec. 20, 2024.
-
 The following tables are used for determining expected retirement age under §§ 4044.55 through 4044.57. 
 
-Table 1 to § 4044.58—Table I-24—Selection of Retirement Rate Category
+Table 1 to § 4044.58—Table I-25—Selection of Retirement Rate Category
 
-\[For valuation dates in 2024 1\]
-| If participant reaches URA in year—                                                                 | Participant's retirement rate category is— |
+\[For valuation dates in 2025 1\]
+| If participant   reaches URA in   year—                                                             | Participant's retirement rate category is— |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| 2025                                                                                                | 802                                        |
-| 2026                                                                                                | 821                                        |
-| 2027                                                                                                | 839                                        |
-| 2028                                                                                                | 859                                        |
-| 2029                                                                                                | 879                                        |
-| 2030                                                                                                | 899                                        |
-| 2031                                                                                                | 919                                        |
-| 2032                                                                                                | 941                                        |
-| 2033                                                                                                | 962                                        |
-| 2034 or later                                                                                       | 984                                        |
-| 1 Applicable tables for valuation dates before 2024 are available on PBGC's website (www.pbgc.gov). |                                            |
+| 2026                                                                                                | 825                                        |
+| 2027                                                                                                | 844                                        |
+| 2028                                                                                                | 864                                        |
+| 2029                                                                                                | 884                                        |
+| 2030                                                                                                | 904                                        |
+| 2031                                                                                                | 925                                        |
+| 2032                                                                                                | 946                                        |
+| 2033                                                                                                | 968                                        |
+| 2034                                                                                                | 990                                        |
+| 2035 or later                                                                                       | 1,013                                      |
+| 1 Applicable tables for valuation dates before 2025 are available on PBGC's website (www.pbgc.gov). |                                            |
 | 2 Table II-A.                                                                                       |                                            |
 | 3 Table II-B.                                                                                       |                                            |
 | 4 Table II-C.                                                                                       |                                            |
@@ -123,4 +121,4 @@ Table 4 to § 4044.58—Table II-C—Expected Retirement Ages for Individuals in
 | 69                                                      |                          |
 | 70                                                      |                          |
 
-\[89 FR 48306, June 6, 2024\]
+\[89 FR 48306, June 6, 2024, as amended at 89 FR 104043, Dec. 20, 2024\]

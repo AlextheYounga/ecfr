@@ -1,6 +1,6 @@
 ##### § 10.7 What forms are needed to process claims under the FECA?
 
-(a) Notice of injury, claims and certain specified reports shall be made on forms prescribed by OWCP. Employers shall not modify these forms or use substitute forms. Employers are expected to maintain an adequate supply of the basic forms needed for the proper recording and reporting of injuries. 
+(a) Notice of injury, claims and certain specified reports shall be made on forms prescribed by OWCP. Employers shall not modify these forms or use substitute forms. Employers are expected to maintain an adequate supply of the basic forms needed for the proper recording and reporting of injuries.
 
 | Form No.     | Title                                                                                                                                                  |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |

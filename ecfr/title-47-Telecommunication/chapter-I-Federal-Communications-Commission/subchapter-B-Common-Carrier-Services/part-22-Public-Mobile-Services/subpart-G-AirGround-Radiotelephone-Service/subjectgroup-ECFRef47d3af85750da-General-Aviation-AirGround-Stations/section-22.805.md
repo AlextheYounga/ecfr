@@ -1,6 +1,6 @@
 ##### § 22.805 Channels for general aviation air-ground service.
 
-The following channels are allocated for the provision of radiotelephone service to airborne mobile subscribers in general aviation aircraft. These channels have a bandwidth of 20 kHz and are designated by their center frequencies in MegaHertz. 
+The following channels are allocated for the provision of radiotelephone service to airborne mobile subscribers in general aviation aircraft. These channels have a bandwidth of 20 kHz and are designated by their center frequencies in MegaHertz.
 
 Signalling Channel Pair
 | Ground  | Airborne mobile |
@@ -23,6 +23,6 @@ Communication Channel Pairs
 | 454.950 | 459.950         |
 | 454.975 | 459.975         |
 
-(a) Channel 454.675 MHz is assigned to each and every ground station, to be used only for automatically alerting airborne mobile stations of incoming calls. 
+(a) Channel 454.675 MHz is assigned to each and every ground station, to be used only for automatically alerting airborne mobile stations of incoming calls.
 
 (b) All airborne mobile channels are assigned for use by each and every airborne mobile station.

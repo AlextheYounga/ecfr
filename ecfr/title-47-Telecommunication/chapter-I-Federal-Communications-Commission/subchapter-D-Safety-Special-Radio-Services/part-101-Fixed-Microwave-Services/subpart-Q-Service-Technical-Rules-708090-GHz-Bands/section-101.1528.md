@@ -2,25 +2,25 @@
 
 Link to an amendment published at 89 FR 33264, Apr. 29, 2024.
 
-(a) *Requirements for aeronautical ground stations and endpoints in motion.* (1) Air-to-ground transmissions are permitted only in the 71-76 GHz band. 
+(a) *Requirements for aeronautical ground stations and endpoints in motion.* (1) Air-to-ground transmissions are permitted only in the 71-76 GHz band.
 
-(2) Ground-to-air transmissions are permitted only in the 81-86 GHz band. 
+(2) Ground-to-air transmissions are permitted only in the 81-86 GHz band.
 
-(3) Air-to-air transmissions are permitted only between aircraft that are separated by a minimum slant path distance of 50 km. 
+(3) Air-to-air transmissions are permitted only between aircraft that are separated by a minimum slant path distance of 50 km.
 
-(4) Transmissions are only permitted to and from aircraft at altitudes between 10,000 ft and 50,000 ft. 
+(4) Transmissions are only permitted to and from aircraft at altitudes between 10,000 ft and 50,000 ft.
 
-(5) Ground stations must operate with a minimum elevation angle of 5 degrees and a maximum elevation angle of 45 degrees. 
+(5) Ground stations must operate with a minimum elevation angle of 5 degrees and a maximum elevation angle of 45 degrees.
 
-(6) Ground stations must be located at least 10 km from any existing Non-Federal FSS earth station or Federal facility listed in table 4 to paragraph (c)(2) of this section, absent a coordination agreement with the FSS operator. 
+(6) Ground stations must be located at least 10 km from any existing Non-Federal FSS earth station or Federal facility listed in table 4 to paragraph (c)(2) of this section, absent a coordination agreement with the FSS operator.
 
-(7) Ground stations must be located at least 150 km from the specific Federal facilities and not within the areas listed in table 3 to paragraph (c)(1) of this section, absent a coordination agreement with the Federal operator. 
+(7) Ground stations must be located at least 150 km from the specific Federal facilities and not within the areas listed in table 3 to paragraph (c)(1) of this section, absent a coordination agreement with the Federal operator.
 
-(8) Ground stations must be located at least 10 km from any existing Federal or non-Federal fixed station receiver, absent a coordination agreement with the fixed station operator. 
+(8) Ground stations must be located at least 10 km from any existing Federal or non-Federal fixed station receiver, absent a coordination agreement with the fixed station operator.
 
-(9) Air-to-air transmissions are permitted in 81-86 GHz subject to the following limitations; 
+(9) Air-to-air transmissions are permitted in 81-86 GHz subject to the following limitations;
 
-(i) EIRP signal levels radiated along a line between the airborne transmitter and the latitude and longitude of the observatories in table 3 to paragraph (c)(1) of this section, which must be maintained as the airborne transmitter moves, cannot exceed the levels shown in table 1 to this paragraph (a)(9)(i). Within the range of 150 km and 375 km, the maximum allowable EIRP levels for horizontal distances not listed in table below may be approximated by linear interpolation. 
+(i) EIRP signal levels radiated along a line between the airborne transmitter and the latitude and longitude of the observatories in table 3 to paragraph (c)(1) of this section, which must be maintained as the airborne transmitter moves, cannot exceed the levels shown in table 1 to this paragraph (a)(9)(i). Within the range of 150 km and 375 km, the maximum allowable EIRP levels for horizontal distances not listed in table below may be approximated by linear interpolation.
 
 Table 1 to Paragraph (a)(9)(i)—List of Maximum Allowable EIRP levels, in dBW
 | Frequency   (GHz) | Horizontal distance (km) |
@@ -32,7 +32,7 @@ Table 1 to Paragraph (a)(9)(i)—List of Maximum Allowable EIRP levels, in dBW
 | 85                | −12.1                    |
 | 86                | −12.2                    |
 
-(ii) A licensee of aeronautical end points in motion must have a capability to target specific areas which can be added to a “block list” as part of a dynamic link management system. If air-to-air transmission within the main beam of the radio astronomy receiver cannot be avoided, air-to-air transmissions within the radio horizon of the radio astronomy site (as specified in table 2 to this paragraph (a)(9)(ii)) should not occur. 
+(ii) A licensee of aeronautical end points in motion must have a capability to target specific areas which can be added to a “block list” as part of a dynamic link management system. If air-to-air transmission within the main beam of the radio astronomy receiver cannot be avoided, air-to-air transmissions within the radio horizon of the radio astronomy site (as specified in table 2 to this paragraph (a)(9)(ii)) should not occur.
 
 Table 2 to Paragraph (a)(9)(ii)—Approximate Radio Horizon, in Horizontal Distance
 
@@ -46,35 +46,35 @@ Table 2 to Paragraph (a)(9)(ii)—Approximate Radio Horizon, in Horizontal Dista
 | 4,000          | 180                                                        |
 | 3,000          | 125                                                        |
 
-(iii) The list of radio astronomy sites may be periodically updated by the NTIA and the FCC. This rule may be superseded by a coordination agreement between the licensee and NSF, in which case the coordination agreement will specify the technical restrictions. 
+(iii) The list of radio astronomy sites may be periodically updated by the NTIA and the FCC. This rule may be superseded by a coordination agreement between the licensee and NSF, in which case the coordination agreement will specify the technical restrictions.
 
-(10) Air-to-air transmissions in the 71-76 GHz band are subject to the following restrictions: 
+(10) Air-to-air transmissions in the 71-76 GHz band are subject to the following restrictions:
 
-(i) EIRP signal levels shall be limited to 20 dBW/1000 MHz towards each military installation listed in table 4 to paragraph (c)(2) that is within 375 km of the airborne transmitter. This 20 dBW/1000 MHz EIRP applies to the power radiated along a line between the airborne transmitter and the latitude and longitude of the military installations in table 4 to paragraph (c)(2) of this section and must be maintained as the airborne transmitter moves. An EIRP of 57 dBW/1000 MHz is allowed in other directions. The list of military installations in table 4 to paragraph (c)(2)of this section may be periodically updated by the NTIA and the FCC. This rule may be superseded by a coordination agreement between the licensee and the Department of Defense (DoD), in which case the coordination agreement will specify the technical restrictions and allow the licensee and DoD to update the list of protected installations in the agreement. The locations of all aeronautical end-point-in-motion ground stations will be provided to NTIA and DoD as part of the coordination process. 
+(i) EIRP signal levels shall be limited to 20 dBW/1000 MHz towards each military installation listed in table 4 to paragraph (c)(2) that is within 375 km of the airborne transmitter. This 20 dBW/1000 MHz EIRP applies to the power radiated along a line between the airborne transmitter and the latitude and longitude of the military installations in table 4 to paragraph (c)(2) of this section and must be maintained as the airborne transmitter moves. An EIRP of 57 dBW/1000 MHz is allowed in other directions. The list of military installations in table 4 to paragraph (c)(2)of this section may be periodically updated by the NTIA and the FCC. This rule may be superseded by a coordination agreement between the licensee and the Department of Defense (DoD), in which case the coordination agreement will specify the technical restrictions and allow the licensee and DoD to update the list of protected installations in the agreement. The locations of all aeronautical end-point-in-motion ground stations will be provided to NTIA and DoD as part of the coordination process.
 
-(ii) A licensee of aeronautical end points in motion must have a capability to target specific areas which can be added to a “block list” as part of a dynamic link management system. If air-to-air transmission within the main beam of the radio astronomy receivers associated with the observatories in table 3 to paragraph (c)(1) of this section cannot be avoided, air-to-air transmissions within the radio horizon of the radio astronomy site (as specified in table 2 to paragraph (a)(9)(ii) of this section) should not occur. 
+(ii) A licensee of aeronautical end points in motion must have a capability to target specific areas which can be added to a “block list” as part of a dynamic link management system. If air-to-air transmission within the main beam of the radio astronomy receivers associated with the observatories in table 3 to paragraph (c)(1) of this section cannot be avoided, air-to-air transmissions within the radio horizon of the radio astronomy site (as specified in table 2 to paragraph (a)(9)(ii) of this section) should not occur.
 
-(iii) The list of radio astronomy sites may be periodically updated by the NTIA and the FCC. This rule may be superseded by a coordination agreement between the licensee and NSF, in which case the coordination agreement will specify the technical restrictions. 
+(iii) The list of radio astronomy sites may be periodically updated by the NTIA and the FCC. This rule may be superseded by a coordination agreement between the licensee and NSF, in which case the coordination agreement will specify the technical restrictions.
 
-(b) *Requirements for maritime shore stations, aerostats, and endpoints in motion.* (1) Ship-to-shore transmissions are only permitted in the 81-86 GHz band. 
+(b) *Requirements for maritime shore stations, aerostats, and endpoints in motion.* (1) Ship-to-shore transmissions are only permitted in the 81-86 GHz band.
 
-(2) Shore-to-ship transmissions are only permitted in the 71-76 GHz band. 
+(2) Shore-to-ship transmissions are only permitted in the 71-76 GHz band.
 
-(3) Shore-to-aerostat transmissions are only permitted in the 71-76 GHz band. 
+(3) Shore-to-aerostat transmissions are only permitted in the 71-76 GHz band.
 
-(4) Aerostat-to-ship transmissions are only permitted in the 71-76GHz band. 
+(4) Aerostat-to-ship transmissions are only permitted in the 71-76GHz band.
 
-(5) Aerostat-to-shore transmissions are only permitted in the 81-86GHz band. 
+(5) Aerostat-to-shore transmissions are only permitted in the 81-86GHz band.
 
-(6) Aerostat must not operate above an altitude limit of 1000 ft. 
+(6) Aerostat must not operate above an altitude limit of 1000 ft.
 
-(7) Ship-to-ship communications are limited to ships located more than 30 km offshore, or closer only where the main beam of the transmit antenna is oriented at least 15 degrees away from any point on the shore. 
+(7) Ship-to-ship communications are limited to ships located more than 30 km offshore, or closer only where the main beam of the transmit antenna is oriented at least 15 degrees away from any point on the shore.
 
-(8) Ship stations and aerostat stations must only operate when there is a minimum separation of 150 km to the specific Federal facilities and not within the areas listed in table 3 to paragraph (c)(1) of this section, absent a coordination agreement with the Federal operator. 
+(8) Ship stations and aerostat stations must only operate when there is a minimum separation of 150 km to the specific Federal facilities and not within the areas listed in table 3 to paragraph (c)(1) of this section, absent a coordination agreement with the Federal operator.
 
-(9) Shore-to-ship and ship-to-shore transmission must only occur between stations that are located at least 10 km from the Federal military installations listed in table 4 to paragraph (c)(2) of this section, absent a coordination agreement with the Federal operator. 
+(9) Shore-to-ship and ship-to-shore transmission must only occur between stations that are located at least 10 km from the Federal military installations listed in table 4 to paragraph (c)(2) of this section, absent a coordination agreement with the Federal operator.
 
-(c) *Protected Federal sites.* (1) RAS and VLBA sites: 
+(c) *Protected Federal sites.* (1) RAS and VLBA sites:
 
 Table 3 to Paragraph (c)(1)
 | RAS station name                                                         | North   latitude                                                                                               | West   longitude |
@@ -98,7 +98,7 @@ Table 3 to Paragraph (c)(1)
 | National Radio Quiet Zone                                                | Rectangular area between latitudes 37°30′ N and 39°15′ N, and longitudes 78°30′ W and 80°30′ W.                |                  |
 | Next-generation Very Large Array (ngVLA)                                 | Rectangular area between latitudes 31°22′1.9″ N and 34°23′10″ N, and longitudes 109°1′53.4″ W and 103°4′39″ W. |                  |
 
-(2) Military installations: 
+(2) Military installations:
 
 Table 4 to Paragraph (c)(2)
 | Military installation                                        | Latitude    | Longitude    |

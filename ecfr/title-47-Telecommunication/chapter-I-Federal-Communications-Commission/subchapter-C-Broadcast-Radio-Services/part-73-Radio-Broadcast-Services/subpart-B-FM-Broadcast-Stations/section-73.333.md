@@ -1,6 +1,6 @@
 ##### § 73.333 Engineering charts.
 
-This section consists of the following Figures 1, 1a, 2, and slider 4 and 5. 
+This section consists of the following Figures 1, 1a, 2, and slider 4 and 5.
 
 Note:
 

@@ -1,6 +1,6 @@
 ##### § 404.1047 Annual wage limitation.
 
-Payments made by an employer to you as an employee in a calendar year that are more than the annual wage limitation are not wages. The annual wage limitation is: 
+Payments made by an employer to you as an employee in a calendar year that are more than the annual wage limitation are not wages. The annual wage limitation is:
 
 | Calendar year | Wage limitation |
 | ------------- | --------------- |

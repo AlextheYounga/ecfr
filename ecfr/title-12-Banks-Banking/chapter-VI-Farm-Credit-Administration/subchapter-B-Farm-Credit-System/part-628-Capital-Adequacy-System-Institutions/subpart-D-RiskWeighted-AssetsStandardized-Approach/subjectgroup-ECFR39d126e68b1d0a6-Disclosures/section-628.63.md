@@ -1,7 +1,5 @@
 ##### § 628.63 Disclosures.
 
-Link to an amendment published at 89 FR 25130, Apr. 10, 2024.
-
 (a) Except as provided in § 628.62, a System bank must make the disclosures described in Tables 1 through 10 of this section. The System bank must make these disclosures publicly available for each of the last 3 years (that is, 12 quarters) or such shorter period beginning on January 1, 2017.
 
 (b) A System bank must publicly disclose each quarter the following:
@@ -58,7 +56,7 @@ Table 3 to § 628.63—Capital Adequacy
 |                          | (5) Exposures to PSEs;                                                                                                                                                                                     |
 |                          | (6) Corporate exposures, including borrower loans (including agricultural and consumer loans) and OFI exposures that are not risk weighted as exposures to U.S. depository institutions and credit unions; |
 |                          | (7) Residential mortgage exposures;                                                                                                                                                                        |
-|                          | (8) \[Reserved\]                                                                                                                                                                                           |
+|                          | (8) HVCRE exposures;                                                                                                                                                                                       |
 |                          | (9) Past due and nonaccrual exposures;                                                                                                                                                                     |
 |                          | (10) Exposures to other assets;                                                                                                                                                                            |
 |                          | (11) Cleared transactions;                                                                                                                                                                                 |
@@ -189,4 +187,4 @@ Table 10 to § 628.63—Interest Rate Risk for Non-Trading Activities
 | Qualitative disclosures  | (a) The general qualitative disclosure requirement, including the nature of interest rate risk for non-trading activities and key assumptions, including assumptions regarding loan prepayments and behavior of non-maturity deposits, and frequency of measurement of interest rate risk for non-trading activities. |
 | Quantitative disclosures | (b) The increase (decline) in earnings or economic value (or market value of equity or other relevant measure used by management) for upward and downward rate shocks according to management's method for measuring interest rate risk for non-trading activities, categorized by currency (as appropriate).         |
 
-\[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021; 87 FR 27493, May 9, 2022\]
+\[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021; 87 FR 27493, May 9, 2022; 89 FR 25130, Apr. 10, 2024\]

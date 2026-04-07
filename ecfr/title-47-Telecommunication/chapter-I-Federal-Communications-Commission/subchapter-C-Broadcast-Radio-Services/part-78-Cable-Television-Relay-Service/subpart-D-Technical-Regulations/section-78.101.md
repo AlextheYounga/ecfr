@@ -1,6 +1,6 @@
 ##### § 78.101 Power limitations.
 
-(a) On any authorized frequency, the average power delivered to an antenna shall be the minimum amount of power necessary to carry out the communications desired. In no event shall the average transmitter power or equivalent isotropically radiated power (EIRP) exceed the values specified below. 
+(a) On any authorized frequency, the average power delivered to an antenna shall be the minimum amount of power necessary to carry out the communications desired. In no event shall the average transmitter power or equivalent isotropically radiated power (EIRP) exceed the values specified below.
 
 | Frequency band   (MHz)                                                                                                                                                                                                                                    | Maximum allowable transmitter power—mobile (W) | Maximum allowable EIRP 1 2 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------- |
@@ -14,8 +14,8 @@
 | 1 The power delivered to the antenna is limited to −3 dBW.                                                                                                                                                                                                |                                                |                            |
 | 2 Stations licensed based on an application filed before April 16, 2003, for EIRP values exceeding those specified above, may continue to operate indefinitely in accordance with the terms of their current authorizations, subject to periodic renewal. |                                                |                            |
 
-(b) LDS stations shall use for the visual signal-vestigial sideband AM transmission. When vestigial sideband AM transmission is used the peak power of the visual signal on all channels shall be maintained within 2 dB of equality. The mean power of the aural signal on each channel shall not exceed a level of 7 dB below the peak power of the visual signal. 
+(b) LDS stations shall use for the visual signal-vestigial sideband AM transmission. When vestigial sideband AM transmission is used the peak power of the visual signal on all channels shall be maintained within 2 dB of equality. The mean power of the aural signal on each channel shall not exceed a level of 7 dB below the peak power of the visual signal.
 
-(c) The EIRP of transmitters that use Automatic Transmitter Power Control (ATPC) shall not exceed the EIRP specified on the station authorization. The EIRP of non-ATPC transmitters shall be maintained as near as practicable to the EIRP specified on the station authorization. 
+(c) The EIRP of transmitters that use Automatic Transmitter Power Control (ATPC) shall not exceed the EIRP specified on the station authorization. The EIRP of non-ATPC transmitters shall be maintained as near as practicable to the EIRP specified on the station authorization.
 
 \[45 FR 78694, Nov. 26, 1980, as amended at 52 FR 7144, Mar. 9, 1987; 65 FR 48182, Aug. 7, 2000; 68 FR 12776, Mar. 17, 2003\]

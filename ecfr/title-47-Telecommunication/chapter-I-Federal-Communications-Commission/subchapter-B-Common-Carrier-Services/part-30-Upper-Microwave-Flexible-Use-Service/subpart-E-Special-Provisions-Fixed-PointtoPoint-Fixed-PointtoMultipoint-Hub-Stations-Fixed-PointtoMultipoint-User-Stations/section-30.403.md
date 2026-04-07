@@ -1,8 +1,8 @@
 ##### § 30.403 Bandwidth.
 
-(a) Stations under this subpart will be authorized any type of emission, method of modulation, and transmission characteristic, consistent with efficient use of the spectrum and good engineering practice. 
+(a) Stations under this subpart will be authorized any type of emission, method of modulation, and transmission characteristic, consistent with efficient use of the spectrum and good engineering practice.
 
-(b) The maximum bandwidth authorized per frequency to stations under this subpart is set out in the table that follows. 
+(b) The maximum bandwidth authorized per frequency to stations under this subpart is set out in the table that follows.
 
 | Frequency band   (MHz)                                                                                                                                                                               | Maximum   authorized   bandwidth |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
