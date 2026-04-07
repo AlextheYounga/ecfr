@@ -1,4 +1,4 @@
-##### § 1778.10 Restrictions.
+##### § 1778.10 Restrictions on use of grant funds.
 
 (a) Grant funds may not be used to:
 
