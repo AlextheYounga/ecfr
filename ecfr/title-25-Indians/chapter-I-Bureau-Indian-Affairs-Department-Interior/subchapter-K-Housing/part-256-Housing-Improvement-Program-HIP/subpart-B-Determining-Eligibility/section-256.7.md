@@ -1,6 +1,6 @@
 ##### § 256.7 What housing services are available?
 
-Four categories of assistance are available under the HIP, as outlined in the following table.
+Four categories of assistance are available under the HIP, as outlined in the following table. 
 
 | Type of assistance | What it provides                                                                                                                                                                                                                                                                                                                                                                    | Where to find information |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |

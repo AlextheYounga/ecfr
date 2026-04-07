@@ -1,6 +1,6 @@
 ##### § 11.450 Maximum fines and sentences of imprisonment.
 
-A person convicted of an offense under the regulations in this part may be sentenced as follows:
+A person convicted of an offense under the regulations in this part may be sentenced as follows: 
 
 | Type of offense       | Maximum allowable sentence                                    |
 | --------------------- | ------------------------------------------------------------- |

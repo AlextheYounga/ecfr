@@ -1,6 +1,6 @@
 ##### § 170.619 Do Tribal preference and Indian preference apply to TTP funding?
 
-Tribal preference and Indian preference apply to TTP funding as shown in the following table:
+Tribal preference and Indian preference apply to TTP funding as shown in the following table: 
 
 | If . . .                                                        | Then . . .                                                                                                                                   |
 | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |

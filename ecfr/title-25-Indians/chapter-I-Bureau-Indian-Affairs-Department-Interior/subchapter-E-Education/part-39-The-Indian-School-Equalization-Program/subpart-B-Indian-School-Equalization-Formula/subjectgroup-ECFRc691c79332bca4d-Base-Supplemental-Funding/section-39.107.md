@@ -1,6 +1,6 @@
 ##### § 39.107 Are schools allotted supplemental funds for special student and/or school costs?
 
-Yes, schools are allotted supplemental funds for special student and/or school costs. ISEF provides additional funds to schools through add-on weights (called special cost factors). ISEF adds special cost factors as shown in the following table.
+Yes, schools are allotted supplemental funds for special student and/or school costs. ISEF provides additional funds to schools through add-on weights (called special cost factors). ISEF adds special cost factors as shown in the following table. 
 
 | Cost Factor                              | For more information see |
 | ---------------------------------------- | ------------------------ |

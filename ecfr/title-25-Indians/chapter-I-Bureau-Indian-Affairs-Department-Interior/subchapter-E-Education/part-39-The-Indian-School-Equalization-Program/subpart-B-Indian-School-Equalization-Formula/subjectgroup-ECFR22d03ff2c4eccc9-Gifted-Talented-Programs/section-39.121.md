@@ -1,6 +1,6 @@
 ##### § 39.121 What is the WSU for gifted and talented students?
 
-The WSU for a gifted and talented student is the base academic weight (see § 39.103) subtracted from 2.0. The following table shows the gifted and talented weights obtained using this procedure.
+The WSU for a gifted and talented student is the base academic weight (see § 39.103) subtracted from 2.0. The following table shows the gifted and talented weights obtained using this procedure. 
 
 | Grade level    | Gifted and talented WSU |
 | -------------- | ----------------------- |

@@ -1,8 +1,8 @@
 ##### § 162.593 Will late payment charges or special fees apply to delinquent payments due under a WSR lease?
 
-(a) Late payment charges will apply as specified in the lease. The failure to pay these amounts will be treated as a lease violation.
+(a) Late payment charges will apply as specified in the lease. The failure to pay these amounts will be treated as a lease violation. 
 
-(b) We may assess the following special fees to cover administrative costs incurred by the United States in the collection of the debt, if compensation is not paid in the time and manner required, in addition to late payment charges that must be paid to the Indian landowners under the lease:
+(b) We may assess the following special fees to cover administrative costs incurred by the United States in the collection of the debt, if compensation is not paid in the time and manner required, in addition to late payment charges that must be paid to the Indian landowners under the lease: 
 
 | The lessee will pay . . .     | For . . .                                                                 |
 | ----------------------------- | ------------------------------------------------------------------------- |

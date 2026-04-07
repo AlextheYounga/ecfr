@@ -1,6 +1,6 @@
 ##### § 166.406 Whose grazing rental rate will be applicable for a permit on government land?
 
-The following grazing rental rate schedule will apply for government land:
+The following grazing rental rate schedule will apply for government land: 
 
 | If you are \* \* \*                      | And if \* \* \*                                                                | Then you will pay \* \* \* |
 | ---------------------------------------- | ------------------------------------------------------------------------------ | -------------------------- |

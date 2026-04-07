@@ -1,27 +1,27 @@
 ##### § 36.22 Standard VII—Elementary instructional program.
 
-(a) The elementary instruction programs, grades one through six, shall include but need not be limited to:
+(a) The elementary instruction programs, grades one through six, shall include but need not be limited to: 
 
-(1) Language arts.
+(1) Language arts. 
 
-(2) Mathematics.
+(2) Mathematics. 
 
-(3) Social studies.
+(3) Social studies. 
 
-(4) Sciences.
+(4) Sciences. 
 
-(5) Fine arts.
+(5) Fine arts. 
 
-(6) Physical education.
+(6) Physical education. 
 
-(b) Each school shall integrate the following content areas into its curriculum:
+(b) Each school shall integrate the following content areas into its curriculum: 
 
-(1) Career awareness,
+(1) Career awareness, 
 
-(2) Environmental and safety education,
+(2) Environmental and safety education, 
 
-(3) Health education (includes requirements contained in 24 Stat. 69),
+(3) Health education (includes requirements contained in 24 Stat. 69), 
 
-(4) Metric education, and
+(4) Metric education, and 
 
 (5) Computer literacy.

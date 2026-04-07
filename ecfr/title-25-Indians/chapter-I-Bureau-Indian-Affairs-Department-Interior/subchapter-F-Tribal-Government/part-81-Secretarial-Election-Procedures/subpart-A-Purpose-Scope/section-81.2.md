@@ -1,6 +1,6 @@
 ##### § 81.2 When does this part apply?
 
-(a) This part applies only to federally recognized tribes, in the circumstances shown in the following table.
+(a) This part applies only to federally recognized tribes, in the circumstances shown in the following table. 
 
 | If a tribe wants to . . .                                                       | And . . .                                                                                                    |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -13,6 +13,6 @@
 | (7) Take other action                                                           | A Federal statute or tribal law requires a Secretarial election in order to take that action.                |
 | (8) Remove the requirement for a Secretarial approval from a governing document | A Federal statute or tribal law requires a Secretarial election in order to take that action.                |
 
-(b) Secretarial elections will be conducted in accordance with the procedures in this part unless the amendment article of the tribe's governing document provides otherwise and is not contrary to Federal voting qualifications or substantive provisions, in which case the provisions of those documents shall rule, where applicable.
+(b) Secretarial elections will be conducted in accordance with the procedures in this part unless the amendment article of the tribe's governing document provides otherwise and is not contrary to Federal voting qualifications or substantive provisions, in which case the provisions of those documents shall rule, where applicable. 
 
 (c) If the amendment provisions of a tribal governing document have become outdated and the amendment cannot be effected under them, and the recognized tribal governing body requests a Secretarial election, the Bureau may authorize a Secretarial election under this part to amend the documents.

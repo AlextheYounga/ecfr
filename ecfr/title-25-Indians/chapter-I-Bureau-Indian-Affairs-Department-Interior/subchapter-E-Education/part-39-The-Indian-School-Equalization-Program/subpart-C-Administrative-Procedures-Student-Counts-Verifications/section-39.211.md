@@ -1,6 +1,6 @@
 ##### § 39.211 What other categories of students can a school count for membership purposes?
 
-A school can count other categories of students for membership purposes as shown in the following table.
+A school can count other categories of students for membership purposes as shown in the following table. 
 
 | Type of   student                                             | Circumstances under which student can be included in the school's membership                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

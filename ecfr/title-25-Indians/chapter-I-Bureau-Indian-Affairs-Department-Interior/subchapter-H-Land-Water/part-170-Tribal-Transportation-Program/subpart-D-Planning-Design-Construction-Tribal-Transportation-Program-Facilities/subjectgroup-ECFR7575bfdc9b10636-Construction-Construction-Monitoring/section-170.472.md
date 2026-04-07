@@ -1,6 +1,6 @@
 ##### § 170.472 What construction records must Tribes and BIA keep?
 
-The following table shows which TTP construction records BIA and Tribes must keep and the requirements for access.
+The following table shows which TTP construction records BIA and Tribes must keep and the requirements for access. 
 
 | Record keeper | Records that must be kept                                                                                   | Access requirements                                                                                                                                                                                              |
 | ------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

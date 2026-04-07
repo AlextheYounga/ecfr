@@ -1,6 +1,6 @@
 ##### § 166.910 What happens if I do not fulfill my obligation to the BIA?
 
-(a) Any individual who accepts financial support under agriculture education programs with an obligated service requirement, and who does not accept employment or unreasonably terminates employment must repay us in accordance with the following table:
+(a) Any individual who accepts financial support under agriculture education programs with an obligated service requirement, and who does not accept employment or unreasonably terminates employment must repay us in accordance with the following table: 
 
 | If you are...                   | Then the costs that you must repay are...                                                  | And then the costs that you do not need to repay are...                                      |
 | ------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |

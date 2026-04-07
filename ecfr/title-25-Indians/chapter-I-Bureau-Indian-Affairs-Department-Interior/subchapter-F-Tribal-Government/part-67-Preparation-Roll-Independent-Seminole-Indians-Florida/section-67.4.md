@@ -1,10 +1,10 @@
 ##### § 67.4 Qualifications for enrollment and the deadline for filing application forms.
 
-(a) The roll shall contain the names of persons of Seminole Indian descent who:
+(a) The roll shall contain the names of persons of Seminole Indian descent who: 
 
-(1) Were born on or before, and living on April 30, 1990;
+(1) Were born on or before, and living on April 30, 1990; 
 
-(2) Are listed on or who are lineal descendants of persons listed on the annotated Seminole Agency Census of 1957 as Independent Seminoles; and
+(2) Are listed on or who are lineal descendants of persons listed on the annotated Seminole Agency Census of 1957 as Independent Seminoles; and 
 
 (3) Are not members of an Indian tribe recognized by the Secretary on the most recent list of such Indian tribes published in the Federal Register.
 

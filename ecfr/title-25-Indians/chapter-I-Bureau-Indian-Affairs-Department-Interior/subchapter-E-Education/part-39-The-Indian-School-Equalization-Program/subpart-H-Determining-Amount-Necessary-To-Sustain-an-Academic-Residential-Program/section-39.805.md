@@ -1,6 +1,6 @@
 ##### § 39.805 What was the student unit for instruction value (SUIV) for the school year 1999-2000?
 
-The process described in § 39.804 is illustrated in the table below, using figures for the 1999-2000 school year:
+The process described in § 39.804 is illustrated in the table below, using figures for the 1999-2000 school year: 
 
 | Step 1 | $8,030 | ANACE.                                                                     |
 | Step 2 | −1205  | Average specific Federal share of total revenue for Bureau-funded schools. |

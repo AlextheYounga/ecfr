@@ -1,6 +1,6 @@
 ##### § 23.104 What provisions of this subpart apply to each type of child-custody proceeding?
 
-The following table lists what sections of this subpart apply to each type of child-custody proceeding identified in § 23.103(a):
+The following table lists what sections of this subpart apply to each type of child-custody proceeding identified in § 23.103(a): 
 
 | Section                                                                                                                                                                   | Type of proceeding                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |

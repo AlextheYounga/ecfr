@@ -1,6 +1,6 @@
 ##### § 20.501 What services can be paid for with Child Assistance funds?
 
-The social services program can use Child Assistance funds to pay for services as shown in the following table.
+The social services program can use Child Assistance funds to pay for services as shown in the following table. 
 
 | Service that can be paid                                                         | Conditions that must be met                                                                                                                                                                    | Maximum payment level                                                              |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |

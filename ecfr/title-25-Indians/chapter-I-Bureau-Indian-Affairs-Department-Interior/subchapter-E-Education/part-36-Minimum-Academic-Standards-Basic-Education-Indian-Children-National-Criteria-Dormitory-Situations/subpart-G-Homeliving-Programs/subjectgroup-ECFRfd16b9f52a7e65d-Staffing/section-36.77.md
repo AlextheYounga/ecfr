@@ -1,8 +1,8 @@
 ##### § 36.77 What are the homeliving staffing requirements?
 
-Homeliving programs must meet the staffing requirements of this section.
+Homeliving programs must meet the staffing requirements of this section. 
 
-(a) Effective with the 2009-2010 school year, each homeliving program must maintain the following student minimum supervisory requirements on weekdays:
+(a) Effective with the 2009-2010 school year, each homeliving program must maintain the following student minimum supervisory requirements on weekdays: 
 
 | Grade level            | Time of day   | Ratio            |
 | ---------------------- | ------------- | ---------------- |
@@ -16,7 +16,7 @@ Homeliving programs must meet the staffing requirements of this section.
 |                        | Evening       | 1:30.            |
 |                        | Night         | 1:50.            |
 
-(b) The following staffing ratios apply on weekends:
+(b) The following staffing ratios apply on weekends: 
 
 | Grade level            | Time of day | Ratio |
 | ---------------------- | ----------- | ----- |

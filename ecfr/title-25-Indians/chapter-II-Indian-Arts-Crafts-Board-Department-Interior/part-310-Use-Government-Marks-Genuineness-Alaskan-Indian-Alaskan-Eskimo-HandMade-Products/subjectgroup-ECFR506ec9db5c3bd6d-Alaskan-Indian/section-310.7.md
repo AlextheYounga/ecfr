@@ -1,6 +1,6 @@
 ##### § 310.7 Application of mark.
 
-All marks shall be applied to the article with a rubber stamp to be furnished by the Indian Arts and Crafts Board. Each stamp shall bear a distinctive letter and may be used only by the person to whom it has been issued. With the addition of the distinctive letter, each stamp shall read:
+All marks shall be applied to the article with a rubber stamp to be furnished by the Indian Arts and Crafts Board. Each stamp shall bear a distinctive letter and may be used only by the person to whom it has been issued. With the addition of the distinctive letter, each stamp shall read: 
 
 ( ) Hand-Made Alaskan Eskimo U S Indian Arts & Crafts Board I D or, in the case of articles too small to carry this stamp: ( ) U S I D Alaskan Eskimo
 

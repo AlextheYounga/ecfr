@@ -1,6 +1,6 @@
 ##### § 170.474 Who conducts the project closeout?
 
-The following table shows who must conduct the TTP construction project closeout and develop the report.
+The following table shows who must conduct the TTP construction project closeout and develop the report. 
 
 | If the project was   completed by . . . | then . . .                                                                                                                           | and the closeout report must . . .                                                                                                                                                                                                                                                                                                                                                               |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,12 +1,12 @@
 ##### § 256.14 How is my application processed?
 
-(a) The servicing housing office will review your application. If your application is incomplete, the office will notify you, in writing, of what is needed to complete your application and of the date by which it must be submitted. If you do not return your application by the deadline date, you will not be considered for assistance in that program year.
+(a) The servicing housing office will review your application. If your application is incomplete, the office will notify you, in writing, of what is needed to complete your application and of the date by which it must be submitted. If you do not return your application by the deadline date, you will not be considered for assistance in that program year. 
 
-(b) The servicing housing office will use your completed application to determine if you are eligible for the HIP.
+(b) The servicing housing office will use your completed application to determine if you are eligible for the HIP. 
 
-(1) If you are found ineligible for the program, the servicing housing office will advise you in writing within 45 days of receipt of your completed application.
+(1) If you are found ineligible for the program, the servicing housing office will advise you in writing within 45 days of receipt of your completed application. 
 
-(2) If you are found eligible for the program, the servicing housing office will assess your application for need, according to the factors and numeric values shown in the following table.
+(2) If you are found eligible for the program, the servicing housing office will assess your application for need, according to the factors and numeric values shown in the following table. 
 
 | Factor | Ranking factor and definition                                                                                                                                                                                                                                     | Ranking description                                       | Point value                                                         |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -28,30 +28,30 @@
 | 5      | Other conditions:   • Veteran.   • Homeless or Dilapidated house.   • Overcrowded conditions.   Maximum points awarded under this factor is 15                                                                                                                    | If any of the conditions are present                      | 5 for each condition that applies.                                  |
 | 6      | Applicants with an approved financing package                                                                                                                                                                                                                     | If applicant has approved financing                       | 25.                                                                 |
 
-(c) The servicing housing office will develop a list of the applications received and considered for the HIP for the current program year. The list will include, at a minimum, all of the following:
+(c) The servicing housing office will develop a list of the applications received and considered for the HIP for the current program year. The list will include, at a minimum, all of the following: 
 
-(1) The number of applications received and, of those, the number considered.
+(1) The number of applications received and, of those, the number considered. 
 
-(2) The rank assigned to applicants in order of need, from highest to lowest, in accordance with tribal approval and knowledge of need, based on the total numeric value assigned using the factors in paragraph (b) of this section. (In case of a tie, the family with the lower income per household member will be listed first.)
+(2) The rank assigned to applicants in order of need, from highest to lowest, in accordance with tribal approval and knowledge of need, based on the total numeric value assigned using the factors in paragraph (b) of this section. (In case of a tie, the family with the lower income per household member will be listed first.) 
 
-(3) The estimated allowable costs of the improvements, renovations, and replacement projects for each applicant and for the entire priority list. This data must identify which applicants will be served based on the amount of available funding, starting with the neediest applicant and continuing until the available funding is depleted.
+(3) The estimated allowable costs of the improvements, renovations, and replacement projects for each applicant and for the entire priority list. This data must identify which applicants will be served based on the amount of available funding, starting with the neediest applicant and continuing until the available funding is depleted. 
 
-(4) A list of the applicants not ranked, with an explanation of why they weren't ranked (such as the reason for ineligibility or the reason for incomplete application).
+(4) A list of the applicants not ranked, with an explanation of why they weren't ranked (such as the reason for ineligibility or the reason for incomplete application). 
 
-(d) The servicing housing office submits to the regional office an annual fiscal year report that includes all of the following:
+(d) The servicing housing office submits to the regional office an annual fiscal year report that includes all of the following: 
 
-(1) Number of eligible applicants;
+(1) Number of eligible applicants; 
 
-(2) Number of applicants who received service;
+(2) Number of applicants who received service; 
 
-(3) Names of applicants who received service; and
+(3) Names of applicants who received service; and 
 
-(4) All of the following for each applicant that received service:
+(4) All of the following for each applicant that received service: 
 
-(i) Date of construction start;
+(i) Date of construction start; 
 
-(ii) Date of construction completion;
+(ii) Date of construction completion; 
 
-(iii) Cost; and
+(iii) Cost; and 
 
 (iv) HIP category.

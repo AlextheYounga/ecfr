@@ -1,6 +1,6 @@
 ##### § 166.404 Whose grazing rental rate will be applicable for a permit on tribal land?
 
-The following grazing rental rate schedule will apply for tribal land:
+The following grazing rental rate schedule will apply for tribal land: 
 
 | If you are \* \* \*                                                               | And if \* \* \*                                    | Then you will pay \* \* \*                                               |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------ |

@@ -1,10 +1,10 @@
 ##### § 265.1 Definition of roadless area.
 
-A roadless area has been defined as one which contains no provision for the passage of motorized transportation and which is at least 100,000 acres in extent. Under this definition the Secretary of the Interior ordered (3 FR 609, Mar. 22, 1938) certain roadless areas established on Indian reservations. The following is the only presently existing roadless area:
+A roadless area has been defined as one which contains no provision for the passage of motorized transportation and which is at least 100,000 acres in extent. Under this definition the Secretary of the Interior ordered (3 FR 609, Mar. 22, 1938) certain roadless areas established on Indian reservations. The following is the only presently existing roadless area: 
 
 Name of area—Wind River Reserve. Reservation—Shoshone. State—Wyoming. Approximate acreage—180,387
 
-(a) The boundaries of the Wind River Reserve roadless area are as follows:
+(a) The boundaries of the Wind River Reserve roadless area are as follows: 
 
 Wind River Meridian, Wyo.
 

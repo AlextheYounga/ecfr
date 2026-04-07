@@ -1,6 +1,6 @@
 ##### § 39.103 What are the factors used to determine base funding?
 
-To determine base funding, schools must use the factors shown in the following table. The school must apply the appropriate factor to each student for funding purposes.
+To determine base funding, schools must use the factors shown in the following table. The school must apply the appropriate factor to each student for funding purposes. 
 
 | Grade level  | Base   academic   funding factor | Base   residential   funding factor |
 | ------------ | -------------------------------- | ----------------------------------- |

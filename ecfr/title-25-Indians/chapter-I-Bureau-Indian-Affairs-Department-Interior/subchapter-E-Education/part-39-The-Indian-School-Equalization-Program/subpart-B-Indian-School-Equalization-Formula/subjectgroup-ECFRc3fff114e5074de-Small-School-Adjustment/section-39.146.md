@@ -1,6 +1,6 @@
 ##### § 39.146 Is there an adjustment for small residential programs?
 
-In order to compensate for the additional costs of operating a small residential program, OIEP will add to the total WSUs of each qualifying school as shown in the following table:
+In order to compensate for the additional costs of operating a small residential program, OIEP will add to the total WSUs of each qualifying school as shown in the following table: 
 
 | Type of residential program                                           | Number of WSUs added                                                                     |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |

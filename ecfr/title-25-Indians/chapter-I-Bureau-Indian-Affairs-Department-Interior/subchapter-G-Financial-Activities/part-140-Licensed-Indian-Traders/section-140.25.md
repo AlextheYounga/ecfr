@@ -1,6 +1,6 @@
 ##### § 140.25 Trade in antiquities prohibited.
 
-Traders shall not deal in objects of antiquity removed from any historic or prehistoric ruin or monument on land owned or controlled by the United States.
+Traders shall not deal in objects of antiquity removed from any historic or prehistoric ruin or monument on land owned or controlled by the United States. 
 
 Cross Reference:
 

@@ -1,6 +1,6 @@
 ##### § 170.606 How do legislation and procurement requirements affect the TTP?
 
-Other legislation and procurement requirements apply to the TTP as shown in the following table:
+Other legislation and procurement requirements apply to the TTP as shown in the following table: 
 
 | Legislation, regulation or other requirement                                                                  | Applies to Tribes under self-   determination   contracts | Applies to Tribes under self-   governance   agreements | Applies to Tribes under BIA or FHWA program agreements | Applies to   activities   performed by the Secretary |
 | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------- |

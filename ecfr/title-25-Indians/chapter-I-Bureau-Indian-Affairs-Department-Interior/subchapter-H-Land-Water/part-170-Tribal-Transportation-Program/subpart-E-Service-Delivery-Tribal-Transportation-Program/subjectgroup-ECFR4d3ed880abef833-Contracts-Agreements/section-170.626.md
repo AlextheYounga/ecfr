@@ -1,6 +1,6 @@
 ##### § 170.626 How does a Tribe request a waiver of a Department of Transportation regulation?
 
-A Tribe can request a waiver of a Department of Transportation regulation as shown in the following table:
+A Tribe can request a waiver of a Department of Transportation regulation as shown in the following table: 
 
 | If the Tribe's contract or agreement is with . . . | and . . .                                           | then the Tribe must . . .                                                                                      |
 | -------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |

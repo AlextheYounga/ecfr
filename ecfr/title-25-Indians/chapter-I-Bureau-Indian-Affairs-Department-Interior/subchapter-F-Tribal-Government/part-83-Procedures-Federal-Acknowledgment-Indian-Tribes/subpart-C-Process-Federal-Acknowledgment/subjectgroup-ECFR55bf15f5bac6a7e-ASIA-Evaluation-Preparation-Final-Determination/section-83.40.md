@@ -1,6 +1,6 @@
 ##### § 83.40 When will the Assistant Secretary begin review?
 
-(a) AS-IA will begin his/her review in accordance with the following table:
+(a) AS-IA will begin his/her review in accordance with the following table: 
 
 | If the PF was: | And:                                      | AS-IA will begin review upon:                                                          |
 | -------------- | ----------------------------------------- | -------------------------------------------------------------------------------------- |

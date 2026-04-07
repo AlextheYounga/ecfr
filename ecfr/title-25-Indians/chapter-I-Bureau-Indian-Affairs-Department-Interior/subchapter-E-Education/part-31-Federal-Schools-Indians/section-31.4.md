@@ -1,6 +1,6 @@
 ##### § 31.4 Compulsory attendance.
 
-Compulsory school attendance of Indian children is provided for by law.
+Compulsory school attendance of Indian children is provided for by law. 
 
 (60 Stat. 962; 25 U.S.C. 231) Cross Reference:
 

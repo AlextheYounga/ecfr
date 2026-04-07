@@ -1,6 +1,6 @@
 ##### § 39.230 How will the provisions of this subpart be phased in?
 
-The calculation of the three-year rolling average of ADM for each school and for the entire Bureau-funded school system will be phased-in as shown in the following table.
+The calculation of the three-year rolling average of ADM for each school and for the entire Bureau-funded school system will be phased-in as shown in the following table. 
 
 | Time period                                        | How OIEP must calculate ADM                                                                                                                                                                                                |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

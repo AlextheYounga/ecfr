@@ -1,6 +1,6 @@
 ##### § 2.103 Are all appeals subject to this part?
 
-Not all appeals are subject to this part. Decisions by some Indian Affairs officials may be appealed to the Interior Board of Indian Appeals, subject to the regulations at 43 CFR part 4. Other regulations govern appeals of administrative decisions regarding certain topics. Table 1 to this section lists some decision topics that are subject to different appeals regulations, in whole or in part, and where to find those regulations.
+Not all appeals are subject to this part. Decisions by some Indian Affairs officials may be appealed to the Interior Board of Indian Appeals, subject to the regulations at 43 CFR part 4. Other regulations govern appeals of administrative decisions regarding certain topics. Table 1 to this section lists some decision topics that are subject to different appeals regulations, in whole or in part, and where to find those regulations. 
 
 Table 1 to § 2.103
 | For appeal rights related to . . .                                                                                                                                            | Refer to . . .                                                 |

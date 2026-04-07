@@ -1,6 +1,6 @@
 ##### § 39.145 Can a school receive both a small school adjustment and a small high school adjustment?
 
-A school that meets the criteria in § 39.140 can receive both a small school adjustment and a small high school adjustment. The following table shows the total amount of adjustments for eligible schools by average daily membership (ADM) category.
+A school that meets the criteria in § 39.140 can receive both a small school adjustment and a small high school adjustment. The following table shows the total amount of adjustments for eligible schools by average daily membership (ADM) category. 
 
 | ADM—entire school                                                                                                                      | ADM—high school   component | Small school adjustment | Small high school   adjustment | Total   adjustment |
 | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------------------- | ------------------------------ | ------------------ |

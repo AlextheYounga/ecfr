@@ -1,6 +1,6 @@
 ##### § 2.202 Who decides administrative appeals?
 
-Except where a specific section of this part sets out a different appellate hierarchy, table 1 to this section identifies the reviewing officials for appeals under this part:
+Except where a specific section of this part sets out a different appellate hierarchy, table 1 to this section identifies the reviewing officials for appeals under this part: 
 
 Table 1 to § 2.202
 | Official issuing the decision                             | Reviewing official or IBIA                             |

@@ -1,77 +1,77 @@
 ##### § 543.15 What are the minimum internal control standards for lines of credit?
 
-(a) *Supervision.* Supervision must be provided as needed for lines of credit by an agent(s) with authority equal to or greater than those being supervised.
+(a) *Supervision.* Supervision must be provided as needed for lines of credit by an agent(s) with authority equal to or greater than those being supervised. 
 
-(b) *Establishment of lines of credit policy.* (1) If a gaming operation extends lines of credit, controls must be established and procedures implemented to safeguard the assets of the gaming operation. Such controls must include a lines of credit policy including the following:
+(b) *Establishment of lines of credit policy.* (1) If a gaming operation extends lines of credit, controls must be established and procedures implemented to safeguard the assets of the gaming operation. Such controls must include a lines of credit policy including the following: 
 
-(i) A process for the patron to apply for, modify, and/or re-establish lines of credit, to include required documentation and credit line limit;
+(i) A process for the patron to apply for, modify, and/or re-establish lines of credit, to include required documentation and credit line limit; 
 
-(ii) Authorization levels of credit issuer(s);
+(ii) Authorization levels of credit issuer(s); 
 
-(iii) Identification of agents authorized to issue lines of credit;
+(iii) Identification of agents authorized to issue lines of credit; 
 
-(iv) A process for verifying an applicant's credit worthiness;
+(iv) A process for verifying an applicant's credit worthiness; 
 
-(v) A system for recording patron information, to include:
+(v) A system for recording patron information, to include: 
 
-(A) Name, current address, and signature;
+(A) Name, current address, and signature; 
 
-(B) Identification credential;
+(B) Identification credential; 
 
-(C) Authorized credit line limit;
+(C) Authorized credit line limit; 
 
-(D) Documented approval by an agent authorized to approve credit line limits;
+(D) Documented approval by an agent authorized to approve credit line limits; 
 
-(E) Date, time and amount of credit issuances and payments; and
+(E) Date, time and amount of credit issuances and payments; and 
 
-(F) Amount of available credit.
+(F) Amount of available credit. 
 
-(vi) A process for issuing lines of credit to:
+(vi) A process for issuing lines of credit to: 
 
-(A) Verify the patron's identity;
+(A) Verify the patron's identity; 
 
-(B) Notify the patron of the lines of credit terms, including obtaining patron's written acknowledgment of the terms by signature;
+(B) Notify the patron of the lines of credit terms, including obtaining patron's written acknowledgment of the terms by signature; 
 
-(C) Complete a uniquely identified, multi-part, lines of credit issuance form, such as a marker or counter check, which includes the terms of the lines of credit transaction;
+(C) Complete a uniquely identified, multi-part, lines of credit issuance form, such as a marker or counter check, which includes the terms of the lines of credit transaction; 
 
-(D) Obtain required signatures;
+(D) Obtain required signatures; 
 
-(E) Determine the amount of the patron's available lines of credit;
+(E) Determine the amount of the patron's available lines of credit; 
 
-(F) Update the credit balance record at the time of each transaction to ensure that lines of credit issued are within the established limit and balance for that patron; and
+(F) Update the credit balance record at the time of each transaction to ensure that lines of credit issued are within the established limit and balance for that patron; and 
 
-(G) Require the agent issuing the lines of credit to be independent of the agent who authorized the lines of credit.
+(G) Require the agent issuing the lines of credit to be independent of the agent who authorized the lines of credit. 
 
-(vii) A policy establishing credit line limit exceptions to include the following:
+(vii) A policy establishing credit line limit exceptions to include the following: 
 
-(A) Identification of the agent(s) authorized to permit a credit line limit to be exceeded;
+(A) Identification of the agent(s) authorized to permit a credit line limit to be exceeded; 
 
-(B) Authorization thresholds; and
+(B) Authorization thresholds; and 
 
-(C) Required documentation.
+(C) Required documentation. 
 
-(viii) A policy governing increases and decreases to a patron's lines of credit account balances to include the following:
+(viii) A policy governing increases and decreases to a patron's lines of credit account balances to include the following: 
 
-(A) Documentation and record keeping requirements;
+(A) Documentation and record keeping requirements; 
 
-(B) Independence between the department that receives the payment and the department that maintains custody of the credit balance for payments made by mail;
+(B) Independence between the department that receives the payment and the department that maintains custody of the credit balance for payments made by mail; 
 
-(C) Collections;
+(C) Collections; 
 
-(D) Periodic audits and confirmation of balances; and
+(D) Periodic audits and confirmation of balances; and 
 
-(E) If a collection agency is used, a process to ensure documentation of increases and decreases to the lines of credit account balances.
+(E) If a collection agency is used, a process to ensure documentation of increases and decreases to the lines of credit account balances. 
 
-(ix) A policy governing write-offs and settlements to include:
+(ix) A policy governing write-offs and settlements to include: 
 
-(A) Identification of agent(s) authorized to approve write-offs and settlements;
+(A) Identification of agent(s) authorized to approve write-offs and settlements; 
 
-(B) Authorization levels for write-offs and settlements of lines of credit instruments;
+(B) Authorization levels for write-offs and settlements of lines of credit instruments; 
 
-(C) Required documentation for write-offs and settlements;
+(C) Required documentation for write-offs and settlements; 
 
-(D) Independence between the agent who established the lines of credit and the agent writing off or settling the lines of credit instrument; and
+(D) Independence between the agent who established the lines of credit and the agent writing off or settling the lines of credit instrument; and 
 
-(E) Necessary documentation for the approval of write-offs and settlements and transmittal to the appropriate department for recording and deductibility.
+(E) Necessary documentation for the approval of write-offs and settlements and transmittal to the appropriate department for recording and deductibility. 
 
 (c) *Variances.* The operation must establish, as approved by the TGRA, the threshold level at which a variance must be reviewed to determine the cause. Any such review must be documented.

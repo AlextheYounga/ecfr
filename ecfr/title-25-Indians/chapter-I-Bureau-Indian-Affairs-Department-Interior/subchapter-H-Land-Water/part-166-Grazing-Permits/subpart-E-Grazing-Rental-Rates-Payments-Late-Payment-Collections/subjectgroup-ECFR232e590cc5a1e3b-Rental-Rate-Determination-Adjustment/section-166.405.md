@@ -1,6 +1,6 @@
 ##### § 166.405 Whose grazing rental rate will be applicable for a permit on individually-owned Indian land?
 
-The following grazing rental rate schedule will apply for individually-owned Indian land:
+The following grazing rental rate schedule will apply for individually-owned Indian land: 
 
 | If you are \* \* \*                                                               | Then you will pay \* \* \*                                                                                                                             |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |

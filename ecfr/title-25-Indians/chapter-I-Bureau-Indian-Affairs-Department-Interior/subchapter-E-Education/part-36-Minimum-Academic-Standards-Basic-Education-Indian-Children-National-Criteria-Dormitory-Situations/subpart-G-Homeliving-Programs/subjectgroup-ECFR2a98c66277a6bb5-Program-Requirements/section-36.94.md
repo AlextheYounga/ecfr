@@ -1,39 +1,39 @@
 ##### § 36.94 What must a homeliving handbook contain?
 
-A homeliving handbook must contain all of the following, and may include additional information:
+A homeliving handbook must contain all of the following, and may include additional information: 
 
-(a) Mission/Vision Statement;
+(a) Mission/Vision Statement; 
 
-(b) Discipline Policy;
+(b) Discipline Policy; 
 
-(c) Parent/Student Rights and Responsibilities;
+(c) Parent/Student Rights and Responsibilities; 
 
-(d) Confidentiality;
+(d) Confidentiality; 
 
-(e) Sexual Harassment Policy;
+(e) Sexual Harassment Policy; 
 
-(f) Violence/Bullying Policy;
+(f) Violence/Bullying Policy; 
 
-(g) Homeliving Policies and Procedures;
+(g) Homeliving Policies and Procedures; 
 
-(h) Services Available;
+(h) Services Available; 
 
-(i) Personnel and Position Listing;
+(i) Personnel and Position Listing; 
 
-(j) Emergency Procedures and Contact Numbers;
+(j) Emergency Procedures and Contact Numbers; 
 
-(k) Bank Procedures;
+(k) Bank Procedures; 
 
-(l) Transportation Policy;
+(l) Transportation Policy; 
 
-(m) Check-Out Procedures;
+(m) Check-Out Procedures; 
 
-(n) Dress Code;
+(n) Dress Code; 
 
-(o) Drug/Alcohol Policy;
+(o) Drug/Alcohol Policy; 
 
-(p) Computer Usage Policy;
+(p) Computer Usage Policy; 
 
-(q) Medication Administration Policy and Procedure; and
+(q) Medication Administration Policy and Procedure; and 
 
 (r) Isolation/Separation Policy.
