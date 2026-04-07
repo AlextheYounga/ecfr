@@ -48,7 +48,7 @@ The same method can be extended to cases where an investment company's fiscal qu
 | Index value Nov. 30, 1970 | 87.20 |
 | Change in index value     | 6.79  |
 
-| Quarter ending— | Dividend yield | Rate for each month of quarter (1/12 of annual)> |
+| Quarter ending— | Dividend yield | Rate for each month of quarter (1⁄12 of annual)> |
 | --------------- | -------------- | ------------------------------------------------ |
 | Dec. 1970       | 3.41           | 0.85                                             |
 | Mar. 1971       | 3.10           | .78                                              |
@@ -115,7 +115,7 @@ The same method can be extended to cases where an investment company's fiscal qu
 | Index value Nov. 30, 1970 | 47.41 |
 | Change in index value     | 4.43  |
 
-| Quarter ending | Dividend yield quarterly percent | Rate for each month of quarter (1/12 of annual)> |
+| Quarter ending | Dividend yield quarterly percent | Rate for each month of quarter (1⁄12 of annual)> |
 | -------------- | -------------------------------- | ------------------------------------------------ |
 | Dec. 1970      | 0.79                             | 0.26                                             |
 | Mar. 1971      | .72                              | .24                                              |
