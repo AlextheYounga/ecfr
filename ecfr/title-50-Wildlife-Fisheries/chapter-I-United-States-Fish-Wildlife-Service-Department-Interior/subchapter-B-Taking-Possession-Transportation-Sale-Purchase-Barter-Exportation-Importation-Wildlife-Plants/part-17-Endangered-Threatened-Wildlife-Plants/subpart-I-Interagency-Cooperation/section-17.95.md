@@ -20363,7 +20363,7 @@ Note:
 
 The map provided is for informational purposes only.
 
-![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 87 FR 51928, Aug. 24, 2022.
+![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (f) *Clams and Snails.*
 
@@ -22731,21 +22731,7 @@ Cokendolpher Cave Harvestman (*Texella cokendolpheri*)
 
 (ii) Map 2 of Unit 20 follows:
 
-![](/graphics/er14fe12.002.gif)Braken Bat Cave Meshweaver (*Cicurina venii*)
-
-(1) Critical habitat for the Braken Bat Cave meshweaver in Bexar County, Texas, occurs in Unit 15, as described in this entry and depicted on Map 2 in this entry. Unit 15 is also depicted on Map 1 (index map) provided at paragraph (5) of the entry for the Cokendolpher Cave harvestman in this paragraph (g).
-
-(2) The primary constituent elements of, and the statements regarding developed lands in, critical habitat for the Braken Bat Cave meshweaver are identical to those set forth at paragraphs (2) and (3) of the entry for the Cokendolpher Cave harvestman in this paragraph (g).
-
-(3) Data layers defining this map unit were created using a geographic information system (GIS), which included cave locations, karst zone maps, roads, property boundaries, 2010 aerial photography, and USGS 7.5′ quadrangles. Points were placed on the GIS.
-
-(4) Unit 15: Bexar County, Texas.
-
-(i) \[Reserved\]
-
-(ii) Map 2 of Unit 15 follows:
-
-![](/graphics/er14fe12.003.gif)Government Canyon Bat Cave Meshweaver (*Cicurina vespera*)
+![](/graphics/er14fe12.002.gif)Government Canyon Bat Cave Meshweaver (*Cicurina vespera*)
 
 (1) Critical habitat for the Government Canyon Bat Cave meshweaver in Bexar County, Texas, occurs in Unit 1b, as described in this entry and depicted on Map 2 in this entry. Unit 1b is also depicted on Map 1 (index map) provided at paragraph (5) of the entry for the Cokendolpher Cave harvestman in this paragraph (g).
 

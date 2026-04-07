@@ -20,8 +20,6 @@
 
 (v) NMFS shall make overage determinations and implement any changes to ACLs or sub-ACLs, through notification in the Federal Register, and if possible, prior to the start of the fishing year during which the reduction would occur.
 
-(3) *ACL overage deduction.* If NMFS determines that total catch exceeded any ACL or sub-ACL for a fishing year, then the amount of the overage shall be subtracted from that ACL or sub-ACL for the fishing year following total catch determination. NMFS shall make such determinations and implement any changes to ACLs or sub-ACLs, in accordance with the APA, through notification in the Federal Register, prior to the start of the fishing year, if possible, during which the reduction would occur.
-
 (4) *River herring and shad catch cap.* (i) The catch from all trips that land more than 6,600 lb (3 mt) of herring shall apply to the river herring and shad catch cap in the herring fishery. Caps by gear and by area shall be established through the specifications process described in § 648.201.
 
 (ii) Beginning on the date that NMFS projects that river herring and shad catch will reach 95 percent of a catch cap for specified gear applicable to an area specified in § 648.200(f)(7) for the remainder of the fishing year, vessels may not attempt or do any of the following: Fish for, possess, transfer, receive, land, or sell more than 2,000 lb (907.2 kg) of Atlantic herring per trip using the applicable gear in the applicable catch cap closure area, specified in § 648.200(f)(8), and from landing herring more than once per calendar day, except as provided in paragraphs (b) and (c) of this section. NMFS shall implement these restrictions in accordance with the APA.
