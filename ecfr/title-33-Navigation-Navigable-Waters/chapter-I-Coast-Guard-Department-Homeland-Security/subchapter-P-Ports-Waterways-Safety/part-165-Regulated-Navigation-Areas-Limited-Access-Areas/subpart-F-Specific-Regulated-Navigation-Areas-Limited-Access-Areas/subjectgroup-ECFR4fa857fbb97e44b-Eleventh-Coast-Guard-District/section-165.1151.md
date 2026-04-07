@@ -16,7 +16,7 @@
 
 (3) When any LHG tank vessels approach within 500 yards of a vessel that is moored or anchored, the stationary vessel must stay moored or anchored while it remains within the LHG tank vessel's security zone unless it is either ordered by or given permission from the Captain of the Port Los Angeles-Long Beach to do otherwise.
 
-(d) *Authority.* In addition to 33 U.S.C. 1231 and 50 U.S.C. 191, the authority for this section includes 33 U.S.C. 1226.
+(d) *Authority.* In addition to 46 U.S.C. 70034 and 46 U.S.C. 70051, the authority for this section includes 46 U.S.C. 70116.
 
 (e) *Enforcement.* The U.S. Coast Guard may be assisted in the patrol and enforcement of these security zones by the Los Angeles Port Police and the Long Beach Police Department.
 

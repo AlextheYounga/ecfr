@@ -16,7 +16,7 @@
 
 (6) All other relevant regulations, including but not limited to the Rules of the Road, as codified in 33 CFR Subchapter E, Inland Navigational Rules, remain in effect within this RNA and must be strictly followed at all times.
 
-(d) *Penalties.* Those who violate this section are subject to the penalties set forth in 33 U.S.C. 1232.
+(d) *Penalties.* Those who violate this section are subject to the penalties set forth in 46 U.S.C. 70036.
 
 (e) *Enforcement period.* This RNA's speed and beam restrictions are enforceable 24 hours a day as long as this RNA is in place. The Coast Guard will enforce waterway closures only when necessary to protect people and vessels from hazards associated with bridge construction.
 

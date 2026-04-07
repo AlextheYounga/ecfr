@@ -4,7 +4,7 @@
 
 (b) *Regulations.* In accordance with § 165.33, entry into this zone is prohibited unless authorized by the Captain of the Port Columbia River or his designated representatives. Section 165.33 also contains other general requirements.
 
-(c) *Authority.* In addition to 33 U.S.C. 1231, the authority for this section includes 33 U.S.C. 1226.
+(c) *Authority.* In addition to 46 U.S.C. 70034, the authority for this section includes 46 U.S.C. 70116.
 
 (d) *Enforcement period.* This section is enforced annually in June. The event will be 6 days in length and the specific dates of enforcement will be published each year in the Federal Register. In 2015, the zone will be enforced on Wednesday, June 3, through Monday, June 8.
 

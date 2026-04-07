@@ -16,6 +16,6 @@
 
 (2) To obtain permission required by this regulation, individuals may reach the COTP Boston or a COTP designated representative via Channel 16 (VHF-FM) or 617-223-5757 (Sector Boston Command Center).
 
-(3) *Penalties.* Those who violate this section are subject to the penalties set forth in 33 U.S.C. 1232.
+(3) *Penalties.* Those who violate this section are subject to the penalties set forth in 46 U.S.C. 70036.
 
 Effective Date Note:By USCG-2018-0343, 83 FR 46392, Sept. 13, 2018, § 165.T01-0343 was added, effective Oct. 1, 2018 through Apr. 30, 2019.
