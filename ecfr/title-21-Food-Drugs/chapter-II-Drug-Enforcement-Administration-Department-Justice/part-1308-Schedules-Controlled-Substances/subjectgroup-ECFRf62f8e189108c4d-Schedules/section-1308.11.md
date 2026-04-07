@@ -746,7 +746,7 @@ Meaning an extract containing one or more cannabinoids that has been derived fro
 
 (80) 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)propan-1-one (ethylone)
 
-7547 
+7547
 
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
@@ -858,7 +858,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (15) 1-pentyl-3-(2-chlorophenylacetyl)indole (JWH-203)
 
-7203 
+7203
 
 (h) *Temporary listing of substances subject to emergency scheduling.* Any material, compound, mixture or preparation which contains any quantity of the following substances:
 
@@ -986,7 +986,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (48) N,N-diethyl-2-(2-(4 isopropoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: isotonitazene; N,N-diethyl-2-\[\[4-(1-methylethoxy)phenyl\]methyl\]-5-nitro-1H-benzimidazole-1-ethanamine)
 
-9614 
+9614
 
 \[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1\. At 83 FR 31882, July 10, 2018, § 1308.11 was amended by adding paragraphs (h)(31) through (h)(35) effective July 10, 2018, through July 10, 2020. At 85 FR 42296, July 13, 2020, the effective period was extended to July 10, 2021, effective July 10, 2020.
 
