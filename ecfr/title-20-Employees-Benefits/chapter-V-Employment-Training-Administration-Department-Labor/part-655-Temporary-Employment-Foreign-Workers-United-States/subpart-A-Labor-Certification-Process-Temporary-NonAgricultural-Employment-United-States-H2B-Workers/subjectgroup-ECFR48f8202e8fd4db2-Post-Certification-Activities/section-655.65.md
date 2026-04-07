@@ -12,4 +12,4 @@ DOL or DHS may inspect these documents upon request.
 
 (b) This section expires on October 1, 2020.
 
-Effective Date Note:At 82 FR 32999, July 19, 2017, § 655.65 was added, effective July 19, 2017 through Sept. 30, 2020.
+Effective Date Note:At 82 FR 32999, July 19, 2017, § 655.65 was added, effective July 19, 2017, through Sept. 30, 2020.
