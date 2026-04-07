@@ -16,21 +16,17 @@
 
 Exhibit I
 
-\[Method of computing the investment record of the standard & poor's 500 stock composite index for calendar 1971\]
-
-| Quarterly ending - | Index value 1 | Quarterly dividend yield-composite index |
-| ------------------ | ------------- | ---------------------------------------- |
-| Dec. 1970          | 92.15         |                                          |
-| Mar. 1971          | 100.31        | 3.10                                     |
-| June 1971          | 99.70         | 3.11                                     |
-| Sept. 1971         | 98.34         | 3.14                                     |
-| Dec. 1971          | 102.09        | 3.01                                     |
-
-1 Source: Standard & Poor's Trade and Securities Statistics, Jan. 1972, p. 33.
-
-2Id. See Standard & Poor's Trade and Securities Statistics Security and Price Index Record - 1970 Edition, p. 133 for explanation of quarterly dividend yield.
-
-3 Quarterly percentages have been founded to two decimal places.
+\[**Method of computing the investment record of the standard** & **poor's** 500 **stock composite index for calendar** 1971\]
+| Quarterly ending—                                                                                                                                            | Index value 1 | Quarterly dividend yield-composite index |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | ---------------------------------------- |
+| Dec. 1970                                                                                                                                                    | 92.15         |                                          |
+| Mar. 1971                                                                                                                                                    | 100.31        | 3.10                                     |
+| June 1971                                                                                                                                                    | 99.70         | 3.11                                     |
+| Sept. 1971                                                                                                                                                   | 98.34         | 3.14                                     |
+| Dec. 1971                                                                                                                                                    | 102.09        | 3.01                                     |
+| 1 Source: Standard & Poor's Trade and Securities Statistics, Jan. 1972, p. 33.                                                                               |               |                                          |
+| 2Id. See Standard & Poor's Trade and Securities Statistics Security and Price Index Record—1970 Edition, p. 133 for explanation of quarterly dividend yield. |               |                                          |
+| 3 Quarterly percentages have been founded to two decimal places.                                                                                             |               |                                          |
 
 Change in index value for 1971: 102.09 − 92.15 = 9.94. Accumulated value of dividends for 1971: ![](/graphics/ec14no91.094.gif)
 
@@ -48,25 +44,17 @@ Investment record of Standard & Poor's 500 stock composite index assuming quarte
 
 The same method can be extended to cases where an investment company's fiscal quarters do not coincide with the fiscal quarters of the S & P dividend record or to instances where a “rolling period” is used for performance comparisons as indicated by the following example of the calculation of the investment record of the Standard & Poor's 500 Stock Composite Index for the 12 months ended November 1971:
 
-Index value Nov. 30, 1971
+| Index value Nov. 30, 1971 | 93.99 |
+| Index value Nov. 30, 1970 | 87.20 |
+| Change in index value     | 6.79  |
 
-93.99 
-
-Index value Nov. 30, 1970
-
-87.20 
-
-Change in index value
-
-6.79
-
-| Quarter ending - | Dividend yield | Rate for each month of quarter ( 1/12 of annual)> |
-| ---------------- | -------------- | ------------------------------------------------- |
-| Dec. 1970        | 3.41           | 0.85                                              |
-| Mar. 1971        | 3.10           | .78                                               |
-| June 1971        | 3.11           | .78                                               |
-| Sept. 1971       | 3.14           | .79                                               |
-| Dec. 1971        | 3.01           | .75                                               |
+| Quarter ending— | Dividend yield | Rate for each month of quarter (1/12 of annual)> |
+| --------------- | -------------- | ------------------------------------------------ |
+| Dec. 1970       | 3.41           | 0.85                                             |
+| Mar. 1971       | 3.10           | .78                                              |
+| June 1971       | 3.11           | .78                                              |
+| Sept. 1971      | 3.14           | .79                                              |
+| Dec. 1971       | 3.01           | .75                                              |
 
 Accumulated value of dividends reinvested:
 
@@ -78,7 +66,7 @@ April-June = 1.0078
 
 July-September = 1.0079
 
-October-November = 1.0053 4/>
+October-November = 1.0053 4
 
 4 The rate for October and November would be two-thirds of the yield for the quarter ended Sept. 30 (i.e. .667 × .79 = 5269) since the yield for the quarter ended Dec. 31 would not be available as of Nov. 30.
 
@@ -96,23 +84,18 @@ Investment record of the Standard & Poor's 500 Stock Composite Index for the 12 
 
 Exhibit II
 
-\[Method of Computing the Investment Record of the New York Stock Exchange Composite Index for Calendar 1971\]
-
-| (1) - Quarter ending | (2) - Index value 1 | (3) - Aggregate market value of shares listed on the NYSE as of end of quarter (billions of dollars) 2 | (4) - Quarterly value of estimated cash payments of shares listed on the NYSE (millions of dollars) 3 | (5) - Estimated yield 4 (quarterly percent)> |
-| -------------------- | ------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| Dec. 1970            | 50.23               |                                                                                                        |                                                                                                       |                                              |
-| Mar. 1971            | 55.44               | $709                                                                                                   | $5,106                                                                                                | 0.72                                         |
-| June 1971            | 55.09               | 710                                                                                                    | 4,961                                                                                                 | .70                                          |
-| Sept. 1971           | 54.33               | 709                                                                                                    | 5,006                                                                                                 | .71                                          |
-| Dec. 1971            | 56.43               | 742                                                                                                    | 5,183                                                                                                 | .70                                          |
-
-1 Source: New York Stock Exchange Composite Index as reported daily by the New York Stock Exchange.
-
-2 Source: Monthly Review, New York Stock Exchange.
-
-3 Source: The Exchange, New York Stock Exchange magazine, May, Aug., Nov. 1971 and Feb. 1972 editions. Upon request the Statistics Division of the Research Department of the NYSE will make this figure available within 10 days of the end of each quarter.
-
-4 The ratio of column 4 to column 3.
+\[**Method of Computing the Investment Record of the New York Stock Exchange Composite Index for Calendar** 1971\]
+| (1)—Quarter ending                                                                                                                                                                                                                                            | (2)—Index value 1 | (3)—Aggregate market value of shares listed on the NYSE as of end of quarter (billions of dollars) 2 | (4)—Quarterly value of estimated cash payments of shares listed on the NYSE (millions of dollars) 3 | (5)—Estimated yield 4 (quarterly percent)> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Dec. 1970                                                                                                                                                                                                                                                     | 50.23             |                                                                                                      |                                                                                                     |                                            |
+| Mar. 1971                                                                                                                                                                                                                                                     | 55.44             | $709                                                                                                 | $5,106                                                                                              | 0.72                                       |
+| June 1971                                                                                                                                                                                                                                                     | 55.09             | 710                                                                                                  | 4,961                                                                                               | .70                                        |
+| Sept. 1971                                                                                                                                                                                                                                                    | 54.33             | 709                                                                                                  | 5,006                                                                                               | .71                                        |
+| Dec. 1971                                                                                                                                                                                                                                                     | 56.43             | 742                                                                                                  | 5,183                                                                                               | .70                                        |
+| 1 Source: New York Stock Exchange Composite Index as reported daily by the New York Stock Exchange.                                                                                                                                                           |                   |                                                                                                      |                                                                                                     |                                            |
+| 2 Source: Monthly Review, New York Stock Exchange.                                                                                                                                                                                                            |                   |                                                                                                      |                                                                                                     |                                            |
+| 3 Source: The Exchange, New York Stock Exchange magazine, May, Aug., Nov. 1971 and Feb. 1972 editions. Upon request the Statistics Division of the Research Department of the NYSE will make this figure available within 10 days of the end of each quarter. |                   |                                                                                                      |                                                                                                     |                                            |
+| 4 The ratio of column 4 to column 3.                                                                                                                                                                                                                          |                   |                                                                                                      |                                                                                                     |                                            |
 
 Change in NYSE Composite Index value for 1971: 56.43 − 50.23 = 6.20. Accumulated Value of Dividends of NYSE Composite Index for 1971: ![](/graphics/ec14no91.097.gif)
 
@@ -128,25 +111,17 @@ Investment record of the New York Stock Exchange Composite Index assuming quarte
 
 The same method can be extended to cases where an investment company's fiscal quarters do not coincide with the fiscal quarters of the NYSE dividend record or to instances where a “rolling period” is used for performance comparisons as indicated by the following example of the calculation of the investment record of the NYSE Composite Index for the 12 months ended November 1971:
 
-Index value Nov. 30, 1971
+| Index value Nov. 30, 1971 | 51.84 |
+| Index value Nov. 30, 1970 | 47.41 |
+| Change in index value     | 4.43  |
 
-51.84 
-
-Index value Nov. 30, 1970
-
-47.41 
-
-Change in index value
-
-4.43
-
-| Quarter ending | Dividend yield quarterly percent | Rate for each month of quarter ( 1/12 of annual)> |
-| -------------- | -------------------------------- | ------------------------------------------------- |
-| Dec. 1970      | 0.79                             | 0.26                                              |
-| Mar. 1971      | .72                              | .24                                               |
-| June 1971      | .70                              | .23                                               |
-| Sept. 1971     | .71                              | .24                                               |
-| Dec. 1971      | .70                              | .23                                               |
+| Quarter ending | Dividend yield quarterly percent | Rate for each month of quarter (1/12 of annual)> |
+| -------------- | -------------------------------- | ------------------------------------------------ |
+| Dec. 1970      | 0.79                             | 0.26                                             |
+| Mar. 1971      | .72                              | .24                                              |
+| June 1971      | .70                              | .23                                              |
+| Sept. 1971     | .71                              | .24                                              |
+| Dec. 1971      | .70                              | .23                                              |
 
 Accumulated value of dividends reinvested:
 
@@ -158,7 +133,7 @@ April-June = 1.0070
 
 July-September = 1.0071
 
-October-November = 1.0047 4/>
+October-November = 1.0047 4
 
 4 The rate for October and November would be two thirds of the yield for the quarter ended September 30 (i.e. .667 × .71 = 4736), since the yield for the quarter ended December 31 would not be available as of November 30.
 
