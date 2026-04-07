@@ -1,12 +1,12 @@
 ##### 252.228-7005 Mishap Reporting and Investigation Involving Aircraft, Missiles, and Space Launch Vehicles.
 
-As prescribed in 228.371(d), use the following clause:
+As prescribed in 228.371(d), use the following clause: 
 
 Mishap Reporting and Investigation Involving Aircraft, Missiles, and Space Launch Vehicles (NOV 2019)
 
-(a) The Contractor shall report promptly to the Administrative Contracting Officer all pertinent facts relating to each mishap involving an aircraft, missile, or space launch vehicle being manufactured, modified, repaired, or overhauled in connection with this contract.
+(a) The Contractor shall report promptly to the Administrative Contracting Officer all pertinent facts relating to each mishap involving an aircraft, missile, or space launch vehicle being manufactured, modified, repaired, or overhauled in connection with this contract. 
 
-(b) If the Government conducts an investigation of the mishap, the Contractor shall cooperate and assist the Government's personnel until the investigation is complete.
+(b) If the Government conducts an investigation of the mishap, the Contractor shall cooperate and assist the Government's personnel until the investigation is complete. 
 
 (c) The Contractor shall include a clause in subcontracts under this contract to require subcontractor cooperation and assistance in mishap investigations.
 

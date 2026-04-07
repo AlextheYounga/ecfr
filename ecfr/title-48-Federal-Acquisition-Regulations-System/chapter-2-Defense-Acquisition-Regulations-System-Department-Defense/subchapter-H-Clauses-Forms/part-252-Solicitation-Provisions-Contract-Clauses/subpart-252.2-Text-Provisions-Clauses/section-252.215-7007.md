@@ -1,6 +1,6 @@
 ##### 252.215-7007 Notice of Intent to Resolicit.
 
-As prescribed at 215.371-6, use the following provision:
+As prescribed at 215.371-6, use the following provision: 
 
 Notice of Intent To Resolicit (JUN 2012)
 

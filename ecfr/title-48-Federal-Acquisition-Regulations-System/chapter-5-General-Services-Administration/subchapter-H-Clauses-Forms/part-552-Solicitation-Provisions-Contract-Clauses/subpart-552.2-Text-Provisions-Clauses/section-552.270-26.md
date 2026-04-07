@@ -1,6 +1,6 @@
 ##### 552.270-26 No Waiver.
 
-As prescribed in 570.703, insert the following clause:
+As prescribed in 570.703, insert the following clause: 
 
 No Waiver (SEP 1999)
 

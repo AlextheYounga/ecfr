@@ -1,6 +1,6 @@
 ##### 252.227-7010 License to other Government agencies.
 
-As prescribed at 227.7009-4(e), insert the following clause in patent releases, license agreements, and assignments:
+As prescribed at 227.7009-4(e), insert the following clause in patent releases, license agreements, and assignments: 
 
 License to Other Government Agencies (AUG 1984)
 

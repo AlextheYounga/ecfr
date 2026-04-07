@@ -1,6 +1,6 @@
 ##### 552.211-75 Preservation, Packaging, and Packing.
 
-As prescribed in 511.204(b)(2), insert the following clause:*Alternate I*
+As prescribed in 511.204(b)(2), insert the following clause: 
 
 Preservation, Packaging, and Packing (FEB 1996)
 
@@ -8,7 +8,7 @@ Unless otherwise specified, all items shall be preserved, packaged, and packed i
 
 (End of clause)
 
-*Alternate I* (MAY 2003). As prescribed at 511.204(b)(2), substitute the following sentence for the last sentence of the basic clause:
+*Alternate I* (MAY 2003). As prescribed at 511.204(b)(2), substitute the following sentence for the last sentence of the basic clause: 
 
 Where special or unusual packing is specified in an order, but not specifically provided for by the contract, such packing details must be the subject of an agreement independently arrived at between the ordering activity and the Contractor.
 

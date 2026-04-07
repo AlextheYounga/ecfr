@@ -1,6 +1,6 @@
 ##### 552.270-25 Substitution of Tenant Agency.
 
-As prescribed in 570.703, insert the following clause:
+As prescribed in 570.703, insert the following clause: 
 
 Substitution of Tenant Agency (SEP 1999)
 

@@ -1,6 +1,6 @@
 ##### 552.204-9 Personal Identity Verification Requirements.
 
-As prescribed in 504.1303, insert the following clause:
+As prescribed in 504.1303, insert the following clause: 
 
 Personal Identity Verification Requirements (APR 2023)
 

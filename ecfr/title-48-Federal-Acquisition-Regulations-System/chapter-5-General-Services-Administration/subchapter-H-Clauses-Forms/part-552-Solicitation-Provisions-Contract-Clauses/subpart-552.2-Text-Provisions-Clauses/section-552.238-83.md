@@ -1,6 +1,6 @@
 ##### 552.238-83 Examination of Records by GSA (Federal Supply Schedules).
 
-As prescribed in 538.273(d)(7) insert the following clause:
+As prescribed in 538.273(d)(7) insert the following clause: 
 
 Examination of Records by GSA (MAY 2019)
 

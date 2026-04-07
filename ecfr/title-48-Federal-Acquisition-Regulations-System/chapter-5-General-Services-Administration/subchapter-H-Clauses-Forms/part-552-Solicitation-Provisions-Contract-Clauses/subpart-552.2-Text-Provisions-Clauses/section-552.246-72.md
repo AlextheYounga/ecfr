@@ -1,6 +1,6 @@
 ##### 552.246-72 Final Inspection and Tests.
 
-As prescribed in 546.312, insert the following clause:
+As prescribed in 546.312, insert the following clause: 
 
 Final Inspection and Tests (SEP 1999)
 

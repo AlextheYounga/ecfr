@@ -1,6 +1,6 @@
 ##### 552.270-12 Alterations.
 
-As prescribed in 570.703, insert the following clause:
+As prescribed in 570.703, insert the following clause: 
 
 Alterations (SEP 1999)
 

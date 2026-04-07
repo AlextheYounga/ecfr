@@ -1,6 +1,6 @@
 ##### 552.219-70 Allocation of Orders—Partially Set-Aside Items.
 
-As prescribed in 519.507, insert the following clause:
+As prescribed in 519.507, insert the following clause: 
 
 Allocation of Orders—Partially Set-Aside Items (SEP 1999)
 

@@ -1,6 +1,6 @@
 ##### 552.270-7 Fire and Casualty Damage.
 
-As prescribed in 570.703, insert the following clause:
+As prescribed in 570.703, insert the following clause: 
 
 Fire and Casualty Damage (JUN 2011)
 

@@ -1,6 +1,6 @@
 ##### 252.225-7011 Restriction on acquisition of supercomputers.
 
-As prescribed in 225.7012-3, use the following clause:
+As prescribed in 225.7012-3, use the following clause: 
 
 Restriction on Acquisition of Supercomputers (JUN 2005)
 

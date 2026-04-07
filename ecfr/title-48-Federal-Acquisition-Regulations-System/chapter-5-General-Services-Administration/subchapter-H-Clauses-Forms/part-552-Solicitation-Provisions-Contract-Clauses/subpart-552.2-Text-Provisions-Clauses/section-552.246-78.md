@@ -1,6 +1,6 @@
 ##### 552.246-78 Inspection at Destination.
 
-As prescribed in 546.302-72 insert the following clause:
+As prescribed in 546.302-72 insert the following clause: 
 
 Inspection at Destination (JUL 2009)
 

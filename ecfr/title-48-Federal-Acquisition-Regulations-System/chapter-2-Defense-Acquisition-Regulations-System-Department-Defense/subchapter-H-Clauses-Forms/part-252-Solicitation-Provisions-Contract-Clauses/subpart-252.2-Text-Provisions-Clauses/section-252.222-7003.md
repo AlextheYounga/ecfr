@@ -1,6 +1,6 @@
 ##### 252.222-7003 Permit from Italian Inspectorate of Labor.
 
-As prescribed in 222.7201(b), use the following clause:
+As prescribed in 222.7201(b), use the following clause: 
 
 Permit From Italian Inspectorate of Labor (JUN 1997)
 

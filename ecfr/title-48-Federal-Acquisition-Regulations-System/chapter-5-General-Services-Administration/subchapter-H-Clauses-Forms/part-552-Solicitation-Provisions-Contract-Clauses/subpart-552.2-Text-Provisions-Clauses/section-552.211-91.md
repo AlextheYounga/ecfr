@@ -1,6 +1,6 @@
 ##### 552.211-91 Vehicle Decals, Stickers, and Data Plates.
 
-As prescribed in 511.204(b)(10), insert the following clause:
+As prescribed in 511.204(b)(10), insert the following clause: 
 
 Vehicle Decals, Stickers, and Data Plates (JAN 2010)
 

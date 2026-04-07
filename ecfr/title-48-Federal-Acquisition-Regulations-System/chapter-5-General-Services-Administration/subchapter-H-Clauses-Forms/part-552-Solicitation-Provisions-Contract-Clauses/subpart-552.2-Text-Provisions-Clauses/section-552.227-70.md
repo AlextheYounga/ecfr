@@ -1,6 +1,6 @@
 ##### 552.227-70 Government Rights (Unlimited).
 
-As prescribed in 527.409(a), insert the following clause:
+As prescribed in 527.409(a), insert the following clause: 
 
 Government Rights (Unlimited) (MAY 1989) (Deviation FAR 52.227-17)
 

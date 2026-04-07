@@ -1,6 +1,6 @@
 ##### 252.237-7008 Group interment.
 
-As prescribed in 237.7003(a) and (a)(6), use the following clause:
+As prescribed in 237.7003(a) and (a)(6), use the following clause: 
 
 Group Interment (DEC 1991)
 

@@ -1,10 +1,10 @@
 ##### 252.225-7002 Qualifying Country Sources as Subcontractors.
 
-As prescribed in 225.1101(3), use the following clause:
+As prescribed in 225.1101(3), use the following clause: 
 
 Qualifying Country Sources as Subcontractors (MAR 2022)
 
-(a) *Definition. Qualifying country,* as used in this clause, means a country with a reciprocal defense procurement memorandum of understanding or international agreement with the United States in which both countries agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country, and the memorandum or agreement complies, where applicable, with the requirements of section 36 of the Arms Export Control Act (22 U.S.C. 2776) and with 10 U.S.C. 2457. Accordingly, the following are qualifying countries:
+(a) *Definition. Qualifying country,* as used in this clause, means a country with a reciprocal defense procurement memorandum of understanding or international agreement with the United States in which both countries agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country, and the memorandum or agreement complies, where applicable, with the requirements of section 36 of the Arms Export Control Act (22 U.S.C. 2776) and with 10 U.S.C. 2457. Accordingly, the following are qualifying countries: 
 
 *   Australia
 *   Austria

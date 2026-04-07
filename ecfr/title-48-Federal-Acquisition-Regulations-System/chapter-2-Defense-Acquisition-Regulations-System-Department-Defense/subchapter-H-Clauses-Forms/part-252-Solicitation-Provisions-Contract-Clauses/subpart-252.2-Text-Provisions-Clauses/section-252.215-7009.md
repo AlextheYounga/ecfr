@@ -1,6 +1,6 @@
 ##### 252.215-7009 Proposal Adequacy Checklist.
 
-As prescribed in 215.408(4), use the following provision:
+As prescribed in 215.408(4), use the following provision: 
 
 Proposal Adequacy Checklist (MAR 2023)
 

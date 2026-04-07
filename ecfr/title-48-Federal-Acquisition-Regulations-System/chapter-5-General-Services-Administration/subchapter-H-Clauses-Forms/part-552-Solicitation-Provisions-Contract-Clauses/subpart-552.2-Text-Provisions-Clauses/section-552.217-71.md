@@ -1,6 +1,6 @@
 ##### 552.217-71 Notice Regarding Option(s).
 
-As prescribed in 517.208(b), insert the following provision:
+As prescribed in 517.208(b), insert the following provision: 
 
 Notice Regarding Option(s) (NOV 1992)
 
