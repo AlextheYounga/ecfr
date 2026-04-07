@@ -134,7 +134,7 @@ The Occupational Safety and Health Administration will treat the electric utilit
 
 Note to the definition of “immediately dangerous to life or health”:
 
-Some materials - hydrogen fluoride gas and cadmium vapor, for example - may produce immediate transient effects that, even if severe, may pass without medical attention, but are followed by sudden, possibly fatal collapse 12-72 hours after exposure. The victim “feels normal” from recovery from transient effects until collapse. Such materials in hazardous quantities are considered to be “immediately” dangerous to life or health.
+Some materials—hydrogen fluoride gas and cadmium vapor, for example—may produce immediate transient effects that, even if severe, may pass without medical attention, but are followed by sudden, possibly fatal collapse 12-72 hours after exposure. The victim “feels normal” from recovery from transient effects until collapse. Such materials in hazardous quantities are considered to be “immediately” dangerous to life or health.
 
 *Insulated.* Separated from other conducting surfaces by a dielectric (including air space) offering a high resistance to the passage of current.
 
@@ -148,11 +148,11 @@ When any object is said to be insulated, it is understood to be insulated for th
 
 *Line-clearance tree trimming.* The pruning, trimming, repairing, maintaining, removing, or clearing of trees, or the cutting of brush, that is within the following distance of electric supply lines and equipment:
 
-(1) For voltages to ground of 50 kilovolts or less - 3.05 meters (10 feet);
+(1) For voltages to ground of 50 kilovolts or less—3.05 meters (10 feet);
 
-(2) For voltages to ground of more than 50 kilovolts - 3.05 meters (10 feet) plus 0.10 meters (4 inches) for every 10 kilovolts over 50 kilovolts.
+(2) For voltages to ground of more than 50 kilovolts—3.05 meters (10 feet) plus 0.10 meters (4 inches) for every 10 kilovolts over 50 kilovolts.
 
-*Lines* - (1) *Communication lines.* The conductors and their supporting or containing structures which are used for public or private signal or communication service, and which operate at potentials not exceeding 400 volts to ground or 750 volts between any two points of the circuit, and the transmitted power of which does not exceed 150 watts. If the lines are operating at less than 150 volts, no limit is placed on the transmitted power of the system. Under certain conditions, communication cables may include communication circuits exceeding these limitations where such circuits are also used to supply power solely to communication equipment.
+*Lines*—(1) *Communication lines.* The conductors and their supporting or containing structures which are used for public or private signal or communication service, and which operate at potentials not exceeding 400 volts to ground or 750 volts between any two points of the circuit, and the transmitted power of which does not exceed 150 watts. If the lines are operating at less than 150 volts, no limit is placed on the transmitted power of the system. Under certain conditions, communication cables may include communication circuits exceeding these limitations where such circuits are also used to supply power solely to communication equipment.
 
 Note to the definition of “communication lines”:
 
