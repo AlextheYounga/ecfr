@@ -1,5 +1,7 @@
 ##### § 1308.11 Schedule I.
 
+Link to an amendment published at 88 FR 13694, Mar. 6, 2023.
+
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
 (b) *Opiates.* Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers and salts is possible within the specific chemical designation (for purposes of 3-methylthiofentanyl only, the term isomer includes the optical and geometric isomers):
@@ -313,7 +315,7 @@ Some trade and other names: 7-Ethyl-6,6β,7,8,9,10,12,13-octahydro-2-methoxy-6,9
 
 7381 
 
-(25) Parahexyl - 7374; some trade or other names: 3-Hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo\[b,d\]pyran; Synhexyl. 
+(25) Parahexyl—7374; some trade or other names: 3-Hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo\[b,d\]pyran; Synhexyl. 
 
 (26) Peyote
 
