@@ -1,12 +1,12 @@
 ##### § 100.911 Special Local Regulations; Marine Events in the Coast Guard Sector Detroit Captain of the Port Zone.
 
-(a) *General.* The regulations in this section apply to the marine events listed in Table 1 to § 100.911, along with the requirements of § 100.901. These regulations will be enforced for the duration of each event, on or about the dates indicated. Annual notice of the exact dates and times of the effective period of the regulations with respect to each event, the geographical area, and details concerning of the event will be made by publication in the Federal Register via a Notice of Enforcement, published in a Local Notices to Mariners, and broadcast over VHF-FM radio. Although listed in the Code of Federal Regulations, sponsors of events listed in the table to § 100.911 are still required to submit marine event applications in accordance with § 100.15. 
+(a) *General.* The regulations in this section apply to the marine events listed in Table 1 to § 100.911, along with the requirements of § 100.901. These regulations will be enforced for the duration of each event, on or about the dates indicated. Annual notice of the exact dates and times of the effective period of the regulations with respect to each event, the geographical area, and details concerning of the event will be made by publication in the Federal Register via a Notice of Enforcement, published in a Local Notices to Mariners, and broadcast over VHF-FM radio. Although listed in the Code of Federal Regulations, sponsors of events listed in the table to § 100.911 are still required to submit marine event applications in accordance with § 100.15.
 
-(b) *Special local regulations.* (1) No vessel may enter, transit through, or anchor within the regulated area without the permission of the Coast Guard Patrol Commander. 
+(b) *Special local regulations.* (1) No vessel may enter, transit through, or anchor within the regulated area without the permission of the Coast Guard Patrol Commander.
 
-(2) Vessel operators desiring to enter or operate within the regulated area shall contact the Coast Guard Patrol Commander to obtain permission to do so. Vessel operators given permission to enter or operate within the regulated area must comply with all directions given to them by the Coast Guard Patrol Commander. 
+(2) Vessel operators desiring to enter or operate within the regulated area shall contact the Coast Guard Patrol Commander to obtain permission to do so. Vessel operators given permission to enter or operate within the regulated area must comply with all directions given to them by the Coast Guard Patrol Commander.
 
-(3) All geographic coordinates in Table 1 to § 100.911 are North American Datum of 1983 (NAD 83). 
+(3) All geographic coordinates in Table 1 to § 100.911 are North American Datum of 1983 (NAD 83).
 
 Table 1 to § 100.911
 
