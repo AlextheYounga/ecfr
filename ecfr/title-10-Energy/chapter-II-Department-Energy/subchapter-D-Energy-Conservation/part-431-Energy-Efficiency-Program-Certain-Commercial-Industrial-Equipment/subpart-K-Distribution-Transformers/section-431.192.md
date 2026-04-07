@@ -1,5 +1,7 @@
 ##### § 431.192 Definitions.
 
+Link to an amendment published at 86 FR 51252, Sept. 14, 2021.
+
 The following definitions apply for purposes of this subpart:
 
 *Autotransformer* means a transformer that:
