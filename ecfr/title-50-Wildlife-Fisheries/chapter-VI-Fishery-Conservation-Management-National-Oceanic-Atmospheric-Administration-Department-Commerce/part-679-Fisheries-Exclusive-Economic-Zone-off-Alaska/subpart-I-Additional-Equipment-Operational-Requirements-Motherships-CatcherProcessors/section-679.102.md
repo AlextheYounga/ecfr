@@ -1,6 +1,4 @@
-##### § 679.120 Halibut deck sorting.
-
-Link to an amendment published at 88 FR 77232, Nov. 9, 2023.
+##### § 679.102 Halibut deck sorting.
 
 (a) *Applicability.* The owner and operator of a mothership or catcher/processor using trawl gear in the non-pollock groundfish fisheries in the Gulf of Alaska and the Bering Sea and Aleutian Islands Management Area must comply with the requirements of this section when participating in halibut deck sorting as defined at § 679.2.
 
@@ -63,3 +61,5 @@ Link to an amendment published at 88 FR 77232, Nov. 9, 2023.
 (7) *Sorting pace.* Do not pressure or rush the observer to move halibut through the sampling process faster than the observer can handle.
 
 (8) *Visual signal.* Use a visual signal to indicate to vessel crew when catch may not to be weighed on a NMFS-approved scale specified in paragraph (b)(1) of this section. The visual signal must be on the conveyor belt adjacent to the flow scale and visible in the view of a camera required at § 679.28(b)(8).
+
+\[84 FR 55054, Oct. 15, 2019. Redesignated at 88 FR 77232, Nov. 9, 2023\]
