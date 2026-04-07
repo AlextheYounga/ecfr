@@ -1,3 +1,0 @@
-##### § 507.7 Authority to sell.
-
-No certificate of authority to manufacture is required to sell articles listed in § 507.8 of this part; however, sellers are responsible for insuring that any article they sell is manufactured in accordance with Government specifications using government furnished tools, bears a hallmark assigned by TIOH, and that the manufacturer has received a certification to manufacture that specific item prior to sale.
