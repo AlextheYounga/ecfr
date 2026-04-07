@@ -10,13 +10,13 @@
 
 (5) If the overall depth of a vessel designed for sailing includes the keel, only 75 percent of that depth is used for gross tonnage calculations.
 
-(b) *Net register tonnage.* (1) For a vessel having propelling machinery in its hull -
+(b) *Net register tonnage.* (1) For a vessel having propelling machinery in its hull—
 
 (i) The net register tonnage is 90 percent of its gross register tonnage, if it is a vessel designed for sailing; or
 
 (ii) The net register tonnage is 80 percent of its gross register tonnage, if it is not a vessel designed for sailing.
 
-(2) For a vessel having no propelling machinery in its hull, the net tonnage is the same as its gross tonnage.
+(2) For a vessel having no propelling machinery in its hull, the net register tonnage is the same as its gross register tonnage.
 
 (c) *Certification of measurement.* For a vessel that is documented as a vessel of the United States under part 67 of this chapter, the vessel's Certificate of Documentation serves as evidence of measurement under this subpart. For all other vessels, a completed Application for Simplified Measurement (form CG-5397) serves as evidence of the tonnage measurement under this part.
 
