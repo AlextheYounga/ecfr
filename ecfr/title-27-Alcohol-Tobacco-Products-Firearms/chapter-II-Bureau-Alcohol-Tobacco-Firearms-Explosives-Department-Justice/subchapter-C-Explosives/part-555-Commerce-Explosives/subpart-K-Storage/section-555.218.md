@@ -73,7 +73,7 @@
 | 250,000                | 275,000           |
 | 275,000                | 300,000           |
 
-Table: American Table of Distances for Storage of Explosives (December 1910), as Revised and Approved by the Institute of Makers of Explosives - July, 1991. Notes to the Table of Distances for Storage of Explosives
+Table: American Table of Distances for Storage of Explosives (December 1910), as Revised and Approved by the Institute of Makers of Explosives—June 1991. Notes to the Table of Distances for Storage of Explosives
 
 (1) Terms found in the table of distances for storage of explosive materials are defined in § 555.11.
 
@@ -83,4 +83,4 @@ Table: American Table of Distances for Storage of Explosives (December 1910), as
 
 (4) For quantity and distance purposes, detonating cord of 50 or 60 grains per foot should be calculated as equivalent to 9 lbs. of high explosives per 1,000 feet. Heavier or lighter core loads should be rated proportionately.
 
-\[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-400, 63 FR 45003, Aug. 24, 1998; T.D. ATF-446, 66 FR 16602, Mar. 27, 2001; T.D. ATF-446a, 66 FR 19089, Apr. 13, 2001\]
+\[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-400, 63 FR 45003, Aug. 24, 1998; T.D. ATF-446, 66 FR 16602, Mar. 27, 2001; T.D. ATF-446a, 66 FR 19089, Apr. 13, 2001; ATF 2017R-21, 84 FR 13800, Apr. 8, 2019\]
