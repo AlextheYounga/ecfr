@@ -40,29 +40,31 @@
 
 (f) The following amounts are the limitations on payments per person or legal entity for the applicable period for each payment or benefit.
 
-| Payment or benefit                                                                                                                  | Limitation per person or legal entity, per crop, program, or fiscal year |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| (1) Price Loss Coverage, Agricultural Risk Coverage, Loan Deficiency Program, and Marketing Loan Gain payments (other than Peanuts) | $125,000                                                                 |
-| (2) Price Loss Coverage, Agricultural Risk Coverage, Loan Deficiency Program, and Marketing Loan Gain payments for Peanuts          | 125,000                                                                  |
-| (3) Transition Assistance for Producers of Upland Cotton 1                                                                          | 40,000                                                                   |
-| (4) CRP annual rental payments 2                                                                                                    | 50,000                                                                   |
-| (5) NAP payments                                                                                                                    | 125,000                                                                  |
-| (6) TAP                                                                                                                             | 125,000                                                                  |
-| (7) LIP, LFP, and ELAP 3                                                                                                            | 125,000                                                                  |
-| (8) CSP 4                                                                                                                           | 200,000                                                                  |
-| (9) EQIP 5                                                                                                                          | 450,000                                                                  |
-| (10) AMA program 6                                                                                                                  | 50,000                                                                   |
+| Payment or benefit                                                                                                                  | Limitation per   person or legal   entity, per   crop, program,   or fiscal year |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| (1) Price Loss Coverage, Agricultural Risk Coverage, Loan Deficiency Program, and Marketing Loan Gain payments (other than Peanuts) | $125,000                                                                         |
+| (2) Price Loss Coverage, Agricultural Risk Coverage, Loan Deficiency Program, and Marketing Loan Gain payments for Peanuts          | 125,000                                                                          |
+| (3) Transition Assistance for Producers of Upland Cotton 1                                                                          | 40,000                                                                           |
+| (4) CRP annual rental payments 2                                                                                                    | 50,000                                                                           |
+| (5) NAP payments                                                                                                                    | 125,000                                                                          |
+| (6) TAP 3                                                                                                                           | 125,000                                                                          |
+| (7) LIP, LFP, and ELAP 4                                                                                                            | 125,000                                                                          |
+| (8) CSP 5                                                                                                                           | 200,000                                                                          |
+| (9) EQIP 6                                                                                                                          | 450,000                                                                          |
+| (10) AMA program 7                                                                                                                  | 50,000                                                                           |
 
 1 Transition Assistance for Producers of Upland Cotton is only available in the 2014 and 2015 program years.
 
 2 CRP contracts approved prior to October 1, 2008 may exceed the limitation, subject to payment limitation rules in effect on the date of contract approval.
 
-3 Total payments received through LIP, LFP, and ELAP may not exceed $125,000. A separate limitation applies to TAP payments. (NOTE: For SURE payments for losses on or before September 30, 2011, the payment limit regulations in effect when those losses occurred apply. The SURE limit is separate from the payment limitation amount applicable to the LIP, LFP, TAP, and ELAP benefits authorized under the 2014 Farm Bill.)
+3 A separate limitation applies to TAP payments for 2011 through 2016 program years. Lastly, there is no program payment limitation for either LIP or TAP in 2017 and subsequent program years.
 
-4 The $200,000 limit is the total limit under all CSP contracts entered into subsequent to enactment of the 2014 Farm Bill during fiscal years 2014 through 2018.
+4 Total payments received through LIP, LFP, and ELAP may not exceed $125,000 for each of the 2011 through 2016 program years. For the 2017 and subsequent program years, LIP is no longer included in the combined program limitation.
 
-5 The $450,000 limit is the total limit under all EQIP contracts entered into subsequent to enactment of the 2014 Farm Bill during fiscal years 2014 through 2018.
+5 The $200,000 limit is the total limit under all CSP contracts entered into subsequent to enactment of the 2014 Farm Bill during fiscal years 2014 through 2018.
 
-6 The $50,000 limit is the total limit that a participant may receive under the AMA program in any fiscal year.
+6 The $450,000 limit is the total limit under all EQIP contracts entered into subsequent to enactment of the 2014 Farm Bill during fiscal years 2014 through 2018.
 
-\[79 FR 21096, Apr. 14, 2014, as amended at 80 FR 119, Jan. 2, 2015; 80 FR 78128, Dec. 16, 2015\]
+7 The $50,000 limit is the total limit that a participant may receive under the AMA program in any fiscal year.
+
+\[79 FR 21096, Apr. 14, 2014, as amended at 80 FR 119, Jan. 2, 2015; 80 FR 78128, Dec. 16, 2015; 83 FR 49463, Oct. 2, 2018\]
