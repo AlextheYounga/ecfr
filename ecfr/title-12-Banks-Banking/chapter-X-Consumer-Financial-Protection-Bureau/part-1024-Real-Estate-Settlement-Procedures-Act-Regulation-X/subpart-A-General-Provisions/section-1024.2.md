@@ -1,7 +1,5 @@
 ##### § 1024.2 Definitions.
 
-Link to an amendment published at 88 FR 16542, Mar. 20, 2023.
-
 (a) *Statutory terms.* All terms defined in RESPA (12 U.S.C. 2602) are used in accordance with their statutory meaning unless otherwise defined in paragraph (b) of this section or elsewhere in this part.
 
 (b) *Other terms.* As used in this part:
@@ -90,7 +88,7 @@ Link to an amendment published at 88 FR 16542, Mar. 20, 2023.
 
 *Prepayment penalty* has the same meaning as “prepayment penalty” under Regulation Z (12 CFR part 1026).
 
-*Public Guidance Documents* means Federal Register documents adopted or published, that the Bureau may amend from time-to-time by publication in the Federal Register. These documents are also available from the Bureau. Requests for copies of Public Guidance Documents should be directed to the Associate Director, Research, Markets, and Regulations, Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20552.
+*Public Guidance Documents* means Federal Register documents adopted or published, that the Bureau may amend from time-to-time by publication in the Federal Register. These documents are also available from the Bureau. Requests for copies of Public Guidance Documents should be directed to the Assistant Director, Office of Regulations, Division of Research, Monitoring, and Regulations, Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20552.
 
 *Refinancing* means a transaction in which an existing obligation that was subject to a secured lien on residential real property is satisfied and replaced by a new obligation undertaken by the same borrower and with the same or a new lender. The following shall not be treated as a refinancing, even when the existing obligation is satisfied and replaced by a new obligation with the same lender (this definition of “refinancing” as to transactions with the same lender is similar to Regulation Z, 12 CFR 1026.20(a)):
 
@@ -168,4 +166,4 @@ Link to an amendment published at 88 FR 16542, Mar. 20, 2023.
 
 *Tolerance* means the maximum amount by which the charge for a category or categories of settlement costs may exceed the amount of the estimate for such category or categories on a GFE.
 
-\[76 FR 78981, Dec. 20, 2011, as amended at 78 FR 10873, Feb. 14, 2013\]
+\[76 FR 78981, Dec. 20, 2011, as amended at 78 FR 10873, Feb. 14, 2013; 88 FR 16542, Mar. 20, 2023\]

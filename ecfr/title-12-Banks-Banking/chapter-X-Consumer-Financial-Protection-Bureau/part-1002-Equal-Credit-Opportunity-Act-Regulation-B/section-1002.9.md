@@ -1,7 +1,5 @@
 ##### § 1002.9 Notifications.
 
-Link to an amendment published at 88 FR 16537, Mar. 20, 2023.
-
 (a) *Notification of action taken, ECOA notice, and statement of specific reasons*—(1) *When notification is required.* A creditor shall notify an applicant of action taken within:
 
 (i) 30 days after receiving a completed application concerning the creditor's approval of, counteroffer to, or adverse action on the application;
@@ -34,7 +32,7 @@ Link to an amendment published at 88 FR 16537, Mar. 20, 2023.
 
 (B) Provide a written statement of the reasons for adverse action and the ECOA notice specified in paragraph (b)(1) of this section if the applicant makes a written request for the reasons within 60 days of the creditor's notification.
 
-(b) *Form of ECOA notice and statement of specific reasons*—(1) *ECOA notice.* To satisfy the disclosure requirements of paragraph (a)(2) of this section regarding section 701(a) of the Act, the creditor shall provide a notice that is substantially similar to the following: The Federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The Federal agency that administers compliance with this law concerning this creditor is \[name and address as specified by the appropriate agency or agencies listed in appendix A of this part\]. Until January 1, 2013, a creditor may comply with this paragraph (b)(1) and paragraph (a)(2) of this section by including in the notice the name and address as specified by the appropriate agency in appendix A to 12 CFR part 202, as in effect on October 1, 2011.
+(b) *Form of ECOA notice and statement of specific reasons*—(1) *ECOA notice.* To satisfy the disclosure requirements of paragraph (a)(2) of this section regarding section 701(a) of the Act, the creditor shall provide a notice that is substantially similar to the following: The Federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The Federal agency that administers compliance with this law concerning this creditor is \[name and address as specified by the appropriate agency or agencies listed in appendix A of this part\].
 
 (2) *Statement of specific reasons.* The statement of reasons for adverse action required by paragraph (a)(2)(i) of this section must be specific and indicate the principal reason(s) for the adverse action. Statements that the adverse action was based on the creditor's internal standards or policies or that the applicant, joint applicant, or similar party failed to achieve a qualifying score on the creditor's credit scoring system are insufficient.
 
@@ -55,3 +53,5 @@ Link to an amendment published at 88 FR 16537, Mar. 20, 2023.
 (f) *Multiple applicants.* When an application involves more than one applicant, notification need only be given to one of them but must be given to the primary applicant where one is readily apparent.
 
 (g) *Applications submitted through a third party.* When an application is made on behalf of an applicant to more than one creditor and the applicant expressly accepts or uses credit offered by one of the creditors, notification of action taken by any of the other creditors is not required. If no credit is offered or if the applicant does not expressly accept or use the credit offered, each creditor taking adverse action must comply with this section, directly or through a third party. A notice given by a third party shall disclose the identity of each creditor on whose behalf the notice is given.
+
+\[76 FR 79445, Dec. 21, 2011, as amended at 88 FR 16537, Mar. 20, 2023\]
