@@ -1,6 +1,6 @@
 ##### § 20.3 Certification and authentication of Food and Drug Administration records.
 
-(a) Upon request, the Food and Drug administration will certify the authenticity of copies of records that are requested to be disclosed pursuant to this part or will authenticate copies of records previously disclosed.
+(a) Upon request, the Food and Drug administration will certify the authenticity of copies of records that are requested to be disclosed pursuant to this part or will authenticate copies of records previously disclosed. 
 
 (b) A request for certified copies of records or for authentication of records shall be sent in writing to the Division of Freedom of Information at the address located on the agency's web site at *http://www.fda.gov.*
 

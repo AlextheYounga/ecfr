@@ -1,8 +1,8 @@
 ##### § 167.1331 In Haro Strait and Boundary Pass.
 
-In Haro Strait and Boundary Pass, the following are established:
+In Haro Strait and Boundary Pass, the following are established: 
 
-(a) Precautionary area “V,” which is bounded by a line connecting the following geographical positions:
+(a) Precautionary area “V,” which is bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°23.15′ N | 123°21.12′ W |
@@ -14,7 +14,7 @@ In Haro Strait and Boundary Pass, the following are established:
 | 48°21.67′ N | 123°21.12′ W |
 | 48°23.15′ N | 123°21.12′ W |
 
-(b) A separation zone that connects with precautionary area “V,” as described in paragraph (a) of this section, and is bounded by a line connecting the following geographical positions:
+(b) A separation zone that connects with precautionary area “V,” as described in paragraph (a) of this section, and is bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°22.25′ N | 123°21.12′ W |
@@ -24,21 +24,21 @@ In Haro Strait and Boundary Pass, the following are established:
 | 48°22.55′ N | 123°18.05′ W |
 | 48°22.55′ N | 123°21.12′ W |
 
-(c) A traffic lane for eastbound traffic located between the separation zone described in paragraph (b) of this section and a line connecting the following geographical positions:
+(c) A traffic lane for eastbound traffic located between the separation zone described in paragraph (b) of this section and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°21.67′ N | 123°21.12′ W |
 | 48°21.67′ N | 123°17.70′ W |
 | 48°23.10′ N | 123°13.50′ W |
 
-(d) A traffic lane for westbound traffic located between the separation zone described in paragraph (b) of this section and a line connecting the following geographical positions:
+(d) A traffic lane for westbound traffic located between the separation zone described in paragraph (b) of this section and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°25.10′ N | 123°12.67′ W |
 | 48°23.15′ N | 123°18.30′ W |
 | 48°23.15′ N | 123°21.12′ W |
 
-(e) Precautionary area “DI,” which is bounded by a line connecting the following geographical positions:
+(e) Precautionary area “DI,” which is bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°23.10′ N | 123°13.50′ W |
@@ -47,7 +47,7 @@ In Haro Strait and Boundary Pass, the following are established:
 | 48°25.10′ N | 123°12.67′ W |
 | 48°23.10′ N | 123°13.50′ W |
 
-(f) A separation zone bounded by a line connecting the following geographical positions:
+(f) A separation zone bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°25.96′ N | 123°10.65′ W |
@@ -56,19 +56,19 @@ In Haro Strait and Boundary Pass, the following are established:
 | 48°29.10′ N | 123°11.59′ W |
 | 48°25.69′ N | 123°11.28′ W |
 
-(g) A traffic lane for northbound traffic located between the separation zone described in paragraph (f) of this section and a line connecting the following geographical positions:
+(g) A traffic lane for northbound traffic located between the separation zone described in paragraph (f) of this section and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°26.57′ N | 123°09.22′ W |
 | 48°27.86′ N | 123°08.81′ W |
 
-(h) A traffic lane for southbound traffic located between the separation zone described in paragraph (e) of this section and a line connecting the following geographical positions:
+(h) A traffic lane for southbound traffic located between the separation zone described in paragraph (e) of this section and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°29.80′ N | 123°13.15′ W |
 | 48°25.10′ N | 123°12.67′ W |
 
-(i) Precautionary area “HS,” which is bounded by a line connecting the following geographical positions:
+(i) Precautionary area “HS,” which is bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°27.86′ N | 123°08.81′ W |
@@ -79,7 +79,7 @@ In Haro Strait and Boundary Pass, the following are established:
 | 48°29.80′ N | 123°13.15′ W |
 | 48°27.86′ N | 123°08.81′ W |
 
-(j) A two-way route between the following geographical positions:
+(j) A two-way route between the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°31.60′ N | 123°10.65′ W |
@@ -89,7 +89,7 @@ In Haro Strait and Boundary Pass, the following are established:
 | 48°39.41′ N | 123°16.06′ W |
 | 48°32.83′ N | 123°13.45′ W |
 
-(k) Precautionary area “TP,” which is bounded by a line connecting the following geographical positions:
+(k) Precautionary area “TP,” which is bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°41.06′ N | 123°11.04′ W |
@@ -100,7 +100,7 @@ In Haro Strait and Boundary Pass, the following are established:
 | 48°39.32′ N | 123°13.14′ W |
 | 48°39.76′ N | 123°11.84′ W |
 
-(l) A two-way route between the following geographical positions:
+(l) A two-way route between the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°42.23′ N | 123°11.35′ W |

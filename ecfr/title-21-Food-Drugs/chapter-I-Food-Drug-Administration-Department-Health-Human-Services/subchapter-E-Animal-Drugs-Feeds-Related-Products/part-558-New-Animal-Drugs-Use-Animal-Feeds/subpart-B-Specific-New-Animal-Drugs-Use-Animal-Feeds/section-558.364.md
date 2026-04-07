@@ -1,14 +1,14 @@
 ##### § 558.364 Narasin and nicarbazin.
 
-(a) *Specifications.* A fixed-ratio, combination drug Type A medicated article containing 36 grams narasin and 36 grams nicarbazin per pound.
+(a) *Specifications.* A fixed-ratio, combination drug Type A medicated article containing 36 grams narasin and 36 grams nicarbazin per pound. 
 
-(b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter. 
 
-(c) *Tolerances.* See §§ 556.428 and 556.445 of this chapter.
+(c) *Tolerances.* See §§ 556.428 and 556.445 of this chapter. 
 
-(d) *Conditions of use.* It is used as follows:
+(d) *Conditions of use.* It is used as follows: 
 
-(1) *Chickens*—
+(1) *Chickens*— 
 
 | Narasin and   nicarbazin   grams/ton | Combination in grams/ton                     | Indications for use                                                                                                                                                                                                                                                                            | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Sponsor |
 | ------------------------------------ | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
@@ -20,10 +20,10 @@
 | (vi) 27 to 45 of each drug           | Bacitracin methylenedisalicylate, 100 to 200 | Broiler chickens: For prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. maxima, E. brunetti, and E. mivati, and as an aid in the control of necrotic enteritis caused or complicated by Clostridium spp. or other organisms susceptible to bacitracin        | To control necrotic enteritis, start medication at first clinical signs of disease; vary dosage based on the severity of infection; administer continuously for 5 to 7 days or as long as clinical signs persist, then reduce bacitracin to prevention level (50 g/ton). Do not feed to laying hens. Withdraw 5 days before slaughter. Do not allow turkeys, horses, or other equines access to formulations containing narasin. Ingestion of narasin by these species has been fatal. Bacitracin methylenedisalicylate as provided by No. 054771 in § 510.600(c) of this chapter | 054771  |
 | (vii) 27 to 45 of each drug          | Bambermycins, 1 to 2                         | Broiler chickens: As an aid in preventing outbreaks of cecal (Eimeria tenella) and intestinal (E. acervulina, E. maxima, E. necatrix, and E. brunetti) coccidiosis, and for increased rate of weight gain and improved feed efficiency                                                         | Feed continuously as sole ration from time chicks are placed on litter until past the time when coccidiosis is ordinarily a hazard. Do not use as a treatment for coccidiosis. Do not feed to laying hens. Withdraw 5 days before slaughter. Do not allow turkeys, horses, or other equines access to formulations containing narasin. Ingestion of narasin by these species has been fatal. Bambermycins as provided by No. 016592 in § 510.600(c) of this chapter                                                                                                               | 058198  |
 
-(2) Narasin and nicarbazin fixed-ratio, combination drug Type A medicated articles may also be used in combination with:
+(2) Narasin and nicarbazin fixed-ratio, combination drug Type A medicated articles may also be used in combination with: 
 
-(i) Avilamycin as in § 558.68.
+(i) Avilamycin as in § 558.68. 
 
-(ii) Virginiamycin as in § 558.635.
+(ii) Virginiamycin as in § 558.635. 
 
 \[83 FR 64742, Dec. 18, 2018, as amended at 84 FR 8981, Mar. 13, 2019; 88 FR 14907, Mar. 10, 2023; 88 FR 16550, Mar. 20, 2023\]

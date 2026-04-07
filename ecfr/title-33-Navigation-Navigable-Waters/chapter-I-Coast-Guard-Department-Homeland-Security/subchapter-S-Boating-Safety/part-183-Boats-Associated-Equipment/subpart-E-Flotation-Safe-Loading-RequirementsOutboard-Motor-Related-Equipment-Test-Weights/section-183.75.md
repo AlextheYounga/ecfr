@@ -1,6 +1,6 @@
 ##### § 183.75 Applicability.
 
-Manufacturers of vessels to which this subpart applies must use test weights that are not less than the recommended weights set forth in Table 183.75. Table 183.75 details the weight (in pounds) of gasoline outboard engines and related equipment for various rated power (horsepower) ranges.
+Manufacturers of vessels to which this subpart applies must use test weights that are not less than the recommended weights set forth in Table 183.75. Table 183.75 details the weight (in pounds) of gasoline outboard engines and related equipment for various rated power (horsepower) ranges. 
 
 Table 183.75—Weights (In Pounds) of Gasoline Outboard Engines and Related Equipment for Various Rated Power (Horsepower) Ranges
 | Single engine installations                                                                                                                                                                                                                                                                                                                                                                                                                                               |

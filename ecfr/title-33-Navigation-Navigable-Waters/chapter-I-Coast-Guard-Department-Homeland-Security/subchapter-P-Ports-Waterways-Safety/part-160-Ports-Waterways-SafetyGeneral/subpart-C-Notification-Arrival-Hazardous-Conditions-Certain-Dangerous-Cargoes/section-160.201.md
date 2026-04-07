@@ -1,18 +1,18 @@
 ##### § 160.201 General.
 
-This subpart contains requirements and procedures for submitting a notice of arrival (NOA), and a notice of hazardous condition. The sections in this subpart describe:
+This subpart contains requirements and procedures for submitting a notice of arrival (NOA), and a notice of hazardous condition. The sections in this subpart describe: 
 
-(a) Applicability and exemptions from requirements in this subpart;
+(a) Applicability and exemptions from requirements in this subpart; 
 
-(b) Required information in an NOA;
+(b) Required information in an NOA; 
 
-(c) Required updates to an NOA;
+(c) Required updates to an NOA; 
 
-(d) Methods and times for submission of an NOA, and updates to an NOA;
+(d) Methods and times for submission of an NOA, and updates to an NOA; 
 
-(e) How to obtain a waiver; and
+(e) How to obtain a waiver; and 
 
-(f) Requirements for submission of the notice of hazardous condition.
+(f) Requirements for submission of the notice of hazardous condition. 
 
 Note to § 160.201.
 

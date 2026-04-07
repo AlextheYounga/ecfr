@@ -1,6 +1,6 @@
 ##### § 161.35 Vessel Traffic Service Houston/Galveston.
 
-(a) The VTS area consists of the following major waterways and portions of connecting waterways: Galveston Bay Entrance Channel; Outer Bar Channel; Inner Bar Channel; Bolivar Roads Channel; Galveston Channel; Gulf ICW and Galveston-Freeport Cut-Off from Mile 346 to Mile 352; Texas City Channel; Texas City Turning Basin; Texas City Canal Channel; Texas City Canal Turning Basin; Houston Ship Channel; Bayport Channel; Bayport Turning Basin; Houston Turning Basin; and the following precautionary areas associated with these waterways.
+(a) The VTS area consists of the following major waterways and portions of connecting waterways: Galveston Bay Entrance Channel; Outer Bar Channel; Inner Bar Channel; Bolivar Roads Channel; Galveston Channel; Gulf ICW and Galveston-Freeport Cut-Off from Mile 346 to Mile 352; Texas City Channel; Texas City Turning Basin; Texas City Canal Channel; Texas City Canal Turning Basin; Houston Ship Channel; Bayport Channel; Bayport Turning Basin; Houston Turning Basin; and the following precautionary areas associated with these waterways. 
 
 (b) *Precautionary areas.*
 

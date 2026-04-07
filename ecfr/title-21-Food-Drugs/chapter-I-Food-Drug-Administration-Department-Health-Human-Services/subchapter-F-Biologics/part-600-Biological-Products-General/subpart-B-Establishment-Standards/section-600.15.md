@@ -1,6 +1,6 @@
 ##### § 600.15 Temperatures during shipment.
 
-The following products shall be maintained during shipment at the specified temperatures:
+The following products shall be maintained during shipment at the specified temperatures: 
 
 (a) *Products.*
 
@@ -32,6 +32,6 @@ The following products shall be maintained during shipment at the specified temp
 | Whole Blood                                    | Blood that is transported from the collecting facility to the processing facility shall be transported in an environment capable of continuously cooling the blood toward a temperature range of 1 to 10 °C, or at a temperature as close as possible to 20 to 24 °C for a period not to exceed 6 hours. Blood transported from the storage facility shall be placed in an appropriate environment to maintain a temperature range between 1 to 10 °C during shipment. |
 | Yellow Fever Vaccine                           | 0 °C or colder.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-(b) *Exemptions.* Exemptions or modifications shall be made only upon written approval, in the form of a supplement to the biologics license application, approved by the Director, Center for Biologics Evaluation and Research.
+(b) *Exemptions.* Exemptions or modifications shall be made only upon written approval, in the form of a supplement to the biologics license application, approved by the Director, Center for Biologics Evaluation and Research. 
 
 \[39 FR 39872, Nov. 12, 1974, as amended at 49 FR 23833, June 8, 1984; 50 FR 4133, Jan. 29, 1985; 50 FR 9000, Mar. 6, 1985; 55 FR 11013, Mar. 26, 1990; 59 FR 49351, Sept. 28, 1994; 64 FR 56449, Oct. 20, 1999\]

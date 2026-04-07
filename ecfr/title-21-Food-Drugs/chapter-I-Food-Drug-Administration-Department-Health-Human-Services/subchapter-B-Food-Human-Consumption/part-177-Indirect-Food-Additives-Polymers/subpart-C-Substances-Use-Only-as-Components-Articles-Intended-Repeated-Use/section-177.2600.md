@@ -1,20 +1,20 @@
 ##### § 177.2600 Rubber articles intended for repeated use.
 
-Rubber articles intended for repeated use may be safely used in producing, manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food, subject to the provisions of this section.
+Rubber articles intended for repeated use may be safely used in producing, manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food, subject to the provisions of this section. 
 
-(a) The rubber articles are prepared from natural and/or synthetic polymers and adjuvant substances as described in paragraph (c) of this section.
+(a) The rubber articles are prepared from natural and/or synthetic polymers and adjuvant substances as described in paragraph (c) of this section. 
 
-(b) The quantity of any substance employed in the production of rubber articles intended for repeated use shall not exceed the amount reasonably required to accomplish the intended effect in the rubber article and shall not be intended to accomplish any effect in food.
+(b) The quantity of any substance employed in the production of rubber articles intended for repeated use shall not exceed the amount reasonably required to accomplish the intended effect in the rubber article and shall not be intended to accomplish any effect in food. 
 
-(c) Substances employed in the preparation of rubber articles include the following, subject to any limitations prescribed:
+(c) Substances employed in the preparation of rubber articles include the following, subject to any limitations prescribed: 
 
-(1) Substances generally recognized as safe for use in food or food packaging.
+(1) Substances generally recognized as safe for use in food or food packaging. 
 
-(2) Substances used in accordance with the provisions of a prior sanction or approval.
+(2) Substances used in accordance with the provisions of a prior sanction or approval. 
 
-(3) Substances that by regulation in parts 170 through 189 of this chapter may be safely used in rubber articles, subject to the provisions of such regulation.
+(3) Substances that by regulation in parts 170 through 189 of this chapter may be safely used in rubber articles, subject to the provisions of such regulation. 
 
-(4) Substances identified in this paragraph (c)(4), provided that any substance that is the subject of a regulation in parts 174, 175, 176, 177, 178 and § 179.45 of this chapter conforms with any specification in such regulation.
+(4) Substances identified in this paragraph (c)(4), provided that any substance that is the subject of a regulation in parts 174, 175, 176, 177, 178 and § 179.45 of this chapter conforms with any specification in such regulation. 
 
 (i) *Elastomers.*
 
@@ -48,7 +48,7 @@ Butylacetyl ricinoleate. *n*-Butyl ester of tall oil fatty acids. Butyl laurate.
 
 Aluminum hydroxide. Aluminum silicate. Asbestos fiber, chrysotile or crocidolite. Barium sulfate. Carbon black (channel process or furnace combustion process; total carbon black not to exceed 50 percent by weight of rubber product; furnace combustion black content not to exceed 10 percent by weight of rubber products intended for use in contact with milk or edible oils). Cork. Cotton (floc, fibers, fabric). Mica. Nylon (floc, fibers, fabric). Silica. Titanium dioxide. Zinc carbonate. Zinc sulfide.
 
-(vi) *Colorants.* Colorants used in accordance with § 178.3297 of this chapter.
+(vi) *Colorants.* Colorants used in accordance with § 178.3297 of this chapter. 
 
 (vii) *Lubricants (total not to exceed 2 percent by weight of rubber product).*
 
@@ -62,16 +62,16 @@ Fatty acid salts, sodium or potassium. Naphthalene sulfonic acid-formaldehyde co
 
 Animal glue as described in § 178.3120 of this chapter. Azodicarbonamide as chemical blowing agent. 2-Anthraquinone sulfonic acid sodium salt for use only as polymerization inhibitor in chloroprene polymers and not to exceed 0.03 percent by weight of the chloroprene polymers. 1,2-Benzisothiazolin-3-one (CAS Reg. No. 2634-33-5) for use as a biocide in uncured liquid rubber latex not to exceed 0.02 percent by weight of the latex solids, where the total of all items listed in paragraph (c)(4)(ix) of this section does not exceed 5 percent of the rubber product. *n*-Butyllithium for use only as polymerization catalyst for polybutadiene. 4-*tert*-Butyl-*o*-thiocresol as peptizing agent. *tert*-Butyl peracetate. *p-tert*-Butylpyrocatechol. Dialkyl (C8-C18) dimethylammonium chloride for use only as a flocculating agent in the manufacture of silica. Di- and triethanolamine. Diethyl xanthogen disulfide. 4-(Diiodomethylsulfonyl) toluene, Chemical Abstracts Service Registry No. 20018-09-01, for use as an antifungal preservative at levels not to exceed 0.3 percent by weight of the sealants and caulking materials. Dodecyl mercaptan isomers, single or mixed. 2-Ethoxyethanol. Iodoform. *p*-Menthane hydroperoxide. *a*-(*p*-Nonylphenyl)-*omega*-hydroxypoly (oxyethylene) mixture of dihydrogen phosphate and monohydrogen phosphate esters, barium salt; the nonyl group is a propylene trimer isomer and the poly (oxyethylene) content averages 9 moles; for use only as residual polymerization emulsifier at levels not to exceed 0.7 percent by weight of ethylene-propylene-1,4-hexadiene copolymers identified under paragraph (c)(4)(i) of this section. 4,4′-Oxybis (benzenesulfonhydrazide) as chemical blowing agent. Phenothiazine. Potassium persulfate. Sodium formaldehyde sulfoxylate. Sodium polysulfide. Sodium nitrite. Sodium salt of ethylenediamine tetraacetic acid and glycine. Sodium sulfide. Styrene monomer. Tall oil. Thioxylenois as peptizing agents. Tridecyl mercaptan. Zinc 4-*tert*-butylthiophenate as peptizing agent.
 
-(d) Rubber articles intended for use with dry food are so formulated and cured under conditions of good manufacturing practice as to be suitable for repeated use.
+(d) Rubber articles intended for use with dry food are so formulated and cured under conditions of good manufacturing practice as to be suitable for repeated use. 
 
-(e) Rubber articles intended for repeated use in contact with aqueous food shall meet the following specifications: The food-contact surface of the rubber article in the finished form in which it is to contact food, when extracted with distilled water at reflux temperature, shall yield total extractives not to exceed 20 milligrams per square inch during the first 7 hours of extraction, nor to exceed 1 milligram per square inch during the succeeding 2 hours of extraction.
+(e) Rubber articles intended for repeated use in contact with aqueous food shall meet the following specifications: The food-contact surface of the rubber article in the finished form in which it is to contact food, when extracted with distilled water at reflux temperature, shall yield total extractives not to exceed 20 milligrams per square inch during the first 7 hours of extraction, nor to exceed 1 milligram per square inch during the succeeding 2 hours of extraction. 
 
-(f) Rubber articles intended for repeated use in contact with fatty foods shall meet the following specifications: The food-contact surface of the rubber article in the finished form in which it is to contact food, when extracted with *n*-hexane at reflux temperature, shall yield total extractives not to exceed 175 milligrams per square inch during the first 7 hours of extraction, nor to exceed 4 milligrams per square inch during the succeeding 2 hours of extraction.
+(f) Rubber articles intended for repeated use in contact with fatty foods shall meet the following specifications: The food-contact surface of the rubber article in the finished form in which it is to contact food, when extracted with *n*-hexane at reflux temperature, shall yield total extractives not to exceed 175 milligrams per square inch during the first 7 hours of extraction, nor to exceed 4 milligrams per square inch during the succeeding 2 hours of extraction. 
 
-(g) In accordance with good manufacturing practice finished rubber articles intended for repeated use in contact with food shall be thoroughly cleansed prior to their first use in contact with food.
+(g) In accordance with good manufacturing practice finished rubber articles intended for repeated use in contact with food shall be thoroughly cleansed prior to their first use in contact with food. 
 
-(h) The provisions of this section are not applicable to rubber nursing-bottle nipples.
+(h) The provisions of this section are not applicable to rubber nursing-bottle nipples. 
 
-(i) Acrylonitrile copolymers identified in this section shall comply with the provisions of § 180.22 of this chapter.
+(i) Acrylonitrile copolymers identified in this section shall comply with the provisions of § 180.22 of this chapter. 
 
 \[42 FR 14572, Mar. 15, 1977\] Editorial Note:For Federal Register citations affecting § 177.2600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -4,20 +4,20 @@
 
 (b) International Chamber of Shipping, 12 Carthusian Street, London EC1M 6EB, England, telephone + 44 20 7417 8844, *http://www.marisec.org/.*
 
-(1) Guide to Helicopter/Ship Operations, Fourth Edition, 2008, incorporation by reference approved for § 156.330(c).
+(1) Guide to Helicopter/Ship Operations, Fourth Edition, 2008, incorporation by reference approved for § 156.330(c). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 (c) International Maritime Organization (IMO), 4 Albert Embankment, London SE1 7SR, United Kingdom, telephone + 44(0)20 7735 7611, *http://www.imo.org/.*
 
-(1) Manual on Oil Pollution, Section I: Prevention, Second Edition, 2011, incorporation by reference approved for § 156.410(c) and (f).
+(1) Manual on Oil Pollution, Section I: Prevention, Second Edition, 2011, incorporation by reference approved for § 156.410(c) and (f). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 (d) Oil Companies International Marine Forum (OCIMF), 15th Floor, 96 Victoria Street, London SW1E 5JW, England, telephone + 44(0)20 7654 1200, *http://www.ocimf.com/.*
 
-(1) Ship to Ship Transfer Guide, (Petroleum), Fourth Edition, 2005, incorporation by reference approved for § 156.330(b), § 156.410(c) and 156.410(f).
+(1) Ship to Ship Transfer Guide, (Petroleum), Fourth Edition, 2005, incorporation by reference approved for § 156.330(b), § 156.410(c) and 156.410(f). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 \[USCG-2010-0194, 80 FR 5935, Feb. 4, 2015\]

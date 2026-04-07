@@ -1,6 +1,6 @@
 ##### § 102.50 Crabmeat.
 
-The common or usual name of crabmeat derived from each of the following designated species of crabs shall be as follows:
+The common or usual name of crabmeat derived from each of the following designated species of crabs shall be as follows: 
 
 | Scientific name of crab                                                                     | Common or usual name of crabmeat            |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------- |

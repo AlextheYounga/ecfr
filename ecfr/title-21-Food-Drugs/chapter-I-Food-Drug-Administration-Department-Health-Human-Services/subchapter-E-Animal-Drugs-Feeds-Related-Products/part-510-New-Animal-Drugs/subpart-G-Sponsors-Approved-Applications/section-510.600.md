@@ -1,10 +1,10 @@
 ##### § 510.600 Names, addresses, and drug labeler codes of sponsors of approved applications.
 
-(a) Section 512(i) of the act requires publication of names and addresses of sponsors of approved applications for new animal drugs.
+(a) Section 512(i) of the act requires publication of names and addresses of sponsors of approved applications for new animal drugs. 
 
-(b) In this section each name and address is identified by a numerical drug labeler code. The labeler codes identify the sponsors of the new animal drug applications associated with the regulations published pursuant to section 512(i) of the act. The codes appear in the appropriate regulations and serve as a reference to the names and addresses listed in this section. The drug labeler code is established pursuant to section 510 of the act.
+(b) In this section each name and address is identified by a numerical drug labeler code. The labeler codes identify the sponsors of the new animal drug applications associated with the regulations published pursuant to section 512(i) of the act. The codes appear in the appropriate regulations and serve as a reference to the names and addresses listed in this section. The drug labeler code is established pursuant to section 510 of the act. 
 
-(c) The names, addresses, and drug labeler codes of sponsors of approved new animal drug applications are as follows:
+(c) The names, addresses, and drug labeler codes of sponsors of approved new animal drug applications are as follows: 
 
 (1) Alphabetical Listing of Sponsors
 | Firm name and address                                                                                                                                                                                           | Drug labeler code |

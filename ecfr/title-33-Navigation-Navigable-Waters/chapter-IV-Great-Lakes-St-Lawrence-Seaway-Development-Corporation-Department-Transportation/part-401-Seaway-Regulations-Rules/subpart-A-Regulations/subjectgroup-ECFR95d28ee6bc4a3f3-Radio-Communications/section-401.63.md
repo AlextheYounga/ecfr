@@ -1,6 +1,6 @@
 ##### § 401.63 Radio procedures.
 
-Every vessel shall use the channels of communication in each control sector as listed in the table to this section.
+Every vessel shall use the channels of communication in each control sector as listed in the table to this section. 
 
 Channels of Communication
 | Station            | Control   sector   number | Sector limits                        | Call in | Work   | Listening   watch |

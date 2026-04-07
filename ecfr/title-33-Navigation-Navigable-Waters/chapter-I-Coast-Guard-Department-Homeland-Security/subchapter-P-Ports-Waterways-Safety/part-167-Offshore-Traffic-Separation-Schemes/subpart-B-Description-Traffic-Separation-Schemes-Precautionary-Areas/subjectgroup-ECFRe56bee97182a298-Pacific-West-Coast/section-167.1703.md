@@ -1,8 +1,8 @@
 ##### § 167.1703 In Prince William Sound: Valdez Arm Traffic Separation Scheme.
 
-The Valdez Arm Traffic Separation Scheme consists of the following:
+The Valdez Arm Traffic Separation Scheme consists of the following: 
 
-(a) A separation zone bounded by a line connecting the following geographical positions:
+(a) A separation zone bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
@@ -11,14 +11,14 @@ The Valdez Arm Traffic Separation Scheme consists of the following:
 | 60°58.30′ N | 146°47.10′ W |
 | 60°50.45′ N | 146°58.75′ W |
 
-(b) A traffic lane for northbound traffic between the separation zone and a line connecting the following geographical positions:
+(b) A traffic lane for northbound traffic between the separation zone and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
 | 60°49.39′ N | 146°58.19′ W |
 | 60°58.04′ N | 146°46.52′ W |
 
-(c) A traffic lane for southbound traffic between the separation zone and a line connecting the following geographical positions:
+(c) A traffic lane for southbound traffic between the separation zone and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |

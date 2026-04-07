@@ -1,20 +1,20 @@
 ##### § 1002.1 Applicability.
 
-The provisions of this part are applicable as follows:
+The provisions of this part are applicable as follows: 
 
-(a) All manufacturers of electronic products are subject to § 1002.20.
+(a) All manufacturers of electronic products are subject to § 1002.20. 
 
-(b) Manufacturers, dealers, and distributors of electronic products are subject to the provisions of part 1002 as set forth in table 1 of this section, unless excluded by paragraph (c) of this section, or unless an exemption has been granted under § 1002.50 or § 1002.51.
+(b) Manufacturers, dealers, and distributors of electronic products are subject to the provisions of part 1002 as set forth in table 1 of this section, unless excluded by paragraph (c) of this section, or unless an exemption has been granted under § 1002.50 or § 1002.51. 
 
-(c) The requirements of part 1002 as specified in table 1 of this section are not applicable to:
+(c) The requirements of part 1002 as specified in table 1 of this section are not applicable to: 
 
-(1) Manufacturers of electronic products intended solely for export if such product is labeled or tagged to show that the product meets all the applicable requirements of the country to which such product is intended for export.
+(1) Manufacturers of electronic products intended solely for export if such product is labeled or tagged to show that the product meets all the applicable requirements of the country to which such product is intended for export. 
 
-(2) Manufacturers of electronic products listed in table 1 of this section if such product is sold exclusively to other manufacturers for use as components of electronic products to be sold to purchasers, with the exception that the provisions are applicable to those manufacturers certifying components of diagnostic x-ray systems pursuant to provisions of § 1020.30(c) of this chapter.
+(2) Manufacturers of electronic products listed in table 1 of this section if such product is sold exclusively to other manufacturers for use as components of electronic products to be sold to purchasers, with the exception that the provisions are applicable to those manufacturers certifying components of diagnostic x-ray systems pursuant to provisions of § 1020.30(c) of this chapter. 
 
-(3) Manufacturers of electronic products that are intended for use by the U.S. Government and whose function or design cannot be divulged by the manufacturer for reasons of national security, as evidenced by government security classification.
+(3) Manufacturers of electronic products that are intended for use by the U.S. Government and whose function or design cannot be divulged by the manufacturer for reasons of national security, as evidenced by government security classification. 
 
-(4) Assemblers of diagnostic x-ray equipment subject to the provisions of § 1020.30(d) of this chapter, provided the assembler has submitted the report required by § 1020.30(d)(1) or (d)(2) of this chapter and retains a copy of such report for a period of 5 years from its date.
+(4) Assemblers of diagnostic x-ray equipment subject to the provisions of § 1020.30(d) of this chapter, provided the assembler has submitted the report required by § 1020.30(d)(1) or (d)(2) of this chapter and retains a copy of such report for a period of 5 years from its date. 
 
 Table 1 to § 1002.1—Record and Reporting Requirements by Product
 | Manufacturer                                                                                                                                                                                                                                                                                                                                                              | Dealer &   distributor |

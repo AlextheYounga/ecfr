@@ -1,8 +1,8 @@
 ##### § 162.160 Vermilion, Lorain, Cleveland, Fairport, Ashtabula, and Conneaut Harbors, Ohio.
 
-(a) In Vermilion Harbor, no vessel may exceed 6 miles per hour.
+(a) In Vermilion Harbor, no vessel may exceed 6 miles per hour. 
 
-(b) In Lorain, Cleveland, Fairport, Ashtabula, and Conneaut Harbors, no vessel may exceed 6 miles per hour, except in the outer harbors, where no vessel may exceed 10 miles per hour.
+(b) In Lorain, Cleveland, Fairport, Ashtabula, and Conneaut Harbors, no vessel may exceed 6 miles per hour, except in the outer harbors, where no vessel may exceed 10 miles per hour. 
 
 Note:
 

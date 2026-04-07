@@ -1,6 +1,6 @@
 ##### § 167.252 In the approaches to the Cape Fear River: Traffic separation scheme.
 
-(a) A traffic separation zone is established bounded by a line connecting the following geographical positions:
+(a) A traffic separation zone is established bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
@@ -9,14 +9,14 @@
 | 33°34.50′ N | 78°14.70′ W. |
 | 33°45.11′ N | 78°04.98′ W. |
 
-(b) A traffic lane for northbound traffic is established between the separation zone and a line connecting the following geographic positions:
+(b) A traffic lane for northbound traffic is established between the separation zone and a line connecting the following geographic positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
 | 33°32.75′ N | 78°05.99′ W. |
 | 33°44.38′ N | 78°03.77′ W. |
 
-(c) A traffic lane for southbound traffic is established between the separation zone and a line connecting the following geographic positions:
+(c) A traffic lane for southbound traffic is established between the separation zone and a line connecting the following geographic positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |

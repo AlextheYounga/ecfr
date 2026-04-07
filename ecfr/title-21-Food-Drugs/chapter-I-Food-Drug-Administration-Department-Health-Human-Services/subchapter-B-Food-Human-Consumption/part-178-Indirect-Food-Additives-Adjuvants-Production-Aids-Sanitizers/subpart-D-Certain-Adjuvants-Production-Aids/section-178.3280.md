@@ -1,10 +1,10 @@
 ##### § 178.3280 Castor oil, hydrogenated.
 
-Hydrogenated castor oil may be safely used in the manufacture of articles or components of articles intended for use in contact with food subject to the provisions of this section.
+Hydrogenated castor oil may be safely used in the manufacture of articles or components of articles intended for use in contact with food subject to the provisions of this section. 
 
-(a) The quantity used shall not exceed the amount reasonably required to accomplish the intended technical effect.
+(a) The quantity used shall not exceed the amount reasonably required to accomplish the intended technical effect. 
 
-(b) The additive is used as follows:
+(b) The additive is used as follows: 
 
 | Use                                                                                                                                          | Limitations                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |

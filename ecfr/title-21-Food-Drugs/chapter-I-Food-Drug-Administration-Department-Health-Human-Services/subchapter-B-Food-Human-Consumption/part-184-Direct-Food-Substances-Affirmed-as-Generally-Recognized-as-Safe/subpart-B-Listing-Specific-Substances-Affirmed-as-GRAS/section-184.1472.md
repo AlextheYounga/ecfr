@@ -1,28 +1,28 @@
 ##### § 184.1472 Menhaden oil.
 
-(a) *Menhaden oil.* (1) Menhaden oil is prepared from fish of the genus *Brevoortia,* commonly known as menhaden, by cooking and pressing. The resulting crude oil is then refined using the following steps: Storage (winterization), degumming (optional), neutralization, bleaching, and deodorization. Winterization may separate the oil and produce a solid fraction.
+(a) *Menhaden oil.* (1) Menhaden oil is prepared from fish of the genus *Brevoortia,* commonly known as menhaden, by cooking and pressing. The resulting crude oil is then refined using the following steps: Storage (winterization), degumming (optional), neutralization, bleaching, and deodorization. Winterization may separate the oil and produce a solid fraction. 
 
-(2) Menhaden oil meets the following specifications:
+(2) Menhaden oil meets the following specifications: 
 
-(i) *Color and state.* Yellow liquid to white solid.
+(i) *Color and state.* Yellow liquid to white solid. 
 
-(ii) *Odor.* Odorless to slightly fishy.
+(ii) *Odor.* Odorless to slightly fishy. 
 
 (iii) *Saponification value.* Between 180 and 200 as determined by the American Oil Chemists' Society Official Method Cd 3-25—“Saponification Value” (reapproved 1989), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of this publication are available from the Office of Food Additive Safety, Center for Food Safety and Applied Nutrition (HFS-200), Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, or available for inspection at the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(iv) *Iodine number.* Not less than 120 as determined by the American Oil Chemists' Society Recommended Practice Cd 1d-92—“Iodine Value of Fats and Oils, Cyclohexane—Acetic Acid Method,” which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
+(iv) *Iodine number.* Not less than 120 as determined by the American Oil Chemists' Society Recommended Practice Cd 1d-92—“Iodine Value of Fats and Oils, Cyclohexane—Acetic Acid Method,” which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section. 
 
-(v) *Unsaponifiable matter.* Not more than 1.5 percent as determined by the American Oil Chemists' Society Official Method Ca 6b-53—“Unsaponifiable Matter” (reapproved 1989), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
+(v) *Unsaponifiable matter.* Not more than 1.5 percent as determined by the American Oil Chemists' Society Official Method Ca 6b-53—“Unsaponifiable Matter” (reapproved 1989), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section. 
 
-(vi) *Free fatty acids.* Not more than 0.1 percent as determined by the American Oil Chemists' Society Official Method Ca 5a-40—“Free Fatty Acids” (reapproved 1989), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
+(vi) *Free fatty acids.* Not more than 0.1 percent as determined by the American Oil Chemists' Society Official Method Ca 5a-40—“Free Fatty Acids” (reapproved 1989), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section. 
 
-(vii) *Peroxide value.* Not more than 5 milliequivalents per kilogram of oil as determined by the American Oil Chemists' Society Official Method Cd 8-53—“Peroxide Value, Acetic Acid—Chloroform Method” (updated 1992) or Recommended Practice Cd 8b-90—“Peroxide Value, Acetic Acid—Isooctane Method” (updated 1992), which are incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
+(vii) *Peroxide value.* Not more than 5 milliequivalents per kilogram of oil as determined by the American Oil Chemists' Society Official Method Cd 8-53—“Peroxide Value, Acetic Acid—Chloroform Method” (updated 1992) or Recommended Practice Cd 8b-90—“Peroxide Value, Acetic Acid—Isooctane Method” (updated 1992), which are incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section. 
 
-(viii) *Lead.* Not more than 0.1 part per million as determined by the American Oil Chemists' Society Official Method Ca 18c-91—“Determination of Lead by Direct Graphite Furnace Atomic Absorption Spectrometry” (revised 1992), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
+(viii) *Lead.* Not more than 0.1 part per million as determined by the American Oil Chemists' Society Official Method Ca 18c-91—“Determination of Lead by Direct Graphite Furnace Atomic Absorption Spectrometry” (revised 1992), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section. 
 
-(ix) *Mercury.* Not more than 0.5 part per million as determined by the method entitled “Biomedical Test Materials Program: Analytical Methods for the Quality Assurance of Fish Oil,” published in the “NOAA Technical Memorandum NMFS-SEFC-211,” F. M. Van Dolah and S. B. Galloway, editors, National Marine Fisheries Service, U. S. Department of Commerce, pages 71-88, November, 1988, which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
+(ix) *Mercury.* Not more than 0.5 part per million as determined by the method entitled “Biomedical Test Materials Program: Analytical Methods for the Quality Assurance of Fish Oil,” published in the “NOAA Technical Memorandum NMFS-SEFC-211,” F. M. Van Dolah and S. B. Galloway, editors, National Marine Fisheries Service, U. S. Department of Commerce, pages 71-88, November, 1988, which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section. 
 
-(3) In accordance with § 184.1(b)(2), the ingredient may be used in food only within the following specific limitations to ensure that total intake of eicosapentaenoic acid or docosahexaenoic acid does not exceed 3.0 grams/person/day:
+(3) In accordance with § 184.1(b)(2), the ingredient may be used in food only within the following specific limitations to ensure that total intake of eicosapentaenoic acid or docosahexaenoic acid does not exceed 3.0 grams/person/day: 
 
 | Category of food                                                      | Maximum level of use in food (as served) |
 | --------------------------------------------------------------------- | ---------------------------------------- |
@@ -57,36 +57,36 @@
 | Sweet sauces, toppings, syrups, § 170.3(n)(43) of this chapter        | 5.0 percent                              |
 | White granulated sugar, § 170.3(n)(41) of this chapter                | 4.0 percent                              |
 
-(4) To ensure safe use of the substance, menhaden oil shall not be used in combination with any other added oil that is a significant source of eicosapentaenoic acid or docosahexaenoic acid.
+(4) To ensure safe use of the substance, menhaden oil shall not be used in combination with any other added oil that is a significant source of eicosapentaenoic acid or docosahexaenoic acid. 
 
-(b) *Hydrogenated menhaden oil.* (1) Hydrogenated menhaden oil is prepared by feeding hydrogen gas under pressure to a converter containing crude menhaden oil and a nickel catalyst. The reaction is begun at 150 to 160 °C and after 1 hour the temperature is raised to 180 °C until the menhaden oil is fully hydrogenated.
+(b) *Hydrogenated menhaden oil.* (1) Hydrogenated menhaden oil is prepared by feeding hydrogen gas under pressure to a converter containing crude menhaden oil and a nickel catalyst. The reaction is begun at 150 to 160 °C and after 1 hour the temperature is raised to 180 °C until the menhaden oil is fully hydrogenated. 
 
-(2) Hydrogenated menhaden oil meets the following specifications:
+(2) Hydrogenated menhaden oil meets the following specifications: 
 
-(i) *Color.* Opaque white solid.
+(i) *Color.* Opaque white solid. 
 
-(ii) *Odor.* Odorless.
+(ii) *Odor.* Odorless. 
 
-(iii) *Saponification value.* Between 180 and 200.
+(iii) *Saponification value.* Between 180 and 200. 
 
-(iv) *Iodine number.* Not more than 4.
+(iv) *Iodine number.* Not more than 4. 
 
-(v) *Unsaponifiable matter.* Not more than 1.5 percent.
+(v) *Unsaponifiable matter.* Not more than 1.5 percent. 
 
-(vi) *Free fatty acids.* Not more than 0.1 percent.
+(vi) *Free fatty acids.* Not more than 0.1 percent. 
 
-(vii) *Peroxide value.* Not more than 5 milliequivalents per kilogram of oil.
+(vii) *Peroxide value.* Not more than 5 milliequivalents per kilogram of oil. 
 
-(viii) *Nickel.* Not more than 0.5 part per million.
+(viii) *Nickel.* Not more than 0.5 part per million. 
 
-(ix) *Mercury.* Not more than 0.5 part per million.
+(ix) *Mercury.* Not more than 0.5 part per million. 
 
-(x) *Arsenic (as As).* Not more than 0.1 part per million.
+(x) *Arsenic (as As).* Not more than 0.1 part per million. 
 
-(xi) *Lead.* Not more than 0.1 part per million.
+(xi) *Lead.* Not more than 0.1 part per million. 
 
-(3) Hydrogenated menhaden oil is used as edible fat or oil, as defined in § 170.3(n)(12) of this chapter, in food at levels not to exceed current good manufacturing practice.
+(3) Hydrogenated menhaden oil is used as edible fat or oil, as defined in § 170.3(n)(12) of this chapter, in food at levels not to exceed current good manufacturing practice. 
 
-(4) The name to be used on the label of a product containing hydrogenated menhaden oil must include the term “hydrogenated,” in accordance with § 101.4(b)(14) of this chapter.
+(4) The name to be used on the label of a product containing hydrogenated menhaden oil must include the term “hydrogenated,” in accordance with § 101.4(b)(14) of this chapter. 
 
 \[62 FR 30756, June 5, 1997, as amended at 70 FR 14531, Mar. 23, 2005; 81 FR 5596, Feb. 3, 2016; 88 FR 17724, Mar. 24, 2023; 88 FR 53773, Aug. 9, 2023\]

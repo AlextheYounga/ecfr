@@ -1,6 +1,6 @@
 ##### § 178.3010 Adjuvant substances used in the manufacture of foamed plastics.
 
-The following substances may be safely used as adjuvants in the manufacture of foamed plastics intended for use in contact with food, subject to any prescribed limitations:
+The following substances may be safely used as adjuvants in the manufacture of foamed plastics intended for use in contact with food, subject to any prescribed limitations: 
 
 | List of substances                        | Limitations                                                                                                                                                                                                                                                                              |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

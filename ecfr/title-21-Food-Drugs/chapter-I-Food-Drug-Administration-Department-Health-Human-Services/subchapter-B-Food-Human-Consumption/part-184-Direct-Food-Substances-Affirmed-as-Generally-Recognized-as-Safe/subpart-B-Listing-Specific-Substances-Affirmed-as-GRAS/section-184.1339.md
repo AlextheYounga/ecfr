@@ -1,10 +1,10 @@
 ##### § 184.1339 Guar gum.
 
-(a) Guar gum is the natural substance obtained from the maceration of the seed of the guar plant, *Cyamopsis tetragonoloba* (Linne) Taub., or *Cyamopsis psoraloides* (Lam.) D.C.
+(a) Guar gum is the natural substance obtained from the maceration of the seed of the guar plant, *Cyamopsis tetragonoloba* (Linne) Taub., or *Cyamopsis psoraloides* (Lam.) D.C. 
 
 (b) The ingredient meets the specifications of the “Food Chemicals Codex,” 3d Ed. (1981), p. 141, which is incorporated by reference. Copies may be obtained from the National Academy Press, 2101 Constitution Ave. NW., Washington, DC 20418, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(c) The ingredient is used in food under the following conditions:
+(c) The ingredient is used in food under the following conditions: 
 
 Maximum Usage Levels Permitted
 | Food (as served)                                                          | Percent | Function                                                                                                                                                                                                                  |
@@ -22,8 +22,8 @@ Maximum Usage Levels Permitted
 | Sweet sauces, toppings and syrups, § 170.3(n)(43) of this chapter         | 1.0     | Do.                                                                                                                                                                                                                       |
 | All other food categories                                                 | .5      | Emulsifier and emulsifier salts, § 170.3(o)(8) of this chapter; firming agent, § 170.3(o)(10) of this chapter; formulation aid, § 170.3(o)(14) of this chapter; stabilizer and thickener, § 170.3(o)(28) of this chapter. |
 
-(d) \[Reserved\]
+(d) \[Reserved\] 
 
-(e) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived.
+(e) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived. 
 
 \[42 FR 14653, Mar. 15, 1977, as amended at 42 FR 55205, Oct. 14, 1977; 49 FR 5612, Feb. 14, 1984\]

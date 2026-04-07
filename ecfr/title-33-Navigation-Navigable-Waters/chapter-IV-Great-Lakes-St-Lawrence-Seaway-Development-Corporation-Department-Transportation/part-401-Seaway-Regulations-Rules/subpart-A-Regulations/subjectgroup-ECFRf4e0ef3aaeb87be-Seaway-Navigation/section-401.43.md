@@ -1,6 +1,6 @@
 ##### § 401.43 Mooring table.
 
-Unless otherwise directed by an officer, vessels passing through the locks shall moor at the side of the tie-up wall or lock as shown in the table to this section.
+Unless otherwise directed by an officer, vessels passing through the locks shall moor at the side of the tie-up wall or lock as shown in the table to this section. 
 
 |              | South Shore | Beauharnois | Wiley-Dondero Iroquois |
 | ------------ | ----------- | ----------- | ---------------------- |

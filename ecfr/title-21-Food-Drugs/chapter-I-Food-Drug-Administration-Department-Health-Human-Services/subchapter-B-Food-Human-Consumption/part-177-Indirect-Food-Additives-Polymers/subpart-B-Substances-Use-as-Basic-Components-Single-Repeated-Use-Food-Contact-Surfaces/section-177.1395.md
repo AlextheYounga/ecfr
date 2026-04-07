@@ -1,16 +1,16 @@
 ##### § 177.1395 Laminate structures for use at temperatures between 120 °F and 250 °F.
 
-(a) The laminates identified in this section may be safely used at the specified temperatures. These articles are layered structures that are optionally bonded with adhesives. In these articles, the food-contact layer does not function as a barrier to migration of components from non-food-contact layers. The layers may be laminated, extruded, coextruded, or fused.
+(a) The laminates identified in this section may be safely used at the specified temperatures. These articles are layered structures that are optionally bonded with adhesives. In these articles, the food-contact layer does not function as a barrier to migration of components from non-food-contact layers. The layers may be laminated, extruded, coextruded, or fused. 
 
-(b) Laminate structures may be manufactured from:
+(b) Laminate structures may be manufactured from: 
 
-(1) Polymers and adjuvants complying with § 177.1390 of this chapter.
+(1) Polymers and adjuvants complying with § 177.1390 of this chapter. 
 
-(2) Any polymeric resin listed in these regulations so long as the use of the resin in the structure complies with the conditions of use (food type and time/temperature) specified in the regulation for that resin.
+(2) Any polymeric resin listed in these regulations so long as the use of the resin in the structure complies with the conditions of use (food type and time/temperature) specified in the regulation for that resin. 
 
-(3) Optional adjuvant substances used in accordance with § 174.5 of this chapter.
+(3) Optional adjuvant substances used in accordance with § 174.5 of this chapter. 
 
-(4) The following substances in non-food-contact layers only:
+(4) The following substances in non-food-contact layers only: 
 
 | Substances                                                                                                                  | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

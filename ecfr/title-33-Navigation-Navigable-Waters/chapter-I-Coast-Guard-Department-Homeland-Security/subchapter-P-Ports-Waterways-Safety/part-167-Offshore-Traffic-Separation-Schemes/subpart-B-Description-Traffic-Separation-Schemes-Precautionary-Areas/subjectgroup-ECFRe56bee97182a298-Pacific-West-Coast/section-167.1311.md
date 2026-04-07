@@ -1,8 +1,8 @@
 ##### § 167.1311 In the Strait of Juan de Fuca: Western lanes.
 
-In the western lanes of the Strait of Juan de Fuca, the following are established:
+In the western lanes of the Strait of Juan de Fuca, the following are established: 
 
-(a) A separation zone bounded by a line connecting the following geographical positions:
+(a) A separation zone bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°29.11′ N | 125°00.00′ W |
@@ -14,9 +14,9 @@ In the western lanes of the Strait of Juan de Fuca, the following are establishe
 | 48°30.10′ N | 124°43.50′ W |
 | 48°30.10′ N | 125°00.00′ W |
 
-(b) A traffic lane for north-westbound traffic.
+(b) A traffic lane for north-westbound traffic. 
 
-(1) The traffic lane is established between the separation zone and a line connecting the following geographical positions:
+(1) The traffic lane is established between the separation zone and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°16.45′ N | 123°30.42′ W |
@@ -26,9 +26,9 @@ In the western lanes of the Strait of Juan de Fuca, the following are establishe
 | 48°32.09′ N | 124°49.90′ W |
 | 48°32.09′ N | 125°00.00′ W |
 
-(2) An exit from this lane between points 48°32.00′ N, 124°46.57′ W and 48°32.09′ N, 124°49.90′ W. Vessel traffic may exit this lane at this location or may remain in the lane between points 48°32.09′ N, 124°49.90′ W and 48°32.09′ N, 125°00.00′ W en route to precautionary area “JF,” as described in § 167.1315.
+(2) An exit from this lane between points 48°32.00′ N, 124°46.57′ W and 48°32.09′ N, 124°49.90′ W. Vessel traffic may exit this lane at this location or may remain in the lane between points 48°32.09′ N, 124°49.90′ W and 48°32.09′ N, 125°00.00′ W en route to precautionary area “JF,” as described in § 167.1315. 
 
-(c) A traffic lane for south-eastbound traffic between the separation zone and a line connecting the following geographical positions:
+(c) A traffic lane for south-eastbound traffic between the separation zone and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°28.13′ N | 124°57.90′ W |

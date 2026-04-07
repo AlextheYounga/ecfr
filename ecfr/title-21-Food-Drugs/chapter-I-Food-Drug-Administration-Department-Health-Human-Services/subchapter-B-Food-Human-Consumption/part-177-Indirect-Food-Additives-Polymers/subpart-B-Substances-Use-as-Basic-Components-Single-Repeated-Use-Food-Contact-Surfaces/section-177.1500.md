@@ -1,44 +1,44 @@
 ##### § 177.1500 Nylon resins.
 
-The nylon resins listed in paragraph (a) of this section may be safely used to produce articles intended for use in processing, handling, and packaging food, subject to the provisions of this section:
+The nylon resins listed in paragraph (a) of this section may be safely used to produce articles intended for use in processing, handling, and packaging food, subject to the provisions of this section: 
 
-(a) The nylon resins are manufactured as described in this paragraph so as to meet the specifications prescribed in paragraph (b) of this section when tested by the methods described in paragraph (d) of this section.
+(a) The nylon resins are manufactured as described in this paragraph so as to meet the specifications prescribed in paragraph (b) of this section when tested by the methods described in paragraph (d) of this section. 
 
-(1) Nylon 66 resins are manufactured by the condensation of hexamethylene-diamine and adipic acid.
+(1) Nylon 66 resins are manufactured by the condensation of hexamethylene-diamine and adipic acid. 
 
-(2) Nylon 610 resins are manufactured by the condensation of hexamethylene-diamine and sebacic acid.
+(2) Nylon 610 resins are manufactured by the condensation of hexamethylene-diamine and sebacic acid. 
 
-(3) Nylon 66/610 resins are manufactured by the condensation of equal-weight mixtures of nylon 66 salts and nylon 610 salts.
+(3) Nylon 66/610 resins are manufactured by the condensation of equal-weight mixtures of nylon 66 salts and nylon 610 salts. 
 
-(4) Nylon 6/66 resins manufactured by the condensation and polymerization of Nylon 66 salts and *epsilon*-caprolactam.
+(4) Nylon 6/66 resins manufactured by the condensation and polymerization of Nylon 66 salts and *epsilon*-caprolactam. 
 
-(5) Nylon 11 resins are manufactured by the condensation of 11-aminoundecanoic acid.
+(5) Nylon 11 resins are manufactured by the condensation of 11-aminoundecanoic acid. 
 
-(6) Nylon 6 resins are manufactured by the polymerization of *epsilon-*caprolactam.
+(6) Nylon 6 resins are manufactured by the polymerization of *epsilon-*caprolactam. 
 
-(7) Nylon 66T resins are manufactured by the condensation of hexamethyl-enediamine, adipic acid, and terephthalic acid such that composition in terms of ingredients is 43.1±0.2 weight percent hexamethyl-enediamine, 35.3±1.2 weight percent adipic acid, and 21.6±1.2 weight percent terephthalic acid.
+(7) Nylon 66T resins are manufactured by the condensation of hexamethyl-enediamine, adipic acid, and terephthalic acid such that composition in terms of ingredients is 43.1±0.2 weight percent hexamethyl-enediamine, 35.3±1.2 weight percent adipic acid, and 21.6±1.2 weight percent terephthalic acid. 
 
-(8) Nylon 612 resins are manufactured by the condensation of hexamethylenediamine and dodecanedioic acid.
+(8) Nylon 612 resins are manufactured by the condensation of hexamethylenediamine and dodecanedioic acid. 
 
-(9) Nylon 12 resins are manufactured by the condensation of *omega-*laurolactam.
+(9) Nylon 12 resins are manufactured by the condensation of *omega-*laurolactam. 
 
-(10)(i) Impact modified Nylon MXD-6 resins (CAS Reg. No. 59655-05-9) manufactured by the condensation of adipic acid, 1,3-benzenedimethanamine, and *alpha-*(3-aminopropyl)-*omega-*(3-amino-propoxy)poly- oxyethylene under such conditions that the *alpha*-(3-amino-propyl)-*omega-*(3-aminopropoxy) polyoxyethylene monomer content does not exceed 7 percent by weight of the finished resin.
+(10)(i) Impact modified Nylon MXD-6 resins (CAS Reg. No. 59655-05-9) manufactured by the condensation of adipic acid, 1,3-benzenedimethanamine, and *alpha-*(3-aminopropyl)-*omega-*(3-amino-propoxy)poly- oxyethylene under such conditions that the *alpha*-(3-amino-propyl)-*omega-*(3-aminopropoxy) polyoxyethylene monomer content does not exceed 7 percent by weight of the finished resin. 
 
-(ii) Nylon MXD-6 resins (CAS Reg. No. 25718-70-1) manufactured by the condensation of adipic acid and 1,3-benzenedimethanamine.
+(ii) Nylon MXD-6 resins (CAS Reg. No. 25718-70-1) manufactured by the condensation of adipic acid and 1,3-benzenedimethanamine. 
 
-(11) Nylon 12T resins are manufactured by the condensation of *omega-*laurolactam (CAS Reg. No. 0947-04-6), isophthalic acid (CAS Reg. No. 0121-91-5), and bis(4-amino-3-methylcycl-ohexyl)methane (CAS Reg. No. 6864-37-5) such that the composition in terms of ingredients is 34.4±1.5 weight percent *omega*-laurolactam, 26.8±0.4 weight percent isophthalic acid, and 38.8±0.5 weight percent bis(4-amino-3-methylcyclohexyl)-methane.
+(11) Nylon 12T resins are manufactured by the condensation of *omega-*laurolactam (CAS Reg. No. 0947-04-6), isophthalic acid (CAS Reg. No. 0121-91-5), and bis(4-amino-3-methylcycl-ohexyl)methane (CAS Reg. No. 6864-37-5) such that the composition in terms of ingredients is 34.4±1.5 weight percent *omega*-laurolactam, 26.8±0.4 weight percent isophthalic acid, and 38.8±0.5 weight percent bis(4-amino-3-methylcyclohexyl)-methane. 
 
-(12) Nylon 6I/6T resins (CAS Reg. No. 25750-23-6) are manufactured by the condensation of hexamethylenediamine, terephthalic acid, and isophthalic acid such that 65 to 80 percent of the polymer units are derived from hexamethylene isophthalamide.
+(12) Nylon 6I/6T resins (CAS Reg. No. 25750-23-6) are manufactured by the condensation of hexamethylenediamine, terephthalic acid, and isophthalic acid such that 65 to 80 percent of the polymer units are derived from hexamethylene isophthalamide. 
 
-(13)(i) Nylon 6/12 resins (CAS Reg. No. 25191-04-2) are manufactured by the copolymerization of a 1 to 1 ratio by weight of *epsilon*-caprolactam and *omega*-laurolactam.
+(13)(i) Nylon 6/12 resins (CAS Reg. No. 25191-04-2) are manufactured by the copolymerization of a 1 to 1 ratio by weight of *epsilon*-caprolactam and *omega*-laurolactam. 
 
-(ii) Nylon 6/12 resins (CAS Reg. No. 25191-04-2) are manufactured by the copolymerization of a ratio of at least 80 weight percent of *epsilon*-caprolactam and no more than 20 weight percent of *omega*-laurolactam.
+(ii) Nylon 6/12 resins (CAS Reg. No. 25191-04-2) are manufactured by the copolymerization of a ratio of at least 80 weight percent of *epsilon*-caprolactam and no more than 20 weight percent of *omega*-laurolactam. 
 
-(14) Nylon 6/69 resins (CAS Reg. No. 51995-62-1) are manufactured by the condensation of 49.5 + 0.5 weight percent *epsilon*-caprolactam, 19.4 + 0.2 weight percent hexamethylenediamine and 31.2 + 0.3 weight percent azelaic acid.
+(14) Nylon 6/69 resins (CAS Reg. No. 51995-62-1) are manufactured by the condensation of 49.5 + 0.5 weight percent *epsilon*-caprolactam, 19.4 + 0.2 weight percent hexamethylenediamine and 31.2 + 0.3 weight percent azelaic acid. 
 
-(15) Nylon 46 resins (CAS Reg. No. 50327-77-0) are manufactured by the condensation of 1,4-butanediamine and adipic acid.
+(15) Nylon 46 resins (CAS Reg. No. 50327-77-0) are manufactured by the condensation of 1,4-butanediamine and adipic acid. 
 
-(16) Nylon resins PA 6-3-T (CAS Registry No. 26246-77-5) are manufactured by the condensation of 50 mol percent 1,4-benzenedicarboxylic acid, dimethyl ester and 50 mol percent of an equimolar mixture of 2,2,4-trimethyl-1,6-hexanediamine and 2,4,4-trimethyl-1,6-hexanediamine.
+(16) Nylon resins PA 6-3-T (CAS Registry No. 26246-77-5) are manufactured by the condensation of 50 mol percent 1,4-benzenedicarboxylic acid, dimethyl ester and 50 mol percent of an equimolar mixture of 2,2,4-trimethyl-1,6-hexanediamine and 2,4,4-trimethyl-1,6-hexanediamine. 
 
 (b) *Specifications:*
 
@@ -72,44 +72,44 @@ The nylon resins listed in paragraph (a) of this section may be safely used to p
 | 15\. Nylon 46 resins for use only in food-contact membrane filters intended for repeated use. The finished membrane filter is intended to contact beverages containing no more than 13 percent alcohol, under conditions of use E, F, and G listed in table 2 of § 176.170(c) of this chapter                                                                                                                                                                                                                                                                                                                                                                                                                                                | 1.18±0.015       | 551-592                              | Dissolves in 1 h                   |                                                                          | 0.3                                                                                               |
 | 16\. Nylon resins PA 6-3-T for repeated-use (excluding bottles) in contact with food of type VIA and VIB described in table 1 of § 176.170(c) of this chapter under conditions of use D through H described in table 2 of § 176.170(c) of this chapter with a hot-fill temperature limitation of 40 °C                                                                                                                                                                                                                                                                                                                                                                                                                                       | 1.12±0.03        | NA                                   | Insoluble after 1 h                | \>110                                                                    | 0.007                                                                                             |
 
-(c) *Nylon modifier*—(1) *Identity.* Copolyester-graft-acrylate copolymer is the substance 1,4-benzenedicarboxylic acid, polymer with 1,4-butanediol, (*E*)-2-butenedioic acid, 1,2-ethanediol, ethyl 2-propenoate, hexanedioic acid and 2-propenoic acid, graft (CAS Reg. No. 175419-23-5), and is derived from grafting of 25 weight percent of acrylic polymer with 75 weight percent of copolyester. The copolyester is polymerized terephthalic acid (55 mol%), adipic acid (40 mol%), and fumaric acid (5 mol%) with ethylene glycol (40 mol%) and 1,4-butanediol (60 mol%). The acrylic polymer is made from acrylic acid (70 mol%) and ethyl acrylate (30 mol%).
+(c) *Nylon modifier*—(1) *Identity.* Copolyester-graft-acrylate copolymer is the substance 1,4-benzenedicarboxylic acid, polymer with 1,4-butanediol, (*E*)-2-butenedioic acid, 1,2-ethanediol, ethyl 2-propenoate, hexanedioic acid and 2-propenoic acid, graft (CAS Reg. No. 175419-23-5), and is derived from grafting of 25 weight percent of acrylic polymer with 75 weight percent of copolyester. The copolyester is polymerized terephthalic acid (55 mol%), adipic acid (40 mol%), and fumaric acid (5 mol%) with ethylene glycol (40 mol%) and 1,4-butanediol (60 mol%). The acrylic polymer is made from acrylic acid (70 mol%) and ethyl acrylate (30 mol%). 
 
-(2) *Specifications.* The finished copolyester-graft-acrylate copolymer shall meet the following specifications:
+(2) *Specifications.* The finished copolyester-graft-acrylate copolymer shall meet the following specifications: 
 
-(i) Weight average molecular weight 15,000-35,000,
+(i) Weight average molecular weight 15,000-35,000, 
 
-(ii) pH 7.2 to 8.2, and
+(ii) pH 7.2 to 8.2, and 
 
-(iii) Glass transition temperature −15 to −25 °C.
+(iii) Glass transition temperature −15 to −25 °C. 
 
-(3) *Conditions of use.* (i) Copolyester-graft acrylate copolymer described in paragraph (c)(1) of this section is intended to improve the adhesive qualities of film. It is limited for use as a modifier of Nylon 6 and Nylon 6 modified with Nylon MXD-6 at a level not to exceed 0.17 weight percent of the additive in the finished film.
+(3) *Conditions of use.* (i) Copolyester-graft acrylate copolymer described in paragraph (c)(1) of this section is intended to improve the adhesive qualities of film. It is limited for use as a modifier of Nylon 6 and Nylon 6 modified with Nylon MXD-6 at a level not to exceed 0.17 weight percent of the additive in the finished film. 
 
-(ii) The finished film is used for packaging, transporting, or holding all types of foods under conditions of use B through H, described in table 2 of § 176.170(c) of this chapter, except that in the case of Nylon 6 films modified with Nylon MXD-6 (complying with § 177.1500, item 10.2), the use complies with the conditions of use specified in table 2.
+(ii) The finished film is used for packaging, transporting, or holding all types of foods under conditions of use B through H, described in table 2 of § 176.170(c) of this chapter, except that in the case of Nylon 6 films modified with Nylon MXD-6 (complying with § 177.1500, item 10.2), the use complies with the conditions of use specified in table 2. 
 
-(iii) *Extractives.* Food contact films described in paragraphs (c)(1) of this section, when extracted with solvent or solvents prescribed for the type of food and under conditions of time and temperature specified for the intended use, shall yield total extractives not to exceed 0.5 milligram per inch squared of food-contact surface when tested by the methods described in § 176.170(d) of this chapter.
+(iii) *Extractives.* Food contact films described in paragraphs (c)(1) of this section, when extracted with solvent or solvents prescribed for the type of food and under conditions of time and temperature specified for the intended use, shall yield total extractives not to exceed 0.5 milligram per inch squared of food-contact surface when tested by the methods described in § 176.170(d) of this chapter. 
 
-(iv) *Optional adjuvant substances.* The substances employed in the production of Nylon modifiers listed in paragraph (c)(1) of this section may include:
+(iv) *Optional adjuvant substances.* The substances employed in the production of Nylon modifiers listed in paragraph (c)(1) of this section may include: 
 
-(A) Substances generally recognized as safe for use in food and food packaging;
+(A) Substances generally recognized as safe for use in food and food packaging; 
 
-(B) Substances subject to prior sanction or approval for use in Nylon resins and used in accordance with such sanctions or approval; and
+(B) Substances subject to prior sanction or approval for use in Nylon resins and used in accordance with such sanctions or approval; and 
 
-(C) Optional substances required in the production of the additive identified in this paragraph and other optional substances that may be required to accomplish the intended physical or technical effect.
+(C) Optional substances required in the production of the additive identified in this paragraph and other optional substances that may be required to accomplish the intended physical or technical effect. 
 
-(d) *Analytical methods*—(1) *Specific gravity.* Specific gravity shall be determined by weighing a 1-gram to 5-gram sample first in air and then in freshly boiled distilled water at 23 °C±2 °C.
+(d) *Analytical methods*—(1) *Specific gravity.* Specific gravity shall be determined by weighing a 1-gram to 5-gram sample first in air and then in freshly boiled distilled water at 23 °C±2 °C. 
 
-(2) *Melting point.* The melting point shall be determined as follows: Use a hot-stage apparatus. The use of crossed nicol prisms with a microscope hot stage and reading of the thermometer when the birefringence disappears increases the accuracy. If the crossed nicol apparatus is not available, use the lowest temperature at which the sample becomes transparent or the sharp edges or corners of the sample become rounded as the melting point. In case of doubt as to the onset of melting, the sample is prodded with a sharp instrument. If it sticks to the heating block, it is considered to have melted. If the melting point is low, dry the sample in an oven at 85 °C for 24 hours in a nitrogen atmosphere then repeat the test.
+(2) *Melting point.* The melting point shall be determined as follows: Use a hot-stage apparatus. The use of crossed nicol prisms with a microscope hot stage and reading of the thermometer when the birefringence disappears increases the accuracy. If the crossed nicol apparatus is not available, use the lowest temperature at which the sample becomes transparent or the sharp edges or corners of the sample become rounded as the melting point. In case of doubt as to the onset of melting, the sample is prodded with a sharp instrument. If it sticks to the heating block, it is considered to have melted. If the melting point is low, dry the sample in an oven at 85 °C for 24 hours in a nitrogen atmosphere then repeat the test. 
 
-(3) *Solubility in boiling 4.2N HCl.* The test shall be run on a sample approximately the size of a 1/8-inch cube in at least 25 milliliters of 4.2 normal hydrochloric acid.
+(3) *Solubility in boiling 4.2N HCl.* The test shall be run on a sample approximately the size of a 1/8-inch cube in at least 25 milliliters of 4.2 normal hydrochloric acid. 
 
-(4) *Maximum extractable fraction in selected solvents.* The procedure for determining the maximum extractable fraction of the nylon resins in selected solvents is as follows:
+(4) *Maximum extractable fraction in selected solvents.* The procedure for determining the maximum extractable fraction of the nylon resins in selected solvents is as follows: 
 
-(i) Film should be cut with ordinary scissors into pieces of a convenient size such as 1/4-inch squares, for the extraction tests described in this section. The granules of nylon molding powders are in the proper form for the extraction tests. Samples of fabricated articles such as pipe, fittings, and other similar articles must be cut to approximately the size of the molding powder. This can be done conveniently by using a small-scale commercial plastics granulator and cutting the sample through a screen having 1/4-inch mesh. Fine particles should be separated from the cut resin by screening through a 20-mesh screen. The material retained on the screen is suitable for the extraction tests.
+(i) Film should be cut with ordinary scissors into pieces of a convenient size such as 1/4-inch squares, for the extraction tests described in this section. The granules of nylon molding powders are in the proper form for the extraction tests. Samples of fabricated articles such as pipe, fittings, and other similar articles must be cut to approximately the size of the molding powder. This can be done conveniently by using a small-scale commercial plastics granulator and cutting the sample through a screen having 1/4-inch mesh. Fine particles should be separated from the cut resin by screening through a 20-mesh screen. The material retained on the screen is suitable for the extraction tests. 
 
-(ii) The organic solvents must be of American Chemical Society analytical reagent grade; distilled water is used. Approximately 30 grams of the prepared sample is weighed to the nearest milligram. The weighed resin is transferred to a 500-milliliter round-bottom flask equipped with a reflux condenser. Approximately 300-milliliters of solvent is added to the flask and the contents refluxed gently for 8 hours with a heating mantle. The solvent is then filtered off immediately while still hot, using a Buchner funnel approximately 5 inches in diameter, a suction flask, and a hardened filter paper (Whatman No. 50 or equivalent). The paper is wet with the solvent and a slight suction applied just before starting the filtration. The resin is washed twice with approximately 100-milliliter portions of solvent and the combined filtrate and washings are reduced to approximately 25 milliliters by evaporation at reduced pressure (50 millimeters to 100 millimeters of mercury, absolute), heating as necessary. The contents of the flask are transferred to an evaporation dish (which has been held in a vacuum desiccator over anhydrous calcium sulfate until constant weight has been attained) and carefully evaporated to dryness. The weight of the solid residue is determined by difference after holding in a vacuum desiccator over anhydrous calcium sulfate until constant weight has been attained. The percent of solids extracted is calculated by dividing the weight of the solid residue by the weight of the sample and multiplying by 100.
+(ii) The organic solvents must be of American Chemical Society analytical reagent grade; distilled water is used. Approximately 30 grams of the prepared sample is weighed to the nearest milligram. The weighed resin is transferred to a 500-milliliter round-bottom flask equipped with a reflux condenser. Approximately 300-milliliters of solvent is added to the flask and the contents refluxed gently for 8 hours with a heating mantle. The solvent is then filtered off immediately while still hot, using a Buchner funnel approximately 5 inches in diameter, a suction flask, and a hardened filter paper (Whatman No. 50 or equivalent). The paper is wet with the solvent and a slight suction applied just before starting the filtration. The resin is washed twice with approximately 100-milliliter portions of solvent and the combined filtrate and washings are reduced to approximately 25 milliliters by evaporation at reduced pressure (50 millimeters to 100 millimeters of mercury, absolute), heating as necessary. The contents of the flask are transferred to an evaporation dish (which has been held in a vacuum desiccator over anhydrous calcium sulfate until constant weight has been attained) and carefully evaporated to dryness. The weight of the solid residue is determined by difference after holding in a vacuum desiccator over anhydrous calcium sulfate until constant weight has been attained. The percent of solids extracted is calculated by dividing the weight of the solid residue by the weight of the sample and multiplying by 100. 
 
 (5) *Viscosity number (VN).* (i) The viscosity number (VN) for Nylon 6/12 resin in a 96 percent sulfuric acid solution (5 milligrams resin per milliliter) shall be determined at 25 °C (77 °F) by method ISO 307-1984(E), “Plastics-Polyamides-Determination of Viscosity Number,” which is incorporated by reference. Copies are available from the Center for Food Safety and Applied Nutrition (HFS-200), Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(ii) The viscosity number (VN) for Nylon 6/69 and Nylon PA-6-3-T resins in a 99 percent cresol solution (5 milligrams resin per milliliter) shall be determined at 25 °C (77 °F) by method ISO 307-1984(E), “Plastics-Polyamides-Determination of Viscosity Number,” which is incorporated by reference. The availability of this incorporation by reference is given in paragraph (d)(5)(i) of this section.
+(ii) The viscosity number (VN) for Nylon 6/69 and Nylon PA-6-3-T resins in a 99 percent cresol solution (5 milligrams resin per milliliter) shall be determined at 25 °C (77 °F) by method ISO 307-1984(E), “Plastics-Polyamides-Determination of Viscosity Number,” which is incorporated by reference. The availability of this incorporation by reference is given in paragraph (d)(5)(i) of this section. 
 
 \[42 FR 14572, Mar. 15, 1977\] Editorial Note:For Federal Register citations affecting § 177.1500, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

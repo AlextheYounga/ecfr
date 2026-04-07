@@ -1,14 +1,14 @@
 ##### § 178.3570 Lubricants with incidental food contact.
 
-Lubricants with incidental food contact may be safely used on machinery used for producing, manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food, subject to the provisions of this section:
+Lubricants with incidental food contact may be safely used on machinery used for producing, manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food, subject to the provisions of this section: 
 
-(a) The lubricants are prepared from one or more of the following substances:
+(a) The lubricants are prepared from one or more of the following substances: 
 
-(1) Substances generally recognized as safe for use in food.
+(1) Substances generally recognized as safe for use in food. 
 
-(2) Substances used in accordance with the provisions of a prior sanction or approval.
+(2) Substances used in accordance with the provisions of a prior sanction or approval. 
 
-(3) Substances identified in this paragraph (a)(3).
+(3) Substances identified in this paragraph (a)(3). 
 
 | Substances                                                                                                                                                                                                                                                                                                                              | Limitations                                                                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,8 +59,8 @@ Lubricants with incidental food contact may be safely used on machinery used for
 | Thiodiethylenebis(3,5-di-tert-butyl-4-hydroxy-hydro- cinnamate) (CAS Reg. No. 41484-35-9)                                                                                                                                                                                                                                               | For use as an antioxidant at levels not to exceed 0.5 percent by weight of the lubricant.                                                                                                                                                                                                         |
 | Zinc sulfide                                                                                                                                                                                                                                                                                                                            | For use at levels not to exceed 10 percent by weight of the lubricant.                                                                                                                                                                                                                            |
 
-(b) The lubricants are used on food-processing equipment as a protective antirust film, as a release agent on gaskets or seals of tank closures, and as a lubricant for machine parts and equipment in locations in which there is exposure of the lubricated part to food. The amount used is the minimum required to accomplish the desired technical effect on the equipment, and the addition to food of any constituent identified in this section does not exceed the limitations prescribed.
+(b) The lubricants are used on food-processing equipment as a protective antirust film, as a release agent on gaskets or seals of tank closures, and as a lubricant for machine parts and equipment in locations in which there is exposure of the lubricated part to food. The amount used is the minimum required to accomplish the desired technical effect on the equipment, and the addition to food of any constituent identified in this section does not exceed the limitations prescribed. 
 
-(c) Any substance employed in the production of the lubricants described in this section that is the subject of a regulation in parts 174, 175, 176, 177, 178 and § 179.45 of this chapter conforms with any specification in such regulation.
+(c) Any substance employed in the production of the lubricants described in this section that is the subject of a regulation in parts 174, 175, 176, 177, 178 and § 179.45 of this chapter conforms with any specification in such regulation. 
 
 \[42 FR 14609, Mar. 15, 1977\] Editorial Note:For Federal Register citations affecting § 178.3570, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

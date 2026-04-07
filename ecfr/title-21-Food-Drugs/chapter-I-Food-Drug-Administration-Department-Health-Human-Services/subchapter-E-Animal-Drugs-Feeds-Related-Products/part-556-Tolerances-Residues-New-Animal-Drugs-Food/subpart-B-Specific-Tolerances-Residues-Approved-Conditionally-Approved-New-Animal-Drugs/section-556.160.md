@@ -1,13 +1,13 @@
 ##### § 556.160 Clopidol.
 
-(a) \[Reserved\]
+(a) \[Reserved\] 
 
-(b) *Tolerances.* The tolerances for clopidol are:
+(b) *Tolerances.* The tolerances for clopidol are: 
 
-(1) *Chickens and turkeys.* (i) Liver and kidney: 15 ppm.
+(1) *Chickens and turkeys.* (i) Liver and kidney: 15 ppm. 
 
-(ii) Muscle: 5 ppm.
+(ii) Muscle: 5 ppm. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 (c) *Related conditions of use.* See § 558.175 of this chapter.

@@ -1,76 +1,76 @@
 ##### § 151.66 Operating requirements: Discharge of garbage in the Great Lakes and other navigable waters.
 
-(a) Except as otherwise provided in this section, no person on board any ship may discharge garbage into the navigable waters of the United States. Cleaning agents or additives contained in deck and external surface wash water may be discharged only if these substances are not harmful to the marine environment.
+(a) Except as otherwise provided in this section, no person on board any ship may discharge garbage into the navigable waters of the United States. Cleaning agents or additives contained in deck and external surface wash water may be discharged only if these substances are not harmful to the marine environment. 
 
-(b)(1) On the U.S. waters of the Great Lakes, commercial vessels may discharge bulk dry cargo residues in accordance with and subject to the conditions imposed by this paragraph.
+(b)(1) On the U.S. waters of the Great Lakes, commercial vessels may discharge bulk dry cargo residues in accordance with and subject to the conditions imposed by this paragraph. 
 
-(2) As used in this paragraph and in paragraph (c) of this section—
+(2) As used in this paragraph and in paragraph (c) of this section— 
 
-*Apostle Islands National Lakeshore* means the site on or near Lake Superior administered by the National Park Service, less Madeline Island, and including the Wisconsin shoreline of Bayfield Peninsula from the point of land at 46°57′19.7″ N. 090°52′51.0″ W southwest along the shoreline to a point of land at 46°52′56.4″ N. 091°3′3.1″ W.
+*Apostle Islands National Lakeshore* means the site on or near Lake Superior administered by the National Park Service, less Madeline Island, and including the Wisconsin shoreline of Bayfield Peninsula from the point of land at 46°57′19.7″ N. 090°52′51.0″ W southwest along the shoreline to a point of land at 46°52′56.4″ N. 091°3′3.1″ W. 
 
-*Broom clean* means a condition in which the vessel's deck shows that care has been taken to prevent or eliminate any visible concentration of bulk dry cargo residues, so that any remaining bulk dry cargo residues consist only of dust, powder, or isolated and random pieces, none of which exceeds 1 inch in diameter.
+*Broom clean* means a condition in which the vessel's deck shows that care has been taken to prevent or eliminate any visible concentration of bulk dry cargo residues, so that any remaining bulk dry cargo residues consist only of dust, powder, or isolated and random pieces, none of which exceeds 1 inch in diameter. 
 
-*Bulk dry cargo residues* means non-hazardous and non-toxic residues, regardless of particle size, of dry cargo carried in bulk, including limestone and other clean stone, iron ore, coal, salt, and cement. It does not include residues of any substance known to be toxic or hazardous, such as nickel, copper, zinc, lead, or materials classified as hazardous in provisions of law or treaty.
+*Bulk dry cargo residues* means non-hazardous and non-toxic residues, regardless of particle size, of dry cargo carried in bulk, including limestone and other clean stone, iron ore, coal, salt, and cement. It does not include residues of any substance known to be toxic or hazardous, such as nickel, copper, zinc, lead, or materials classified as hazardous in provisions of law or treaty. 
 
-*Caribou Island and Southwest Bank Protection Area* means the area enclosed by rhumb lines connecting the following coordinates, beginning on the northernmost point and proceeding clockwise:
+*Caribou Island and Southwest Bank Protection Area* means the area enclosed by rhumb lines connecting the following coordinates, beginning on the northernmost point and proceeding clockwise: 
 
 47°30.0′ N, 085°50.0′ W 47°24.2′ N, 085°38.5′ W 47°04.0′ N, 085°49.0′ W 47°05.7′ N, 085°59.0′ W 47°18.1′ N, 086°05.0′ W.
 
-*Commercial vessel* means a commercial vessel loading, unloading, or discharging bulk dry cargo in the U.S. waters of the Great Lakes, or a U.S. commercial vessel transporting bulk dry cargo and operating anywhere on the Great Lakes; but the term does not include a non-self-propelled barge unless it is part of an integrated tug and barge unit.
+*Commercial vessel* means a commercial vessel loading, unloading, or discharging bulk dry cargo in the U.S. waters of the Great Lakes, or a U.S. commercial vessel transporting bulk dry cargo and operating anywhere on the Great Lakes; but the term does not include a non-self-propelled barge unless it is part of an integrated tug and barge unit. 
 
-*Comparable characteristics, cargoes, and operations* means similar vessel design, size, age, crew complement, cargoes, operational routes, deck and hold configuration, and fixed cargo transfer equipment configuration.
+*Comparable characteristics, cargoes, and operations* means similar vessel design, size, age, crew complement, cargoes, operational routes, deck and hold configuration, and fixed cargo transfer equipment configuration. 
 
-*Detroit River International Wildlife Refuge* means the U.S. waters of the Detroit River bound by the area extending from the Michigan shore at the southern outlet of the Rouge River to 41°54.0′ N., 083°06.0′ W. along the U.S.-Canada boundary southward and clockwise connecting points:
+*Detroit River International Wildlife Refuge* means the U.S. waters of the Detroit River bound by the area extending from the Michigan shore at the southern outlet of the Rouge River to 41°54.0′ N., 083°06.0′ W. along the U.S.-Canada boundary southward and clockwise connecting points: 
 
 42°02.0′ N, 083°08.0′ W 41°54.0′ N, 083°06.0′ W 41°50.0′ N, 083°10.0′ W 41°44.52′ N, 083°22.0′ W 41°44.19′ N, 083°27.0′ W.
 
-*Dry cargo residue (or DCR) management plan* means the plan required by paragraph (b)(5) of this section.
+*Dry cargo residue (or DCR) management plan* means the plan required by paragraph (b)(5) of this section. 
 
-*Grand Portage National Monument* means the site on or near Lake Superior, administered by the National Park Service, from the southwest corner of the monument point of land at 47°57.521′ N 089°41.245′ W. to the northeast corner of the monument point of land, 47°57.888′ N 089°40.725′ W.
+*Grand Portage National Monument* means the site on or near Lake Superior, administered by the National Park Service, from the southwest corner of the monument point of land at 47°57.521′ N 089°41.245′ W. to the northeast corner of the monument point of land, 47°57.888′ N 089°40.725′ W. 
 
-*Indiana Dunes National Lakeshore* means the site on or near Lake Michigan, administered by the National Park Service, from a point of land near Gary, Indiana at 41°42′59.4″ N 086°54′59.9″ W eastward along the shoreline to 41°37′08.8″N 087°17′18.8″ W near Michigan City, Indiana.
+*Indiana Dunes National Lakeshore* means the site on or near Lake Michigan, administered by the National Park Service, from a point of land near Gary, Indiana at 41°42′59.4″ N 086°54′59.9″ W eastward along the shoreline to 41°37′08.8″N 087°17′18.8″ W near Michigan City, Indiana. 
 
-*Industry standard practices* means practices that ensure the proper installation, maintenance, and operation of shipboard cargo transfer and DCR removal equipment, proper crew training in DCR minimization procedures and cargo transfer operations, and proper supervision of cargo transfer operations to minimize DCR accumulation on or in a commercial vessel.
+*Industry standard practices* means practices that ensure the proper installation, maintenance, and operation of shipboard cargo transfer and DCR removal equipment, proper crew training in DCR minimization procedures and cargo transfer operations, and proper supervision of cargo transfer operations to minimize DCR accumulation on or in a commercial vessel. 
 
-*Integrated tug and barge unit* means any tug-barge combination which, through the use of special design features or a specially designed connection system, has increased sea-keeping capabilities relative to a tug and barge in the conventional pushing mode.
+*Integrated tug and barge unit* means any tug-barge combination which, through the use of special design features or a specially designed connection system, has increased sea-keeping capabilities relative to a tug and barge in the conventional pushing mode. 
 
-*Isle Royale National Park* means the site on or near Lake Superior, administered by the National Park Service, where the boundary includes any submerged lands within the territorial jurisdiction of the United States within 4 1/2 miles of the shoreline of Isle Royale and the surrounding islands, including Passage Island and Gull Island.
+*Isle Royale National Park* means the site on or near Lake Superior, administered by the National Park Service, where the boundary includes any submerged lands within the territorial jurisdiction of the United States within 4 1/2 miles of the shoreline of Isle Royale and the surrounding islands, including Passage Island and Gull Island. 
 
-*Mile* means a statute mile.
+*Mile* means a statute mile. 
 
-*Milwaukee Mid-Lake Special Protection Area* means the area enclosed by rhumb lines connecting the following coordinates, beginning on the northernmost point and proceeding clockwise:
+*Milwaukee Mid-Lake Special Protection Area* means the area enclosed by rhumb lines connecting the following coordinates, beginning on the northernmost point and proceeding clockwise: 
 
 43°27.0′ N 087°14.0′ W 43°21.2′ N, 087°02.3′ W 43°03.3′ N, 087°04.8′ W 42°57.5′ N, 087°21.0′ W 43°16.0′ N, 087°39.8′ W.
 
-*Minimization* means the reduction, to the greatest extent practicable, of any bulk dry cargo residue discharge from the vessel.
+*Minimization* means the reduction, to the greatest extent practicable, of any bulk dry cargo residue discharge from the vessel. 
 
-*Northern Refuge* means the area enclosed by rhumb lines connecting the coordinates, beginning on the northernmost point and proceeding clockwise:
+*Northern Refuge* means the area enclosed by rhumb lines connecting the coordinates, beginning on the northernmost point and proceeding clockwise: 
 
 45°45.0′ N, 086°00.0′ W, western shore of High Island, southern shore of Beaver Island: 45°30.0′ N, 085°30.0′ W 45°30.0′ N, 085°15.0′ W 45°25.0′ N, 085°15.0′ W 45°25.0′ N, 085°20.0′ W 45°20.0′ N, 085°20.0′ W 45°20.0′ N, 085°40.0′ W 45°15.0′ N. 085°40.0′ W 45°15.0′ N, 085°50.0′ W 45°10.0′ N, 085°50.0′ W 45°10.0′ N, 086°00.0′ W.
 
-*Pictured Rocks National Lakeshore* means the site on or near Lake Superior, administered by the National Park Service, from a point of land at 46°26′21.3″ N 086°36′43.2″ W eastward along the Michigan shoreline to 46°40′22.2″ N 085°59′58.1″ W.
+*Pictured Rocks National Lakeshore* means the site on or near Lake Superior, administered by the National Park Service, from a point of land at 46°26′21.3″ N 086°36′43.2″ W eastward along the Michigan shoreline to 46°40′22.2″ N 085°59′58.1″ W. 
 
-*Six Fathom Scarp Mid-Lake Special Protection Area* means the area enclosed by rhumb lines connecting the following coordinates, beginning on the northernmost point and proceeding clockwise:
+*Six Fathom Scarp Mid-Lake Special Protection Area* means the area enclosed by rhumb lines connecting the following coordinates, beginning on the northernmost point and proceeding clockwise: 
 
 44°55.0′ N, 082°33.0′ W 44°47.0′ N, 082°18.0′ W 44°39.0′ N, 082°13.0′ W 44°27.0′ N, 082°13.0′ W 44°27.0′ N, 082°20.0′ W 44°17.0′ N, 082°25.0′ W 44°17.0′ N, 082°30.0′ W 44°28.0′ N, 082°40.0′ W 44°51.0′ N, 082°44.0′ W 44°53.0′ N, 082°44.0′ W 44°54.0′ N, 082°40.0′ W.
 
-*Sleeping Bear Dunes National Lakeshore* means the site on or near Lake Michigan, administered by the National Park Service, that includes North Manitou Island, South Manitou Island and the Michigan shoreline from a point of land at 44°42′45.1″ N, 086°12′18.1″ W north and eastward along the shoreline to 44°57′12.0″ N, 085°48′12.8″ W.
+*Sleeping Bear Dunes National Lakeshore* means the site on or near Lake Michigan, administered by the National Park Service, that includes North Manitou Island, South Manitou Island and the Michigan shoreline from a point of land at 44°42′45.1″ N, 086°12′18.1″ W north and eastward along the shoreline to 44°57′12.0″ N, 085°48′12.8″ W. 
 
-*Stannard Rock Protection Area* means the area within a 6-mile radius from Stannard Rock Light, at 47°10′57″ N 087°13′34″ W.
+*Stannard Rock Protection Area* means the area within a 6-mile radius from Stannard Rock Light, at 47°10′57″ N 087°13′34″ W. 
 
-*Superior Shoal Protection Area* means the area within a 6-mile radius from the center of Superior Shoal, at 48°03.2′ N 087°06.3′ W.
+*Superior Shoal Protection Area* means the area within a 6-mile radius from the center of Superior Shoal, at 48°03.2′ N 087°06.3′ W. 
 
-*Thunder Bay National Marine Sanctuary* means the site on or near Lake Huron designated by the National Oceanic and Atmospheric Administration as the boundary that forms an approximately rectangular area by extending along the ordinary high water mark between the northern and southern boundaries of Alpena County, cutting across the mouths of rivers and streams, and lakeward from those points along latitude lines to longitude 83 degrees west. The coordinates of the boundary are:
+*Thunder Bay National Marine Sanctuary* means the site on or near Lake Huron designated by the National Oceanic and Atmospheric Administration as the boundary that forms an approximately rectangular area by extending along the ordinary high water mark between the northern and southern boundaries of Alpena County, cutting across the mouths of rivers and streams, and lakeward from those points along latitude lines to longitude 83 degrees west. The coordinates of the boundary are: 
 
 45°12'25.5′ N, 083°23'18.6′ W 45°12'25.5′ N, 083°00'00′ W 44°51'30.5′ N, 083°00'00′ W 44°51'30.5′ N, 083°19'17.3′ W.
 
-*Waukegan Special Protection Area* means the area enclosed by rhumb lines connecting the following coordinates, beginning on the northernmost point and proceeding clockwise:
+*Waukegan Special Protection Area* means the area enclosed by rhumb lines connecting the following coordinates, beginning on the northernmost point and proceeding clockwise: 
 
 42°24.3′ N, 087°29.3′ W 42°13.0′ N, 087°25.1′ W 42°12.2′ N, 087°29.1′ W 42°18.1′ N, 087°33.1′ W 42°24.1′ N, 087°32.0′ W.
 
-*Western Basin* means that portion of Lake Erie west of a line due south from Point Pelee.
+*Western Basin* means that portion of Lake Erie west of a line due south from Point Pelee. 
 
-(3) Discharges of bulk dry cargo residue under paragraph (b) of this section are allowed, subject to the conditions listed in Table 151.66(b)(3) of this section.
+(3) Discharges of bulk dry cargo residue under paragraph (b) of this section are allowed, subject to the conditions listed in Table 151.66(b)(3) of this section. 
 
 Table 151.66(b)(3)—Bulk Dry Cargo Residue Discharges Allowed on the Great Lakes
 | Location                                                             | Cargo                           | Discharge allowed except as noted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -101,66 +101,66 @@ Table 151.66(b)(3)—Bulk Dry Cargo Residue Discharges Allowed on the Great Lake
 |                                                                      | Cement                          | Prohibited within 13.8 miles from shore (within 3 miles offshore west of a line due north from Bark Point); and prohibited within Isle Royale National Park and the Caribou Island and Southwest Bank, Stannard Rock, and Superior Shoal Protection Areas, and within 3 miles of the shore of the Apostle Islands and Pictured Rocks National Lakeshores or the Grand Portage National Monument.                                                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                      | All other cargoes               | Prohibited within 13.8 miles from shore; and prohibited within Isle Royale National Park and the Caribou Island and Southwest Bank, Stannard Rock, and Superior Shoal Protection Areas, and within 3 miles of the shore of the Apostle Islands and Pictured Rocks National Lakeshores or the Grand Portage National Monument.                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
-(4) The master, owner, operator, or person in charge of any commercial vessel must ensure that the vessel's deck is kept broom clean whenever the vessel is in transit.
+(4) The master, owner, operator, or person in charge of any commercial vessel must ensure that the vessel's deck is kept broom clean whenever the vessel is in transit. 
 
-(5) The master, owner, operator, or person in charge of any commercial vessel must ensure that a dry cargo residue management plan is on board the vessel, is kept available for Coast Guard inspection, and that all operations are conducted in accordance with the plan. A waste management plan meeting the requirements of 33 CFR 151.57 satisfies this requirement, so long as it provides all the information required by this paragraph (b)(5). If the plan is maintained electronically, at least one paper copy of the plan must be on board for use during inspections. The plan must describe the specific measures the vessel employs to ensure the minimization of bulk dry cargo residue discharges, and, at a minimum, must list or describe—
+(5) The master, owner, operator, or person in charge of any commercial vessel must ensure that a dry cargo residue management plan is on board the vessel, is kept available for Coast Guard inspection, and that all operations are conducted in accordance with the plan. A waste management plan meeting the requirements of 33 CFR 151.57 satisfies this requirement, so long as it provides all the information required by this paragraph (b)(5). If the plan is maintained electronically, at least one paper copy of the plan must be on board for use during inspections. The plan must describe the specific measures the vessel employs to ensure the minimization of bulk dry cargo residue discharges, and, at a minimum, must list or describe— 
 
-(i) Equipment on board the vessel that is designed to minimize bulk dry cargo spillage during loading and unloading;
+(i) Equipment on board the vessel that is designed to minimize bulk dry cargo spillage during loading and unloading; 
 
-(ii) Equipment on board the vessel that is available to recover spilled cargo from the decks and transfer tunnels and return it to the holds or to unloading conveyances;
+(ii) Equipment on board the vessel that is available to recover spilled cargo from the decks and transfer tunnels and return it to the holds or to unloading conveyances; 
 
-(iii) Operational procedures employed by the vessel's crew during the loading or unloading of bulk dry cargoes to minimize cargo spillage onto the decks and into the transfer tunnels and to achieve and maintain the broom clean deck condition required by paragraph (b)(4) of this section;
+(iii) Operational procedures employed by the vessel's crew during the loading or unloading of bulk dry cargoes to minimize cargo spillage onto the decks and into the transfer tunnels and to achieve and maintain the broom clean deck condition required by paragraph (b)(4) of this section; 
 
-(iv) Operational procedures employed by the vessel's crew during or after loading or unloading operations to return spilled bulk dry cargo residue to the vessel's holds or to shore via an unloading conveyance;
+(iv) Operational procedures employed by the vessel's crew during or after loading or unloading operations to return spilled bulk dry cargo residue to the vessel's holds or to shore via an unloading conveyance; 
 
-(v) How the vessel's owner or operator ensures that the vessel's crew is familiar with any operational procedures described by the plan;
+(v) How the vessel's owner or operator ensures that the vessel's crew is familiar with any operational procedures described by the plan; 
 
-(vi) The position title of the person on board who is in charge of ensuring compliance with procedures described in the plan;
+(vi) The position title of the person on board who is in charge of ensuring compliance with procedures described in the plan; 
 
-(vii) Any arrangements between the vessel and specific ports or terminals for the unloading and disposal of the vessel's bulk dry cargo residues ashore; and
+(vii) Any arrangements between the vessel and specific ports or terminals for the unloading and disposal of the vessel's bulk dry cargo residues ashore; and 
 
-(viii) The procedures used and the vessel's operating conditions to be maintained during any unavoidable discharge of bulk dry cargo residue into the Great Lakes.
+(viii) The procedures used and the vessel's operating conditions to be maintained during any unavoidable discharge of bulk dry cargo residue into the Great Lakes. 
 
-(6) In determining whether a commercial vessel or person is in compliance with paragraph (b) of this section, Coast Guard personnel may consider—
+(6) In determining whether a commercial vessel or person is in compliance with paragraph (b) of this section, Coast Guard personnel may consider— 
 
-(i) The extent to which the procedures described in the vessel's DCR management plan reflect current industry standard practices for vessels of comparable characteristics, cargoes, and operations;
+(i) The extent to which the procedures described in the vessel's DCR management plan reflect current industry standard practices for vessels of comparable characteristics, cargoes, and operations; 
 
-(ii) The crew's demonstrated ability to perform tasks for which the DCR management plan holds them responsible;
+(ii) The crew's demonstrated ability to perform tasks for which the DCR management plan holds them responsible; 
 
-(iii) Whether equipment described in the DCR management plan is maintained in proper operating condition; and
+(iii) Whether equipment described in the DCR management plan is maintained in proper operating condition; and 
 
-(iv) The extent to which the crew adheres to the vessel's DCR management plan during actual dry cargo loading and unloading operations and DCR discharge operations.
+(iv) The extent to which the crew adheres to the vessel's DCR management plan during actual dry cargo loading and unloading operations and DCR discharge operations. 
 
-(c)(1) The master, owner, operator, or person in charge of any commercial ship loading, unloading, or discharging bulk dry cargo in the United States' waters of the Great Lakes and the master, owner, operator, or person in charge of a U.S. commercial ship transporting bulk dry cargo and operating anywhere on the Great Lakes, excluding non-self propelled barges that are not part of an integrated tug and barge unit, must ensure that a written record is maintained on the ship that fully and accurately records information on:
+(c)(1) The master, owner, operator, or person in charge of any commercial ship loading, unloading, or discharging bulk dry cargo in the United States' waters of the Great Lakes and the master, owner, operator, or person in charge of a U.S. commercial ship transporting bulk dry cargo and operating anywhere on the Great Lakes, excluding non-self propelled barges that are not part of an integrated tug and barge unit, must ensure that a written record is maintained on the ship that fully and accurately records information on: 
 
-(i) Each loading or unloading operation on the United States' waters of the Great Lakes, or in the case of U.S. commercial ships on any waters of the Great Lakes, involving bulk dry cargo; and
+(i) Each loading or unloading operation on the United States' waters of the Great Lakes, or in the case of U.S. commercial ships on any waters of the Great Lakes, involving bulk dry cargo; and 
 
-(ii) Each discharge of bulk dry cargo residue that takes place in United States' waters of the Great Lakes, or in the case of U.S. commercial ships on any waters of the Great Lakes.
+(ii) Each discharge of bulk dry cargo residue that takes place in United States' waters of the Great Lakes, or in the case of U.S. commercial ships on any waters of the Great Lakes. 
 
-(2) For each loading or unloading operation, the record must describe:
+(2) For each loading or unloading operation, the record must describe: 
 
-(i) The date of the operation;
+(i) The date of the operation; 
 
-(ii) Whether the operation involved loading or unloading;
+(ii) Whether the operation involved loading or unloading; 
 
-(iii) The name of the loading or unloading facility;
+(iii) The name of the loading or unloading facility; 
 
-(iv) The type of bulk dry cargo loaded or unloaded;
+(iv) The type of bulk dry cargo loaded or unloaded; 
 
-(v) The method or methods used to control the amount of bulk dry cargo residue, either onboard the ship or at the facility;
+(v) The method or methods used to control the amount of bulk dry cargo residue, either onboard the ship or at the facility; 
 
-(vi) The time spent to implement methods for controlling the amount of bulk dry cargo residue; and
+(vi) The time spent to implement methods for controlling the amount of bulk dry cargo residue; and 
 
-(vii) The estimated volume of bulk dry cargo residue created by the loading or unloading operation that is to be discharged.
+(vii) The estimated volume of bulk dry cargo residue created by the loading or unloading operation that is to be discharged. 
 
-(3) For each discharge, the record must describe:
+(3) For each discharge, the record must describe: 
 
-(i) The date and time the discharge started, and the date and time the discharge ended;
+(i) The date and time the discharge started, and the date and time the discharge ended; 
 
-(ii) The ship's position, in latitude and longitude, when the discharge started and when the discharge ended; and
+(ii) The ship's position, in latitude and longitude, when the discharge started and when the discharge ended; and 
 
-(iii) The ship's speed during the discharge.
+(iii) The ship's speed during the discharge. 
 
-(iv) Records must be certified by the master, owner, operator, or person in charge; must be kept in written form on board the ship for at least 2 years; and must be made available for Coast Guard inspection upon request.
+(iv) Records must be certified by the master, owner, operator, or person in charge; must be kept in written form on board the ship for at least 2 years; and must be made available for Coast Guard inspection upon request. 
 
 \[USCG-2004-19621, 79 FR 5279, Jan. 31, 2014, as amended by USCG-2014-0410, 79 FR 43646, July 28, 2014; USCG-2020-0304, 85 FR 58280, Sept. 18, 2020; USCG-2021-0348, 87 FR 3223, Jan. 21, 2022\]

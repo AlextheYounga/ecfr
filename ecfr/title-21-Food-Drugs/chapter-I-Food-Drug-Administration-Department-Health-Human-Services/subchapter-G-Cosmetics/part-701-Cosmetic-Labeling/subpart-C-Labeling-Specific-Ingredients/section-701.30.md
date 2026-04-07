@@ -1,6 +1,6 @@
 ##### § 701.30 Ingredient names established for cosmetic ingredient labeling.
 
-The Commissioner establishes the following names for the purpose of cosmetic ingredient labeling pursuant to paragraph (e) of § 701.3:
+The Commissioner establishes the following names for the purpose of cosmetic ingredient labeling pursuant to paragraph (e) of § 701.3: 
 
 | Chemical name or description                                                                                                                                                         | Chemical formula | Established label name                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----------------------------------------- |

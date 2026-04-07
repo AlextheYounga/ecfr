@@ -1,6 +1,6 @@
 ##### § 147.T01-0134 Safety Zone; Revolution Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0486, Offshore Rhode Island, Atlantic Ocean.
 
-(a) *Description.* The area within 500-meters of the center point of the positions provided in table 1 is a safety zone:
+(a) *Description.* The area within 500-meters of the center point of the positions provided in table 1 is a safety zone: 
 
 Table 1 to Paragraph (a)
 | Name | Facility type | Latitude     | Longitude    |
@@ -73,15 +73,15 @@ Table 1 to Paragraph (a)
 | AP15 | WTG           | 41°04.766′ N | 70°58.180′ W |
 | AP16 | WTG           | 41°04.788′ N | 70°56.858′ W |
 
-(b) *Definitions.* As used in this section, *designated representative* means a Coast Guard Patrol Commander, including a Coast Guard coxswain, petty officer, or other officer operating a Coast Guard vessel and a Federal, State, and local officer designated by or assisting the First Coast Guard District Commander in the enforcement of the safety zones. *Local officer* means any officer, agent, or employee of a unit of local government authorized by law or by a local government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
+(b) *Definitions.* As used in this section, *designated representative* means a Coast Guard Patrol Commander, including a Coast Guard coxswain, petty officer, or other officer operating a Coast Guard vessel and a Federal, State, and local officer designated by or assisting the First Coast Guard District Commander in the enforcement of the safety zones. *Local officer* means any officer, agent, or employee of a unit of local government authorized by law or by a local government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law. 
 
-(c) *Regulations.* No vessel may enter or remain in this safety zone except for the following:
+(c) *Regulations.* No vessel may enter or remain in this safety zone except for the following: 
 
-(1) An attending vessel as defined in 33 CFR 147.20;
+(1) An attending vessel as defined in 33 CFR 147.20; 
 
-(2) A vessel authorized by the First Coast Guard District Commander or a designated representative.
+(2) A vessel authorized by the First Coast Guard District Commander or a designated representative. 
 
-(d) *Request for Permission.* Persons or vessels seeking to enter the safety zone must request authorization from the First Coast Guard District Commander or a designated representative. If permission is granted, all persons and vessels must comply with lawful instructions of the First Coast Guard District Commander or designated representative via VHF-FM channel 16 or by phone at 866-842-1560 (First Coast Guard District Command Center).
+(d) *Request for Permission.* Persons or vessels seeking to enter the safety zone must request authorization from the First Coast Guard District Commander or a designated representative. If permission is granted, all persons and vessels must comply with lawful instructions of the First Coast Guard District Commander or designated representative via VHF-FM channel 16 or by phone at 866-842-1560 (First Coast Guard District Command Center). 
 
 (e) *Effective and enforcement periods.* This section will be effective from June 1, 2024, through 11:59 p.m. on May 31, 2027. But it will only be enforced during active construction or other instances which may cause a hazard to navigation deemed necessary by the First Coast Guard District Commander. The First Coast Guard District Commander will make notification of the exact dates and times in advance of each enforcement period for the locations above in paragraph (a) of this section to the local maritime community through the Local Notice to Mariners and will issue a Broadcast Notice to Mariners via marine channel 16 (VHF-FM) as soon as practicable in response to an emergency. If the project is completed before May 31, 2027, enforcement of the safety zones will be suspended, and notice given via Local Notice to Mariners. The First Coast Guard District Local Notice to Mariners can be found at: *https://www.navcen.uscg.gov.*
 

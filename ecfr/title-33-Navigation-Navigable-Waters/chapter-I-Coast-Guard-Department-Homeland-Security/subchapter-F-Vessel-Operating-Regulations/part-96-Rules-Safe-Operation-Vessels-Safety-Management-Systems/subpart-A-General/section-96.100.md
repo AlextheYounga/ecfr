@@ -1,6 +1,6 @@
 ##### § 96.100 Purpose.
 
-This subpart implements Chapter IX of the International Convention for the Safety of Life at Sea (SOLAS), 1974, International Management Code for the Safe Operation of Ships and for Pollution Prevention (International Safety Management (ISM) Code), as required by 46 U.S.C. Chapter 32.
+This subpart implements Chapter IX of the International Convention for the Safety of Life at Sea (SOLAS), 1974, International Management Code for the Safe Operation of Ships and for Pollution Prevention (International Safety Management (ISM) Code), as required by 46 U.S.C. Chapter 32. 
 
 Note:
 

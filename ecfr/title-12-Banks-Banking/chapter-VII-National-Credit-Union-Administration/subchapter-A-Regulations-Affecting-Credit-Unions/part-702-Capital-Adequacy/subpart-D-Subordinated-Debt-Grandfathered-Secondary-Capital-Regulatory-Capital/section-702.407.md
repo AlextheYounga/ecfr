@@ -1,6 +1,6 @@
 ##### § 702.407 Discounting of amount treated as Regulatory Capital.
 
-The amount of outstanding Subordinated Debt that may be treated as Regulatory Capital shall reduce by 20 percent per annum of the initial aggregate principal amount of the applicable Subordinated Debt (as reduced by prepayments or amounts extinguished to cover a deficit under § 702.404(a)(6)), as required by the following schedule: 
+The amount of outstanding Subordinated Debt that may be treated as Regulatory Capital shall reduce by 20 percent per annum of the initial aggregate principal amount of the applicable Subordinated Debt (as reduced by prepayments or amounts extinguished to cover a deficit under § 702.404(a)(6)), as required by the following schedule:
 
 Table 1 to § 720.407
 | Remaining maturity            | Balance treated as   regulatory capital   % |

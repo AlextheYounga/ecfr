@@ -1,6 +1,6 @@
 ##### § 161.4 Requirement to carry the rules.
 
-Each VTS User shall carry on board and maintain for ready reference a copy of these rules.
+Each VTS User shall carry on board and maintain for ready reference a copy of these rules. 
 
 Note 1 to § 161.4:
 

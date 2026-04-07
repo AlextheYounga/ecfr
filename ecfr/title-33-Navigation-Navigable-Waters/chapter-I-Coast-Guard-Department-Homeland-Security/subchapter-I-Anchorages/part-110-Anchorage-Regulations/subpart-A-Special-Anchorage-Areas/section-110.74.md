@@ -1,6 +1,6 @@
 ##### § 110.74 Marco Island, Marco River, Fla.
 
-Beginning at a point approximately 300 feet east of the Captains Landing Docks at latitude 25°58′04″ N., longitude 81°43′31″ W.; thence 108°, 450 feet; thence 198°, 900 feet; thence 288°, 450 feet; thence 018°, 900 feet to the point of beginning.
+Beginning at a point approximately 300 feet east of the Captains Landing Docks at latitude 25°58′04″ N., longitude 81°43′31″ W.; thence 108°, 450 feet; thence 198°, 900 feet; thence 288°, 450 feet; thence 018°, 900 feet to the point of beginning. 
 
 Note:
 

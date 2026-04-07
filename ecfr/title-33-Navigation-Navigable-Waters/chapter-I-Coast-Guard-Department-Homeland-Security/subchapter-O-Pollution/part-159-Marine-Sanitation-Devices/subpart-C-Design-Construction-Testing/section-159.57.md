@@ -1,54 +1,54 @@
 ##### § 159.57 Installation, operation, and maintenance instructions.
 
-(a) The instructions supplied by the manufacturer must contain directions for each of the following:
+(a) The instructions supplied by the manufacturer must contain directions for each of the following: 
 
-(1) Installation of the device in a manner that will permit ready access to all parts of the device requiring routine service and that will provide any flue clearance necessary for fire safety.
+(1) Installation of the device in a manner that will permit ready access to all parts of the device requiring routine service and that will provide any flue clearance necessary for fire safety. 
 
-(2) Safe operation and servicing of the device so that any discharge meets the applicable requirements of § 159.53.
+(2) Safe operation and servicing of the device so that any discharge meets the applicable requirements of § 159.53. 
 
-(3) Cleaning, winter layup, and ash or sludge removal.
+(3) Cleaning, winter layup, and ash or sludge removal. 
 
-(4) Installation of a vent or flue pipe.
+(4) Installation of a vent or flue pipe. 
 
-(5) The type and quantity of chemicals that are required to operate the device, including instructions on the proper handling, storage and use of these chemicals.
+(5) The type and quantity of chemicals that are required to operate the device, including instructions on the proper handling, storage and use of these chemicals. 
 
-(6) Recommended methods of making required plumbing and electrical connections including fuel connections and supply circuit overcurrent protection.
+(6) Recommended methods of making required plumbing and electrical connections including fuel connections and supply circuit overcurrent protection. 
 
-(b) The instructions supplied by the manufacturer must include the following information:
+(b) The instructions supplied by the manufacturer must include the following information: 
 
-(1) The name of the manufacturer.
+(1) The name of the manufacturer. 
 
-(2) The name and model number of the device.
+(2) The name and model number of the device. 
 
-(3) Whether the device is certified for use on an inspected, or uninspected vessel.
+(3) Whether the device is certified for use on an inspected, or uninspected vessel. 
 
-(4) A complete parts list.
+(4) A complete parts list. 
 
-(5) A schematic diagram showing the relative location of each part.
+(5) A schematic diagram showing the relative location of each part. 
 
-(6) A wiring diagram.
+(6) A wiring diagram. 
 
-(7) A description of the service that may be performed by the user without coming into contact with sewage or chemicals.
+(7) A description of the service that may be performed by the user without coming into contact with sewage or chemicals. 
 
-(8) Average and peak capacity of the device for the flow rate, volume, or number of persons that the device is capable of serving and the period of time the device is rated to operate at peak capacity.
+(8) Average and peak capacity of the device for the flow rate, volume, or number of persons that the device is capable of serving and the period of time the device is rated to operate at peak capacity. 
 
-(9) The power requirements, including voltage and current.
+(9) The power requirements, including voltage and current. 
 
-(10) The type and quantity of fuel required.
+(10) The type and quantity of fuel required. 
 
-(11) The duration of the operating cycle for unitized incinerating devices.
+(11) The duration of the operating cycle for unitized incinerating devices. 
 
-(12) The maximum angles of pitch and roll at which the device operates in accordance with the applicable requirements of § 159.53.
+(12) The maximum angles of pitch and roll at which the device operates in accordance with the applicable requirements of § 159.53. 
 
-(13) Whether the device is designed to operate in salt, fresh, or brackish water.
+(13) Whether the device is designed to operate in salt, fresh, or brackish water. 
 
-(14) The maximum hydrostatic pressure at which a pressurized sewage retention tank meets the requirements of § 159.111.
+(14) The maximum hydrostatic pressure at which a pressurized sewage retention tank meets the requirements of § 159.111. 
 
-(15) The maximum operating level of liquid retention components.
+(15) The maximum operating level of liquid retention components. 
 
-(16) Whether the device is Type I, II, or III.
+(16) Whether the device is Type I, II, or III. 
 
-(17) A statement as follows:
+(17) A statement as follows: 
 
 Note:
 

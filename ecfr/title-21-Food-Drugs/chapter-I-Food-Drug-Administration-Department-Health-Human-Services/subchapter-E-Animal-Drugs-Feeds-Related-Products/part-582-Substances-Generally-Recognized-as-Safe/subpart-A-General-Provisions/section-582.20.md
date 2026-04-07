@@ -1,6 +1,6 @@
 ##### § 582.20 Essential oils, oleoresins (solvent-free), and natural extractives (including distillates).
 
-Essential oils, oleoresins (solvent-free), and natural extractives (including distillates) that are generally recognized as safe for their intended use, within the meaning of section 409 of the act, are as follows:
+Essential oils, oleoresins (solvent-free), and natural extractives (including distillates) that are generally recognized as safe for their intended use, within the meaning of section 409 of the act, are as follows: 
 
 | Common name                                    | Botanical name of plant source                                                                   |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------ |

@@ -1,6 +1,6 @@
 ##### § 169.1 What is the purpose of this part?
 
-This subpart prescribes the requirements for mandatory ship reporting systems. Ship reporting systems are used to provide, gather, or exchange information through radio reports. The information is used to provide data for many purposes including, but not limited to: navigation safety, maritime security and domain awareness, environmental protection, vessel traffic services, search and rescue, weather forecasting and prevention of marine pollution.
+This subpart prescribes the requirements for mandatory ship reporting systems. Ship reporting systems are used to provide, gather, or exchange information through radio reports. The information is used to provide data for many purposes including, but not limited to: navigation safety, maritime security and domain awareness, environmental protection, vessel traffic services, search and rescue, weather forecasting and prevention of marine pollution. 
 
 Note to § 169.1:
 

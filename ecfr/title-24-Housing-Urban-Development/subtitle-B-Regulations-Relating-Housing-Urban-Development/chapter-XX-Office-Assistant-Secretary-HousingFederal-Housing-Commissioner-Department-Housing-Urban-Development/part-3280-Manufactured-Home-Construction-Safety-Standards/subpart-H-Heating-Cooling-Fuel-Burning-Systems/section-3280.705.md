@@ -1,6 +1,6 @@
 ##### § 3280.705 Gas piping systems.
 
-Link to an amendment published at 89 FR 75754, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75754, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *General.* The requirements of this section shall govern the installation of all fuel gas piping attached to any manufactured home. The gas piping supply system shall be designed for a pressure not exceeding 14 inch water column ( 1/2 psi) and not less than 7 inch water column ( 1/4 psi). The manufacturer shall indicate in his written installation instructions the design pressure limitations for safe and effective operation of the gas piping system. None of the requirements listed in this section shall apply to the piping supplied as a part of an appliance. All exterior openings around piping, ducts, plenums or vents shall be sealed to resist the entrance of rodents. 
 
@@ -36,36 +36,36 @@ Do Not Use Tools To Separate the “Quick-Disconnect” Device
 
 (d) *Gas pipe sizing.* Gas piping systems shall be sized so that the pressure drop to any appliance inlet connection from any gas supply connection, when all appliances are in operation at maximum capacity, is not more than 0.5 inch water column as determined on the basis of test, or in accordance with table 3280.705(d). When determining gas pipe sizing in the table, gas shall be assumed to have a specific gravity of 0.65 and rated at 1000 B.T.U. per cubic foot. The natural gas supply connection(s) shall be not less than the size of the gas piping but shall be not smaller than 3/4 inch nominal pipe size. 
 
-Table to paragraph (d)—Maximum Capacity of Different Sizes of Pipe and Tubing in Thousands of Btu/hr of Natural Gas for Gas Pressures of 0.5 psig or Less, and a Maximum Pressure Drop of 1/2 in. Water Column
+Table to paragraph (d)—Maximum Capacity of Different Sizes of Pipe and Tubing in Thousands of Btu/hr of Natural Gas for Gas Pressures of 0.5 psig or Less, and a Maximum Pressure Drop of 1⁄2 in. Water Column
 | ID (in.)                   | 10 ft | 20 ft | 30 ft | 40 ft | 50 ft | 60 ft | 70 ft | 80 ft | 90 ft | 100 ft |
 | -------------------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ |
 | **Iron Pipe Sizes—Length** |       |       |       |       |       |       |       |       |       |        |
-| 1/4                        | 43    | 29    | 24    | 20    | 18    | 16    | 15    | 14    | 13    | 12     |
-| 3/8                        | 95    | 65    | 52    | 45    | 40    | 36    | 33    | 31    | 29    | 27     |
-| 1/2                        | 175   | 120   | 97    | 82    | 73    | 66    | 61    | 57    | 53    | 50     |
-| 3/4                        | 360   | 250   | 200   | 170   | 151   | 138   | 125   | 118   | 110   | 103    |
+| 1⁄4                        | 43    | 29    | 24    | 20    | 18    | 16    | 15    | 14    | 13    | 12     |
+| 3⁄8                        | 95    | 65    | 52    | 45    | 40    | 36    | 33    | 31    | 29    | 27     |
+| 1⁄2                        | 175   | 120   | 97    | 82    | 73    | 66    | 61    | 57    | 53    | 50     |
+| 3⁄4                        | 360   | 250   | 200   | 170   | 151   | 138   | 125   | 118   | 110   | 103    |
 | 1                          | 680   | 465   | 375   | 320   | 285   | 260   | 240   | 220   | 215   | 195    |
 
 | EHD 2                                         | ID (in.) | 10 ft | 20 ft | 30 ft | 40 ft | 50 ft | 60 ft | 70 ft | 80 ft | 90 ft | 100 ft |
 | --------------------------------------------- | -------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ |
 | **Corrugated Stainless Steel Tubing—Length**1 |          |       |       |       |       |       |       |       |       |       |        |
-| 13                                            | 3/8      | 31    | 21    | 17    | 14    | 13    | 12    | 11    | 10    | 10    | 9      |
-| 15                                            | 3/8      | 42    | 30    | 24    | 20    | 18    | 16    | 15    | 14    | 13    | 12     |
-| 18                                            | 1/2      | 79    | 56    | 45    | 39    | 36    | 33    | 30    | 28    | 27    | 25     |
-| 19                                            | 1/2      | 91    | 64    | 52    | 45    | 40    | 36    | 35    | 32    | 31    | 29     |
-| 23                                            | 3/4      | 155   | 111   | 92    | 80    | 72    | 65    | 60    | 58    | 55    | 52     |
-| 25                                            | 3/4      | 184   | 132   | 108   | 93    | 84    | 77    | 71    | 66    | 62    | 60     |
+| 13                                            | 3⁄8      | 31    | 21    | 17    | 14    | 13    | 12    | 11    | 10    | 10    | 9      |
+| 15                                            | 3⁄8      | 42    | 30    | 24    | 20    | 18    | 16    | 15    | 14    | 13    | 12     |
+| 18                                            | 1⁄2      | 79    | 56    | 45    | 39    | 36    | 33    | 30    | 28    | 27    | 25     |
+| 19                                            | 1⁄2      | 91    | 64    | 52    | 45    | 40    | 36    | 35    | 32    | 31    | 29     |
+| 23                                            | 3⁄4      | 155   | 111   | 92    | 80    | 72    | 65    | 60    | 58    | 55    | 52     |
+| 25                                            | 3⁄4      | 184   | 132   | 108   | 93    | 84    | 77    | 71    | 66    | 62    | 60     |
 | 30                                            | 1        | 317   | 222   | 180   | 156   | 138   | 126   | 116   | 108   | 103   | 97     |
 | 31                                            | 1        | 368   | 258   | 209   | 180   | 161   | 147   | 135   | 127   | 120   | 113    |
-| 37                                            | 11/4     | 598   | 426   | 350   | 304   | 273   | 250   | 231   | 217   | 205   | 195    |
+| 37                                            | 11⁄4     | 598   | 426   | 350   | 304   | 273   | 250   | 231   | 217   | 205   | 195    |
 
 | OD (in.)                                                                                                                                                                                                                                                                                                                      | 10 ft | 20 ft | 30 ft | 40 ft | 50 ft | 60 ft | 70 ft | 80 ft | 90 ft | 100 ft |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ |
 | **Copper Tubing—Length**                                                                                                                                                                                                                                                                                                      |       |       |       |       |       |       |       |       |       |        |
-| 1/4                                                                                                                                                                                                                                                                                                                           | 27    | 18    | 15    | 13    | 11    | 10    | 9     | 9     | 8     | 8      |
-| 3/8                                                                                                                                                                                                                                                                                                                           | 56    | 38    | 31    | 26    | 23    | 21    | 19    | 18    | 17    | 16     |
-| 1/2                                                                                                                                                                                                                                                                                                                           | 113   | 78    | 62    | 53    | 47    | 43    | 39    | 37    | 34    | 33     |
-| 3/4                                                                                                                                                                                                                                                                                                                           | 197   | 136   | 109   | 93    | 83    | 75    | 69    | 64    | 60    | 57     |
+| 1⁄4                                                                                                                                                                                                                                                                                                                           | 27    | 18    | 15    | 13    | 11    | 10    | 9     | 9     | 8     | 8      |
+| 3⁄8                                                                                                                                                                                                                                                                                                                           | 56    | 38    | 31    | 26    | 23    | 21    | 19    | 18    | 17    | 16     |
+| 1⁄2                                                                                                                                                                                                                                                                                                                           | 113   | 78    | 62    | 53    | 47    | 43    | 39    | 37    | 34    | 33     |
+| 3⁄4                                                                                                                                                                                                                                                                                                                           | 197   | 136   | 109   | 93    | 83    | 75    | 69    | 64    | 60    | 57     |
 | 1                                                                                                                                                                                                                                                                                                                             | 280   | 193   | 155   | 132   | 117   | 106   | 98    | 91    | 85    | 81     |
 | 1 Includes losses for four 90-degree bends and two end fittings. Tubing runs with larger numbers of bend and/or fittings shall be increased by an equivalent length of tubing according to the following equation: L = 1.3n, where L is actual length (ft) of tubing and n is the number of additional fittings and/or bends. |       |       |       |       |       |       |       |       |       |        |
 | 2 EHD (Equivalent Hydraulic Diameter)—A measure of the hydraulic efficiency between different tubing sizes.                                                                                                                                                                                                                   |       |       |       |       |       |       |       |       |       |        |

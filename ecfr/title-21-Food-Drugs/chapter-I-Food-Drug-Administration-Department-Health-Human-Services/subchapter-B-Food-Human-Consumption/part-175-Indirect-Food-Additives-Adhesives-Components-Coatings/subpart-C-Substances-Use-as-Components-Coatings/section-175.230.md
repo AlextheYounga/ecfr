@@ -1,14 +1,14 @@
 ##### § 175.230 Hot-melt strippable food coatings.
 
-Hot-melt strippable food coatings may be safely applied to food, subject to the provisions of this section.
+Hot-melt strippable food coatings may be safely applied to food, subject to the provisions of this section. 
 
-(a) The coatings are applied to and used as removable coatings for food.
+(a) The coatings are applied to and used as removable coatings for food. 
 
-(b) The coatings may be prepared, as mixtures, from the following substances:
+(b) The coatings may be prepared, as mixtures, from the following substances: 
 
-(1) Substances generally recognized as safe in food.
+(1) Substances generally recognized as safe in food. 
 
-(2) Substances identified in this subparagraph.
+(2) Substances identified in this subparagraph. 
 
 | List of substances           | Limitations                                                                                                                            |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |

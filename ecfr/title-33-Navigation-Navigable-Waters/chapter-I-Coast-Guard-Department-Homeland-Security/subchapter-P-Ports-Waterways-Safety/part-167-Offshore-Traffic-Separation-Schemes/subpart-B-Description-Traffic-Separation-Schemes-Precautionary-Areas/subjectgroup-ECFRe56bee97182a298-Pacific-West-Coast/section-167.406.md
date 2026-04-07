@@ -1,6 +1,6 @@
 ##### § 167.406 Off San Francisco: Area to be avoided.
 
-A circular area to be avoided, with a radius of half of a nautical mile, is centered upon geographic position:
+A circular area to be avoided, with a radius of half of a nautical mile, is centered upon geographic position: 
 
 | Latitude    | Longitude     |
 | ----------- | ------------- |

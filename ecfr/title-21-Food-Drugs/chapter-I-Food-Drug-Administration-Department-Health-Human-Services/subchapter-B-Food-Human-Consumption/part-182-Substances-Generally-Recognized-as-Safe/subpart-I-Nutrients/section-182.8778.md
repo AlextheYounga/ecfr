@@ -1,6 +1,6 @@
 ##### § 182.8778 Sodium phosphate.
 
-(a) *Product.* Sodium phosphate
+(a) *Product.* Sodium phosphate 
 
 (mono-, di-, and tribasic).
 

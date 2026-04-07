@@ -1,20 +1,20 @@
 ##### § 110.127a Lake Powell, Utah-Arizona.
 
-(a) *Castel Butte, Utah.* That portion of Lake Powell inclosed by the shore and a line connecting the following points, excluding a 300-foot-wide fairway extending in an east-west direction perpendicular to the launching ramp, as established by the Superintendent, Glen Canyon National Recreation Area:
+(a) *Castel Butte, Utah.* That portion of Lake Powell inclosed by the shore and a line connecting the following points, excluding a 300-foot-wide fairway extending in an east-west direction perpendicular to the launching ramp, as established by the Superintendent, Glen Canyon National Recreation Area: 
 
 | Latitude         | Longtitude    |
 | ---------------- | ------------- |
 | “a” 37°43′45″ N. | 110°27′00″ W. |
 | “b” 37°42′30″ N. | 110°27′57″ W. |
 
-(b) *Bullfrog Basin, Utah.* That portion of Lake Powell inclosed by the shore and a line connecting the following points, excluding a 300-foot-wide fairway, extending southeasterly from the launching ramp, as established by the Superintendent, Glen Canyon National Recreation Area:
+(b) *Bullfrog Basin, Utah.* That portion of Lake Powell inclosed by the shore and a line connecting the following points, excluding a 300-foot-wide fairway, extending southeasterly from the launching ramp, as established by the Superintendent, Glen Canyon National Recreation Area: 
 
 | Latitude         | Longtitude    |
 | ---------------- | ------------- |
 | “a” 37°29′17″ N. | 110°42′28″ W. |
 | “b” 37°28′44″ N. | 110°43′40″ W. |
 
-(c) *Halls Crossing, Utah.* That portion of Lake Powell inclosed by the shore and a line connecting the following points, excluding a 300-foot-wide fairway, extending northwesterly from the launching ramp, as established by the Superintendent, Glen Canyon National Recreation Area:
+(c) *Halls Crossing, Utah.* That portion of Lake Powell inclosed by the shore and a line connecting the following points, excluding a 300-foot-wide fairway, extending northwesterly from the launching ramp, as established by the Superintendent, Glen Canyon National Recreation Area: 
 
 | Latitude         | Longtitude    |
 | ---------------- | ------------- |
@@ -22,7 +22,7 @@
 | “b” 37°28′00″ N. | 110°43′21″ W. |
 | “c” 37°27′46″ N. | 110°43′16″ W. |
 
-(d) *Dangling Rope Canyon, Utah.* That portion of Dangling Rope Canyon, Lake Powell, enclosed by the shoreline and a line connecting the following points, excluding a 200-foot-wide fairway, extending southerly from the marina, as established by the Superintendent, Glen Canyon National Recreation Area:
+(d) *Dangling Rope Canyon, Utah.* That portion of Dangling Rope Canyon, Lake Powell, enclosed by the shoreline and a line connecting the following points, excluding a 200-foot-wide fairway, extending southerly from the marina, as established by the Superintendent, Glen Canyon National Recreation Area: 
 
 | Latitude         | Longtitude    |
 | ---------------- | ------------- |
@@ -33,7 +33,7 @@
 | “e” 37°07′30″ N. | 111°04′30″ W. |
 | “f” 37°07′20″ N. | 111°04′15″ W. |
 
-(e) *Wahweap, Arizona-Utah.* That portion of Lake Powell inclosed by the shore and a line connecting the following points, excluding a 200-foot-wide fairway, extending northeasterly from the northerly launching ramp and a 300-foot-wide fairway, extending easterly from the southerly launching ramp, as established by the Superintendent, Glen Canyon National Recreation Area:
+(e) *Wahweap, Arizona-Utah.* That portion of Lake Powell inclosed by the shore and a line connecting the following points, excluding a 200-foot-wide fairway, extending northeasterly from the northerly launching ramp and a 300-foot-wide fairway, extending easterly from the southerly launching ramp, as established by the Superintendent, Glen Canyon National Recreation Area: 
 
 | Latitude         | Longtitude    |
 | ---------------- | ------------- |
@@ -46,7 +46,7 @@ Note:
 
 Fixed moorings, piles, or stakes are prohibited. Single and fore-and-aft temporary moorings will be allowed. The anchoring of vessels and the placing of temporary moorings will be under the jurisdiction and at the discretion of the Superintendent, Glen Canyon National Recreation Area.
 
-(f) *Hite, Utah.* That portion of Lake Powell enclosed by the shore and by lines connecting the following two sets of points, excluding a 200-foot-wide fairway extending westerly from the launching ramp on the far shore, as established by the Superintendent, Glen Canyon National Recreation area:
+(f) *Hite, Utah.* That portion of Lake Powell enclosed by the shore and by lines connecting the following two sets of points, excluding a 200-foot-wide fairway extending westerly from the launching ramp on the far shore, as established by the Superintendent, Glen Canyon National Recreation area: 
 
 East Shore
 | Latitude         | Longtitude    |

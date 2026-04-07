@@ -4,10 +4,10 @@ Certain material is incorporated by reference into this part with the approval o
 
 (a) National Institute of Standards and Technology (NIST), U.S. Department of Commerce, 100 Bureau Drive, Room B119, Gaithersburg, MD, 301-975-4016 *NVLAP@nist.gov,www.nist.gov/publications/.*
 
-(1) NIST Handbook 150, *National Voluntary Laboratory Accreditation Program Procedures (NVLAP) and General Requirements,* authored by Dana S. Leaman and Bethany Hackett, 2020 Edition, August 2020, 2020 (*NVLAP Procedures and General Requirements*) *https://nvlpubs.nist.gov/nistpubs/hb/2020/NIST.HB.150-2020.pdf;* into §§ 285.8(a) and § 285.14.
+(1) NIST Handbook 150, *National Voluntary Laboratory Accreditation Program Procedures (NVLAP) and General Requirements,* authored by Dana S. Leaman and Bethany Hackett, 2020 Edition, August 2020, 2020 (*NVLAP Procedures and General Requirements*) *https://nvlpubs.nist.gov/nistpubs/hb/2020/NIST.HB.150-2020.pdf;* into §§ 285.8(a) and § 285.14. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
 \[85 FR 60061, Sept. 24, 2020\]

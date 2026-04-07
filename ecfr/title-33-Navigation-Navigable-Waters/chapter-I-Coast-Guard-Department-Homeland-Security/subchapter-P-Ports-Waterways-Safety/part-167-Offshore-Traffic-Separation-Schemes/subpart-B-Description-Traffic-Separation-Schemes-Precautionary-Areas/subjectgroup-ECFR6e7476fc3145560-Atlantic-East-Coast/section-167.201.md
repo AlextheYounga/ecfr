@@ -1,6 +1,6 @@
 ##### § 167.201 In the approaches to Chesapeake Bay: Precautionary area.
 
-A precautionary area is established bounded by a circle with a two-mile radius, centered on the following geographic position:
+A precautionary area is established bounded by a circle with a two-mile radius, centered on the following geographic position: 
 
 | Latitude    | Longitude   |
 | ----------- | ----------- |

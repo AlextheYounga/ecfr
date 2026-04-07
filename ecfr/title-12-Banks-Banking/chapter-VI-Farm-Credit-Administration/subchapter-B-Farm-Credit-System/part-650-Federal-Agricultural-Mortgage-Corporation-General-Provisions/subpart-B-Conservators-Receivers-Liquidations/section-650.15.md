@@ -1,6 +1,6 @@
 ##### § 650.15 Appointment of a receiver.
 
-(a) The Farm Credit Administration Board may in its discretion appoint, ex parte and without prior notice, a receiver for the Corporation provided that one or more of the grounds for appointment as set forth in § 650.50 of this subpart exist. 
+(a) The Farm Credit Administration Board may in its discretion appoint, ex parte and without prior notice, a receiver for the Corporation provided that one or more of the grounds for appointment as set forth in § 650.50 of this subpart exist.
 
 (b) Upon the appointment of the receiver, the Chairman of the Farm Credit Administration Board shall immediately notify the Corporation and shall publish a notice of the appointment in the Federal Register.
 

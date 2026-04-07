@@ -1,6 +1,6 @@
 ##### § 160.206 Information required in an NOA.
 
-(a) *Information required.* With the exceptions noted in paragraph (b) of this section, each NOA must contain all of the information items specified in Table 160.206. Vessel owners and operators should protect any personal information they gather in preparing notices for transmittal to the National Vessel Movement Center (NVMC) to prevent unauthorized disclosure of that information.
+(a) *Information required.* With the exceptions noted in paragraph (b) of this section, each NOA must contain all of the information items specified in Table 160.206. Vessel owners and operators should protect any personal information they gather in preparing notices for transmittal to the National Vessel Movement Center (NVMC) to prevent unauthorized disclosure of that information. 
 
 Table 160.206—NOA Information Items
 | Required information                                                                                                                                                                                                                                                                                                   | Vessels   neither carrying CDC nor   controlling another vessel carrying CDC | Vessels   carrying CDC or controlling another vessel carrying CDC |
@@ -59,6 +59,6 @@ Table 160.206—NOA Information Items
 | (vi) The name of the Flag Administration or the recognized security organization(s) representing the vessel Flag Administration that issued the ISSC.                                                                                                                                                                  | X                                                                            | X                                                                 |
 | **Note to Table 160.206.** For items with an asterisk (\*), see paragraph (b) of this section. Submitting a response for item 6 indicating that navigation equipment is not operating properly does not serve as notice to the District Commander, Captain of the Port, or Vessel Traffic Center, under 33 CFR 164.53. |                                                                              |                                                                   |
 
-(b) *Exceptions.* If a crewmember or person on board other than a crewmember is not required to carry a passport for travel, then passport information required in Table 160.206 by items (4)(iv) and (5) (iv) need not be provided for that person.
+(b) *Exceptions.* If a crewmember or person on board other than a crewmember is not required to carry a passport for travel, then passport information required in Table 160.206 by items (4)(iv) and (5) (iv) need not be provided for that person. 
 
 \[80 FR 5331, Jan. 30, 2015\]

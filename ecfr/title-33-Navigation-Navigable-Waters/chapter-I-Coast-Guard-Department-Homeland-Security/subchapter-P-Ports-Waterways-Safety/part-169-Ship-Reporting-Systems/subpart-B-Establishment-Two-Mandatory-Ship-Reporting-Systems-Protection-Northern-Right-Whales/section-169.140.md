@@ -1,6 +1,6 @@
 ##### § 169.140 What information must be included in the report?
 
-Each ship report made to the shore-based authority must follow the standard reporting and format requirements listed in this section in table 169.140. Current email addresses and telex numbers are published annually in the US Coast Pilot.
+Each ship report made to the shore-based authority must follow the standard reporting and format requirements listed in this section in table 169.140. Current email addresses and telex numbers are published annually in the US Coast Pilot. 
 
 Table 169.140—Requirements for Ship Reports
 | Telegraphy     | Function                                  | Information required                                                                                                                                                                                                                                                                                                                                                                                   |

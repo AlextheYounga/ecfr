@@ -1,6 +1,6 @@
 ##### § 182.40 Natural extractives (solvent-free) used in conjunction with spices, seasonings, and flavorings.
 
-Natural extractives (solvent-free) used in conjunction with spices, seasonings, and flavorings that are generally recognized as safe for their intended use, within the meaning of section 409 of the Act, are as follows:
+Natural extractives (solvent-free) used in conjunction with spices, seasonings, and flavorings that are generally recognized as safe for their intended use, within the meaning of section 409 of the Act, are as follows: 
 
 | Common name                                      | Botanical name of plant source |
 | ------------------------------------------------ | ------------------------------ |

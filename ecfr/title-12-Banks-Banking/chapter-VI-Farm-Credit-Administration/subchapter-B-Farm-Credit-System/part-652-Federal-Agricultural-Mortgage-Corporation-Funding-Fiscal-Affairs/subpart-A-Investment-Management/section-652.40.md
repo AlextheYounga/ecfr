@@ -1,24 +1,24 @@
 ##### § 652.40 Liquidity reserve requirement and supplemental liquidity.
 
-(a) *Unencumbered.* All investments that Farmer Mac holds in its liquidity reserve and as supplemental liquidity in accordance with this section must be unencumbered. For the purposes of this section, an investment is unencumbered if it is free of lien, and it is not explicitly or implicitly pledged to secure, collateralize, or enhance the credit of any transaction. Additionally, an unencumbered investment held in the liquidity reserve cannot be used as a hedge against interest rate risk if liquidation of that particular investment would expose Farmer Mac to a material risk of loss. 
+(a) *Unencumbered.* All investments that Farmer Mac holds in its liquidity reserve and as supplemental liquidity in accordance with this section must be unencumbered. For the purposes of this section, an investment is unencumbered if it is free of lien, and it is not explicitly or implicitly pledged to secure, collateralize, or enhance the credit of any transaction. Additionally, an unencumbered investment held in the liquidity reserve cannot be used as a hedge against interest rate risk if liquidation of that particular investment would expose Farmer Mac to a material risk of loss.
 
-(b) *Marketable.* All investments that Farmer Mac holds in its liquidity reserve in accordance with this section must be readily marketable. For purposes of this section, an investment is readily marketable if it: 
+(b) *Marketable.* All investments that Farmer Mac holds in its liquidity reserve in accordance with this section must be readily marketable. For purposes of this section, an investment is readily marketable if it:
 
-(1) Can be easily and quickly converted into cash with little or no loss in value; 
+(1) Can be easily and quickly converted into cash with little or no loss in value;
 
-(2) Exhibits low credit and market risk; 
+(2) Exhibits low credit and market risk;
 
-(3) Has ease and certainty of valuation; and, 
+(3) Has ease and certainty of valuation; and,
 
-(4) Except for money market instruments, can be easily sold or converted to cash through repurchase agreements in active and sizable markets without significantly affecting prices. 
+(4) Except for money market instruments, can be easily sold or converted to cash through repurchase agreements in active and sizable markets without significantly affecting prices.
 
-(c) *Liquidity reserve requirement, supplemental liquidity, and discounts.* Farmer Mac must maintain at all times a liquidity reserve sufficient to fund at least 90 days of the principal portion of maturing obligations and other borrowings. Farmer Mac must also hold supplemental liquid assets sufficient to fund obligations and other borrowings maturing after 90 calendar days to meet board liquidity policy in accordance with § 652.35. At a minimum, Farmer Mac must hold instruments in the liquidity reserve, and as supplemental liquidity, that are listed and discounted in accordance with the following table, and are sufficient to cover: 
+(c) *Liquidity reserve requirement, supplemental liquidity, and discounts.* Farmer Mac must maintain at all times a liquidity reserve sufficient to fund at least 90 days of the principal portion of maturing obligations and other borrowings. Farmer Mac must also hold supplemental liquid assets sufficient to fund obligations and other borrowings maturing after 90 calendar days to meet board liquidity policy in accordance with § 652.35. At a minimum, Farmer Mac must hold instruments in the liquidity reserve, and as supplemental liquidity, that are listed and discounted in accordance with the following table, and are sufficient to cover:
 
-(1) Days 1 through 15 only with Level 1 instruments; 
+(1) Days 1 through 15 only with Level 1 instruments;
 
-(2) Days 16 through 30 only with Level 1 and Level 2 instruments; and, 
+(2) Days 16 through 30 only with Level 1 and Level 2 instruments; and,
 
-(3) Days 31 through 90 with Level 1, Level 2, and Level 3 instruments. 
+(3) Days 31 through 90 with Level 1, Level 2, and Level 3 instruments.
 
 Table to § 652.40(c)
 | Liquidity level        | Instruments                                                                                                                                                                                                                                             | Discount   (multiply market value by)                                                                                 |

@@ -1,8 +1,8 @@
 ##### § 166.400 Areas along the coast of Alaska.
 
-(a) *Purpose.* Fairways, as described in this section, are established to control the erection of structures therein to provide safe vessel routes along the coast of Alaska.
+(a) *Purpose.* Fairways, as described in this section, are established to control the erection of structures therein to provide safe vessel routes along the coast of Alaska. 
 
-(b) *Designated Areas*—(1) *Prince William Sound Safety Fairway. (i) Hinchinbrook Entrance Safety Fairway.* The area enclosed by rhumb lines joining points at:
+(b) *Designated Areas*—(1) *Prince William Sound Safety Fairway. (i) Hinchinbrook Entrance Safety Fairway.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
@@ -11,7 +11,7 @@
 | 60°11′24″ N | 146°47′00″ W |
 | 59°55′00″ N | 145°42′00″ W |
 
-(ii) *Gulf to Hinchinbrook Safety Fairway* (recommended for inbound vessel traffic). The area enclosed by rhumb lines joining points at:
+(ii) *Gulf to Hinchinbrook Safety Fairway* (recommended for inbound vessel traffic). The area enclosed by rhumb lines joining points at: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
@@ -20,7 +20,7 @@
 | 59°58′00″ N | 145°32′12″ W |
 | 59°14′18″ N | 144°04′53″ W |
 
-(iii) *Hinchinbrook to Gulf Safety Fairway* (recommended for outbound vessel traffic). The area enclosed by rhumb lines joining points at:
+(iii) *Hinchinbrook to Gulf Safety Fairway* (recommended for outbound vessel traffic). The area enclosed by rhumb lines joining points at: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
@@ -29,7 +29,7 @@
 | 59°55′00″ N | 145°42′00″ W |
 | 59°14′19″ N | 144°26′25″ W |
 
-(2) *Unimak Pass Safety Fairway. (i) East/West Safety Fairway.* The area enclosed by rhumb lines joining points at:
+(2) *Unimak Pass Safety Fairway. (i) East/West Safety Fairway.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
@@ -40,7 +40,7 @@
 | 54°04′02″ N | 162°20′35″ W |
 | 54°22′02″ N | 165°43′36″ W |
 
-(ii) *North/South Safety Fairway.* The area enclosed by rhumb lines joining points at:
+(ii) *North/South Safety Fairway.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |

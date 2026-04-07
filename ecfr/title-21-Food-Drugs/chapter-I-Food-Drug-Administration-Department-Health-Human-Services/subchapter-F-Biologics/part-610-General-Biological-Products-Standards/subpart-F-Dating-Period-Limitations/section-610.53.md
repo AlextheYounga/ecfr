@@ -1,8 +1,8 @@
 ##### § 610.53 Dating periods for Whole Blood and blood components.
 
-(a) *General.* Dating periods for Whole Blood and blood components are specified in the table in paragraph (b) of this section.
+(a) *General.* Dating periods for Whole Blood and blood components are specified in the table in paragraph (b) of this section. 
 
-(b) *Table of dating periods.* In using the table in this paragraph, when a product in column A is stored at the storage temperature prescribed in column B, storage of a product must not exceed the dating period specified in column C, unless a different dating period is specified in the instructions for use by the blood collection, processing and storage system approved or cleared for such use by FDA. Container labels for each product must include the recommended storage temperatures.
+(b) *Table of dating periods.* In using the table in this paragraph, when a product in column A is stored at the storage temperature prescribed in column B, storage of a product must not exceed the dating period specified in column C, unless a different dating period is specified in the instructions for use by the blood collection, processing and storage system approved or cleared for such use by FDA. Container labels for each product must include the recommended storage temperatures. 
 
 Whole Blood and Blood Components Storage Temperatures and Dating Periods
 | A                                                                                                             | B                                                        | C                                                                                                                                        |

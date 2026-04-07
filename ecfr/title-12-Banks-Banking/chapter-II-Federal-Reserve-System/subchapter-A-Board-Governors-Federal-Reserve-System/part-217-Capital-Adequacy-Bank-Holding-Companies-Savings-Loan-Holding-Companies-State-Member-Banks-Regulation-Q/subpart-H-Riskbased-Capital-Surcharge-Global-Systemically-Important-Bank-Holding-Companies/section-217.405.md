@@ -1,18 +1,18 @@
 ##### § 217.405 Method 2 score.
 
-(a) *General.* A global systemically important BHC's method 2 score is equal to: 
+(a) *General.* A global systemically important BHC's method 2 score is equal to:
 
-(1) The sum of: 
+(1) The sum of:
 
-(i) The global systemically important BHC's systemic indicator scores for the nine systemic indicators set forth Table 1 of this section, as determined under paragraph (b) of this section; and 
+(i) The global systemically important BHC's systemic indicator scores for the nine systemic indicators set forth Table 1 of this section, as determined under paragraph (b) of this section; and
 
-(ii) The global systemically important BHC's short-term wholesale funding score, calculated pursuant to § 217.406. 
+(ii) The global systemically important BHC's short-term wholesale funding score, calculated pursuant to § 217.406.
 
-(b) *Systemic indicator score.* A global systemically important BHC's score for a systemic indicator is equal to: 
+(b) *Systemic indicator score.* A global systemically important BHC's score for a systemic indicator is equal to:
 
-(1) The amount of the systemic indicator, as reported by the bank holding company as of December 31 of the previous calendar year, expressed in billions of dollars; 
+(1) The amount of the systemic indicator, as reported by the bank holding company as of December 31 of the previous calendar year, expressed in billions of dollars;
 
-(2) Multiplied by the coefficient corresponding to the systemic indicator set forth in Table 1 of this section. 
+(2) Multiplied by the coefficient corresponding to the systemic indicator set forth in Table 1 of this section.
 
 Table 1 to § 217.405—Coefficients for Systemic Indicators
 | Category                      | Systemic indicator                                    | Coefficient value   (%) |

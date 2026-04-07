@@ -1,16 +1,16 @@
 ##### § 719.3 Violations of the IEEPA subject to judicial enforcement proceedings.
 
-(a) *Violations*—(1) *Import restrictions involving Schedule 1 chemicals.* Except as otherwise provided in § 712.2 of the CWCR, no person may import any Schedule 1 chemical (See supplement no. 1 to part 712 of the CWCR) unless:
+(a) *Violations*—(1) *Import restrictions involving Schedule 1 chemicals.* Except as otherwise provided in § 712.2 of the CWCR, no person may import any Schedule 1 chemical (See supplement no. 1 to part 712 of the CWCR) unless: 
 
-(i) The import is from a State Party;
+(i) The import is from a State Party; 
 
-(ii) The import is for research, medical, pharmaceutical, or protective purposes;
+(ii) The import is for research, medical, pharmaceutical, or protective purposes; 
 
-(iii) The import is in types and quantities strictly limited to those that can be justified for such purposes; and
+(iii) The import is in types and quantities strictly limited to those that can be justified for such purposes; and 
 
-(iv) The importing person has notified BIS not less than 45 calendar days before the import pursuant to § 712.6 of the CWCR.
+(iv) The importing person has notified BIS not less than 45 calendar days before the import pursuant to § 712.6 of the CWCR. 
 
-(2) *Import restrictions involving Schedule 2 chemicals.* Except as otherwise provided in § 713.1 of the CWCR, no person may, on or after April 29, 2000, import any Schedule 2 chemical (see supplement no. 1 to part 713 of the CWCR) from any destination other than a State Party.
+(2) *Import restrictions involving Schedule 2 chemicals.* Except as otherwise provided in § 713.1 of the CWCR, no person may, on or after April 29, 2000, import any Schedule 2 chemical (see supplement no. 1 to part 713 of the CWCR) from any destination other than a State Party. 
 
 (b) *Civil penalty.* A civil penalty not to exceed $50,000 may be imposed in accordance with this part on any person for each violation of this section. 1
 

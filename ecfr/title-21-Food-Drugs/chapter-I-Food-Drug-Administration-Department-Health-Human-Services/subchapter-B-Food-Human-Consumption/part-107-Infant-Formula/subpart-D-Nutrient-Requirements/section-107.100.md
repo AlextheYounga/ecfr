@@ -1,6 +1,6 @@
 ##### § 107.100 Nutrient specifications.
 
-(a) An infant formula shall contain the following nutrients at a level not less than the minimum level specified and not more than the maximum level specified for each 100 kilocalories of the infant formula in the form prepared for consumption as directed on the container:
+(a) An infant formula shall contain the following nutrients at a level not less than the minimum level specified and not more than the maximum level specified for each 100 kilocalories of the infant formula in the form prepared for consumption as directed on the container: 
 
 | Nutrients                                                                                    | Unit of measurement | Minimum level | Maximum level |
 | -------------------------------------------------------------------------------------------- | ------------------- | ------------- | ------------- |
@@ -41,14 +41,14 @@
 | 1 The generic term “niacin” includes niacin (nicotinic acid) and niacinamide (nicotinamide). |                     |               |               |
 | 2 Required only for non-milk-based infant formulas.                                          |                     |               |               |
 
-(b) Vitamin E shall be present at a level of at least 0.7 International Unit of vitamin E per gram of linoleic acid.
+(b) Vitamin E shall be present at a level of at least 0.7 International Unit of vitamin E per gram of linoleic acid. 
 
-(c) Any vitamin K added shall be in the form of phylloquinone.
+(c) Any vitamin K added shall be in the form of phylloquinone. 
 
-(d) Vitamin B6 shall be present at a level of at least 15 micrograms of vitamin B6 for each gram of protein in excess of 1.8 grams of protein per 100 kilocalories of infant formula in the form prepared for consumption as directed on the container.
+(d) Vitamin B6 shall be present at a level of at least 15 micrograms of vitamin B6 for each gram of protein in excess of 1.8 grams of protein per 100 kilocalories of infant formula in the form prepared for consumption as directed on the container. 
 
-(e) The ratio of calcium to phosphorus in infant formula in the form prepared for consumption as directed on the container shall be no less than 1.1 and not more than 2.0.
+(e) The ratio of calcium to phosphorus in infant formula in the form prepared for consumption as directed on the container shall be no less than 1.1 and not more than 2.0. 
 
-(f) Protein shall be present in an amount not to exceed 4.5 grams per 100 kilocalories regardless of quality, and not less than 1.8 grams per 100 kilocalories of infant formula in the form prepared for consumption as directed on the container when its biological quality is equivalent to or better than that of casein. If the biological quality of the protein is less than that of casein, the minimum amount of protein shall be increased proportionately to compensate for its lower biological quality. For example, an infant formula containing protein with a biological quality of 75 percent of casein shall contain at least 2.4 grams of protein (1.8/0.75). No protein with a biological quality less than 70 percent of casein shall be used.
+(f) Protein shall be present in an amount not to exceed 4.5 grams per 100 kilocalories regardless of quality, and not less than 1.8 grams per 100 kilocalories of infant formula in the form prepared for consumption as directed on the container when its biological quality is equivalent to or better than that of casein. If the biological quality of the protein is less than that of casein, the minimum amount of protein shall be increased proportionately to compensate for its lower biological quality. For example, an infant formula containing protein with a biological quality of 75 percent of casein shall contain at least 2.4 grams of protein (1.8/0.75). No protein with a biological quality less than 70 percent of casein shall be used. 
 
 \[50 FR 45108, Oct. 30, 1985, as amended at 80 FR 35841, June 23, 2015\]

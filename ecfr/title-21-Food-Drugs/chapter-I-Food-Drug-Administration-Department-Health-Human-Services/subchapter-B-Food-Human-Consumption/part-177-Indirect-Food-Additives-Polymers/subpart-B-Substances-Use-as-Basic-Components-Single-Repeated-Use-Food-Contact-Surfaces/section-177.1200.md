@@ -1,18 +1,18 @@
 ##### § 177.1200 Cellophane.
 
-Cellophane may be safely used for packaging food in accordance with the following prescribed conditions:
+Cellophane may be safely used for packaging food in accordance with the following prescribed conditions: 
 
-(a) Cellophane consists of a base sheet made from regenerated cellulose to which have been added certain optional substances of a grade of purity suitable for use in food packaging as constituents of the base sheet or as coatings applied to impart desired technological properties.
+(a) Cellophane consists of a base sheet made from regenerated cellulose to which have been added certain optional substances of a grade of purity suitable for use in food packaging as constituents of the base sheet or as coatings applied to impart desired technological properties. 
 
-(b) Subject to any limitations prescribed in this part, the optional substances used in the base sheet and coating may include:
+(b) Subject to any limitations prescribed in this part, the optional substances used in the base sheet and coating may include: 
 
-(1) Substances generally recognized as safe in food.
+(1) Substances generally recognized as safe in food. 
 
-(2) Substances for which prior approval or sanctions permit their use in cellophane, under conditions specified in such sanctions and substances listed in § 181.22 of this chapter.
+(2) Substances for which prior approval or sanctions permit their use in cellophane, under conditions specified in such sanctions and substances listed in § 181.22 of this chapter. 
 
-(3) Substances that by any regulation promulgated under section 409 of the act may be safely used as components of cellophane.
+(3) Substances that by any regulation promulgated under section 409 of the act may be safely used as components of cellophane. 
 
-(4) Substances named in this section and further identified as required.
+(4) Substances named in this section and further identified as required. 
 
 (c) *List of substances:*
 
@@ -158,8 +158,8 @@ Cellophane may be safely used for packaging food in accordance with the followin
 | Vinylidene chloride-methacrylate decyloctyl copolymer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Do.                                                                                                                                                                                                                                                                                                                                                                                |
 | Wax, petroleum, complying with § 178.3710 of this chapter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                    |
 
-(d) Any optional component listed in this section covered by a specific food additive regulation must meet any specifications in that regulation.
+(d) Any optional component listed in this section covered by a specific food additive regulation must meet any specifications in that regulation. 
 
-(e) Acrylonitrile copolymers identified in this section shall comply with the provisions of § 180.22 of this chapter.
+(e) Acrylonitrile copolymers identified in this section shall comply with the provisions of § 180.22 of this chapter. 
 
 \[42 FR 14572, Mar. 15, 1977, as amended at 47 FR 11842, Mar. 19, 1982; 64 FR 57978, Oct. 28, 1999; 87 FR 31089, May 20, 2022\]

@@ -1,6 +1,6 @@
 ##### § 153.205 Fines.
 
-Section 311(b)(5) of the Act prescribes that any person who fails to notify the appropriate agency of the United States Government immediately of a discharge is, upon conviction, fined in accordance with Title 18, U.S. Code, or imprisoned for not more than 5 years, or both.
+Section 311(b)(5) of the Act prescribes that any person who fails to notify the appropriate agency of the United States Government immediately of a discharge is, upon conviction, fined in accordance with Title 18, U.S. Code, or imprisoned for not more than 5 years, or both. 
 
 Table 1—Addresses and Telephone Numbers of Coast Guard District Offices and EPA Regional Offices
 |                                  | Address                                                                            | Telephone    |

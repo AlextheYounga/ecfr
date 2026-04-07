@@ -1,38 +1,38 @@
 ##### § 401.48 Turning basins.
 
-No vessel shall be turned about in any canal, except:
+No vessel shall be turned about in any canal, except: 
 
-(a) With permission from the traffic controller; and
+(a) With permission from the traffic controller; and 
 
-(b) At the locations set out in the table to this section.
+(b) At the locations set out in the table to this section. 
 
 Table
 
-1\. South Shore Canal:
+1\. South Shore Canal: 
 
-(a) Turning Basin No. 1—Opposite Brossard.
+(a) Turning Basin No. 1—Opposite Brossard. 
 
-(b) Turning Basin No. 2—Between Lock 7 and the Guard Gate Cut for vessels up to 180 m in overall length.
+(b) Turning Basin No. 2—Between Lock 7 and the Guard Gate Cut for vessels up to 180 m in overall length. 
 
-2\. Welland Canal:
+2\. Welland Canal: 
 
-(a) Turning Basin No. 1—Opposite St. Catharines Wharf for vessels up to 107 m in overall length.
+(a) Turning Basin No. 1—Opposite St. Catharines Wharf for vessels up to 107 m in overall length. 
 
-(b) Turning Basin No. 2—Between Lock 7 and the Guard Gate Cut for vessels up to 180 m in overall length.
+(b) Turning Basin No. 2—Between Lock 7 and the Guard Gate Cut for vessels up to 180 m in overall length. 
 
-(c) Turning Basin No. 3—Immediately south of Port Robinson (Mile 13).
+(c) Turning Basin No. 3—Immediately south of Port Robinson (Mile 13). 
 
-(d) Turning Basin No. 4—North of Lock No. 8 for vessels up to 170 m in overall length.
+(d) Turning Basin No. 4—North of Lock No. 8 for vessels up to 170 m in overall length. 
 
-(e) For vessels up to 80 m in overall length.
+(e) For vessels up to 80 m in overall length. 
 
-(1) North end of Wharf No. 1,
+(1) North end of Wharf No. 1, 
 
-(2) Tie-up wall above Lock 1,
+(2) Tie-up wall above Lock 1, 
 
-(3) Tie-up wall below Lock 2,
+(3) Tie-up wall below Lock 2, 
 
-(4) Wharf No. 9,
+(4) Wharf No. 9, 
 
 (5) Between the southerly extremities of Wharves 18-2 and 18-3.
 

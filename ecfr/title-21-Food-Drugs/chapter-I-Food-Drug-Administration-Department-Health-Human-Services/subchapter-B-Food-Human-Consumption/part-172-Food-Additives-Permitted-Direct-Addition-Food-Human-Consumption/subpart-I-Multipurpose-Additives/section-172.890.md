@@ -1,12 +1,12 @@
 ##### § 172.890 Rice bran wax.
 
-Rice bran wax may be safely used in food in accordance with the following conditions:
+Rice bran wax may be safely used in food in accordance with the following conditions: 
 
-(a) It is the refined wax obtained from rice bran and meets the following specifications:
+(a) It is the refined wax obtained from rice bran and meets the following specifications: 
 
 Melting point 75 °C to 80 °C. Free fatty acids, maximum 10 percent. Iodine number, maximum 20. Saponification number 75 to 120.
 
-(b) It is used or intended for use as follows:
+(b) It is used or intended for use as follows: 
 
 | Food                              | Limitation in food | Use                    |
 | --------------------------------- | ------------------ | ---------------------- |

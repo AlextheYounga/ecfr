@@ -1,26 +1,26 @@
 ##### § 100.801 Annual Marine Events in the Eighth Coast Guard District.
 
-The regulations in this section apply to the marine events listed in Tables 1 through 7 of this section. These regulations will be effective annually, for the duration of each event listed in Tables 1 through 7. Annual notice of the exact dates and times of the effective period of the regulation with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will also be published in local notices to mariners. Sponsors of events listed in Tables 1 through 7 of this section must submit an application each year in accordance with § 100.15.
+The regulations in this section apply to the marine events listed in Tables 1 through 7 of this section. These regulations will be effective annually, for the duration of each event listed in Tables 1 through 7. Annual notice of the exact dates and times of the effective period of the regulation with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will also be published in local notices to mariners. Sponsors of events listed in Tables 1 through 7 of this section must submit an application each year in accordance with § 100.15. 
 
-(a) The Coast Guard may patrol the event area under the direction of a designated Coast Guard Patrol Commander. The Patrol Commander may be contacted on Channel 16 VHF-FM (156.8 MHz) by the call sign “PATCOM.”
+(a) The Coast Guard may patrol the event area under the direction of a designated Coast Guard Patrol Commander. The Patrol Commander may be contacted on Channel 16 VHF-FM (156.8 MHz) by the call sign “PATCOM.” 
 
-(b) All persons and vessels not registered with the sponsor as participants or official patrol vessels are considered spectators. The “official patrol vessels” consist of any Coast Guard, state or local law enforcement and sponsor provided vessels assigned or approved by the Commander, Eighth Coast Guard District, to patrol the event.
+(b) All persons and vessels not registered with the sponsor as participants or official patrol vessels are considered spectators. The “official patrol vessels” consist of any Coast Guard, state or local law enforcement and sponsor provided vessels assigned or approved by the Commander, Eighth Coast Guard District, to patrol the event. 
 
-(c) Spectator vessels desiring to transit the regulated area may do so only with prior approval of the Patrol Commander and when so directed by that officer and will be operated at a no wake speed in a manner which will not endanger participants in the event or any other craft.
+(c) Spectator vessels desiring to transit the regulated area may do so only with prior approval of the Patrol Commander and when so directed by that officer and will be operated at a no wake speed in a manner which will not endanger participants in the event or any other craft. 
 
-(d) No spectator shall anchor, block, loiter, or impede the through transit of participants or official patrol vessels in the regulated area during the effective dates and times, unless cleared for entry by or through an official patrol vessel.
+(d) No spectator shall anchor, block, loiter, or impede the through transit of participants or official patrol vessels in the regulated area during the effective dates and times, unless cleared for entry by or through an official patrol vessel. 
 
-(e) The Patrol Commander may forbid and control the movement of all vessels in the regulated area. When hailed or signaled by an official patrol vessel, a vessel shall come to an immediate stop and comply with the directions given. Failure to do so may result in expulsion from the area, citation for failure to comply, or both.
+(e) The Patrol Commander may forbid and control the movement of all vessels in the regulated area. When hailed or signaled by an official patrol vessel, a vessel shall come to an immediate stop and comply with the directions given. Failure to do so may result in expulsion from the area, citation for failure to comply, or both. 
 
-(f) Any spectator vessel may anchor outside the regulated area specified in Tables 1 through 7 of this section, but may not anchor in, block, or loiter in a navigable channel.
+(f) Any spectator vessel may anchor outside the regulated area specified in Tables 1 through 7 of this section, but may not anchor in, block, or loiter in a navigable channel. 
 
-(g) The Patrol Commander may terminate the event or the operation of any vessel at any time it is deemed necessary for the protection of life or property.
+(g) The Patrol Commander may terminate the event or the operation of any vessel at any time it is deemed necessary for the protection of life or property. 
 
-(h) The Patrol Commander will terminate enforcement of the special regulations at the conclusion of the event.
+(h) The Patrol Commander will terminate enforcement of the special regulations at the conclusion of the event. 
 
-(i) In Tables 1 through 7 to this section, where a regulated area is described by reference to miles of a river, channel or lake, the regulated area includes all waters between the indicated miles as defined by lines drawn perpendicular to shore passing through the indicated points.
+(i) In Tables 1 through 7 to this section, where a regulated area is described by reference to miles of a river, channel or lake, the regulated area includes all waters between the indicated miles as defined by lines drawn perpendicular to shore passing through the indicated points. 
 
-(j) In Tables 1 through 7 to this section, where alternative dates are described (“third or fourth Saturday”), the exact date and times will be advertised by the Coast Guard through Local Notices to Mariners and Broadcast Notices to Mariners.
+(j) In Tables 1 through 7 to this section, where alternative dates are described (“third or fourth Saturday”), the exact date and times will be advertised by the Coast Guard through Local Notices to Mariners and Broadcast Notices to Mariners. 
 
 Table 1 to § 100.801—Sector Ohio Valley Annual and Recurring Marine Events
 | Date                                                                                                | Event/sponsor                                                                       | Ohio Valley location              | Regulated area                                                                                    |

@@ -1,8 +1,8 @@
 ##### § 166.500 Areas along the Atlantic Coast.
 
-(a) *Purpose.* Fairways, as described in this section are established to control the erection of structures therein to provide safe vessel routes along the Atlantic Coast.
+(a) *Purpose.* Fairways, as described in this section are established to control the erection of structures therein to provide safe vessel routes along the Atlantic Coast. 
 
-(b) *Designated Areas*—(1) *Off New York Shipping Safety Fairway.* (i) Ambrose to Nantucket Safety Fairway. The area enclosed by rhumb lines, \[North American Datum of 1927 (NAD-27)\] joining points at:
+(b) *Designated Areas*—(1) *Off New York Shipping Safety Fairway.* (i) Ambrose to Nantucket Safety Fairway. The area enclosed by rhumb lines, \[North American Datum of 1927 (NAD-27)\] joining points at: 
 
 | Latitude    | Longitude   |
 | ----------- | ----------- |
@@ -15,7 +15,7 @@
 | 40°28′58″ N | 72°58′25″ W |
 | 40°27′20″ N | 73°04′57″ W |
 
-(ii) *Nantucket to Ambrose Safety Fairway.* The area enclosed by rhumb lines, NAD-27, joining point at:
+(ii) *Nantucket to Ambrose Safety Fairway.* The area enclosed by rhumb lines, NAD-27, joining point at: 
 
 | Latitude    | Longitude   |
 | ----------- | ----------- |

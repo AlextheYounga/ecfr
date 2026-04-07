@@ -1,22 +1,22 @@
 ##### § 26.02 Definitions.
 
-For the purpose of this part and interpreting the Act:
+For the purpose of this part and interpreting the Act: 
 
-*Act* means the “Vessel Bridge-to-Bridge Radiotelephone Act”, 33 U.S.C. sections 1201-1208;
+*Act* means the “Vessel Bridge-to-Bridge Radiotelephone Act”, 33 U.S.C. sections 1201-1208; 
 
-*Length* is measured from end to end over the deck excluding sheer;
+*Length* is measured from end to end over the deck excluding sheer; 
 
-*Power-driven vessel* means any vessel propelled by machinery; and
+*Power-driven vessel* means any vessel propelled by machinery; and 
 
-*Secretary* means the Secretary of the Department in which the Coast Guard is operating;
+*Secretary* means the Secretary of the Department in which the Coast Guard is operating; 
 
-*Territorial sea* means all waters as defined in § 2.22(a)(1) of this chapter.
+*Territorial sea* means all waters as defined in § 2.22(a)(1) of this chapter. 
 
-*Towing vessel* means any commercial vessel engaged in towing another vessel astern, alongside, or by pushing ahead.
+*Towing vessel* means any commercial vessel engaged in towing another vessel astern, alongside, or by pushing ahead. 
 
-*Vessel Traffic Services (VTS)* means a service implemented under Part 161 of this chapter by the United States Coast Guard designed to improve the safety and efficiency of vessel traffic and to protect the environment. The VTS has the capability to interact with marine traffic and respond to traffic situations developing in the VTS area.
+*Vessel Traffic Services (VTS)* means a service implemented under Part 161 of this chapter by the United States Coast Guard designed to improve the safety and efficiency of vessel traffic and to protect the environment. The VTS has the capability to interact with marine traffic and respond to traffic situations developing in the VTS area. 
 
-*Vessel Traffic Service Area* or *VTS Area* means the geographical area encompassing a specific VTS area of service as described in Part 161 of this chapter. This area of service may be subdivided into sectors for the purpose of allocating responsibility to individual Vessel Traffic Centers or to identify different operating requirements.
+*Vessel Traffic Service Area* or *VTS Area* means the geographical area encompassing a specific VTS area of service as described in Part 161 of this chapter. This area of service may be subdivided into sectors for the purpose of allocating responsibility to individual Vessel Traffic Centers or to identify different operating requirements. 
 
 Note:
 

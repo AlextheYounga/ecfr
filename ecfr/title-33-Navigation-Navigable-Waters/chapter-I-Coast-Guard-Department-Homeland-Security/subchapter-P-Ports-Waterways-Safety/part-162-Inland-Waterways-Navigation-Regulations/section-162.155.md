@@ -1,8 +1,8 @@
 ##### § 162.155 Sandusky and Huron Harbors, Ohio.
 
-(a) In Sandusky Harbor, no vessel greater than 40 feet in length may exceed 10 miles per hour.
+(a) In Sandusky Harbor, no vessel greater than 40 feet in length may exceed 10 miles per hour. 
 
-(b) In Huron Harbor, no vessel greater than 40 feet in length may exceed 6 miles per hour, except in the outer harbor where no vessel greater than 40 feet in length may exceed 10 miles per hour.
+(b) In Huron Harbor, no vessel greater than 40 feet in length may exceed 6 miles per hour, except in the outer harbor where no vessel greater than 40 feet in length may exceed 10 miles per hour. 
 
 Note:
 

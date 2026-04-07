@@ -1,22 +1,22 @@
 ##### § 151.90 How do I provide a written notice?
 
-If you elect to satisfy § 151.70 by providing the customer a written notice, you must give or send the written notice at or before the completion of the securities transaction. You must include all of the following information in a written notice: 
+If you elect to satisfy § 151.70 by providing the customer a written notice, you must give or send the written notice at or before the completion of the securities transaction. You must include all of the following information in a written notice:
 
-(a) Your name and the customer's name. 
+(a) Your name and the customer's name.
 
-(b) The capacity in which you acted (for example, as agent). 
+(b) The capacity in which you acted (for example, as agent).
 
-(c) The date and time of execution of the securities transaction (or a statement that you will furnish this information within a reasonable time after the customer's written request), and the identity, price, and number of shares or units (or principal amount in the case of debt securities) of the security the customer purchased or sold. 
+(c) The date and time of execution of the securities transaction (or a statement that you will furnish this information within a reasonable time after the customer's written request), and the identity, price, and number of shares or units (or principal amount in the case of debt securities) of the security the customer purchased or sold.
 
-(d) The name of the person from whom you purchased or to whom you sold the security, or a statement that you will furnish this information within a reasonable time after the customer's written request. 
+(d) The name of the person from whom you purchased or to whom you sold the security, or a statement that you will furnish this information within a reasonable time after the customer's written request.
 
-(e) The amount of any remuneration that you have received or will receive from the customer in connection with the transaction unless the remuneration paid by the customer is determined under a written agreement, other than on a transaction basis. 
+(e) The amount of any remuneration that you have received or will receive from the customer in connection with the transaction unless the remuneration paid by the customer is determined under a written agreement, other than on a transaction basis.
 
-(f) The source and amount of any other remuneration you have received or will receive in connection with the transaction. If, in the case of a purchase, you were not participating in a distribution, or in the case of a sale, were not participating in a tender offer, the written notice may state whether you have or will receive any other remuneration and state that you will furnish the source and amount of the other remuneration within a reasonable time after the customer's written request. 
+(f) The source and amount of any other remuneration you have received or will receive in connection with the transaction. If, in the case of a purchase, you were not participating in a distribution, or in the case of a sale, were not participating in a tender offer, the written notice may state whether you have or will receive any other remuneration and state that you will furnish the source and amount of the other remuneration within a reasonable time after the customer's written request.
 
-(g) That you are not a member of the Securities Investor Protection Corporation, if that is the case. This does not apply to a transaction in shares of a registered open-end investment company or unit investment trust if the customer sends funds or securities directly to, or receives funds or securities directly from, the registered open-end investment company or unit investment trust, its transfer agent, its custodian, or a designated broker or dealer who sends the customer either a confirmation or the written notice in this section. 
+(g) That you are not a member of the Securities Investor Protection Corporation, if that is the case. This does not apply to a transaction in shares of a registered open-end investment company or unit investment trust if the customer sends funds or securities directly to, or receives funds or securities directly from, the registered open-end investment company or unit investment trust, its transfer agent, its custodian, or a designated broker or dealer who sends the customer either a confirmation or the written notice in this section.
 
-(h) Additional disclosures. You must provide all of the additional disclosures described in the following chart for transactions involving certain debt securities: 
+(h) Additional disclosures. You must provide all of the additional disclosures described in the following chart for transactions involving certain debt securities:
 
 | If you effect a transaction involving . . .                                                                                                                                                        | You must provide the following additional information in your written notice . . .                                                                                                                                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

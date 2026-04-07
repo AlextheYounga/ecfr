@@ -1,6 +1,6 @@
 ##### § 1250.93 Discharge of wastes.
 
-Vessels operating on fresh water lakes or rivers shall not discharge sewage, or ballast or bilge water, within such areas adjacent to domestic water intakes as are designated by the Commissioner of Food and Drugs.
+Vessels operating on fresh water lakes or rivers shall not discharge sewage, or ballast or bilge water, within such areas adjacent to domestic water intakes as are designated by the Commissioner of Food and Drugs. 
 
 Cross Reference:
 

@@ -1,8 +1,8 @@
 ##### § 161.40 Vessel Traffic Service Berwick Bay.
 
-(a) The VTS area consists of the navigable waters of the following segments of waterways: the Intracoastal Waterway (ICW) Morgan City to Port Allen Alternate Route from Mile Marker 0 to Mile Marker 5; the ICW from Mile Marker 93 west of Harvey Lock (WHL) to Mile Marker 102 WHL; the Atchafalaya River Route from Mile Marker 113 to Mile Marker 122; from Bayou Shaffer Junction (ICW Mile Marker 94.5 WHL) south one statute mile along Bayou Shaffer; and from Berwick Lock northwest one statute mile along the Lower Atchafalaya River.
+(a) The VTS area consists of the navigable waters of the following segments of waterways: the Intracoastal Waterway (ICW) Morgan City to Port Allen Alternate Route from Mile Marker 0 to Mile Marker 5; the ICW from Mile Marker 93 west of Harvey Lock (WHL) to Mile Marker 102 WHL; the Atchafalaya River Route from Mile Marker 113 to Mile Marker 122; from Bayou Shaffer Junction (ICW Mile Marker 94.5 WHL) south one statute mile along Bayou Shaffer; and from Berwick Lock northwest one statute mile along the Lower Atchafalaya River. 
 
-(b) *VTS Special Area.* The Berwick Bay VTS Special Area consists of those waters within a 1000 yard radius of the Burlington Northern/Santa Fe Railroad Bridge located at Mile .03 MC/PA.
+(b) *VTS Special Area.* The Berwick Bay VTS Special Area consists of those waters within a 1000 yard radius of the Burlington Northern/Santa Fe Railroad Bridge located at Mile .03 MC/PA. 
 
 (c) *Reporting Points.*
 

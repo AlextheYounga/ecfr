@@ -1,14 +1,14 @@
 ##### § 898.12 Performance standard.
 
-(a) Any connector in a cable or electrode lead wire having a conductive connection to a patient shall be constructed in such a manner as to comply with subclause 56.3(c) of the following standard:
+(a) Any connector in a cable or electrode lead wire having a conductive connection to a patient shall be constructed in such a manner as to comply with subclause 56.3(c) of the following standard: 
 
-International Electrotechnical Commission (IEC)
+International Electrotechnical Commission (IEC) 
 
-601-1: Medical Electrical Equipment
+601-1: Medical Electrical Equipment 
 
-601-1 (1988) Part 1: General requirements for safety
+601-1 (1988) Part 1: General requirements for safety 
 
-Amendment No. 1 (1991)
+Amendment No. 1 (1991) 
 
 Amendment No. 2 (1995).
 

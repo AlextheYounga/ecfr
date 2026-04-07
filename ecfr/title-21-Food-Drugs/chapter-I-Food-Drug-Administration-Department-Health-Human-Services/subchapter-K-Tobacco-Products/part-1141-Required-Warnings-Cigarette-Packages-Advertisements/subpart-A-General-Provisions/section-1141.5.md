@@ -4,6 +4,6 @@
 
 (b) Center for Tobacco Products, U.S. Food and Drug Administration, 10903 New Hampshire Ave., Silver Spring, MD 20993; 1-888-463-6332. You may also obtain the material at *https://www.fda.gov/cigarette-warning-files.*
 
-(1) “Required Cigarette Health Warnings, 2020”, IBR approved for § 1141.10.
+(1) “Required Cigarette Health Warnings, 2020”, IBR approved for § 1141.10. 
 
 (2) \[Reserved\]

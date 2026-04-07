@@ -1,10 +1,10 @@
 ##### § 161.12 Vessel operating requirements.
 
-(a) Subject to the exigencies of safe navigation, a VTS User shall comply with all measures established or directions issued by a VTS.
+(a) Subject to the exigencies of safe navigation, a VTS User shall comply with all measures established or directions issued by a VTS. 
 
-(b) If, in a specific circumstance, a VTS User is unable to safely comply with a measure or direction issued by the VTS, the VTS User may deviate only to the extent necessary to avoid endangering persons, property or the environment. The deviation shall be reported to the VTS as soon as is practicable.
+(b) If, in a specific circumstance, a VTS User is unable to safely comply with a measure or direction issued by the VTS, the VTS User may deviate only to the extent necessary to avoid endangering persons, property or the environment. The deviation shall be reported to the VTS as soon as is practicable. 
 
-(c) When not exchanging voice communications, a VTS User must maintain a listening watch as required by § 26.04(e) of this chapter on the VTS frequency designated in Table 1 to § 161.12(c) (VTS and VMRS Centers, Call Signs/MMSI, Designated Frequencies, and Monitoring Areas). In addition, the VTS User must respond promptly when hailed and communicate in the English language.
+(c) When not exchanging voice communications, a VTS User must maintain a listening watch as required by § 26.04(e) of this chapter on the VTS frequency designated in Table 1 to § 161.12(c) (VTS and VMRS Centers, Call Signs/MMSI, Designated Frequencies, and Monitoring Areas). In addition, the VTS User must respond promptly when hailed and communicate in the English language. 
 
 Note to § 161.12(c):
 
@@ -51,22 +51,22 @@ Table 1 to § 161.12(c)—VTS and VMRS Centers, Call Signs/MMSI, Designated Freq
 | 6 Until otherwise directed, full VTS services will not be available in the Calcasieu Channel, Calcasieu River Channel, and the ICW from MM 260 to MM 191. Vessels may contact Port Arthur Traffic on the designated VTS frequency to request advisories, but are not required to monitor the VTS frequency in this zone.                                                                                                                                                                                                                                                 |                          |                                 |                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 7 A Cooperative Vessel Traffic Service was established by the United States and Canada within adjoining waters. The appropriate Center administers the rules issued by both nations; however, enforces only its own set of rules within its jurisdiction. Note: the bridge-to-bridge navigational frequency, 156.650 MHz (Ch. 13), is not so designated in Canadian waters, therefore users are encouraged and permitted to make passing arrangements on the designated monitoring frequencies.                                                                          |                          |                                 |                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-(d) As soon as is practicable, a VTS User shall notify the VTS of any of the following:
+(d) As soon as is practicable, a VTS User shall notify the VTS of any of the following: 
 
-(1) A marine casualty as defined in 46 CFR 4.05-1;
+(1) A marine casualty as defined in 46 CFR 4.05-1; 
 
-(2) Involvement in the ramming of a fixed or floating object;
+(2) Involvement in the ramming of a fixed or floating object; 
 
-(3) A pollution incident as defined in § 151.15 of this chapter;
+(3) A pollution incident as defined in § 151.15 of this chapter; 
 
-(4) A defect or discrepancy in an aid to navigation;
+(4) A defect or discrepancy in an aid to navigation; 
 
-(5) A hazardous condition as defined in § 160.202 of this chapter;
+(5) A hazardous condition as defined in § 160.202 of this chapter; 
 
-(6) Improper operation of vessel equipment required by part 164 of this chapter;
+(6) Improper operation of vessel equipment required by part 164 of this chapter; 
 
-(7) A situation involving hazardous materials for which a report is required by 49 CFR 176.48; and
+(7) A situation involving hazardous materials for which a report is required by 49 CFR 176.48; and 
 
-(8) A hazardous vessel operating condition as defined in § 161.2.
+(8) A hazardous vessel operating condition as defined in § 161.2. 
 
 \[CGD 90-020, 59 FR 36324, July 15, 1994\] Editorial Note:For Federal Register citations affecting § 161.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

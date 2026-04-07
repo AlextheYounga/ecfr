@@ -1,12 +1,12 @@
 ##### § 145.10 Location, number, and installation of fire extinguishers.
 
-(a) Approved portable and semi-portable extinguishers must be installed in accordance with Table 145.10(a).
+(a) Approved portable and semi-portable extinguishers must be installed in accordance with Table 145.10(a). 
 
-(b) Semi-portable extinguishers must be located in the open so as to be readily seen.
+(b) Semi-portable extinguishers must be located in the open so as to be readily seen. 
 
-(c) Semi-portable extinguishers must be fitted with a suitable hose and nozzle, or other practicable means, so all of the space can be protected.
+(c) Semi-portable extinguishers must be fitted with a suitable hose and nozzle, or other practicable means, so all of the space can be protected. 
 
-(d) Table 145.10(a) of this section indicates the minimum number and size of fire extinguishers required for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.
+(d) Table 145.10(a) of this section indicates the minimum number and size of fire extinguishers required for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table. 
 
 Table 145.10(a)—Portable and Semi-Portable Extinguishers
 | Space                                                                                                                                                   | Minimum   required   rating | Quantity and location                                                                                                                                         |

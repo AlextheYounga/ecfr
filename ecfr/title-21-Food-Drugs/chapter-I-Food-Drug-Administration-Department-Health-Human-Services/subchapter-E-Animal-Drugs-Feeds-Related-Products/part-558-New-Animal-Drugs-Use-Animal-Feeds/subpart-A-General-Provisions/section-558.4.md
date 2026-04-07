@@ -1,16 +1,16 @@
 ##### § 558.4 Requirement of a medicated feed mill license.
 
-(a) A feed manufacturing facility must possess a medicated feed mill license in order to manufacture a Type B or Type C medicated feed from a Category II, Type A medicated article.
+(a) A feed manufacturing facility must possess a medicated feed mill license in order to manufacture a Type B or Type C medicated feed from a Category II, Type A medicated article. 
 
-(b) The manufacture of the following types of feed are exempt from the required license, unless otherwise specified:
+(b) The manufacture of the following types of feed are exempt from the required license, unless otherwise specified: 
 
-(1) Type B or Type C medicated feed using Category I, Type A medicated articles or Category I, Type B or Type C medicated feeds; and
+(1) Type B or Type C medicated feed using Category I, Type A medicated articles or Category I, Type B or Type C medicated feeds; and 
 
-(2) Type B or Type C medicated feed using Category II, Type B or Type C medicated feeds.
+(2) Type B or Type C medicated feed using Category II, Type B or Type C medicated feeds. 
 
-(c) The use of Type B and Type C medicated feeds shall also conform to the conditions of use provided for in subpart B of this part.
+(c) The use of Type B and Type C medicated feeds shall also conform to the conditions of use provided for in subpart B of this part. 
 
-(d) This paragraph identifies each drug by category, the maximum level of drug in Type B medicated feeds, and the assay limits for the drug in Type A medicated articles and Type B and Type C medicated feeds, as follows:
+(d) This paragraph identifies each drug by category, the maximum level of drug in Type B medicated feeds, and the assay limits for the drug in Type A medicated articles and Type B and Type C medicated feeds, as follows: 
 
 Category I
 | Drug                                                                                                                                                                                                                                                                                                                                                                                                    | Assay limits percent 1 Type A | Type B maximum (200x) | Assay limits percent 1 Type B/C 2                                                                                                       |
@@ -88,6 +88,6 @@ Category II
 | 1 Percent of labeled amount.                                                                                                                                                                                                                                                                                                                                                                             |                               |                                       |                                                                                          |
 | 2 Values given represent ranges for either Type B or Type C medicated feeds. For those drugs that have two range limit, the first set is for a Type B medicated feed and the second set is for a Type C medicated feed. These values (ranges) have been assigned in order to provide for the possibility of dilution of a Type B medicated feed with lower assay limits to make a Type C medicated feed. |                               |                                       |                                                                                          |
 
-(e) When drugs from both categories are in combination, the Category II requirements will apply to the combination drug product.
+(e) When drugs from both categories are in combination, the Category II requirements will apply to the combination drug product. 
 
 \[51 FR 7392, Mar. 3, 1986\] Editorial Note:For Federal Register citations affecting § 558.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

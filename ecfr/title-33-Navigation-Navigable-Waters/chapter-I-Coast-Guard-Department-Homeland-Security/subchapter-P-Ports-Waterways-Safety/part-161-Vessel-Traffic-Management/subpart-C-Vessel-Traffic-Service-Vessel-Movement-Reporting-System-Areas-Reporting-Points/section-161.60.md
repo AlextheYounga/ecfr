@@ -1,30 +1,30 @@
 ##### § 161.60 Vessel Traffic Service Prince William Sound.
 
-(a) The VTS area consists of the navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W. and includes Valdez Arm, Valdez Narrows and Port Valdez.
+(a) The VTS area consists of the navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W. and includes Valdez Arm, Valdez Narrows and Port Valdez. 
 
-(b) The Valdez Arm VTS Special Area consists of the waters of the Valdez Arm Traffic Separation Scheme (described in § 167.1703 of this chapter); the waters northeast of a line drawn from shoreline to shoreline through the points 60°58.04′ N, 146°46.52′ W and 60°58.93′ N, 146°48.86′ W; and southwest of a line bearing 307° True from Tongue Point at 61°02.10′ N, 146°40.00′ W.
+(b) The Valdez Arm VTS Special Area consists of the waters of the Valdez Arm Traffic Separation Scheme (described in § 167.1703 of this chapter); the waters northeast of a line drawn from shoreline to shoreline through the points 60°58.04′ N, 146°46.52′ W and 60°58.93′ N, 146°48.86′ W; and southwest of a line bearing 307° True from Tongue Point at 61°02.10′ N, 146°40.00′ W. 
 
-(c) The Valdez Narrows VTS Special Area consists of those waters of Valdez Arm, Valdez Narrows, and Port Valdez northeast of a line bearing 307° True from Tongue Point at 61°02′06″ N., 146°40′ W.; and southwest of a line bearing 307° True from Entrance Island Light at 61°05′06″ N., 146°36′42″ W.
+(c) The Valdez Narrows VTS Special Area consists of those waters of Valdez Arm, Valdez Narrows, and Port Valdez northeast of a line bearing 307° True from Tongue Point at 61°02′06″ N., 146°40′ W.; and southwest of a line bearing 307° True from Entrance Island Light at 61°05′06″ N., 146°36′42″ W. 
 
-(d) Additional VTS Special Area Operating Requirements. The following additional requirements are applicable in the Valdez Narrows VTS Special Area:
+(d) Additional VTS Special Area Operating Requirements. The following additional requirements are applicable in the Valdez Narrows VTS Special Area: 
 
-(1) No VMRS User shall proceed north of 61° N. without prior approval of the VTS.
+(1) No VMRS User shall proceed north of 61° N. without prior approval of the VTS. 
 
-(2) For a vessel listed in paragraph (d)(3) of this section—
+(2) For a vessel listed in paragraph (d)(3) of this section— 
 
-(i) Approval to enter this area will not be granted to a vessel when a tank vessel of more than 20,000 deadweight tons is navigating therein;
+(i) Approval to enter this area will not be granted to a vessel when a tank vessel of more than 20,000 deadweight tons is navigating therein; 
 
-(ii) A northbound vessel shall remain south of 61° N. until the VTS has granted permission to proceed; and
+(ii) A northbound vessel shall remain south of 61° N. until the VTS has granted permission to proceed; and 
 
-(iii) A southbound vessel shall remain in Port Valdez east of 146°35′ W. and north of 61°06′ N. until the VTS has granted permission to proceed.
+(iii) A southbound vessel shall remain in Port Valdez east of 146°35′ W. and north of 61°06′ N. until the VTS has granted permission to proceed. 
 
-(3) Paragraph (d)(2) of this section applies to—
+(3) Paragraph (d)(2) of this section applies to— 
 
-(i) A vessel of 1600 gross tons or more; and
+(i) A vessel of 1600 gross tons or more; and 
 
-(ii) A towing vessel of 8 meters or more in length, except for a vessel performing duties as an escort vessel as defined in 33 CFR Part 168.
+(ii) A towing vessel of 8 meters or more in length, except for a vessel performing duties as an escort vessel as defined in 33 CFR Part 168. 
 
-(e) Reporting Points.
+(e) Reporting Points. 
 
 Table 161.60(d)—VTS Prince William Sound Reporting Points
 | Designator | Geographic name   | Geographic description             | Latitude/longitude         | Notes            |

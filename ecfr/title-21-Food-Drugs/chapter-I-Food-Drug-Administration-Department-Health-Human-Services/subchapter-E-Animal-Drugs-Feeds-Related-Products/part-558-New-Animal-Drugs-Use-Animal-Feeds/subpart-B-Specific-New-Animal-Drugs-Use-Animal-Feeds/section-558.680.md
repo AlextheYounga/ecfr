@@ -1,12 +1,12 @@
 ##### § 558.680 Zoalene.
 
-(a) *Specifications.* Type A medicated article containing 25 percent zoalene.
+(a) *Specifications.* Type A medicated article containing 25 percent zoalene. 
 
-(b) *Sponsors.* See Nos. 054771 and 058198 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 054771 and 058198 in § 510.600(c) of this chapter. 
 
-(c) *Related tolerances.* See § 556.770 of this chapter.
+(c) *Related tolerances.* See § 556.770 of this chapter. 
 
-(d) *Conditions of use*—(1) *Chickens*—
+(d) *Conditions of use*—(1) *Chickens*— 
 
 | Zoalene in grams/ton | Combination in grams per ton | Indications for use                                                     | Limitations                                                                                                                               | Sponsor         |
 | -------------------- | ---------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -28,17 +28,17 @@
 | (viii) 113.5         | Bacitracin methylenedisalicylate,   100 to 200 | Broiler chickens: For prevention and control of coccidiosis; and as an aid in the control of necrotic enteritis caused or complicated by Clostridium spp. or other organisms susceptible to bacitracin             | Feed continuously as sole ration. To control necrotic enteritis, start medication at first clinical signs of disease; vary bacitracin dosage based on the severity of infection; administer continuously for 5 to 7 days or as long as clinical signs persist, then reduce bacitracin to prevention level (50 g/ton). Bacitracin methylenedisalicylate as provided by No. 054771 in § 510.600(c) of this chapter                                | 054771   058198 |
 | (ix) 113.5           | Bambermycins 1                                 | Broiler chickens: As an aid in the prevention and control of coccidiosis; and for increased rate of weight gain and improved feed efficiency                                                                       | Feed continuously as sole ration. Do not feed to chickens over 14 weeks of age. Bambermycins as provided by No. 016592 in § 510.600(c) of this chapter                                                                                                                                                                                                                                                                                          | 016592          |
 
-(2) *Turkeys*—
+(2) *Turkeys*— 
 
 | Zoalene in grams/ton | Combination in grams/ton                  | Indications for use                                                                                                            | Limitations                                                                                                                           | Sponsor         |
 | -------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | (i) 113.5 to 170.3   |                                           | Growing turkeys: For prevention and control of coccidiosis                                                                     | Feed continuously as sole ration. For turkeys grown for meat purposes only. Not to be fed to laying birds                             | 054771   058198 |
 | (ii) 113.5 to 170.3  | Bacitracin methylenedisalicylate, 4 to 50 | Growing turkeys: For prevention and control of coccidiosis; and for increased rate of weight gain and improved feed efficiency | Feed continuously as sole ration until 14 to 16 weeks of age. For turkeys grown for meat purposes only. Not to be fed to laying birds | 054771   058198 |
 
-(3) Zoalene may also be used in combination with:
+(3) Zoalene may also be used in combination with: 
 
-(i)-(ii) \[Reserved\]
+(i)-(ii) \[Reserved\] 
 
-(iii) Lincomycin as in § 558.325.
+(iii) Lincomycin as in § 558.325. 
 
 \[41 FR 11005, Mar. 15, 1976, as amended at 42 FR 18618, Apr. 8, 1977; 42 FR 20817, Apr. 22, 1977; 42 FR 36995, July 19, 1977; 51 FR 7401, Mar. 3, 1986; 52 FR 2686, Jan. 26, 1987; 55 FR 8461, Mar. 8, 1990; 57 FR 8403, Mar. 10, 1992; 57 FR 8578, Mar. 11, 1992; 61 FR 35957, July 9, 1996; 63 FR 38750, July 20, 1998; 67 FR 6868, Feb. 14, 2002; 71 FR 16223, Mar. 31, 2006; 71 FR 27958, May 15, 2006; 76 FR 17027, Mar. 28, 2011; 79 FR 10983, Feb. 27, 2014; 79 FR 13546, Mar. 11, 2014; 81 FR 17610, Mar. 30, 2016; 81 FR 95025, Dec. 27, 2016; 82 FR 21693, May 10, 2017; 86 FR 14827, Mar. 19, 2021; 87 FR 17948, Mar. 29, 2022\]

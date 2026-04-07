@@ -1,6 +1,6 @@
 ##### § 181.30 Substances used in the manufacture of paper and paperboard products used in food packaging.
 
-Substances used in the manufacture of paper and paperboard products used in food packaging shall include:
+Substances used in the manufacture of paper and paperboard products used in food packaging shall include: 
 
 Aliphatic polyoxyethylene ethers.\* 
 

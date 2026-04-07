@@ -1,10 +1,10 @@
 ##### § 357.210 Cholecystokinetic active ingredients.
 
-The active ingredient of the product consists of any of the following when used within the specified concentration and dosage form established for each ingredient:
+The active ingredient of the product consists of any of the following when used within the specified concentration and dosage form established for each ingredient: 
 
-(a) 50-percent aqueous emulsion of corn oil.
+(a) 50-percent aqueous emulsion of corn oil. 
 
-(b) Hydrogenated soybean oil in a suitable, water-dispersible powder. The hydrogenated soybean oil is food-grade, partially hydrogenated with a melting point of 41 to 43.5 °C, an iodine value of 65 to 69, and a fatty acid composition as follows:
+(b) Hydrogenated soybean oil in a suitable, water-dispersible powder. The hydrogenated soybean oil is food-grade, partially hydrogenated with a melting point of 41 to 43.5 °C, an iodine value of 65 to 69, and a fatty acid composition as follows: 
 
 | Fatty acid       | Percent composition |
 | ---------------- | ------------------- |

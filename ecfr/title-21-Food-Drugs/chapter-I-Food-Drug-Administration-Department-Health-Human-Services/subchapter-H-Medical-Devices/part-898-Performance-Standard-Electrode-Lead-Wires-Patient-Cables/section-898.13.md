@@ -1,8 +1,8 @@
 ##### § 898.13 Compliance dates.
 
-The dates for compliance with the standard set forth in § 898.12(a) shall be as follows:
+The dates for compliance with the standard set forth in § 898.12(a) shall be as follows: 
 
-(a) For electrode lead wires and patient cables used with, or intended for use with, the following devices, the date for which compliance is required is May 11, 1998:
+(a) For electrode lead wires and patient cables used with, or intended for use with, the following devices, the date for which compliance is required is May 11, 1998: 
 
 Listing of Devices for Which Compliance is Required Effective
 

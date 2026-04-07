@@ -1,14 +1,14 @@
 ##### § 558.515 Robenidine.
 
-(a) *Specifications.* Type A medicated articles containing 30 grams per pound.
+(a) *Specifications.* Type A medicated articles containing 30 grams per pound. 
 
-(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter. 
 
-(c) *Related tolerances.* See § 556.580 of this chapter.
+(c) *Related tolerances.* See § 556.580 of this chapter. 
 
-(d) *Special considerations.* Type C feed containing robenidine hydrochloride must be fed within 50 days from the date of manufacture. Do not use in Type B or Type C medicated feeds containing bentonite.
+(d) *Special considerations.* Type C feed containing robenidine hydrochloride must be fed within 50 days from the date of manufacture. Do not use in Type B or Type C medicated feeds containing bentonite. 
 
-(e) *Conditions of use.* It is used in feed for chickens as follows:
+(e) *Conditions of use.* It is used in feed for chickens as follows: 
 
 | Robenidine hydrochloride in grams/ton | Combination in   grams/ton                                  | Indications for use                                                                                                                                                                                    | Limitations                                                                                                                                                                                                                                                                                                             | Sponsor         |
 | ------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -20,12 +20,12 @@
 |                                       | Bacitracin (as bacitracin zinc) 4 to 30                     | For broiler and fryer chickens: As an aid in the prevention of coccidiosis caused by E. mivati, E. brunetti, E. tenella, E. acervulina, E. maxima, and E. necatrix. For increased rate of weight gain. | Feed continuously as sole ration. Do not feed to laying chickens. Withdraw 5 days prior to slaughter.                                                                                                                                                                                                                   | 054771   054771 |
 |                                       | Bacitracin (as bacitracin zinc) 27 to 50                    | For broiler and fryer chickens: As an aid in the prevention of coccidiosis caused by E. mivati, E. brunetti, E. tenella, E. acervulina, E. maxima, and E. necatrix. For improved feed efficiency.      | Feed continuously as sole ration. Do not feed to laying chickens. Withdraw 5 days prior to slaughter.                                                                                                                                                                                                                   | 054771   054771 |
 
-(f) Robenidine may also be used in combination with:
+(f) Robenidine may also be used in combination with: 
 
-(1) Chlortetracycline as in § 558.128.
+(1) Chlortetracycline as in § 558.128. 
 
-(2) Lincomycin as in § 558.325.
+(2) Lincomycin as in § 558.325. 
 
-(3) Oxytetracycline as in § 558.450.
+(3) Oxytetracycline as in § 558.450. 
 
 \[40 FR 13959, Mar. 27, 1975\] Editorial Note:For Federal Register citations affecting § 558.515, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

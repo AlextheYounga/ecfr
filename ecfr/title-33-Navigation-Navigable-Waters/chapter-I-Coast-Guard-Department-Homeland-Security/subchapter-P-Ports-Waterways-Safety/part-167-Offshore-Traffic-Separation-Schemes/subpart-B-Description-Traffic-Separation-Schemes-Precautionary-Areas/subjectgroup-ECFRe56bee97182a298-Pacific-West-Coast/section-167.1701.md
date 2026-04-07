@@ -1,6 +1,6 @@
 ##### § 167.1701 In Prince William Sound: Precautionary areas.
 
-(a) *Cape Hinchinbrook.* A precautionary area is established and is bounded by a line connecting the following geographical positions:
+(a) *Cape Hinchinbrook.* A precautionary area is established and is bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
@@ -16,8 +16,8 @@
 | 60°11.51′ N | 146°46.64′ W |
 | 60°20.60′ N | 146°54.31′ W |
 
-(b) *Bligh Reef.* A precautionary area is established of radius 1.5 miles centered at geographical position 60°49.63′ N, 147°01.33′ W.
+(b) *Bligh Reef.* A precautionary area is established of radius 1.5 miles centered at geographical position 60°49.63′ N, 147°01.33′ W. 
 
-(c) *Pilot boarding area.* A pilot boarding area located near the center of the Bligh Reef precautionary area is established. Regulations for vessels operating in these areas are in § 165.1109(d) of this chapter.
+(c) *Pilot boarding area.* A pilot boarding area located near the center of the Bligh Reef precautionary area is established. Regulations for vessels operating in these areas are in § 165.1109(d) of this chapter. 
 
 \[USCG-2001-10254, 67 FR 53743, Aug. 19, 2002\]

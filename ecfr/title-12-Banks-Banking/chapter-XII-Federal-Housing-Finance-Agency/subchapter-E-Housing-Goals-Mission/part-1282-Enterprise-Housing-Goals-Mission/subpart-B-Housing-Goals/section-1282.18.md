@@ -1,8 +1,8 @@
 ##### § 1282.18 Affordability—Income level definitions—family size not known (actual or prospective tenants).
 
-In determining whether a rental unit is affordable where family size is not known to the Enterprise, income will be adjusted using unit size, and affordability determined as follows: 
+In determining whether a rental unit is affordable where family size is not known to the Enterprise, income will be adjusted using unit size, and affordability determined as follows:
 
-(a) *For moderate-income,* the income of prospective tenants shall not exceed the following percentages of area median income with adjustments, depending on unit size: 
+(a) *For moderate-income,* the income of prospective tenants shall not exceed the following percentages of area median income with adjustments, depending on unit size:
 
 | Unit size                                                              | Percentage of area median income |
 | ---------------------------------------------------------------------- | -------------------------------- |
@@ -12,7 +12,7 @@ In determining whether a rental unit is affordable where family size is not know
 | 3 bedrooms or more                                                     | \*                               |
 | \*104% plus (12% multiplied by the number of bedrooms in excess of 3). |                                  |
 
-(b) *For low-income (80%),* income of prospective tenants shall not exceed the following percentages of area median income with adjustments, depending on unit size: 
+(b) *For low-income (80%),* income of prospective tenants shall not exceed the following percentages of area median income with adjustments, depending on unit size:
 
 | Unit size                                                                | Percentage of area median income |
 | ------------------------------------------------------------------------ | -------------------------------- |
@@ -22,7 +22,7 @@ In determining whether a rental unit is affordable where family size is not know
 | 3 bedrooms or more                                                       | \*                               |
 | \*83.2% plus (9.6% multiplied by the number of bedrooms in excess of 3). |                                  |
 
-(c) *For low-income (60%),* income of prospective tenants shall not exceed the following percentages of area median income with adjustments, depending on unit size: 
+(c) *For low-income (60%),* income of prospective tenants shall not exceed the following percentages of area median income with adjustments, depending on unit size:
 
 | Unit size                                                                | Percentage of area median income |
 | ------------------------------------------------------------------------ | -------------------------------- |
@@ -32,7 +32,7 @@ In determining whether a rental unit is affordable where family size is not know
 | 3 bedrooms or more                                                       | \*                               |
 | \*62.4% plus (7.2% multiplied by the number of bedrooms in excess of 3). |                                  |
 
-(d) *For very low-income,* income of prospective tenants shall not exceed the following percentages of area median income with adjustments, depending on unit size: 
+(d) *For very low-income,* income of prospective tenants shall not exceed the following percentages of area median income with adjustments, depending on unit size:
 
 | Unit size                                                              | Percentage of area median income |
 | ---------------------------------------------------------------------- | -------------------------------- |
@@ -42,7 +42,7 @@ In determining whether a rental unit is affordable where family size is not know
 | 3 bedrooms or more                                                     | \*                               |
 | \*52% plus (6.0% multiplied by the number of bedrooms in excess of 3). |                                  |
 
-(e) *For extremely low-income,* income of prospective tenants shall not exceed the following percentages of area median income with adjustments, depending on unit size: 
+(e) *For extremely low-income,* income of prospective tenants shall not exceed the following percentages of area median income with adjustments, depending on unit size:
 
 | Unit size                                                                | Percentage of area median income |
 | ------------------------------------------------------------------------ | -------------------------------- |

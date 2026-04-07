@@ -1,72 +1,72 @@
 ##### § 127.005 Definitions.
 
-As used in this part:
+As used in this part: 
 
-*Active* means accomplishing the transfer of LHG or LNG, or scheduling one to occur, within 12 months of the current date.
+*Active* means accomplishing the transfer of LHG or LNG, or scheduling one to occur, within 12 months of the current date. 
 
-*Captain of the Port* (COTP) means the Coast Guard officer designated by the Commandant to command a Captain of the Port Zone as described in part 3 of this chapter, or an authorized representative.
+*Captain of the Port* (COTP) means the Coast Guard officer designated by the Commandant to command a Captain of the Port Zone as described in part 3 of this chapter, or an authorized representative. 
 
-*Commandant* means the Commandant of the U.S. Coast Guard or an authorized representative.
+*Commandant* means the Commandant of the U.S. Coast Guard or an authorized representative. 
 
-*Control room* means a space within the LNG waterfront facility from which facility operations are controlled.
+*Control room* means a space within the LNG waterfront facility from which facility operations are controlled. 
 
-*District Commander* means the Coast Guard officer designated by the Commandant to command a Coast Guard District as described in part 3 of this chapter, or an authorized representative.
+*District Commander* means the Coast Guard officer designated by the Commandant to command a Coast Guard District as described in part 3 of this chapter, or an authorized representative. 
 
-*Environmentally sensitive areas* include public parks and recreation areas, wildlife and waterfowl refuges, fishing grounds, wetlands, other areas deemed to be of high value to fish and wildlife resources, historic sites, and other protected areas.
+*Environmentally sensitive areas* include public parks and recreation areas, wildlife and waterfowl refuges, fishing grounds, wetlands, other areas deemed to be of high value to fish and wildlife resources, historic sites, and other protected areas. 
 
-*Existing* as applied to a waterfront facility means a facility handling LNG constructed or being constructed under a contract awarded before June 2, 1988, or a facility handling LHG constructed or being constructed under a contract awarded before January 30, 1996.
+*Existing* as applied to a waterfront facility means a facility handling LNG constructed or being constructed under a contract awarded before June 2, 1988, or a facility handling LHG constructed or being constructed under a contract awarded before January 30, 1996. 
 
-*Facility* means either a waterfront facility handling LHG or a waterfront facility handling LNG, and includes LNG fuel facilities.
+*Facility* means either a waterfront facility handling LHG or a waterfront facility handling LNG, and includes LNG fuel facilities. 
 
-*Fire endurance rating* means the duration for which an assembly or structural unit will contain a fire or retain structural integrity when exposed to the temperatures specified in the standard time-temperature curve in ASTM E119-20 (incorporated by reference, see § 127.003).
+*Fire endurance rating* means the duration for which an assembly or structural unit will contain a fire or retain structural integrity when exposed to the temperatures specified in the standard time-temperature curve in ASTM E119-20 (incorporated by reference, see § 127.003). 
 
-*Flammable product* means a product indicated by the letter “F” or by the letters “F + T” in Table 127.005.
+*Flammable product* means a product indicated by the letter “F” or by the letters “F + T” in Table 127.005. 
 
-*Inactive* means not active.
+*Inactive* means not active. 
 
-*Impounding space* means a space formed by dikes and floors that confines a spill of LHG or LNG.
+*Impounding space* means a space formed by dikes and floors that confines a spill of LHG or LNG. 
 
-*LHG* means liquefied hazardous gas.
+*LHG* means liquefied hazardous gas. 
 
-*LHG vessel* means a vessel constructed or converted to carry LHG, in bulk.
+*LHG vessel* means a vessel constructed or converted to carry LHG, in bulk. 
 
-*Liquefied hazardous gas* (LHG) means a liquid containing one or more of the products listed in Table 127.005.
+*Liquefied hazardous gas* (LHG) means a liquid containing one or more of the products listed in Table 127.005. 
 
-*Liquefied natural gas* (LNG) means a liquid or semisolid consisting mostly of methane and small quantities of ethane, propane, nitrogen, or other natural gases.
+*Liquefied natural gas* (LNG) means a liquid or semisolid consisting mostly of methane and small quantities of ethane, propane, nitrogen, or other natural gases. 
 
-*Liquefied petroleum gas* (LPG) means a liquid consisting mostly of propane or butane or both.
+*Liquefied petroleum gas* (LPG) means a liquid consisting mostly of propane or butane or both. 
 
-*LNG* means liquefied natural gas.
+*LNG* means liquefied natural gas. 
 
-*LNG fuel facility* means a waterfront facility that handles LNG for the sole purpose of providing LNG from shore-based structures to vessels for use as a marine fuel, and that does not transfer LNG to or receive LNG from vessels capable of carrying LNG in bulk as cargo.
+*LNG fuel facility* means a waterfront facility that handles LNG for the sole purpose of providing LNG from shore-based structures to vessels for use as a marine fuel, and that does not transfer LNG to or receive LNG from vessels capable of carrying LNG in bulk as cargo. 
 
-*LNG vessel* means a vessel constructed or converted to carry LNG, in bulk.
+*LNG vessel* means a vessel constructed or converted to carry LNG, in bulk. 
 
-*Loading flange* means the connection or group of connections in the cargo transfer pipeline on the facility that connects the facility pipeline to the vessel pipeline.
+*Loading flange* means the connection or group of connections in the cargo transfer pipeline on the facility that connects the facility pipeline to the vessel pipeline. 
 
-*Marine transfer area for LHG* means that part of a waterfront facility handling LHG between the vessel, or where the vessel moors, and the first shutoff valve on the pipeline immediately inland of the terminal manifold or loading arm, including the entire part of a pier or wharf used to serve LHG vessels.
+*Marine transfer area for LHG* means that part of a waterfront facility handling LHG between the vessel, or where the vessel moors, and the first shutoff valve on the pipeline immediately inland of the terminal manifold or loading arm, including the entire part of a pier or wharf used to serve LHG vessels. 
 
-*Marine transfer area for LNG* means that part of a waterfront facility handling LNG between the vessel, or where the vessel moors, and the last manifold or valve immediately before the receiving tanks.
+*Marine transfer area for LNG* means that part of a waterfront facility handling LNG between the vessel, or where the vessel moors, and the last manifold or valve immediately before the receiving tanks. 
 
-*Mating flange* means that flange in the product-transfer pipeline on a waterfront facility handling LHG or a waterfront facility handling LNG that connects this pipeline to the pipeline or transfer hose of the vessel.
+*Mating flange* means that flange in the product-transfer pipeline on a waterfront facility handling LHG or a waterfront facility handling LNG that connects this pipeline to the pipeline or transfer hose of the vessel. 
 
-*MAWP* means maximum allowable working pressure.
+*MAWP* means maximum allowable working pressure. 
 
-*Maximum allowable working pressure* (MAWP) means the maximum gauge pressure permissible at the top of equipment, containers, or pressure vessels while operating at design temperature.
+*Maximum allowable working pressure* (MAWP) means the maximum gauge pressure permissible at the top of equipment, containers, or pressure vessels while operating at design temperature. 
 
-*New* as applied to a waterfront facility means a facility handling LNG constructed or being constructed under a contract awarded on or after June 2, 1988, or a facility handling LHG constructed or being constructed under a contract awarded on or after January 30, 1996.
+*New* as applied to a waterfront facility means a facility handling LNG constructed or being constructed under a contract awarded on or after June 2, 1988, or a facility handling LHG constructed or being constructed under a contract awarded on or after January 30, 1996. 
 
-*Person in charge of transfer operations on the vessel* is the person designated the person in charge of cargo transfer under 46 CFR 154.1831.
+*Person in charge of transfer operations on the vessel* is the person designated the person in charge of cargo transfer under 46 CFR 154.1831. 
 
-*Release* means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping, or disposing into the environment, except a minor release of LHG or its vapor, that may occur during the routine handling of LHG. No release is minor if it creates an atmosphere that exceeds the Lower Flammable Limit (LFL) for a flammable product or any Permissible Exposure Limit (PEL) listed in 29 CFR 1910.1000, Table Z-1 or Z-2, for a toxic product.
+*Release* means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping, or disposing into the environment, except a minor release of LHG or its vapor, that may occur during the routine handling of LHG. No release is minor if it creates an atmosphere that exceeds the Lower Flammable Limit (LFL) for a flammable product or any Permissible Exposure Limit (PEL) listed in 29 CFR 1910.1000, Table Z-1 or Z-2, for a toxic product. 
 
-*Substructure* means the deck of a pier or wharf and the structural components below that deck.
+*Substructure* means the deck of a pier or wharf and the structural components below that deck. 
 
-*Toxic product* means a product indicated by the letter “T” or by the letters “F + T” in Table 127.005.
+*Toxic product* means a product indicated by the letter “T” or by the letters “F + T” in Table 127.005. 
 
-*Waterfront facility handling LHG* means any structure on, in, or under the navigable waters of the United States, or any structure on land or any area on shore immediately adjacent to such waters, used or capable of being used to transfer liquefied hazardous gas, in bulk, to or from a vessel.
+*Waterfront facility handling LHG* means any structure on, in, or under the navigable waters of the United States, or any structure on land or any area on shore immediately adjacent to such waters, used or capable of being used to transfer liquefied hazardous gas, in bulk, to or from a vessel. 
 
-*Waterfront facility handling LNG* means any structure on, in, or under the navigable waters of the United States, or any structure on land or any area on shore immediately adjacent to such waters, used or capable of being used to transfer liquefied natural gas, in bulk, to or from a vessel.
+*Waterfront facility handling LNG* means any structure on, in, or under the navigable waters of the United States, or any structure on land or any area on shore immediately adjacent to such waters, used or capable of being used to transfer liquefied natural gas, in bulk, to or from a vessel. 
 
 Table 127.005—List of Products and Hazards
 | Product                                                                                                                           | Hazard |

@@ -1,22 +1,22 @@
 ##### § 177.2420 Polyester resins, cross-linked.
 
-Cross-linked polyester resins may be safely used as articles or components of articles intended for repeated use in contact with food, in accordance with the following prescribed conditions:
+Cross-linked polyester resins may be safely used as articles or components of articles intended for repeated use in contact with food, in accordance with the following prescribed conditions: 
 
-(a) The cross-linked polyester resins are produced by the condensation of one or more of the acids listed in paragraph (a)(1) of this section with one or more of the alcohols or epoxides listed in paragraph (a)(2) of this section, followed by copolymerization with one or more of the cross-linking agents listed in paragraph (a)(3) of this section:
+(a) The cross-linked polyester resins are produced by the condensation of one or more of the acids listed in paragraph (a)(1) of this section with one or more of the alcohols or epoxides listed in paragraph (a)(2) of this section, followed by copolymerization with one or more of the cross-linking agents listed in paragraph (a)(3) of this section: 
 
-(1) Acids:
+(1) Acids: 
 
 Adipic. Fatty acids, and dimers thereof, from natural sources. Fumaric. Isophthalic. Maleic. Methacrylic. Orthophthalic. Sebacic. Terephthalic. Trimellitic.
 
-(2) Polyols and polyepoxides:
+(2) Polyols and polyepoxides: 
 
 Butylene glycol. Diethylene glycol. 2,2-Dimethyl-1,3-propanediol. Dipropylene glycol. Ethylene glycol. Glycerol. 4,4′-Isopropylidenediphenol-epichlorohydrin. Mannitol. *a-*Methyl glucoside. Pentaerythritol. Polyoxypropylene ethers of 4,4′-isopropylide-nediphenol (containing an average of 2-7.5 moles of propylene oxide). Propylene glycol. Sorbitol. Trimethylol ethane. Trimethylol propane. 2,2,4-Trimethyl-1,3-pentanediol.
 
-(3) Cross-linking agents:
+(3) Cross-linking agents: 
 
 Butyl acrylate. Butyl methacrylate. Ethyl acrylate. Ethylhexyl acrylate. Methyl acrylate. Methyl methacrylate. Styrene. Triglycidyl isocyanurate (CAS Reg. No. 2451-62-9), for use only in coatings contacting bulk quantities of dry food of the type identified in § 176.170(c) of this chapter, table 1, under type VIII. Vinyl toluene.
 
-(b) Optional adjuvant substances employed to facilitate the production of the resins or added thereto to impart desired technical or physical properties include the following, provided that the quantity used does not exceed that reasonably required to accomplish the intended physical or technical effect and does not exceed any limitations prescribed in this section:
+(b) Optional adjuvant substances employed to facilitate the production of the resins or added thereto to impart desired technical or physical properties include the following, provided that the quantity used does not exceed that reasonably required to accomplish the intended physical or technical effect and does not exceed any limitations prescribed in this section: 
 
 | List of substances                                                                                                                                                                              | Limitations (limits of addition expressed as percent by weight of finished resin)                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,12 +63,12 @@ Butyl acrylate. Butyl methacrylate. Ethyl acrylate. Ethylhexyl acrylate. Methyl 
 | Silicon dioxide                                                                                                                                                                                 |                                                                                                                                               |
 | Wax, petroleum                                                                                                                                                                                  | Complying with § 178.3710 of this chapter.                                                                                                    |
 
-(c) The cross-linked polyester resins, with or without the optional substances described in paragraph (b) of this section, and in the finished form in which they are to contact food, when extracted with the solvent or solvents characterizing the type of food and under the conditions of time and temperature characterizing the conditions of their intended use, as determined from tables 1 and 2 of § 176.170(c) of this chapter, shall meet the following extractives limitations:
+(c) The cross-linked polyester resins, with or without the optional substances described in paragraph (b) of this section, and in the finished form in which they are to contact food, when extracted with the solvent or solvents characterizing the type of food and under the conditions of time and temperature characterizing the conditions of their intended use, as determined from tables 1 and 2 of § 176.170(c) of this chapter, shall meet the following extractives limitations: 
 
-(1) Net chloroform-soluble extractives not to exceed 0.1 milligram per square inch of food-contact surface tested when the prescribed food-simulating solvent is water or 8 or 50 percent alcohol.
+(1) Net chloroform-soluble extractives not to exceed 0.1 milligram per square inch of food-contact surface tested when the prescribed food-simulating solvent is water or 8 or 50 percent alcohol. 
 
-(2) Total nonvolatile extractives not to exceed 0.1 milligram per square inch of food-contact surface tested when the prescribed food-simulating solvent is heptane.
+(2) Total nonvolatile extractives not to exceed 0.1 milligram per square inch of food-contact surface tested when the prescribed food-simulating solvent is heptane. 
 
-(d) In accordance with good manufacturing practice, finished articles containing the cross-linked polyester resins shall be thoroughly cleansed prior to their first use in contact with food.
+(d) In accordance with good manufacturing practice, finished articles containing the cross-linked polyester resins shall be thoroughly cleansed prior to their first use in contact with food. 
 
 \[42 FR 14572, Mar. 15, 1977, as amended at 48 FR 37618, Aug. 19, 1983; 54 FR 48858, Nov. 28, 1989; 87 FR 31089, May 20, 2022\]

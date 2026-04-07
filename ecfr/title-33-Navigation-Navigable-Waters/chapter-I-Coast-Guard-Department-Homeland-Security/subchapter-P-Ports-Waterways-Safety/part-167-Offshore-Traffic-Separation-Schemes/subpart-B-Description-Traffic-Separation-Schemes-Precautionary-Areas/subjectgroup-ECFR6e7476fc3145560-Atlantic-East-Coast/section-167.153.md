@@ -1,6 +1,6 @@
 ##### § 167.153 Off New York: Eastern approach.
 
-(a) A separation zone is established bounded by a line connecting the following geographical positions:
+(a) A separation zone is established bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude   |
 | ----------- | ----------- |
@@ -11,7 +11,7 @@
 | 40°27.20′ N | 73°11.50′ W |
 | 40°27.33′ N | 73°04.95′ W |
 
-(b) A traffic lane for westbound traffic is established between the separation zone and a line connecting the following geographical positions:
+(b) A traffic lane for westbound traffic is established between the separation zone and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude   |
 | ----------- | ----------- |
@@ -19,7 +19,7 @@
 | 40°32.20′ N | 73°11.50′ W |
 | 40°28.00′ N | 73°40.73′ W |
 
-(c) A traffic lane for eastbound traffic is established between the separation zone and a line connecting the following geographical positions:
+(c) A traffic lane for eastbound traffic is established between the separation zone and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude   |
 | ----------- | ----------- |

@@ -1,12 +1,12 @@
 ##### § 408.5 Ensuring environmental documents are actually considered in Agency decision-making.
 
-Section 1505.1 of the NEPA Regulations contains requirements to ensure adequate consideration of environmental documents in agency decision-making. To implement these requirements, Eximbank officials will: 
+Section 1505.1 of the NEPA Regulations contains requirements to ensure adequate consideration of environmental documents in agency decision-making. To implement these requirements, Eximbank officials will:
 
-(a) Consider all relevant environmental documents in evaluating applications for Eximbank financing; 
+(a) Consider all relevant environmental documents in evaluating applications for Eximbank financing;
 
-(b) Ensure that all relevant environmental documents, comments and responses accompany the application through Eximbank's review processes; 
+(b) Ensure that all relevant environmental documents, comments and responses accompany the application through Eximbank's review processes;
 
-(c) Consider only those alternatives encompassed by the range of alternatives discussed in the relevant environmental documents when evaluating an application which is the subject of an EIS. 
+(c) Consider only those alternatives encompassed by the range of alternatives discussed in the relevant environmental documents when evaluating an application which is the subject of an EIS.
 
 | Eximbank actions                          | Start of NEPA process        | Completion of NEPA process                                                                                                                                                                                                  | Key officials or offices required to consider environmental documents                                                                                                                                                                                                                           |
 | ----------------------------------------- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,10 +1,10 @@
 ##### § 127.309 Operations Manual and Emergency Manual: Use.
 
-The operator must ensure that—
+The operator must ensure that— 
 
-(a) LNG transfer operations are not conducted unless the person in charge of transfer for the waterfront facility handling LNG has in the marine transfer area a readily available printed or electronic copy of the most recently examined Operations Manual and Emergency Manual. Electronic devices used to display the manuals must comply with applicable electrical safety standards in this part;
+(a) LNG transfer operations are not conducted unless the person in charge of transfer for the waterfront facility handling LNG has in the marine transfer area a readily available printed or electronic copy of the most recently examined Operations Manual and Emergency Manual. Electronic devices used to display the manuals must comply with applicable electrical safety standards in this part; 
 
-(b) Each transfer operation is conducted in accordance with the examined *Operations Manual;* and
+(b) Each transfer operation is conducted in accordance with the examined *Operations Manual;* and 
 
 (c) Each emergency response is in accordance with the examined *Emergency Manual.*
 

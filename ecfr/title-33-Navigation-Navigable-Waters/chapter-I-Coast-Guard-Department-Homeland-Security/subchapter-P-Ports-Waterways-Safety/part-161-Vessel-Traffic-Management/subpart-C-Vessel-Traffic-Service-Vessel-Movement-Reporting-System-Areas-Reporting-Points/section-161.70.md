@@ -1,6 +1,6 @@
 ##### § 161.70 Vessel Traffic Service Port Arthur.
 
-(a) The VTS area consists of the navigable waters of the United States to the limits of the territorial seas bound by the following points: 30°10.00′ N., 92°37.00′ W.; then south to 29°10.00′ N., 92°37.00′ W.; then west to 29°10.00′ N., 93°52.25′ W.; then northwest to 29°33.70′ N., 94°21.25′ W.; then north to 30°10.00′ N., 94°21.25′ W.; then east along the 30°10′ N. latitude to the origination point.
+(a) The VTS area consists of the navigable waters of the United States to the limits of the territorial seas bound by the following points: 30°10.00′ N., 92°37.00′ W.; then south to 29°10.00′ N., 92°37.00′ W.; then west to 29°10.00′ N., 93°52.25′ W.; then northwest to 29°33.70′ N., 94°21.25′ W.; then north to 30°10.00′ N., 94°21.25′ W.; then east along the 30°10′ N. latitude to the origination point. 
 
 Note:
 

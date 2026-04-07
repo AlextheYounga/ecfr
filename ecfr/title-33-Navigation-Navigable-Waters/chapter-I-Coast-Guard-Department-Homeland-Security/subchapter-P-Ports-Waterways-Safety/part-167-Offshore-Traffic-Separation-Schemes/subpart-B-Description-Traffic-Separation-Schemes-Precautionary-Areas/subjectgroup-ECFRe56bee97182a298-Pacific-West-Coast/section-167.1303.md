@@ -1,6 +1,6 @@
 ##### § 167.1303 In the approaches to the Strait of Juan de Fuca: Precautionary area “JF.”
 
-In the approaches to the Strait of Juan de Fuca, precautionary area “JF” is established and is bounded by a line connecting the following geographical positions:
+In the approaches to the Strait of Juan de Fuca, precautionary area “JF” is established and is bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°32.09′ N | 125°04.67′ W |

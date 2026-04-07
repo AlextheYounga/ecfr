@@ -1,6 +1,6 @@
 ##### § 2.5 Specific definitions control.
 
-In cases where a particular statute, regulation, policy or procedure provides a specific jurisdictional definition that differs from the definitions contained in this part, the former definition controls.
+In cases where a particular statute, regulation, policy or procedure provides a specific jurisdictional definition that differs from the definitions contained in this part, the former definition controls. 
 
 Note to § 2.5:
 

@@ -1,8 +1,8 @@
 ##### § 101.115 Incorporation by reference.
 
-(a) Certain material is incorporated by reference into this subchapter with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in paragraph (b) of this section, the Coast Guard must publish notice of change in the Federal Register and the material must be available to the public. All approved material is on file at the Office of the Coast Guard Port Security Directorate (CG-5P), Coast Guard Headquarters, 2100 2nd St., SW., Stop 7581, Washington, DC 20593-7581, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* All material is available from the sources indicated in paragraph (b) of this section.
+(a) Certain material is incorporated by reference into this subchapter with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in paragraph (b) of this section, the Coast Guard must publish notice of change in the Federal Register and the material must be available to the public. All approved material is on file at the Office of the Coast Guard Port Security Directorate (CG-5P), Coast Guard Headquarters, 2100 2nd St., SW., Stop 7581, Washington, DC 20593-7581, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* All material is available from the sources indicated in paragraph (b) of this section. 
 
-(b) The materials approved for incorporation by reference in this subchapter are as follows:
+(b) The materials approved for incorporation by reference in this subchapter are as follows: 
 
 International Maritime Organization (IMO)
 

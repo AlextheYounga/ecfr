@@ -1,12 +1,12 @@
 ##### § 149.409 How many fire extinguishers are needed and how should they be installed?
 
-(a) Approved portable and semi-portable extinguishers must be installed in accordance with table 149.409 of this section.
+(a) Approved portable and semi-portable extinguishers must be installed in accordance with table 149.409 of this section. 
 
-(b) Semi-portable extinguishers must be located in the open so as to be readily seen.
+(b) Semi-portable extinguishers must be located in the open so as to be readily seen. 
 
-(c) Semi-portable extinguishers must be fitted so that all portions of the space concerned may be covered.
+(c) Semi-portable extinguishers must be fitted so that all portions of the space concerned may be covered. 
 
-(d) Table 149.409 of this section indicates the minimum required classification for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.
+(d) Table 149.409 of this section indicates the minimum required classification for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table. 
 
 Table 149.409—Portable and Semi-Portable Extinguishers, Minimum Quantity and Location
 | Space                                                                                                                                                | Classification | Minimum quantity and location                                                                             |
@@ -35,6 +35,6 @@ Table 149.409—Portable and Semi-Portable Extinguishers, Minimum Quantity and L
 | 3 Small electrical appliances, such as fans, are exempt.                                                                                             |                |                                                                                                           |
 | 4 Not required if a fixed foam system is installed in accordance with 46 CFR 108.489.                                                                |                |                                                                                                           |
 
-(e) Semi-portable extinguishers must be fitted with a suitable hose and nozzle, or other practicable means, so that all areas of the space can be protected.
+(e) Semi-portable extinguishers must be fitted with a suitable hose and nozzle, or other practicable means, so that all areas of the space can be protected. 
 
 \[USCG-2012-0196, 81 FR 48244, July 22, 2016\]

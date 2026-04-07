@@ -1,16 +1,16 @@
 ##### § 520.447 Clindamycin solution.
 
-(a) *Specifications.* Each milliliter of solution contains the equivalent of 25 milligrams (mg) clindamycin as the hydrochloride salt.
+(a) *Specifications.* Each milliliter of solution contains the equivalent of 25 milligrams (mg) clindamycin as the hydrochloride salt. 
 
-(b) *Sponsors.* See Nos. 051311, 054771, 058829, 061133, and 069043 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 051311, 054771, 058829, 061133, and 069043 in § 510.600(c) of this chapter. 
 
-(c) *Special considerations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(c) *Special considerations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian. 
 
-(d) *Conditions of use*—(1) *Dogs*—(i) *Amount.* Wounds, abscesses, and dental infections: 2.5 to 15 mg per pound (/lb) body weight every 12 hours for a maximum of 28 days. Osteomyelitis: 5.0 to 15 mg/lb body weight every 12 hours for a minimum of 28 days.
+(d) *Conditions of use*—(1) *Dogs*—(i) *Amount.* Wounds, abscesses, and dental infections: 2.5 to 15 mg per pound (/lb) body weight every 12 hours for a maximum of 28 days. Osteomyelitis: 5.0 to 15 mg/lb body weight every 12 hours for a minimum of 28 days. 
 
 (ii) *Indications for use.* For the treatment of skin infections (wounds and abscesses) due to susceptible strains of coagulase-positive staphylococci (*Staphylococcus aureus* or *S. intermedius*), deep wounds and abscesses due to susceptible strains of *Bacteroides fragilis*, *Prevotella melaninogenicus*, *Fusobacterium necrophorum*, and *Clostridium perfringens*; dental infections due to susceptible strains of *S. aureus*, *B. fragilis*, *P. melaninogenicus*, *F. necrophorum*, and *C. perfringens*; and osteomyelitis due to susceptible strains of *S. aureus*, *B. fragilis*, *P. melaninogenicus*, *F. necrophorum*, and *C. perfringens.*
 
-(2) Cats—(i) *Amount.* 5.0 to 15.0 mg/lb body weight every 24 hours for a maximum of 14 days.
+(2) Cats—(i) *Amount.* 5.0 to 15.0 mg/lb body weight every 24 hours for a maximum of 14 days. 
 
 (ii) *Indications for use.* For the treatment of skin infections (wounds and abscesses) due to susceptible strains of *Staphylococcus aureus*, *S. intermedius*, *Streptococcus spp.*; deep wounds and abscesses due to susceptible strains of *Clostridium perfringens* and *Bacteroides fragilis*; and dental infections due to susceptible strains of *S. aureus*, *S. intermedius*, *Streptococcus spp.*, *C. perfringens*, and *B. fragilis.*
 

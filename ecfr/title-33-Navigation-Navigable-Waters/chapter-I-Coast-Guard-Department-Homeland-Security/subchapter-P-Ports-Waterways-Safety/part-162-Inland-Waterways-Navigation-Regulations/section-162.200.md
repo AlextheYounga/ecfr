@@ -1,6 +1,6 @@
 ##### § 162.200 Marina del Rey, Calif.; restricted area.
 
-(a) *The area.* That portion of the Pacific Ocean lying shoreward of the offshore breakwater and the most seaward 1,000 feet of the entrance channel between the north and south jetties, and basically outlined as follows:
+(a) *The area.* That portion of the Pacific Ocean lying shoreward of the offshore breakwater and the most seaward 1,000 feet of the entrance channel between the north and south jetties, and basically outlined as follows: 
 
 | Station | Latitude North | Longitude West |
 | ------- | -------------- | -------------- |
@@ -13,9 +13,9 @@
 | G       | 33°57′42.4″    | 118°27′23.0″   |
 | H       | 33°57′50.6″    | 118°27′28.3″   |
 
-(b) *The regulations.* (1) Vessels shall not anchor within the area at any time without permission except in an emergency.
+(b) *The regulations.* (1) Vessels shall not anchor within the area at any time without permission except in an emergency. 
 
-(2) Dredging, dragging, seining, or other fishing operations which might foul underwater installations within the area are prohibited.
+(2) Dredging, dragging, seining, or other fishing operations which might foul underwater installations within the area are prohibited. 
 
 \[CGD 75-082, 42 FR 51759, Sept. 29, 1977, as amended by USCG-2008-0179, 73 FR 35016, June 19, 2008\] Note:
 

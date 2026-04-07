@@ -1,6 +1,6 @@
 ##### § 167.350 In the approaches to Galveston Bay Traffic Separation Scheme and precautionary areas.
 
-(a) An inshore precautionary area bounded by a line connecting the following geographical positions:
+(a) An inshore precautionary area bounded by a line connecting the following geographical positions: 
 
 | Latitude        | Longitude   |
 | --------------- | ----------- |
@@ -10,7 +10,7 @@
 | (4) 29°19.40′ N | 94°37.10′ W |
 | (5) 29°19.80′ N | 94°38.10′ W |
 
-(b) A traffic separation zone bounded by a line connecting the following geographical positions:
+(b) A traffic separation zone bounded by a line connecting the following geographical positions: 
 
 | Latitude        | Longitude   |
 | --------------- | ----------- |
@@ -19,21 +19,21 @@
 | (8) 29°09.41′ N | 94°25.95′ W |
 | (9) 29°17.00′ N | 94°36.00′ W |
 
-(c) A traffic lane for inbound (northwesterly heading) traffic is established between the separation zone and a line connecting the following geographical positions:
+(c) A traffic lane for inbound (northwesterly heading) traffic is established between the separation zone and a line connecting the following geographical positions: 
 
 | Latitude         | Longitude   |
 | ---------------- | ----------- |
 | (3) 29°18.00′ N  | 94°34.90′ W |
 | (10) 29°11.20′ N | 94°24.00′ W |
 
-(d) A traffic lane for outbound (southeasterly heading) traffic is established between the separation zone and line connecting the following geographical positions:
+(d) A traffic lane for outbound (southeasterly heading) traffic is established between the separation zone and line connecting the following geographical positions: 
 
 | Latitude         | Longitude   |
 | ---------------- | ----------- |
 | (2) 29°16.10′ N  | 94°37.00′ W |
 | (11) 29°07.70′ N | 94°27.80′ W |
 
-(e) An offshore precautionary area bounded by a line connecting the following geographical positions:
+(e) An offshore precautionary area bounded by a line connecting the following geographical positions: 
 
 | Latitude         | Longitude   |
 | ---------------- | ----------- |

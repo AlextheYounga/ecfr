@@ -1,8 +1,8 @@
 ##### § 167.173 Off Delaware Bay: Two-Way Traffic Route.
 
-The Two-Way Traffic Route is recommended for use predominantly by tug and tow traffic transiting to and from the northeast in order to separate such traffic from large, inbound vessel traffic.
+The Two-Way Traffic Route is recommended for use predominantly by tug and tow traffic transiting to and from the northeast in order to separate such traffic from large, inbound vessel traffic. 
 
-(a) The Two-Way Traffic Route is bounded on the west and south by a line connecting the following geographic positions:
+(a) The Two-Way Traffic Route is bounded on the west and south by a line connecting the following geographic positions: 
 
 | Latitude    | Longitude   |
 | ----------- | ----------- |
@@ -12,7 +12,7 @@ The Two-Way Traffic Route is recommended for use predominantly by tug and tow tr
 | 38°50.20′ N | 74°49.73′ W |
 | 39°00.00′ N | 74°40.23′ W |
 
-(b) The two-way traffic route is bounded on the east and north by a line connecting the following geographic positions:
+(b) The two-way traffic route is bounded on the east and north by a line connecting the following geographic positions: 
 
 | Latitude    | Longitude   |
 | ----------- | ----------- |

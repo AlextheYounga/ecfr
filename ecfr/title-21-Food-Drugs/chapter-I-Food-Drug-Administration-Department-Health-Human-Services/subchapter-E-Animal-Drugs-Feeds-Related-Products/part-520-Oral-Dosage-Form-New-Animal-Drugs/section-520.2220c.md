@@ -1,15 +1,15 @@
 ##### § 520.2220c Sulfadimethoxine tablet.
 
-(a) *Specifications.* Each tablet contains 125, 250, or 500 milligrams (mg) sulfadimethoxine.
+(a) *Specifications.* Each tablet contains 125, 250, or 500 milligrams (mg) sulfadimethoxine. 
 
-(b) *Sponsors.* See Nos. 000061 and 054771 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 000061 and 054771 in § 510.600(c) of this chapter. 
 
-(c) \[Reserved\]
+(c) \[Reserved\] 
 
-(d) *Conditions of use in dogs and cats*—(1) *Amount.* Administer orally 25 mg per pound of body weight, followed by 12.5 mg per pound of body weight daily until the animal is free of clinical signs for 48 hours.
+(d) *Conditions of use in dogs and cats*—(1) *Amount.* Administer orally 25 mg per pound of body weight, followed by 12.5 mg per pound of body weight daily until the animal is free of clinical signs for 48 hours. 
 
-(2) *Indications for use.* For the treatment of sulfadimethoxine-susceptible bacterial infections in dogs and cats and enteritis associated with coccidiosis in dogs.
+(2) *Indications for use.* For the treatment of sulfadimethoxine-susceptible bacterial infections in dogs and cats and enteritis associated with coccidiosis in dogs. 
 
-(3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian. 
 
 \[79 FR 28829, May 20, 2014, as amended at 88 FR 55564, Aug. 16, 2023\]

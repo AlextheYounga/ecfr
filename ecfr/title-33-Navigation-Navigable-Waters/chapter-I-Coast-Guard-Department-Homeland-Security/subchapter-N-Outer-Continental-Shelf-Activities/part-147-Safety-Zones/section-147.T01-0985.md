@@ -1,6 +1,6 @@
 ##### § 147.T01-0985 Safety Zones; Coastal Virginial Offshore Wind—Commercial Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0483, Offshore Virginia, Atlantic Ocean.
 
-(a) *Description.* The area within 500 meters of the center point of each of the positions provided in the table below is an individual safety zone:
+(a) *Description.* The area within 500 meters of the center point of each of the positions provided in the table below is an individual safety zone: 
 
 | Name  | Facility type | Latitude             | Longitude             |
 | ----- | ------------- | -------------------- | --------------------- |
@@ -184,15 +184,15 @@
 | G3F12 | WTG           | 36°55′52.71185004″ N | 075°20′22.93902891″ W |
 | G3F13 | WTG           | 36°55′52.86841469″ N | 075°19′26.91232645″ W |
 
-(b) *Definitions.* As used in this section, *designated representative* means a Coast Guard Patrol Commander, including a Coast Guard coxswain, petty officer, or other officer operating a Coast Guard vessel and a Federal, State, and local officer designated by or assisting the Fifth Coast Guard District Commander in the enforcement of the safety zones.
+(b) *Definitions.* As used in this section, *designated representative* means a Coast Guard Patrol Commander, including a Coast Guard coxswain, petty officer, or other officer operating a Coast Guard vessel and a Federal, State, and local officer designated by or assisting the Fifth Coast Guard District Commander in the enforcement of the safety zones. 
 
-(c) *Regulations.* No vessel may enter or remain in this safety zone except for the following:
+(c) *Regulations.* No vessel may enter or remain in this safety zone except for the following: 
 
-(1) An attending vessel, as defined in 33 CFR 147.20;
+(1) An attending vessel, as defined in 33 CFR 147.20; 
 
-(2) A vessel authorized by the Fifth Coast Guard District Commander or a designated representative.
+(2) A vessel authorized by the Fifth Coast Guard District Commander or a designated representative. 
 
-(d) *Request for Permission.* Persons or vessels seeking to enter the safety zone must request authorization from the Fifth Coast Guard District Commander or a designated representative. If permission is granted, all persons and vessels must comply with lawful instructions of the Fifth Coast Guard District Commander or designated representative via VHF-FM channel 16 or by phone at 757-398-6391 (Fifth Coast Guard District Command Center).
+(d) *Request for Permission.* Persons or vessels seeking to enter the safety zone must request authorization from the Fifth Coast Guard District Commander or a designated representative. If permission is granted, all persons and vessels must comply with lawful instructions of the Fifth Coast Guard District Commander or designated representative via VHF-FM channel 16 or by phone at 757-398-6391 (Fifth Coast Guard District Command Center). 
 
 (e) *Effective dates and enforcement periods.* This section will be in effect from May 1, 2024, through May 1, 2027. Individual safety zones designated in the table in subparagraph (a) will only be subject to enforcement, however, during active construction or other circumstances which may create a hazard to navigation as determined by the Fifth Coast Guard District Commander. The Fifth Coast Guard District Commander will provide notification of the exact dates and times each safety zone is subject to enforcement in advance of each enforcement period for each of the locations listed above, in paragraph (a) of this section. Notifications will be made to the local maritime community through the Local Notice to Mariners and the Coast Guard will issue a Broadcast Notice to Mariners via marine channel 16 (VHF-FM) as soon as practicable in response to an emergency. If the entire project is completed before May 1, 2027, enforcement of the safety zones will be suspended, and notice given via Local Notice to Mariners. The Fifth Coast Guard District Local Notice to Mariners can be found at: *https://www.navcen.uscg.gov.*
 

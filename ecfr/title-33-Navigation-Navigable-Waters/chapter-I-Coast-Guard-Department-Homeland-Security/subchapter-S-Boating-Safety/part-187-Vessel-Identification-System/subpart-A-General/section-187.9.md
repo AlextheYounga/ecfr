@@ -1,8 +1,8 @@
 ##### § 187.9 What is a vessel identifier and how is one assigned?
 
-(a) The vessel identifier for a vessel having a valid HIN is the HIN.
+(a) The vessel identifier for a vessel having a valid HIN is the HIN. 
 
-(b) If a vessel does not have a valid HIN, a vessel identifier is assigned under the following table:
+(b) If a vessel does not have a valid HIN, a vessel identifier is assigned under the following table: 
 
 Table 187.9(b)—Vessel Identifier Assignments
 | If the vessel is: | And does not have a valid HIN:                                                            | Then the vessel identifier is:                                                                                                                                                                |

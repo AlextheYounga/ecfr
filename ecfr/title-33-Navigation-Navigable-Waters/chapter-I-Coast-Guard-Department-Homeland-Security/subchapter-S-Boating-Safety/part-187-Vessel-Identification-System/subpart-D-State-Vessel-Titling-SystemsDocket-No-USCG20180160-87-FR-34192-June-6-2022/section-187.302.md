@@ -1,8 +1,8 @@
 ##### § 187.302 Terms States must define.
 
-(a) A State must define the terms “certificate of origin”, “dealer”, “documented vessel”, “issuing authority”, “manufacturer”, “owner”, “person”, “secured party”, “security interest”, “titling authority”, and “vessel” substantially as defined in 33 CFR 187.7.
+(a) A State must define the terms “certificate of origin”, “dealer”, “documented vessel”, “issuing authority”, “manufacturer”, “owner”, “person”, “secured party”, “security interest”, “titling authority”, and “vessel” substantially as defined in 33 CFR 187.7. 
 
-(b) In addition to the definitions in § 187.7, a State must also define the following terms as prescribed by State law related to security interests in goods:
+(b) In addition to the definitions in § 187.7, a State must also define the following terms as prescribed by State law related to security interests in goods: 
 
 (1) *Agreement;*
 
@@ -30,7 +30,7 @@
 
 (13) *Seller;*
 
-(14) *Send;* and
+(14) *Send;* and 
 
 (15) *Value.*
 

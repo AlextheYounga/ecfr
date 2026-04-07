@@ -1,12 +1,12 @@
 ##### § 173.310 Boiler water additives.
 
-Boiler water additives may be safely used in the preparation of steam that will contact food, under the following conditions:
+Boiler water additives may be safely used in the preparation of steam that will contact food, under the following conditions: 
 
-(a) The amount of additive is not in excess of that required for its functional purpose, and the amount of steam in contact with food does not exceed that required to produce the intended effect in or on the food.
+(a) The amount of additive is not in excess of that required for its functional purpose, and the amount of steam in contact with food does not exceed that required to produce the intended effect in or on the food. 
 
-(b) The compounds are prepared from substances identified in paragraphs (c) and (d) of this section, and are subject to the limitations, if any, prescribed:
+(b) The compounds are prepared from substances identified in paragraphs (c) and (d) of this section, and are subject to the limitations, if any, prescribed: 
 
-(c) List of substances:
+(c) List of substances: 
 
 | Substances                                                                                                                                                                                                                                                                                                                                                      | Limitations                                                                                                                                                                                                                                                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,7 +48,7 @@ Boiler water additives may be safely used in the preparation of steam that will 
 | Tetrasodium EDTA                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                    |
 | Tetrasodium pyrophosphate                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                    |
 
-(d) Substances used alone or in combination with substances in paragraph (c) of this section:
+(d) Substances used alone or in combination with substances in paragraph (c) of this section: 
 
 | Substances                  | Limitations                                                                                                                       |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,24 +59,24 @@ Boiler water additives may be safely used in the preparation of steam that will 
 | Octadecylamine              | Not to exceed 3 parts per million in steam, and excluding use of such steam in contact with milk and milk products.               |
 | Trisodium nitrilotriacetate | Not to exceed 5 parts per million in boiler feedwater; not to be used where steam will be in contact with milk and milk products. |
 
-(e) To assure safe use of the additive, in addition to the other information required by the Act, the label or labeling shall bear:
+(e) To assure safe use of the additive, in addition to the other information required by the Act, the label or labeling shall bear: 
 
-(1) The common or chemical name or names of the additive or additives.
+(1) The common or chemical name or names of the additive or additives. 
 
-(2) Adequate directions for use to assure compliance with all the provisions of this section.
+(2) Adequate directions for use to assure compliance with all the provisions of this section. 
 
 (f) The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be examined at the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
-(1) Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday:
+(1) Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday: 
 
-(i) “Determination of Weight Average and Number Average Molecular Weight of 60/40 AA/AMPS” (October 23, 1987).
+(i) “Determination of Weight Average and Number Average Molecular Weight of 60/40 AA/AMPS” (October 23, 1987). 
 
-(ii) \[Reserved\]
+(ii) \[Reserved\] 
 
-(2) United States Pharmacopeial Convention, 12601 Twinbrook Pkwy., Rockville, MD 20852 (Internet address *http://www.usp.org*):
+(2) United States Pharmacopeial Convention, 12601 Twinbrook Pkwy., Rockville, MD 20852 (Internet address *http://www.usp.org*): 
 
-(i) Food Chemicals Codex, 7th ed. (2010), pp. 1128-1129.
+(i) Food Chemicals Codex, 7th ed. (2010), pp. 1128-1129. 
 
-(ii) Food Chemicals Codex, 7th ed. (2010), pp. 825-827.
+(ii) Food Chemicals Codex, 7th ed. (2010), pp. 825-827. 
 
 \[42 FR 14526, Mar. 15, 1977, as amended at 45 FR 73922, Nov. 7, 1980; 45 FR 85726, Dec. 30, 1980; 48 FR 7439, Feb. 22, 1983; 49 FR 5748, Feb. 15, 1984; 49 FR 10106, Mar. 19, 1984; 50 FR 49536, Dec. 3, 1985; 53 FR 15199, Apr. 28, 1988; 54 FR 31012, July 26, 1989; 55 FR 12172, Apr. 2, 1990; 61 FR 14245, Apr. 1, 1996; 64 FR 1759, Jan. 12, 1999; 64 FR 29227, June 1, 1999; 78 FR 71466, Nov. 29, 2013; 88 FR 17723, Mar. 24, 2023\]

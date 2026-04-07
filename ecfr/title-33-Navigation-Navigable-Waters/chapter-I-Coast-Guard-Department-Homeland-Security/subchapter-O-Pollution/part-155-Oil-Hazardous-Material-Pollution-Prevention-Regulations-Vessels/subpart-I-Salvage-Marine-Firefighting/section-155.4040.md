@@ -1,20 +1,20 @@
 ##### § 155.4040 Response times for each salvage and marine firefighting service.
 
-(a) You must ensure, by contract or other approved means, that your resource provider(s) is capable of providing the services within the required timeframes.
+(a) You must ensure, by contract or other approved means, that your resource provider(s) is capable of providing the services within the required timeframes. 
 
-(1) If your vessel is at the pier or transiting a COTP zone within the continental United States (CONUS), the timeframes in Table 155.4030(b) apply as listed.
+(1) If your vessel is at the pier or transiting a COTP zone within the continental United States (CONUS), the timeframes in Table 155.4030(b) apply as listed. 
 
-(2) If your vessel is at the pier or transiting a COTP zone outside the continental United States (OCONUS), the timeframes in Table 155.4030(b) apply as follows:
+(2) If your vessel is at the pier or transiting a COTP zone outside the continental United States (OCONUS), the timeframes in Table 155.4030(b) apply as follows: 
 
-(i) Inland waters and nearshore area timeframes apply from the COTP city out to and including the 12 mile point.
+(i) Inland waters and nearshore area timeframes apply from the COTP city out to and including the 12 mile point. 
 
-(ii) Offshore area timeframes apply from 12 to 50 miles outside the COTP city.
+(ii) Offshore area timeframes apply from 12 to 50 miles outside the COTP city. 
 
-(3) If your vessel transits within an OCONUS COTP zone that is outside the areas described in paragraph (a)(2) of this section, but within the inland waters or the nearshore or offshore area, you must submit in writing, in your plan, the steps you will take to address salvage and marine firefighting needs in the event these services are required.
+(3) If your vessel transits within an OCONUS COTP zone that is outside the areas described in paragraph (a)(2) of this section, but within the inland waters or the nearshore or offshore area, you must submit in writing, in your plan, the steps you will take to address salvage and marine firefighting needs in the event these services are required. 
 
-(b) The timeframe starts when anyone in your response organization receives notification of a potential or actual incident. It ends when the service reaches the ship, the outer limit of the nearshore area, the outer limit of the offshore area, the 12 or 50-mile point from the COTP city, or a point identified in your response plan for areas OCONUS.
+(b) The timeframe starts when anyone in your response organization receives notification of a potential or actual incident. It ends when the service reaches the ship, the outer limit of the nearshore area, the outer limit of the offshore area, the 12 or 50-mile point from the COTP city, or a point identified in your response plan for areas OCONUS. 
 
-(c) Table 155.4040(c) provides additional amplifying information for vessels transiting within the nearshore and offshore areas of CONUS or within 50 miles of an OCONUS COTP city.
+(c) Table 155.4040(c) provides additional amplifying information for vessels transiting within the nearshore and offshore areas of CONUS or within 50 miles of an OCONUS COTP city. 
 
 Table 155.4040(c)—Response Timeframe End Points
 | Service                                                                                                                                                                                                                                                                                                                                                             | Response timeframe ends when                                                                                             |
@@ -42,16 +42,16 @@ Table 155.4040(c)—Response Timeframe End Points
 | (iv) External vessel firefighting systems                                                                                                                                                                                                                                                                                                                           | Personnel and equipment on scene.                                                                                        |
 | 1 Heavy lift services are not required to have definite hours for a response time. The planholder must still contract for heavy lift services, provide a description of the heavy lift response and an estimated response time when these services are required, however, none of the timeframes listed in the table in § 155.4030(b) will apply to these services. |                                                                                                                          |
 
-(d) *How to apply the timeframes to your particular situation.* To apply the timeframes to your vessel's situation, follow these procedures:
+(d) *How to apply the timeframes to your particular situation.* To apply the timeframes to your vessel's situation, follow these procedures: 
 
-(1) Identify if your vessel operates CONUS or OCONUS.
+(1) Identify if your vessel operates CONUS or OCONUS. 
 
-(2) If your vessel is calling at any CONUS pier or an OCONUS pier within 50 miles of a COTP city, you must list the pier location by facility name or city and ensure that the marine firefighting resource provider can reach the locations within the specified response times in Table 155.4030(b).
+(2) If your vessel is calling at any CONUS pier or an OCONUS pier within 50 miles of a COTP city, you must list the pier location by facility name or city and ensure that the marine firefighting resource provider can reach the locations within the specified response times in Table 155.4030(b). 
 
-(3) If your vessel is transiting within CONUS inland waters, nearshore or offshore areas or the Great Lakes, you must ensure the listed salvage and marine firefighting services are capable of reaching your vessel within the appropriate response times listed in Table 155.4030(b).
+(3) If your vessel is transiting within CONUS inland waters, nearshore or offshore areas or the Great Lakes, you must ensure the listed salvage and marine firefighting services are capable of reaching your vessel within the appropriate response times listed in Table 155.4030(b). 
 
-(4) If your vessel is transiting within 12 miles or less from an OCONUS COTP city, you must ensure the listed salvage and marine firefighting services are capable of reaching a point 12 miles from the harbor of the COTP city within the nearshore area response times listed in Table 155.4030(b).
+(4) If your vessel is transiting within 12 miles or less from an OCONUS COTP city, you must ensure the listed salvage and marine firefighting services are capable of reaching a point 12 miles from the harbor of the COTP city within the nearshore area response times listed in Table 155.4030(b). 
 
-(5) If your vessel is transiting between 12 and 50 miles from an OCONUS COTP city, you must ensure the listed salvage and marine firefighting services are capable of reaching a point 50 miles from the harbor of the COTP city within the offshore area response times listed in Table 155.4030(b).
+(5) If your vessel is transiting between 12 and 50 miles from an OCONUS COTP city, you must ensure the listed salvage and marine firefighting services are capable of reaching a point 50 miles from the harbor of the COTP city within the offshore area response times listed in Table 155.4030(b). 
 
 (6) If your vessel transits inland waters or the nearshore or offshore areas OCONUS, but is more than 50 miles from a COTP city, you must still contract for salvage and marine firefighting services and provide a description of how you intend to respond and an estimated response time when these services are required, however, none of the time limits listed in Table 155.4030(b) will apply to these services.

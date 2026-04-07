@@ -1,6 +1,6 @@
 ##### § 150.380 Under what circumstances may vessels operate within the safety zone or area to be avoided?
 
-(a) Table 150.380(a) of this section lists both the areas within a safety zone where a vessel may operate and the clearance needed for that location.
+(a) Table 150.380(a) of this section lists both the areas within a safety zone where a vessel may operate and the clearance needed for that location. 
 
 Table 150.380(a)—Regulated Activities of Vessels at Deepwater Ports
 | Regulated activities                                                                                                                                                                                                                                                                                                                                      | Safety zone | Areas to be avoided around each deepwater port   component 1 | Anchorage areas | Other areas within and adjacent to the safety zone   (e.g., no anchoring area) |
@@ -23,6 +23,6 @@ Table 150.380(a)—Regulated Activities of Vessels at Deepwater Ports
 | P—Transit is permitted when the vessel is not in the immediate area of a tanker, and when cleared by the vessel traffic supervisor.                                                                                                                                                                                                                       |             |                                                              |                 |                                                                                |
 | R—Permitted only if determined that operation does not create unacceptable risk to personnel safety and security and operation. For transiting foreign-flag vessels, the requirement for clearance to enter the area to be avoided and no anchoring area is advisory in nature, but mandatory for an anchorage area established within 12 nautical miles. |             |                                                              |                 |                                                                                |
 
-(b) If the activity is not listed in table 150.380(a) of this section, or otherwise provided for in this subpart, the Sector Commander's, or MSU Commander's, with COTP and OCMI authority permission is required before operating in the safety zone or regulated navigation area.
+(b) If the activity is not listed in table 150.380(a) of this section, or otherwise provided for in this subpart, the Sector Commander's, or MSU Commander's, with COTP and OCMI authority permission is required before operating in the safety zone or regulated navigation area. 
 
 \[USCG-1998-3884, 71 FR 57651, Sept. 29, 2006, as amended by USCG-2013-0397, 78 FR 39182, July 1, 2013\]

@@ -1,55 +1,55 @@
 ##### § 330.5 Drug categories.
 
-Monographs promulgated pursuant to the provisions of this part shall be established in this part 330 and following parts and shall cover the following designated categories:
+Monographs promulgated pursuant to the provisions of this part shall be established in this part 330 and following parts and shall cover the following designated categories: 
 
-(a) Antacids.
+(a) Antacids. 
 
-(b) Laxatives.
+(b) Laxatives. 
 
-(c) Antidiarrheal products.
+(c) Antidiarrheal products. 
 
-(d) Emetics.
+(d) Emetics. 
 
-(e) Antiemetics.
+(e) Antiemetics. 
 
-(f) Antiperspirants.
+(f) Antiperspirants. 
 
-(g) Sunburn prevention and treatment products.
+(g) Sunburn prevention and treatment products. 
 
-(h) Vitamin-mineral products.
+(h) Vitamin-mineral products. 
 
-(i) Antimicrobial products.
+(i) Antimicrobial products. 
 
-(j) Dandruff products.
+(j) Dandruff products. 
 
-(k) Oral hygiene aids.
+(k) Oral hygiene aids. 
 
-(l) Hemorrhoidal products.
+(l) Hemorrhoidal products. 
 
-(m) Hematinics.
+(m) Hematinics. 
 
-(n) Bronchodilator and antiasthmatic products.
+(n) Bronchodilator and antiasthmatic products. 
 
-(o) Analgesics.
+(o) Analgesics. 
 
-(p) Sedatives and sleep aids.
+(p) Sedatives and sleep aids. 
 
-(q) Stimulants.
+(q) Stimulants. 
 
-(r) Antitussives.
+(r) Antitussives. 
 
-(s) Allergy treatment products.
+(s) Allergy treatment products. 
 
-(t) Cold remedies.
+(t) Cold remedies. 
 
-(u) Antirheumatic products.
+(u) Antirheumatic products. 
 
-(v) Ophthalmic products.
+(v) Ophthalmic products. 
 
-(w) Contraceptive products.
+(w) Contraceptive products. 
 
-(x) Miscellaneous dermatologic products.
+(x) Miscellaneous dermatologic products. 
 
-(y) Dentifrices and dental products such as analgesics, antiseptics, etc.
+(y) Dentifrices and dental products such as analgesics, antiseptics, etc. 
 
 (z) Miscellaneous (all other OTC drugs not falling within one of the above therapeutic categories).

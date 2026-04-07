@@ -1,6 +1,6 @@
 ##### § 174.105 Owner or operator casualty reporting requirements.
 
-A State casualty reporting system must contain the following requirements of Part 173 applicable to an owner or a person operating a vessel:
+A State casualty reporting system must contain the following requirements of Part 173 applicable to an owner or a person operating a vessel: 
 
 (a) Section 173.55 *Report of casualty or accident.*
 

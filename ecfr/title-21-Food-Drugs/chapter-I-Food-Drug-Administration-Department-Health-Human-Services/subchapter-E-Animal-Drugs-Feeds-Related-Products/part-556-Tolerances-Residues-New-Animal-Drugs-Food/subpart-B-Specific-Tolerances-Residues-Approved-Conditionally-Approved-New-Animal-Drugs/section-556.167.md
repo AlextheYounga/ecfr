@@ -1,11 +1,11 @@
 ##### § 556.167 Colistimethate.
 
-(a) \[Reserved\]
+(a) \[Reserved\] 
 
-(b) *Tolerances.* The tolerance for colistimethate is:
+(b) *Tolerances.* The tolerance for colistimethate is: 
 
-(1) *Chickens.* Edible tissues (excluding eggs): Not required.
+(1) *Chickens.* Edible tissues (excluding eggs): Not required. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 (c) *Related conditions of use.* See § 522.468 of this chapter.

@@ -1,31 +1,31 @@
 ##### § 341.12 Antihistamine active ingredients.
 
-The active ingredient of the product consists of any of the following when used within the dosage limits established for each ingredient:
+The active ingredient of the product consists of any of the following when used within the dosage limits established for each ingredient: 
 
-(a) Brompheniramine maleate.
+(a) Brompheniramine maleate. 
 
-(b) Chlorcyclizine hydrochloride.
+(b) Chlorcyclizine hydrochloride. 
 
-(c) Chlorpheniramine maleate.
+(c) Chlorpheniramine maleate. 
 
-(d) Dexbrompheniramine maleate.
+(d) Dexbrompheniramine maleate. 
 
-(e) Dexchlorpheniramine maleate.
+(e) Dexchlorpheniramine maleate. 
 
-(f) Diphenhydramine citrate.
+(f) Diphenhydramine citrate. 
 
-(g) Diphenhydramine hydrochloride.
+(g) Diphenhydramine hydrochloride. 
 
-(h) Doxylamine succinate.
+(h) Doxylamine succinate. 
 
-(i) Phenindamine tartrate.
+(i) Phenindamine tartrate. 
 
-(j) Pheniramine maleate.
+(j) Pheniramine maleate. 
 
-(k) Pyrilamine maleate.
+(k) Pyrilamine maleate. 
 
-(l) Thonzylamine hydrochloride.
+(l) Thonzylamine hydrochloride. 
 
-(m) Triprolidine hydrochloride.
+(m) Triprolidine hydrochloride. 
 
 \[57 FR 58374, Dec. 9, 1992, as amended at 59 FR 4218, Jan. 28, 1994\]

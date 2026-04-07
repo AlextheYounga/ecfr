@@ -1,6 +1,6 @@
 ##### § 110.126a San Francisco Bay, Calif.
 
-*Richardson Bay Anchorage.* That portion of Richardson Bay, north of a line bearing 257° from Peninsula Point to the shore at Sausalito, except for federally-maintained channels, and all channels approved for private use therein.
+*Richardson Bay Anchorage.* That portion of Richardson Bay, north of a line bearing 257° from Peninsula Point to the shore at Sausalito, except for federally-maintained channels, and all channels approved for private use therein. 
 
 Note:
 

@@ -1,6 +1,6 @@
 ##### § 167.502 In the approaches to Los Angeles-Long Beach: Western approach.
 
-(a) A separation zone is bounded by a line connecting the following geographical positions:
+(a) A separation zone is bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude     |
 | ----------- | ------------- |
@@ -11,7 +11,7 @@
 | 33°44.90′ N | 118°35.70′ W. |
 | 33°37.70′ N | 118°20.90′ W. |
 
-(b) A traffic lane for northbound coastwise traffic is established between the separation zone and a line connecting the following geographical positions:
+(b) A traffic lane for northbound coastwise traffic is established between the separation zone and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude     |
 | ----------- | ------------- |
@@ -19,7 +19,7 @@
 | 33°38.70′ N | 118°20.60′ W. |
 | 33°45.80′ N | 118°35.10′ W. |
 
-(c) A traffic lane for southbound coastwise traffic is established between the separation zone and a line connecting the following geographical positions:
+(c) A traffic lane for southbound coastwise traffic is established between the separation zone and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude     |
 | ----------- | ------------- |

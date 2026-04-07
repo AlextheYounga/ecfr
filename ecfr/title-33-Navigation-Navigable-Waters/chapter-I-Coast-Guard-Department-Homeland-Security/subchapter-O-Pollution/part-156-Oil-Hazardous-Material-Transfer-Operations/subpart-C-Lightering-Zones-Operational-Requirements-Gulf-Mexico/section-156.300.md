@@ -1,8 +1,8 @@
 ##### § 156.300 Designated lightering zones.
 
-The following lightering zones are designated in the Gulf of Mexico and are more than 60 miles from the baseline from which the territorial sea is measured:
+The following lightering zones are designated in the Gulf of Mexico and are more than 60 miles from the baseline from which the territorial sea is measured: 
 
-(a) *Southtex—lightering zone.* This lightering zone and the geographic area for this zone are coterminous and consist of the waters bounded by a line connecting the following points beginning at:
+(a) *Southtex—lightering zone.* This lightering zone and the geographic area for this zone are coterminous and consist of the waters bounded by a line connecting the following points beginning at: 
 
 | Latitude N. | Longitude W.                                     |
 | 27°40′00″,  | 93°00′00″, thence to                             |
@@ -14,7 +14,7 @@ The following lightering zones are designated in the Gulf of Mexico and are more
 
 (NAD 83)
 
-(b) *Gulfmex No. 2—lightering zone.* This lightering zone and the geographic area for this zone are coterminous and consist of the waters bounded by a line connecting the following points beginning at:
+(b) *Gulfmex No. 2—lightering zone.* This lightering zone and the geographic area for this zone are coterminous and consist of the waters bounded by a line connecting the following points beginning at: 
 
 | Latitude N. | Longitude W.                                     |
 | 27°53′00″,  | 89°00′00″, thence to                             |
@@ -24,7 +24,7 @@ The following lightering zones are designated in the Gulf of Mexico and are more
 
 (NAD 83)
 
-(c) *Offshore Pascagoula No. 2—lightering zone.* This lightering zone and the geographic area for this zone are coterminous and consist of the waters bounded by a line connecting the following points beginning at:
+(c) *Offshore Pascagoula No. 2—lightering zone.* This lightering zone and the geographic area for this zone are coterminous and consist of the waters bounded by a line connecting the following points beginning at: 
 
 | Latitude N. | Longitude W.                                     |
 | 29°20′00″,  | 87°00′00″, thence to                             |
@@ -35,7 +35,7 @@ The following lightering zones are designated in the Gulf of Mexico and are more
 
 (NAD 83)
 
-(d) *South Sabine Point—lightering zone.* This lightering zone and the geographic area for this zone are coterminous and consist of the waters bounded by a line connecting the following points beginning at:
+(d) *South Sabine Point—lightering zone.* This lightering zone and the geographic area for this zone are coterminous and consist of the waters bounded by a line connecting the following points beginning at: 
 
 | Latitude N. | Longitude W.                                     |
 | 28°30′00″,  | 92°38′00″, thence to                             |

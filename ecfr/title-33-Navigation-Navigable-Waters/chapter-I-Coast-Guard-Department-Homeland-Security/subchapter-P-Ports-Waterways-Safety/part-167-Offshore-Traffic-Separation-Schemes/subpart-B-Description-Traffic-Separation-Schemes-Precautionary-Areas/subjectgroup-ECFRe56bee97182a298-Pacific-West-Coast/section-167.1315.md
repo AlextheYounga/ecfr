@@ -1,6 +1,6 @@
 ##### § 167.1315 In the Strait of Juan de Fuca: Precautionary area “PA.”
 
-In the Strait of Juan de Fuca, precautionary area “PA” is established and is bounded by a line connecting the following geographical positions:
+In the Strait of Juan de Fuca, precautionary area “PA” is established and is bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | 48°12.94′ N | 123°32.89′ W |

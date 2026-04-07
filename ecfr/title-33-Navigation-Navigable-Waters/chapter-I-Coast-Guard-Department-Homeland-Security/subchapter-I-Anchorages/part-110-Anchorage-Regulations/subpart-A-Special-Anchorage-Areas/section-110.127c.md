@@ -1,6 +1,6 @@
 ##### § 110.127c Trinidad Bay, Calif.
 
-The waters of Trinidad Bay, beginning at the southernmost point of Trinidad Head at latitude 41°03′04″ N., longitude 124°08′56″ W.; thence east to Prisoner Rock at latitude 41°03′09″ N., longitude 124°08′37″ W.; thence east to latitude 41°03′09″ N., longitude 124°08′19″ W., thence north to latitude 41°03′26″ N., longitude 124°08′21″ W.; thence following the shoreline to Trinidad Bay in a westerly and southerly direction to the point of beginning.
+The waters of Trinidad Bay, beginning at the southernmost point of Trinidad Head at latitude 41°03′04″ N., longitude 124°08′56″ W.; thence east to Prisoner Rock at latitude 41°03′09″ N., longitude 124°08′37″ W.; thence east to latitude 41°03′09″ N., longitude 124°08′19″ W., thence north to latitude 41°03′26″ N., longitude 124°08′21″ W.; thence following the shoreline to Trinidad Bay in a westerly and southerly direction to the point of beginning. 
 
 Note:
 

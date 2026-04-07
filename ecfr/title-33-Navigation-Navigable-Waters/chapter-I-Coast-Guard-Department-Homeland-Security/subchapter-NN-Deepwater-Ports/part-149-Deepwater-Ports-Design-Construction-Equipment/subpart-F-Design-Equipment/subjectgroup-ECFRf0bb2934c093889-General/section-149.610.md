@@ -1,6 +1,6 @@
 ##### § 149.610 What must the District Commander be notified of and when?
 
-The District Commander must be notified of the following:
+The District Commander must be notified of the following: 
 
 | When—                                                                                                                                                     | The District Commander must be notified—                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |

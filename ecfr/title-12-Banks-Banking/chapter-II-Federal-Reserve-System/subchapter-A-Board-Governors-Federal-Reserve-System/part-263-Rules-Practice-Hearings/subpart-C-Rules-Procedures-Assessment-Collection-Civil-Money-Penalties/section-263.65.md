@@ -1,8 +1,8 @@
 ##### § 263.65 Civil money penalty inflation adjustments.
 
-(a) *Inflation adjustments.* In accordance with the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, which further amended the Federal Civil Penalties Inflation Adjustment Act of 1990, the Board has set forth in paragraph (b) of this section the adjusted maximum amounts for each civil money penalty provided by law within the Board's jurisdiction. The authorizing statutes contain the complete provisions under which the Board may seek a civil money penalty. The adjusted civil money penalties apply only to penalties assessed on or after January 13, 2025, whose associated violations occurred on or after November 2, 2015. 
+(a) *Inflation adjustments.* In accordance with the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, which further amended the Federal Civil Penalties Inflation Adjustment Act of 1990, the Board has set forth in paragraph (b) of this section the adjusted maximum amounts for each civil money penalty provided by law within the Board's jurisdiction. The authorizing statutes contain the complete provisions under which the Board may seek a civil money penalty. The adjusted civil money penalties apply only to penalties assessed on or after January 13, 2025, whose associated violations occurred on or after November 2, 2015.
 
-(b) *Maximum civil money penalties.* The maximum (or, in the cases of 12 U.S.C. 334 and 1832(c), fixed) civil money penalties as set forth in the referenced statutory sections are set forth in the table in this paragraph (b). 
+(b) *Maximum civil money penalties.* The maximum (or, in the cases of 12 U.S.C. 334 and 1832(c), fixed) civil money penalties as set forth in the referenced statutory sections are set forth in the table in this paragraph (b).
 
 Table 1 to Paragraph (b)
 | Statute                                                       | Adjusted civil   money penalty |

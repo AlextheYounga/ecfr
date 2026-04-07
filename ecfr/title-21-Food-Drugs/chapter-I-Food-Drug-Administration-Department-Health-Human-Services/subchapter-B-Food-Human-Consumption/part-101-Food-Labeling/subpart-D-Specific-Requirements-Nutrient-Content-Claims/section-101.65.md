@@ -1,44 +1,44 @@
 ##### § 101.65 Implied nutrient content claims and related label statements.
 
-Link to an amendment published at 89 FR 106162, Dec. 27, 2024.
+Link to an amendment published at 89 FR 106162, Dec. 27, 2024.This amendment was delayed until Apr. 28, 2025, at 90 FR 10592, Feb. 25, 2025.
 
-(a) *General requirements.* An implied nutrient content claim can only be made on the label and in labeling of the food if:
+(a) *General requirements.* An implied nutrient content claim can only be made on the label and in labeling of the food if: 
 
-(1) The claim uses one of the terms described in this section in accordance with the definition for that term;
+(1) The claim uses one of the terms described in this section in accordance with the definition for that term; 
 
-(2) The claim is made in accordance with the general requirements for nutrient content claims in § 101.13; and
+(2) The claim is made in accordance with the general requirements for nutrient content claims in § 101.13; and 
 
-(3) The food for which the claim is made is labeled in accordance with § 101.9, § 101.10, or § 101.36, as applicable.
+(3) The food for which the claim is made is labeled in accordance with § 101.9, § 101.10, or § 101.36, as applicable. 
 
-(b) *Label statements that are not implied claims.* Certain label statements about the nature of a product are not nutrient content claims unless such statements are made in a context that would make them an implied claim under § 101.13(b)(2). The following types of label statements are generally not implied nutrient content claims and, as such, are not subject to the requirements of § 101.13 and this section:
+(b) *Label statements that are not implied claims.* Certain label statements about the nature of a product are not nutrient content claims unless such statements are made in a context that would make them an implied claim under § 101.13(b)(2). The following types of label statements are generally not implied nutrient content claims and, as such, are not subject to the requirements of § 101.13 and this section: 
 
-(1) A claim that a specific ingredient or food component is absent from a product, provided that the purpose of such claim is to facilitate avoidance of the substances because of food allergies (see § 105.62 of this chapter), food intolerance, religious beliefs, or dietary practices such as vegetarianism or other nonnutrition related reason, e.g., “100 percent milk free;”
+(1) A claim that a specific ingredient or food component is absent from a product, provided that the purpose of such claim is to facilitate avoidance of the substances because of food allergies (see § 105.62 of this chapter), food intolerance, religious beliefs, or dietary practices such as vegetarianism or other nonnutrition related reason, e.g., “100 percent milk free;” 
 
-(2) A claim about a substance that is nonnutritive or that does not have a nutritive function, e.g., “contains no preservatives,” “no artificial colors;”
+(2) A claim about a substance that is nonnutritive or that does not have a nutritive function, e.g., “contains no preservatives,” “no artificial colors;” 
 
-(3) A claim about the presence of an ingredient that is perceived to add value to the product, e.g., “made with real butter,” “made with whole fruit,” or “contains honey,” except that claims about the presence of ingredients other than vitamins or minerals or that are represented as a source of vitamins and minerals are not allowed on labels or in labeling of dietary supplements of vitamins and minerals that are not in conventional food form.
+(3) A claim about the presence of an ingredient that is perceived to add value to the product, e.g., “made with real butter,” “made with whole fruit,” or “contains honey,” except that claims about the presence of ingredients other than vitamins or minerals or that are represented as a source of vitamins and minerals are not allowed on labels or in labeling of dietary supplements of vitamins and minerals that are not in conventional food form. 
 
-(4) A statement of identity for a food in which an ingredient constitutes essentially 100 percent of a food (e.g., “corn oil,” “oat bran,” “dietary supplement of vitamin C 60 mg tablet”).
+(4) A statement of identity for a food in which an ingredient constitutes essentially 100 percent of a food (e.g., “corn oil,” “oat bran,” “dietary supplement of vitamin C 60 mg tablet”). 
 
-(5) A statement of identity that names as a characterizing ingredient, an ingredient associated with a nutrient benefit (e.g., “corn oil margarine,” “oat bran muffins,” or “whole wheat bagels”), unless such claim is made in a context in which label or labeling statements, symbols, vignettes, or other forms of communication suggest that a nutrient is absent or present in a certain amount; and
+(5) A statement of identity that names as a characterizing ingredient, an ingredient associated with a nutrient benefit (e.g., “corn oil margarine,” “oat bran muffins,” or “whole wheat bagels”), unless such claim is made in a context in which label or labeling statements, symbols, vignettes, or other forms of communication suggest that a nutrient is absent or present in a certain amount; and 
 
-(6) A label statement made in compliance with a specific provision of part 105 of this chapter, solely to note that a food has special dietary usefulness relative to a physical, physiological, pathological, or other condition, where the claim identifies the special diet of which the food is intended to be a part.
+(6) A label statement made in compliance with a specific provision of part 105 of this chapter, solely to note that a food has special dietary usefulness relative to a physical, physiological, pathological, or other condition, where the claim identifies the special diet of which the food is intended to be a part. 
 
-(c) *Particular implied nutrient content claims.* (1) Claims about the food or an ingredient therein that suggest that a nutrient or an ingredient is absent or present in a certain amount (e.g., “high in oat bran”) are implied nutrient content claims and must comply with paragraph (a) of this section.
+(c) *Particular implied nutrient content claims.* (1) Claims about the food or an ingredient therein that suggest that a nutrient or an ingredient is absent or present in a certain amount (e.g., “high in oat bran”) are implied nutrient content claims and must comply with paragraph (a) of this section. 
 
-(2) The phrases “contains the same amount of \[nutrient\] as a \[food\]” and “as much \[nutrient\] as a \[food\]” may be used on the label or in the labeling of foods, provided that the amount of the nutrient in the reference food is enough to qualify that food as a “good source” of that nutrient, and the labeled food, on a per serving basis, is an equivalent, good source of that nutrient (e.g., “as much fiber as an apple,” “Contains the same amount of Vitamin C as an 8 oz glass of orange juice.”).
+(2) The phrases “contains the same amount of \[nutrient\] as a \[food\]” and “as much \[nutrient\] as a \[food\]” may be used on the label or in the labeling of foods, provided that the amount of the nutrient in the reference food is enough to qualify that food as a “good source” of that nutrient, and the labeled food, on a per serving basis, is an equivalent, good source of that nutrient (e.g., “as much fiber as an apple,” “Contains the same amount of Vitamin C as an 8 oz glass of orange juice.”). 
 
-(3) Claims may be made that a food contains or is made with an ingredient that is known to contain a particular nutrient, or is prepared in a way that affects the content of a particular nutrient in the food, if the finished food is either “low” in or a “good source” of the nutrient that is associated with the ingredient or type of preparation. If a more specific level is claimed (e.g., “high in \_\_\_\_\_\_), that level of the nutrient must be present in the food. For example, a claim that a food contains oat bran is a claim that it is a good source of dietary fiber; that a food is made only with vegetable oil is a claim that it is low in saturated fat; and that a food contains no oil is a claim that it is fat free.
+(3) Claims may be made that a food contains or is made with an ingredient that is known to contain a particular nutrient, or is prepared in a way that affects the content of a particular nutrient in the food, if the finished food is either “low” in or a “good source” of the nutrient that is associated with the ingredient or type of preparation. If a more specific level is claimed (e.g., “high in \_\_\_\_\_\_), that level of the nutrient must be present in the food. For example, a claim that a food contains oat bran is a claim that it is a good source of dietary fiber; that a food is made only with vegetable oil is a claim that it is low in saturated fat; and that a food contains no oil is a claim that it is fat free. 
 
-(d) *General nutritional claims.* (1) This paragraph covers labeling claims that are implied nutrient content claims because they:
+(d) *General nutritional claims.* (1) This paragraph covers labeling claims that are implied nutrient content claims because they: 
 
-(i) Suggest that a food because of its nutrient content may help consumers maintain healthy dietary practices; and
+(i) Suggest that a food because of its nutrient content may help consumers maintain healthy dietary practices; and 
 
-(ii) Are made in connection with an explicit or implicit claim or statement about a nutrient (e.g., “healthy, contains 3 grams of fat”).
+(ii) Are made in connection with an explicit or implicit claim or statement about a nutrient (e.g., “healthy, contains 3 grams of fat”). 
 
-(2) You may use the term “healthy” or related terms (e.g., “health,” “healthful,” “healthfully,” “healthfulness,” “healthier,” “healthiest,” “healthily,” and “healthiness”) as an implied nutrient content claim on the label or in labeling of a food that is useful in creating a diet that is consistent with dietary recommendations if:
+(2) You may use the term “healthy” or related terms (e.g., “health,” “healthful,” “healthfully,” “healthfulness,” “healthier,” “healthiest,” “healthily,” and “healthiness”) as an implied nutrient content claim on the label or in labeling of a food that is useful in creating a diet that is consistent with dietary recommendations if: 
 
-(i) The food meets the following conditions for fat, saturated fat, cholesterol, and other nutrients:
+(i) The food meets the following conditions for fat, saturated fat, cholesterol, and other nutrients: 
 
 | If the food is...                                                                                                                    | The fat level must be...                              | The saturated fat level must be...               | The cholesterol level must be...                                      | The food must contain...                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -54,7 +54,7 @@ Link to an amendment published at 89 FR 106162, Dec. 27, 2024.
 | 4 DRV means Daily Reference Value (§ 101.9(c)(9)).                                                                                   |                                                       |                                                  |                                                                       |                                                                                                                                                                                               |
 | 5 LS means Labeled Serving, i.e., the serving size that is specified in the nutrition information on the product label (§ 101.9(b)). |                                                       |                                                  |                                                                       |                                                                                                                                                                                               |
 
-(ii) The food meets the following conditions for sodium:
+(ii) The food meets the following conditions for sodium: 
 
 | If the food is...                                                                                                                                                                                                              | The sodium level must be...             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
@@ -63,8 +63,8 @@ Link to an amendment published at 89 FR 106162, Dec. 27, 2024.
 | (C) A meal product as defined in § 101.13(l) or a main dish product as defined in § 101.13(m)                                                                                                                                  | 600 mg or less sodium per LS            |
 | 1 For dehydrated food that is typically reconstituted with water or a liquid that contains insignificant amounts per RA of all nutrients (as defined in § 101.9(f)(1)), the 50 g refers to the “prepared” form of the product. |                                         |
 
-(iii) The food complies with the definition and declaration requirements in this part 101 for any specific nutrient content claim on the label or in labeling, and
+(iii) The food complies with the definition and declaration requirements in this part 101 for any specific nutrient content claim on the label or in labeling, and 
 
-(iv) If you add a nutrient to the food specified in paragraphs (d)(2)(i)(D), (d)(2)(i)(E), or (d)(2)(i)(F) of this section to meet the 10 percent requirement, that addition must be in accordance with the fortification policy for foods in § 104.20 of this chapter.
+(iv) If you add a nutrient to the food specified in paragraphs (d)(2)(i)(D), (d)(2)(i)(E), or (d)(2)(i)(F) of this section to meet the 10 percent requirement, that addition must be in accordance with the fortification policy for foods in § 104.20 of this chapter. 
 
 \[58 FR 2413, Jan. 6, 1993; 58 FR 17343, Apr. 2, 1993, as amended at 59 FR 394, Jan. 4, 1994; 59 FR 24249, May 10, 1994; 59 FR 50828, Oct. 6, 1994; 62 FR 49858, Sept. 23, 1997; 63 FR 14355, Mar. 25, 1998; 70 FR 56848, Sept. 29, 2005\]

@@ -1,10 +1,10 @@
 ##### § 64.16 Duration of marking on sunken vessels in navigable waters.
 
-Markings shall be maintained until:
+Markings shall be maintained until: 
 
-(a) The sunken vessel or other obstruction is removed; or
+(a) The sunken vessel or other obstruction is removed; or 
 
-(b) The right of the owner to abandon is legally established and exercised.
+(b) The right of the owner to abandon is legally established and exercised. 
 
 Note:
 

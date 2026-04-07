@@ -1,10 +1,10 @@
 ##### § 178.3860 Release agents.
 
-Substances listed in paragraph (b) of this section may be safely used as release agents in petroleum wax complying with § 178.3710 and in polymeric resins that contact food, subject to the provisions of this section.
+Substances listed in paragraph (b) of this section may be safely used as release agents in petroleum wax complying with § 178.3710 and in polymeric resins that contact food, subject to the provisions of this section. 
 
-(a) The quantity used shall not exceed the amount reasonably required to accomplish the intended technical effect or any limitations prescribed in this section.
+(a) The quantity used shall not exceed the amount reasonably required to accomplish the intended technical effect or any limitations prescribed in this section. 
 
-(b) Release agents:
+(b) Release agents: 
 
 | List of substances                                                                                                                                                                                                                                             | Limitations                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

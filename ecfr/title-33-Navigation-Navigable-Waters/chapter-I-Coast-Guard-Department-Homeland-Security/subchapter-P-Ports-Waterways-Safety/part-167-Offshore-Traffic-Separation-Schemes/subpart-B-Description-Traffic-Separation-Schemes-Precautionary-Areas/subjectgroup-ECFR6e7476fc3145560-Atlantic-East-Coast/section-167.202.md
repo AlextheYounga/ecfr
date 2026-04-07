@@ -1,6 +1,6 @@
 ##### § 167.202 In the approaches to Chesapeake Bay: Eastern approach.
 
-(a) A separation line is established connecting the following geographical positions:
+(a) A separation line is established connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
@@ -8,7 +8,7 @@
 | 36°56.40′ N | 75°52.40′ W. |
 | 36°56.40′ N | 75°54.95′ W. |
 
-(b) A traffic lane for westbound traffic is established between the separation line and a line connecting the following geographical positions:
+(b) A traffic lane for westbound traffic is established between the separation line and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
@@ -16,7 +16,7 @@
 | 36°56.90′ N | 75°52.40′ W. |
 | 36°56.90′ N | 75°55.14′ W. |
 
-(c) A traffic lane for eastbound traffic is established between the separation line and a line connecting the following geographical positions:
+(c) A traffic lane for eastbound traffic is established between the separation line and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |

@@ -1,14 +1,14 @@
 ##### § 175.130 Visual distress signals accepted.
 
-(a) Any of the following signals, when carried in the number required, can be used to meet the requirements of § 175.110:
+(a) Any of the following signals, when carried in the number required, can be used to meet the requirements of § 175.110: 
 
-(1) An electric distress light meeting the standards of 46 CFR 161.013. One is required to meet the night only requirement.
+(1) An electric distress light meeting the standards of 46 CFR 161.013. One is required to meet the night only requirement. 
 
-(2) An orange flag meeting the standards of 46 CFR 160.072. One is required to meet the day only requirement.
+(2) An orange flag meeting the standards of 46 CFR 160.072. One is required to meet the day only requirement. 
 
-(3) Pyrotechnics meeting the standards noted in Table 175.130.
+(3) Pyrotechnics meeting the standards noted in Table 175.130. 
 
-(b) Any combination of signal devices selected from the types noted in paragraphs (a) (1), (2) and (3) of this section, when carried in the number required, may be used to meet both day and night requirements. *Examples*—the combination of two hand held red flares (160.021), and one parachute red flare (160.024 or 160.036) meets both day and night requirements. Three hand held orange smoke (160.037) with one electric distress light (161.013) meet both day and night requirements.
+(b) Any combination of signal devices selected from the types noted in paragraphs (a) (1), (2) and (3) of this section, when carried in the number required, may be used to meet both day and night requirements. *Examples*—the combination of two hand held red flares (160.021), and one parachute red flare (160.024 or 160.036) meets both day and night requirements. Three hand held orange smoke (160.037) with one electric distress light (161.013) meet both day and night requirements. 
 
 Table 175.130—Pyrotechnic Signal Devices
 | Approval number under 46 CFR                                                                                                                                                          | Device description                                              | Meets requirement for | Number required |

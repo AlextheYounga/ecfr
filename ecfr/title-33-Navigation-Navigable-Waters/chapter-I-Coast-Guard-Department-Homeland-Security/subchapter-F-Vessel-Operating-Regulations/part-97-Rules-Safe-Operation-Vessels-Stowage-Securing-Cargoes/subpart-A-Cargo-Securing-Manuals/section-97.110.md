@@ -4,8 +4,8 @@
 
 (b) *International Maritime Organization (IMO), Publications Section,* 4 Albert Embankment, London, SE1 7SR, United Kingdom, +44(0)20 7735 7611, *http://www.imo.org.*
 
-(1) MSC.1/Circ.1352, Amendments to the Code of Safe Practice for Cargo Stowage and Securing (CSS Code), June 30, 2010 (Maritime Safety Committee Circular), IBR approved for § 97.120(b).
+(1) MSC.1/Circ.1352, Amendments to the Code of Safe Practice for Cargo Stowage and Securing (CSS Code), June 30, 2010 (Maritime Safety Committee Circular), IBR approved for § 97.120(b). 
 
-(2) MSC.1/Circ. 1353/Rev.1, Revised Guidelines for the Preparation of the Cargo Securing Manual, December 15, 2014 (Maritime Safety Committee Circular), IBR approved for § 97.120(a).
+(2) MSC.1/Circ. 1353/Rev.1, Revised Guidelines for the Preparation of the Cargo Securing Manual, December 15, 2014 (Maritime Safety Committee Circular), IBR approved for § 97.120(a). 
 
 (3) Resolution A.739(18) (Res.A.739(18)), Guidelines for the Authorization of Organizations Acting on Behalf of the Administration, November 22, 1993 (Assembly Resolution), IBR approved for § 97.310(a).

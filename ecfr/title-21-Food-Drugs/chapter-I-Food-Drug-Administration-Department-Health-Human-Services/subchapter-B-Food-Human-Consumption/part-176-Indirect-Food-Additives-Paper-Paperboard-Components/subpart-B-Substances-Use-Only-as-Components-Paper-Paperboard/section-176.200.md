@@ -1,20 +1,20 @@
 ##### § 176.200 Defoaming agents used in coatings.
 
-The defoaming agents described in this section may be safely used as components of articles intended for use in producing, manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food, subject to the provisions of this section.
+The defoaming agents described in this section may be safely used as components of articles intended for use in producing, manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food, subject to the provisions of this section. 
 
-(a) The defoaming agents are prepared as mixtures of substances described in paragraph (d) of this section.
+(a) The defoaming agents are prepared as mixtures of substances described in paragraph (d) of this section. 
 
-(b) The quantity of any substance employed in the formulation of defoaming agents does not exceed the amount reasonably required to accomplish the intended physical or technical effect in the defoaming agents or any limitation further provided.
+(b) The quantity of any substance employed in the formulation of defoaming agents does not exceed the amount reasonably required to accomplish the intended physical or technical effect in the defoaming agents or any limitation further provided. 
 
-(c) Any substance employed in the production of defoaming agents and which is the subject of a regulation in parts 174, 175, 176, 177, 178 and § 179.45 of this chapter conforms with any specification in such regulation.
+(c) Any substance employed in the production of defoaming agents and which is the subject of a regulation in parts 174, 175, 176, 177, 178 and § 179.45 of this chapter conforms with any specification in such regulation. 
 
-(d) Substances employed in the formulation of defoaming agents include:
+(d) Substances employed in the formulation of defoaming agents include: 
 
-(1) Substances generally recognized as safe in food.
+(1) Substances generally recognized as safe in food. 
 
-(2) Substances subject to prior sanction or approval for use in defoaming agents and used in accordance with such sanction or approval.
+(2) Substances subject to prior sanction or approval for use in defoaming agents and used in accordance with such sanction or approval. 
 
-(3) Substances identified in this paragraph (d)(3) and subject to such limitations as are provided:
+(3) Substances identified in this paragraph (d)(3) and subject to such limitations as are provided: 
 
 | List of substances                                                                                                                                  | Limitations                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -111,10 +111,10 @@ The defoaming agents described in this section may be safely used as components 
 | Triisopropanolamine                                                                                                                                 |                                                                                                                                                            |
 | Waxes, petroleum                                                                                                                                    |                                                                                                                                                            |
 
-(e) The defoaming agents are used as follows:
+(e) The defoaming agents are used as follows: 
 
-(1) The quantity of defoaming agent or agents used shall not exceed the amount reasonably required to accomplish the intended effect, which is to prevent or control the formation of foam.
+(1) The quantity of defoaming agent or agents used shall not exceed the amount reasonably required to accomplish the intended effect, which is to prevent or control the formation of foam. 
 
-(2) The defoaming agents are used in the preparation and application of coatings for paper and paperboard.
+(2) The defoaming agents are used in the preparation and application of coatings for paper and paperboard. 
 
 \[42 FR 14554, Mar. 15, 1977, as amended at 62 FR 39772, July 24, 1997\]

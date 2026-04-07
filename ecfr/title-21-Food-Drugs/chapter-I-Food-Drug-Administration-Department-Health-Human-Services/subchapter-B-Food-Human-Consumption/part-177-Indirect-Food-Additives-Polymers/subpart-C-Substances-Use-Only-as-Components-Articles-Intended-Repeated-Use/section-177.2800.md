@@ -1,24 +1,24 @@
 ##### § 177.2800 Textiles and textile fibers.
 
-Textiles and textile fibers may safely be used as articles or components of articles intended for use in producing, manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food, subject to the provisions of this section.
+Textiles and textile fibers may safely be used as articles or components of articles intended for use in producing, manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food, subject to the provisions of this section. 
 
-(a) The textiles and textile fibers are prepared from one or more of the fibers identified in paragraph (d) of this section and from certain other adjuvant substances required in the production of the textiles or textile fibers or added to impart desired properties.
+(a) The textiles and textile fibers are prepared from one or more of the fibers identified in paragraph (d) of this section and from certain other adjuvant substances required in the production of the textiles or textile fibers or added to impart desired properties. 
 
-(b) The quantity of any adjuvant substance employed in the production of textiles or textile fibers does not exceed the amount reasonably required to accomplish the intended physical or technical effect or any limitation further provided.
+(b) The quantity of any adjuvant substance employed in the production of textiles or textile fibers does not exceed the amount reasonably required to accomplish the intended physical or technical effect or any limitation further provided. 
 
-(c) Any substance employed in the production of textiles or textile fibers that is the subject of a regulation in parts 174, 175, 176, 177, 178 and § 179.45 of this chapter conforms with any specification in such regulation.
+(c) Any substance employed in the production of textiles or textile fibers that is the subject of a regulation in parts 174, 175, 176, 177, 178 and § 179.45 of this chapter conforms with any specification in such regulation. 
 
-(d) Substances employed in the production of or added to textiles and textile fibers may include:
+(d) Substances employed in the production of or added to textiles and textile fibers may include: 
 
-(1) Substances generally recognized as safe in food.
+(1) Substances generally recognized as safe in food. 
 
-(2) Substances subject to prior sanction or approval for use in textiles and textile fibers and used in accordance with such sanction or approval.
+(2) Substances subject to prior sanction or approval for use in textiles and textile fibers and used in accordance with such sanction or approval. 
 
-(3) Substances generally recognized as safe for use in cotton and cotton fabrics used in dry-food packaging.
+(3) Substances generally recognized as safe for use in cotton and cotton fabrics used in dry-food packaging. 
 
-(4) Substances that by regulation in this part may safely be used in the production of or as a component of textiles or textile fibers and subject to provisions of such regulation.
+(4) Substances that by regulation in this part may safely be used in the production of or as a component of textiles or textile fibers and subject to provisions of such regulation. 
 
-(5) Substances identified in this paragraph (d)(5), subject to such limitations as are provided:
+(5) Substances identified in this paragraph (d)(5), subject to such limitations as are provided: 
 
 | List of substances                                                                                                                                                                   | Limitations                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -90,8 +90,8 @@ Textiles and textile fibers may safely be used as articles or components of arti
 | Waxes, petroleum                                                                                                                                                                     |                                                                                                                                                                                                              |
 | Zinc hydrosulfite                                                                                                                                                                    |                                                                                                                                                                                                              |
 
-(e) Textile and textile fibers are used as articles or components of articles that contact dry food only.
+(e) Textile and textile fibers are used as articles or components of articles that contact dry food only. 
 
-(f) The provisions of this section are not applicable to jute fibers used as prescribed by § 178.3620(d)(2) of this chapter.
+(f) The provisions of this section are not applicable to jute fibers used as prescribed by § 178.3620(d)(2) of this chapter. 
 
 \[42 FR 14572, Mar. 15, 1977, as amended at 46 FR 37042, July 17, 1981; 49 FR 4372, Feb. 6, 1984; 49 FR 5748, Feb. 15, 1984; 56 FR 42933, Aug. 30, 1991\]

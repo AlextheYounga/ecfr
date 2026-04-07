@@ -1,6 +1,6 @@
 ##### § 72.01-5 Local Notice to Mariners.
 
-(a) “Local Notice to Mariners” reports changes to and deficiencies in aids to navigation that are established or maintained and operated by or under the authority of the Coast Guard, and any other information pertaining to the waterways within each Coast Guard district that is of interest to the mariner.
+(a) “Local Notice to Mariners” reports changes to and deficiencies in aids to navigation that are established or maintained and operated by or under the authority of the Coast Guard, and any other information pertaining to the waterways within each Coast Guard district that is of interest to the mariner. 
 
 (b) “Local Notices to Mariners” are published weekly by each Coast Guard district or more often if there is a need to notify mariners of local waterway information. Local Notices to Mariners are available for viewing on the Coast Guard Navigation Center Web site at *http://www.navcen.uscg.gov/?pageName=lnmMain.*
 

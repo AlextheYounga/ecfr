@@ -1,6 +1,6 @@
 ##### § 162.175 Black Rock Canal and Lock at Buffalo, New York.
 
-In the Black Rock Canal and Lock, no vessel may exceed 6 miles per hour.
+In the Black Rock Canal and Lock, no vessel may exceed 6 miles per hour. 
 
 Note:
 

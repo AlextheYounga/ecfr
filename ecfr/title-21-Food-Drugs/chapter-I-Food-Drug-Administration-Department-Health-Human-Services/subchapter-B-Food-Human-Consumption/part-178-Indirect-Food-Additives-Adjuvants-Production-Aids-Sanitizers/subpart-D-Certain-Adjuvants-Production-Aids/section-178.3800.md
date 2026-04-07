@@ -1,10 +1,10 @@
 ##### § 178.3800 Preservatives for wood.
 
-Preservatives may be safely used on wooden articles that are used or intended for use in packaging, transporting, or holding raw agricultural products subject to the provisions of this section:
+Preservatives may be safely used on wooden articles that are used or intended for use in packaging, transporting, or holding raw agricultural products subject to the provisions of this section: 
 
-(a) The preservatives are prepared from substances identified in paragraph (b) of this section and applied in amounts not to exceed those necessary to accomplish the technical effect of protecting the wood from decay, mildew, and water absorption.
+(a) The preservatives are prepared from substances identified in paragraph (b) of this section and applied in amounts not to exceed those necessary to accomplish the technical effect of protecting the wood from decay, mildew, and water absorption. 
 
-(b) The substances permitted are as follows:
+(b) The substances permitted are as follows: 
 
 | List of substances                                                                                                                                                                                        | Limitations                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |

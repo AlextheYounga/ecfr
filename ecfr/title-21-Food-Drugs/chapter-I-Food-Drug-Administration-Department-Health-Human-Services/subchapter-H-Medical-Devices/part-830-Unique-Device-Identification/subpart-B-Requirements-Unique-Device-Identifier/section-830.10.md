@@ -4,12 +4,12 @@
 
 (b) International Organization for Standardization (ISO), mailing address: ISO, Attn: ISO Central Secretariat, 1, ch. de la Voie-Creuse, Case postale 56, CH-1211 Geneva 20, Switzerland, phone (dialing from the United States): 011-41-22-749-0111, and may be ordered online at *http://www.standardsinfo.net.*
 
-(1) ISO/IEC 646:1991(E), Information technology—ISO 7-bit coded character set for information interchange (third edition; December 15, 1991), into §§ 830.20(c) and 830.100(b);
+(1) ISO/IEC 646:1991(E), Information technology—ISO 7-bit coded character set for information interchange (third edition; December 15, 1991), into §§ 830.20(c) and 830.100(b); 
 
-(2) ISO/IEC 15459-2:2006(E), Information technology—Unique identifiers—Part 2: Registration procedures (second edition; March 1, 2006), into §§ 830.20(b) and 830.100(b);
+(2) ISO/IEC 15459-2:2006(E), Information technology—Unique identifiers—Part 2: Registration procedures (second edition; March 1, 2006), into §§ 830.20(b) and 830.100(b); 
 
-(3) ISO/IEC 15459-4:2008(E), Information technology—Unique identifiers—Part 4: Individual items (second edition; July 15, 2008), into §§ 830.20(b) and 830.100(b);
+(3) ISO/IEC 15459-4:2008(E), Information technology—Unique identifiers—Part 4: Individual items (second edition; July 15, 2008), into §§ 830.20(b) and 830.100(b); 
 
-(4) ISO/IEC 15459-6:2007(E), Information technology—Unique identifiers—Part 6: Unique identifier for product groupings (first edition; June 15, 2007), into §§ 830.20(b) and 830.100(b).
+(4) ISO/IEC 15459-6:2007(E), Information technology—Unique identifiers—Part 6: Unique identifier for product groupings (first edition; June 15, 2007), into §§ 830.20(b) and 830.100(b). 
 
 \[78 FR 58823, Sept. 24, 2013, as amended at 88 FR 45067, July 14, 2023\]

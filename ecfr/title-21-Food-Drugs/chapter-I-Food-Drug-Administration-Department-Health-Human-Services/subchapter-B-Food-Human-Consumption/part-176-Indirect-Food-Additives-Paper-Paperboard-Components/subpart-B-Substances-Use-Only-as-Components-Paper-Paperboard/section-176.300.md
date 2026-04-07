@@ -1,16 +1,16 @@
 ##### § 176.300 Slimicides.
 
-(a) Slimicides may be safely used in the manufacture of paper and paperboard that contact food, in accordance with the following prescribed conditions:
+(a) Slimicides may be safely used in the manufacture of paper and paperboard that contact food, in accordance with the following prescribed conditions: 
 
-(1) Slimicides are used as antimicrobial agents to control slime in the manufacture of paper and paperboard.
+(1) Slimicides are used as antimicrobial agents to control slime in the manufacture of paper and paperboard. 
 
-(2) Subject to any prescribed limitations, slimicides are prepared from one or more of the slime-control substances named in paragraph (c) of this section to which may be added optional adjuvant substances as provided for under paragraph (d) of this section.
+(2) Subject to any prescribed limitations, slimicides are prepared from one or more of the slime-control substances named in paragraph (c) of this section to which may be added optional adjuvant substances as provided for under paragraph (d) of this section. 
 
-(3) Slimicides are added to the process water used in the production of paper or paperboard, and the quantity added shall not exceed the amount necessary to accomplish the intended technical effect.
+(3) Slimicides are added to the process water used in the production of paper or paperboard, and the quantity added shall not exceed the amount necessary to accomplish the intended technical effect. 
 
-(b) To insure safe usage, the label or labeling of slimicides shall bear adequate directions for use.
+(b) To insure safe usage, the label or labeling of slimicides shall bear adequate directions for use. 
 
-(c) Slime-control substances permitted for use in the preparation of slimicides include substances subject to prior sanction or approval for such use and the following:
+(c) Slime-control substances permitted for use in the preparation of slimicides include substances subject to prior sanction or approval for such use and the following: 
 
 | List of substances                                                                                                                                                                                                                             | Limitations                                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -68,6 +68,6 @@
 | 2-(Thiocyanomethylthio) benzothiazole                                                                                                                                                                                                          |                                                                                                                                                                                                              |
 | Vinylene bisthiocyanate                                                                                                                                                                                                                        |                                                                                                                                                                                                              |
 
-(d) Adjuvant substances permitted to be used in the preparation of slimicides include substances generally recognized as safe for use in food, substances generally recognized as safe for use in paper and paperboard, substances permitted to be used in paper and paperboard by other regulations in this chapter, and the following:
+(d) Adjuvant substances permitted to be used in the preparation of slimicides include substances generally recognized as safe for use in food, substances generally recognized as safe for use in paper and paperboard, substances permitted to be used in paper and paperboard by other regulations in this chapter, and the following: 
 
 Acetone. Butlylene oxide. *N,N-*Dimethylformamide. Ethanolamine. Ethylene glycol. Ethylenediamine. *N-*methyl-2-pyrrolidone (CAS Reg. No. 872-50-4). *a,a′-*\[Methylenebis\[4-(1,1,3,3-tetramethylbutyl)-*o-*phenylene\]\] *bis*\[*omega-*hydroxypoly (oxyethylene)\] having 6-7.5 moles of ethylene oxide per hydroxyl group. Monomethyl ethers of mono-, di-, and tripropylene glycol. Nonylphenol reaction product with 9 to 12 molecules of ethylene oxide. Octylphenol reaction product with 25 molecules of propylene oxide and 40 molecules of ethylene oxide.\[42 FR 14554, Mar. 15, 1977, as amended at 42 FR 41854, Aug. 19, 1977; 44 FR 75627, Dec. 21, 1979; 46 FR 36129, July 14, 1981; 49 FR 5748, Feb. 15, 1984; 51 FR 19059, May 27, 1986; 51 FR 43734, Dec. 4, 1986; 54 FR 18103, Apr. 27, 1989; 55 FR 31825, Aug. 6, 1990; 64 FR 46130, Aug. 24, 1999; 64 FR 69900, Dec. 15, 1999; 65 FR 40497, June 30, 2000; 65 FR 70790, Nov. 28, 2000; 69 FR 24512, May 4, 2004; 87 FR 31089, May 20, 2022\]

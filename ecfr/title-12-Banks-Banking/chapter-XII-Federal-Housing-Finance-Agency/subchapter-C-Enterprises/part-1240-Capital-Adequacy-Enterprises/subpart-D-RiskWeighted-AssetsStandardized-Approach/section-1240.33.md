@@ -1,158 +1,158 @@
 ##### § 1240.33 Single-family mortgage exposures.
 
-(a) *Definitions.* Subject to any additional instructions set forth on table 1 to this paragraph (a), for purposes of this section: 
+(a) *Definitions.* Subject to any additional instructions set forth on table 1 to this paragraph (a), for purposes of this section:
 
-*Adjusted MTMLTV* means, with respect to a single-family mortgage exposure and as of a particular time, the amount equal to: 
+*Adjusted MTMLTV* means, with respect to a single-family mortgage exposure and as of a particular time, the amount equal to:
 
-(i) The MTMLTV of the single-family mortgage exposure (or, if the loan age of the single-family mortgage exposure is less than 6, the OLTV of the single-family mortgage exposure); divided by 
+(i) The MTMLTV of the single-family mortgage exposure (or, if the loan age of the single-family mortgage exposure is less than 6, the OLTV of the single-family mortgage exposure); divided by
 
-(ii) The amount equal to 1 plus either: 
+(ii) The amount equal to 1 plus either:
 
-(A) The single-family countercyclical adjustment available at the time of the exposure's origination if the loan age of the single-family mortgage exposure is less than or equal to 5; or 
+(A) The single-family countercyclical adjustment available at the time of the exposure's origination if the loan age of the single-family mortgage exposure is less than or equal to 5; or
 
-(B) The single-family countercyclical adjustment available as of that time if the loan age of the single-family mortgage exposure is greater than or equal to 6. 
+(B) The single-family countercyclical adjustment available as of that time if the loan age of the single-family mortgage exposure is greater than or equal to 6.
 
-*Approved insurer* means an insurance company that is currently approved by an Enterprise to guarantee or insure single-family mortgage exposures acquired by the Enterprise. 
+*Approved insurer* means an insurance company that is currently approved by an Enterprise to guarantee or insure single-family mortgage exposures acquired by the Enterprise.
 
-*Cancelable mortgage insurance* means a mortgage insurance policy that, pursuant to its terms, may or will be terminated before the maturity date of the insured single-family mortgage exposure, including as required or permitted by the Homeowners Protection Act of 1998 (12 U.S.C. 4901). 
+*Cancelable mortgage insurance* means a mortgage insurance policy that, pursuant to its terms, may or will be terminated before the maturity date of the insured single-family mortgage exposure, including as required or permitted by the Homeowners Protection Act of 1998 (12 U.S.C. 4901).
 
-*Charter-level coverage* means mortgage insurance that satisfies the minimum requirements of the authorizing statute of an Enterprise. 
+*Charter-level coverage* means mortgage insurance that satisfies the minimum requirements of the authorizing statute of an Enterprise.
 
-*Cohort burnout* means the number of refinance opportunities since the loan age of the single-family mortgage exposure was 6, categorized into ranges pursuant to the instructions set forth on Table 1 to this paragraph (a). 
+*Cohort burnout* means the number of refinance opportunities since the loan age of the single-family mortgage exposure was 6, categorized into ranges pursuant to the instructions set forth on Table 1 to this paragraph (a).
 
-*Coverage percent* means the percent of the sum of the unpaid principal balance, any lost interest, and any foreclosure costs that is used to determine the benefit or other coverage under a mortgage insurance policy. 
+*Coverage percent* means the percent of the sum of the unpaid principal balance, any lost interest, and any foreclosure costs that is used to determine the benefit or other coverage under a mortgage insurance policy.
 
-*COVID-19-related forbearance* means a forbearance granted pursuant to section 4022 of the Coronavirus Aid, Relief, and Economic Security Act or under a program established by FHFA to provide forbearance to borrowers adversely impacted by COVID-19. 
+*COVID-19-related forbearance* means a forbearance granted pursuant to section 4022 of the Coronavirus Aid, Relief, and Economic Security Act or under a program established by FHFA to provide forbearance to borrowers adversely impacted by COVID-19.
 
-*Days past due* means the number of days a single-family mortgage exposure is past due. 
+*Days past due* means the number of days a single-family mortgage exposure is past due.
 
-*Debt-to-income ratio (DTI)* means the ratio of a borrower's total monthly obligations (including housing expense) divided by the borrower's monthly income, as calculated under the Guide of the Enterprise. 
+*Debt-to-income ratio (DTI)* means the ratio of a borrower's total monthly obligations (including housing expense) divided by the borrower's monthly income, as calculated under the Guide of the Enterprise.
 
-*Deflated HPI* means, as of a particular time, the amount equal to: 
+*Deflated HPI* means, as of a particular time, the amount equal to:
 
-(i) The national, not-seasonally adjusted Expanded-Data FHFA House Price Index® as of the end of the preceding calendar quarter; divided by 
+(i) The national, not-seasonally adjusted Expanded-Data FHFA House Price Index® as of the end of the preceding calendar quarter; divided by
 
-(ii) The average of the three monthly observations of the preceding calendar quarter from the non-seasonally adjusted Consumer Price Index for All Urban Consumers, U.S. City Average, All Items Less Shelter. 
+(ii) The average of the three monthly observations of the preceding calendar quarter from the non-seasonally adjusted Consumer Price Index for All Urban Consumers, U.S. City Average, All Items Less Shelter.
 
-*Guide* means, as applicable, the Fannie Mae Single Family Selling Guide, the Fannie Mae Single Family Servicing Guide and the Freddie Mac Single-family Seller/Servicers Guide. 
+*Guide* means, as applicable, the Fannie Mae Single Family Selling Guide, the Fannie Mae Single Family Servicing Guide and the Freddie Mac Single-family Seller/Servicers Guide.
 
-*Guide-level coverage* means mortgage insurance that satisfies the requirements of the Guide of the Enterprise with respect to mortgage insurance that has a coverage percent that exceeds charter-level coverage. 
+*Guide-level coverage* means mortgage insurance that satisfies the requirements of the Guide of the Enterprise with respect to mortgage insurance that has a coverage percent that exceeds charter-level coverage.
 
-*Interest-only (IO)* means a single-family mortgage exposure that requires only payment of interest without any principal amortization during all or part of the loan term. 
+*Interest-only (IO)* means a single-family mortgage exposure that requires only payment of interest without any principal amortization during all or part of the loan term.
 
-*Loan age* means the number of scheduled payment dates since the origination of a single-family mortgage exposure. 
+*Loan age* means the number of scheduled payment dates since the origination of a single-family mortgage exposure.
 
-*Loan-level credit enhancement* means: 
+*Loan-level credit enhancement* means:
 
-(i) Mortgage insurance; or 
+(i) Mortgage insurance; or
 
-(ii) A participation agreement. 
+(ii) A participation agreement.
 
-*Loan documentation* means the completeness of the documentation used to underwrite a single-family mortgage exposure, as determined under the Guide of the Enterprise. 
+*Loan documentation* means the completeness of the documentation used to underwrite a single-family mortgage exposure, as determined under the Guide of the Enterprise.
 
-*Loan purpose* means the purpose of a single-family mortgage exposure at origination. 
+*Loan purpose* means the purpose of a single-family mortgage exposure at origination.
 
-*Long-term HPI trend* means, as of a particular time, the amount equal to: 0.66112295*e*(0.002619948\*t). 
+*Long-term HPI trend* means, as of a particular time, the amount equal to: 0.66112295*e*(0.002619948\*t).
 
 Where *t* = the number of quarters from the first quarter of 1975 to and including the end of the preceding calendar quarter and where the first quarter of 1975 is counted as one. 1
 
 1 FHFA will adjust the formula for the long-term HPI trend in accordance with applicable law if two conditions are satisfied as of the end of a calendar quarter that follows the last adjustment to the long-term HPI trend: (i) The average of the long-term trend departures over four consecutive calendar quarters has been less than −5.0 percent; and (ii) after the end of the calendar quarter in which the first condition is satisfied, the deflated HPI has increased to an extent that it again exceeds the long-term HPI trend. The point in time of the new trough used by FHFA to adjust the formula for the long-term HPI trend will be identified by the calendar quarter with the smallest deflated HPI in the period that includes the calendar quarter in which the first condition is satisfied and ends at the end of the calendar quarter in which the second condition is first satisfied.
 
-*Long-term trend departure* means, as of a particular time, the percent amount equal to— 
+*Long-term trend departure* means, as of a particular time, the percent amount equal to—
 
-(i) The deflated HPI as of that time divided by the long-term HPI trend as of that time; minus 
+(i) The deflated HPI as of that time divided by the long-term HPI trend as of that time; minus
 
-(ii) 1.0. 
+(ii) 1.0.
 
-*MI cancelation feature* means an indicator for whether mortgage insurance is cancelable mortgage insurance or non-cancelable mortgage insurance, assigned pursuant to the instructions set forth on Table 1 to this paragraph (a). 
+*MI cancelation feature* means an indicator for whether mortgage insurance is cancelable mortgage insurance or non-cancelable mortgage insurance, assigned pursuant to the instructions set forth on Table 1 to this paragraph (a).
 
-*Modification* means a permanent amendment or other change to the interest rate, maturity date, unpaid principal balance, or other contractual term of a single-family mortgage exposure or a deferral of a required payment until the maturity or earlier payoff of the single-family mortgage exposure. A modification does not include a repayment plan with respect to any amounts that are past due or a COVID-19-related forbearance. 
+*Modification* means a permanent amendment or other change to the interest rate, maturity date, unpaid principal balance, or other contractual term of a single-family mortgage exposure or a deferral of a required payment until the maturity or earlier payoff of the single-family mortgage exposure. A modification does not include a repayment plan with respect to any amounts that are past due or a COVID-19-related forbearance.
 
-*Modified re-performing loan (modified RPL)* means a single-family mortgage exposure (other than an NPL) that is or has been subject to a modification, excluding any single-family mortgage exposure that was not 60 or more days past due at any time in a continuous 60-calendar month period that begins at any time after the effective date of the last modification. 
+*Modified re-performing loan (modified RPL)* means a single-family mortgage exposure (other than an NPL) that is or has been subject to a modification, excluding any single-family mortgage exposure that was not 60 or more days past due at any time in a continuous 60-calendar month period that begins at any time after the effective date of the last modification.
 
-*Months since last modification* means the number of scheduled payment dates since the effective date of the last modification of a single-family mortgage exposure. 
+*Months since last modification* means the number of scheduled payment dates since the effective date of the last modification of a single-family mortgage exposure.
 
-*Mortgage concentration risk* means the extent to which a mortgage insurer or other counterparty is exposed to mortgage credit risk relative to other risks. 
+*Mortgage concentration risk* means the extent to which a mortgage insurer or other counterparty is exposed to mortgage credit risk relative to other risks.
 
-*MTMLTV* means, with respect to a single-family mortgage exposure, the amount equal to: 
+*MTMLTV* means, with respect to a single-family mortgage exposure, the amount equal to:
 
-(i) The unpaid principal balance of the single-family mortgage exposure; divided by 
+(i) The unpaid principal balance of the single-family mortgage exposure; divided by
 
-(ii) The amount equal to: 
+(ii) The amount equal to:
 
-(A) The unpaid principal balance of the single-family mortgage exposure at origination; divided by 
+(A) The unpaid principal balance of the single-family mortgage exposure at origination; divided by
 
-(B) The OLTV of the single-family mortgage exposure; multiplied by 
+(B) The OLTV of the single-family mortgage exposure; multiplied by
 
-(C) The most recently available FHFA Purchase-only State-level House Price Index of the State in which the property securing the single-family mortgage exposure is located; divided by 
+(C) The most recently available FHFA Purchase-only State-level House Price Index of the State in which the property securing the single-family mortgage exposure is located; divided by
 
-(D) The FHFA Purchase-only State-level House Price Index, as of date of the origination of the single-family mortgage exposure, in which the property securing the single-family mortgage exposure is located. 
+(D) The FHFA Purchase-only State-level House Price Index, as of date of the origination of the single-family mortgage exposure, in which the property securing the single-family mortgage exposure is located.
 
-*Non-cancelable mortgage insurance* means a mortgage insurance policy that, pursuant to its terms, may not be terminated before the maturity date of the insured single-family mortgage exposure. 
+*Non-cancelable mortgage insurance* means a mortgage insurance policy that, pursuant to its terms, may not be terminated before the maturity date of the insured single-family mortgage exposure.
 
-*Non-modified re-performing loan (non-modified RPL)* means a single-family mortgage exposure (other than a modified RPL or an NPL) that was previously an NPL at any time in the prior 48 calendar months. 
+*Non-modified re-performing loan (non-modified RPL)* means a single-family mortgage exposure (other than a modified RPL or an NPL) that was previously an NPL at any time in the prior 48 calendar months.
 
-*Non-performing loan (NPL)* means a single-family mortgage exposure that is 60 days or more past due. 
+*Non-performing loan (NPL)* means a single-family mortgage exposure that is 60 days or more past due.
 
-*Occupancy type* means the borrowers' intended use of the property securing a single-family mortgage exposure. 
+*Occupancy type* means the borrowers' intended use of the property securing a single-family mortgage exposure.
 
-*Original credit score* means the borrower's credit score as of the origination date of a single-family mortgage exposure. 
+*Original credit score* means the borrower's credit score as of the origination date of a single-family mortgage exposure.
 
-*OLTV (original loan-to-value)* means, with respect to a single-family mortgage exposure, the amount equal to: 
+*OLTV (original loan-to-value)* means, with respect to a single-family mortgage exposure, the amount equal to:
 
-(i) The unpaid principal balance of the single-family mortgage exposure at origination; divided by 
+(i) The unpaid principal balance of the single-family mortgage exposure at origination; divided by
 
-(ii) The lesser of: 
+(ii) The lesser of:
 
-(A) The appraised value of the property securing the single-family mortgage exposure; and 
+(A) The appraised value of the property securing the single-family mortgage exposure; and
 
-(B) The sale price of the property securing the single-family mortgage exposure. 
+(B) The sale price of the property securing the single-family mortgage exposure.
 
-*Origination channel* means the type of institution that originated a single-family mortgage exposure, assigned pursuant to the instructions set forth on table 1 to this paragraph (a). 
+*Origination channel* means the type of institution that originated a single-family mortgage exposure, assigned pursuant to the instructions set forth on table 1 to this paragraph (a).
 
-*Participation agreement* means, with respect to a single-family mortgage exposure, any agreement between an Enterprise and the seller of the single-family mortgage exposure pursuant to which the seller retains a participation of not less than 10 percent in the single-family mortgage exposure. 
+*Participation agreement* means, with respect to a single-family mortgage exposure, any agreement between an Enterprise and the seller of the single-family mortgage exposure pursuant to which the seller retains a participation of not less than 10 percent in the single-family mortgage exposure.
 
-*Past due* means, with respect to a single-family mortgage exposure, that any amount required to be paid by the borrower under the terms of the single-family mortgage exposure has not been paid. 
+*Past due* means, with respect to a single-family mortgage exposure, that any amount required to be paid by the borrower under the terms of the single-family mortgage exposure has not been paid.
 
-*Payment change from modification* means the amount, expressed as a percent, equal to: 
+*Payment change from modification* means the amount, expressed as a percent, equal to:
 
-(i) The amount equal to: 
+(i) The amount equal to:
 
-(A) The monthly payment of a single-family mortgage exposure after a modification; divided by 
+(A) The monthly payment of a single-family mortgage exposure after a modification; divided by
 
-(B) The monthly payment of the single-family mortgage exposure before the modification; minus 
+(B) The monthly payment of the single-family mortgage exposure before the modification; minus
 
-(ii) 1.0. 
+(ii) 1.0.
 
-*Performing loan* means any single-family mortgage exposure that is not an NPL, a modified RPL, or a non-modified RPL. 
+*Performing loan* means any single-family mortgage exposure that is not an NPL, a modified RPL, or a non-modified RPL.
 
-*Previous maximum days past due* means the maximum number of days a modified RPL or non-modified RPL was past due in the prior 36 calendar months. 
+*Previous maximum days past due* means the maximum number of days a modified RPL or non-modified RPL was past due in the prior 36 calendar months.
 
-*Product type* means an indicator reflecting the contractual terms of a single-family mortgage exposure as of the origination date, assigned pursuant to the instructions set forth on Table 1 to this paragraph (a). 
+*Product type* means an indicator reflecting the contractual terms of a single-family mortgage exposure as of the origination date, assigned pursuant to the instructions set forth on Table 1 to this paragraph (a).
 
-*Property type* means the physical structure of the property securing a single-family mortgage exposure. 
+*Property type* means the physical structure of the property securing a single-family mortgage exposure.
 
-*Refinance opportunity* means, with respect to a single-family mortgage exposure, any calendar month in which the Primary Mortgage Market Survey (PMMS) rate for the month and year of the origination of the single-family mortgage exposure exceeds the PMMS rate for that calendar month by more than 50 basis points. 
+*Refinance opportunity* means, with respect to a single-family mortgage exposure, any calendar month in which the Primary Mortgage Market Survey (PMMS) rate for the month and year of the origination of the single-family mortgage exposure exceeds the PMMS rate for that calendar month by more than 50 basis points.
 
-*Refreshed credit score* means the borrower's most recently available credit score. 
+*Refreshed credit score* means the borrower's most recently available credit score.
 
-*Single-family countercyclical adjustment* means, as of a particular time, zero percent except: 
+*Single-family countercyclical adjustment* means, as of a particular time, zero percent except:
 
-(i) If the long-term trend departure as of that time is greater than 5 percent, the percent amount equal to: 
+(i) If the long-term trend departure as of that time is greater than 5 percent, the percent amount equal to:
 
-(A) 1.05 multiplied by the long-term HPI trend, as of that time, divided by the deflated HPI, as of that time, minus 
+(A) 1.05 multiplied by the long-term HPI trend, as of that time, divided by the deflated HPI, as of that time, minus
 
-(B) 1.0. 
+(B) 1.0.
 
-(ii) If the long-term trend departure as of that time is less than −5 percent, the percent amount equal to: 
+(ii) If the long-term trend departure as of that time is less than −5 percent, the percent amount equal to:
 
-(A) 0.95 multiplied by the long-term HPI trend, as of that time, divided by the deflated HPI, as of that time, minus 
+(A) 0.95 multiplied by the long-term HPI trend, as of that time, divided by the deflated HPI, as of that time, minus
 
-(B) 1.0. 
+(B) 1.0.
 
-*Streamlined refi* means a single-family mortgage exposure that was refinanced through a streamlined refinance program of an Enterprise, including the Home Affordable Refinance Program, Relief Refi, and Refi-Plus. 
+*Streamlined refi* means a single-family mortgage exposure that was refinanced through a streamlined refinance program of an Enterprise, including the Home Affordable Refinance Program, Relief Refi, and Refi-Plus.
 
-*Subordination* means, with respect to a single-family mortgage exposure, the amount equal to the original unpaid principal balance of any second lien single-family mortgage exposure divided by the lesser of the appraised value or sale price of the property that secures the single-family mortgage exposure. 
+*Subordination* means, with respect to a single-family mortgage exposure, the amount equal to the original unpaid principal balance of any second lien single-family mortgage exposure divided by the lesser of the appraised value or sale price of the property that secures the single-family mortgage exposure.
 
 Table 1 to Paragraph (a)—Permissible Values and Additional Instructions
 | Defined term                     | Permissible values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Additional instructions                                                                                                                                                                          |
@@ -204,43 +204,43 @@ Table 1 to Paragraph (a)—Permissible Values and Additional Instructions
 | Streamlined refi                 | Yes, no                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | No if unable to determine.                                                                                                                                                                       |
 | Subordination                    | 0 percent <= Subordination <= 80 percent                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 80 percent if outside permissible range.                                                                                                                                                         |
 
-(b) *Risk weight*—(1) *In general.* Subject to paragraph (b)(2) of this section, an Enterprise must assign a risk weight to a single-family mortgage exposure equal to: 
+(b) *Risk weight*—(1) *In general.* Subject to paragraph (b)(2) of this section, an Enterprise must assign a risk weight to a single-family mortgage exposure equal to:
 
-(i) The base risk weight for the single-family mortgage exposure as determined under paragraph (c) of this section; multiplied by 
+(i) The base risk weight for the single-family mortgage exposure as determined under paragraph (c) of this section; multiplied by
 
-(ii) The combined risk multiplier for the single-family mortgage exposure as determined under paragraph (d) of this section; multiplied by 
+(ii) The combined risk multiplier for the single-family mortgage exposure as determined under paragraph (d) of this section; multiplied by
 
-(iii) The adjusted credit enhancement multiplier for the single-family mortgage exposure as determined under paragraph (e) of this section. 
+(iii) The adjusted credit enhancement multiplier for the single-family mortgage exposure as determined under paragraph (e) of this section.
 
-(2) *Minimum risk weight.* Notwithstanding the risk weight determined under paragraph (b)(1) of this section, the risk weight assigned to a single-family mortgage exposure may not be less than 20 percent. 
+(2) *Minimum risk weight.* Notwithstanding the risk weight determined under paragraph (b)(1) of this section, the risk weight assigned to a single-family mortgage exposure may not be less than 20 percent.
 
-(c) *Base risk weight*—(1) *Performing loan.* The base risk weight for a performing loan is set forth on Table 2 to this paragraph (c)(1). For purposes of this paragraph (c)(1), credit score means, with respect to a single-family mortgage exposure: 
+(c) *Base risk weight*—(1) *Performing loan.* The base risk weight for a performing loan is set forth on Table 2 to this paragraph (c)(1). For purposes of this paragraph (c)(1), credit score means, with respect to a single-family mortgage exposure:
 
-(i) The original credit score of the single-family mortgage exposure, if the loan age of the single-family mortgage exposure is less than 6; or 
+(i) The original credit score of the single-family mortgage exposure, if the loan age of the single-family mortgage exposure is less than 6; or
 
-(ii) The refreshed credit score of the single-family mortgage exposure. 
+(ii) The refreshed credit score of the single-family mortgage exposure.
 
 ![](/graphics/er17de20.012.gif)
 
-(2) *Non-modified RPL.* The base risk weight for a non-modified RPL is set forth on Table 3 to this paragraph (c)(2). For purposes of this paragraph (c)(2), re-performing duration means, with respect to a non-modified RPL, the number of scheduled payment dates since the non-modified RPL was last an NPL. 
+(2) *Non-modified RPL.* The base risk weight for a non-modified RPL is set forth on Table 3 to this paragraph (c)(2). For purposes of this paragraph (c)(2), re-performing duration means, with respect to a non-modified RPL, the number of scheduled payment dates since the non-modified RPL was last an NPL.
 
 ![](/graphics/er17de20.013.gif)
 
-(3) *Modified RPL.* The base risk weight for a modified RPL is set forth on Table 4 to paragraph (c)(3)(ii) of this section. For purposes of this paragraph (c)(3), re-performing duration means, with respect to a modified RPL, the lesser of: 
+(3) *Modified RPL.* The base risk weight for a modified RPL is set forth on Table 4 to paragraph (c)(3)(ii) of this section. For purposes of this paragraph (c)(3), re-performing duration means, with respect to a modified RPL, the lesser of:
 
-(i) The months since last modification of the modified RPL; and 
+(i) The months since last modification of the modified RPL; and
 
-(ii) The number of scheduled payment dates since the modified RPL was last an NPL. 
+(ii) The number of scheduled payment dates since the modified RPL was last an NPL.
 
 ![](/graphics/er17de20.014.gif)
 
-(4) *NPL.* The base risk weight for an NPL is set forth on Table 5 to this paragraph (c)(4). 
+(4) *NPL.* The base risk weight for an NPL is set forth on Table 5 to this paragraph (c)(4).
 
 ![](/graphics/er17de20.015.gif)
 
-(d) *Combined risk multiplier*—(1) *In general.* Subject to paragraph (d)(2) of this section, the combined risk multiplier for a single-family mortgage exposure is equal to the product of each of the applicable risk multipliers set forth under the applicable single-family segment on Table 6 to paragraph (d)(2) of this section. 
+(d) *Combined risk multiplier*—(1) *In general.* Subject to paragraph (d)(2) of this section, the combined risk multiplier for a single-family mortgage exposure is equal to the product of each of the applicable risk multipliers set forth under the applicable single-family segment on Table 6 to paragraph (d)(2) of this section.
 
-(2) *Maximum combined risk multiplier.* Notwithstanding the combined risk multiplier determined under paragraph (d)(1) of this section, the combined risk multiplier for a single-family mortgage exposure may not exceed 3.0. 
+(2) *Maximum combined risk multiplier.* Notwithstanding the combined risk multiplier determined under paragraph (d)(1) of this section, the combined risk multiplier for a single-family mortgage exposure may not exceed 3.0.
 
 Table 6 to Paragraph (d)(2): Risk Multipliers
 | Risk factor                                                    | Value or range                                                   | Single-family segment |
@@ -306,74 +306,74 @@ Table 6 to Paragraph (d)(2): Risk Multipliers
 |                                                                | 760 <= refreshed credit score <780                               |                       |
 |                                                                | Refreshed credit score >= 780                                    |                       |
 
-(e) *Credit enhancement multiplier*—(1) *Amount*—(i) *In general.* The adjusted credit enhancement multiplier for a single-family mortgage exposure that is subject to loan-level credit enhancement is equal to 1.0 minus the product of: 
+(e) *Credit enhancement multiplier*—(1) *Amount*—(i) *In general.* The adjusted credit enhancement multiplier for a single-family mortgage exposure that is subject to loan-level credit enhancement is equal to 1.0 minus the product of:
 
-(A) 1.0 minus the credit enhancement multiplier for the single-family mortgage exposure as determined under paragraph (e)(2) of this section; multiplied by 
+(A) 1.0 minus the credit enhancement multiplier for the single-family mortgage exposure as determined under paragraph (e)(2) of this section; multiplied by
 
-(B) 1.0 minus the counterparty haircut for the loan-level credit enhancement as determined under paragraph (e)(3) of this section. 
+(B) 1.0 minus the counterparty haircut for the loan-level credit enhancement as determined under paragraph (e)(3) of this section.
 
-(ii) *No loan-level credit enhancement.* The adjusted credit enhancement multiplier for a single-family mortgage exposure that is not subject to loan-level credit enhancement is equal to 1.0. 
+(ii) *No loan-level credit enhancement.* The adjusted credit enhancement multiplier for a single-family mortgage exposure that is not subject to loan-level credit enhancement is equal to 1.0.
 
-(2) *Credit enhancement multiplier.* (i) The credit enhancement multiplier for a single-family mortgage exposure that is subject to a participation agreement is 1.0. 
+(2) *Credit enhancement multiplier.* (i) The credit enhancement multiplier for a single-family mortgage exposure that is subject to a participation agreement is 1.0.
 
-(ii) Subject to paragraph (e)(2)(iii) of this section, the credit enhancement multiplier for— 
+(ii) Subject to paragraph (e)(2)(iii) of this section, the credit enhancement multiplier for—
 
-(A) A performing loan, non-modified RPL, or modified RPL that is subject to non-cancelable mortgage insurance is set forth on Table 7 to paragraph (e)(2)(iii)(E) of this section; 
+(A) A performing loan, non-modified RPL, or modified RPL that is subject to non-cancelable mortgage insurance is set forth on Table 7 to paragraph (e)(2)(iii)(E) of this section;
 
-(B) A performing loan or non-modified RPL that is subject to cancelable mortgage insurance is set forth on Table 8 to paragraph (e)(2)(iii)(E) of this section; 
+(B) A performing loan or non-modified RPL that is subject to cancelable mortgage insurance is set forth on Table 8 to paragraph (e)(2)(iii)(E) of this section;
 
-(C) A modified RPL with a 30-year post-modification amortization that is subject to cancelable mortgage insurance is set forth on Table 9 to paragraph (e)(2)(iii)(E) of this section; 
+(C) A modified RPL with a 30-year post-modification amortization that is subject to cancelable mortgage insurance is set forth on Table 9 to paragraph (e)(2)(iii)(E) of this section;
 
-(D) A modified RPL with a 40-year post-modification amortization that is subject to cancelable mortgage insurance is set forth on Table 10 to paragraph (e)(2)(iii)(E) of this section; and 
+(D) A modified RPL with a 40-year post-modification amortization that is subject to cancelable mortgage insurance is set forth on Table 10 to paragraph (e)(2)(iii)(E) of this section; and
 
-(E) NPL, whether subject to non-cancelable mortgage insurance or cancelable mortgage insurance, is set forth on Table 11 to paragraph (e)(2)(iii)(E) of this section. 
+(E) NPL, whether subject to non-cancelable mortgage insurance or cancelable mortgage insurance, is set forth on Table 11 to paragraph (e)(2)(iii)(E) of this section.
 
-(iii) Notwithstanding anything to the contrary in this paragraph (e), for purposes of paragraph (e)(2)(ii) of this section: 
+(iii) Notwithstanding anything to the contrary in this paragraph (e), for purposes of paragraph (e)(2)(ii) of this section:
 
-(A) The OLTV of a single-family mortgage exposure will be deemed to be 80 percent if the single-family mortgage exposure has an OLTV less than or equal to 80 percent. 
+(A) The OLTV of a single-family mortgage exposure will be deemed to be 80 percent if the single-family mortgage exposure has an OLTV less than or equal to 80 percent.
 
-(B) If the single-family mortgage exposure has an interest-only feature, any cancelable mortgage insurance will be deemed to be non-cancelable mortgage insurance. 
+(B) If the single-family mortgage exposure has an interest-only feature, any cancelable mortgage insurance will be deemed to be non-cancelable mortgage insurance.
 
-(C) If the coverage percent of the mortgage insurance is greater than charter-level coverage and less than guide-level coverage, the credit enhancement multiplier is the amount equal to a linear interpolation between the credit enhancement multiplier of the single-family mortgage exposure for charter-level coverage and the credit enhancement multiplier of the single-family mortgage exposure for guide-level coverage. 
+(C) If the coverage percent of the mortgage insurance is greater than charter-level coverage and less than guide-level coverage, the credit enhancement multiplier is the amount equal to a linear interpolation between the credit enhancement multiplier of the single-family mortgage exposure for charter-level coverage and the credit enhancement multiplier of the single-family mortgage exposure for guide-level coverage.
 
-(D) If the coverage percent of the mortgage insurance is less than charter-level coverage, the credit enhancement multiplier is the amount equal to the midpoint of a linear interpolation between a credit enhancement multiplier of 1.0 and the credit enhancement multiplier of the single-family mortgage exposure for charter-level coverage. 
+(D) If the coverage percent of the mortgage insurance is less than charter-level coverage, the credit enhancement multiplier is the amount equal to the midpoint of a linear interpolation between a credit enhancement multiplier of 1.0 and the credit enhancement multiplier of the single-family mortgage exposure for charter-level coverage.
 
-(E) If the coverage percent of the mortgage insurance is greater than guide-level coverage, the credit enhancement multiplier is determined as if the coverage percent were guide-level coverage. 
+(E) If the coverage percent of the mortgage insurance is greater than guide-level coverage, the credit enhancement multiplier is determined as if the coverage percent were guide-level coverage.
 
 ![](/graphics/er17de20.018.gif)![](/graphics/er17de20.019.gif)![](/graphics/er17de20.020.gif)![](/graphics/er17de20.021.gif)![](/graphics/er17de20.022.gif)
 
-(3) *Credit enhancement counterparty haircut*—(i) *Counterparty rating*—(A) *In general.* For purposes of this paragraph (e)(3), the counterparty rating for a counterparty is— 
+(3) *Credit enhancement counterparty haircut*—(i) *Counterparty rating*—(A) *In general.* For purposes of this paragraph (e)(3), the counterparty rating for a counterparty is—
 
-(*1*) 1, if the Enterprise has determined that the counterparty has extremely strong capacity to perform its financial obligations in a severely adverse stress; 
+(*1*) 1, if the Enterprise has determined that the counterparty has extremely strong capacity to perform its financial obligations in a severely adverse stress;
 
-(*2*) 2, if the Enterprise has determined that the counterparty has very strong capacity to perform its financial obligations in a severely adverse stress; 
+(*2*) 2, if the Enterprise has determined that the counterparty has very strong capacity to perform its financial obligations in a severely adverse stress;
 
-(*3*) 3, if the Enterprise has determined that the counterparty has strong capacity to perform its financial obligations in a severely adverse stress; 
+(*3*) 3, if the Enterprise has determined that the counterparty has strong capacity to perform its financial obligations in a severely adverse stress;
 
-(*4*) 4, if the Enterprise has determined that the counterparty has adequate capacity to perform its financial obligations in a severely adverse stress; 
+(*4*) 4, if the Enterprise has determined that the counterparty has adequate capacity to perform its financial obligations in a severely adverse stress;
 
-(*5*) 5, if the Enterprise has determined that the counterparty does not have adequate capacity to perform its financial obligations in a severely adverse stress but does have adequate capacity to perform its financial obligations in an adverse stress; 
+(*5*) 5, if the Enterprise has determined that the counterparty does not have adequate capacity to perform its financial obligations in a severely adverse stress but does have adequate capacity to perform its financial obligations in an adverse stress;
 
-(*6*) 6, if the Enterprise has determined that the counterparty does not have adequate capacity to perform its financial obligations in an adverse stress; 
+(*6*) 6, if the Enterprise has determined that the counterparty does not have adequate capacity to perform its financial obligations in an adverse stress;
 
-(*7*) 7, if the Enterprise has determined that the counterparty's capacity to perform its financial obligations is questionable under prevailing economic conditions; 
+(*7*) 7, if the Enterprise has determined that the counterparty's capacity to perform its financial obligations is questionable under prevailing economic conditions;
 
-(*8*) 8, if the Enterprise has determined that the counterparty is in default on a material contractual obligation (including any obligation with respect to collateral requirements) or is under a resolution proceeding or similar regulatory proceeding. 
+(*8*) 8, if the Enterprise has determined that the counterparty is in default on a material contractual obligation (including any obligation with respect to collateral requirements) or is under a resolution proceeding or similar regulatory proceeding.
 
-(B) *Required considerations.* (*1*) In determining the capacity of a counterparty to perform its financial obligations, the Enterprise must consider the likelihood that the counterparty will not perform its material obligations with respect to the posting of collateral and the payment of any amounts payable under its contractual obligations. 
+(B) *Required considerations.* (*1*) In determining the capacity of a counterparty to perform its financial obligations, the Enterprise must consider the likelihood that the counterparty will not perform its material obligations with respect to the posting of collateral and the payment of any amounts payable under its contractual obligations.
 
-(*2*) A counterparty does not have an adequate capacity to perform its financial obligations in a severely adverse stress if there is a material risk that the counterparty would fail to timely perform any financial obligation in a severely adverse stress. 
+(*2*) A counterparty does not have an adequate capacity to perform its financial obligations in a severely adverse stress if there is a material risk that the counterparty would fail to timely perform any financial obligation in a severely adverse stress.
 
-(ii) *Counterparty haircut.* The counterparty haircut is set forth on table 12 to this paragraph (e)(3)(ii). For purposes of this paragraph (e)(3)(ii), RPL means either a modified RPL or a non-modified RPL. 
+(ii) *Counterparty haircut.* The counterparty haircut is set forth on table 12 to this paragraph (e)(3)(ii). For purposes of this paragraph (e)(3)(ii), RPL means either a modified RPL or a non-modified RPL.
 
 ![](/graphics/er17de20.023.gif)
 
-(f) *COVID-19-related forbearances*—(1) *During forbearance.* Notwithstanding anything to the contrary under paragraph (c)(4) of this section, the base risk weight for an NPL is equal to the product of 0.45 and the base risk weight that would otherwise be assigned to the NPL under paragraph (c)(4) of this section if the NPL— 
+(f) *COVID-19-related forbearances*—(1) *During forbearance.* Notwithstanding anything to the contrary under paragraph (c)(4) of this section, the base risk weight for an NPL is equal to the product of 0.45 and the base risk weight that would otherwise be assigned to the NPL under paragraph (c)(4) of this section if the NPL—
 
-(i) Is subject to a COVID-19-related forbearance; or 
+(i) Is subject to a COVID-19-related forbearance; or
 
-(ii) Was subject to a COVID-19-related forbearance at any time in the prior 6 calendar months and is subject to a trial modification plan. 
+(ii) Was subject to a COVID-19-related forbearance at any time in the prior 6 calendar months and is subject to a trial modification plan.
 
-(2) *After forbearance.* Notwithstanding the definition of “past due” under paragraph (a) of this section, any period of time in which a single-family mortgage exposure was past due while subject to a COVID-19-related forbearance is to be disregarded for the purpose of assigning a risk weight under this section if the entire amount past due was repaid upon the termination of the COVID-19-related forbearance. 
+(2) *After forbearance.* Notwithstanding the definition of “past due” under paragraph (a) of this section, any period of time in which a single-family mortgage exposure was past due while subject to a COVID-19-related forbearance is to be disregarded for the purpose of assigning a risk weight under this section if the entire amount past due was repaid upon the termination of the COVID-19-related forbearance.
 
 \[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022; 88 FR 83476, Nov. 30, 2023\]

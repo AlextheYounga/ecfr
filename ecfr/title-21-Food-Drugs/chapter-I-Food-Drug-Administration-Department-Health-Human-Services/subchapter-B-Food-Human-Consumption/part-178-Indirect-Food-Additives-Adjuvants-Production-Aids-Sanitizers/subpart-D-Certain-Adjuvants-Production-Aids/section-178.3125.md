@@ -1,6 +1,6 @@
 ##### § 178.3125 Anticorrosive agents.
 
-The substances listed in this section may be used as anticorrosive agents in food-contact materials subject to the provisions of this section:
+The substances listed in this section may be used as anticorrosive agents in food-contact materials subject to the provisions of this section: 
 
 | Substances                                       | Limitations                                                                                                                      |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |

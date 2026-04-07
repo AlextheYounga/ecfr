@@ -1,14 +1,14 @@
 ##### § 172.876 Castor oil.
 
-The food additive castor oil may be safely used in accordance with the following conditions:
+The food additive castor oil may be safely used in accordance with the following conditions: 
 
-(a) The additive meets the specifications of the United States Pharmacopeia XX (1980).
+(a) The additive meets the specifications of the United States Pharmacopeia XX (1980). 
 
-(b) The additive is used or intended for use as follows:
+(b) The additive is used or intended for use as follows: 
 
 Use and Limitations
 
-Hard candy production—As a release agent and antisticking agent, not to exceed 500 parts per million in hard candy.
+Hard candy production—As a release agent and antisticking agent, not to exceed 500 parts per million in hard candy. 
 
 Vitamin and mineral tablets—As a component of protective coatings.
 

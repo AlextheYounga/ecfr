@@ -1,19 +1,19 @@
 ##### § 341.16 Bronchodilator active ingredients.
 
-The active ingredients of the product consist of any of the following when used within the dosage limits established for each ingredient:
+The active ingredients of the product consist of any of the following when used within the dosage limits established for each ingredient: 
 
-(a) Ephedrine.
+(a) Ephedrine. 
 
-(b) Ephedrine hydrochloride.
+(b) Ephedrine hydrochloride. 
 
-(c) Ephedrine sulfate.
+(c) Ephedrine sulfate. 
 
-(d) Epinephrine.
+(d) Epinephrine. 
 
-(e) Epinephrine bitartrate.
+(e) Epinephrine bitartrate. 
 
-(f) Racephedrine hydrochloride.
+(f) Racephedrine hydrochloride. 
 
-(g) Racepinephrine hydrochloride.
+(g) Racepinephrine hydrochloride. 
 
 \[51 FR 35339, Oct. 2, 1986\]

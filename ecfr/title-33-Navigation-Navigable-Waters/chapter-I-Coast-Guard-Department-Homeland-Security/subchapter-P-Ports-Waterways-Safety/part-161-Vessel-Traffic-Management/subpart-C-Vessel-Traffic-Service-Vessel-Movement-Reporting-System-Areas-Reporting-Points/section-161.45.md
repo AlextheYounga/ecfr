@@ -1,8 +1,8 @@
 ##### § 161.45 Vessel Traffic Service St. Marys River.
 
-(a) The VTS area consists of the navigable waters of the St. Marys River and lower Whitefish Bay from 45°57′ N. (De Tour Reef Light) to the south, to 46°38.7′ N. (Ile Parisienne Light) to the north, except the waters of the St. Marys Falls Canal, and to the east along a line from La Pointe to Sims Point, within Potagannissing Bay and Worsley Bay.
+(a) The VTS area consists of the navigable waters of the St. Marys River and lower Whitefish Bay from 45°57′ N. (De Tour Reef Light) to the south, to 46°38.7′ N. (Ile Parisienne Light) to the north, except the waters of the St. Marys Falls Canal, and to the east along a line from La Pointe to Sims Point, within Potagannissing Bay and Worsley Bay. 
 
-(b) Reporting Points.
+(b) Reporting Points. 
 
 Table 1 to § 161.45(b)—VTS St. Marys River Reporting Points
 | Designator | Geographic name         | Geographic description     | Latitude/longitude      | Notes           |

@@ -1,6 +1,6 @@
 ##### § 241.1 Capacities.
 
-(a) The capacities of the standard barrel for fruits, vegetables, and other dry commodities, other than cranberries, and its subdivisions, are as follows:
+(a) The capacities of the standard barrel for fruits, vegetables, and other dry commodities, other than cranberries, and its subdivisions, are as follows: 
 
 | Size              | Cubic inches | Bushels 1 | Quarts 1 |
 | ----------------- | ------------ | --------- | -------- |
@@ -10,7 +10,7 @@
 | 1/3 barrel        | 2,352        | 1.094     | 35       |
 | 1 Struck measure. |              |           |          |
 
-(b) The capacities of the standard cranberry barrel and its subdivisions are as follows:
+(b) The capacities of the standard cranberry barrel and its subdivisions are as follows: 
 
 | Size                 | Cubic inches | Bushels 1 | Quarts 1 |
 | -------------------- | ------------ | --------- | -------- |

@@ -1,6 +1,6 @@
 ##### § 995.3 Availability of other publications.
 
-(a) For further guidance you may obtain the following:
+(a) For further guidance you may obtain the following: 
 
 (1) IEC 61174—The International Electrotechnical Commission identified and described the necessary performance tests and checks for an International Maritime Organization (IMO) compliant ECDIS. The IMO Performance Standards permit National Maritime Safety Administrations to consider ECDIS as the functional equivalent to charts required by Regulation V, Chapter 20 of the 1974 SOLAS Convention. IEC Publication 61174, dated August 1998, can be purchased from the IEC Web site: *http://www.iec.ch.*
 

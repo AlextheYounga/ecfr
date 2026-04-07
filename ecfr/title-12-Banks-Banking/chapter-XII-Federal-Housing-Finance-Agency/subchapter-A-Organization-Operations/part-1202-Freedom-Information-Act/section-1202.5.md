@@ -1,19 +1,19 @@
 ##### § 1202.5 How do I request information from FHFA under the FOIA?
 
-(a) *Where to send your request.* FHFA has a decentralized system for processing FOIA requests, made up of two components. To make a request for FHFA records, the FOIA request must be in writing. A requester must write directly to the FOIA office of the component that maintains the records being sought. The Appendices to this part contain the respective location and contact information for submitting a FOIA request for each FHFA component. 
+(a) *Where to send your request.* FHFA has a decentralized system for processing FOIA requests, made up of two components. To make a request for FHFA records, the FOIA request must be in writing. A requester must write directly to the FOIA office of the component that maintains the records being sought. The Appendices to this part contain the respective location and contact information for submitting a FOIA request for each FHFA component.
 
-(b) *Provide your name and address.* Your request must include your full name, your address and, if different, the address at which the component is to notify you about your request, a telephone number at which you can be reached during normal business hours, and an electronic mail address, if any. 
+(b) *Provide your name and address.* Your request must include your full name, your address and, if different, the address at which the component is to notify you about your request, a telephone number at which you can be reached during normal business hours, and an electronic mail address, if any.
 
-(c) *Request is under the FOIA.* Your request must have a statement identifying it as being made under the FOIA. 
+(c) *Request is under the FOIA.* Your request must have a statement identifying it as being made under the FOIA.
 
-(d) *Your FOIA status.* Your request should include a statement specifically identifying your status as a “commercial use” requester, an “educational institution” requester, a “non-commercial scientific institution” requester, or a “representative of the news media” for the purposes of the fee provisions of the FOIA. 
+(d) *Your FOIA status.* Your request should include a statement specifically identifying your status as a “commercial use” requester, an “educational institution” requester, a “non-commercial scientific institution” requester, or a “representative of the news media” for the purposes of the fee provisions of the FOIA.
 
-(e) *Describing the records you request.* You must describe the records that you seek in enough detail to enable FHFA to search for and locate the records with a reasonable amount of effort. Your request must include as much specific information as possible that you know about each record in your request, such as the date, title, name, author, recipient, subject matter, file designations, or the description of the record. 
+(e) *Describing the records you request.* You must describe the records that you seek in enough detail to enable FHFA to search for and locate the records with a reasonable amount of effort. Your request must include as much specific information as possible that you know about each record in your request, such as the date, title, name, author, recipient, subject matter, file designations, or the description of the record.
 
-(f) *How you want the records produced to you.* Your request may state in what form or format you want FHFA to furnish the releasable records, *e.g.,* hardcopy, or electronic. 
+(f) *How you want the records produced to you.* Your request may state in what form or format you want FHFA to furnish the releasable records, *e.g.,* hardcopy, or electronic.
 
-(g) *Agreement to pay fees.* In your FOIA request you must acknowledge that you are aware of the applicable fees charged under § 1202.11, and specify an amount, if any, you are willing to pay without consultation. Your inability to pay a fee does not justify granting a fee waiver. The fact that FHFA withholds all responsive documents or does not locate any documents responsive to your request, does not mean that you are not responsible for paying applicable fees. Your FOIA request will not be considered received by FHFA until your acknowledgement of the applicable fees, in writing, is received. FHFA will notify a requester of any fees above $25.00. 
+(g) *Agreement to pay fees.* In your FOIA request you must acknowledge that you are aware of the applicable fees charged under § 1202.11, and specify an amount, if any, you are willing to pay without consultation. Your inability to pay a fee does not justify granting a fee waiver. The fact that FHFA withholds all responsive documents or does not locate any documents responsive to your request, does not mean that you are not responsible for paying applicable fees. Your FOIA request will not be considered received by FHFA until your acknowledgement of the applicable fees, in writing, is received. FHFA will notify a requester of any fees above $25.00.
 
-(h) *Valid requests.* FHFA will only process valid requests. A valid request must meet all the requirements of this part. 
+(h) *Valid requests.* FHFA will only process valid requests. A valid request must meet all the requirements of this part.
 
 \[82 FR 13745, Mar. 15, 2017, as amended at 83 FR 5683, Feb. 9, 2018\]

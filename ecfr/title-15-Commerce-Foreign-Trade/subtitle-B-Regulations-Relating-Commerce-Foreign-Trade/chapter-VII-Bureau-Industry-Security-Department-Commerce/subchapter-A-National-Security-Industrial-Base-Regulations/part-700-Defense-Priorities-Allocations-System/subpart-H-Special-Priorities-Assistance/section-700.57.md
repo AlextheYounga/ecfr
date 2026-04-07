@@ -4,16 +4,16 @@
 
 (b) *Foreign nations and international organizations.* (1) Any person in a foreign nation other than Canada, or any person in an international organization, requiring assistance in obtaining items in the United States or priority rating authority for items to be purchased in the United States, should submit a request for such assistance or priority rating authority to: the Department of Defense DPA Title I Lead in the Office of the Assistant Secretary of Defense for Industrial Base Policy, 3330 Defense Pentagon, Room 3B854, Washington, DC 20301; Telephone: (703) 697-0051; Fax: (703) 695-4885; Email: *osd.pentagon.ousd-a-s.mbx.indpol-dpa-title-i@mail.mil,* website: *https://www.businessdefense.gov/.*
 
-(i) If the end product is being acquired by a U.S. Government agency, the request should be submitted to the Department of Defense DPA Title I Lead through the U.S. contract administration representative.
+(i) If the end product is being acquired by a U.S. Government agency, the request should be submitted to the Department of Defense DPA Title I Lead through the U.S. contract administration representative. 
 
-(ii) If the end product is being acquired by a foreign nation or international organization, the request must be sponsored prior to its submission to the Department of Defense DPA Title I Lead by the government of the foreign nation or the international organization that will use the end product.
+(ii) If the end product is being acquired by a foreign nation or international organization, the request must be sponsored prior to its submission to the Department of Defense DPA Title I Lead by the government of the foreign nation or the international organization that will use the end product. 
 
-(2) If the Department of Defense endorses the request, it will be forwarded to the Department of Commerce for appropriate action.
+(2) If the Department of Defense endorses the request, it will be forwarded to the Department of Commerce for appropriate action. 
 
 (c) *Requesting assistance in foreign nations that are signatories to bilateral security of supply arrangements.* (1) The Department of Defense has entered into bilateral security of supply arrangements with several foreign nations that allow the Department of Defense to request the priority delivery for Department of Defense contracts, subcontracts, and orders from companies in these countries. These countries include Australia, Denmark, Estonia, Finland, Israel, Italy, Japan, Latvia, Lithuania, The Netherlands, Norway, Republic of Korea, Singapore, Spain, Sweden, and the United Kingdom. The most current security of supply arrangement information, including an up-to-date list of countries, may be found on the following website: *https://www.businessdefense.gov/security-of-supply.html.*
 
-(2) Any person in the United States requiring assistance in obtaining the priority delivery of a contract, subcontract, or order in foreign nations that are signatories to bilateral security of supply arrangements with the Department of Defense should contact the Department of Defense DPA Title I Lead in the Office of the Assistant Secretary of Defense for Industrial Base Policy for assistance.
+(2) Any person in the United States requiring assistance in obtaining the priority delivery of a contract, subcontract, or order in foreign nations that are signatories to bilateral security of supply arrangements with the Department of Defense should contact the Department of Defense DPA Title I Lead in the Office of the Assistant Secretary of Defense for Industrial Base Policy for assistance. 
 
-(3) Persons in foreign nations that are signatories to bilateral security of supply arrangements with the Department of Defense should request assistance in accordance with paragraph (b)(1) of this section.
+(3) Persons in foreign nations that are signatories to bilateral security of supply arrangements with the Department of Defense should request assistance in accordance with paragraph (b)(1) of this section. 
 
 \[79 FR 47568, Aug. 14, 2014, as amended at 80 FR 50762, Aug. 21, 2015; 89 FR 58975, July 22, 2024\]

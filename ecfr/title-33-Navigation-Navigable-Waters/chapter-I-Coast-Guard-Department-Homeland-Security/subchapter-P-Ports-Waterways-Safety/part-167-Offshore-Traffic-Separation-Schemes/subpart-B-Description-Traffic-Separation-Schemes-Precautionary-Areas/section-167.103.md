@@ -1,13 +1,13 @@
 ##### § 167.103 In the approaches to Narragansett Bay, RI, and Buzzards Bay, MA: Buzzards Bay approach.
 
-(a) A separation zone 1 mile wide is established and is centered upon the following geographical positions:
+(a) A separation zone 1 mile wide is established and is centered upon the following geographical positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
 | 41°10.20′ N | 71°19.10′ W. |
 | 41°21.80′ N | 71°07.10′ W. |
 
-(b) A traffic lane 1 mile wide is established on each side of the separation zone.
+(b) A traffic lane 1 mile wide is established on each side of the separation zone. 
 
 Note to § 167.103:
 

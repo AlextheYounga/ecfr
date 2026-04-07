@@ -1,6 +1,6 @@
 ##### § 162.165 Buffalo and Rochester Harbors, New York.
 
-In Buffalo and Rochester Harbors, no vessel may exceed 6 miles per hour, except in the outer harbors where no vessel may exceed 10 miles per hour.
+In Buffalo and Rochester Harbors, no vessel may exceed 6 miles per hour, except in the outer harbors where no vessel may exceed 10 miles per hour. 
 
 Note:
 

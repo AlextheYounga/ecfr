@@ -1,10 +1,10 @@
 ##### § 179.39 Ultraviolet radiation for the processing and treatment of food.
 
-Ultraviolet radiation for the processing and treatment of food may be safely used under the following conditions:
+Ultraviolet radiation for the processing and treatment of food may be safely used under the following conditions: 
 
-(a) The radiation sources consist of low pressure mercury lamps emitting 90 percent of the emission at a wavelength of 253.7 nanometers (2,537 Angstroms).
+(a) The radiation sources consist of low pressure mercury lamps emitting 90 percent of the emission at a wavelength of 253.7 nanometers (2,537 Angstroms). 
 
-(b) The ultraviolet radiation is used or intended for use as follows:
+(b) The ultraviolet radiation is used or intended for use as follows: 
 
 | Irradiated food        | Limitations                                                                                                                                                                                        | Use                                                    |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |

@@ -1,6 +1,6 @@
 ##### § 2006.3 Determinations regarding petitions.
 
-Within 45 days after the day on which the petition is received, the Trade Representative shall determine, after receiving the advice of the Section 301 Committee, whether to initiate an investigation.
+Within 45 days after the day on which the petition is received, the Trade Representative shall determine, after receiving the advice of the Section 301 Committee, whether to initiate an investigation. 
 
 (a) If the Trade Representative determines not to initiate an investigation, the Section 301 Chairman shall notify the petitioner of the reasons and shall publish notice of the negative determination and a summary of the reasons therefor in the Federal Register.
 

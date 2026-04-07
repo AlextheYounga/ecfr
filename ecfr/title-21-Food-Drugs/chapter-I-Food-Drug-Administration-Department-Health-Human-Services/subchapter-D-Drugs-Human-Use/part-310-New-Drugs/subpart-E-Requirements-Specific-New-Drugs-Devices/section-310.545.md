@@ -1,6 +1,6 @@
 ##### § 310.545 Drug products containing certain active ingredients offered over-the-counter (OTC) for certain uses.
 
-(a) A number of active ingredients have been present in OTC drug products for various uses, as described below. However, based on evidence currently available, there are inadequate data to establish general recognition of the safety and effectiveness of these ingredients for the specified uses:
+(a) A number of active ingredients have been present in OTC drug products for various uses, as described below. However, based on evidence currently available, there are inadequate data to establish general recognition of the safety and effectiveness of these ingredients for the specified uses: 
 
 (1) *Topical acne drug products.*
 
@@ -34,7 +34,7 @@ Alum, potassium Aluminum bromohydrate Aluminum chloride (alcoholic solutions) Al
 
 Aluminum sulfate buffered with sodium aluminum lactate
 
-(5) \[Reserved\]
+(5) \[Reserved\] 
 
 (6) *Cold, cough, allergy, bronchodilator, and antiasthmatic drug products*—(i) *Antihistamine drug products*—(A) *Ingredients.*
 
@@ -52,7 +52,7 @@ Allyl isothiocyanate Camphor (lozenge) Creosote, beechwood (oral) Eucalyptol (lo
 
 Bornyl acetate (topical) Cedar leaf oil (topical) Creosote, beechwood (topical) Ephedrine (oral) Ephedrine hydrochloride (oral) Ephedrine sulfate (oral) Racephedrine hydrochloride (oral/topical)
 
-(C) Approved as of April 11, 2007; October 11, 2007, for products with annual sales less than $25,000. Any ingredient(s) labeled with claims or directions for use for sinusitis or for relief of nasal congestion associated with sinusitis.
+(C) Approved as of April 11, 2007; October 11, 2007, for products with annual sales less than $25,000. Any ingredient(s) labeled with claims or directions for use for sinusitis or for relief of nasal congestion associated with sinusitis. 
 
 (iii) *Expectorant drug products.*
 
@@ -62,11 +62,11 @@ Ammonium chloride Antimony potassium tartrate Beechwood creosote Benzoin prepara
 
 Aminophylline Belladonna alkaloids Euphorbia pilulifera Metaproterenol sulfate Methoxyphenamine hydrochloride Pseudoephedrine hydrochloride Pseudoephedrine sulfate Theophylline, anhydrous Theophylline calcium salicylate Theophylline sodium glycinate
 
-(B) Approved as of January 29, 1996. Any combination drug product containing theophylline (e.g., theophylline and ephedrine, or theophylline and ephedrine and phenobarbital).
+(B) Approved as of January 29, 1996. Any combination drug product containing theophylline (e.g., theophylline and ephedrine, or theophylline and ephedrine and phenobarbital). 
 
-(C) Approved as of June 19, 1996. Any ingredient(s) in a pressurized metered-dose inhaler container.
+(C) Approved as of June 19, 1996. Any ingredient(s) in a pressurized metered-dose inhaler container. 
 
-(D) Approved as of October 29, 2001. Any oral bronchodilator active ingredient (e.g., ephedrine, ephedrine hydrochloride, ephedrine sulfate, racephedrine hydrochloride, or any other ephedrine salt) in combination with any analgesic(s) or analgesic-antipyretic(s), anticholinergic, antihistamine, oral antitussive, or stimulant active ingredient.
+(D) Approved as of October 29, 2001. Any oral bronchodilator active ingredient (e.g., ephedrine, ephedrine hydrochloride, ephedrine sulfate, racephedrine hydrochloride, or any other ephedrine salt) in combination with any analgesic(s) or analgesic-antipyretic(s), anticholinergic, antihistamine, oral antitussive, or stimulant active ingredient. 
 
 (7) *Dandruff/seborrheic dermatitis/psoriasis drug products.*
 
@@ -80,9 +80,9 @@ Bismuth sodium tartrate Calcium carbonate Cellulase Dehydrocholic acid Dihydroxy
 
 Alcohol Aluminum hydroxide Amylase Anise seed Aromatic powder Asafetida Aspergillus oryza enzymes (except lactase enzyme derived from *Aspergillus oryzae*) Bacillus acidophilus Bean Belladonna alkaloids Belladonna leaves, powdered extract Betaine hydrochloride Bismuth subcarbonate Bismuth subgallate Black radish powder Blessed thistle (cnicus benedictus) Buckthorn Calcium gluconate Capsicum Capsicum, fluid extract of Carbon Cascara sagrada extract Catechu, tincture Catnip Chamomile flowers Charcoal, wood Chloroform Cinnamon oil Cinnamon tincture Citrus pectin Diastase Diastase malt Dog grass Elecampane Ether Fennel acid Galega Ginger Glycine Hydrastis canadensis (golden seal) Hectorite Horsetail Huckleberry Hydrastis fluid extract Hydrochloric acid Iodine Iron ox bile Johnswort Juniper Kaolin, colloidal Knotgrass Lactic acid Lactose Lavender compound, tincture of Linden Lipase Lysine hydrochloride Mannitol Mycozyme Myrrh, fluid extract of Nettle Nickel-pectin Nux vomica extract Orthophosphoric acid Papaya, natural Pectin Peppermint Peppermint spirit Phenacetin Potassium bicarbonate Potassium carbonate Protease Prolase Rhubarb fluid extract Senna Sodium chloride Sodium salicylate Stem bromelain Strawberry Strychnine Tannic acid Trillium Woodruff
 
-(iii) Charcoal, activated
+(iii) Charcoal, activated 
 
-(9) \[Reserved\]
+(9) \[Reserved\] 
 
 (10) *External analgesic drug products*—(i) *Analgesic and anesthetic drug products.*
 
@@ -96,7 +96,7 @@ Chloral hydrate Eucalyptus oil
 
 Benzyl alcohol Camphorated metacresol Ephedrine hydrochloride
 
-(iv) *Diaper rash drug products.* Any ingredient(s) labeled with claims or directions for use in the treatment and/or prevention of diaper rash.
+(iv) *Diaper rash drug products.* Any ingredient(s) labeled with claims or directions for use in the treatment and/or prevention of diaper rash. 
 
 (v) *Fever blister and cold sore treatment drug products.*
 
@@ -110,13 +110,13 @@ Alcohol Alcohol, ethoxylated alkyl Benzalkonium chloride Calamine Ergot fluidext
 
 Alcohol Aspirin Benzethonium chloride Benzocaine (0.5 to 1.25 percent) Bithionol Calamine Cetalkonium chloride Chloral hydrate Chlorobutanol Chlorpheniramine maleate Creosote, beechwood Cyclomethycaine sulfate Dexpanthenol Diperodon hydrochloride Eucalyptus oil Eugenol Glycerin Glycol salicylate Hectorite Hexylresorcinol Hydrogen peroxide Impatiens biflora tincture Iron oxide Isopropyl alcohol Lanolin Lead acetate Merbromin Mercuric chloride Methapyrilene hydrochloride Panthenol Parethoxycaine hydrochloride Phenyltoloxamine dihydrogen citrate Povidone-vinylacetate copolymers Pyrilamine maleate Salicylamide Salicylic acid Simethicone Sulfur Tannic acid Thymol Trolamine salicylate Turpentine oil Zirconium oxide Zyloxin
 
-(11) \[Reserved\]
+(11) \[Reserved\] 
 
 (12) *Laxative drug products*—(i)(A) *Bulk laxatives.*
 
 Agar Carrageenan (degraded) Carrageenan (native) Guar gun
 
-(i)(B) *Bulk laxatives*—*Approved as of* March 29, 2007.
+(i)(B) *Bulk laxatives*—*Approved as of* March 29, 2007. 
 
 Granular dosage forms containing psyllium (hemicellulose), psyllium hydrophilic mucilloid, psyllium seed, psyllium seed (blond), psyllium seed husks, plantago husks, or plantago seed including, but not limited to, any granules that are: (*1*) Swallowed dry prior to drinking liquid, (*2*) Dispersed, suspended, or partially dissolved in liquid prior to swallowing, (*3*) Chewed, partially chewed, or unchewed, and then washed down (or swallowed) with liquid, or (*4*) Sprinkled over food.
 
@@ -136,11 +136,11 @@ Aloin Bile salts/acids Calcium pantothenate Calomel Colocynth Elaterin resin Fra
 
 Danthron Phenolphthalein
 
-(C) *Stimulant laxatives*—*Approved as of* November 5, 2002.
+(C) *Stimulant laxatives*—*Approved as of* November 5, 2002. 
 
 Aloe ingredients (aloe, aloe extract, aloe flower extract) Cascara sagrada ingredients (casanthranol, cascara fluidextract aromatic, cascara sagrada bark, cascara sagrada extract, cascara sagrada fluidextract).
 
-(13) \[Reserved\]
+(13) \[Reserved\] 
 
 (14) *Oral health care drug products (nonantimicrobial).*
 
@@ -198,7 +198,7 @@ Alcohol Anion and cation exchange resins buffered Benzethonium chloride Benzocai
 
 Beeswax Bismuth subnitrate Boric acid Cetyl alcohol Glyceryl stearate Isopropyl palmitate Live yeast cell derivative Shark liver oil Stearyl alcohol
 
-(19) \[Reserved\]
+(19) \[Reserved\] 
 
 (20) *Weight control drug products.*
 
@@ -224,13 +224,13 @@ Polyethylene glycol 6000
 
 Phenylephrine hydrochloride (less than 0.08 percent)
 
-(22) *Topical antifungal drug products.* (i) *Diaper rash drug products.* Any ingredient(s) labeled with claims or directions for use in the treatment and/or prevention of diaper rash.
+(22) *Topical antifungal drug products.* (i) *Diaper rash drug products.* Any ingredient(s) labeled with claims or directions for use in the treatment and/or prevention of diaper rash. 
 
 (ii) *Ingredients.*
 
 Alcloxa Alum, potassium Aluminum sulfate Amyltricresols, secondary Basic fuchsin Benzethonium chloride Benzoic acid Benzoxiquine Boric acid Camphor Candicidin Chlorothymol Coal tar Dichlorophen Menthol Methylparaben Oxyquinoline Oxyquinoline sulfate Phenol Phenolate sodium Phenyl salicylate Propionic acid Propylparaben Resorcinol Salicylic acid Sodium borate Sodium caprylate Sodium propionate Sulfur Tannic acid Thymol Tolindate Triacetin Zinc caprylate Zinc propionate
 
-(iii) Any ingredient(s) labeled with claims or directions for use on the scalp or on the nails.
+(iii) Any ingredient(s) labeled with claims or directions for use on the scalp or on the nails. 
 
 (iv) *Ingredients.*
 
@@ -240,7 +240,7 @@ Camphorated metacresol Chloroxylenol *m*-cresol Nystatin
 
 Aminobenzoic acid Antipyrine Aspirin, aluminum Calcium salicylate Codeine Codeine phosphate Codeine sulfate Iodoantipyrine Lysine aspirin Methapyrilene fumarate Phenacetin Pheniramine maleate Pyrilamine maleate Quinine Salsalate Sodium aminobenzoate
 
-(ii) *Approved as of* February 22, 1999.
+(ii) *Approved as of* February 22, 1999. 
 
 Any atropine ingredient Any ephedrine ingredient
 
@@ -248,7 +248,7 @@ Any atropine ingredient Any ephedrine ingredient
 
 Alcohol Alfalfa leaves Aloes Asclepias tuberosa Asparagus Barosma Bearberry (extract of uva ursi) Bearberry fluidextract (extract of bearberry) Blessed thistle (cnicus benedictus) Buchu powdered extract (extract of buchu) Calcium lactate Calcium pantothenate Capsicum oleoresin Cascara fluidextract, aromatic (extract of cascara) Chlorprophenpyridamine maleate Cimicifuga racemosa Codeine Collinsonia (extract stone root) Corn silk Couch grass Dog grass extract Ethyl nitrite Ferric chloride Ferrous sulfate Gentiana lutea (gentian) Glycyrrhiza (licorice) Homatropine methylbromide Hydrangea, powdered extract (extract of hydrangea) Hydrastis canadensis (golden seal) Hyoscyamine sulfate Juniper oil (oil of juniper) Magnesium sulfate Methapyrilene hydrochloride Methenamine Methylene blue Natural estrogenic hormone Niacinamide Nutmeg oil (oil of nutmeg) Oil of erigeron Parsley Peppermint spirit Pepsin, essence Phenacetin Phenindamine tartrate Phenyl salicylate Piscidia erythrina Pipsissewa Potassium acetate Potassium nitrate Riboflavin Saw palmetto Senecio aureus Sodium benzoate Sodium nitrate Sucrose Sulferated oils of turpentine Taraxacum officinale Theobromine sodium salicylate Theophylline Thiamine hydrochloride Triticum Turpentine, venice (venice turpertine) Urea
 
-(ii) *Approved as of* February 22, 1999.
+(ii) *Approved as of* February 22, 1999. 
 
 Any atropine ingredient Any ephedrine ingredient
 
@@ -256,7 +256,7 @@ Any atropine ingredient Any ephedrine ingredient
 
 Benzocaine Benzyl alcohol Benzyl benzoate Chlorophenothane (dichlorodiphenyl trichloroethane) Coconut oil soap, aqueous Copper oleate Docusate sodium Formic acid Isobornyl thiocyanoacetate Picrotoxin Propylene glycol Sabadilla alkaloids Sulfur, sublimed Thiocyanoacetate
 
-(ii) *Approved as of June 14, 1994.* The combination of pyrethrum extract (formerly named pyrethrins) and piperonyl butoxide in an aerosol dosage formulation.
+(ii) *Approved as of June 14, 1994.* The combination of pyrethrum extract (formerly named pyrethrins) and piperonyl butoxide in an aerosol dosage formulation. 
 
 (26) *Anorectal drug products*—(i) *Anticholinergic drug products.*
 
@@ -298,7 +298,7 @@ Epinephrine undecylenate
 
 Cholecalciferol Cod liver oil Live yeast cell derivative Peruvian balsam Shark liver oil Vitamin A
 
-(xi) *Combination drug products.* Any combination drug product containing hydrocortisone and pramoxine hydrochloride.
+(xi) *Combination drug products.* Any combination drug product containing hydrocortisone and pramoxine hydrochloride. 
 
 (27) *Topical antimicrobial drug products*—(i) *First aid antiseptic drug products.*
 
@@ -308,29 +308,29 @@ Ammoniated mercury Calomel (mercurous chloride) Merbromin (mercurochrome) Mercuf
 
 Para-chloromercuriphenol Any other ingredient containing mercury
 
-(iii) *Consumer antiseptic hand wash drug products.* Approved as of September 6, 2017.
+(iii) *Consumer antiseptic hand wash drug products.* Approved as of September 6, 2017. 
 
 Cloflucarban Fluorosalan Hexachlorophene Hexylresorcinol Iodine complex (ammonium ether sulfate and polyoxyethylene sorbitan monolaurate) Iodine complex (phosphate ester of alkylaryloxy polyethylene glycol) Methylbenzethonium chloride Nonylphenoxypoly (ethyleneoxy) ethanoliodine Phenol (greater than 1.5 percent) Phenol (less than 1.5 percent) Poloxamer iodine complex Povidone-iodine (5 to 10 percent) Secondary amyltricresols Sodium oxychlorosene Tribromsalan Triclocarban Triclosan Triple Dye Undecoylium chloride iodine complex
 
-(iv) *Consumer antiseptic body wash drug products.* Approved as of September 6, 2017.
+(iv) *Consumer antiseptic body wash drug products.* Approved as of September 6, 2017. 
 
 Cloflucarban Fluorosalan Hexachlorophene Hexylresorcinol Iodine complex (phosphate ester of alkylaryloxy polyethylene glycol) Iodine tincture Methylbenzethonium chloride Nonylphenoxypoly (ethyleneoxy) ethanoliodine Phenol (greater than 1.5 percent) Phenol (less than 1.5 percent) Poloxamer iodine complex Povidone-iodine (5 to 10 percent) Secondary amyltricresols Sodium oxychlorosene Tribromsalan Triclocarban Triclosan Triple Dye Undecoylium chloride iodine complex
 
-(v) \[Reserved\]
+(v) \[Reserved\] 
 
-(vi) *Health care personnel hand wash drug products.* Approved as of December 20, 2018.
-
-Cloflucarban Fluorosalan Hexachlorophene Hexylresorcinol Iodine complex (ammonium ether sulfate and polyoxyethylene sorbitan monolaurate) Iodine complex (phosphate ester of alkylaryloxy polyethylene glycol) Methylbenzethonium chloride Nonylphenoxypoly (ethyleneoxy) ethanoliodine Phenol Poloxamer-iodine complex Secondary amyltricresols Sodium oxychlorosene Tribromsalan Triclocarban Triclosan Undecoylium chloride iodine complex
-
-(vii) \[Reserved\]
-
-(viii) *Surgical hand scrub drug products.* Approved as of December 20, 2018.
+(vi) *Health care personnel hand wash drug products.* Approved as of December 20, 2018. 
 
 Cloflucarban Fluorosalan Hexachlorophene Hexylresorcinol Iodine complex (ammonium ether sulfate and polyoxyethylene sorbitan monolaurate) Iodine complex (phosphate ester of alkylaryloxy polyethylene glycol) Methylbenzethonium chloride Nonylphenoxypoly (ethyleneoxy) ethanoliodine Phenol Poloxamer-iodine complex Secondary amyltricresols Sodium oxychlorosene Tribromsalan Triclocarban Triclosan Undecoylium chloride iodine complex
 
-(ix) \[Reserved\]
+(vii) \[Reserved\] 
 
-(x) *Patient antiseptic skin preparation drug products.* Approved as of December 20, 2018.
+(viii) *Surgical hand scrub drug products.* Approved as of December 20, 2018. 
+
+Cloflucarban Fluorosalan Hexachlorophene Hexylresorcinol Iodine complex (ammonium ether sulfate and polyoxyethylene sorbitan monolaurate) Iodine complex (phosphate ester of alkylaryloxy polyethylene glycol) Methylbenzethonium chloride Nonylphenoxypoly (ethyleneoxy) ethanoliodine Phenol Poloxamer-iodine complex Secondary amyltricresols Sodium oxychlorosene Tribromsalan Triclocarban Triclosan Undecoylium chloride iodine complex
+
+(ix) \[Reserved\] 
+
+(x) *Patient antiseptic skin preparation drug products.* Approved as of December 20, 2018. 
 
 Cloflucarban Fluorosalan Hexachlorophene Hexylresorcinol Iodine complex (phosphate ester of alkylaryloxy polyethylene glycol) Iodine tincture (USP) Iodine topical solution (USP) Mercufenol chloride Methylbenzethonium chloride Nonylphenoxypoly (ethyleneoxy) ethanoliodine Phenol Poloxamer-iodine complex Secondary amyltricresols Sodium oxychlorosene Tribromsalan Triclocarban Triclosan Triple dye Undecoylium chloride iodine complex Combination of calomel, oxyquinoline benzoate, triethanolamine, and phenol derivative Combination of mercufenol chloride and secondary amyltricresols in 50 percent alcohol
 
@@ -346,100 +346,100 @@ Octoxynol 9
 
 Diethanolamine methoxycinnamate Digalloyl trioleate Ethyl 4-\[bis(hydroxypropyl)\] aminobenzoate Glyceryl aminobenzoate Lawsone with dihydroxyacetone Red petrolatum
 
-(ii) Any ingredients labeled with any of the following or similar claims. Instant protection or protection immediately upon application.
+(ii) Any ingredients labeled with any of the following or similar claims. Instant protection or protection immediately upon application. 
 
-Claims for “all-day” protection or extended wear claims citing a specific number of hours of protection that is inconsistent with the directions for application in 21 CFR 201.327.
+Claims for “all-day” protection or extended wear claims citing a specific number of hours of protection that is inconsistent with the directions for application in 21 CFR 201.327. 
 
-(30) \[Reserved\]
+(30) \[Reserved\] 
 
-(b) Any OTC drug product that is labeled, represented, or promoted for the uses specified and containing any active ingredient(s) as specified in paragraph (a) of this section is regarded as a new drug within the meaning of section 210(p) of the Federal Food, Drug, and Cosmetic Act (the Act), for which an approved new drug application under section 505 of the Act and part 314 of this chapter is required for marketing. In the absence of an approved new drug application, such product is also misbranded under section 502 of the Act.
+(b) Any OTC drug product that is labeled, represented, or promoted for the uses specified and containing any active ingredient(s) as specified in paragraph (a) of this section is regarded as a new drug within the meaning of section 210(p) of the Federal Food, Drug, and Cosmetic Act (the Act), for which an approved new drug application under section 505 of the Act and part 314 of this chapter is required for marketing. In the absence of an approved new drug application, such product is also misbranded under section 502 of the Act. 
 
-(c) Clinical investigations designed to obtain evidence that any drug product labeled, represented, or promoted for the OTC uses and containing any active ingredient(s) as specified in paragraph (a) of this section is safe and effective for the purpose intended must comply with the requirements and procedures governing the use of investigational new drugs set forth in part 312 of this chapter.
+(c) Clinical investigations designed to obtain evidence that any drug product labeled, represented, or promoted for the OTC uses and containing any active ingredient(s) as specified in paragraph (a) of this section is safe and effective for the purpose intended must comply with the requirements and procedures governing the use of investigational new drugs set forth in part 312 of this chapter. 
 
-(d) Any OTC drug product that is not in compliance with this section is subject to regulatory action if initially introduced or initially delivered for introduction into interstate commerce after the dates specified in paragraphs (d)(1) through (d)(42) of this section.
+(d) Any OTC drug product that is not in compliance with this section is subject to regulatory action if initially introduced or initially delivered for introduction into interstate commerce after the dates specified in paragraphs (d)(1) through (d)(42) of this section. 
 
-(1) May 7, 1991, for products subject to paragraphs (a)(1) through (a)(2)(i), (a)(3)(i), (a)(4)(i), (a)(6)(i)(A), (a)(6)(ii)(A), (a)(7) (except as covered by paragraph (d)(3) of this section), (a)(8)(i), (a)(10)(i) through (a)(10)(iii), (a)(12)(i)(A), (a)(12)(ii) through (a)(12)(iv)(A), (a)(14) through (a)(15)(i), (a)(16) through (a)(18)(i)(A), (a)(18)(ii) (except as covered by paragraph (d)(22) of this section), (a)(18)(iii), (a)(18)(iv), (a)(18)(v)(A), and (a)(18)(vi)(A) of this section.
+(1) May 7, 1991, for products subject to paragraphs (a)(1) through (a)(2)(i), (a)(3)(i), (a)(4)(i), (a)(6)(i)(A), (a)(6)(ii)(A), (a)(7) (except as covered by paragraph (d)(3) of this section), (a)(8)(i), (a)(10)(i) through (a)(10)(iii), (a)(12)(i)(A), (a)(12)(ii) through (a)(12)(iv)(A), (a)(14) through (a)(15)(i), (a)(16) through (a)(18)(i)(A), (a)(18)(ii) (except as covered by paragraph (d)(22) of this section), (a)(18)(iii), (a)(18)(iv), (a)(18)(v)(A), and (a)(18)(vi)(A) of this section. 
 
-(2) February 10, 1992, for products subject to paragraph (a)(20) of this section.
+(2) February 10, 1992, for products subject to paragraph (a)(20) of this section. 
 
-(3) December 4, 1992, for products subject to paragraph (a)(7) of this section that contain menthol as an antipruritic in combination with the antidandruff ingredient coal tar identified in § 358.710(a)(1) of this chapter. This section does not apply to products allowed by § 358.720(b) of this chapter after April 5, 2007.
+(3) December 4, 1992, for products subject to paragraph (a)(7) of this section that contain menthol as an antipruritic in combination with the antidandruff ingredient coal tar identified in § 358.710(a)(1) of this chapter. This section does not apply to products allowed by § 358.720(b) of this chapter after April 5, 2007. 
 
-(4) February 28, 1990, for products subject to paragraph (a)(6)(iii) of this section, except those that contain ipecac.
+(4) February 28, 1990, for products subject to paragraph (a)(6)(iii) of this section, except those that contain ipecac. 
 
-(5) September 14, 1993, for products subject to paragraph (a)(6)(iii) of this section that contain ipecac.
+(5) September 14, 1993, for products subject to paragraph (a)(6)(iii) of this section that contain ipecac. 
 
-(6) December 9, 1993, for products subject to paragraph (a)(6)(i)(B) of this section.
+(6) December 9, 1993, for products subject to paragraph (a)(6)(i)(B) of this section. 
 
-(7) March 6, 1989, for products subject to paragraph (a)(21) of this section, except those that contain ophthalmic anti-infective ingredients listed in paragraph (a)(21)(ii).
+(7) March 6, 1989, for products subject to paragraph (a)(21) of this section, except those that contain ophthalmic anti-infective ingredients listed in paragraph (a)(21)(ii). 
 
-(8) June 18, 1993, for products subject to paragraph (a)(21) of this section that contain ophthalmic anti-infective ingredients.
+(8) June 18, 1993, for products subject to paragraph (a)(21) of this section that contain ophthalmic anti-infective ingredients. 
 
-(9) June 18, 1993, for products subject to paragraph (a)(10)(iv) of this section.
+(9) June 18, 1993, for products subject to paragraph (a)(10)(iv) of this section. 
 
-(10) June 18, 1993, for products subject to paragraph (a)(22)(i) of this section.
+(10) June 18, 1993, for products subject to paragraph (a)(22)(i) of this section. 
 
-(11) November 10, 1993, for products subject to paragraphs (a)(8)(ii), (a)(10)(v) through (a)(10)(vii), (a)(18)(ii) (except products that contain ferric subsulfate as covered by paragraph (d)(22) of this section and except products that contain calcium acetate monohydrate as covered by paragraph (d)(39) of this section) through (a)(18)(v)(A), (a)(18)(vi)(A), (a)(22)(ii), (a)(23)(i), (a)(24)(i), and (a)(25) of this section.
+(11) November 10, 1993, for products subject to paragraphs (a)(8)(ii), (a)(10)(v) through (a)(10)(vii), (a)(18)(ii) (except products that contain ferric subsulfate as covered by paragraph (d)(22) of this section and except products that contain calcium acetate monohydrate as covered by paragraph (d)(39) of this section) through (a)(18)(v)(A), (a)(18)(vi)(A), (a)(22)(ii), (a)(23)(i), (a)(24)(i), and (a)(25) of this section. 
 
-(12) March 2, 1994, for products subject to paragraph (a)(22)(iii) of this section.
+(12) March 2, 1994, for products subject to paragraph (a)(22)(iii) of this section. 
 
-(13) August 5, 1991, for products subject to paragraph (a)(26) of this section, except for those that contain live yeast cell derivative and a combination of hydrocortisone and pramoxine hydrochloride.
+(13) August 5, 1991, for products subject to paragraph (a)(26) of this section, except for those that contain live yeast cell derivative and a combination of hydrocortisone and pramoxine hydrochloride. 
 
-(14) September 2, 1994, for products subject to paragraph (a)(26)(vii) and (a)(26)(x) of this section that contain live yeast cell derivative.
+(14) September 2, 1994, for products subject to paragraph (a)(26)(vii) and (a)(26)(x) of this section that contain live yeast cell derivative. 
 
-(15) September 23, 1994, for products subject to paragraph (a)(22)(iv) of this section.
+(15) September 23, 1994, for products subject to paragraph (a)(22)(iv) of this section. 
 
-(16) June 14, 1994, for products subject to paragraph (a)(25)(ii) of this section.
+(16) June 14, 1994, for products subject to paragraph (a)(25)(ii) of this section. 
 
-(17) April 19, 2004, for products subject to paragraph (a)(3)(ii) of this section. April 18, 2005, for products with annual sales less than $25,000.
+(17) April 19, 2004, for products subject to paragraph (a)(3)(ii) of this section. April 18, 2005, for products with annual sales less than $25,000. 
 
-(18) August 15, 1995, for products subject to paragraph (a)(15)(ii) of this section.
+(18) August 15, 1995, for products subject to paragraph (a)(15)(ii) of this section. 
 
-(19) October 2, 1987, for products subject to paragraph (a)(6)(iv)(A) of this section.
+(19) October 2, 1987, for products subject to paragraph (a)(6)(iv)(A) of this section. 
 
-(20) January 29, 1996, for products subject to paragraph (a)(6)(iv)(B) of this section.
+(20) January 29, 1996, for products subject to paragraph (a)(6)(iv)(B) of this section. 
 
-(21) April 21, 1994, for products subject to paragraph (a)(8)(iii) of this section.
+(21) April 21, 1994, for products subject to paragraph (a)(8)(iii) of this section. 
 
-(22) April 21, 1993, for products subject to paragraph (a)(18)(ii) of this section that contain ferric subsulfate.
+(22) April 21, 1993, for products subject to paragraph (a)(18)(ii) of this section that contain ferric subsulfate. 
 
-(23) August 23, 1995, for products subject to paragraph (a)(6)(ii)(B) of this section.
+(23) August 23, 1995, for products subject to paragraph (a)(6)(ii)(B) of this section. 
 
-(24) October 7, 1996, for products subject to paragraph (a)(2)(ii) of this section.
+(24) October 7, 1996, for products subject to paragraph (a)(2)(ii) of this section. 
 
-(25) June 19, 1996, for products subject to paragraph (a)(6)(iv)(C) of this section.
+(25) June 19, 1996, for products subject to paragraph (a)(6)(iv)(C) of this section. 
 
-(26) February 22, 1999, for products subject to paragraphs (a)(23)(ii) and (a)(24)(ii) of this section.
+(26) February 22, 1999, for products subject to paragraphs (a)(23)(ii) and (a)(24)(ii) of this section. 
 
-(27) \[Reserved\]
+(27) \[Reserved\] 
 
-(28) October 22, 1998, for products subject to paragraphs (a)(27) and (a)(28)(i) of this section.
+(28) October 22, 1998, for products subject to paragraphs (a)(27) and (a)(28)(i) of this section. 
 
-(29) January 29, 1999, for products subject to paragraph (a)(12)(iv)(B) of this section.
+(29) January 29, 1999, for products subject to paragraph (a)(12)(iv)(B) of this section. 
 
-(30) November 5, 2002, for products subject to paragraph (a)(12)(iv)(C) of this section.
+(30) November 5, 2002, for products subject to paragraph (a)(12)(iv)(C) of this section. 
 
-(31) December 31, 2002, for products subject to paragraph (a)(29)(i) of this section.
+(31) December 31, 2002, for products subject to paragraph (a)(29)(i) of this section. 
 
-(32) June 4, 2004, for products subject to paragraphs (a)(18)(i)(B), (a)(18)(v)(B), and (a)(18)(vi)(B) of this section. June 6, 2005, for products with annual sales less than $25,000.
+(32) June 4, 2004, for products subject to paragraphs (a)(18)(i)(B), (a)(18)(v)(B), and (a)(18)(vi)(B) of this section. June 6, 2005, for products with annual sales less than $25,000. 
 
-(33) October 29, 2001, for products subject to paragraph (a)(6)(iv)(D) of this section.
+(33) October 29, 2001, for products subject to paragraph (a)(6)(iv)(D) of this section. 
 
-(34) December 9, 2004, for products subject to paragraph (a)(4)(ii) of this section. June 9, 2005, for products with annual sales less than $25,000.
+(34) December 9, 2004, for products subject to paragraph (a)(4)(ii) of this section. June 9, 2005, for products with annual sales less than $25,000. 
 
-(35) \[Reserved\]
+(35) \[Reserved\] 
 
-(36) November 5, 2002, for products subject to paragraph (a)(28)(ii) of this section.
+(36) November 5, 2002, for products subject to paragraph (a)(28)(ii) of this section. 
 
-(37) September 25, 2003, for products subject to paragraph (a)(26)(xi) of this section.
+(37) September 25, 2003, for products subject to paragraph (a)(26)(xi) of this section. 
 
-(38) October 1, 2007, for products subject to paragraph (a)(12)(i)(B) of this section.
+(38) October 1, 2007, for products subject to paragraph (a)(12)(i)(B) of this section. 
 
-(39) September 6, 2010, for products subject to paragraph (a)(18)(ii) of this section that contain calcium acetate monohydrate, except as provided in § 347.20(b) of this chapter.
+(39) September 6, 2010, for products subject to paragraph (a)(18)(ii) of this section that contain calcium acetate monohydrate, except as provided in § 347.20(b) of this chapter. 
 
-(40) December 17, 2012, for products subject to paragraph (a)(29)(ii) of this section. December 17, 2013, for products with annual sales less than $25,000.
+(40) December 17, 2012, for products subject to paragraph (a)(29)(ii) of this section. December 17, 2013, for products with annual sales less than $25,000. 
 
-(41) September 6, 2017, for products subject to paragraph (a)(27)(iii) or (iv) of this section.
+(41) September 6, 2017, for products subject to paragraph (a)(27)(iii) or (iv) of this section. 
 
-(42) December 20, 2018, for products subject to paragraphs (a)(27)(vi) through (x) of this section.
+(42) December 20, 2018, for products subject to paragraphs (a)(27)(vi) through (x) of this section. 
 
 \[55 FR 46919, Nov. 7, 1990\] Editorial Note:For Federal Register citations affecting § 310.545, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 61 FR 9571, Mar. 8, 1996, in § 310.545 in paragraph (a)(6)(ii)(B), the entry for “l-desoxyephedrine (topical)” was stayed until further notice.

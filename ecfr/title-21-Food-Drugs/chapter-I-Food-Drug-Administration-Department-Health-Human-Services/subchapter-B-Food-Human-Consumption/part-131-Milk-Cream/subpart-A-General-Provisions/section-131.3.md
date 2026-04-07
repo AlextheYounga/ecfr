@@ -1,8 +1,8 @@
 ##### § 131.3 Definitions.
 
-(a) *Cream* means the liquid milk product high in fat separated from milk, which may have been adjusted by adding thereto: Milk, concentrated milk, dry whole milk, skim milk, concentrated skim milk, or nonfat dry milk. Cream contains not less than 18 percent milkfat.
+(a) *Cream* means the liquid milk product high in fat separated from milk, which may have been adjusted by adding thereto: Milk, concentrated milk, dry whole milk, skim milk, concentrated skim milk, or nonfat dry milk. Cream contains not less than 18 percent milkfat. 
 
-(b) *Pasteurized* when used to describe a dairy product means that every particle of such product shall have been heated in properly operated equipment to one of the temperatures specified in the table of this paragraph and held continuously at or above that temperature for the specified time (or other time/temperature relationship which has been demonstrated to be equivalent thereto in microbial destruction):
+(b) *Pasteurized* when used to describe a dairy product means that every particle of such product shall have been heated in properly operated equipment to one of the temperatures specified in the table of this paragraph and held continuously at or above that temperature for the specified time (or other time/temperature relationship which has been demonstrated to be equivalent thereto in microbial destruction): 
 
 | Temperature                                                                                                                                                  | Time        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |

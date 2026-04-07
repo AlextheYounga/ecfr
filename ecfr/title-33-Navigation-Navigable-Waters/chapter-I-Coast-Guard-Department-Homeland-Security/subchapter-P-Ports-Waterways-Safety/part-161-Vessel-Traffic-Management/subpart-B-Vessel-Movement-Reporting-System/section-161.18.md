@@ -1,6 +1,6 @@
 ##### § 161.18 Reporting requirements.
 
-(a) A Center may: (1) Direct a vessel to provide any of the information set forth in Table 161.18(a) (IMO Standard Ship Reporting System);
+(a) A Center may: (1) Direct a vessel to provide any of the information set forth in Table 161.18(a) (IMO Standard Ship Reporting System); 
 
 Table 161.18(a)—The IMO Standard Ship Reporting System
 | A | ALPHA    | Ship                                             | Name, call sign or ship station identity, and flag.                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -28,24 +28,24 @@ Table 161.18(a)—The IMO Standard Ship Reporting System
 | W | WHISKEY  | Total number of persons on board                 | State number.                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | X | XRAY     | Miscellaneous                                    | Any other information as appropriate. \[i.e., a detailed description of a planned operation, which may include: its duration; effective area; any restrictions to navigation; notification procedures for approaching vessels; in addition, for a towing operation: configuration, length of the tow, available horsepower, etc.; for a dredge or floating plant: configuration of pipeline, mooring configuration, number of assist vessels, etc.\]. |
 
-(2) Establish other means of reporting for those vessels unable to report on the designated frequency; or
+(2) Establish other means of reporting for those vessels unable to report on the designated frequency; or 
 
-(3) Require reports from a vessel in sufficient time to allow advance vessel traffic planning.
+(3) Require reports from a vessel in sufficient time to allow advance vessel traffic planning. 
 
-(b) All reports required by this part shall be made as soon as is practicable on the frequency designated in Table 161.12(c) (VTS and VMRS Centers, Call Signs/MMSI, Designated Frequencies, and Monitoring Areas).
+(b) All reports required by this part shall be made as soon as is practicable on the frequency designated in Table 161.12(c) (VTS and VMRS Centers, Call Signs/MMSI, Designated Frequencies, and Monitoring Areas). 
 
-(c) When not exchanging communications, a VMRS User must maintain a listening watch as described in § 26.04(e) of this chapter on the frequency designated in Table 161.12(c) (VTS and VMRS Centers, Call Signs/MMSI, Designated Frequencies, and Monitoring Areas). In addition, the VMRS User must respond promptly when hailed and communicate in the English language.
+(c) When not exchanging communications, a VMRS User must maintain a listening watch as described in § 26.04(e) of this chapter on the frequency designated in Table 161.12(c) (VTS and VMRS Centers, Call Signs/MMSI, Designated Frequencies, and Monitoring Areas). In addition, the VMRS User must respond promptly when hailed and communicate in the English language. 
 
 Note:
 
 As stated in 47 CFR 80.148(b), a VHF watch on Channel 16 (156.800 MHz) is not required on vessels subject to the Vessel Bridge-to-Bridge Radiotelephone Act and participating in a Vessel Traffic Service (VTS) system when the watch is maintained on both the vessel bridge-to-bridge frequency and a designated VTS frequency.
 
-(d) A vessel must report:
+(d) A vessel must report: 
 
-(1) Any significant deviation from its Sailing Plan, as defined in § 161.19, or from previously reported information; or
+(1) Any significant deviation from its Sailing Plan, as defined in § 161.19, or from previously reported information; or 
 
-(2) Any intention to deviate from a VTS issued measure or vessel traffic routing system.
+(2) Any intention to deviate from a VTS issued measure or vessel traffic routing system. 
 
-(e) When reports required by this part include time information, such information shall be given using the local time zone in effect and the 24-hour military clock system.
+(e) When reports required by this part include time information, such information shall be given using the local time zone in effect and the 24-hour military clock system. 
 
 \[CGD 90-020, 59 FR 36324, July 15, 1994, as amended by USCG-2003-14757, 68 FR 39366, July 1, 2003; USCG-2015-0433, 80 FR 44282, July 27, 2015\]

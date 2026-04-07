@@ -1,6 +1,6 @@
 ##### § 582.50 Certain other spices, seasonings, essential oils, oleoresins, and natural extracts.
 
-Certain other spices, seasonings, essential oils, oleoresins, and natural extracts that are generally recognized as safe for their intended use, within the meaning of section 409 of the act, are as follows:
+Certain other spices, seasonings, essential oils, oleoresins, and natural extracts that are generally recognized as safe for their intended use, within the meaning of section 409 of the act, are as follows: 
 
 | Common name                    | Derivation                                                         |
 | ------------------------------ | ------------------------------------------------------------------ |

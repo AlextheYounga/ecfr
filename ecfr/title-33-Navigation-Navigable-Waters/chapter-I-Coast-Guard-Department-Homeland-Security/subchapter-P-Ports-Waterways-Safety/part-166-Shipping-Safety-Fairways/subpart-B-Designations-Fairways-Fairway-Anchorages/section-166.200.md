@@ -1,30 +1,30 @@
 ##### § 166.200 Shipping safety fairways and anchorage areas, Gulf of Mexico.
 
-(a) *Purpose.* Fairways and anchorage areas as described in this section are established to control the erection of structures therein to provide safe approaches through oil fields in the Gulf of Mexico to entrances to the major ports along the Gulf Coast.
+(a) *Purpose.* Fairways and anchorage areas as described in this section are established to control the erection of structures therein to provide safe approaches through oil fields in the Gulf of Mexico to entrances to the major ports along the Gulf Coast. 
 
-(b) *Special Conditions for Fairways in the Gulf of Mexico.* Temporary anchors and attendant cables or chains attached to floating or semisubmersible drilling rigs outside a fairway may be placed within a fairway described in this section for the Gulf of Mexico, provided the following conditions are met:
+(b) *Special Conditions for Fairways in the Gulf of Mexico.* Temporary anchors and attendant cables or chains attached to floating or semisubmersible drilling rigs outside a fairway may be placed within a fairway described in this section for the Gulf of Mexico, provided the following conditions are met: 
 
-(1) Anchors installed within fairways to stablize semisubmersible drilling rigs shall be allowed to remain 120 days. This period may be extended by the Army Corps of Engineers, as provided by § 209.135(b).
+(1) Anchors installed within fairways to stablize semisubmersible drilling rigs shall be allowed to remain 120 days. This period may be extended by the Army Corps of Engineers, as provided by § 209.135(b). 
 
-(2) Drilling rigs must be outside of any fairway boundary to whatever distance is necessary to ensure that the minimum depth of water over an anchor line within a fairway is 125 feet.
+(2) Drilling rigs must be outside of any fairway boundary to whatever distance is necessary to ensure that the minimum depth of water over an anchor line within a fairway is 125 feet. 
 
-(3) No anchor buoys or floats or related rigging will be allowed on the surface of the water or to a depth of at least 125 feet from the surface, within a fairway.
+(3) No anchor buoys or floats or related rigging will be allowed on the surface of the water or to a depth of at least 125 feet from the surface, within a fairway. 
 
-(4) Aids to Navigation or danger markings must be installed as required by 33 CFR Subchapter C.
+(4) Aids to Navigation or danger markings must be installed as required by 33 CFR Subchapter C. 
 
-(c) *Special Conditions for Fairway Anchorages in the Gulf of Mexico.* Structures may be placed within an area designated as a fairway anchorage, but the number of structures will be limited by spacing as follows:
+(c) *Special Conditions for Fairway Anchorages in the Gulf of Mexico.* Structures may be placed within an area designated as a fairway anchorage, but the number of structures will be limited by spacing as follows: 
 
-(1) The center of a structure to be erected shall not be less than two (2) nautical miles from the center of any existing structure.
+(1) The center of a structure to be erected shall not be less than two (2) nautical miles from the center of any existing structure. 
 
-(2) In a drilling or production complex, associated structures connected by walkways shall be considered one structure for purposes of spacing, and shall be as close together as practicable having due consideration for the safety factors involved.
+(2) In a drilling or production complex, associated structures connected by walkways shall be considered one structure for purposes of spacing, and shall be as close together as practicable having due consideration for the safety factors involved. 
 
-(3) A vessel fixed in place by moorings and used in conjunction with the associated structures of a drilling or production complex, shall be considered an attendant vessel and the extent of the complex shall include the vessel and its moorings.
+(3) A vessel fixed in place by moorings and used in conjunction with the associated structures of a drilling or production complex, shall be considered an attendant vessel and the extent of the complex shall include the vessel and its moorings. 
 
-(4) When a drilling or production complex extends more than five hundred (500) yards from the center, a new structure shall not be erected closer than two (2) nautical miles from the outer limit of the complex.
+(4) When a drilling or production complex extends more than five hundred (500) yards from the center, a new structure shall not be erected closer than two (2) nautical miles from the outer limit of the complex. 
 
-(5) An underwater completion installation in an anchorage area shall be considered a structure and shall be marked with a lighted buoy approved by the United States Coast Guard under § 66.01.
+(5) An underwater completion installation in an anchorage area shall be considered a structure and shall be marked with a lighted buoy approved by the United States Coast Guard under § 66.01. 
 
-(d) *Designated Areas*—(1) *Brazos Santiago Pass Safety Fairway.* The areas between rhumb lines joining points at:
+(d) *Designated Areas*—(1) *Brazos Santiago Pass Safety Fairway.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -43,7 +43,7 @@ and rhumb lines joining points at:
 | 26°04′00″      | 96°57′24″      |
 | 26°00′54″      | 96°19′00″      |
 
-(2) *Brazos Santiago Pass Anchorage Areas.* The areas enclosed by rhumb lines joining points at:
+(2) *Brazos Santiago Pass Anchorage Areas.* The areas enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -63,7 +63,7 @@ and rhumb lines joining points at:
 | 26°04′12″      | 96°59′30″      |
 | 26°04′58″      | 97°07′07″      |
 
-(3) *Port Mansfield Safety Fairway.* The area between a rhumb line joining points at:
+(3) *Port Mansfield Safety Fairway.* The area between a rhumb line joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -78,7 +78,7 @@ and rhumb lines joining points at:
 | 26°34′40″      | 97°15′47″      |
 | 26°34′43″      | 97°14′40″      |
 
-(4) *Aransas Pass Safety Fairway.* The area between rhumb lines joining points at:
+(4) *Aransas Pass Safety Fairway.* The area between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -124,7 +124,7 @@ and rhumb lines joining points at:
 | 27°33′15″      | 96°28′16″      |
 | 27°33′06″      | 96°30′21″      |
 
-(5) *Aransas Pass Anchorage Areas.* The areas enclosed by rhumb lines joining points at:
+(5) *Aransas Pass Anchorage Areas.* The areas enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -143,7 +143,7 @@ and rhumb lines joining points at:
 | 27°44′09″      | 96°53′25″      |
 | 27°45′14″      | 96°55′26″      |
 
-(6) *Matagorda Entrance Safety Fairway.* The areas between rhumb lines joining points at:
+(6) *Matagorda Entrance Safety Fairway.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -165,7 +165,7 @@ with rhumb lines joining points at:
 | 28°11′13″      | 96°02′46″      |
 | 27°38′12″      | 95°47′19″      |
 
-(7) *Matagorda Entrance Anchorage Areas.* The areas enclosed by rhumb lines joining points at:
+(7) *Matagorda Entrance Anchorage Areas.* The areas enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -185,7 +185,7 @@ and rhumb lines joining points at:
 | 28°16′12″      | 96°08′06″      |
 | 28°23′38″      | 96°16′00″      |
 
-(8) *Freeport Harbor Safety Fairway.* The area between rhumb lines joining points at:
+(8) *Freeport Harbor Safety Fairway.* The area between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -205,7 +205,7 @@ and rhumb lines joining points at:
 | 28°44′39″      | 95°04′22″      |
 | 28°07′46″      | 94°26′12″      |
 
-(9) *Freeport Harbor Anchorage Areas.* The areas enclosed by rhumb lines joining points at:
+(9) *Freeport Harbor Anchorage Areas.* The areas enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -225,7 +225,7 @@ and rhumb lines joining points at:
 | 28°45′58″      | 95°05′48″      |
 | 28°54′05″      | 95°14′10″      |
 
-(10) *Galveston Entrance Safety Fairways.* The areas between rhumb lines joining points at:
+(10) *Galveston Entrance Safety Fairways.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -252,7 +252,7 @@ and rhumb lines joining points at:
 | 29°07′41″      | 94°22′23″      |
 | 28°11′57″      | 92°53′25″      |
 
-(11) *Galveston Entrance Anchorage Areas.* The areas enclosed by rhumb lines joining points at:
+(11) *Galveston Entrance Anchorage Areas.* The areas enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -272,7 +272,7 @@ and rhumb lines joining points at:
 | 29°13′24″      | 94°27′33″      |
 | 29°19′23″      | 94°37′08″      |
 
-(12) *Sabine Pass Safety Fairway.* The areas between rhumb lines joining points at:
+(12) *Sabine Pass Safety Fairway.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -302,7 +302,7 @@ and rhumb lines joining points at:
 | 28°36′15″      | 93°11′15″      |
 | 27°52′09″      | 92°33′40″      |
 
-(13) *Sabine Pass Anchorage Areas*—(i) *Sabine Pass Inshore Anchorage Area.* The area enclosed by rhumb lines joining points at:
+(13) *Sabine Pass Anchorage Areas*—(i) *Sabine Pass Inshore Anchorage Area.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -311,7 +311,7 @@ and rhumb lines joining points at:
 | 29°32′52″      | 93°43′00″      |
 | 29°36′28″      | 93°47′14″      |
 
-(ii) *Sabine Bank Offshore (North) Anchorage Area.* The area enclosed by rhumb lines joining points at:
+(ii) *Sabine Bank Offshore (North) Anchorage Area.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -320,7 +320,7 @@ and rhumb lines joining points at:
 | 29°24′06″      | 93°41′08″      |
 | 29°24′06″      | 93°43′00″      |
 
-(iii) *Sabine Bank Offshore (South) Anchorage Area.* The area enclosed by rhumb lines joining points at:
+(iii) *Sabine Bank Offshore (South) Anchorage Area.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -329,7 +329,7 @@ and rhumb lines joining points at:
 | 29°14′29″      | 93°41′08″      |
 | 29°14′29″      | 93°43′00″      |
 
-(iv) *Sabine Bank Offshore (East) Anchorage Area.* The area enclosed by rhumb lines joining points at:
+(iv) *Sabine Bank Offshore (East) Anchorage Area.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -338,7 +338,7 @@ and rhumb lines joining points at:
 | 29°24′06″      | 93°37′00″      |
 | 29°24′06″      | 93°38′52″      |
 
-(14) *Coastwise Safety Fairways*—(i) *Brazos Santiago Pass to Aransas Pass.* The areas between rhumb lines joining points at:
+(14) *Coastwise Safety Fairways*—(i) *Brazos Santiago Pass to Aransas Pass.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -357,7 +357,7 @@ and rhumb lines joining points at:
 | 27°43′00″      | 96°55′27″      |
 | 27°45′14″      | 96°55′26″      |
 
-(ii) *Aransas Pass to Calcasieu Pass.* The areas between rhumb lines joining points at:
+(ii) *Aransas Pass to Calcasieu Pass.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -400,7 +400,7 @@ with rhumb lines joining points at:
 | 29°33′56″      | 93°28′35″      |
 | 29°32′57″      | 93°17′00″      |
 
-(15) *Calcasieu Pass Safety Fairway.* The areas between rhumb lines joining points at:
+(15) *Calcasieu Pass Safety Fairway.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -422,7 +422,7 @@ and rhumb lines joining points at:
 | 29°31′16″      | 93°12′16″      |
 | 28°36′15″      | 93°11′15″      |
 
-(16) *Calcasieu Pass Anchorage Areas*—(i) *Calcasieu Pass North Anchorage Area.* The area enclosed by rhumb lines joining points at:
+(16) *Calcasieu Pass Anchorage Areas*—(i) *Calcasieu Pass North Anchorage Area.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -431,7 +431,7 @@ and rhumb lines joining points at:
 | 29°31′16″      | 93°12′16″      |
 | 29°37′30″      | 93°18′15″      |
 
-(ii) *Calcasieu Pass South Anchorage Area.* The area enclosed by rhumb lines joining points at:
+(ii) *Calcasieu Pass South Anchorage Area.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -440,7 +440,7 @@ and rhumb lines joining points at:
 | 28°56′00″      | 93°14′00″      |
 | 28°56′00″      | 93°16′30″      |
 
-(17) *Lower Mud Lake Safety Fairway.* The area enclosed by rhumb lines joining points at:
+(17) *Lower Mud Lake Safety Fairway.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -454,7 +454,7 @@ and rhumb lines joining points at:
 | 29°43′33″      | 93°00′48″      |
 | 29°42′00″      | 93°00′48″      |
 
-(18) *Freshwater Bayou Safety Fairway.* The area between lines joining points at:
+(18) *Freshwater Bayou Safety Fairway.* The area between lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -472,7 +472,7 @@ and a line joining points at:
 | 29°31′06″      | 92°18′26″      |
 | 29°31′55″      | 92°18′17″      |
 
-(19) *Southwest Pass Safety Fairway.* The area between lines joining points at:
+(19) *Southwest Pass Safety Fairway.* The area between lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -488,7 +488,7 @@ and lines joining points at:
 | 29°30′24″      | 92°06′12″      |
 | 29°23′24″      | 92°07′30″      |
 
-(20) *Atchafalaya Pass Safety Fairway.* The area between a line joining points at:
+(20) *Atchafalaya Pass Safety Fairway.* The area between a line joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -502,7 +502,7 @@ and a line joining points at:
 | 29°14′05″      | 91°29′34″      |
 | 29°21′59″      | 91°22′34″      |
 
-(21) *Bayou Grand Caillou Safety Fairway.* The area between a line joining points at:
+(21) *Bayou Grand Caillou Safety Fairway.* The area between a line joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -518,7 +518,7 @@ and a line joining points at:
 | 29°05′06″      | 90°57′03″      |
 | 29°09′46″      | 90°56′27″      |
 
-(22) *Cat Island Pass Safety Fairway.* The area between lines joining points at:
+(22) *Cat Island Pass Safety Fairway.* The area between lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -538,7 +538,7 @@ and lines joining points at:
 | 29°03′13″      | 90°34′07″      |
 | 29°01′34″      | 90°33′47″      |
 
-(23) *Belle Pass Safety Fairway.* The area between a line joining points at:
+(23) *Belle Pass Safety Fairway.* The area between a line joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -552,7 +552,7 @@ and a line joining points at:
 | 29°02′56″      | 90°13′48″      |
 | 29°05′06″      | 90°13′10″      |
 
-(24) *Barataria Pass Safety Fairway.* The area between a line joining points at:
+(24) *Barataria Pass Safety Fairway.* The area between a line joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -566,7 +566,7 @@ and a line joining points at:
 | 29°16′30″      | 89°56′06″      |
 | 29°15′18″      | 89°55′00″      |
 
-(25) *Grand Bayou Pass Safety Fairway.* The areas between a line joining points at:
+(25) *Grand Bayou Pass Safety Fairway.* The areas between a line joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -580,7 +580,7 @@ and a line joining points at:
 | 29°17′18″      | 89°40′36″      |
 | 29°16′18″      | 89°41′18″      |
 
-(26) *Empire to the Gulf Safety Fairway.* The area between a line joining points at:
+(26) *Empire to the Gulf Safety Fairway.* The area between a line joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -594,7 +594,7 @@ and a line joining points at:
 | 29°13′24″      | 89°36′11″      |
 | 29°14′54″      | 89°35′51″      |
 
-(27) *Gulf Safety Fairway. Aransas Pass Safety Fairway to Southwest Pass Safety Fairway.* The areas between rhumb lines joining points at:
+(27) *Gulf Safety Fairway. Aransas Pass Safety Fairway to Southwest Pass Safety Fairway.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -618,7 +618,7 @@ and rhumb lines joining points at:
 | 27°52′09″      | 92°33′40″      |
 | 28°02′32″      | 90°09′28″      |
 
-(28) *Southwest Pass (Mississippi River) Safety Fairway*—(i) *Southwest Pass (Mississippi River) to Gulf Safety Fairway.* The area enclosed by rhumb lines joining points at:
+(28) *Southwest Pass (Mississippi River) Safety Fairway*—(i) *Southwest Pass (Mississippi River) to Gulf Safety Fairway.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -639,7 +639,7 @@ and rhumb lines joining points at:
 | 28°47′24″      | 89°26′30″      |
 | 28°00′36″      | 90°08′18″      |
 
-(ii) *Southwest Pass (Mississippi River) to Sea Safety Fairway.* The area enclosed by rhumb lines joining points at:
+(ii) *Southwest Pass (Mississippi River) to Sea Safety Fairway.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -662,7 +662,7 @@ and rhumb lines joining points at:
 | 28°43′27″      | 89°21′01″      |
 | 28°37′54″      | 89°17′06″      |
 
-(iii) *Southwest Pass (Mississippi River) to South Pass (Mississippi River) Safety Fairway.* The areas between rhumb line joining points at:
+(iii) *Southwest Pass (Mississippi River) to South Pass (Mississippi River) Safety Fairway.* The areas between rhumb line joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -676,7 +676,7 @@ and rhumb lines joining points at:
 | 28°43′27″      | 89°21′01″      |
 | 28°54′55″      | 89°00′44″      |
 
-(29) *Southwest Pass (Mississippi River) Anchorage.* The area enclosed by rhumb lines joining points at:
+(29) *Southwest Pass (Mississippi River) Anchorage.* The area enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -688,7 +688,7 @@ and rhumb lines joining points at:
 | 28°50′40″      | 89°21′14″      |
 | 28°50′40″      | 89°24′48″      |
 
-(30) *South Pass (Mississippi River) Safety Fairway*—(i) *South Pass to Sea Safety Fairway.* The areas between rhumb lines joining points at:
+(30) *South Pass (Mississippi River) Safety Fairway*—(i) *South Pass to Sea Safety Fairway.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -712,7 +712,7 @@ and rhumb lines joining points at:
 | 28°56′16″         | 88°58′29″      |
 | 28°55′42″         | 88°57′06″      |
 
-(ii) *South Pass (Mississippi River) to Mississippi River-Gulf Outlet Channel Safety Fairway.* The areas between rhumb lines joining points at:
+(ii) *South Pass (Mississippi River) to Mississippi River-Gulf Outlet Channel Safety Fairway.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -729,7 +729,7 @@ and rhumb lines joining points at:
 | 29°23′06″      | 88°54′11″      |
 | 29°26′28″      | 88°55′39″      |
 
-(31) *South Pass (Mississippi River) Anchorage.* The areas within rhumb lines joining points at:
+(31) *South Pass (Mississippi River) Anchorage.* The areas within rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -737,7 +737,7 @@ and rhumb lines joining points at:
 | 29°03′36″      | 89°02′18″      |
 | 28°57′56″      | 89°02′18″      |
 
-(32) *Mississippi River-Gulf Outlet Safety Fairway.* (i) The areas between rhumb lines joining points at:
+(32) *Mississippi River-Gulf Outlet Safety Fairway.* (i) The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -756,7 +756,7 @@ and rhumb lines joining points at:
 | 29°27′01″      | 89°01′54″      |
 | 29°26′38″      | 88°58′43″      |
 
-(ii) *Mississippi River-Gulf Outlet Channel to Mobile Ship Channel Safety Fairway.* The areas within rhumb lines joining points at:
+(ii) *Mississippi River-Gulf Outlet Channel to Mobile Ship Channel Safety Fairway.* The areas within rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -779,7 +779,7 @@ and rhumb lines joining points at:
 | 30°03′50″      | 88°08′01″      |
 | 30°05′15″      | 88°06′05″      |
 
-(33) *Mississippi River-Gulf Outlet Anchorage.* (i) The areas within rhumb lines joining points at:
+(33) *Mississippi River-Gulf Outlet Anchorage.* (i) The areas within rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -788,7 +788,7 @@ and rhumb lines joining points at:
 | 29°29′57″      | 88°54′48″      |
 | 29°26′38″      | 88°58′43″      |
 
-(ii) The areas within rhumb lines joining points at:
+(ii) The areas within rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -797,7 +797,7 @@ and rhumb lines joining points at:
 | 29°24′33″      | 88°52′27″      |
 | 29°23′06″      | 88°54′11″      |
 
-(34) *Gulfport Safety Fairway.* The areas between rhumb lines joining points at:
+(34) *Gulfport Safety Fairway.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -816,7 +816,7 @@ and rhumb lines joining points at:
 | 30°11′29″      | 88°58′45″      |
 | 30°07′42″      | 88°55′37″      |
 
-(35) *Biloxi Safety Fairway.* The area between lines joining points at:
+(35) *Biloxi Safety Fairway.* The area between lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -840,7 +840,7 @@ and lines joining points at:
 | 30°12′56″      | 88°46′39″      |
 | 30°12′00″      | 88°45′25″      |
 
-(36) *Ship Island Pass to Horn Island Pass Safety Fairway.* The areas between rhumb line joining points at:
+(36) *Ship Island Pass to Horn Island Pass Safety Fairway.* The areas between rhumb line joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -854,7 +854,7 @@ and rhumb line joining points at:
 | 30°07′42″      | 88°55′37″      |
 | 30°08′27″      | 88°36′57″      |
 
-(37) *Pascagoula Safety Fairway.* The areas between rhumb lines joining points at:
+(37) *Pascagoula Safety Fairway.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -897,7 +897,7 @@ and rhumb lines joining points at:
 | 29°56′34″      | 88°17′30″      |
 | 29°20′48″      | 87°39′31″      |
 
-(38) *Horn Island Pass to Mobile Ship Channel Safety Fairway.* The areas between rhumb line joining points at:
+(38) *Horn Island Pass to Mobile Ship Channel Safety Fairway.* The areas between rhumb line joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -911,7 +911,7 @@ and rhumb line joining points at:
 | 30°07′30″      | 88°29′09″      |
 | 30°05′29″      | 88°09′19″      |
 
-(39) *Mobile Safety Fairway*—(i) *Mobile Ship Channel Safety Fairway.* The areas between rhumb lines joining points at:
+(39) *Mobile Safety Fairway*—(i) *Mobile Ship Channel Safety Fairway.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -946,7 +946,7 @@ and rhumb lines joining points at:
 | 30°10′36″      | 88°01′35″      |
 | 30°08′04″      | 88°00′36″      |
 
-(ii) *Mobile Ship Channel to Sea Safety Fairway.* The areas between rhumb lines joining points at:
+(ii) *Mobile Ship Channel to Sea Safety Fairway.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -961,7 +961,7 @@ and rhumb line joining points at:
 | 30°06′17″      | 87°59′15″      |
 | 29°27′00″      | 87°27′18″      |
 
-(iii) *Mobile to Pensacola Safety Fairway.* The areas between rhumb line joining points at:
+(iii) *Mobile to Pensacola Safety Fairway.* The areas between rhumb line joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -975,7 +975,7 @@ and rhumb line joining points at:
 | 30°06′17″      | 87°59′15″      |
 | 30°12′31″      | 87°18′00″      |
 
-(40) *Mobile Anchorage.* The areas within rhumb lines joining points at:
+(40) *Mobile Anchorage.* The areas within rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -984,7 +984,7 @@ and rhumb line joining points at:
 | 30°03′50″      | 88°00′00″      |
 | 30°03′50″      | 88°08′01″      |
 
-(41) *Pensacola Safety Fairway.* The areas between rhumb lines joining points at:
+(41) *Pensacola Safety Fairway.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1031,7 +1031,7 @@ and rhumb lines joining points at:
 | 30°12′33″      | 87°15′43″      |
 | 29°42′30″      | 87°15′43″      |
 
-(42) *Pensacola Anchorage.* (i) The area within rhumb lines joining points at:
+(42) *Pensacola Anchorage.* (i) The area within rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1040,7 +1040,7 @@ and rhumb lines joining points at:
 | 30°10′03″      | 87°18′00″      |
 | 30°09′21″      | 87°22′41″      |
 
-(ii) The area within rhumb lines joining points at:
+(ii) The area within rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1049,7 +1049,7 @@ and rhumb lines joining points at:
 | 30°15′14″      | 87°11′52″      |
 | 30°14′32″      | 87°16′06″      |
 
-(43) *Pensacola to Panama City Safety Fairway.* The area between rhumb lines joining points at:
+(43) *Pensacola to Panama City Safety Fairway.* The area between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1068,7 +1068,7 @@ and rhumb lines joining points at:
 | 30°16′01″     | 86°20′57″      |
 | 29°48′45″     | 85°47′33″      |
 
-(44) *Panama City Safety Fairways.* The areas between rhumb lines joining points at:
+(44) *Panama City Safety Fairways.* The areas between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1093,7 +1093,7 @@ and rhumb lines joining points at:
 | 29°49′19″      | 85°45′15″      |
 | 29°00′00″      | 85°45′15″      |
 
-(45) *Panama City Anchorage.* The area within rhumb lines joining points at:
+(45) *Panama City Anchorage.* The area within rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1102,7 +1102,7 @@ and rhumb lines joining points at:
 | 29°51′39″      | 85°42′25″      |
 | 29°51′20″      | 85°45′15″      |
 
-(46) *Port St. Joe Fairway to Panama City Fairway.* The area between rhumb lines joining points at:
+(46) *Port St. Joe Fairway to Panama City Fairway.* The area between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1131,7 +1131,7 @@ and rhumb lines joining points at:
 | 29°50′40″      | 85°32′39″      |
 | 29°49′19″      | 85°45′15″      |
 
-(47) *Port St. Joe Anchorage.* The area within rhumb lines joining points at:
+(47) *Port St. Joe Anchorage.* The area within rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1139,7 +1139,7 @@ and rhumb lines joining points at:
 | 29°51′04″      | 85°29′00″      |
 | 29°49′18″      | 85°30′18″      |
 
-(48) *Tampa Safety Fairways.* The area between rhumb lines joining points at:
+(48) *Tampa Safety Fairways.* The area between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1157,7 +1157,7 @@ and rhumb lines joining points at:
 | 27°34′48″      | 83°00′00″      |
 | 27°34′48″      | 84°39′00″      |
 
-(49) *Tampa Anchorages*—(i) *Eastern Tampa Fairway Anchorage.* The area enclosed by rhumb lines \[North American Datum of 1927 (NAD-27)\] joining points at:
+(49) *Tampa Anchorages*—(i) *Eastern Tampa Fairway Anchorage.* The area enclosed by rhumb lines \[North American Datum of 1927 (NAD-27)\] joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1166,7 +1166,7 @@ and rhumb lines joining points at:
 | 27°39′00″      | 82°55′54″      |
 | 27°36′48″      | 82°55′54″      |
 
-(ii) *Western Tampa Fairway Anchorage.* The area enclosed by rhumb lines \[North American Datum of 1927 (NAD-27)\] joining points at:
+(ii) *Western Tampa Fairway Anchorage.* The area enclosed by rhumb lines \[North American Datum of 1927 (NAD-27)\] joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1175,7 +1175,7 @@ and rhumb lines joining points at:
 | 27°39′00″      | 83°01′00″      |
 | 27°36′48″      | 83°01′00″      |
 
-(50) *Charlotte Safety Fairways.* The area between rhumb lines joining points at:
+(50) *Charlotte Safety Fairways.* The area between rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1191,7 +1191,7 @@ and rhumb lines joining points at:
 | 26°39′00″      | 82°19′00″      |
 | 25°28′00″      | 84°21′30″      |
 
-(51) *Charlotte Anchorage.* The area within rhumb lines joining points at:
+(51) *Charlotte Anchorage.* The area within rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1200,7 +1200,7 @@ and rhumb lines joining points at:
 | 26°37′36″      | 82°19′18″      |
 | 26°38′30″      | 82°19′54″      |
 
-(52) *Louisiana Offshore Oil Port (LOOP) Shipping Safety Fairway to Safety Zone*—(i) *North of Gulf Safety Fairway.* The two mile wide area enclosed by rhumb lines joining points at:
+(52) *Louisiana Offshore Oil Port (LOOP) Shipping Safety Fairway to Safety Zone*—(i) *North of Gulf Safety Fairway.* The two mile wide area enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1214,7 +1214,7 @@ and rhumb lines joining points at:
 | 28°49′07″      | 89°51′30″      |
 | 28°50′20″      | 89°53′51″      |
 
-(ii) *South of Gulf Safety Fairway.* The two-mile-wide area enclosed by rhumb lines joining points at:
+(ii) *South of Gulf Safety Fairway.* The two-mile-wide area enclosed by rhumb lines joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |
@@ -1223,7 +1223,7 @@ and rhumb lines joining points at:
 | 27°46′32″      | 89°52′08″      |
 | 28°17′48″      | 89°52′58″      |
 
-(53) *Heald Bank Cutoff Safety Fairway.* The area enclosed by rhumb lines \[North American Datum of 1927 (NAD-27)\], joining points at:
+(53) *Heald Bank Cutoff Safety Fairway.* The area enclosed by rhumb lines \[North American Datum of 1927 (NAD-27)\], joining points at: 
 
 | Latitude North | Longitude West |
 | -------------- | -------------- |

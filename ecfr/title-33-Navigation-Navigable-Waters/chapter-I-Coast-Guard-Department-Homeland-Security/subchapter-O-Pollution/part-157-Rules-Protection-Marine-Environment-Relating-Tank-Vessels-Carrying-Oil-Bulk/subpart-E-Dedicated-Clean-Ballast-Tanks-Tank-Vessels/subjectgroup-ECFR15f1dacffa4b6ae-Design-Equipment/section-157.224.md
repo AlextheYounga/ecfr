@@ -1,12 +1,12 @@
 ##### § 157.224 Dedicated Clean Ballast Tanks Operations Manual.
 
-Each *Dedicated Clean Ballast Tanks Operations Manual* must include the following information:
+Each *Dedicated Clean Ballast Tanks Operations Manual* must include the following information: 
 
-(a) The text of the Annex of Resolution 14 of the MARPOL 73/78.
+(a) The text of the Annex of Resolution 14 of the MARPOL 73/78. 
 
-(b) A description of the dedicated clean ballast tanks system.
+(b) A description of the dedicated clean ballast tanks system. 
 
-(c) A procedure for dedicated clean ballast tanks operations.
+(c) A procedure for dedicated clean ballast tanks operations. 
 
 Note:
 

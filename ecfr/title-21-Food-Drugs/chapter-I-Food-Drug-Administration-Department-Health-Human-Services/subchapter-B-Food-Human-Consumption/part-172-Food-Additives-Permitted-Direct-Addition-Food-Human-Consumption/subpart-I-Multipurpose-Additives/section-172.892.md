@@ -1,10 +1,10 @@
 ##### § 172.892 Food starch-modified.
 
-Food starch-modified as described in this section may be safely used in food. The quantity of any substance employed to effect such modification shall not exceed the amount reasonably required to accomplish the intended physical or technical effect, nor exceed any limitation prescribed. To insure safe use of the food starch-modified, the label of the food additive container shall bear the name of the additive “food starch-modified” in addition to other information required by the Act. Food starch may be modified by treatment prescribed as follows:
+Food starch-modified as described in this section may be safely used in food. The quantity of any substance employed to effect such modification shall not exceed the amount reasonably required to accomplish the intended physical or technical effect, nor exceed any limitation prescribed. To insure safe use of the food starch-modified, the label of the food additive container shall bear the name of the additive “food starch-modified” in addition to other information required by the Act. Food starch may be modified by treatment prescribed as follows: 
 
-(a) Food starch may be acid-modified by treatment with hydrochloric acid or sulfuric acid or both.
+(a) Food starch may be acid-modified by treatment with hydrochloric acid or sulfuric acid or both. 
 
-(b) Food starch may be bleached by treatment with one or more of the following:
+(b) Food starch may be bleached by treatment with one or more of the following: 
 
 |                                                                                                                  | Limitations                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -15,9 +15,9 @@ Food starch-modified as described in this section may be safely used in food. Th
 | Potassium permanganate, not to exceed 0.2 percent                                                                | Residual manganese (calculated as Mn), not to exceed 50 parts per million in food starch-modified.                  |
 | Sodium chlorite, not to exceed 0.5 percent                                                                       |                                                                                                                     |
 
-(c) Food starch may be oxidized by treatment with chlorine, as sodium hypochlorite, not to exceed 0.055 pound of chlorine per pound of dry starch.
+(c) Food starch may be oxidized by treatment with chlorine, as sodium hypochlorite, not to exceed 0.055 pound of chlorine per pound of dry starch. 
 
-(d) Food starch may be esterified by treatment with one of the following:
+(d) Food starch may be esterified by treatment with one of the following: 
 
 |                                                                                                                                                                                     | Limitations                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Food starch-modified as described in this section may be safely used in food. Th
 | Succinic anhydride, not to exceed 4 percent                                                                                                                                         |                                                                                                                           |
 | Vinyl acetate                                                                                                                                                                       | Acetyl groups in food starch-modified not to exceed 2.5 percent.                                                          |
 
-(e) Food starch may be etherified by treatment with one of the following:
+(e) Food starch may be etherified by treatment with one of the following: 
 
 |                                                                                                                                    | Limitations                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -44,7 +44,7 @@ Food starch-modified as described in this section may be safely used in food. Th
 | Epichlorohydrin, not to exceed 0.1 percent, followed by propylene oxide, not to exceed 25 percent                                  | Do.                                                                                        |
 | Propylene oxide, not to exceed 25 percent                                                                                          | Do.                                                                                        |
 
-(f) Food starch may be esterified and etherified by treatment with one of the following:
+(f) Food starch may be esterified and etherified by treatment with one of the following: 
 
 |                                                                                                  | Limitations                                                                                |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
@@ -53,16 +53,16 @@ Food starch-modified as described in this section may be safely used in food. Th
 | Epichlorohydrin, not to exceed 0.3 percent, and succinic anhydride, not to exceed 4 percent      |                                                                                            |
 | Phosphorus oxychloride, not to exceed 0.1 percent, and propylene oxide, not to exceed 10 percent | Residual propylene chlorohydrin not more than 5 parts per million in food starch-modified. |
 
-(g) Food starch may be modified by treatment with one of the following:
+(g) Food starch may be modified by treatment with one of the following: 
 
 |                                                                                                                                                                                                               | Limitations                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | Chlorine, as sodium hypochlorite, not to exceed 0.055 pound of chlorine per pound of dry starch; 0.45 percent of active oxygen obtained from hydrogen peroxide; and propylene oxide, not to exceed 25 percent | Residual propylene chlorohydrin not more than 5 parts per million in food starch-modified. |
 | Sodium hydroxide, not to exceed 1 percent                                                                                                                                                                     |                                                                                            |
 
-(h) Food starch may be modified by a combination of the treatments prescribed by paragraphs (a), (b), and/or (i) of this section and any one of the treatments prescribed by paragraph (c), (d), (e), (f), or (g) of this section, subject to any limitations prescribed by the paragraphs named.
+(h) Food starch may be modified by a combination of the treatments prescribed by paragraphs (a), (b), and/or (i) of this section and any one of the treatments prescribed by paragraph (c), (d), (e), (f), or (g) of this section, subject to any limitations prescribed by the paragraphs named. 
 
-(i) Food starch may be modified by treatment with the following enzymes:
+(i) Food starch may be modified by treatment with the following enzymes: 
 
 | Enzyme                       | Limitations                                                                                                                                                                                     |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

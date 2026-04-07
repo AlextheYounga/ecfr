@@ -1,10 +1,10 @@
 ##### § 178.3520 Industrial starch-modified.
 
-Industrial starch-modified may be safely used as a component of articles intended for use in producing, manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food, subject to the provisions of this section.
+Industrial starch-modified may be safely used as a component of articles intended for use in producing, manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food, subject to the provisions of this section. 
 
-(a) Industrial starch-modified is identified as follows:
+(a) Industrial starch-modified is identified as follows: 
 
-(1) A food starch-modified or starch or any combination thereof that has been modified by treatment with one of the reactants hereinafter specified, in an amount reasonably required to achieve the desired functional effect but in no event in excess of any limitation prescribed, with or without subsequent treatment as authorized in § 172.892 of this chapter.
+(1) A food starch-modified or starch or any combination thereof that has been modified by treatment with one of the reactants hereinafter specified, in an amount reasonably required to achieve the desired functional effect but in no event in excess of any limitation prescribed, with or without subsequent treatment as authorized in § 172.892 of this chapter. 
 
 | List of reactants                                                                        | Limitations                                                                                                                                                                                                                                                                                                         |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,11 +17,11 @@ Industrial starch-modified may be safely used as a component of articles intende
 | Ethylene oxide, not to exceed 3 pct of reacted ethylene oxide in finished product        |                                                                                                                                                                                                                                                                                                                     |
 | Phosphoric acid, not to exceed 6 pct and urea, not to exceed 20 pct                      | Industrial starch modified by this treatment shall be used only as internal sizing for paper and paperboard intended for food packaging and as surface sizing and coating for paper and paperboard that contact food only of Types IV-A, V, VII, VIII, and IX described in table 1 of § 176.170(c) of this chapter. |
 
-(2) A starch irradiated under one of the following conditions to produce free radicals for subsequent graft polymerization with the reactants listed in this paragraph (a)(2):
+(2) A starch irradiated under one of the following conditions to produce free radicals for subsequent graft polymerization with the reactants listed in this paragraph (a)(2): 
 
-(i) Radiation from a sealed cobalt 60 source, maximum absorbed dose not to exceed 5.0 megarads.
+(i) Radiation from a sealed cobalt 60 source, maximum absorbed dose not to exceed 5.0 megarads. 
 
-(ii) An electron beam source at a maximum energy of 7 million electron volts of ionizing radiation, maximum absorbed dose not to exceed 5.0 megarads.
+(ii) An electron beam source at a maximum energy of 7 million electron volts of ionizing radiation, maximum absorbed dose not to exceed 5.0 megarads. 
 
 | List of reactants                                                                                                                                               | Limitations                                                                                                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,10 +30,10 @@ Industrial starch-modified may be safely used as a component of articles intende
 | 2\. Not more than 0.20 pct residual acrylamide                                                                                                                  |                                                                                                                                                                                                                                                                               |
 | 3\. A minimum nitrogen content of 9.0 pct                                                                                                                       |                                                                                                                                                                                                                                                                               |
 
-(b) The following adjuvants may be used as surface-active agents in the processing of industrial starch-modified:
+(b) The following adjuvants may be used as surface-active agents in the processing of industrial starch-modified: 
 
 Polyethylene glycol (400) dilaurate. Polyethylene glycol (400) monolaurate. Polyoxyethylene (4) lauryl ether.
 
-(c) To insure safe use of the industrial starch-modified, the label of the food additive container shall bear the name of the additive “industrial starch-modified,” and in the instance of an industrial starch-modified which is limited with respect to conditions of use, the label of the food additive container shall contain a statement of such limited use.
+(c) To insure safe use of the industrial starch-modified, the label of the food additive container shall bear the name of the additive “industrial starch-modified,” and in the instance of an industrial starch-modified which is limited with respect to conditions of use, the label of the food additive container shall contain a statement of such limited use. 
 
 \[42 FR 14609, Mar. 15, 1977, as amended at 42 FR 49453, Sept. 27, 1977\]

@@ -1,30 +1,30 @@
 ##### § 175.105 Adhesives.
 
-(a) Adhesives may be safely used as components of articles intended for use in packaging, transporting, or holding food in accordance with the following prescribed conditions:
+(a) Adhesives may be safely used as components of articles intended for use in packaging, transporting, or holding food in accordance with the following prescribed conditions: 
 
-(1) The adhesive is prepared from one or more of the optional substances named in paragraph (c) of this section, subject to any prescribed limitations.
+(1) The adhesive is prepared from one or more of the optional substances named in paragraph (c) of this section, subject to any prescribed limitations. 
 
-(2) The adhesive is either separated from the food by a functional barrier or used subject to the following additional limitations:
+(2) The adhesive is either separated from the food by a functional barrier or used subject to the following additional limitations: 
 
-(i) *In dry foods.* The quantity of adhesive that contacts packaged dry food shall not exceed the limits of good manufacturing practice.
+(i) *In dry foods.* The quantity of adhesive that contacts packaged dry food shall not exceed the limits of good manufacturing practice. 
 
-(ii) *In fatty and aqueous foods.* (*a*) The quantity of adhesive that contacts packaged fatty and aqueous foods shall not exceed the trace amount at seams and at the edge exposure between packaging laminates that may occur within the limits of good manufacturing practice.
+(ii) *In fatty and aqueous foods.* (*a*) The quantity of adhesive that contacts packaged fatty and aqueous foods shall not exceed the trace amount at seams and at the edge exposure between packaging laminates that may occur within the limits of good manufacturing practice. 
 
-(*b*) Under normal conditions of use the packaging seams or laminates will remain firmly bonded without visible separation.
+(*b*) Under normal conditions of use the packaging seams or laminates will remain firmly bonded without visible separation. 
 
-(b) To assure safe usage of adhesives, the label of the finished adhesive container shall bear the statement “food-packaging adhesive”.
+(b) To assure safe usage of adhesives, the label of the finished adhesive container shall bear the statement “food-packaging adhesive”. 
 
-(c) Subject to any limitation prescribed in this section and in any other regulation promulgated under section 409 of the Act which prescribes safe conditions of use for substances that may be employed as constituents of adhesives, the optional substances used in the formulation of adhesives may include the following:
+(c) Subject to any limitation prescribed in this section and in any other regulation promulgated under section 409 of the Act which prescribes safe conditions of use for substances that may be employed as constituents of adhesives, the optional substances used in the formulation of adhesives may include the following: 
 
-(1) Substances generally recognized as safe for use in food or food packaging.
+(1) Substances generally recognized as safe for use in food or food packaging. 
 
-(2) Substances permitted for use in adhesives by prior sanction or approval and employed under the specific conditions of use prescribed by such sanction or approval.
+(2) Substances permitted for use in adhesives by prior sanction or approval and employed under the specific conditions of use prescribed by such sanction or approval. 
 
-(3) Flavoring substances permitted for use in food by regulations in this part, provided that such flavoring substances are volatilized from the adhesives during the packaging fabrication process.
+(3) Flavoring substances permitted for use in food by regulations in this part, provided that such flavoring substances are volatilized from the adhesives during the packaging fabrication process. 
 
-(4) Color additives approved for use in food.
+(4) Color additives approved for use in food. 
 
-(5) Substances permitted for use in adhesives by other regulations in this subchapter and substances named in this subparagraph: *Provided, however,* That any substance named in this paragraph and covered by a specific regulation in this subchapter, must meet any specifications in such regulation.
+(5) Substances permitted for use in adhesives by other regulations in this subchapter and substances named in this subparagraph: *Provided, however,* That any substance named in this paragraph and covered by a specific regulation in this subchapter, must meet any specifications in such regulation. 
 
 | Substances                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Limitations                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,10 +1,10 @@
 ##### § 970.514 Scale requiring application procedures.
 
-(a) A proposal by the Administrator to modify a term, condition or restriction in a license pursuant to § 970.512, or an application by a licensee for revision of a license or exploration plan pursuant to § 970.513, is significant, and the full application requirements and procedures will apply, if it would result in other than an incidental:
+(a) A proposal by the Administrator to modify a term, condition or restriction in a license pursuant to § 970.512, or an application by a licensee for revision of a license or exploration plan pursuant to § 970.513, is significant, and the full application requirements and procedures will apply, if it would result in other than an incidental: 
 
-(1) Increase in the size of the exploration area; or
+(1) Increase in the size of the exploration area; or 
 
-(2) Change in the location of the area.
+(2) Change in the location of the area. 
 
 An incidental increase or change is that which equals two percent or less of the original exploration area, so long as such adjustment is contiguous to the licensed area.
 

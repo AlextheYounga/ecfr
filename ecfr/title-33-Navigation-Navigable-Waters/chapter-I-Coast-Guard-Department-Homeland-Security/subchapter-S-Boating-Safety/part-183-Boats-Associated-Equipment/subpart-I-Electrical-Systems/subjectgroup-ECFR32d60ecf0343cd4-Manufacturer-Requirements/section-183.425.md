@@ -1,18 +1,18 @@
 ##### § 183.425 Conductors: General.
 
-(a) Each conductor must be insulated, stranded copper.
+(a) Each conductor must be insulated, stranded copper. 
 
-(b) Except for intermittent surges each conductor must not carry a current greater than that specified in Table 5 for the conductor's gauge and temperature rating.
+(b) Except for intermittent surges each conductor must not carry a current greater than that specified in Table 5 for the conductor's gauge and temperature rating. 
 
-(c) For conductors in engine spaces, amperages must be corrected by the appropriate correction factor in note 1 of Table 5.
+(c) For conductors in engine spaces, amperages must be corrected by the appropriate correction factor in note 1 of Table 5. 
 
-(d) Each conductor in a multiconductor sheath must be at least a No. 18 AWG conductor.
+(d) Each conductor in a multiconductor sheath must be at least a No. 18 AWG conductor. 
 
-(e) Each conductor installed separately must be at least a No. 16 AWG conductor.
+(e) Each conductor installed separately must be at least a No. 16 AWG conductor. 
 
-(f) Each No. 18 AWG conductor in a multiconductor sheath may not extend out of the sheath more than 30 inches.
+(f) Each No. 18 AWG conductor in a multiconductor sheath may not extend out of the sheath more than 30 inches. 
 
-(g) This section does not apply to communications systems; electronic navigation equipment; electronic circuits having a current flow of less than one ampere; conductors which are totally inside an equipment housing; resistance conductors that control circuit amperage; high voltage secondary conductors and terminations that are in ignition systems; pigtails of less than seven inches of exposed length and cranking motor conductors.
+(g) This section does not apply to communications systems; electronic navigation equipment; electronic circuits having a current flow of less than one ampere; conductors which are totally inside an equipment housing; resistance conductors that control circuit amperage; high voltage secondary conductors and terminations that are in ignition systems; pigtails of less than seven inches of exposed length and cranking motor conductors. 
 
 Table 5—Allowable Amperage of Conductors
 | Conductor size (AWG)                   | Temperature rating of conductor insulation |

@@ -1,6 +1,6 @@
 ##### § 96.250 What documents and reports must a safety management system have?
 
-The documents and reports required for a safety management system under § 96.330 or § 96.340 must include the written documents and reports itemized in Table 96.250. These documents and reports must be available to the company's shore-based and vessel(s)-based personnel:
+The documents and reports required for a safety management system under § 96.330 or § 96.340 must include the written documents and reports itemized in Table 96.250. These documents and reports must be available to the company's shore-based and vessel(s)-based personnel: 
 
 Table 96.250—Safety Management System Documents and Reports
 | Type of documents and reports                                                                                                                                                                                                                                                                                                                                                                                                                                    | Specific requirements                                                                                                                                                                                                                                                                                                                                                                                            |

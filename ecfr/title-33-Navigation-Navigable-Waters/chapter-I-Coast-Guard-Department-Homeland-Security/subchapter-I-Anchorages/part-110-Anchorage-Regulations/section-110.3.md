@@ -1,6 +1,6 @@
 ##### § 110.3 First Coast Guard District Special Anchorage Areas.
 
-Regulations designating special anchorage areas in the First Coast Guard District appear in §§ 110.4 through 110.60.
+Regulations designating special anchorage areas in the First Coast Guard District appear in §§ 110.4 through 110.60. 
 
 Note 1 to § 110.3:
 

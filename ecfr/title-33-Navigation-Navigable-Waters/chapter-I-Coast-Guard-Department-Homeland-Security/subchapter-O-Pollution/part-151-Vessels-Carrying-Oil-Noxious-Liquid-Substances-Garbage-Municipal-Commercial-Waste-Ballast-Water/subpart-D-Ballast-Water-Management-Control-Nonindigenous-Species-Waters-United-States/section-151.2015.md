@@ -1,22 +1,22 @@
 ##### § 151.2015 Exemptions.
 
-(a) The following vessels are exempt from all of the requirements of this subpart:
+(a) The following vessels are exempt from all of the requirements of this subpart: 
 
-(1) Any Department of Defense or Coast Guard vessel subject to the requirements of section 1103 of the Nonindigenous Aquatic Nuisance Prevention and Control Act, as amended by the National Invasive Species Act; or any vessel of the Armed Forces, as defined in the Federal Water Pollution Control Act (33 U.S.C. 1322(a)), that is subject to the “Uniform National Discharge Standards for Vessels of the Armed Forces” (33 U.S.C. 1322(n)).
+(1) Any Department of Defense or Coast Guard vessel subject to the requirements of section 1103 of the Nonindigenous Aquatic Nuisance Prevention and Control Act, as amended by the National Invasive Species Act; or any vessel of the Armed Forces, as defined in the Federal Water Pollution Control Act (33 U.S.C. 1322(a)), that is subject to the “Uniform National Discharge Standards for Vessels of the Armed Forces” (33 U.S.C. 1322(n)). 
 
-(2) Any warship, naval auxiliary, or other vessel owned or operated by a foreign state and used, for the time being, only on government non-commercial service. However, such vessels should act in a manner consistent, so far as is reasonable and practicable, with this subpart.
+(2) Any warship, naval auxiliary, or other vessel owned or operated by a foreign state and used, for the time being, only on government non-commercial service. However, such vessels should act in a manner consistent, so far as is reasonable and practicable, with this subpart. 
 
-(b) Crude oil tankers engaged in coastwise trade are exempt from the requirements of §§ 151.2025 (ballast water management (BWM) requirements), 151.2060 (reporting), and 151.2070 (recordkeeping) of this subpart.
+(b) Crude oil tankers engaged in coastwise trade are exempt from the requirements of §§ 151.2025 (ballast water management (BWM) requirements), 151.2060 (reporting), and 151.2070 (recordkeeping) of this subpart. 
 
-(c) Vessels that operate exclusively on voyages between ports or places within a single COTP Zone are exempt from the requirements of §§ 151.2025 (ballast water management (BWM) requirements), 151.2060 (reporting), and 151.2070 (recordkeeping) of this subpart.
+(c) Vessels that operate exclusively on voyages between ports or places within a single COTP Zone are exempt from the requirements of §§ 151.2025 (ballast water management (BWM) requirements), 151.2060 (reporting), and 151.2070 (recordkeeping) of this subpart. 
 
-(d) The following vessels are exempt only from the requirements of § 151.2025 (BWM requirements) of this subpart:
+(d) The following vessels are exempt only from the requirements of § 151.2025 (BWM requirements) of this subpart: 
 
-(1) Seagoing vessels that operate in more than a single COTP Zone, do not operate outside of the EEZ, and are less than or equal to 1,600 gross register tons or less than or equal to 3,000 gross tons (International Convention on Tonnage Measurement of Ships, 1969).
+(1) Seagoing vessels that operate in more than a single COTP Zone, do not operate outside of the EEZ, and are less than or equal to 1,600 gross register tons or less than or equal to 3,000 gross tons (International Convention on Tonnage Measurement of Ships, 1969). 
 
-(2) Non-seagoing vessels.
+(2) Non-seagoing vessels. 
 
-(3) Vessels that operate in more than a single COTP Zone and take on and discharge ballast water exclusively in a single COTP Zone.
+(3) Vessels that operate in more than a single COTP Zone and take on and discharge ballast water exclusively in a single COTP Zone. 
 
 Table 1 to § 151.2015—Table of 33 CFR 151.2015 Specific Exemptions for Types of Vessels
 |                                                                                                                                                                                       | 151.2025   (Management) | 151.2060   (Reporting) | 151.2070   (Recordkeeping) |

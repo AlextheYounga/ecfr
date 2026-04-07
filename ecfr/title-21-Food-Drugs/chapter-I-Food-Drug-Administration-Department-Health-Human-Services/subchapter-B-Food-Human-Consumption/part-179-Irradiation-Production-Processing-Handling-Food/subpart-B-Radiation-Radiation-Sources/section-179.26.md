@@ -1,16 +1,16 @@
 ##### § 179.26 Ionizing radiation for the treatment of food.
 
-Ionizing radiation for treatment of foods may be safely used under the following conditions:
+Ionizing radiation for treatment of foods may be safely used under the following conditions: 
 
-(a) *Energy sources.* Ionizing radiation is limited to:
+(a) *Energy sources.* Ionizing radiation is limited to: 
 
-(1) Gamma rays from sealed units of the radionuclides cobalt-60 or cesium-137.
+(1) Gamma rays from sealed units of the radionuclides cobalt-60 or cesium-137. 
 
-(2) Electrons generated from machine sources at energies not to exceed 10 million electron volts.
+(2) Electrons generated from machine sources at energies not to exceed 10 million electron volts. 
 
-(3) X rays generated from machine sources at energies not to exceed 5 million electron volts (MeV), except as permitted by paragraph (a)(4) of this section.
+(3) X rays generated from machine sources at energies not to exceed 5 million electron volts (MeV), except as permitted by paragraph (a)(4) of this section. 
 
-(4) X rays generated from machine sources using tantalum or gold as the target material and using energies not to exceed 7.5 (MeV).
+(4) X rays generated from machine sources using tantalum or gold as the target material and using energies not to exceed 7.5 (MeV). 
 
 (b) *Limitations.*
 
@@ -31,14 +31,14 @@ Ionizing radiation for treatment of foods may be safely used under the following
 | 13\. For control of foodborne pathogens, and extension of shelf-life, in unrefrigerated (as well as refrigerated) uncooked meat, meat byproducts, and certain meat food products                                                                                                                                                                                                                                                                                                                                                                                                                                             | Not to exceed 4.5 kGy.                                                                                                                                                                                       |
 | 14\. For control of food-borne pathogens in, and extension of the shelf-life of, chilled or frozen raw, cooked, or partially cooked crustaceans or dried crustaceans (water activity less than 0.85), with or without spices, minerals, inorganic salts, citrates, citric acid, and/or calcium disodium EDTA                                                                                                                                                                                                                                                                                                                 | Not to exceed 6.0 kGy.                                                                                                                                                                                       |
 
-(c) *Labeling.* (1) The label and labeling of retail packages of foods irradiated in conformance with paragraph (b) of this section shall bear the following logo along with either the statement
+(c) *Labeling.* (1) The label and labeling of retail packages of foods irradiated in conformance with paragraph (b) of this section shall bear the following logo along with either the statement 
 
 ![](/graphics/er01fe93.000.gif)
 
-“Treated with radiation” or the statement “Treated by irradiation” in addition to information required by other regulations. The logo shall be placed prominently and conspicuously in conjunction with the required statement. The radiation disclosure statement is not required to be more prominent than the declaration of ingredients required under § 101.4 of this chapter. As used in this provision, the term “radiation disclosure statement” means the written statement that discloses that a food has been intentionally subject to irradiation.
+“Treated with radiation” or the statement “Treated by irradiation” in addition to information required by other regulations. The logo shall be placed prominently and conspicuously in conjunction with the required statement. The radiation disclosure statement is not required to be more prominent than the declaration of ingredients required under § 101.4 of this chapter. As used in this provision, the term “radiation disclosure statement” means the written statement that discloses that a food has been intentionally subject to irradiation. 
 
-(2) For irradiated foods not in package form, the required logo and phrase “Treated with radiation” or “Treated by irradiation” shall be displayed to the purchaser with either (i) the labeling of the bulk container plainly in view or (ii) a counter sign, card, or other appropriate device bearing the information that the product has been treated with radiation. As an alternative, each item of food may be individually labeled. In either case, the information must be prominently and conspicuously displayed to purchasers. The labeling requirement applies only to a food that has been irradiated, not to a food that merely contains an irradiated ingredient but that has not itself been irradiated.
+(2) For irradiated foods not in package form, the required logo and phrase “Treated with radiation” or “Treated by irradiation” shall be displayed to the purchaser with either (i) the labeling of the bulk container plainly in view or (ii) a counter sign, card, or other appropriate device bearing the information that the product has been treated with radiation. As an alternative, each item of food may be individually labeled. In either case, the information must be prominently and conspicuously displayed to purchasers. The labeling requirement applies only to a food that has been irradiated, not to a food that merely contains an irradiated ingredient but that has not itself been irradiated. 
 
-(3) For a food, any portion of which is irradiated in conformance with paragraph (b) of this section, the label and labeling and invoices or bills of lading shall bear either the statement “Treated with radiation—do not irradiate again” or the statement “Treated by irradiation—do not irradiate again” when shipped to a food manufacturer or processor for further processing, labeling, or packing.
+(3) For a food, any portion of which is irradiated in conformance with paragraph (b) of this section, the label and labeling and invoices or bills of lading shall bear either the statement “Treated with radiation—do not irradiate again” or the statement “Treated by irradiation—do not irradiate again” when shipped to a food manufacturer or processor for further processing, labeling, or packing. 
 
 \[51 FR 13399, Apr. 18, 1986\] Editorial Note:For Federal Register citations affecting § 179.26, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

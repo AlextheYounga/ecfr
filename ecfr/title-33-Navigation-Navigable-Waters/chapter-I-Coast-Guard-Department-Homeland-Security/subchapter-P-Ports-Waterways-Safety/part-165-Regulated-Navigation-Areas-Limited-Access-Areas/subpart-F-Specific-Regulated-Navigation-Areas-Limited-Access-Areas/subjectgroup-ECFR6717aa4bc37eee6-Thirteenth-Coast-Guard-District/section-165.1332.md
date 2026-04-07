@@ -1,8 +1,8 @@
 ##### § 165.1332 Safety Zones; annual firework displays within the Captain of the Port, Puget Sound Area of Responsibility.
 
-(a) *Safety Zones.* The following areas are designated safety zones:
+(a) *Safety Zones.* The following areas are designated safety zones: 
 
-(1) All waters of Puget Sound, Washington, extending to a 450 yard radius from the following launch sites:
+(1) All waters of Puget Sound, Washington, extending to a 450 yard radius from the following launch sites: 
 
 Captain of the Port Puget Sound AOR Annual Firework Displays
 | Event name (typically)                           | Event location          | Latitude     | Longitude     |
@@ -49,28 +49,28 @@ Captain of the Port Puget Sound AOR Annual Firework Displays
 | Boston Harbor 4th of July                        | Boston Harbor           | 47°08.626′ N | 122°54.149′ W |
 | Everett 4th of July                              | Port Gardner            | 48°00.672′ N | 122°13.391′ W |
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(b) *Special requirements.* Firework barges or launch sites on land used in locations stated in this rule shall display a sign. The sign will be affixed to the port and starboard side of the barge or mounted on a post 3 feet above ground level when on land and in close proximity to the shoreline facing the water labeled “FIREWORKS-DANGER-STAY AWAY.” This will provide on-scene notice that the safety zone is, or will, be enforced on that day. This notice will consist of a diamond shaped sign, 4 foot by 4 foot, with a 3 inch orange retro-reflective border. The word “DANGER' shall be 10 inch black block letters centered on the sign with the words “FIREWORKS” and “STAY AWAY” in 6 inch black block letters placed above and below the word “DANGER” respectively on a white background. An on-scene patrol vessel will enforce these safety zones 30 minutes prior to the start and 30 minutes after the conclusion of the fireworks display.
+(b) *Special requirements.* Firework barges or launch sites on land used in locations stated in this rule shall display a sign. The sign will be affixed to the port and starboard side of the barge or mounted on a post 3 feet above ground level when on land and in close proximity to the shoreline facing the water labeled “FIREWORKS-DANGER-STAY AWAY.” This will provide on-scene notice that the safety zone is, or will, be enforced on that day. This notice will consist of a diamond shaped sign, 4 foot by 4 foot, with a 3 inch orange retro-reflective border. The word “DANGER' shall be 10 inch black block letters centered on the sign with the words “FIREWORKS” and “STAY AWAY” in 6 inch black block letters placed above and below the word “DANGER” respectively on a white background. An on-scene patrol vessel will enforce these safety zones 30 minutes prior to the start and 30 minutes after the conclusion of the fireworks display. 
 
-(c) *Notice of enforcement.* These safety zones will be activated and thus subject to enforcement, under the following conditions: the Coast Guard must receive and approve a marine event permit for each firework display and then the Captain of the Port will cause notice of the enforcement of these safety zones to be made by all appropriate means to provide notice to the affected segments of the public as practicable, in accordance with 33 CFR 165.7(a). The Captain of the Port will issue a Broadcast Notice to Mariners and Local Notice to Mariners notifying the public of activation and suspension of enforcement of these safety zones. Additionally, an on-scene Patrol Commander will ensure enforcement of this safety zone by limiting the transit of non-participating vessels in the designated areas described above.
+(c) *Notice of enforcement.* These safety zones will be activated and thus subject to enforcement, under the following conditions: the Coast Guard must receive and approve a marine event permit for each firework display and then the Captain of the Port will cause notice of the enforcement of these safety zones to be made by all appropriate means to provide notice to the affected segments of the public as practicable, in accordance with 33 CFR 165.7(a). The Captain of the Port will issue a Broadcast Notice to Mariners and Local Notice to Mariners notifying the public of activation and suspension of enforcement of these safety zones. Additionally, an on-scene Patrol Commander will ensure enforcement of this safety zone by limiting the transit of non-participating vessels in the designated areas described above. 
 
-(d) *Regulations.* In accordance with the general regulations in 33 CFR part 165, subpart C, no vessel operator may enter, transit, moor, or anchor within this safety zone, except for vessels authorized by the Captain of the Port or Designated Representative.
+(d) *Regulations.* In accordance with the general regulations in 33 CFR part 165, subpart C, no vessel operator may enter, transit, moor, or anchor within this safety zone, except for vessels authorized by the Captain of the Port or Designated Representative. 
 
-(e) *Authorization.* All vessel operators who desire to enter the safety zone must obtain permission from the Captain of the Port or Designated Representative by contacting either the on-scene patrol craft on VHF Ch 13 or Ch 16 or the Coast Guard Sector Seattle Joint Harbor Operations Center (JHOC) via telephone at (206) 217-6002.
+(e) *Authorization.* All vessel operators who desire to enter the safety zone must obtain permission from the Captain of the Port or Designated Representative by contacting either the on-scene patrol craft on VHF Ch 13 or Ch 16 or the Coast Guard Sector Seattle Joint Harbor Operations Center (JHOC) via telephone at (206) 217-6002. 
 
-(f) *Enforcement period.* This rule will be enforced from 5 p.m. until 1 a.m. each day a barge with a “FIREWORKS-DANGER-STAY AWAY” sign is located within any of the above designated safety zone locations and meets the criteria established in section (b), within the following timeframes:
+(f) *Enforcement period.* This rule will be enforced from 5 p.m. until 1 a.m. each day a barge with a “FIREWORKS-DANGER-STAY AWAY” sign is located within any of the above designated safety zone locations and meets the criteria established in section (b), within the following timeframes: 
 
-(1) The last two weeks of December until the conclusion of the first weekend of January.
+(1) The last two weeks of December until the conclusion of the first weekend of January. 
 
-(2) The last weekend of June until the conclusion of the third week of July.
+(2) The last weekend of June until the conclusion of the third week of July. 
 
-(3) The second weekend of August until the conclusion of the fourth week of August.
+(3) The second weekend of August until the conclusion of the fourth week of August. 
 
-(4) The first weekend of September until the conclusion of the third week of September.
+(4) The first weekend of September until the conclusion of the third week of September. 
 
-(5) The first weekend of December.
+(5) The first weekend of December. 
 
-(g) *Contact information.* Questions about safety zones and related events should be addressed to COMMANDER (spw), U.S. COAST GUARD SECTOR, Attention: Waterways Management Division, 1519 Alaskan Way South, Seattle, WA 98134-1192.
+(g) *Contact information.* Questions about safety zones and related events should be addressed to COMMANDER (spw), U.S. COAST GUARD SECTOR, Attention: Waterways Management Division, 1519 Alaskan Way South, Seattle, WA 98134-1192. 
 
 \[USCG-2010-0063, 75 FR 33700, June 15, 2010, as amended by USCG-2011-0842, 76 FR 61265, Oct. 4, 2011; USCG-2013-0220, 78 FR 29025, May 17, 2013\]

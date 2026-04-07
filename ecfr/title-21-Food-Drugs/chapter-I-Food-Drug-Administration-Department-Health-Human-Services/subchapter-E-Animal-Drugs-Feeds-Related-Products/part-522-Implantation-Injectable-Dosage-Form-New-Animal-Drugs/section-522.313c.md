@@ -1,48 +1,48 @@
 ##### § 522.313c Ceftiofur sodium.
 
-(a) *Specifications.* Each milliliter of aqueous solution constituted from ceftiofur sodium powder contains 50 milligrams (mg) ceftiofur equivalents.
+(a) *Specifications.* Each milliliter of aqueous solution constituted from ceftiofur sodium powder contains 50 milligrams (mg) ceftiofur equivalents. 
 
-(b) *Sponsors.* See Nos. 017033 and 054771 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 017033 and 054771 in § 510.600(c) of this chapter. 
 
-(c) *Related tolerances.* See § 556.113 of this chapter.
+(c) *Related tolerances.* See § 556.113 of this chapter. 
 
-(d) *Special considerations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian. Federal law prohibits extra-label use of this drug in cattle, swine, chickens, and turkeys for disease prevention purposes; at unapproved doses, frequencies, durations, or routes of administration; and in unapproved major food-producing species/production classes.
+(d) *Special considerations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian. Federal law prohibits extra-label use of this drug in cattle, swine, chickens, and turkeys for disease prevention purposes; at unapproved doses, frequencies, durations, or routes of administration; and in unapproved major food-producing species/production classes. 
 
-(e) *Conditions of use*—(1) *Swine*—(i) *Amount.* 3 to 5 mg per kilogram (/kg) body weight by intramuscular injection for 3 consecutive days.
+(e) *Conditions of use*—(1) *Swine*—(i) *Amount.* 3 to 5 mg per kilogram (/kg) body weight by intramuscular injection for 3 consecutive days. 
 
 (ii) *Indications for use.* For treatment and control of swine bacterial respiratory disease (swine bacterial pneumonia) associated with *Actinobacillus pleuropneumoniae*, *Pasteurella multocida*, *Salmonella choleraesuis*, and *Streptococcus suis.*
 
-(iii) *Limitations.* Treated pigs must not be slaughtered for 4 days following the last treatment.
+(iii) *Limitations.* Treated pigs must not be slaughtered for 4 days following the last treatment. 
 
-(2) *Cattle*—(i) *Amount.* 0.5 to 1.0 mg/lb body weight by intramuscular or subcutaneous injection for 3 days. Additional treatments may be given on days 4 and 5 for animals which do not show satisfactory response.
+(2) *Cattle*—(i) *Amount.* 0.5 to 1.0 mg/lb body weight by intramuscular or subcutaneous injection for 3 days. Additional treatments may be given on days 4 and 5 for animals which do not show satisfactory response. 
 
 (ii) *Indications for use.* For treatment of bovine respiratory disease (shipping fever, pneumonia) associated with *Mannheimia haemolytica, Pasteurella multocida,* and *Histophilus somni.* Also, for the treatment of acute bovine interdigital necrobacillosis (foot rot, pododermatitis) associated with *Fusobacterium necrophorum* and *Bacteroides melaninogenicus.*
 
-(iii) *Limitations.* Treated cattle must not be slaughtered for 4 days following the last treatment.
+(iii) *Limitations.* Treated cattle must not be slaughtered for 4 days following the last treatment. 
 
-(3) *Sheep*—(i) *Amount.* 0.5 to 1.0 mg/lb body weight by intramuscular injection for 3 days. Additional treatments may be given on days 4 and 5 for animals which do not show satisfactory response.
+(3) *Sheep*—(i) *Amount.* 0.5 to 1.0 mg/lb body weight by intramuscular injection for 3 days. Additional treatments may be given on days 4 and 5 for animals which do not show satisfactory response. 
 
 (ii) *Indications for use.* For treatment of sheep respiratory disease (sheep pneumonia) associated with *Mannheimia haemolytica* and *Pasteurella multocida.*
 
-(4) *Goats*—(i) *Amount.* 0.5 to 1.0 mg/lb body weight by intramuscular injection for 3 days. Additional treatments may be given on days 4 and 5 for animals which do not show satisfactory response.
+(4) *Goats*—(i) *Amount.* 0.5 to 1.0 mg/lb body weight by intramuscular injection for 3 days. Additional treatments may be given on days 4 and 5 for animals which do not show satisfactory response. 
 
 (ii) *Indications for use.* For treatment of caprine respiratory disease (goat pneumonia) associated with *Mannheimia haemolytica* and *Pasteurella multocida.*
 
-(5) *Chickens*—(i) *Amount.* 0.08 to 0.20 mg as a single subcutaneous injection in the neck.
+(5) *Chickens*—(i) *Amount.* 0.08 to 0.20 mg as a single subcutaneous injection in the neck. 
 
-(ii) *Indications for use.* For control of early mortality associated with *Escherichia coli* organisms susceptible to ceftiofur in day-old chicks.
+(ii) *Indications for use.* For control of early mortality associated with *Escherichia coli* organisms susceptible to ceftiofur in day-old chicks. 
 
-(6) *Turkeys*—(i) *Amount.* 0.17 to 0.5 mg as a single subcutaneous injection in the neck.
+(6) *Turkeys*—(i) *Amount.* 0.17 to 0.5 mg as a single subcutaneous injection in the neck. 
 
-(ii) *Indications for use.* For control of early mortality associated with *E. coli* organisms susceptible to ceftiofur in day-old poults.
+(ii) *Indications for use.* For control of early mortality associated with *E. coli* organisms susceptible to ceftiofur in day-old poults. 
 
-(7) *Horses*—(i) *Amount.* 2.2 to 4.4 mg/kg (1.0 to 2.0 mg/lb) body weight by intramuscular injection. Treatment should be repeated every 24 hours, continued for 48 hours after clinical signs have disappeared, and should not exceed 10 days. A maximum of 10 mL should be administered per injection site.
+(7) *Horses*—(i) *Amount.* 2.2 to 4.4 mg/kg (1.0 to 2.0 mg/lb) body weight by intramuscular injection. Treatment should be repeated every 24 hours, continued for 48 hours after clinical signs have disappeared, and should not exceed 10 days. A maximum of 10 mL should be administered per injection site. 
 
 (ii) *Indications for use.* For treatment of respiratory infections in horses associated with *Streptococcus zooepidemicus.*
 
-(iii) *Limitations.* Do not use in horses intended for human consumption.
+(iii) *Limitations.* Do not use in horses intended for human consumption. 
 
-(8) *Dogs*—(i) *Amount.* 1.0 mg/lb (2.2 mg/kg) body weight by subcutaneous injection. Treatment should be repeated at 24-hour intervals for 5 to 14 days.
+(8) *Dogs*—(i) *Amount.* 1.0 mg/lb (2.2 mg/kg) body weight by subcutaneous injection. Treatment should be repeated at 24-hour intervals for 5 to 14 days. 
 
 (ii) *Indications for use.* For treatment of canine urinary tract infections associated with *E. coli* and *Proteus mirabilis.*
 

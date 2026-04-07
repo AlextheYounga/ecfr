@@ -1,6 +1,6 @@
 ##### § 178.3725 Pigment dispersants.
 
-Subject to the provisions of this regulation, the substances listed in this section may be safely used as pigment dispersants in food-contact materials.
+Subject to the provisions of this regulation, the substances listed in this section may be safely used as pigment dispersants in food-contact materials. 
 
 | Substances                                                                                                                                       | Limitations                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

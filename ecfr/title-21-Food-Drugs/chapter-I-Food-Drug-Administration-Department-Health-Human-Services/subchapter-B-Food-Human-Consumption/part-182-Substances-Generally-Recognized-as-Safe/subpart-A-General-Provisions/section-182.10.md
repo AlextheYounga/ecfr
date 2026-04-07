@@ -1,6 +1,6 @@
 ##### § 182.10 Spices and other natural seasonings and flavorings.
 
-Spices and other natural seasonings and flavorings that are generally recognized as safe for their intended use, within the meaning of section 409 of the Act, are as follows:
+Spices and other natural seasonings and flavorings that are generally recognized as safe for their intended use, within the meaning of section 409 of the Act, are as follows: 
 
 | Common name                                               | Botanical name of plant source                              |
 | --------------------------------------------------------- | ----------------------------------------------------------- |

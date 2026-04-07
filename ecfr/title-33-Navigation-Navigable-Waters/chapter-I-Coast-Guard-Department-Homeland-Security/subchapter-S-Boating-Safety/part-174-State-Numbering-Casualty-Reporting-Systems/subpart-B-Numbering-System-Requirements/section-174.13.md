@@ -1,6 +1,6 @@
 ##### § 174.13 Owner or operator requirements.
 
-A State numbering system must contain the requirements applicable to an owner or a person operating a vessel that are prescribed in the following sections of Part 173:
+A State numbering system must contain the requirements applicable to an owner or a person operating a vessel that are prescribed in the following sections of Part 173: 
 
 (a) Paragraph (a) of § 173.15 *Vessel number required.*
 

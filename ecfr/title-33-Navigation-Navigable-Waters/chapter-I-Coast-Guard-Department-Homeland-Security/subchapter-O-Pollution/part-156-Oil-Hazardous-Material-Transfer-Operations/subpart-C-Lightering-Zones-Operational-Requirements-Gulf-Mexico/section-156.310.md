@@ -1,8 +1,8 @@
 ##### § 156.310 Prohibited areas.
 
-Lightering operations and STS Operations are prohibited within the following areas in the Gulf of Mexico:
+Lightering operations and STS Operations are prohibited within the following areas in the Gulf of Mexico: 
 
-(a) *Claypile—prohibited area.* This prohibited area consists of the waters bounded by a line connecting the following points beginning at:
+(a) *Claypile—prohibited area.* This prohibited area consists of the waters bounded by a line connecting the following points beginning at: 
 
 | Latitude N. | Longitude W.                                     |
 | 28°15′00″,  | 94°35′00″, thence to                             |
@@ -12,7 +12,7 @@ Lightering operations and STS Operations are prohibited within the following are
 
 (NAD 83)
 
-(b) *Flower Garden—prohibited area.* This prohibited area consists of the waters bounded by a line connecting the following points beginning at:
+(b) *Flower Garden—prohibited area.* This prohibited area consists of the waters bounded by a line connecting the following points beginning at: 
 
 | Latitude N. | Longitude W.                                     |
 | 27°40′00″,  | 94°00′00″, thence to                             |
@@ -24,7 +24,7 @@ Lightering operations and STS Operations are prohibited within the following are
 
 (NAD 83)
 
-(c) *Ewing—prohibited area.* This prohibited area consists of the waters bounded by a line connecting the following points beginning at:
+(c) *Ewing—prohibited area.* This prohibited area consists of the waters bounded by a line connecting the following points beginning at: 
 
 | Latitude N. | Longitude W.                                     |
 | 27°53′00″,  | 91°30′00″, thence to                             |

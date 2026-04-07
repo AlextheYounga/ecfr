@@ -1,8 +1,8 @@
 ##### § 167.1702 In Prince William Sound: Prince William Sound Traffic Separation Scheme.
 
-The Prince William Sound Traffic Separation Scheme consists of the following:
+The Prince William Sound Traffic Separation Scheme consists of the following: 
 
-(a) A separation zone bounded by a line connecting the following geographical positions:
+(a) A separation zone bounded by a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
@@ -11,14 +11,14 @@ The Prince William Sound Traffic Separation Scheme consists of the following:
 | 60°48.29′ N | 146°59.77′ W |
 | 60°20.93′ N | 146°50.32′ W |
 
-(b) A traffic lane for northbound traffic between the separation zone and a line connecting the following geographical positions:
+(b) A traffic lane for northbound traffic between the separation zone and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
 | 60°20.59′ N | 146°48.18′ W |
 | 60°49.49′ N | 146°58.19′ W |
 
-(c) A traffic lane for southbound traffic between the separation zone and a line connecting the following geographical positions:
+(c) A traffic lane for southbound traffic between the separation zone and a line connecting the following geographical positions: 
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |

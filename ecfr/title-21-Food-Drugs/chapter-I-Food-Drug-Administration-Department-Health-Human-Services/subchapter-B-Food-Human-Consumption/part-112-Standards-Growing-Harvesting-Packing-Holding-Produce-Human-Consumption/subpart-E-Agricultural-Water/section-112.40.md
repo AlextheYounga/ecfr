@@ -1,6 +1,6 @@
 ##### § 112.40 What requirements of this subpart apply to my covered farm?
 
-This subpart applies to agricultural water used for, or intended for use in, growing, harvesting, packing, or holding covered produce. If you are using agricultural water for a covered activity listed in the first column, then you must meet the requirements in the second column. You also must meet the requirements in the third column, if applicable.
+This subpart applies to agricultural water used for, or intended for use in, growing, harvesting, packing, or holding covered produce. If you are using agricultural water for a covered activity listed in the first column, then you must meet the requirements in the second column. You also must meet the requirements in the third column, if applicable. 
 
 Table 1 to § 112.40
 | If you use agricultural water for this covered activity | Then you must meet these requirements | If applicable, you also must meet these requirements |             |                                   |
