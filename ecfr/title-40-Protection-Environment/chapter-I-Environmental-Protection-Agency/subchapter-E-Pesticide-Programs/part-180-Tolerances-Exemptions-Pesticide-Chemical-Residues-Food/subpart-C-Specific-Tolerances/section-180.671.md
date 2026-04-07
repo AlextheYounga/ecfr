@@ -1,6 +1,6 @@
 ##### § 180.671 Fenpyrazamine; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide fenpyrazamine, in or on the following commodities. Compliance with the tolerance levels specified in the following table is to be determined by measuring only fenpyrazamine S-allyl 5-amino-2-isopropyl-4-(2-methylphenyl)-3-oxo-2,3-dihydropyrazole-1-carbothioate, in or on the following commodities:
+(a) *General.* Tolerances are established for residues of the fungicide fenpyrazamine, in or on the following commodities. Compliance with the tolerance levels specified in the following table is to be determined by measuring only fenpyrazamine S-allyl 5-amino-2-isopropyl-4-(2-methylphenyl)-3-oxo-2,3-dihydropyrazole-1-carbothioate, in or on the following commodities: 
 
 | Commodity                                                           | Parts per   million |
 | ------------------------------------------------------------------- | ------------------- |
@@ -16,10 +16,10 @@
 | Lettuce, leaf                                                       | 2                   |
 | Pistachio                                                           | 0.02                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[78 FR 14465, Mar. 6, 2013\]

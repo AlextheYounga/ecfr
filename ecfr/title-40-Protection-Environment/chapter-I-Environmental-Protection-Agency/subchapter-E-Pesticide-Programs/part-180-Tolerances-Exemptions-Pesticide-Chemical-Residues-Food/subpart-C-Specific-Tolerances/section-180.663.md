@@ -1,6 +1,6 @@
 ##### § 180.663 Ametoctradin; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide ametoctradin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only ametoctradin (5-ethyl-6-octyl\[1,2,4\]triazolo\[1,5-a\]pyrimidin-7-amine).
+(a) *General.* Tolerances are established for residues of the fungicide ametoctradin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only ametoctradin (5-ethyl-6-octyl\[1,2,4\]triazolo\[1,5-a\]pyrimidin-7-amine). 
 
 | Commodity                                                  | Parts per   million |
 | ---------------------------------------------------------- | ------------------- |
@@ -17,10 +17,10 @@
 | Vegetable, leafy, except Brassica, group 4, except spinach | 40.0                |
 | Vegetable, tuberous and corm, subgroup 1C                  | 0.05                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[77 FR 21734, May 9, 2012, as amended at 82 FR 34877, July 27, 2017\]

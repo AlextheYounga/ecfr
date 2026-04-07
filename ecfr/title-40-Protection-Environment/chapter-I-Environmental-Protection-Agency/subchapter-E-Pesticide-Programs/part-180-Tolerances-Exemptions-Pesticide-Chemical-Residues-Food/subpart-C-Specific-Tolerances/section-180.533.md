@@ -1,6 +1,6 @@
 ##### § 180.533 Esfenvalerate; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for the combined residues of the insecticide esfenvalerate, (*S*)-cyano(3-phenoxyphenyl)methyl-(*S*)-4-chloro-α-(1-methylethyl)benzeneacetate, its non-racemic isomer, (*R*)-cyano(3-phenoxyphenyl)methyl-(*R*)-4-chloro-α-(1-methylethyl)benzeneacetate and its diastereomers (*S*)-cyano(3-phenoxyphenyl)methyl-(*R*)-4-chloro-α-(1-methylethyl)benzeneacetate and (*R*)-cyano(3-phenoxyphenyl)methyl-(*S*)-4-chloro-α-(1-methylethyl)benzeneacetate, in or on food commodities as follows:
+(a) *General.* (1) Tolerances are established for the combined residues of the insecticide esfenvalerate, (*S*)-cyano(3-phenoxyphenyl)methyl-(*S*)-4-chloro-α-(1-methylethyl)benzeneacetate, its non-racemic isomer, (*R*)-cyano(3-phenoxyphenyl)methyl-(*R*)-4-chloro-α-(1-methylethyl)benzeneacetate and its diastereomers (*S*)-cyano(3-phenoxyphenyl)methyl-(*R*)-4-chloro-α-(1-methylethyl)benzeneacetate and (*R*)-cyano(3-phenoxyphenyl)methyl-(*S*)-4-chloro-α-(1-methylethyl)benzeneacetate, in or on food commodities as follows: 
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -89,11 +89,11 @@
 | Walnut                                          | 0.2               |
 | Watermelon                                      | 0.5               |
 
-(2) A tolerance of 0.05 ppm on raw agricultural food commodities (other than those food commodities already covered by a higher tolerance as a result of use on growing crops) is established for the combined residues of the insecticide esfenvalerate, (*S*)-cyano(3-phenoxyphenyl)methyl-(*S*)-4-chloro-α-(1-methylethyl)benzeneacetate, its non-racemic isomer, (*R*)-cyano(3-phenoxyphenyl)methyl-(*R*)-4-chloro-α-(1-methylethyl)benzeneacetate and its diastereomers (*S*)-cyano(3-phenoxyphenyl)methyl-(*R*)-4-chloro-α-(1-methylethyl)benzeneacetate and (*R*)-cyano(3-phenoxyphenyl)methyl-(*S*)-4-chloro-α-(1-methylethyl)benzeneacetate as a result of the use of esfenvalerate in food-handling establishments.
+(2) A tolerance of 0.05 ppm on raw agricultural food commodities (other than those food commodities already covered by a higher tolerance as a result of use on growing crops) is established for the combined residues of the insecticide esfenvalerate, (*S*)-cyano(3-phenoxyphenyl)methyl-(*S*)-4-chloro-α-(1-methylethyl)benzeneacetate, its non-racemic isomer, (*R*)-cyano(3-phenoxyphenyl)methyl-(*R*)-4-chloro-α-(1-methylethyl)benzeneacetate and its diastereomers (*S*)-cyano(3-phenoxyphenyl)methyl-(*R*)-4-chloro-α-(1-methylethyl)benzeneacetate and (*R*)-cyano(3-phenoxyphenyl)methyl-(*S*)-4-chloro-α-(1-methylethyl)benzeneacetate as a result of the use of esfenvalerate in food-handling establishments. 
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration are established for the combined residues of the insecticide esfenvalerate, (*S*)-cyano(3-phenoxyphenyl)methyl-(*S*)-4-chloro-α-(1-methylethyl)benzeneacetate, its non-racemic isomer, (*R*)-cyano(3-phenoxyphenyl)methyl-(*R*)-4-chloro-α-(1-methylethyl)benzeneacetate and its diastereomers (*S*)-cyano(3-phenoxyphenyl)methyl-(*R*)-4-chloro-α-(1-methylethyl)benzeneacetate and (*R*)-cyano(3-phenoxyphenyl)methyl-(*S*)-4-chloro-α-(1-methylethyl)benzeneacetate, in or on food commodities as follows:
+(c) *Tolerances with regional registrations.* Tolerances with regional registration are established for the combined residues of the insecticide esfenvalerate, (*S*)-cyano(3-phenoxyphenyl)methyl-(*S*)-4-chloro-α-(1-methylethyl)benzeneacetate, its non-racemic isomer, (*R*)-cyano(3-phenoxyphenyl)methyl-(*R*)-4-chloro-α-(1-methylethyl)benzeneacetate and its diastereomers (*S*)-cyano(3-phenoxyphenyl)methyl-(*R*)-4-chloro-α-(1-methylethyl)benzeneacetate and (*R*)-cyano(3-phenoxyphenyl)methyl-(*S*)-4-chloro-α-(1-methylethyl)benzeneacetate, in or on food commodities as follows: 
 
 | Commodity                  | Parts per million |
 | -------------------------- | ----------------- |
@@ -101,6 +101,6 @@
 | Kohlrabi                   | 2.0               |
 | Lettuce, head              | 5.0               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[63 FR 23401, Apr. 29, 1998, as amended at 63 FR 48615, Sept. 11, 1998; 74 FR 46699, Sept. 11, 2009\]

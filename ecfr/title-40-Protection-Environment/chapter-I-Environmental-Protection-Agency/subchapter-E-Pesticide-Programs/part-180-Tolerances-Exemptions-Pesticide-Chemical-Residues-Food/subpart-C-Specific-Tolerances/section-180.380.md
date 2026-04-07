@@ -1,6 +1,6 @@
 ##### § 180.380 Vinclozolin; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the fungicide vinclozolin (3-(3,5-dichlorophenyl)-5-ethenyl-5-methyl-2,4-oxazolidinedione) and its metabolites containing the 3,5-dichloroaniline moiety in or on the food commodities in the table below. There are no U.S. registrations for grape (wine) as of July 30, 1997.
+(a) *General.* Tolerances are established for the combined residues of the fungicide vinclozolin (3-(3,5-dichlorophenyl)-5-ethenyl-5-methyl-2,4-oxazolidinedione) and its metabolites containing the 3,5-dichloroaniline moiety in or on the food commodities in the table below. There are no U.S. registrations for grape (wine) as of July 30, 1997. 
 
 | Commodity                | Parts per million | Expiration/Revocation Date |
 | ------------------------ | ----------------- | -------------------------- |
@@ -30,13 +30,13 @@
 | Sheep, meat              | 0.05              | 11/30/08                   |
 | Sheep, meat byproducts   | 0.05              | 11/30/08                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
-(e) *Revoked tolerances subject to the channel of trade provisions.* The following table lists commodities with residues of vinclozolin resulting from lawful use are subject to the channels of trade provisions of section 408(l)(5) of the FFDCA:
+(e) *Revoked tolerances subject to the channel of trade provisions.* The following table lists commodities with residues of vinclozolin resulting from lawful use are subject to the channels of trade provisions of section 408(l)(5) of the FFDCA: 
 
 | Commodity                               | Parts per million |
 | --------------------------------------- | ----------------- |

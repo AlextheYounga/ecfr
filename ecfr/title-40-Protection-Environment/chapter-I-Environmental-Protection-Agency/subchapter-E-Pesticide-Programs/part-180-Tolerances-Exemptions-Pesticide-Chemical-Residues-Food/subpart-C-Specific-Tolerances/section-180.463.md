@@ -1,6 +1,6 @@
 ##### § 180.463 Quinclorac; tolerances for residues.
 
-(a)(1) *General.* Tolerances are established for residues of the herbicide quinclorac, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only quinclorac, 3,7-dichloro-8-quinolinecarboxylic acid, in or on the commodity.
+(a)(1) *General.* Tolerances are established for residues of the herbicide quinclorac, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only quinclorac, 3,7-dichloro-8-quinolinecarboxylic acid, in or on the commodity. 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                              | Parts per million |
@@ -45,21 +45,21 @@ Table 1 to Paragraph (a)(1)
 | Wheat, hay                                             | 0.5               |
 | Wheat, straw                                           | 0.1               |
 
-(2) Tolerances are established for residues of the herbicide quinclorac, including its metabolites and degradates, in or on the commodity in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only quinclorac, 3,7-dichloro-8-quinolinecarboxylic acid, and its methyl ester, methyl-3,7-dichloro-8-quinolinecarboxylate, calculated as the stoichiometric equivalent of quinclorac, in or on the commodity.
+(2) Tolerances are established for residues of the herbicide quinclorac, including its metabolites and degradates, in or on the commodity in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only quinclorac, 3,7-dichloro-8-quinolinecarboxylic acid, and its methyl ester, methyl-3,7-dichloro-8-quinolinecarboxylate, calculated as the stoichiometric equivalent of quinclorac, in or on the commodity. 
 
 | Commodity                          | Parts per million |
 | ---------------------------------- | ----------------- |
 | Rapeseed, subgroup 20A 1           | 1.5               |
 | 1 There are no U.S. Registrations. |                   |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the herbicide quinclorac, including its metabolites and degradates, in or on the commodity in the table in this paragraph. Compliance with the tolerance level specified in this paragraph is to be determined by measuring only quinclorac, 3,7-dichloro-8-quinolinecarboxylic acid, in or on the commodity. The tolerance expires and is revoked on the date specified in the table in this paragraph.
+(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the herbicide quinclorac, including its metabolites and degradates, in or on the commodity in the table in this paragraph. Compliance with the tolerance level specified in this paragraph is to be determined by measuring only quinclorac, 3,7-dichloro-8-quinolinecarboxylic acid, in or on the commodity. The tolerance expires and is revoked on the date specified in the table in this paragraph. 
 
 | Commodity | Parts per million | Expiration/revocation date |
 | --------- | ----------------- | -------------------------- |
 | Cranberry | 15.0              | 12/31/12                   |
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[57 FR 47996, Oct. 21, 1992, as amended at 64 FR 6548, 6549, Feb. 10, 1999; 64 FR 14632, Mar. 26, 1999; 65 FR 33701, May 24, 2000; 67 FR 35049, May 17, 2002; 72 FR 55073, Sept. 28, 2007; 74 FR 51490, Oct. 7, 2009; 74 FR 67090, Dec. 18, 2009; 76 FR 23497, Apr. 27, 2011; 77 FR 75566, Dec. 21, 2012; 78 FR 71528, Nov. 29, 2013; 80 FR 72599, Nov. 20, 2015; 82 FR 57149, Dec. 4, 2017; 85 FR 43702, July 20, 2020\]

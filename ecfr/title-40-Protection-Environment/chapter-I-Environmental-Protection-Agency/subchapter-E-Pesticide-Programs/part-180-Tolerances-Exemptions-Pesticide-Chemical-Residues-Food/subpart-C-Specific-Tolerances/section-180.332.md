@@ -1,6 +1,6 @@
 ##### § 180.332 Metribuzin; tolerances for residues.
 
-(a) *General.* Tolerances are established for combined residues of the herbicide metribuzin (4-amino-6-(1,1-dimethyl- ethyl)-3-(methylthio)-;1,2,4-triazin-5(4*H*)-one) and its triazinone metabolites in or on food commodities:
+(a) *General.* Tolerances are established for combined residues of the herbicide metribuzin (4-amino-6-(1,1-dimethyl- ethyl)-3-(methylthio)-;1,2,4-triazin-5(4*H*)-one) and its triazinone metabolites in or on food commodities: 
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -66,10 +66,10 @@
 | Wheat, shorts                                   | 3.0               |
 | Wheat, straw                                    | 1.0               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[42 FR 62913, Dec. 14, 1977, as amended at 43 FR 41396, Sept. 18, 1978; 44 FR 26744, May 7, 1979; 44 FR 45387, Aug. 2, 1979; 52 FR 23654, June 24, 1987; 55 FR 26440, June 28, 1990; 62 FR 66024, 66025, Dec. 17, 1997; 65 FR 33698, May 24, 2000; 66 FR 63198, Dec. 5, 2001; 67 FR 49617, July 31, 2002\]

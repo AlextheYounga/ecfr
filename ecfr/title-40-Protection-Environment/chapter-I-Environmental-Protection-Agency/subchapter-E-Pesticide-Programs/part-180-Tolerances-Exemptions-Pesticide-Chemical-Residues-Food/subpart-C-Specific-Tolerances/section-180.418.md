@@ -1,6 +1,6 @@
 ##### § 180.418 Cypermethrin and isomers alpha-cypermethrin and zeta-cypermethrin; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide cypermethrin (±)alpha cyano-(3-phenoxyphenyl)methyl (±)cis,trans-3(2,2-dichloroethenyl-2,2-dimethylcyclopropanecarboxylate in or on the commodities in table 1 to paragraph (a)(1).
+(a) *General.* (1) Tolerances are established for residues of the insecticide cypermethrin (±)alpha cyano-(3-phenoxyphenyl)methyl (±)cis,trans-3(2,2-dichloroethenyl-2,2-dimethylcyclopropanecarboxylate in or on the commodities in table 1 to paragraph (a)(1). 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                | Parts per   million |
@@ -89,7 +89,7 @@ Table 1 to Paragraph (a)(1)
 | Yellow gentian, roots 1                                  | 0.2                 |
 | 1 There are no U.S. registrations as of October 4, 2023. |                     |
 
-(2) Tolerances are established for residues of zeta-cypermethrin, (*S*-cyano(3-phenoxyphenyl) methyl (±))(cis-trans 3-(2,2-dichloroethenyl)-2,2 dimethylcyclopropanecarboxylate), including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only total cypermethrin, cyano(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane carboxylate, in or on the commodity.
+(2) Tolerances are established for residues of zeta-cypermethrin, (*S*-cyano(3-phenoxyphenyl) methyl (±))(cis-trans 3-(2,2-dichloroethenyl)-2,2 dimethylcyclopropanecarboxylate), including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only total cypermethrin, cyano(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane carboxylate, in or on the commodity. 
 
 Table 2 to Paragraph (a)(2)
 | Commodity                                                                                                                                                   | Parts per   million |
@@ -336,7 +336,7 @@ Table 2 to Paragraph (a)(2)
 | Yam bean, African, dry seed                                                                                                                                 | 0.05                |
 | 1 This tolerance expires on February 4, 2022.                                                                                                               |                     |
 
-(3) Tolerances are established for residues of the insecticide, alpha-cypermethrin, (*R*)-cyano(3-phenoxyphenyl)methyl (1*S,*3*S*)-rel-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane carboxylate, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only total cypermethrin, cyano(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane carboxylate, in or on the commodity.
+(3) Tolerances are established for residues of the insecticide, alpha-cypermethrin, (*R*)-cyano(3-phenoxyphenyl)methyl (1*S,*3*S*)-rel-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane carboxylate, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only total cypermethrin, cyano(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane carboxylate, in or on the commodity. 
 
 Table 3 to Paragraph (a)(3)
 | Commodity                                                                                                                                                    | Parts per million |
@@ -384,10 +384,10 @@ Table 3 to Paragraph (a)(3)
 | Vegetable, root and tuber, group 1, except sugar beet                                                                                                        | 0.10              |
 | Wheat, grain                                                                                                                                                 | 0.20              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[62 FR 63235, 63243, Nov. 26, 1997, as amended at 63 FR 48586, Sept. 11, 1998; 66 FR 47993, Sept. 17, 2001; 67 FR 6430, Feb. 12, 2002; 67 FR 56495, Sept. 4, 2002; 69 FR 71717, Dec. 10, 2004; 71 FR 78382, Dec. 29, 2006; 72 FR 53462, Sept. 19, 2007; 72 FR 71801, Dec. 19, 2007; 73 FR 1525, Jan. 9, 2008; 77 FR 72984, Dec. 7, 2012; 78 FR 7275, Feb. 1, 2013; 79 FR 73213, Dec. 10, 2014; 79 FR 77394, Dec. 24, 2014; 80 FR 45438, July 30, 2015; 80 FR 72599, Nov. 20, 2015; 83 FR 25943, June 5, 2018; 86 FR 41903, Aug. 4, 2021; 88 FR 68481, Oct. 4, 2023\]

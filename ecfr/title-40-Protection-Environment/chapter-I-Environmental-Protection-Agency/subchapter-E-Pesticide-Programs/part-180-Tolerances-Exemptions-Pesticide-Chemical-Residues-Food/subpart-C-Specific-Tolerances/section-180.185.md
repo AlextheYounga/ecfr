@@ -1,6 +1,6 @@
 ##### § 180.185 DCPA; tolerances for residues.
 
-(a) *General.* Tolerances for the combined residues of the herbicide dimethyl tetrachloroterephthalate (DCPA) and its metabolites monomethyltetrachloroterephthalate (MTP) and tetrachloroterephthalic acid (TCP) (calculated as dimethyl tetrachloroterephthalate) are established in or on the following food commodities:
+(a) *General.* Tolerances for the combined residues of the herbicide dimethyl tetrachloroterephthalate (DCPA) and its metabolites monomethyltetrachloroterephthalate (MTP) and tetrachloroterephthalic acid (TCP) (calculated as dimethyl tetrachloroterephthalate) are established in or on the following food commodities: 
 
 | Commodity                           | Parts per million |
 | ----------------------------------- | ----------------- |
@@ -16,16 +16,16 @@
 | Vegetable, brassica, leafy, group 5 | 5.0               |
 | Watermelon                          | 1.0               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for the combined inadvertent residues of the herbicide dimethyl tetrachloroterephthalate (DCPA) and its metabolites monomethyl tetrachloroterephthalate acid (MTP) and terachlorophthalic acid (TCP) (calculated as DCPA) in or on the following food commodities:
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for the combined inadvertent residues of the herbicide dimethyl tetrachloroterephthalate (DCPA) and its metabolites monomethyl tetrachloroterephthalate acid (MTP) and terachlorophthalic acid (TCP) (calculated as DCPA) in or on the following food commodities: 
 
 | Commodity     | Parts per million |
 | ------------- | ----------------- |
 | Radish, roots | 2.0               |
 | Radish, tops  | 15.0              |
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for the combined indirect or inadvertent residues of the herbicide dimethyl tetrachloroterephthalate (DCPA) and its metabolites monomethyl tetrachloroterephthalate acid (MTP) and terachlorophthalic acid (TCP) (calculated as DCPA) in or on the following food commodities:
+(d) *Indirect or inadvertent residues.* Tolerances are established for the combined indirect or inadvertent residues of the herbicide dimethyl tetrachloroterephthalate (DCPA) and its metabolites monomethyl tetrachloroterephthalate acid (MTP) and terachlorophthalic acid (TCP) (calculated as DCPA) in or on the following food commodities: 
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |

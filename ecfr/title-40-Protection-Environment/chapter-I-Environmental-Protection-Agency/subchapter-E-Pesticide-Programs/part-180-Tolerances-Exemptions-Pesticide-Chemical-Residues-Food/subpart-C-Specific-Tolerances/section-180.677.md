@@ -1,6 +1,6 @@
 ##### § 180.677 Cyflumetofen; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide cyflumetofen, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels for cyflumetofen is to be determined by measuring only cyflumetofen, 2-methoxyethyl α-cyano-α-\[4-(1,1-dimethylethyl)phenyl\]-β-oxo-2-(trifluoromethyl)benzenepropanoate, in or on the commodity.
+(a) *General.* Tolerances are established for residues of the insecticide cyflumetofen, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels for cyflumetofen is to be determined by measuring only cyflumetofen, 2-methoxyethyl α-cyano-α-\[4-(1,1-dimethylethyl)phenyl\]-β-oxo-2-(trifluoromethyl)benzenepropanoate, in or on the commodity. 
 
 Table 1 to Paragraph (a)
 | Commodity                                                                        | Parts per   million |
@@ -24,10 +24,10 @@ Table 1 to Paragraph (a)
 | 1 There are no U.S. registrations for this commodity as of May 8, 2019.          |                     |
 | 2 There are no U.S. registrations for these commodities as of November 25, 2019. |                     |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[79 FR 29108, May 21, 2014, as amended at 84 FR 20042, May 8, 2019; 84 FR 64779, Nov. 25, 2019; 85 FR 39494, July 1, 2020; 86 FR 68918, Dec. 6, 2021; 89 FR 40399, May 10, 2024\]

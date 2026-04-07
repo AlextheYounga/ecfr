@@ -1,6 +1,6 @@
 ##### § 52.2171 Classification of regions.
 
-The South Dakota plan evaluated on the basis of the following classifications:
+The South Dakota plan evaluated on the basis of the following classifications: 
 
 | Air quality control region          | Pollutant |
 | ----------------------------------- | --------- |

@@ -1,6 +1,6 @@
 ##### § 180.350 Nitrapyrin; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the nitrification inhibitor nitrapyrin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of nitrapyrin (2-chloro-6-(trichloromethyl) pyridine) and its 6-CPA metabolite (6-chloro-picolinic acid), calculated as the stoichiometric equivalent of nitrapyrin, in or on the commodity:
+(a) *General.* Tolerances are established for residues of the nitrification inhibitor nitrapyrin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of nitrapyrin (2-chloro-6-(trichloromethyl) pyridine) and its 6-CPA metabolite (6-chloro-picolinic acid), calculated as the stoichiometric equivalent of nitrapyrin, in or on the commodity: 
 
 Table 1 to Paragraph (a)
 | Commodity                                       | Parts per million |
@@ -42,10 +42,10 @@ Table 1 to Paragraph (a)
 | Wheat, milled byproducts, except flour          | 2.0               |
 | Wheat, straw                                    | 6.0               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[46 FR 58315, Dec. 1, 1981, as amended at 47 FR 22957, May 26, 1982; 52 FR 33238, Sept. 2, 1987; 58 FR 32304, June 9, 1993; 63 FR 57076, Oct. 26, 1998; 72 FR 53461, Sept. 19, 2007; 82 FR 56744, Nov. 30, 2017; 84 FR 44712, Aug. 27, 2019; 85 FR 48654, Aug. 12, 2020; 87 FR 3449, Jan. 24, 2022\]

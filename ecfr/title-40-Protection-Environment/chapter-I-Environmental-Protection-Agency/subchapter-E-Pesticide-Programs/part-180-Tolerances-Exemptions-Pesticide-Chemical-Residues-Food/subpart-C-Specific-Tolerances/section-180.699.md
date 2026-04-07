@@ -1,6 +1,6 @@
 ##### § 180.699 Pydiflumetofen; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of pydiflumetofen, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only pydiflumetofen (3-(difluoromethyl)-*N*-methoxy-1-methyl-*N*-\[1-methyl-2-(2,4,6-trichlorophenyl)ethyl\]-1*H*-pyrazole-4-carboxamide) in or on the commodity:
+(a) *General.* Tolerances are established for residues of pydiflumetofen, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only pydiflumetofen (3-(difluoromethyl)-*N*-methoxy-1-methyl-*N*-\[1-methyl-2-(2,4,6-trichlorophenyl)ethyl\]-1*H*-pyrazole-4-carboxamide) in or on the commodity: 
 
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts per million |
@@ -93,11 +93,11 @@ Table 1 to Paragraph (a)
 | Wheat, milled byproducts                                            | 2.0               |
 | Wheat, straw                                                        | 30                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for residues of pydiflumetofen, including its metabolites and degradates, in or on the commodities in table 2 to this paragraph (d). Compliance with the tolerance levels specified in table 2 to this paragraph (d) is to be determined by measuring only pydiflumetofen (3-(difluoromethyl)-N-methoxy-1-methyl-N-\[1-methyl-2-(2,4,6-trichlorophenyl)ethyl\]-1H-pyrazole-4-carboxamide) in or on the commodity:
+(d) *Indirect or inadvertent residues.* Tolerances are established for residues of pydiflumetofen, including its metabolites and degradates, in or on the commodities in table 2 to this paragraph (d). Compliance with the tolerance levels specified in table 2 to this paragraph (d) is to be determined by measuring only pydiflumetofen (3-(difluoromethyl)-N-methoxy-1-methyl-N-\[1-methyl-2-(2,4,6-trichlorophenyl)ethyl\]-1H-pyrazole-4-carboxamide) in or on the commodity: 
 
 Table 2 to Paragraph (d)
 | Commodity                                             | Parts per   million |

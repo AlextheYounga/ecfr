@@ -1,6 +1,6 @@
 ##### § 180.2020 Non-food determinations.
 
-The following pesticide chemical uses do not need a tolerance or exemption from the requirement of a tolerance based on EPA's determination that they are not likely to result in residues in or on food.
+The following pesticide chemical uses do not need a tolerance or exemption from the requirement of a tolerance based on EPA's determination that they are not likely to result in residues in or on food. 
 
 | Pesticide Chemical        | CAS Reg. No. | Limits                                                                              | Uses                        |
 | ------------------------- | ------------ | ----------------------------------------------------------------------------------- | --------------------------- |

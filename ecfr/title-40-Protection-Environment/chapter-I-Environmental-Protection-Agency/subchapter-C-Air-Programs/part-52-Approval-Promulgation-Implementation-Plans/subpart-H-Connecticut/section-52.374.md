@@ -1,10 +1,10 @@
 ##### § 52.374 Attainment dates for national standards.
 
-The following table presents the latest dates by which the national standards are to be attained. The dates reflect the information presented in Connecticut's plan.
+The following table presents the latest dates by which the national standards are to be attained. The dates reflect the information presented in Connecticut's plan. 
 
-| Air quality control region2                                                          | Pollutant |
+| Air quality control region                                                           | Pollutant |
 | ------------------------------------------------------------------------------------ | --------- |
-| AQCR 41: Eastern Connecticut Intrastate (See 40 CFR 81.183)a                         | (a)       |
+| AQCR 41: Eastern Connecticut Intrastate (See 40 CFR 81.183)                          | (a)       |
 | AQCR 42: Hartford-New Haven-Springfield Interstate Area (See 40 CFR 81.26)           |           |
 | All portions except City of New Haven                                                | (a)       |
 | City of New Haven                                                                    | (a)       |

@@ -1,6 +1,6 @@
 ##### § 180.472 Imidacloprid; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide imidacloprid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of imidacloprid (1-\[6-chloro-3-pyridinyl) methyl\]-*N*-nitro-2-imidazolidinimine) and its metabolites containing the 6-chloropyridinyl moiety, calculated as the stoichiometric equivalent of imidacloprid, in or on the following commodities:
+(a) *General.* Tolerances are established for residues of the insecticide imidacloprid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of imidacloprid (1-\[6-chloro-3-pyridinyl) methyl\]-*N*-nitro-2-imidazolidinimine) and its metabolites containing the 6-chloropyridinyl moiety, calculated as the stoichiometric equivalent of imidacloprid, in or on the following commodities: 
 
 | Commodity                                                              | Parts per million |
 | ---------------------------------------------------------------------- | ----------------- |
@@ -139,16 +139,16 @@
 | Watercress, upland                                                     | 3.5               |
 | Wax jambu                                                              | 1.0               |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the insecticide imidacloprid, including its metabolites and degradates in connection with use of the pesticide under a Section 18 emergency exemption granted by EPA. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of imidacloprid (1-\[6-chloro-3-pyridinyl)methyl\]-N-nitro-2-imidazolidinimine) and its metabolites containing the 6-chloropyridinyl moiety, calculated as the stoichiometric equivalent of imidacloprid. These tolerances will expire and are revoked on the dates specified in the following table:
+(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the insecticide imidacloprid, including its metabolites and degradates in connection with use of the pesticide under a Section 18 emergency exemption granted by EPA. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of imidacloprid (1-\[6-chloro-3-pyridinyl)methyl\]-N-nitro-2-imidazolidinimine) and its metabolites containing the 6-chloropyridinyl moiety, calculated as the stoichiometric equivalent of imidacloprid. These tolerances will expire and are revoked on the dates specified in the following table: 
 
 | Commodity           | Parts per million | Expiration/revocation date |
 | ------------------- | ----------------- | -------------------------- |
 | Sugarcane, cane     | 6.0               | 12/31/18                   |
 | Sugarcane, molasses | 50                | 12/31/18                   |
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the insecticide imidacloprid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of imidacloprid (1-\[6-chloro-3-pyridinyl) methyl\]-*N*-nitro-2-imidazolidinimine) and its metabolites containing the 6-chloropyridinyl moiety, calculated as the stoichiometric equivalent of imidacloprid, in or on the following commodities, when present therein as a result of the application of the pesticide to growing crops listed in this section and other non-food crops as follows:
+(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the insecticide imidacloprid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of imidacloprid (1-\[6-chloro-3-pyridinyl) methyl\]-*N*-nitro-2-imidazolidinimine) and its metabolites containing the 6-chloropyridinyl moiety, calculated as the stoichiometric equivalent of imidacloprid, in or on the following commodities, when present therein as a result of the application of the pesticide to growing crops listed in this section and other non-food crops as follows: 
 
 | Commodity                             | Parts per million |
 | ------------------------------------- | ----------------- |

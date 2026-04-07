@@ -1,6 +1,6 @@
 ##### § 52.1471 Classification of regions.
 
-The Nevada plan is evaluated on the basis of the following classifications:
+The Nevada plan is evaluated on the basis of the following classifications: 
 
 | Air quality control region  | Pollutant |
 | --------------------------- | --------- |

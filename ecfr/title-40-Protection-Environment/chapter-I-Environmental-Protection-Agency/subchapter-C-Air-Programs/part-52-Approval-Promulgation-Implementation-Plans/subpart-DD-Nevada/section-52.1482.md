@@ -1,8 +1,8 @@
 ##### § 52.1482 Compliance schedules.
 
-(a)-(b) \[Reserved\]
+(a)-(b) \[Reserved\] 
 
-(c) The compliance schedule revisions submitted for the sources identified below are disapproved as not meeting the requirement of subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted.
+(c) The compliance schedule revisions submitted for the sources identified below are disapproved as not meeting the requirement of subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted. 
 
 | Source                                                   | Location        | Regulation involved      | Date of adoption |
 | -------------------------------------------------------- | --------------- | ------------------------ | ---------------- |

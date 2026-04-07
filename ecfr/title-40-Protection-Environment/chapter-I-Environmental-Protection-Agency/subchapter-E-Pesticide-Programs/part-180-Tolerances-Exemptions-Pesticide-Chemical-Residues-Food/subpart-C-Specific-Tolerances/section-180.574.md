@@ -1,6 +1,6 @@
 ##### § 180.574 Fluazinam; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of fluazinam (3-chloro-*N*-\[3-chloro-2,6-dinitro-4-(trifluoromethyl)phenyl\]-5-(trifluoromethyl)-2-pyridinamine), including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluazinam.
+(a) *General.* (1) Tolerances are established for residues of fluazinam (3-chloro-*N*-\[3-chloro-2,6-dinitro-4-(trifluoromethyl)phenyl\]-5-(trifluoromethyl)-2-pyridinamine), including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluazinam. 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                      | Parts per million |
@@ -151,14 +151,14 @@ Table 1 to Paragraph (a)(1)
 | Yam bean, African, dry seed                                    | 0.02              |
 | 1 There is no U.S. registration as of January 19, 2017.        |                   |
 
-(2) Tolerances are established for residues of fluazinam, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluazinam and its metabolite AMGT (3-\[\[4-amino-3-\[\[3-chloro-5-(trifluoromethyl)-2-pyridinyl\]amino\]-2-nitro-6-(trifluoromethyl) phenyl\]thio\]-2-(beta-D-glucopyranosyloxy) propionic acid).
+(2) Tolerances are established for residues of fluazinam, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluazinam and its metabolite AMGT (3-\[\[4-amino-3-\[\[3-chloro-5-(trifluoromethyl)-2-pyridinyl\]amino\]-2-nitro-6-(trifluoromethyl) phenyl\]thio\]-2-(beta-D-glucopyranosyloxy) propionic acid). 
 
 | Commodity                                  | Parts per million |
 | ------------------------------------------ | ----------------- |
 | Grape, wine 1                              | 3.0               |
 | 1 No US registration as of March 15, 2002. |                   |
 
-(3) Tolerances are established for residues of fluazinam (3-chloro-*N*-\[3-chloro-2,6-dinitro-4-(trifluoromethyl)phenyl\]-5-(trifluoromethyl)-2-pyridinamine), including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluazinam, AMPA (2-(6-amino-3-chloro-α,α,α-trifluoro-2-nitro-p-toluidino)-3-chloro-5-(trifluoromethyl) pyridine), DAPA (3-chloro-2-(2,6-diamino-3-chloro-α,α,α.-trifluoro-p-toluidino)-5-(trifluoromethyl)pyridine), and their sulfamate conjugates.
+(3) Tolerances are established for residues of fluazinam (3-chloro-*N*-\[3-chloro-2,6-dinitro-4-(trifluoromethyl)phenyl\]-5-(trifluoromethyl)-2-pyridinamine), including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluazinam, AMPA (2-(6-amino-3-chloro-α,α,α-trifluoro-2-nitro-p-toluidino)-3-chloro-5-(trifluoromethyl) pyridine), DAPA (3-chloro-2-(2,6-diamino-3-chloro-α,α,α.-trifluoro-p-toluidino)-5-(trifluoromethyl)pyridine), and their sulfamate conjugates. 
 
 | Commodity               | Parts per   million |
 | ----------------------- | ------------------- |
@@ -171,10 +171,10 @@ Table 1 to Paragraph (a)(1)
 | Sheep, fat              | 0.05                |
 | Sheep, meat byproducts  | 0.05                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[66 FR 46738, Sept. 7, 2001, as amended at 67 FR 19130, Apr. 18, 2002; 72 FR 60260, Oct. 24, 2007; 75 FR 26667, May 12, 2010; 76 FR 3029, Jan. 19, 2011; 77 FR 66729, Nov. 7, 2012; 81 FR 20550, Apr. 8, 2016; 81 FR 34283, May 31, 2016; 82 FR 21948, May 11, 2017; 86 FR 52081, Sept. 20, 2021\]

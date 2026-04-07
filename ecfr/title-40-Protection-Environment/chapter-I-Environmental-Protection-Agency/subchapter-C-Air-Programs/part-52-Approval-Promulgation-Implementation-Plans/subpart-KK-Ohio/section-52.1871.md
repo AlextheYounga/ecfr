@@ -1,6 +1,6 @@
 ##### § 52.1871 Classification of regions.
 
-The Ohio plan was evaluated on the basis of the following classifications:
+The Ohio plan was evaluated on the basis of the following classifications: 
 
 | Air quality control region                                                         | Pollutant |
 | ---------------------------------------------------------------------------------- | --------- |

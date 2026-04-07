@@ -1,6 +1,6 @@
 ##### § 52.1671 Classification of regions.
 
-The New York plans were evaluated on the basis of the following classifications:
+The New York plans were evaluated on the basis of the following classifications: 
 
 | Air quality control region                 | Pollutant |
 | ------------------------------------------ | --------- |

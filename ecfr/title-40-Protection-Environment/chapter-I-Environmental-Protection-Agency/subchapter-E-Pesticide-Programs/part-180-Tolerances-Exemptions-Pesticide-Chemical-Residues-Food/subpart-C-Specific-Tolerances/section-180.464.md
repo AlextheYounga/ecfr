@@ -1,6 +1,6 @@
 ##### § 180.464 Dimethenamid; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide dimethenamid, 1(R,S)-2-chloro-*N*-\[(1-methyl-2-methoxy)ethyl\]-*N*-(2,4-dimethylthien-3-yl)-acetamide, applied as either the 90:10 or 50:50 S:R isomers, in or on the following food commodities:
+(a) *General.* Tolerances are established for residues of the herbicide dimethenamid, 1(R,S)-2-chloro-*N*-\[(1-methyl-2-methoxy)ethyl\]-*N*-(2,4-dimethylthien-3-yl)-acetamide, applied as either the 90:10 or 50:50 S:R isomers, in or on the following food commodities: 
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -50,15 +50,15 @@
 | Turnip, tops                                    | 0.1               |
 | Vegetable, tuberous and corm, subgroup 1C       | 0.01              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration are established for residues of dimethenamid, 1 (R,S)-2-chloro-N-\[(1-methyl-2-methoxy) ethyl\]-N-(2,4-dimethylthien-3-yl)-acetamide) in or on the following raw agricultural commodities:
+(c) *Tolerances with regional registrations.* Tolerances with regional registration are established for residues of dimethenamid, 1 (R,S)-2-chloro-N-\[(1-methyl-2-methoxy) ethyl\]-N-(2,4-dimethylthien-3-yl)-acetamide) in or on the following raw agricultural commodities: 
 
 | Commodity      | Parts per million |
 | -------------- | ----------------- |
 | Pumpkin        | 0.01              |
 | Squash, winter | 0.01              |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[65 FR 51551, Aug. 24, 2000, as amended at 67 FR 46884, July 17, 2002; 69 FR 29459, May 24, 2004; 69 FR 57207, Sept. 24, 2004; 70 FR 24712, May 11, 2005; 71 FR 25942, May 3, 2006; 71 FR 49354, Aug. 23, 2006; 72 FR 44388, Aug. 8, 2007; 72 FR 73630, Dec. 28, 2007; 80 FR 9215, Feb. 20, 2015\]

@@ -1,6 +1,6 @@
 ##### § 180.275 Chlorothalonil; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for the fungicide chlorothalonil (tetrachloroisophthalonitrile) and its metabolite 4-hydroxy-2,5,6-trichloroisophthalonitrile in or on the following food commodities.
+(a) *General.* (1) Tolerances are established for the fungicide chlorothalonil (tetrachloroisophthalonitrile) and its metabolite 4-hydroxy-2,5,6-trichloroisophthalonitrile in or on the following food commodities. 
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -49,7 +49,7 @@
 | Vegetable, fruiting, group 8, except tomato     | 6.0               |
 | Yam, true                                       | 0.10              |
 
-(2) Tolerances are established for the metabolite 4-hydroxy-2,5,6-trichloroisophthalonitrile in or on the following food commodities.
+(2) Tolerances are established for the metabolite 4-hydroxy-2,5,6-trichloroisophthalonitrile in or on the following food commodities. 
 
 | Commodity                              | Parts per million |
 | -------------------------------------- | ----------------- |
@@ -75,9 +75,9 @@
 | Sheep, meat byproducts, except kidney  | 0.05              |
 | Sheep, meat                            | 0.03              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for the combined residues of chlorothalonil and its metabolite in or on the following raw agricultural commodities:
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for the combined residues of chlorothalonil and its metabolite in or on the following raw agricultural commodities: 
 
 | Commodity        | Parts per million |
 | ---------------- | ----------------- |
@@ -86,6 +86,6 @@
 | Persimmon        | 1.5               |
 | Spearmint, tops  | 2                 |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[42 FR 56114, Oct. 21, 1977\] Editorial Note:For Federal Register citations affecting § 180.275, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

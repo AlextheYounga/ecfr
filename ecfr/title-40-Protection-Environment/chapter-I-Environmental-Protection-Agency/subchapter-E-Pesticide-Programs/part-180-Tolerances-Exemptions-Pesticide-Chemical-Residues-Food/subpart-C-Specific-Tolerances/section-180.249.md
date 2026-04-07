@@ -1,6 +1,6 @@
 ##### § 180.249 Alachlor; tolerances for residues.
 
-(a) *General.* Tolerances are established for combined residues of alachlor (2-chloro-2′,6″-diethyl-*N*-(methoxymethyl)acetanilide) and its metabolites which can be converted to 2,6-diethylaniline (DEA) or 2-ethyl-6-(1-hydroxyethyl)aniline (1-HEEA) upon basic hydrolysis, calculated as alachlor in or on the following raw agricultural commodities.
+(a) *General.* Tolerances are established for combined residues of alachlor (2-chloro-2′,6″-diethyl-*N*-(methoxymethyl)acetanilide) and its metabolites which can be converted to 2,6-diethylaniline (DEA) or 2-ethyl-6-(1-hydroxyethyl)aniline (1-HEEA) upon basic hydrolysis, calculated as alachlor in or on the following raw agricultural commodities. 
 
 | Commodity                | Parts per million |
 | ------------------------ | ----------------- |
@@ -45,11 +45,11 @@
 | Sunflower, meal          | 3.4               |
 | Sunflower, seed          | 2.5               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of alachlor (2-chloro-2′,6′-diethyl-*N*-(methoxymethyl)acetanilide) and its metabolites which can be converted to 2,6-diethylaniline (DEA) or 2-ethyl-6-(1-hydroxyethyl)aniline (1-HEEA) upon basic hydrolysis, calculated as alachlor, in or on the following raw agricultural commodities when present therein as a result of the application of alachlor to the growing crops in paragraph (a) of this section:
+(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of alachlor (2-chloro-2′,6′-diethyl-*N*-(methoxymethyl)acetanilide) and its metabolites which can be converted to 2,6-diethylaniline (DEA) or 2-ethyl-6-(1-hydroxyethyl)aniline (1-HEEA) upon basic hydrolysis, calculated as alachlor, in or on the following raw agricultural commodities when present therein as a result of the application of alachlor to the growing crops in paragraph (a) of this section: 
 
 | Commodity                                                                              | Parts per million |
 | -------------------------------------------------------------------------------------- | ----------------- |

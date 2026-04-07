@@ -1,6 +1,6 @@
 ##### § 180.425 Clomazone; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide clomazone, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only clomazone, 2-\[(2-chlorophenyl)methyl\]-4,4-dimethyl-3-isoxazolidinone, in or on the commodity.
+(a) *General.* Tolerances are established for residues of the herbicide clomazone, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only clomazone, 2-\[(2-chlorophenyl)methyl\]-4,4-dimethyl-3-isoxazolidinone, in or on the commodity. 
 
 | Commodity                                                | Parts per million |
 | -------------------------------------------------------- | ----------------- |
@@ -54,10 +54,10 @@
 | White sweet lupin, dry seed                              | 0.05              |
 | \* This tolerance expires on June 5, 2019.               |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[51 FR 9446, Mar. 19, 1986\] Editorial Note:For Federal Register citations affecting § 180.425, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
 ##### § 180.605 Penoxsulam; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of penoxsulam, including its metabolites and degradates, in or on the commodities listed in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only penoxsulam 2-(2,2-difluoroethoxy)-*N*-(5,8-dimethoxy\[1,2,4\]triazolo\[1,5-c\] pyrimidin-2-yl)-6-(trifluoromethyl) benzenesulfonamide, in or on the commodity.
+(a) *General.* Tolerances are established for residues of penoxsulam, including its metabolites and degradates, in or on the commodities listed in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only penoxsulam 2-(2,2-difluoroethoxy)-*N*-(5,8-dimethoxy\[1,2,4\]triazolo\[1,5-c\] pyrimidin-2-yl)-6-(trifluoromethyl) benzenesulfonamide, in or on the commodity. 
 
 | Commodity                                                            | Parts per   million |
 | -------------------------------------------------------------------- | ------------------- |
@@ -17,10 +17,10 @@
 | Pomegranate                                                          | 0.01                |
 | Rice, grain                                                          | 0.02                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[69 FR 57197, Sept. 24, 2004, as amended at 72 FR 40763, July 25, 2007; 74 FR 18648, Apr. 24, 2009; 80 FR 72599, Nov. 20, 2015; 81 FR 10776, Mar. 2, 2016; 85 FR 13552, Mar. 9, 2020\]

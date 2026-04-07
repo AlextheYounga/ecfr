@@ -1,6 +1,6 @@
 ##### § 180.658 Penthiopyrad; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of penthiopyrad, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only penthiopyrad (*N*-\[2-(1,3-dimethylbutyl)-3-thienyl\]-1-methyl-3-(trifluoromethyl)-1H-pyrazole-4-carboxamide).
+(a) *General.* (1) Tolerances are established for residues of penthiopyrad, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only penthiopyrad (*N*-\[2-(1,3-dimethylbutyl)-3-thienyl\]-1-methyl-3-(trifluoromethyl)-1H-pyrazole-4-carboxamide). 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                 | Parts per million |
@@ -83,7 +83,7 @@ Table 1 to Paragraph (a)(1)
 | 1 This tolerance expires on December 6, 2019.                             |                   |
 | 2 There are no U.S. registrations for this commodity as of April 7, 2021. |                   |
 
-(2) Tolerances are established for residues of penthiopyrad, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of penthiopyrad (*N*-\[2-(1,3-dimethylbutyl)-3-thienyl\]-1-methyl-3-(trifluoromethyl)-1H-pyrazole-4-carboxamide) and its metabolite (1-methyl-3-trifluoromethyl-1H-pyrazole-4-carboxamide), calculated as the stoichiometric equivalent of penthiopyrad, in or on the commodity.
+(2) Tolerances are established for residues of penthiopyrad, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of penthiopyrad (*N*-\[2-(1,3-dimethylbutyl)-3-thienyl\]-1-methyl-3-(trifluoromethyl)-1H-pyrazole-4-carboxamide) and its metabolite (1-methyl-3-trifluoromethyl-1H-pyrazole-4-carboxamide), calculated as the stoichiometric equivalent of penthiopyrad, in or on the commodity. 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -101,10 +101,10 @@ Table 1 to Paragraph (a)(1)
 | Sheep, meat             | 0.03              |
 | Sheep, meat byproducts  | 0.09              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[77 FR 14297, Mar. 9, 2012, as amended at 84 FR 26359, June 6, 2019; 86 FR 17920, Apr. 7, 2021; 88 FR 10244, Feb. 17, 2023\]

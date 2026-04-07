@@ -1,6 +1,6 @@
 ##### § 180.339 MCPA; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide MCPA, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (a). Compliance with the tolerance levels specified in Table 1 to this paragraph (a) is to be determined by measuring only MCPA, 2-(4-chloro-2-methylphenoxy)acetic acid, in or on the commodity.
+(a) *General.* Tolerances are established for residues of the herbicide MCPA, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (a). Compliance with the tolerance levels specified in Table 1 to this paragraph (a) is to be determined by measuring only MCPA, 2-(4-chloro-2-methylphenoxy)acetic acid, in or on the commodity. 
 
 Table 1 to Paragraph (a)
 | Commodity                        | Parts per   million |
@@ -59,6 +59,6 @@ Table 1 to Paragraph (a)
 | Wheatgrass, intermediate, hay    | 50                  |
 | Wheatgrass, intermediate, straw  | 50                  |
 
-(b)-(d) \[Reserved\]
+(b)-(d) \[Reserved\] 
 
 \[86 FR 71154, Dec. 15, 2021\]

@@ -1,6 +1,6 @@
 ##### § 180.129 o-Phenylphenol and its sodium salt; tolerances for residues.
 
-(a) *General.* Tolerances are established for combined residues of the fungicide o-phenylphenol and sodium o-phenylphenate, each expressed as o-phenylphenol, from postharvest application of either in or on the following food commodities:
+(a) *General.* Tolerances are established for combined residues of the fungicide o-phenylphenol and sodium o-phenylphenate, each expressed as o-phenylphenol, from postharvest application of either in or on the following food commodities: 
 
 | Commodity                                 | Parts per million |
 | ----------------------------------------- | ----------------- |
@@ -21,10 +21,10 @@
 | Sweet potato, roots                       | 15                |
 | Tomato                                    | 10                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[73 FR 54960, Sept. 24, 2008\]

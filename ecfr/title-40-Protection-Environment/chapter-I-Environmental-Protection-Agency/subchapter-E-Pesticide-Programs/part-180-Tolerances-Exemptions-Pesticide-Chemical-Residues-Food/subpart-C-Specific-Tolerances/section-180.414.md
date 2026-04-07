@@ -1,6 +1,6 @@
 ##### § 180.414 Cyromazine; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of cyromazine, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only cyromazine, *N*-cyclopropyl-1,3,5-triazine-2,4,6-triamine.
+(a) *General.* (1) Tolerances are established for residues of cyromazine, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only cyromazine, *N*-cyclopropyl-1,3,5-triazine-2,4,6-triamine. 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                        | Parts per million |
@@ -63,13 +63,13 @@ Table 1 to Paragraph (a)(1)
 | 1 There are no U.S. registrations on mango as of May 4, 2000.                    |                   |
 | 2 This tolerance expires on April 7, 2020.                                       |                   |
 
-(2) A tolerance of 5.0 parts per million is established for residues of the insecticide cyromazine, including its metabolites and degradates, in or on poultry feed when used as a feed additive only in feed for chicken layer hens and chicken breeder hens at the rate of not more than 0.01 pound of cyromazine per ton of poultry feed for control of flies in manure of treated chicken layer hens and chicken breeder hens, provided the feeding of cyromazine-treated feed must stop at least 3 days (72 hours) before slaughter. If the feed is formulated by any person other than the end user, the formulator must inform the end user, in writing, of the 3-day (72 hours) pre-slaughter interval. Compliance with the tolerance level specified in this paragraph is to be determined by measuring only cyromazine, *N*-cyclopropyl-1,3,5-triazine-2,4,6-triamine, in or on the commodity.
+(2) A tolerance of 5.0 parts per million is established for residues of the insecticide cyromazine, including its metabolites and degradates, in or on poultry feed when used as a feed additive only in feed for chicken layer hens and chicken breeder hens at the rate of not more than 0.01 pound of cyromazine per ton of poultry feed for control of flies in manure of treated chicken layer hens and chicken breeder hens, provided the feeding of cyromazine-treated feed must stop at least 3 days (72 hours) before slaughter. If the feed is formulated by any person other than the end user, the formulator must inform the end user, in writing, of the 3-day (72 hours) pre-slaughter interval. Compliance with the tolerance level specified in this paragraph is to be determined by measuring only cyromazine, *N*-cyclopropyl-1,3,5-triazine-2,4,6-triamine, in or on the commodity. 
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* (1) Tolerances are established for indirect or inadvertent residues of the insecticide cyromazine, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (d)(1) when present therein as a result of the application of cyromazine to growing crops listed in paragraph (a)(1) of this section. Compliance with the tolerance levels specified in this paragraph (d)(1) is to be determined by measuring only cyromazine, *N*-cyclopropyl-1,3,5-triazine-2,4,6-triamine, in or on the commodity.
+(d) *Indirect or inadvertent residues.* (1) Tolerances are established for indirect or inadvertent residues of the insecticide cyromazine, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (d)(1) when present therein as a result of the application of cyromazine to growing crops listed in paragraph (a)(1) of this section. Compliance with the tolerance levels specified in this paragraph (d)(1) is to be determined by measuring only cyromazine, *N*-cyclopropyl-1,3,5-triazine-2,4,6-triamine, in or on the commodity. 
 
 Table 2 to Paragraph (d)(1)
 | Commodity                                       | Parts per million |
@@ -81,7 +81,7 @@ Table 2 to Paragraph (d)(1)
 | Radish, roots                                   | 0.5               |
 | Radish, tops                                    | 0.5               |
 
-(2) Tolerances are established for indirect or inadvertent residues of the insecticide cyromazine, including its metabolites and degradates, in or on the commodities in the table 3 to this paragraph (d)(2) when present therein as a result of the application of poultry manure-based fertilizer containing cyromazine to soil in which the crops identified in this section are grown. Compliance with the tolerance levels specified in this paragraph (d)(2) is to be determined by measuring only cyromazine, *N*-cyclopropyl-1,3,5-triazine-2,4,6-triamine, in or on the commodity.
+(2) Tolerances are established for indirect or inadvertent residues of the insecticide cyromazine, including its metabolites and degradates, in or on the commodities in the table 3 to this paragraph (d)(2) when present therein as a result of the application of poultry manure-based fertilizer containing cyromazine to soil in which the crops identified in this section are grown. Compliance with the tolerance levels specified in this paragraph (d)(2) is to be determined by measuring only cyromazine, *N*-cyclopropyl-1,3,5-triazine-2,4,6-triamine, in or on the commodity. 
 
 Table 3 to Paragraph (d)(2)
 | Commodity                                         | Parts per million |

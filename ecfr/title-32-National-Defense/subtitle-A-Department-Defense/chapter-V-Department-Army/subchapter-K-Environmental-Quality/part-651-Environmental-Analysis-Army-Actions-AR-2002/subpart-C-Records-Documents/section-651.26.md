@@ -1,3 +1,0 @@
-##### § 651.26 Record of decision.
-
-The Record of Decision (ROD) is a concise public document summarizing the findings in the EIS and the basis for the decision. A public ROD is required under the provisions of 40 CFR 1505.2 after completion of an EIS (see § 651.45 (j) for application). The ROD must identify mitigations which were important in supporting decisions, such as those mitigations which reduce otherwise significant impacts, and ensure that appropriate monitoring procedures are implemented (see § 651.15 for application).

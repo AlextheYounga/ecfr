@@ -1,6 +1,6 @@
 ##### § 52.1221 Classification of regions.
 
-The Minnesota plan was evaluated on the basis of the following classifications:
+The Minnesota plan was evaluated on the basis of the following classifications: 
 
 | Air quality control region                           | Pollutant |
 | ---------------------------------------------------- | --------- |

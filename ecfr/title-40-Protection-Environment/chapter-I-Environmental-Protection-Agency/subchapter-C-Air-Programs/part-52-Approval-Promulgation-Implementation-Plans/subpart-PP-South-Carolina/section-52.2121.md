@@ -1,6 +1,6 @@
 ##### § 52.2121 Classification of regions.
 
-The South Carolina plan was evaluated on the basis of the following classifications:
+The South Carolina plan was evaluated on the basis of the following classifications: 
 
 | Air quality control region                              | Pollutant |
 | ------------------------------------------------------- | --------- |

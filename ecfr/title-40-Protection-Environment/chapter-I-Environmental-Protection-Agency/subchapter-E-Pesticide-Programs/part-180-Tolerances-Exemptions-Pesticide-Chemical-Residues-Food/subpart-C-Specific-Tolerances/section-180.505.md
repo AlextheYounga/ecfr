@@ -1,6 +1,6 @@
 ##### § 180.505 Emamectin; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for emamectin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of emamectin (a mixture of a minimum of 90% 4′-epi-methylamino-4′-deoxyavermectin B1a and maximum of 10% 4′-epi-methylamino-4′-deoxyavermectin B1b) and its metabolites 8,9-isomer of the B1a and B1b component of the parent (8,9-ZMA), or 4′-deoxy-4′-epi-amino-avermectin B1a and 4'-deoxy-4′-epi-amino-avermectin B1b; 4′-deoxy-4′-epi-amino avermectin B1a (AB1a); 4′-deoxy-4′-epi-(*N*-formyl-*N*-methyl)amino-avermectin (MFB1a); and 4′-deoxy-4′-epi-(*N*-formyl)amino-avermectin B1a (FAB1a), calculated as the stoichiometric equivalent of emamectin.
+(a) *General.* (1) Tolerances are established for emamectin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of emamectin (a mixture of a minimum of 90% 4′-epi-methylamino-4′-deoxyavermectin B1a and maximum of 10% 4′-epi-methylamino-4′-deoxyavermectin B1b) and its metabolites 8,9-isomer of the B1a and B1b component of the parent (8,9-ZMA), or 4′-deoxy-4′-epi-amino-avermectin B1a and 4'-deoxy-4′-epi-amino-avermectin B1b; 4′-deoxy-4′-epi-amino avermectin B1a (AB1a); 4′-deoxy-4′-epi-(*N*-formyl-*N*-methyl)amino-avermectin (MFB1a); and 4′-deoxy-4′-epi-(*N*-formyl)amino-avermectin B1a (FAB1a), calculated as the stoichiometric equivalent of emamectin. 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                                          | Parts per million |
@@ -31,7 +31,7 @@ Table 1 to Paragraph (a)(1)
 | 1 There are no U.S. registrations for use of emamectin on grape, wine.                             |                   |
 | 2 Emamectin benzoate has not been registered for use in the United States as of February 17, 2021. |                   |
 
-(2) Tolerances are established for emamectin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the sum of emamectin (MAB1a + MAB1b isomers) and the associated 8,9-Z isomers (8,9-ZB1a and 8,9-ZB1b).
+(2) Tolerances are established for emamectin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the sum of emamectin (MAB1a + MAB1b isomers) and the associated 8,9-Z isomers (8,9-ZB1a and 8,9-ZB1b). 
 
 | Commodity                             | Parts per million |
 | ------------------------------------- | ----------------- |
@@ -57,10 +57,10 @@ Table 1 to Paragraph (a)(1)
 | Sheep, meat                           | 0.003             |
 | Sheep, meat byproducts, except liver  | 0.020             |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect and inadvertant residues.* \[Reserved\]
+(d) *Indirect and inadvertant residues.* \[Reserved\] 
 
 \[71 FR 18649, Apr. 12, 2006, as amended at 74 FR 2873, Jan. 16, 2009; 78 FR 18511, Mar. 27, 2013; 78 FR 49939, Aug. 16, 2013; 84 FR 44725, Aug. 27, 2019; 86 FR 9868, Feb. 17, 2021; 86 FR 44620, Aug. 13, 2021\]

@@ -1,6 +1,6 @@
 ##### § 180.623 Flufenoxuron; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide, flufenoxuron, 1-\[4-(2-chloro-α,α,α-trifluoro-p-tolyloxy)-2-fluorophenyl\]-3-(2,6-difluorobenzoyl)urea, in or on the following food commodities.
+(a) *General.* Tolerances are established for residues of the insecticide, flufenoxuron, 1-\[4-(2-chloro-α,α,α-trifluoro-p-tolyloxy)-2-fluorophenyl\]-3-(2,6-difluorobenzoyl)urea, in or on the following food commodities. 
 
 | Commodity                                                   | Parts per million |
 | ----------------------------------------------------------- | ----------------- |
@@ -26,10 +26,10 @@
 | Sheep, meat byproducts 1                                    | 0.50              |
 | 1 There are no U.S. registrations as of September 30, 2006. |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional restrictions.* \[Reserved\]
+(c) *Tolerances with regional restrictions.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[71 FR 57436, Sept. 29, 2006\]

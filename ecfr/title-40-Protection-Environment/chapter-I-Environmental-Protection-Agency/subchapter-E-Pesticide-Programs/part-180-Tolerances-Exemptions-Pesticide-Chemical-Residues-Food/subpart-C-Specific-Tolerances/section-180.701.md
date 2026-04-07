@@ -1,6 +1,6 @@
 ##### § 180.701 Pyrifluquinazon; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide pyrifluquinazon, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyrifluquinazon (1-acetyl-3,4-dihydro-3-\[(3-pyridinylmethyl)amino\]-6-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]-2(1*H*)-quinazolinone) and its metabolite IV-01 (3-\[(pyridin-3-ylmethyl)amino\]-6-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]-3,4-dihydro-1*H*-quinazolin-2-one), calculated as the stoichiometric equivalent of pyrifluquinazon.
+(a) *General.* (1) Tolerances are established for residues of the insecticide pyrifluquinazon, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyrifluquinazon (1-acetyl-3,4-dihydro-3-\[(3-pyridinylmethyl)amino\]-6-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]-2(1*H*)-quinazolinone) and its metabolite IV-01 (3-\[(pyridin-3-ylmethyl)amino\]-6-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]-3,4-dihydro-1*H*-quinazolin-2-one), calculated as the stoichiometric equivalent of pyrifluquinazon. 
 
 | Commodity                                                                 | Parts per   million |
 | ------------------------------------------------------------------------- | ------------------- |
@@ -25,7 +25,7 @@
 | Vegetable, tuberous and corm, subgroup 1C                                 | 0.02                |
 | 1 There are no U.S. registrations as of November 26, 2018 for use on tea. |                     |
 
-(2) Tolerances are established for residues of the insecticide pyrifluquinazon, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyrifluquinazon (1-acetyl-3,4-dihydro-3-\[(3-pyridinylmethyl)amino\]-6-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]-2(1*H*)-quinazolinone) and the free and conjugated forms of its metabolites IV-01 (3-\[(pyridin-3-ylmethyl)amino\]-6-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]-3,4-dihydro-1*H*-quinazolin-2-one) and IV-203 (6-\[1,2,2,2-tetrafluoro-1-trifluoromethyl)ethyl\]-1*H*-quinazolin-2,4-dione), calculated as the stoichiometric equivalent of pyrifluquinazon.
+(2) Tolerances are established for residues of the insecticide pyrifluquinazon, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyrifluquinazon (1-acetyl-3,4-dihydro-3-\[(3-pyridinylmethyl)amino\]-6-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]-2(1*H*)-quinazolinone) and the free and conjugated forms of its metabolites IV-01 (3-\[(pyridin-3-ylmethyl)amino\]-6-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]-3,4-dihydro-1*H*-quinazolin-2-one) and IV-203 (6-\[1,2,2,2-tetrafluoro-1-trifluoromethyl)ethyl\]-1*H*-quinazolin-2,4-dione), calculated as the stoichiometric equivalent of pyrifluquinazon. 
 
 | Commodity     | Parts per   million |
 | ------------- | ------------------- |
@@ -34,10 +34,10 @@
 | Horse, liver  | 0.04                |
 | Sheep, liver  | 0.04                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[83 FR 60371, Nov. 26, 2018\]

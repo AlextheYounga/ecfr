@@ -1,6 +1,6 @@
 ##### § 180.509 Mefenpyr-diethyl; tolerance for residues.
 
-(a) *General.* Tolerances are established for residues of the safener, mefenpyr-diethyl, including its metabolites and degradates, when applied at a rate no greater than 0.053 pound safener per acre per growing season in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of mefenpyr-diethyl (1-(2,4-dichlorophenyl)-4,5-dihydro-5-methyl-1H-pyrazole-3,5-dicarboxylic acid, diethyl ester) and its 2,4-dichlorophenyl-pyrazoline metabolites, calculated as the stoichiometric equivalent of mefenpyr-diethyl, in or on the commodity.
+(a) *General.* Tolerances are established for residues of the safener, mefenpyr-diethyl, including its metabolites and degradates, when applied at a rate no greater than 0.053 pound safener per acre per growing season in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of mefenpyr-diethyl (1-(2,4-dichlorophenyl)-4,5-dihydro-5-methyl-1H-pyrazole-3,5-dicarboxylic acid, diethyl ester) and its 2,4-dichlorophenyl-pyrazoline metabolites, calculated as the stoichiometric equivalent of mefenpyr-diethyl, in or on the commodity. 
 
 | Commodity               | Parts per   million |
 | ----------------------- | ------------------- |
@@ -22,11 +22,11 @@
 | Wheat, hay              | 0.2                 |
 | Wheat, straw            | 0.5                 |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of mefenpyr-diethyl, including its metabolites and degradates, when applied at a rate no greater than 0.053 pound safener per acre per growing season in or on the commodities identified in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of mefenpyr-diethyl (1-(2,4-dichlorophenyl)-4,5-dihydro-5-methyl-1H-pyrazole-3,5-dicarboxylic acid, diethyl ester) and its 2,4-dichlorophenyl-pyrazoline metabolites, calculated as the stoichiometric equivalent of mefenpyr-diethyl, in or on the commodity.
+(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of mefenpyr-diethyl, including its metabolites and degradates, when applied at a rate no greater than 0.053 pound safener per acre per growing season in or on the commodities identified in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of mefenpyr-diethyl (1-(2,4-dichlorophenyl)-4,5-dihydro-5-methyl-1H-pyrazole-3,5-dicarboxylic acid, diethyl ester) and its 2,4-dichlorophenyl-pyrazoline metabolites, calculated as the stoichiometric equivalent of mefenpyr-diethyl, in or on the commodity. 
 
 | Commodity       | Parts per   million |
 | --------------- | ------------------- |

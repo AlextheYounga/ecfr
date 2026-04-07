@@ -1,6 +1,6 @@
 ##### § 180.331 4-(2,4-Dichlorophenoxy) butyric acid; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide 4-(2,4-dichlorophenoxy) butyric acid (2,4-DB), both free and conjugated, determined as the acid, in or on food commodities, as follows:
+(a) *General.* Tolerances are established for residues of the herbicide 4-(2,4-dichlorophenoxy) butyric acid (2,4-DB), both free and conjugated, determined as the acid, in or on food commodities, as follows: 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -22,10 +22,10 @@
 | Trefoil, forage         | 0.7               |
 | Trefoil, hay            | 2.0               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[73 FR 54961, Sept. 24, 2008, as amended at 74 FR 46374, Sept. 9, 2009\]

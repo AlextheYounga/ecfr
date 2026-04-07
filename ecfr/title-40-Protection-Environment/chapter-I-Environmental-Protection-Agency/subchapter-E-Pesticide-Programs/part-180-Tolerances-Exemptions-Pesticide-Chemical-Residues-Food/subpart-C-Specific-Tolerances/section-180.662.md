@@ -1,6 +1,6 @@
 ##### § 180.662 Trinexapac-ethyl; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the plant growth regulator, trinexapac-ethyl, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (a). Compliance with the tolerance levels specified in table 1 is to be determined by measuring only the free and conjugated forms of both trinexapac-ethyl, ethyl 4-(cyclopropylhydroxymethylene)-3,5-dioxocyclohexanecarboxylate and trinexapac, 4-(cyclopropylhydroxymethylene)-3,5-dioxocyclohexanecarboxylic acid, calculated as the stoichiometric equivalent of trinexapac-ethyl, in or on the commodity.
+(a) *General.* Tolerances are established for residues of the plant growth regulator, trinexapac-ethyl, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (a). Compliance with the tolerance levels specified in table 1 is to be determined by measuring only the free and conjugated forms of both trinexapac-ethyl, ethyl 4-(cyclopropylhydroxymethylene)-3,5-dioxocyclohexanecarboxylate and trinexapac, 4-(cyclopropylhydroxymethylene)-3,5-dioxocyclohexanecarboxylic acid, calculated as the stoichiometric equivalent of trinexapac-ethyl, in or on the commodity. 
 
 Table 1 to Paragraph (a)
 | Commodity                                                               | Parts per   million |
@@ -56,9 +56,9 @@ Table 1 to Paragraph (a)
 | Wheat, straw                                                            | 0.9                 |
 | 1 There are no U.S. registrations for Poppy, seed as of March 15, 2018. |                     |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registrations, as defined in § 180.1, are established for residues of trinexapac-ethyl, including its metabolites and degradates, in or on the commodities in table 2 to this paragraph (c). Compliance with the tolerance levels specified in table 2 is to be determined by measuring only the free and conjugated forms of both trinexapac-ethyl, ethyl 4-(cyclopropylhydroxymethylene)-3,5-dioxocyclohexanecarboxylate and trinexapac, 4-(cyclopropylhydroxymethylene)-3,5-dioxocyclohexanecarboxylic acid, calculated as the stoichiometric equivalent of trinexapac-ethyl, in or on the commodity.
+(c) *Tolerances with regional registrations.* Tolerances with regional registrations, as defined in § 180.1, are established for residues of trinexapac-ethyl, including its metabolites and degradates, in or on the commodities in table 2 to this paragraph (c). Compliance with the tolerance levels specified in table 2 is to be determined by measuring only the free and conjugated forms of both trinexapac-ethyl, ethyl 4-(cyclopropylhydroxymethylene)-3,5-dioxocyclohexanecarboxylate and trinexapac, 4-(cyclopropylhydroxymethylene)-3,5-dioxocyclohexanecarboxylic acid, calculated as the stoichiometric equivalent of trinexapac-ethyl, in or on the commodity. 
 
 Table 2 to Paragraph (c)
 | Commodity      | Parts per   million |
@@ -66,6 +66,6 @@ Table 2 to Paragraph (c)
 | Clover, forage | 8                   |
 | Clover, hay    | 15                  |
 
-(d) \[Reserved\]
+(d) \[Reserved\] 
 
 \[88 FR 18434, Mar. 29, 2023\]

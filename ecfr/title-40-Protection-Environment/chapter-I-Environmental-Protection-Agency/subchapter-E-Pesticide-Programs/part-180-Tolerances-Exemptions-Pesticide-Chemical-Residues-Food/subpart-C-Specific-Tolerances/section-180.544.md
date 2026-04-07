@@ -1,6 +1,6 @@
 ##### § 180.544 Methoxyfenozide; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide methoxyfenozide, including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only methoxyfenozide (3-methoxy-2-methylbenzoic acid 2-(3,5-dimethylbenzoyl)-2-(1,1-dimethylethyl) hydrazide) in or on the commodity.
+(a) *General.* (1) Tolerances are established for residues of the insecticide methoxyfenozide, including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only methoxyfenozide (3-methoxy-2-methylbenzoic acid 2-(3,5-dimethylbenzoyl)-2-(1,1-dimethylethyl) hydrazide) in or on the commodity. 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                              | Parts per million |
@@ -238,7 +238,7 @@ Table 1 to Paragraph (a)(1)
 | 1 There are no U.S. registrations as of March 12, 2019 for use on tea. |                   |
 | 2 There are no U.S. registrations as of August 28, 2023.               |                   |
 
-(2) Tolerances are established for residues of the insecticide methoxyfenozide, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the sum of methoxyfenozide \[3-methoxy-2-methylbenzoic acid 2-(3,5-dimethylbenzoyl)-2-(1,1-dimethylethyl) hydrazide\] and its glucuronide metabolite (β-D-Glucopyranuronic acid, 3-\[\[2-(1,1-dimethylethyl)-2-(3,5-dimethylbenzoyl)-hydrazino\]carbonyl\]-2-methylphenyl-), calculated as the stoichiometric equivalent of methoxyfenozide.
+(2) Tolerances are established for residues of the insecticide methoxyfenozide, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the sum of methoxyfenozide \[3-methoxy-2-methylbenzoic acid 2-(3,5-dimethylbenzoyl)-2-(1,1-dimethylethyl) hydrazide\] and its glucuronide metabolite (β-D-Glucopyranuronic acid, 3-\[\[2-(1,1-dimethylethyl)-2-(3,5-dimethylbenzoyl)-hydrazino\]carbonyl\]-2-methylphenyl-), calculated as the stoichiometric equivalent of methoxyfenozide. 
 
 Table 2 to Paragraph (a)(2)
 | Commodity                              | Parts per million |
@@ -257,9 +257,9 @@ Table 2 to Paragraph (a)(2)
 | Sheep, liver                           | 0.40              |
 | Sheep, meat byproducts, except liver   | 0.10              |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances for regional registration are established for the insecticide methoxyfenozide, including its metabolites and degradates, in or on the raw agricultural commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only methoxyfenozide \[3-methoxy-2-methylbenzoic acid 2-(3,5-dimethylbenzoyl)-2-(1,1-dimethylethyl) hydrazide\].
+(c) *Tolerances with regional registrations.* Tolerances for regional registration are established for the insecticide methoxyfenozide, including its metabolites and degradates, in or on the raw agricultural commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only methoxyfenozide \[3-methoxy-2-methylbenzoic acid 2-(3,5-dimethylbenzoyl)-2-(1,1-dimethylethyl) hydrazide\]. 
 
 Table 3 to Paragraph (c)
 | Commodity   | Parts per   million |
@@ -267,14 +267,14 @@ Table 3 to Paragraph (c)
 | Rice, grain | 30                  |
 | Rice, hulls | 55                  |
 
-(d) *Indirect or inadvertent tolerances.* (1) Tolerances are established for the indirect or inadvertent residues of the insecticide methoxyfenozide, including its metabolites and degradates, in or on the raw agricultural commodities in the following table, when present therein as a result of the application of methoxyfenozide to growing crops as listed in paragraph (a) of this section. Compliance with the tolerance levels specified in the following table is to be determined by measuring only methoxyfenozide \[3-methoxy-2-methylbenzoic acid 2-(3,5-dimethylbenzoyl)-2-(1,1-dimethylethyl) hydrazide\].
+(d) *Indirect or inadvertent tolerances.* (1) Tolerances are established for the indirect or inadvertent residues of the insecticide methoxyfenozide, including its metabolites and degradates, in or on the raw agricultural commodities in the following table, when present therein as a result of the application of methoxyfenozide to growing crops as listed in paragraph (a) of this section. Compliance with the tolerance levels specified in the following table is to be determined by measuring only methoxyfenozide \[3-methoxy-2-methylbenzoic acid 2-(3,5-dimethylbenzoyl)-2-(1,1-dimethylethyl) hydrazide\]. 
 
 | Commodity                   | Parts per   million |
 | --------------------------- | ------------------- |
 | Onion, bulb, subgroup 3-07A | 0.10                |
 | Potato                      | 0.02                |
 
-(2) Tolerances are established for the indirect or inadvertent residues of the insecticide methoxyfenozide, including its metabolites and degradates, in or on the raw agricultural commodities in the following table, when present therein as a result of the application of methoxyfenozide to growing crops as listed in paragraph (a) of this section. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the sum of methoxyfenozide \[3-methoxy-2-methylbenzoic acid, 2-(3,5-dimethylbenzoyl)-2-(1,1-dimethylethyl) hydrazide\] and the following metabolites (all calculated as the stoichiometric equivalent of methoxyfenozide): free phenol of methoxyfenozide \[3,5-dimethylbenzoic acid N-tert-butyl-N′-(3-hydroxy-2-methylbenzoyl) hydrazide\], the glucose conjugate of the phenol \[3,5-dimethyl benzoic acid N-tert-butyl-N′-\[3 (β-D-glucopyranosyloxy)-2-methylbenzoyl\]-hydrazide\] and the malonylglycosyl conjugate of the phenol \[3,5-dimethyl benzoic acid N-tert-butyl-N′-\[3 (β-D-6-malonyl-glucopyranosyl-1-oxy)-2-methylbenzoyl\]-hydrazide\].
+(2) Tolerances are established for the indirect or inadvertent residues of the insecticide methoxyfenozide, including its metabolites and degradates, in or on the raw agricultural commodities in the following table, when present therein as a result of the application of methoxyfenozide to growing crops as listed in paragraph (a) of this section. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the sum of methoxyfenozide \[3-methoxy-2-methylbenzoic acid, 2-(3,5-dimethylbenzoyl)-2-(1,1-dimethylethyl) hydrazide\] and the following metabolites (all calculated as the stoichiometric equivalent of methoxyfenozide): free phenol of methoxyfenozide \[3,5-dimethylbenzoic acid N-tert-butyl-N′-(3-hydroxy-2-methylbenzoyl) hydrazide\], the glucose conjugate of the phenol \[3,5-dimethyl benzoic acid N-tert-butyl-N′-\[3 (β-D-glucopyranosyloxy)-2-methylbenzoyl\]-hydrazide\] and the malonylglycosyl conjugate of the phenol \[3,5-dimethyl benzoic acid N-tert-butyl-N′-\[3 (β-D-6-malonyl-glucopyranosyl-1-oxy)-2-methylbenzoyl\]-hydrazide\]. 
 
 | Commodity                                                     | Parts per   million |
 | ------------------------------------------------------------- | ------------------- |

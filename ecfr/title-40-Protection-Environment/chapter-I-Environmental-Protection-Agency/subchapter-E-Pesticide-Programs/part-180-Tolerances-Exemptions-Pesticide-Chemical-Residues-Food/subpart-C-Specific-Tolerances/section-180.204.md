@@ -1,6 +1,6 @@
 ##### § 180.204 Dimethoate; tolerances for residues.
 
-(a) *General.* Tolerances are established for total residues of the insecticide dimethoate (*O*,*O*-dimethyl *S*-(*N*\- methylcarbamoylmethyl) phosphorodithioate) including its oxygen analog (*O*,*O*-dimethyl *S*-(*N-* methylcarbamoylmethyl) phosphorothioate) in or on the following food commodities:
+(a) *General.* Tolerances are established for total residues of the insecticide dimethoate (*O*,*O*-dimethyl *S*-(*N*\- methylcarbamoylmethyl) phosphorodithioate) including its oxygen analog (*O*,*O*-dimethyl *S*-(*N-* methylcarbamoylmethyl) phosphorothioate) in or on the following food commodities: 
 
 | Commodity                                             | Parts per million |
 | ----------------------------------------------------- | ----------------- |
@@ -60,9 +60,9 @@
 | Wheat, straw                                          | 2.0               |
 | 1 There are U.S. registrations as of August 16, 1996. |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for total residues of dimethoate including its oxygen analog in or on the following food commodities:
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for total residues of dimethoate including its oxygen analog in or on the following food commodities: 
 
 | Commodity        | Parts per million |
 | ---------------- | ----------------- |
@@ -71,6 +71,6 @@
 | Cherry, sweet    | 2.0               |
 | Cherry, tart     | 2.0               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[65 FR 33697, May 24, 2000, as amended at 69 FR 6567, Feb. 11, 2004; 73 FR 53737, Sept. 17, 2008\]

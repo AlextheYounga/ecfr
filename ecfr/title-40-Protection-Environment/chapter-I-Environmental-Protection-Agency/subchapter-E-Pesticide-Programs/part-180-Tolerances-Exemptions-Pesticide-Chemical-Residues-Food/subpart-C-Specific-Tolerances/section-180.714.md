@@ -1,6 +1,6 @@
 ##### § 180.714 Broflanilide; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of broflanilide, including its metabolites and degradates, in or on the commodities to Table 1 of this section. Compliance with the tolerance levels specified in Table 1 is to be determined by measuring only broflanilide, 3-(benzoylmethylamino)-*N*-\[2-bromo-4-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]-6-(trifluoromethyl)phenyl\]-2-fluorobenzamide, in or on the commodity.
+(a) *General.* (1) Tolerances are established for residues of broflanilide, including its metabolites and degradates, in or on the commodities to Table 1 of this section. Compliance with the tolerance levels specified in Table 1 is to be determined by measuring only broflanilide, 3-(benzoylmethylamino)-*N*-\[2-bromo-4-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]-6-(trifluoromethyl)phenyl\]-2-fluorobenzamide, in or on the commodity. 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                  | Parts per   million |
@@ -27,7 +27,7 @@ Table 1 to Paragraph (a)(1)
 | Teff, straw                                                                | 0.01                |
 | Vegetable, tuberous and corm, subgroup 1C                                  | 0.04                |
 
-(2) Tolerances are established for residues of broflanilide, including its metabolites and degradates, in or on the commodities to Table 2 of this section. Compliance with the tolerance levels specified in Table 2 is to be determined by measuring the sum of broflanilide, 3-(benzoylmethylamino)-*N*-\[2-bromo-4-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]-6-(trifluoromethyl)phenyl\]-2-fluorobenzamide, and its metabolite 3-benzamido-*N*-\[2-bromo-4-(perfluoropropan-2-yl)-6-(trifluoromethyl)phenyl\]-2-fluorobenzamide, calculated as the stoichiometric equivalent of broflanilide, in or on the commodity.
+(2) Tolerances are established for residues of broflanilide, including its metabolites and degradates, in or on the commodities to Table 2 of this section. Compliance with the tolerance levels specified in Table 2 is to be determined by measuring the sum of broflanilide, 3-(benzoylmethylamino)-*N*-\[2-bromo-4-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]-6-(trifluoromethyl)phenyl\]-2-fluorobenzamide, and its metabolite 3-benzamido-*N*-\[2-bromo-4-(perfluoropropan-2-yl)-6-(trifluoromethyl)phenyl\]-2-fluorobenzamide, calculated as the stoichiometric equivalent of broflanilide, in or on the commodity. 
 
 Table 2 to Paragraph (a)(2)
 | Commodity                | Parts per   million |
@@ -53,6 +53,6 @@ Table 2 to Paragraph (a)(2)
 | Sheep, meat              | 0.02                |
 | Sheep, meat byproducts   | 0.02                |
 
-(b)-(d) \[Reserved\]
+(b)-(d) \[Reserved\] 
 
 \[85 FR 81805, Dec. 17, 2020\]

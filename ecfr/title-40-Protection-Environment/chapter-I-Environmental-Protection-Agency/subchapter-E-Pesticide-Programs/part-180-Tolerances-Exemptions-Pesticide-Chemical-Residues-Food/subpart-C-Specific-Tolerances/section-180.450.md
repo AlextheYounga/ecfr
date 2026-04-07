@@ -1,6 +1,6 @@
 ##### § 180.450 Beta-(4-Chlorophenoxy)-alpha-(1,1-dimethylethyl)-1H-1,2,4-triazole-1-ethanol; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the fungicide β-(4-chlorophenoxy)-α-(1,1-dimethylethyl)-1*H*-1,2,4-triazole-1-ethanol (triadimenol) and its butanediol metabolite, 4-(4-chlorophenoxy)-2,2-dimethyl-4-(1*H*-1,2,4-triazol-l-yl)-1,3-butanediol, calculated as triadimenol, in or on the following commodities:
+(a) *General.* Tolerances are established for the combined residues of the fungicide β-(4-chlorophenoxy)-α-(1,1-dimethylethyl)-1*H*-1,2,4-triazole-1-ethanol (triadimenol) and its butanediol metabolite, 4-(4-chlorophenoxy)-2,2-dimethyl-4-(1*H*-1,2,4-triazol-l-yl)-1,3-butanediol, calculated as triadimenol, in or on the following commodities: 
 
 | Commodity                                                                      | Parts per million | Expiration/Revocation Date |
 | ------------------------------------------------------------------------------ | ----------------- | -------------------------- |
@@ -27,10 +27,10 @@
 | Wheat, straw                                                                   | 0.2               | None                       |
 | 1 There are no U.S. registrations for banana (whole) as of September 22, 1993. |                   |                            |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[73 FR 54962, Sept. 24, 2008, as amended at 74 FR 47457, Sept. 16, 2009; 76 FR 34885, June 15, 2011\]

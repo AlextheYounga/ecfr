@@ -1,6 +1,6 @@
 ##### § 52.2521 Classification of regions.
 
-The West Virginia plan was evaluated on the basis of the following classifications:
+The West Virginia plan was evaluated on the basis of the following classifications: 
 
 | Air quality control region                       | Pollutant |
 | ------------------------------------------------ | --------- |

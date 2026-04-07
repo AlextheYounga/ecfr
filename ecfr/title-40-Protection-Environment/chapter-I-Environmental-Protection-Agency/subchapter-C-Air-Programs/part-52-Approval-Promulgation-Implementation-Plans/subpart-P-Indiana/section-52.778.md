@@ -1,10 +1,10 @@
 ##### § 52.778 Compliance schedules.
 
-(a) The requirements of § 51.262(a) of this chapter are not met since the compliance schedules for sources of nitrogen oxides extend over a period of more than 18 months and periodic increments of progress are not included.
+(a) The requirements of § 51.262(a) of this chapter are not met since the compliance schedules for sources of nitrogen oxides extend over a period of more than 18 months and periodic increments of progress are not included. 
 
-(b)-(c) \[Reserved\]
+(b)-(c) \[Reserved\] 
 
-(d) The compliance schedule for the source identified below is disapproved as not meeting the requirements of subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted.
+(d) The compliance schedule for the source identified below is disapproved as not meeting the requirements of subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted. 
 
 | Source                                                        | Location | Regulation involved | Date schedule adopted |
 | ------------------------------------------------------------- | -------- | ------------------- | --------------------- |

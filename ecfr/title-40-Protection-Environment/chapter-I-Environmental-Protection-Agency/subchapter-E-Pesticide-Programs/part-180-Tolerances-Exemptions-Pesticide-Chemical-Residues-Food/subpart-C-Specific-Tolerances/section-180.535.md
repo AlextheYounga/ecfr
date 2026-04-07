@@ -1,6 +1,6 @@
 ##### § 180.535 Fluroxypyr 1-methylheptyl ester; tolerances for residues.
 
-(a) *General.* Tolerances are established for combined residues of fluroxypyr 1-methylheptyl ester \[1-methylheptyl ((4-amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy)acetate\] and its metabolite fluroxypyr \[((4-amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy)acetic acid\] in or on the following raw agricultural commodities. Compliance with the established tolerance levels is determined by measuring only the sum of fluroxypyr 1-methylheptyl ester \[1-methylheptyl ((4-amino-3, 5-dichloro-6-fluoro-2-pyridinyl)oxy)acetate\] and its metabolite fluroxypyr \[((4-amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy)acetic acid\] calculated as the stoichiometric equivalent of fluroxypyr.
+(a) *General.* Tolerances are established for combined residues of fluroxypyr 1-methylheptyl ester \[1-methylheptyl ((4-amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy)acetate\] and its metabolite fluroxypyr \[((4-amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy)acetic acid\] in or on the following raw agricultural commodities. Compliance with the established tolerance levels is determined by measuring only the sum of fluroxypyr 1-methylheptyl ester \[1-methylheptyl ((4-amino-3, 5-dichloro-6-fluoro-2-pyridinyl)oxy)acetate\] and its metabolite fluroxypyr \[((4-amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy)acetic acid\] calculated as the stoichiometric equivalent of fluroxypyr. 
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -64,10 +64,10 @@
 | Wheat, hay                                      | 20.0              |
 | Wheat, straw                                    | 12.0              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[63 FR 52169, Sept. 30, 1998, as amended at 64 FR 22799, Apr. 28, 1999; 66 FR 37598, July 19, 2001; 66 FR 47971, Sept. 17, 2001; 67 FR 46884, July 17, 2002; 67 FR 60146, Sept. 25, 2002; 68 FR 75438, Dec. 31, 2003; 69 FR 2074, Jan. 14, 2004; 70 FR 3649, Jan. 26, 2005; 70 FR 7047, Feb. 10, 2005; 71 FR 76204, Dec. 20, 2006; 72 FR 73635, Dec. 28, 2007; 78 FR 3333, Jan. 16, 2013; 83 FR 29706, June 26, 2018\]

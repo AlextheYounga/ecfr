@@ -1,6 +1,6 @@
 ##### § 52.1971 Classification of regions.
 
-The Oregon plan was evaluated on the basis of the following classifications:
+The Oregon plan was evaluated on the basis of the following classifications: 
 
 | Air quality control region  | Pollutant |
 | --------------------------- | --------- |

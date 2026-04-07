@@ -1,6 +1,6 @@
 ##### § 180.613 Flonicamid; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for the residues of the insecticide flonicamid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of flonicamid, *N*-(cyanomethyl)-4-(trifluoromethyl)-3-pyridinecarboxamide, and its metabolites, TFNA (4-trifluoromethylnicotinic acid), TFNA-AM (4-trifluoromethylnicotinamide), and TFNG, *N*-(4-trifluoromethylnicotinoyl)glycine, calculated as the stoichiometric equivalent of flonicamid, in or on the following commodities.
+(a) *General.* (1) Tolerances are established for the residues of the insecticide flonicamid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of flonicamid, *N*-(cyanomethyl)-4-(trifluoromethyl)-3-pyridinecarboxamide, and its metabolites, TFNA (4-trifluoromethylnicotinic acid), TFNA-AM (4-trifluoromethylnicotinamide), and TFNG, *N*-(4-trifluoromethylnicotinoyl)glycine, calculated as the stoichiometric equivalent of flonicamid, in or on the following commodities. 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                     | Parts per million |
@@ -61,7 +61,7 @@ Table 1 to Paragraph (a)(1)
 | Vegetable, tuberous and corm, subgroup 1C                                     | 0.20              |
 | 1 There are no U.S. registrations for tea as of May 11, 2017.                 |                   |
 
-(2) Tolerances are established for the residues of the insecticide flonicamid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of flonicamid, *N*-(cyanomethyl)-4-(trifluoromethyl)-3-pyridinecarboxamide, and its metabolites, TFNA (4-trifluoromethylnicotinic acid), and TFNA-AM (4-trifluoromethylnicotinamide), calculated as the Stoichiometric equivalent of flonicamid, in or on the following commodities.
+(2) Tolerances are established for the residues of the insecticide flonicamid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of flonicamid, *N*-(cyanomethyl)-4-(trifluoromethyl)-3-pyridinecarboxamide, and its metabolites, TFNA (4-trifluoromethylnicotinic acid), and TFNA-AM (4-trifluoromethylnicotinamide), calculated as the Stoichiometric equivalent of flonicamid, in or on the following commodities. 
 
 | Commodity                | Parts per million |
 | ------------------------ | ----------------- |
@@ -86,15 +86,15 @@ Table 1 to Paragraph (a)(1)
 | Sheep, meat              | 0.08              |
 | Sheep, meat byproducts   | 0.08              |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined by § 180.1(1), are established for the residues of the insecticide flonicamid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of flonicamid, *N*-(cyanomethyl)-4-(trifluoromethyl)-3-pyridinecarboxamide, and its metabolites, TFNA (4-trifluoromethylnicotinic acid), TFNA-AM (4-trifluoromethylnicotinamide), and TFNG (*N*-(4-trifluoromethylnicotinoyl)glycine), calculated as the stoichiometric equivalent of flonicamid, in or on the following commodities:
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined by § 180.1(1), are established for the residues of the insecticide flonicamid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of flonicamid, *N*-(cyanomethyl)-4-(trifluoromethyl)-3-pyridinecarboxamide, and its metabolites, TFNA (4-trifluoromethylnicotinic acid), TFNA-AM (4-trifluoromethylnicotinamide), and TFNG (*N*-(4-trifluoromethylnicotinoyl)glycine), calculated as the stoichiometric equivalent of flonicamid, in or on the following commodities: 
 
 | Commodity      | Parts per   million |
 | -------------- | ------------------- |
 | Clover, forage | 0.90                |
 | Clover, hay    | 5.0                 |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[70 FR 51614, Aug. 31, 2005, as amended at 71 FR 15608, Mar. 29, 2006; 73 FR 17923, Apr. 2, 2008; 77 FR 67776, Nov. 14, 2012; 78 FR 75266, Dec. 11, 2013; 81 FR 52352, Aug. 8, 2016; 82 FR 21945, May 11, 2017; 82 FR 31471, July 7, 2017; 83 FR 3615, Jan. 26, 2018; 83 FR 34780, July 23, 2018; 84 FR 13808, Apr. 8, 2019; 85 FR 31986, May 28, 2020; 86 FR 8704, Feb. 9, 2021; 87 FR 30429, May 19, 2022; 88 FR 64823, Sept. 20, 2023; 89 FR 33238, Apr. 29, 2024\]

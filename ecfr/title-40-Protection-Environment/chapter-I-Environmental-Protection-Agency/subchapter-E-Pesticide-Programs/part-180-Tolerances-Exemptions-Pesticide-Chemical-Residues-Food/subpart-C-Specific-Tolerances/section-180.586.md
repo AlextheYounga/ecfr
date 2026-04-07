@@ -1,6 +1,6 @@
 ##### § 180.586 Clothianidin; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide clothianidin, including its metabolites and degradates. Compliance with the tolerance levels specified below is to be determined by measuring only clothianidin, (*E*)-*N*-\[(2-Chloro-5-thiazolyl)methyl\]-*N′* -methyl-*N″* -nitroguanidine, in or on the following raw agricultural commodities:
+(a) *General.* (1) Tolerances are established for residues of the insecticide clothianidin, including its metabolites and degradates. Compliance with the tolerance levels specified below is to be determined by measuring only clothianidin, (*E*)-*N*-\[(2-Chloro-5-thiazolyl)methyl\]-*N′* -methyl-*N″* -nitroguanidine, in or on the following raw agricultural commodities: 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                                                       | Parts per million |
@@ -43,13 +43,13 @@ Table 1 to Paragraph (a)(1)
 | Vegetable, tuberous and corm, subgroup 1C                                                                       | 0.3               |
 | 1 No U.S. registrations.                                                                                        |                   |
 
-(2) Time-limited tolerances are established for residues of the insecticide clothianidin, including its metabolites and degradates. Compliance with the tolerance levels specified below is to be determined by measuring only clothianidin, (E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine, in or on the following raw agricultural commodity:
+(2) Time-limited tolerances are established for residues of the insecticide clothianidin, including its metabolites and degradates. Compliance with the tolerance levels specified below is to be determined by measuring only clothianidin, (E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine, in or on the following raw agricultural commodity: 
 
 | Commodity  | Parts per million | Expiration/revocation date |
 | ---------- | ----------------- | -------------------------- |
 | Rice, seed | 0.01              | 6/23/12                    |
 
-(b) *Section 18 emergency exemptions.* A time-limited tolerance specified in the following table is established for residues of clothianidin, *(E)*-*N*-\[(2-chloro-5-thiazolyl)methyl\]-*N'*-methyl-*N”*-nitroguanidine, in or on the specified agricultural commodity, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. This tolerance expires on the date specified in the table.
+(b) *Section 18 emergency exemptions.* A time-limited tolerance specified in the following table is established for residues of clothianidin, *(E)*-*N*-\[(2-chloro-5-thiazolyl)methyl\]-*N'*-methyl-*N”*-nitroguanidine, in or on the specified agricultural commodity, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. This tolerance expires on the date specified in the table. 
 
 Table 3 to Paragraph (b)
 | Commodity                  | Parts per   million | Expiration/   revocation date |
@@ -57,9 +57,9 @@ Table 3 to Paragraph (b)
 | Fruit, citrus, group 10-10 | 0.07                | 12/31/26                      |
 | Rice, grain                | 0.5                 | 12/31/27                      |
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect and inadvertant residues.* Tolerances are established for the indirect or inadvertent residues of the insecticide clothianidin, including its metabolites and degradates. Compliance with the tolerance levels specified below is to be determined by measuring only clothianidin, (E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine, in or on the following raw agricultural commodities when present therein as a result of the application of clothianidin to crops listed in paragraph (a) of this section:
+(d) *Indirect and inadvertant residues.* Tolerances are established for the indirect or inadvertent residues of the insecticide clothianidin, including its metabolites and degradates. Compliance with the tolerance levels specified below is to be determined by measuring only clothianidin, (E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine, in or on the following raw agricultural commodities when present therein as a result of the application of clothianidin to crops listed in paragraph (a) of this section: 
 
 | Commodity                               | Parts per million |
 | --------------------------------------- | ----------------- |

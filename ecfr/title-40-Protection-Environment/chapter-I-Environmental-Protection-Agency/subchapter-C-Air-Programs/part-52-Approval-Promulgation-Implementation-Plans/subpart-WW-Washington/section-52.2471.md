@@ -1,6 +1,6 @@
 ##### § 52.2471 Classification of regions.
 
-The Washington plan was evaluated on the basis of the following classifications:
+The Washington plan was evaluated on the basis of the following classifications: 
 
 | Air quality control region                   | Pollutant |
 | -------------------------------------------- | --------- |

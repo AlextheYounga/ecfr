@@ -1,6 +1,6 @@
 ##### § 52.1571 Classification of regions.
 
-The New Jersey plan was evaluated on the basis of the following classifications:
+The New Jersey plan was evaluated on the basis of the following classifications: 
 
 | Air quality control region                              | Pollutant |
 | ------------------------------------------------------- | --------- |

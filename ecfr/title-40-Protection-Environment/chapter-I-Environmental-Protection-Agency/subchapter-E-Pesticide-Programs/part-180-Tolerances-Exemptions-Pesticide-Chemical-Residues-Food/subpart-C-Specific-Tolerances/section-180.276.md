@@ -1,6 +1,6 @@
 ##### § 180.276 Formetanate hydrochloride; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide formetanate hydrochloride, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only formetanate hydrochloride, N,N-dimethyl-N'-\[3-\[(methylamino)carbonyl\]oxy\]phenyl\]methanimidamide hydrochloride, in or on the commodity.
+(a) *General.* Tolerances are established for residues of the insecticide formetanate hydrochloride, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only formetanate hydrochloride, N,N-dimethyl-N'-\[3-\[(methylamino)carbonyl\]oxy\]phenyl\]methanimidamide hydrochloride, in or on the commodity. 
 
 | Commodity         | Parts per   million | Expiration/revocation date |
 | ----------------- | ------------------- | -------------------------- |
@@ -16,10 +16,10 @@
 | Tangelo           | 0.03                | None                       |
 | Tangerine         | 0.03                | None                       |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[77 FR 40815, July 11, 2012\]

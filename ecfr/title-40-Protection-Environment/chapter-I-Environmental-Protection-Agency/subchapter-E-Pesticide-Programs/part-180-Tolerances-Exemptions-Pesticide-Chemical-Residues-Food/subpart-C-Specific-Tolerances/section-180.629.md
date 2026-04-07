@@ -1,6 +1,6 @@
 ##### § 180.629 Flutriafol; tolerances for residues.
 
-(a) *General.* Tolerances are established for the residues of flutriafol, \[(±)-α-(2-fluorophenyl)-α-(4-fluorophenyl)-1*H*-1,2,4-triazole-1-ethanol\], including its metabolites and degradates in or on the following commodities. Compliance with the following tolerances is to be determined by measuring flutriafol only.
+(a) *General.* Tolerances are established for the residues of flutriafol, \[(±)-α-(2-fluorophenyl)-α-(4-fluorophenyl)-1*H*-1,2,4-triazole-1-ethanol\], including its metabolites and degradates in or on the following commodities. Compliance with the following tolerances is to be determined by measuring flutriafol only. 
 
 | Commodity                                                                          | Parts per million |
 | ---------------------------------------------------------------------------------- | ----------------- |
@@ -101,11 +101,11 @@
 | Wheat, straw                                                                       | 9.0               |
 | 1 There are no U.S. registrations as of October 22, 2013.                          |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations* \[Reserved\]
+(c) *Tolerances with regional registrations* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of the fungicide flutriafol, including its metabolites and degradates, in or on the commodities in the table 2 to this paragraph (d) when present therein as a result of the application of flutriafol to the growing crops listed in the table to paragraph (a) of this section. Compliance with the following tolerance levels specified in table 2 to this paragraph (d) is to be determined by measuring only flutriafol ((±)-α-(2-fluorophenyl)-α-(4-fluorophenyl)-1*H*-1,2,4-triazole-1-ethanol) in or on the following commodities:
+(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of the fungicide flutriafol, including its metabolites and degradates, in or on the commodities in the table 2 to this paragraph (d) when present therein as a result of the application of flutriafol to the growing crops listed in the table to paragraph (a) of this section. Compliance with the following tolerance levels specified in table 2 to this paragraph (d) is to be determined by measuring only flutriafol ((±)-α-(2-fluorophenyl)-α-(4-fluorophenyl)-1*H*-1,2,4-triazole-1-ethanol) in or on the following commodities: 
 
 Table 2 to Paragraph (d)
 | Commodity   | Parts per   million |

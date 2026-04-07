@@ -1,6 +1,6 @@
 ##### § 180.610 Aminopyralid; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the herbicide aminopyralid, 4-amino-3,6-dichloro-2-pyridinecarboxylic acid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only free and conjugated aminopyralid.
+(a) *General.* (1) Tolerances are established for residues of the herbicide aminopyralid, 4-amino-3,6-dichloro-2-pyridinecarboxylic acid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only free and conjugated aminopyralid. 
 
 | Commodity                  | Parts per million |
 | -------------------------- | ----------------- |
@@ -16,7 +16,7 @@
 | Wheat, hay                 | 4.0               |
 | Wheat, straw               | 0.25              |
 
-(2) Tolerances are established for residues of the herbicide aminopyralid, 4-amino-3,6-dichloro-2-pyridinecarboxylic acid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only aminopyralid.
+(2) Tolerances are established for residues of the herbicide aminopyralid, 4-amino-3,6-dichloro-2-pyridinecarboxylic acid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only aminopyralid. 
 
 | Commodity                              | Parts per million |
 | -------------------------------------- | ----------------- |
@@ -38,10 +38,10 @@
 | Sheep, meat                            | 0.02              |
 | Sheep, meat byproducts, except kidney  | 0.02              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[70 FR 46428, Aug. 10, 2005, as amended at 75 FR 17584, Apr. 7, 2010\]

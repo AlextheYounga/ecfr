@@ -1,6 +1,6 @@
 ##### § 180.593 Etoxazole; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of etoxazole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only etoxazole (2-(2,6-difluorophenyl)-4-\[4-(1,1-dimethylethyl)-2-ethoxyphenyl\]-4,5-dihydrooxazole) in or on the commodity.
+(a) *General.* Tolerances are established for residues of etoxazole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only etoxazole (2-(2,6-difluorophenyl)-4-\[4-(1,1-dimethylethyl)-2-ethoxyphenyl\]-4,5-dihydrooxazole) in or on the commodity. 
 
 | Commodity                                                                                      | Parts per million |
 | ---------------------------------------------------------------------------------------------- | ----------------- |
@@ -64,10 +64,10 @@
 | \* There are currently no U.S. registrations for tea as of April 13, 2011.                     |                   |
 | 2 There are no U.S. registrations for orange and orange, oil as of December 2, 2015.           |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect and inadvertant residues.* \[Reserved\]
+(d) *Indirect and inadvertant residues.* \[Reserved\] 
 
 \[68 FR 55493, Sept. 26, 2003, as amended at 70 FR 41625, July 20, 2005; 72 FR 72963, Dec. 26, 2007; 74 FR 25160, May 27, 2009; 76 FR 20542, Apr. 13, 2011; 77 FR 3621, Jan. 25, 2012; 80 FR 75430, Dec. 2, 2015; 81 FR 49169, July 27, 2016; 83 FR 51867, Oct. 15, 2018; 84 FR 66630, Dec. 5, 2019\]

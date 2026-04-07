@@ -1,6 +1,6 @@
 ##### § 180.145 Fluorine compounds; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for combined residues of the insecticidal fluorine compounds cryolite and synthetic cryolite (sodium aluminum fluoride) in or on the following agricultural commodities:
+(a) *General.* (1) Tolerances are established for combined residues of the insecticidal fluorine compounds cryolite and synthetic cryolite (sodium aluminum fluoride) in or on the following agricultural commodities: 
 
 | Commodity          | Parts per million |
 | ------------------ | ----------------- |
@@ -37,7 +37,7 @@
 | Tomato             | 7                 |
 | Youngberry         | 7                 |
 
-(2) Tolerances are established for residues of fluoride in or on the following commodities from the postharvest fumigation with sulfuryl fluoride for the control of insects:
+(2) Tolerances are established for residues of fluoride in or on the following commodities from the postharvest fumigation with sulfuryl fluoride for the control of insects: 
 
 | Commodity                                           | Parts per million |
 | --------------------------------------------------- | ----------------- |
@@ -89,14 +89,14 @@
 | Wheat, milled byproducts, postharvest               | 130.0             |
 | Wheat, shorts, postharvest                          | 40.0              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined by § 180.1(l), are established for the combined residues of the insecticidal fluorine compounds, cryolite and synthetic cryolite (sodium aluminum fluoride), in or on the following raw agricultural commodities:
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined by § 180.1(l), are established for the combined residues of the insecticidal fluorine compounds, cryolite and synthetic cryolite (sodium aluminum fluoride), in or on the following raw agricultural commodities: 
 
 | Commodity | Parts per million |
 | --------- | ----------------- |
 | Kiwifruit | 15                |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[71 FR 74815, Dec. 13, 2006, as amended at 76 FR 34885, June 15, 2011\]

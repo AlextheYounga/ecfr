@@ -1,6 +1,6 @@
 ##### § 180.293 Endothall; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for the residues of endothall, including its metabolites and degradates, in or on the commodities in the table, below. Compliance with the tolerance levels specified, below, is to be determined by measuring only endothall (7-oxabicylco \[2.2.1\] heptanes-2,3-dicarboxylic acid) and its mono-methyl ester.
+(a) *General.* (1) Tolerances are established for the residues of endothall, including its metabolites and degradates, in or on the commodities in the table, below. Compliance with the tolerance levels specified, below, is to be determined by measuring only endothall (7-oxabicylco \[2.2.1\] heptanes-2,3-dicarboxylic acid) and its mono-methyl ester. 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -12,13 +12,13 @@
 | Potato                  | 0.1               |
 | Rice, grain             | 0.05              |
 
-(2) An interim tolerance of 0.2 parts per million is established for residues of the herbicide endothall (7 - oxabicyclo\[2.2.1\] heptane-2,3-dicarboxylic acid) in water, potable from use of its potassium, sodium, di-*N, N*-dimethylalkylamine, and mono-*N-N,*-dimethylalkylamine salts as algicides or herbicides to control aquatic plants in canals, lakes, ponds, and other potential sources of water, potable.
+(2) An interim tolerance of 0.2 parts per million is established for residues of the herbicide endothall (7 - oxabicyclo\[2.2.1\] heptane-2,3-dicarboxylic acid) in water, potable from use of its potassium, sodium, di-*N, N*-dimethylalkylamine, and mono-*N-N,*-dimethylalkylamine salts as algicides or herbicides to control aquatic plants in canals, lakes, ponds, and other potential sources of water, potable. 
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent combined residues of the herbicide, endothall (7 - oxabicyclo\[2.2.1\] heptane-2,3-dicarboxylic acid) in potable water from use of its potassium, sodium, di-*N*, *N* -dimethylalkylamine, and mono- *N-N*, -dimethylalkylamine salts as algicides or herbicides to control aquatic plants in canals, lakes, ponds, and other potable water sources that may lead to endothall residues in or on the following commodities:
+(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent combined residues of the herbicide, endothall (7 - oxabicyclo\[2.2.1\] heptane-2,3-dicarboxylic acid) in potable water from use of its potassium, sodium, di-*N*, *N* -dimethylalkylamine, and mono- *N-N*, -dimethylalkylamine salts as algicides or herbicides to control aquatic plants in canals, lakes, ponds, and other potable water sources that may lead to endothall residues in or on the following commodities: 
 
 | Commodity                                        | Parts per million |
 | ------------------------------------------------ | ----------------- |

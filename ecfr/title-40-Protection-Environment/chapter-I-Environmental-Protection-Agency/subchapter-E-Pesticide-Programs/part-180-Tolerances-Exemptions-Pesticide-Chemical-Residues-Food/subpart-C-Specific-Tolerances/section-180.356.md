@@ -1,6 +1,6 @@
 ##### § 180.356 Norflurazon; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the herbicide norflurazon (4-chloro-5-(methylamino)-2-(alpha, alpha, alpha-trifluoro-*m*-tolyl)-3-(2*H*)-pyridazinone) and its desmethyl metabolite 4-chloro-5-(amino)-2-alpha, alpha, alpha-trifluoro-*m*-tolyl)-3(2*H*)-pyridazinone in or on the following raw agricultural commodities:
+(a) *General.* Tolerances are established for the combined residues of the herbicide norflurazon (4-chloro-5-(methylamino)-2-(alpha, alpha, alpha-trifluoro-*m*-tolyl)-3-(2*H*)-pyridazinone) and its desmethyl metabolite 4-chloro-5-(amino)-2-alpha, alpha, alpha-trifluoro-*m*-tolyl)-3(2*H*)-pyridazinone in or on the following raw agricultural commodities: 
 
 | Commodity                             | Parts per million |
 | ------------------------------------- | ----------------- |
@@ -63,10 +63,10 @@
 | Soybean, hay                          | 1.0               |
 | Walnut                                | 0.1               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registration.* \[Reserved\]
+(c) *Tolerances with regional registration.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[47 FR 14909, Apr. 7, 1982\] Editorial Note:For Federal Register citations affecting § 180.356, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

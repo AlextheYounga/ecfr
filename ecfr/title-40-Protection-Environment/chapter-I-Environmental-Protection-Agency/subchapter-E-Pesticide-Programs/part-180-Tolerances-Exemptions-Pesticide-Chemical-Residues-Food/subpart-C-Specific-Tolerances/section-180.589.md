@@ -1,6 +1,6 @@
 ##### § 180.589 Boscalid; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the fungicide boscalid, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only boscalid, 3-pyridinecarboxamide, 2-chloro-*N*-(4′-chloro\[1,1′-biphenyl\]-2-yl), in or on the following raw agricultural commodities:
+(a) *General.* (1) Tolerances are established for residues of the fungicide boscalid, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only boscalid, 3-pyridinecarboxamide, 2-chloro-*N*-(4′-chloro\[1,1′-biphenyl\]-2-yl), in or on the following raw agricultural commodities: 
 
 | Commodity                                                                      | Parts per million |
 | ------------------------------------------------------------------------------ | ----------------- |
@@ -67,7 +67,7 @@
 | 1 There are no U.S. registrations for this commodity as of September 16, 2009. |                   |
 | 2 There are no U.S. registrations for these commodities as of August 13, 2021. |                   |
 
-(2) Tolerances are established for residues of the fungicide boscalid, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of boscalid, 3-pyridinecarboxamide, 2-chloro-*N*-(4′-chloro\[1,1′-biphenyl\]-2-yl), and metabolites 2-chloro-*N*-(4'-chloro-5-hydroxy-biphenyl-2-yl) nicotinamide and glucuronic acid conjugate of 2-chloro-*N*-(4′-chloro-5-hydroxy-biphenyl-2-yl) nicotinamide, calculated as the stoichiometric equivalent of boscalid in or on the following food commodities:
+(2) Tolerances are established for residues of the fungicide boscalid, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of boscalid, 3-pyridinecarboxamide, 2-chloro-*N*-(4′-chloro\[1,1′-biphenyl\]-2-yl), and metabolites 2-chloro-*N*-(4'-chloro-5-hydroxy-biphenyl-2-yl) nicotinamide and glucuronic acid conjugate of 2-chloro-*N*-(4′-chloro-5-hydroxy-biphenyl-2-yl) nicotinamide, calculated as the stoichiometric equivalent of boscalid in or on the following food commodities: 
 
 | Commodity                | Parts per million |
 | ------------------------ | ----------------- |
@@ -92,15 +92,15 @@
 | Sheep, meat              | 0.10              |
 | Sheep, meat byproducts   | 0.35              |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the fungicide boscalid, including its metabolites and degradates, in connection with use of the pesticide under section 18 emergency exemptions granted by EPA. Compliance with the tolerance level specified below is to be determined by measuring only boscalid, 3-pyridinecarboxamide, 2-chloro-*N*-(4′-chloro\[1,1′-biphenyl\]-2-yl). This tolerance will expire and is revoked on the date specified in the following table:
+(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the fungicide boscalid, including its metabolites and degradates, in connection with use of the pesticide under section 18 emergency exemptions granted by EPA. Compliance with the tolerance level specified below is to be determined by measuring only boscalid, 3-pyridinecarboxamide, 2-chloro-*N*-(4′-chloro\[1,1′-biphenyl\]-2-yl). This tolerance will expire and is revoked on the date specified in the following table: 
 
 | Commodity       | Parts per million | Expiration/revocation date |
 | --------------- | ----------------- | -------------------------- |
 | Endive, Belgian | 16                | 12/31/13                   |
 
-(c) *Tolerances with regional registration.* \[Reserved\]
+(c) *Tolerances with regional registration.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of the fungicide boscalid, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only boscalid, 3-pyridinecarboxamide, 2-chloro-*N*-(4′-chloro\[1,1′-biphenyl\]-2-yl), in or on the following commodities:
+(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of the fungicide boscalid, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only boscalid, 3-pyridinecarboxamide, 2-chloro-*N*-(4′-chloro\[1,1′-biphenyl\]-2-yl), in or on the following commodities: 
 
 | Commodity                                                                      | Parts per million |
 | ------------------------------------------------------------------------------ | ----------------- |

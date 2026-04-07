@@ -1,6 +1,6 @@
 ##### § 180.361 Pendimethalin; tolerances for residues.
 
-(a)(1) *General.* Tolerances are established for residues of the herbicide pendimethalin, including its metabolites and degradates, in or on the commodities. Compliance with the tolerance levels specified in the following table below is to be determined by measuring only the sum of pendimethalin, \[*N*-(1-ethylpropyl)-3,4-dimethyl-2,6-dinitrobenzenamine\] and its metabolite, 4-\[(1-ethylpropyl)amino\]-2-methyl-3,5-dinitrobenzyl alcohol, calculated as the stoichiometric equivalent of pendimethalin, in or on the commodity.
+(a)(1) *General.* Tolerances are established for residues of the herbicide pendimethalin, including its metabolites and degradates, in or on the commodities. Compliance with the tolerance levels specified in the following table below is to be determined by measuring only the sum of pendimethalin, \[*N*-(1-ethylpropyl)-3,4-dimethyl-2,6-dinitrobenzenamine\] and its metabolite, 4-\[(1-ethylpropyl)amino\]-2-methyl-3,5-dinitrobenzyl alcohol, calculated as the stoichiometric equivalent of pendimethalin, in or on the commodity. 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                 | Parts per million |
@@ -79,7 +79,7 @@ Table 1 to Paragraph (a)(1)
 | Wheat, hay                                                | 0.60              |
 | Wheat, straw                                              | 0.30              |
 
-(2) Tolerances are established for residues of the herbicide pendimethalin, including its metabolites and degradates, in or on commodities listed in the following table. Compliance with the tolerance levels is to be determined by measuring only the sum of pendimethalin (*N*-(1-ethylpropyl)-3,4-dimethyl-2,6-dinitrobenzenamine)) and its metabolite, 1-(1-ethylpropyl)-5, 6-dimethyl-7-nitro-1*H*-benzimidazole (metabolite 6), calculated as the stoichiometric equivalent of pendimethalin, in or on the commodity.
+(2) Tolerances are established for residues of the herbicide pendimethalin, including its metabolites and degradates, in or on commodities listed in the following table. Compliance with the tolerance levels is to be determined by measuring only the sum of pendimethalin (*N*-(1-ethylpropyl)-3,4-dimethyl-2,6-dinitrobenzenamine)) and its metabolite, 1-(1-ethylpropyl)-5, 6-dimethyl-7-nitro-1*H*-benzimidazole (metabolite 6), calculated as the stoichiometric equivalent of pendimethalin, in or on the commodity. 
 
 | Commodity              | Parts   per   million |
 | ---------------------- | --------------------- |
@@ -97,15 +97,15 @@ Table 1 to Paragraph (a)(1)
 | Sheep, meat            | 0.10                  |
 | Sheep, meat byproduct  | 3.0                   |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in the following table are established for combined residues of the herbicide pendimethalin, \[*N*-(1-ethylpropyl)-3,4-dimethyl-2,6-dinitrobenzenamine\], and its metabolite 4-\[(1-ethylpropyl)amino\]-2-methyl-3,5-dinitrobenzyl alcohol, in or on the specified agricultural commodities, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. The tolerances expire and are revoked on the date specified in the table.
+(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in the following table are established for combined residues of the herbicide pendimethalin, \[*N*-(1-ethylpropyl)-3,4-dimethyl-2,6-dinitrobenzenamine\], and its metabolite 4-\[(1-ethylpropyl)amino\]-2-methyl-3,5-dinitrobenzyl alcohol, in or on the specified agricultural commodities, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. The tolerances expire and are revoked on the date specified in the table. 
 
 | Commodity             | Parts per million | Expiration/revocation date |
 | --------------------- | ----------------- | -------------------------- |
 | Bermuda grass, forage | 25                | 12/31/10                   |
 | Bermuda grass, hay    | 60                | 12/31/10                   |
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[49 FR 15293, Apr. 18, 1984\] Editorial Note:For Federal Register citations affecting § 180.361, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

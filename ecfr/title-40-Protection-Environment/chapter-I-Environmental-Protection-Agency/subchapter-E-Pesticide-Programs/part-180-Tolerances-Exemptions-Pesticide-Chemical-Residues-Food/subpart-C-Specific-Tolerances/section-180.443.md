@@ -1,6 +1,6 @@
 ##### § 180.443 Myclobutanil; tolerances for residues.
 
-(a) *General.* Tolerances are established for combined residues of the fungicide myclobutanil alpha-butyl-alpha-(4-chlorophenyl)-1*H*-1,2,4-triazole-1-propanenitrile and its alcohol metabolite (alpha-(3-hydroxybutyl)-alpha-(4-chlorophenyl)-1*H*-1,2,4-triazole-1-propanenitrile (free and bound), in or on the following food commodities:
+(a) *General.* Tolerances are established for combined residues of the fungicide myclobutanil alpha-butyl-alpha-(4-chlorophenyl)-1*H*-1,2,4-triazole-1-propanenitrile and its alcohol metabolite (alpha-(3-hydroxybutyl)-alpha-(4-chlorophenyl)-1*H*-1,2,4-triazole-1-propanenitrile (free and bound), in or on the following food commodities: 
 
 | Commodity                                   | Parts per million |
 | ------------------------------------------- | ----------------- |
@@ -77,11 +77,11 @@
 | Vegetable, cucurbit, group 9                | 0.20              |
 | Vegetable, fruiting, group 8, except tomato | 4.0               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for residues of the fungicide myclobutanil alpha-butyl-alpha-(4-chlorophenyl)-1*H*-1,2,4-triazole-1-propanenitrile in or on the following food commodities:
+(d) *Indirect or inadvertent residues.* Tolerances are established for residues of the fungicide myclobutanil alpha-butyl-alpha-(4-chlorophenyl)-1*H*-1,2,4-triazole-1-propanenitrile in or on the following food commodities: 
 
 | Commodity                                         | Parts per million |
 | ------------------------------------------------- | ----------------- |

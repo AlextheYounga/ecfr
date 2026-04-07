@@ -1,6 +1,6 @@
 ##### § 180.478 Rimsulfuron; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide rimsulfuron, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only rimsulfuron, N-\[\[(4,6-dimethoxy-2-pyrimidinyl)amino\] carbonyl\]-3-(ethylsulfonyl)-2-pyridinesulfonamide.
+(a) *General.* Tolerances are established for residues of the herbicide rimsulfuron, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only rimsulfuron, N-\[\[(4,6-dimethoxy-2-pyrimidinyl)amino\] carbonyl\]-3-(ethylsulfonyl)-2-pyridinesulfonamide. 
 
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
@@ -31,9 +31,9 @@
 | Tropical and subtropical, small fruit, edible peel, subgroup 23A     | 0.01              |
 | Vegetable, tuberous and corm, subgroup 1C                            | 0.10              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registrations, as defined in § 180.1(1), are established for residues of the herbicide rimsulfuron, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specific in the following table is to be determined by measuring only rimsulfuron, N-\[\[(4,6-dimethoxy-2-pyrimidinyl)amino\] carbonyl\]-3-(ethylsulfonyl)-2-pyridinesulfonamide.
+(c) *Tolerances with regional registrations.* Tolerances with regional registrations, as defined in § 180.1(1), are established for residues of the herbicide rimsulfuron, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specific in the following table is to be determined by measuring only rimsulfuron, N-\[\[(4,6-dimethoxy-2-pyrimidinyl)amino\] carbonyl\]-3-(ethylsulfonyl)-2-pyridinesulfonamide. 
 
 | Commodity                   | Parts per   million |
 | --------------------------- | ------------------- |
@@ -42,6 +42,6 @@
 | Ryegrass, perennial, forage | 0.01                |
 | Ryegrass, perennial, hay    | 0.01                |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[63 FR 16696, Apr. 6, 1998, as amended at 72 FR 41913, Aug. 1, 2007; 74 FR 67137, Dec. 18, 2009; 77 FR 3625, Jan. 25, 2012; 77 FR 46306, Aug. 3, 2012; 80 FR 66805, Oct. 30, 2015; 83 FR 5947, Feb. 12, 2018; 88 FR 4735, Jan. 25, 2023\]

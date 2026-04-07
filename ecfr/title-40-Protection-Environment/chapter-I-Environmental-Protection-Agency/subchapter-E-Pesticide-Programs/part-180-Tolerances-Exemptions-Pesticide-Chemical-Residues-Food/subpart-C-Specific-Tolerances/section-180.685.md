@@ -1,6 +1,6 @@
 ##### § 180.685 Oxathiapiprolin; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide oxathiapiprolin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only oxathiapiprolin, 1-\[4-\[4-\[5-(2,6-difluorophenyl)-4,5-dihydro-3-isoxazolyl\]-2-thiazolyl\]-1-piperidinyl\]-2-\[5-methyl-3-(trifluoromethyl)-1H-pyrazol-1-yl\]-ethanone, in or on the commodity.
+(a) *General.* Tolerances are established for residues of the fungicide oxathiapiprolin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only oxathiapiprolin, 1-\[4-\[4-\[5-(2,6-difluorophenyl)-4,5-dihydro-3-isoxazolyl\]-2-thiazolyl\]-1-piperidinyl\]-2-\[5-methyl-3-(trifluoromethyl)-1H-pyrazol-1-yl\]-ethanone, in or on the commodity. 
 
 | Commodity                                                                            | Parts per million |
 | ------------------------------------------------------------------------------------ | ----------------- |
@@ -50,11 +50,11 @@
 | Vegetable, tuberous and corm, subgroup 1C                                            | 0.04              |
 | 1 There is no associated U.S. registration as of September 4, 2015.                  |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for residues of the fungicide oxathiapiprolin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only oxathiapiprolin, 1-\[4-\[4-\[5-(2,6-difluorophenyl)-4,5-dihydro-3-isoxazolyl\]-2-thiazolyl\]-1-piperidinyl\]-2-\[5-methyl-3-(trifluoromethyl)-1H-pyrazol-1-yl\]-ethanone, in or on the commodity.
+(d) *Indirect or inadvertent residues.* Tolerances are established for residues of the fungicide oxathiapiprolin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only oxathiapiprolin, 1-\[4-\[4-\[5-(2,6-difluorophenyl)-4,5-dihydro-3-isoxazolyl\]-2-thiazolyl\]-1-piperidinyl\]-2-\[5-methyl-3-(trifluoromethyl)-1H-pyrazol-1-yl\]-ethanone, in or on the commodity. 
 
 Table 2 to Paragraph (d)
 | Commodity                                                                                                                                                            | Parts per   million |

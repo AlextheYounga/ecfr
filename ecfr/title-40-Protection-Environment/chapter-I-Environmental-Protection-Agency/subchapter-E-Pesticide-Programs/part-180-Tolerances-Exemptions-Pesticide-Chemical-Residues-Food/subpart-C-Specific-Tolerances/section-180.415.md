@@ -1,6 +1,6 @@
 ##### § 180.415 Aluminum tris (O-ethylphosphonate); tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide aluminum tris (*O*-ethylphosphonate), including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only aluminum tris (*O*-ethylphosphonate), in or on the commodity.
+(a) *General.* Tolerances are established for residues of the fungicide aluminum tris (*O*-ethylphosphonate), including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only aluminum tris (*O*-ethylphosphonate), in or on the commodity. 
 
 Table 1 to Paragraph (a)
 | Commodity                                                | Parts per million |
@@ -34,15 +34,15 @@ Table 1 to Paragraph (a)
 | 1 There are no US registrations as of December 23, 2014. |                   |
 | 2 This tolerance expires on January 19, 2024.            |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the fungicide aluminum tris (*O*-ethylphosphonate), including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only aluminum tris (*O*-ethylphosphonate), in or on the commodity.
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the fungicide aluminum tris (*O*-ethylphosphonate), including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only aluminum tris (*O*-ethylphosphonate), in or on the commodity. 
 
 | Commodity | Parts per million |
 | --------- | ----------------- |
 | Asparagus | 0.1               |
 | Grape     | 10                |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[64 FR 36801, July 8, 1999, as amended at 64 FR 37875, July 14, 1999; 65 FR 50438, Aug. 18, 2000; 67 FR 55346, Aug. 29, 2002; 68 FR 11335, Mar. 10, 2003; 70 FR 7047, Feb. 10, 2005; 76 FR 23494, Apr. 27, 2011; 80 FR 2320, Jan. 16, 2015; 83 FR 12265, Mar. 21, 2018; 88 FR 46085, July 19, 2023; 88 FR 56773, Aug. 21, 2023\]

@@ -1,6 +1,6 @@
 ##### § 180.438 Lambda-cyhalothrin and an isomer gamma-cyhalothrin; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for the combined residues of the pyrethroid lambda-cyhalothrin, 1:1 mixture of (*S*)-α-cyano-3-phenoxybenzyl-(*Z*)-(1*R*,3*R*)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and (*R*)-α-cyano-3-phenoxybenzyl-(*Z*)-(1*S*,3*S*)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and its epimer expressed as epimer of lambda-cyhalothrin, a 1:1 mixture of (*S*)-α-cyano-3-phenoxybenzyl-(*Z*)-(1*S*,3*S*)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and (*R*)-α-cyano-3-phenoxybenzyl-(*Z*)-(1*R*,3*R*)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate, on plants and livestocks, as indicated in the following table.
+(a) *General.* (1) Tolerances are established for the combined residues of the pyrethroid lambda-cyhalothrin, 1:1 mixture of (*S*)-α-cyano-3-phenoxybenzyl-(*Z*)-(1*R*,3*R*)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and (*R*)-α-cyano-3-phenoxybenzyl-(*Z*)-(1*S*,3*S*)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and its epimer expressed as epimer of lambda-cyhalothrin, a 1:1 mixture of (*S*)-α-cyano-3-phenoxybenzyl-(*Z*)-(1*S*,3*S*)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and (*R*)-α-cyano-3-phenoxybenzyl-(*Z*)-(1*R*,3*R*)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate, on plants and livestocks, as indicated in the following table. 
 
 | Commodity                                                | Parts per million |
 | -------------------------------------------------------- | ----------------- |
@@ -96,7 +96,7 @@
 | Wheat, straw                                             | 2.0               |
 | Wheat, bran                                              | 0.2               |
 
-(2) Tolerances 1 are established for the combined residues of the pyrethroid \[gamma-cyhalothrin (the isolated active isomer of lambda-cyhalothrin) (*S*)-′-cyano-3-phenoxybenzyl (*Z*)-(1*R*,3*R*)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate)) and its epimer (*R*)-′-cyano-3-phenoxybenzyl (*Z*)-(1*R*,3*R*)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate in/on the following commodities:
+(2) Tolerances 1 are established for the combined residues of the pyrethroid \[gamma-cyhalothrin (the isolated active isomer of lambda-cyhalothrin) (*S*)-′-cyano-3-phenoxybenzyl (*Z*)-(1*R*,3*R*)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate)) and its epimer (*R*)-′-cyano-3-phenoxybenzyl (*Z*)-(1*R*,3*R*)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate in/on the following commodities: 
 
 | Commodity                                                                                                                                                   | Parts per million |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
@@ -174,12 +174,12 @@
 | Wheat, straw                                                                                                                                                | 2.0               |
 | 1 The analytical enforcement methods for lambda-cyhalothrin are applicable for determination of gamma-cyhalothrin residues in plant and animal commodities. |                   |
 
-(3) A tolerance of 0.01 part per million is established for residues of the insecticide lamba-cyhalothrin and an isomer gamma-cyhalothrin in or on all food commodities (other than those already covered by a higher tolerance as a result of use on growing crops) in food-handling establishments where food products are held, processed, or prepared.
+(3) A tolerance of 0.01 part per million is established for residues of the insecticide lamba-cyhalothrin and an isomer gamma-cyhalothrin in or on all food commodities (other than those already covered by a higher tolerance as a result of use on growing crops) in food-handling establishments where food products are held, processed, or prepared. 
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[71 FR 74817, Dec. 13, 2006, as amended at 72 FR 45663, Aug. 15, 2007; 73 FR 39264, July 9, 2008; 76 FR 34885, June 15, 2011; 80 FR 72599, Nov. 20, 2015\]

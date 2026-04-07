@@ -1,6 +1,6 @@
 ##### § 180.568 Flumioxazin; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of flumioxazin, 2-\[7-fluoro-3,4-dihydro-3-oxo-4-(2-propynyl)-2*H*-1,4-benzoxazin-6-yl\]-4,5,6,7-tetrahydro-1*H*-isoindole-1,3(2*H*)-dione, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only flumioxazin.
+(a) *General.* Tolerances are established for residues of flumioxazin, 2-\[7-fluoro-3,4-dihydro-3-oxo-4-(2-propynyl)-2*H*-1,4-benzoxazin-6-yl\]-4,5,6,7-tetrahydro-1*H*-isoindole-1,3(2*H*)-dione, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only flumioxazin. 
 
 | Commodity                                                               | Parts per   million |
 | ----------------------------------------------------------------------- | ------------------- |
@@ -51,9 +51,9 @@
 | Wheat, hay                                                              | 0.02                |
 | Wheat, straw                                                            | 6.0                 |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances are established for residues of flumioxazin, 2-\[7-fluoro-3,4-dihydro-3-oxo-4-(2-propynyl)-2*H*-1,4-benzoxazin-6-yl\]-4,5,6,7-tetrahydro-1*H*-isoindole-1,3(2*H*)-dione, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only flumioxazin.
+(c) *Tolerances with regional registrations.* Tolerances are established for residues of flumioxazin, 2-\[7-fluoro-3,4-dihydro-3-oxo-4-(2-propynyl)-2*H*-1,4-benzoxazin-6-yl\]-4,5,6,7-tetrahydro-1*H*-isoindole-1,3(2*H*)-dione, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only flumioxazin. 
 
 | Commodity      | Parts per   million |
 | -------------- | ------------------- |
@@ -62,6 +62,6 @@
 | Grass, forage  | 0.40                |
 | Grass, hay     | 0.05                |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[81 FR 91851, Dec. 19, 2016, as amended at 83 FR 50288, Oct. 5, 2018\]

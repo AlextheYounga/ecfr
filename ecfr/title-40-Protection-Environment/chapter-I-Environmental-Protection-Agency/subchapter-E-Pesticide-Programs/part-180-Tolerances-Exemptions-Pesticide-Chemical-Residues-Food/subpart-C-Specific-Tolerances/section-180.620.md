@@ -1,6 +1,6 @@
 ##### § 180.620 Etofenprox; tolerances for residues.
 
-(a) *General.* A tolerance is established for residues of the insecticide etofenprox, including its metabolites and degradates, in or on the commodity in the table in this paragraph. Compliance with the tolerance level specified in this paragraph is to be determined by measuring only etofenprox, 2-(4-ethoxyphenyl)-2-methylpropyl 3-phenoxybenzyl ether, in or on the commodity.
+(a) *General.* A tolerance is established for residues of the insecticide etofenprox, including its metabolites and degradates, in or on the commodity in the table in this paragraph. Compliance with the tolerance level specified in this paragraph is to be determined by measuring only etofenprox, 2-(4-ethoxyphenyl)-2-methylpropyl 3-phenoxybenzyl ether, in or on the commodity. 
 
 | Commodity                                                                                 | Parts per   million |
 | ----------------------------------------------------------------------------------------- | ------------------- |
@@ -27,10 +27,10 @@
 | Sheep, meat                                                                               | 0.40                |
 | Sheep, meat byproducts                                                                    | 10.0                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[76 FR 23498, Apr. 27, 2011, as amended at 78 FR 70877, Nov. 27, 2013\]
