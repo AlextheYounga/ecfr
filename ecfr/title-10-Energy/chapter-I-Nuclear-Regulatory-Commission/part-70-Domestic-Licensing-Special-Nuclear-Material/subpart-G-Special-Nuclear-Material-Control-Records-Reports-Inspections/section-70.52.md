@@ -1,6 +1,6 @@
 ##### § 70.52 Reports of accidental criticality.
 
-(a) Each licensee shall notify the NRC Operations Center 1 within one hour after discovery of any case of accidental criticality.
+(a) Each licensee shall notify the NRC Operations Center 1/> within one hour after discovery of any case of accidental criticality.
 
 1 Commercial telephone number of the NRC Operations Center is (301) 816-5100.
 
