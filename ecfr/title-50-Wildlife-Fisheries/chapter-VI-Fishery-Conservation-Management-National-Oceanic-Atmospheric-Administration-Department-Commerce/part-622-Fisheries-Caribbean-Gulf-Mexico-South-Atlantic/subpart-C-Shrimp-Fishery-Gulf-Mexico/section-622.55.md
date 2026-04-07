@@ -1,10 +1,10 @@
 ##### § 622.55 Closed areas.
 
-(a) *Texas closure.* (1) From 30 minutes after official sunset on May 15 to 30 minutes after official sunset on July 15, trawling, except trawling for royal red shrimp beyond the 100-fathom (183-m) depth contour, is prohibited in the Gulf EEZ off Texas.Federal Register.
+(a) *Texas closure.* (1) From 30 minutes after official sunset on May 15 to 30 minutes after official sunset on July 15, trawling, except trawling for royal red shrimp beyond the 100-fathom (183-m) depth contour, is prohibited in the Gulf EEZ off Texas. 
 
 (2) In accordance with the procedures and restrictions of the Gulf Shrimp FMP, the RA may adjust the closing and/or opening date of the Texas closure to provide an earlier, later, shorter, or longer closure, but the duration of the closure may not exceed 90 days or be less than 45 days. Notification of the adjustment of the closing or opening date will be published in the Federal Register.
 
-(b) *Southwest Florida seasonal trawl closure.* From January 1 to 1 hour after official sunset on May 20, each year, trawling, including trawling for live bait, is prohibited in that part of the Gulf EEZ shoreward of rhumb lines connecting, in order, the following points:
+(b) *Southwest Florida seasonal trawl closure.* From January 1 to 1 hour after official sunset on May 20, each year, trawling, including trawling for live bait, is prohibited in that part of the Gulf EEZ shoreward of rhumb lines connecting, in order, the following points: 
 
 Table 1 to Paragraph (b)
 | Point                                       | North lat. | West long. |
@@ -16,7 +16,7 @@ Table 1 to Paragraph (b)
 | M1                                          | 24°49.3′   | 81°46.4′   |
 | 1 On the seaward limit of Florida's waters. |            |            |
 
-(c) *Tortugas shrimp sanctuary.* (1) The Tortugas shrimp sanctuary is closed to trawling. The Tortugas shrimp sanctuary is that part of the EEZ off Florida shoreward of rhumb lines connecting, in order, the following points:
+(c) *Tortugas shrimp sanctuary.* (1) The Tortugas shrimp sanctuary is closed to trawling. The Tortugas shrimp sanctuary is that part of the EEZ off Florida shoreward of rhumb lines connecting, in order, the following points: 
 
 Table 1 to Paragraph (c)(1)
 | Point                      | North lat. | West long. |
@@ -31,19 +31,19 @@ Table 1 to Paragraph (c)(1)
 | 3 Rebecca Shoals Light.    |            |            |
 | 4 Marquesas Keys.          |            |            |
 
-(2) The provisions of paragraph (c)(1) of this section notwithstanding—
+(2) The provisions of paragraph (c)(1) of this section notwithstanding— 
 
-(i) Effective from April 11 through September 30, each year, that part of the Tortugas shrimp sanctuary seaward of rhumb lines connecting the following points is open to trawling: From point T at 24°47.8′ N. lat., 82°01.0′ W. long. to point U at 24°43.83′ N. lat., 82°01.0′ W. long. (on the line denoting the seaward limit of Florida's waters); thence along the seaward limit of Florida's waters, as shown on the current edition of NOAA chart 11439, to point V at 24°42.55′ N. lat., 82°15.0′ W. long.; thence north to point W at 24°43.6′ N. lat., 82°15.0′ W. long.
+(i) Effective from April 11 through September 30, each year, that part of the Tortugas shrimp sanctuary seaward of rhumb lines connecting the following points is open to trawling: From point T at 24°47.8′ N. lat., 82°01.0′ W. long. to point U at 24°43.83′ N. lat., 82°01.0′ W. long. (on the line denoting the seaward limit of Florida's waters); thence along the seaward limit of Florida's waters, as shown on the current edition of NOAA chart 11439, to point V at 24°42.55′ N. lat., 82°15.0′ W. long.; thence north to point W at 24°43.6′ N. lat., 82°15.0′ W. long. 
 
-(ii) Effective from April 11 through July 31, each year, that part of the Tortugas shrimp sanctuary seaward of rhumb lines connecting the following points is open to trawling: From point W to point V, both points as specified in paragraph (c)(2)(i) of this section, to point G, as specified in paragraph (c)(1) of this section.
+(ii) Effective from April 11 through July 31, each year, that part of the Tortugas shrimp sanctuary seaward of rhumb lines connecting the following points is open to trawling: From point W to point V, both points as specified in paragraph (c)(2)(i) of this section, to point G, as specified in paragraph (c)(1) of this section. 
 
-(iii) Effective from May 26 through July 31, each year, that part of the Tortugas shrimp sanctuary seaward of rhumb lines connecting the following points is open to trawling: From point F, as specified in paragraph (c)(1) of this section, to point Q at 24°46.7′ N lat., 81°52.2′ W long. (on the line denoting the seaward limit of Florida's waters); thence along the seaward limit of Florida's waters, as shown on the current edition of NOAA chart 11439, to point U and north to point T, both points as specified in paragraph (c)(2)(i) of this section.
+(iii) Effective from May 26 through July 31, each year, that part of the Tortugas shrimp sanctuary seaward of rhumb lines connecting the following points is open to trawling: From point F, as specified in paragraph (c)(1) of this section, to point Q at 24°46.7′ N lat., 81°52.2′ W long. (on the line denoting the seaward limit of Florida's waters); thence along the seaward limit of Florida's waters, as shown on the current edition of NOAA chart 11439, to point U and north to point T, both points as specified in paragraph (c)(2)(i) of this section. 
 
-(d) *Closures of the Gulf shrimp fishery to reduce red snapper bycatch.* During a closure implemented in accordance with this paragraph (d), trawling is prohibited within the specified closed area(s).
+(d) *Closures of the Gulf shrimp fishery to reduce red snapper bycatch.* During a closure implemented in accordance with this paragraph (d), trawling is prohibited within the specified closed area(s). 
 
-(1) Procedure for determining need for and extent of closures. Each year, in accordance with the applicable framework procedure established by the Gulf Shrimp FMP, the RA will, if necessary, establish a seasonal area closure for the shrimp fishery in all or a portion of the areas of the Gulf EEZ specified in paragraphs (d)(2) through (4) of this section. The RA's determination of the need for such closure and its geographical scope and duration will be based on an annual assessment, by the Southeast Fisheries Science Center, of the shrimp effort and associated shrimp trawl bycatch mortality on red snapper in the 10-30 fathom area of statistical zones 10-21, compared to the 60-percent target reduction of shrimp trawl bycatch mortality on red snapper from the benchmark years of 2001-2003 established in the FMP (which corresponds in terms of annual shrimp effort to 33,124 days fished). The framework procedure provides for adjustment of this target reduction level, consistent with the red snapper stock rebuilding plan and the findings of subsequent stock assessments, via appropriate rulemaking. The assessment will use shrimp effort data for the most recent 12-month period available and will include a recommendation regarding the geographical scope and duration of the closure. The Southeast Fisheries Science Center's assessment will be provided to the RA on or about March 1 of each year. If the RA determines that a closure is necessary, the closure falls within the scope of the potential closures evaluated in the Gulf Shrimp FMP, and good cause exists to waive notice and comment, NMFS will implement the closure by publication of a final rule in the Federal Register. If such good cause waiver is not justified, NMFS will implement the closure via appropriate notice and comment rulemaking. NMFS intends that any closure implemented consistent with this paragraph (d)(l) will begin on the same date and time as the Texas closure, as described in paragraph (a) of this section, unless circumstances dictate otherwise.
+(1) Procedure for determining need for and extent of closures. Each year, in accordance with the applicable framework procedure established by the Gulf Shrimp FMP, the RA will, if necessary, establish a seasonal area closure for the shrimp fishery in all or a portion of the areas of the Gulf EEZ specified in paragraphs (d)(2) through (4) of this section. The RA's determination of the need for such closure and its geographical scope and duration will be based on an annual assessment, by the Southeast Fisheries Science Center, of the shrimp effort and associated shrimp trawl bycatch mortality on red snapper in the 10-30 fathom area of statistical zones 10-21, compared to the 60-percent target reduction of shrimp trawl bycatch mortality on red snapper from the benchmark years of 2001-2003 established in the FMP (which corresponds in terms of annual shrimp effort to 33,124 days fished). The framework procedure provides for adjustment of this target reduction level, consistent with the red snapper stock rebuilding plan and the findings of subsequent stock assessments, via appropriate rulemaking. The assessment will use shrimp effort data for the most recent 12-month period available and will include a recommendation regarding the geographical scope and duration of the closure. The Southeast Fisheries Science Center's assessment will be provided to the RA on or about March 1 of each year. If the RA determines that a closure is necessary, the closure falls within the scope of the potential closures evaluated in the Gulf Shrimp FMP, and good cause exists to waive notice and comment, NMFS will implement the closure by publication of a final rule in the Federal Register. If such good cause waiver is not justified, NMFS will implement the closure via appropriate notice and comment rulemaking. NMFS intends that any closure implemented consistent with this paragraph (d)(l) will begin on the same date and time as the Texas closure, as described in paragraph (a) of this section, unless circumstances dictate otherwise. 
 
-(2) *Eastern zone.* The eastern zone is bounded by rhumb lines connecting, in order, the following points:
+(2) *Eastern zone.* The eastern zone is bounded by rhumb lines connecting, in order, the following points: 
 
 Table 1 to Paragraph (d)
 | Point | North lat. | West long. |
@@ -57,7 +57,7 @@ Table 1 to Paragraph (d)
 | G     | 29°21′     | 88°59′     |
 | A     | 29°14′     | 88°57′     |
 
-(3) *Louisiana zone.* The Louisiana zone is bounded by rhumb lines connecting, in order, the following points:
+(3) *Louisiana zone.* The Louisiana zone is bounded by rhumb lines connecting, in order, the following points: 
 
 Table 2 to Paragraph (d)
 | Point | North lat. | West long. |
@@ -73,7 +73,7 @@ Table 2 to Paragraph (d)
 | I     | 28°21.7′   | 93°28.4′   |
 | A     | 29°09.1′   | 93°41.4′   |
 
-(4) *Texas zone.* The Texas zone is bounded by rhumb lines connecting, in order, the following points:
+(4) *Texas zone.* The Texas zone is bounded by rhumb lines connecting, in order, the following points: 
 
 Table 3 to Paragraph (d)
 | Point | North lat. | West long. |
@@ -93,7 +93,7 @@ Table 3 to Paragraph (d)
 | M     | 28°21.7′   | 93°28.4′   |
 | A     | 29°09.1′   | 93°41.4′   |
 
-(e) *Shrimp/stone crab separation zones.* Five zones are established in the Gulf EEZ and Florida's waters off Citrus and Hernando Counties for the separation of shrimp trawling and stone crab trapping. Although Zone II is entirely within Florida's waters, it is included in this paragraph (e) for the convenience of fishermen. Restrictions that apply to Zone II and those parts of the other zones that are in Florida's waters are contained in Rule 68B-38.001, Florida Administrative Code, in effect as of March 1, 2005 (incorporated by reference, see § 622.19). Geographical coordinates of the points referred to in this paragraph (e) are as follows:
+(e) *Shrimp/stone crab separation zones.* Five zones are established in the Gulf EEZ and Florida's waters off Citrus and Hernando Counties for the separation of shrimp trawling and stone crab trapping. Although Zone II is entirely within Florida's waters, it is included in this paragraph (e) for the convenience of fishermen. Restrictions that apply to Zone II and those parts of the other zones that are in Florida's waters are contained in Rule 68B-38.001, Florida Administrative Code, in effect as of March 1, 2005 (incorporated by reference, see § 622.19). Geographical coordinates of the points referred to in this paragraph (e) are as follows: 
 
 Table 1 to Paragraph (e)
 | Point                              | North lat. | West long. |
@@ -123,22 +123,22 @@ Table 1 to Paragraph (e)
 | 2 Long Pt. (southwest tip).        |            |            |
 | 3 Shoreline.                       |            |            |
 
-(1) *Zone I* is enclosed by rhumb lines connecting, in order, points A, B, C, D, T, E, F, G, H, I, and J, plus the shoreline between points A and J. It is unlawful to trawl in that part of Zone I that is in the EEZ from October 5 through May 20, each year.
+(1) *Zone I* is enclosed by rhumb lines connecting, in order, points A, B, C, D, T, E, F, G, H, I, and J, plus the shoreline between points A and J. It is unlawful to trawl in that part of Zone I that is in the EEZ from October 5 through May 20, each year. 
 
-(2) *Zone II* is enclosed by rhumb lines connecting, in order, points J, I, H, K, L, and M, plus the shoreline between points J and M. Restrictions that apply to Zone II and those parts of the other zones that are in Florida's waters are contained in Rule 68B-38.001, Florida Administrative Code, in effect as of March 1, 2005 (incorporated by reference, see § 622.19).
+(2) *Zone II* is enclosed by rhumb lines connecting, in order, points J, I, H, K, L, and M, plus the shoreline between points J and M. Restrictions that apply to Zone II and those parts of the other zones that are in Florida's waters are contained in Rule 68B-38.001, Florida Administrative Code, in effect as of March 1, 2005 (incorporated by reference, see § 622.19). 
 
-(3) *Zone III* is enclosed by rhumb lines connecting, in order, points P, Q, R, U, S, and P. It is unlawful to trawl in that part of Zone III that is in the EEZ from October 5 through May 20, each year.
+(3) *Zone III* is enclosed by rhumb lines connecting, in order, points P, Q, R, U, S, and P. It is unlawful to trawl in that part of Zone III that is in the EEZ from October 5 through May 20, each year. 
 
-(4) *Zone IV* is enclosed by rhumb lines connecting, in order, points E, N, S, O, and E.
+(4) *Zone IV* is enclosed by rhumb lines connecting, in order, points E, N, S, O, and E. 
 
-(i) It is unlawful to place a stone crab trap in that part of Zone IV that is in the EEZ from October 5 through December 1 and from April 2 through May 20, each year.
+(i) It is unlawful to place a stone crab trap in that part of Zone IV that is in the EEZ from October 5 through December 1 and from April 2 through May 20, each year. 
 
-(ii) It is unlawful to trawl in that part of Zone IV that is in the EEZ from December 2 through April 1, each year.
+(ii) It is unlawful to trawl in that part of Zone IV that is in the EEZ from December 2 through April 1, each year. 
 
-(5) *Zone V* is enclosed by rhumb lines connecting, in order, points F, G, K, L, and F.
+(5) *Zone V* is enclosed by rhumb lines connecting, in order, points F, G, K, L, and F. 
 
-(i) It is unlawful to place a stone crab trap in that part of Zone V that is in the EEZ from October 5 through November 30 and from March 16 through May 20, each year.
+(i) It is unlawful to place a stone crab trap in that part of Zone V that is in the EEZ from October 5 through November 30 and from March 16 through May 20, each year. 
 
-(ii) It is unlawful to trawl in that part of Zone V that is in the EEZ from December 1 through March 15, each year.
+(ii) It is unlawful to trawl in that part of Zone V that is in the EEZ from December 1 through March 15, each year. 
 
 \[78 FR 22952, Apr. 17, 2013, as amended at 82 FR 60567, Dec. 21, 2017; 83 FR 29046, June 22, 2018; 85 FR 6818, Feb. 6, 2020; 87 FR 56237, Sept. 13, 2022\]

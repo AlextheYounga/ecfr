@@ -1,22 +1,22 @@
 ##### § 622.506 Definitions.
 
-In addition to the definitions and acronyms in § 622.2, the terms and acronyms used in this subpart have the following meanings:*Coral*
+In addition to the definitions and acronyms in § 622.2, the terms and acronyms used in this subpart have the following meanings: 
 
-*Coral* means any or all species, or a part thereof, of coral occurring in the EEZ around St. Thomas and St. John, including any or all species, or a part thereof, of soft corals and gorgonians in Order Alcyonacea; sea pens and sea pensies in Order Pennatulacea; black corals in Order Antipatharia; and stony corals in Order Scleractinia; and, within Order Anthoatheacata, fire corals in Family Milleporidae and lace corals in Family Stylasteridae.
+*Coral* means any or all species, or a part thereof, of coral occurring in the EEZ around St. Thomas and St. John, including any or all species, or a part thereof, of soft corals and gorgonians in Order Alcyonacea; sea pens and sea pensies in Order Pennatulacea; black corals in Order Antipatharia; and stony corals in Order Scleractinia; and, within Order Anthoatheacata, fire corals in Family Milleporidae and lace corals in Family Stylasteridae. 
 
-*Coral reef resource* means any or all species, or a part thereof, of coral, sea cucumber, and sea urchin.
+*Coral reef resource* means any or all species, or a part thereof, of coral, sea cucumber, and sea urchin. 
 
-*Pelagic fish* means any or all species, or a part thereof, as follows:
+*Pelagic fish* means any or all species, or a part thereof, as follows: 
 
 Table 1 to § 622.506
-| Class or family                                | Scientific name        | English common name |
-| ---------------------------------------------- | ---------------------- | ------------------- |
-| Dolphinfishes—CoryphaenidaeCoryphaena hippurus | Coryphaena hippurus    | Dolphinfish.        |
-| Mackerels and tunas—Scombridae                 | Acanthocybium solandri | Wahoo.              |
+| Class or family                | Scientific name        | English common name |
+| ------------------------------ | ---------------------- | ------------------- |
+| Dolphinfishes—Coryphaenidae    | Coryphaena hippurus    | Dolphinfish.        |
+| Mackerels and tunas—Scombridae | Acanthocybium solandri | Wahoo.              |
 
-*Queen conch* means the species *Lobatus gigas,* or a part thereof.
+*Queen conch* means the species *Lobatus gigas,* or a part thereof. 
 
-*Reef fish* means any or all species, or a part thereof, as follows:
+*Reef fish* means any or all species, or a part thereof, as follows: 
 
 Table 2 to § 622.506
 | Class or family            | Scientific name             | English common name   |
@@ -67,8 +67,8 @@ Table 2 to § 622.506
 | Triggerfishes—Balistidae   | Balistes vetula             | Queen triggerfish.    |
 | Wrasses—Labridae           | Lachnolaimus maximus        | Hogfish.              |
 
-*Sea cucumber* means any or all species, or a part thereof, in Class Holothuroidea and occurring in the EEZ of St. Thomas and St. John.
+*Sea cucumber* means any or all species, or a part thereof, in Class Holothuroidea and occurring in the EEZ of St. Thomas and St. John. 
 
-*Sea urchin* means any or all species of sea urchin, or a part thereof, in Class Echinoidea and occurring in the EEZ of St. Thomas and St. John.
+*Sea urchin* means any or all species of sea urchin, or a part thereof, in Class Echinoidea and occurring in the EEZ of St. Thomas and St. John. 
 
 *Spiny lobster trap* means a trap and its component parts, including the lines and buoys, used for or capable of taking spiny lobster and meeting the spiny lobster trap construction specifications of this subpart.
