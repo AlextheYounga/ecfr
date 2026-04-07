@@ -102,8 +102,7 @@
 
 Item 6 Table
 
-OTHER FEES
-
+**OTHER FEES**
 | Column 1   Type of fee | Column 2   Amount | Column 3   Due Date | Column 4   Remarks |
 | ---------------------- | ----------------- | ------------------- | ------------------ |
 |                        |                   |                     |                    |
@@ -130,8 +129,7 @@ OTHER FEES
 
 Item 7 Table:
 
-YOUR ESTIMATED INITIAL INVESTMENT
-
+**YOUR ESTIMATED INITIAL INVESTMENT**
 | Column 1   Type of expenditure | Column 2   Amount | Column 3   Method of payment | Column 4   When due | Column 4   To whom payment is to be made |
 | ------------------------------ | ----------------- | ---------------------------- | ------------------- | ---------------------------------------- |
 |                                |                   |                              |                     |                                          |
@@ -223,35 +221,36 @@ YOUR ESTIMATED INITIAL INVESTMENT
 
 Item 9 Table:
 
-FRANCHISEE'S OBLIGATIONS
+**FRANCHISEE'S OBLIGATIONS**
 
-| Obligation                                                 | Section in agreement | Disclosure document item |
-| ---------------------------------------------------------- | -------------------- | ------------------------ |
-| a. Site selection and acquisition/lease                    |                      |                          |
-| b. Pre-opening purchase/leases                             |                      |                          |
-| c. Site development and other pre-opening requirements     |                      |                          |
-| d. Initial and ongoing training                            |                      |                          |
-| e. Opening                                                 |                      |                          |
-| f. Fees                                                    |                      |                          |
-| g. Compliance with standards and policies/operating manual |                      |                          |
-| h. Trademarks and proprietary information                  |                      |                          |
-| i. Restrictions on products/services offered               |                      |                          |
-| j. Warranty and customer service requirements              |                      |                          |
-| k. Territorial development and sales quotas                |                      |                          |
-| l. Ongoing product/service purchases                       |                      |                          |
-| m. Maintenance, appearance, and remodeling requirements    |                      |                          |
-| n. Insurance                                               |                      |                          |
-| o. Advertising                                             |                      |                          |
-| p. Indemnification                                         |                      |                          |
-| q. Owner's participation/management/staffing               |                      |                          |
-| r. Records and reports                                     |                      |                          |
-| s. Inspections and audits                                  |                      |                          |
-| t. Transfer                                                |                      |                          |
-| u. Renewal                                                 |                      |                          |
-| v. Post-termination obligations                            |                      |                          |
-| w. Non-competition covenants                               |                      |                          |
-| x. Dispute resolution                                      |                      |                          |
-| y. Other (describe)                                        |                      |                          |
+\[In bold\] **This table lists your principal obligations under the franchise and other agreements. It will help you find more detailed information about your obligations in these agreements and in other items of this disclosure document.**
+| **Obligation**                                             | **Section in agreement** | **Disclosure document item** |
+| ---------------------------------------------------------- | ------------------------ | ---------------------------- |
+| a. Site selection and acquisition/lease                    |                          |                              |
+| b. Pre-opening purchase/leases                             |                          |                              |
+| c. Site development and other pre-opening requirements     |                          |                              |
+| d. Initial and ongoing training                            |                          |                              |
+| e. Opening                                                 |                          |                              |
+| f. Fees                                                    |                          |                              |
+| g. Compliance with standards and policies/operating manual |                          |                              |
+| h. Trademarks and proprietary information                  |                          |                              |
+| i. Restrictions on products/services offered               |                          |                              |
+| j. Warranty and customer service requirements              |                          |                              |
+| k. Territorial development and sales quotas                |                          |                              |
+| l. Ongoing product/service purchases                       |                          |                              |
+| m. Maintenance, appearance, and remodeling requirements    |                          |                              |
+| n. Insurance                                               |                          |                              |
+| o. Advertising                                             |                          |                              |
+| p. Indemnification                                         |                          |                              |
+| q. Owner's participation/management/staffing               |                          |                              |
+| r. Records and reports                                     |                          |                              |
+| s. Inspections and audits                                  |                          |                              |
+| t. Transfer                                                |                          |                              |
+| u. Renewal                                                 |                          |                              |
+| v. Post-termination obligations                            |                          |                              |
+| w. Non-competition covenants                               |                          |                              |
+| x. Dispute resolution                                      |                          |                              |
+| y. Other (describe)                                        |                          |                              |
 
 (j) *Item 10*: *Financing.* (1) Disclose the terms of each financing arrangement, including leases and installment contracts, that the franchisor, its agent, or affiliates offer directly or indirectly to the franchisee. 6 The franchisor may summarize the terms of each financing arrangement in tabular form, using footnotes to provide additional information. For a sample Item 10 table, see appendix A of this part. For each financing arrangement, state:
 
@@ -423,8 +422,7 @@ FRANCHISEE'S OBLIGATIONS
 
 Item 11 Table
 
-TRAINING PROGRAM
-
+**TRAINING PROGRAM**
 | Column 1   Subject | Column 2   Hours of Classroom Training | Column 3   Hours of On-The-Job Training | Column 4   Location |
 | ------------------ | -------------------------------------- | --------------------------------------- | ------------------- |
 |                    |                                        |                                         |                     |
@@ -655,33 +653,34 @@ TRAINING PROGRAM
 
 Item 17 Table:
 
-THE FRANCHISE RELATIONSHIP
+**THE FRANCHISE RELATIONSHIP**
 
-| Provision                                                                 | Section in franchise or other agreement | Summary |
-| ------------------------------------------------------------------------- | --------------------------------------- | ------- |
-| a. Length of the franchise term                                           |                                         |         |
-| b. Renewal or extension of the term                                       |                                         |         |
-| c. Requirements for franchisee to renew or extend                         |                                         |         |
-| d. Termination by franchisee                                              |                                         |         |
-| e. Termination by franchisor without cause                                |                                         |         |
-| f. Termination by franchisor with cause                                   |                                         |         |
-| g. “Cause” defined—curable defaults                                       |                                         |         |
-| h. “Cause” defined—non-curable defaults                                   |                                         |         |
-| i. Franchisee's obligations on termination/non-renewal                    |                                         |         |
-| j. Assignment of contract by franchisor                                   |                                         |         |
-| k. “Transfer” by franchisee—defined                                       |                                         |         |
-| l. Franchisor approval of transfer by franchisee                          |                                         |         |
-| m. Conditions for franchisor approval of transfer                         |                                         |         |
-| n. Franchisor's right of first refusal to acquire franchisee's business   |                                         |         |
-| o. Franchisor's option to purchase franchisee's business                  |                                         |         |
-| p. Death or disability of franchisee                                      |                                         |         |
-| q. Non-competition covenants during the term of the franchise             |                                         |         |
-| r. Non-competition covenants after the franchise is terminated or expires |                                         |         |
-| s. Modification of the agreement                                          |                                         |         |
-| t. Integration/merger clause                                              |                                         |         |
-| u. Dispute resolution by arbitration or mediation                         |                                         |         |
-| v. Choice of forum                                                        |                                         |         |
-| w. Choice of law                                                          |                                         |         |
+\[In bold\] **This table lists certain important provisions of the franchise and related agreements. You should read these provisions in the agreements attached to this disclosure document.**
+| **Provision**                                                             | **Section in franchise or other agreement** | **Summary** |
+| ------------------------------------------------------------------------- | ------------------------------------------- | ----------- |
+| a. Length of the franchise term                                           |                                             |             |
+| b. Renewal or extension of the term                                       |                                             |             |
+| c. Requirements for franchisee to renew or extend                         |                                             |             |
+| d. Termination by franchisee                                              |                                             |             |
+| e. Termination by franchisor without cause                                |                                             |             |
+| f. Termination by franchisor with cause                                   |                                             |             |
+| g. “Cause” defined—curable defaults                                       |                                             |             |
+| h. “Cause” defined—non-curable defaults                                   |                                             |             |
+| i. Franchisee's obligations on termination/non-renewal                    |                                             |             |
+| j. Assignment of contract by franchisor                                   |                                             |             |
+| k. “Transfer” by franchisee—defined                                       |                                             |             |
+| l. Franchisor approval of transfer by franchisee                          |                                             |             |
+| m. Conditions for franchisor approval of transfer                         |                                             |             |
+| n. Franchisor's right of first refusal to acquire franchisee's business   |                                             |             |
+| o. Franchisor's option to purchase franchisee's business                  |                                             |             |
+| p. Death or disability of franchisee                                      |                                             |             |
+| q. Non-competition covenants during the term of the franchise             |                                             |             |
+| r. Non-competition covenants after the franchise is terminated or expires |                                             |             |
+| s. Modification of the agreement                                          |                                             |             |
+| t. Integration/merger clause                                              |                                             |             |
+| u. Dispute resolution by arbitration or mediation                         |                                             |             |
+| v. Choice of forum                                                        |                                             |             |
+| w. Choice of law                                                          |                                             |             |
 
 (r) *Item 18*: *Public Figures.* Disclose:
 
@@ -741,8 +740,9 @@ We do not make any representations about a franchisee's future financial perform
 
 Item 20 Table No. 1
 
-Systemwide Outlet Summary
+**Systemwide Outlet Summary**
 
+**For years \[ \] to \[ \]**
 | Column 1   Outlet Type | Column 2   Year | Column 3   Outlets at the Start of the Year | Column 4   Outlets at the End of the Year | Column 5   Net Change |
 | ---------------------- | --------------- | ------------------------------------------- | ----------------------------------------- | --------------------- |
 | Franchised             | 2004            |                                             |                                           |                       |
@@ -771,8 +771,9 @@ Systemwide Outlet Summary
 
 Item 20 Table No. 2
 
-Transfers of Outlets from Franchisees to New Owners (other than the Franchisor)
+**Transfers of Outlets from Franchisees to New Owners (other than the Franchisor)**
 
+**For years \[ \] to \[ \]**
 | Column 1   State | Column 2   Year | Column 3   Number of Transfers |
 | ---------------- | --------------- | ------------------------------ |
 |                  | 2004            |                                |
@@ -795,8 +796,9 @@ Transfers of Outlets from Franchisees to New Owners (other than the Franchisor)
 
 Item 20 Table No. 3
 
-Status of Franchised Outlets
+**Status of Franchised Outlets**
 
+**For years \[ \] to \[ \]**
 | Column 1   State | Column 2   Year | Column 3   Outlets at Start of Year | Column 4   Outlets Opened | Column 5   Terminations | Column 6   Non-Renewals | Column 7   Reacquired by Franchisor | Column 8   Ceased Operations-Other Reasons | Column 9   Outlets at End of the Year |
 | ---------------- | --------------- | ----------------------------------- | ------------------------- | ----------------------- | ----------------------- | ----------------------------------- | ------------------------------------------ | ------------------------------------- |
 |                  | 2004            |                                     |                           |                         |                         |                                     |                                            |                                       |
@@ -831,8 +833,9 @@ Status of Franchised Outlets
 
 Item 20 Table No. 4
 
-Status of Company-Owned Outlets
+**Status of Company-Owned Outlets**
 
+**For years \[ \] to \[ \]**
 | Column 1   State | Column 2   Year | Column 3   Outlets at Start of Year | Column 4   Outlets Opened | Column 5   Outlets Reacquired From Franchisee | Column 6   Outlets Closed | Column 7   Outlets Sold to Franchisee | Column 8   Outlets at End of the Year |
 | ---------------- | --------------- | ----------------------------------- | ------------------------- | --------------------------------------------- | ------------------------- | ------------------------------------- | ------------------------------------- |
 |                  | 2004            |                                     |                           |                                               |                           |                                       |                                       |
@@ -865,8 +868,7 @@ Status of Company-Owned Outlets
 
 Item 20 Table No. 5
 
-Projected Openings As Of \[Last Day of Last Fiscal Year\]
-
+**Projected Openings As Of \[Last Day of Last Fiscal Year\]**
 | Column 1   State | Column 2   Franchise Agreements Signed But Outlet Not Opened | Column 3   Projected New Franchised Outlet In The Next Fiscal Year | Column 4   Projected New Company-Owned Outlet In the Next Fiscal Year |
 | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------------ | --------------------------------------------------------------------- |
 |                  |                                                              |                                                                    |                                                                       |
@@ -919,17 +921,9 @@ Projected Openings As Of \[Last Day of Last Fiscal Year\]
 
 (2) A start-up franchise system that does not yet have audited financial statements may phase-in the use of audited financial statements by providing, at a minimum, the following statements at the indicated times:
 
-(i) The franchisor' first partial or full fiscal year selling franchises.
-
-An unaudited opening balance sheet. 
-
-(ii) The franchisor' second fiscal year selling franchises.
-
-Audited balance sheet opinion as of the end of the first partial or full fiscal year selling franchises. 
-
-(iii) The franchisor' third and subsequent fiscal years selling franchises.
-
-All required financial statements for the previous fiscal year, plus any previously disclosed audited statements that still must be disclosed according to paragraphs (u)(1)(i) and (ii) of this section.
+| (i) The franchisor' first partial or full fiscal year selling franchises.   | An unaudited opening balance sheet.                                                                                                                                                                       |
+| (ii) The franchisor' second fiscal year selling franchises.                 | Audited balance sheet opinion as of the end of the first partial or full fiscal year selling franchises.                                                                                                  |
+| (iii) The franchisor' third and subsequent fiscal years selling franchises. | All required financial statements for the previous fiscal year, plus any previously disclosed audited statements that still must be disclosed according to paragraphs (u)(1)(i) and (ii) of this section. |
 
 (iv) Start-up franchisors may phase-in the disclosure of audited financial statements, provided the franchisor:
 

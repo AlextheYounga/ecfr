@@ -1,6 +1,6 @@
 ##### § 1.18 Patent post allowance (including issue) fees.
 
-(a) Issue fee for issuing each original patent, except a design or plant patent, or for issuing each reissue patent:
+(a) Issue fee for issuing each original patent, except a design or plant patent, or for issuing each reissue patent: 
 
 Table 1 to Paragraph (a)
 |                                       |          |
@@ -9,7 +9,7 @@ Table 1 to Paragraph (a)
 | By a small entity (§ 1.27(a))         | 480.00   |
 | By other than a small or micro entity | 1,200.00 |
 
-(b)(1) Issue fee for issuing an original design patent:
+(b)(1) Issue fee for issuing an original design patent: 
 
 Table 2 to Paragraph (b)(1)
 |                                       |         |
@@ -18,11 +18,11 @@ Table 2 to Paragraph (b)(1)
 | By a small entity (§ 1.27(a))         | 296.00  |
 | By other than a small or micro entity | 740.00  |
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(3) Issue fee for issuing an international design application designating the United States, where the issue fee is paid through the International Bureau (Hague Agreement Rule 12(3)(c)) as an alternative to paying the issue fee under paragraph (b)(1) of this section: The amount established in Swiss currency pursuant to Hague Agreement Rule 28 as of the date of mailing of the notice of allowance (§ 1.311).
+(3) Issue fee for issuing an international design application designating the United States, where the issue fee is paid through the International Bureau (Hague Agreement Rule 12(3)(c)) as an alternative to paying the issue fee under paragraph (b)(1) of this section: The amount established in Swiss currency pursuant to Hague Agreement Rule 28 as of the date of mailing of the notice of allowance (§ 1.311). 
 
-(c) Issue fee for issuing an original plant patent:
+(c) Issue fee for issuing an original plant patent: 
 
 Table 3 to Paragraph (c)
 |                                       |         |

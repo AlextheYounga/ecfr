@@ -1,8 +1,8 @@
 ##### § 41.20 Fees.
 
-(a) *Petition fee.* The fee for filing a petition under this part is: $420.00
+(a) *Petition fee.* The fee for filing a petition under this part is: $420.00 
 
-(b) *Appeal fees.* (1) For filing a notice of appeal from the examiner to the Patent Trial and Appeal Board:
+(b) *Appeal fees.* (1) For filing a notice of appeal from the examiner to the Patent Trial and Appeal Board: 
 
 Table 1 to Paragraph (b)(1)
 |                                       |         |
@@ -11,9 +11,9 @@ Table 1 to Paragraph (b)(1)
 | By a small entity (§ 1.27(a))         | 336.00  |
 | By other than a small or micro entity | 840.00  |
 
-(2)(i) For filing a brief in support of an appeal in an application or *ex parte* reexamination proceeding: $0.00
+(2)(i) For filing a brief in support of an appeal in an application or *ex parte* reexamination proceeding: $0.00 
 
-(ii) In addition to the fee for filing a notice of appeal, for filing a brief in support of an appeal in an *inter partes* reexamination proceeding:
+(ii) In addition to the fee for filing a notice of appeal, for filing a brief in support of an appeal in an *inter partes* reexamination proceeding: 
 
 Table 2 to Paragraph (b)(2)(ii)
 |                                       |          |
@@ -22,7 +22,7 @@ Table 2 to Paragraph (b)(2)(ii)
 | By a small entity (§ 1.27(a))         | 840.00   |
 | By other than a small or micro entity | 2,100.00 |
 
-(3) For filing a request for an oral hearing before the Board in an appeal under 35 U.S.C. 134:
+(3) For filing a request for an oral hearing before the Board in an appeal under 35 U.S.C. 134: 
 
 Table 3 to Paragraph (b)(3)
 |                                       |          |
@@ -31,7 +31,7 @@ Table 3 to Paragraph (b)(3)
 | By a small entity (§ 1.27(a))         | 544.00   |
 | By other than a small or micro entity | 1,360.00 |
 
-(4) In addition to the fee for filing a notice of appeal, for forwarding an appeal in an application or *ex parte* reexamination proceeding to the Board:
+(4) In addition to the fee for filing a notice of appeal, for forwarding an appeal in an application or *ex parte* reexamination proceeding to the Board: 
 
 Table 4 to Paragraph (b)(4)
 |                                       |          |

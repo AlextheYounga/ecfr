@@ -1,5 +1,7 @@
 ##### § 56.04-1 Scope.
 
+Link to an amendment published at 89 FR 50131, June 12, 2024.
+
 Piping shall be classified as shown in table 56.04-1.
 
 Table 56.04-1—Piping Classifications
