@@ -22,7 +22,7 @@
 
 (f)(1) Contracting officers may treat any acquisition of supplies or services that, as determined by the head of the agency, are to be used to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack, as an acquisition of commercial items.
 
-(2) A contract in an amount greater than $19 million that is awarded on a sole source basis for an item or service treated as a commercial item under paragraph (f)(1) of this section but does not meet the definition of a commercial item as defined at FAR 2.101 shall not be exempt from -
+(2) A contract in an amount greater than $20 million that is awarded on a sole source basis for an item or service treated as a commercial item under paragraph (f)(1) of this section but does not meet the definition of a commercial item as defined at FAR 2.101 shall not be exempt from -
 
 (i) Cost accounting standards (*see* Subpart 30.2); or
 

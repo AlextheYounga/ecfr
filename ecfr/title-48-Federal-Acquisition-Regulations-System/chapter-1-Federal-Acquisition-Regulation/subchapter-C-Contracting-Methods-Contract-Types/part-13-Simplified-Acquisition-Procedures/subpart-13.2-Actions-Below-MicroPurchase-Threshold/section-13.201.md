@@ -12,11 +12,11 @@
 
 (f) The procurement requirements in subparts 23.1, 23.2, 23.4, and 23.7 apply to purchases at or below the micro-purchase threshold.
 
-(g)(1) For acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.*; or to support response to an emergency or major disaster (42 U.S.C. 5122), the micro-purchase threshold is -
+(g)(1) For acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.*; or to support response to an emergency or major disaster (42 U.S.C. 5122), the micro-purchase threshold is—
 
 (i) $20,000 in the case of any contract to be awarded and performed, or purchase to be made, inside the United States; and
 
-(ii) $30,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States.
+(ii) $35,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States.
 
 (2) Purchases using this authority must have a clear and direct relationship to the support of a contingency operation; or the defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; international disaster assistance; or an emergency or major disaster.
 

@@ -2,7 +2,7 @@
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (AUG 2020)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (OCT 2020)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -62,7 +62,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (AU
 
 (vii) 52.222-41, Service Contract Labor Standards (AUG 2018) (41 U.S.C. chapter 67) (Applies to service contracts over $2,500 that are subject to the Service Contract Labor Standards statute and will be performed in the United States, District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, or the outer Continental Shelf).
 
-(viii)(A) 52.222-50, Combating Trafficking in Persons (JAN 2019) (22 U.S.C. chapter 78 and E.O. 13627) (Applies to all solicitations and contracts).
+(viii)(A) 52.222-50, Combating Trafficking in Persons (OCT 2020) (22 U.S.C. chapter 78 and E.O. 13627) (Applies to all solicitations and contracts).
 
 (B) Alternate I (MAR 2015) (Applies if the Contracting Officer has filled in the following information with regard to applicable directives or notices: Document title(s), source for obtaining document(s), and contract performance location outside the United States to which the document applies).
 

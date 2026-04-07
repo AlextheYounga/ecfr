@@ -2,7 +2,7 @@
 
 As prescribed in 44.403, insert the following clause:
 
-Subcontracts for Commercial Items (AUG 2020)
+Subcontracts for Commercial Items (OCT 2020)
 
 (a) *Definitions.* As used in this clause -
 
@@ -40,7 +40,7 @@ Subcontracts for Commercial Items (AUG 2020)
 
 (xiii) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496), if flow down is required in accordance with paragraph (f) of FAR clause 52.222-40.
 
-(xiv)(A) 52.222-50, Combating Trafficking in Persons (JAN 2019) (22 U.S.C. chapter 78 and E.O. 13627).
+(xiv)(A) 52.222-50, Combating Trafficking in Persons (OCT 2020) (22 U.S.C. chapter 78 and E.O. 13627).
 
 (B) Alternate I (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
