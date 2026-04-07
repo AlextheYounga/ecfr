@@ -1,5 +1,7 @@
 ##### § 679.93 Amendment 80 Program recordkeeping, permits, monitoring, and catch accounting.
 
+Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
+
 (a) *Recordkeeping and reporting.* See § 679.5(s).
 
 (b) *Permits.* See § 679.4(o).
