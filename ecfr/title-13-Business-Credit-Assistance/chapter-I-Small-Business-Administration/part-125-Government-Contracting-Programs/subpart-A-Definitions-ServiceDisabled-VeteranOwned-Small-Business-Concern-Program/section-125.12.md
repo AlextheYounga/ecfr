@@ -1,6 +1,4 @@
-##### § 125.11 What definitions are important in the Service-Disabled Veteran-Owned (SDVO) Small Business Concern (SBC) Program?
-
-Link to an amendment published at 87 FR 43739, July 22, 2022.
+##### § 125.12 What definitions are important in the Service-Disabled Veteran-Owned (SDVO) Small Business Concern (SBC) Program?
 
 *Contracting officer* has the meaning given such term in section 27(f)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(f)(5)).
 
@@ -72,4 +70,4 @@ Link to an amendment published at 87 FR 43739, July 22, 2022.
 
 (2) The management and daily business operations of which are controlled by one or more veterans. All of the provisions of subpart B of this part apply for purposes of determining ownership and control.
 
-\[83 FR 48912, Sept. 28, 2018, as amended at 86 FR 10733, Feb. 23, 2021\]
+\[83 FR 48912, Sept. 28, 2018, as amended at 86 FR 10733, Feb. 23, 2021. Redesignated at 87 FR 43739, July 22, 2022\]
