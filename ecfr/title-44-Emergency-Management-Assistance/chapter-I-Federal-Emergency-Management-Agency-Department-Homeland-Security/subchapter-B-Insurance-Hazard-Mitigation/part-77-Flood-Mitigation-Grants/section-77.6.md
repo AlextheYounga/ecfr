@@ -4,11 +4,11 @@
 
 (2) For projects that impact individual structures, for example, acquisitions and elevations, an NFIP policy for the structure must be in effect prior to the opening of the application period and be maintained for the life of the structure.
 
-(b) *Plan requirement* - (1) *Applicants.* States must have a FEMA-approved mitigation plan meeting the requirements of § 201.4 of this chapter that provides for reduction of flood losses to structures for which NFIP coverage is available. Indian Tribal governments must have a FEMA-approved mitigation plan meeting the requirements of § 201.7 of this chapter that provides for reduction of flood losses to structures for which NFIP coverage is available. The FEMA-approved mitigation plan is required at the time of application and award.
+(b) *Plan requirement*—(1) *Applicants.* States must have a FEMA-approved mitigation plan meeting the requirements of § 201.4 of this chapter that provides for reduction of flood losses to structures for which NFIP coverage is available. Indian Tribal governments must have a FEMA-approved mitigation plan meeting the requirements of § 201.7 of this chapter that provides for reduction of flood losses to structures for which NFIP coverage is available. The FEMA-approved mitigation plan is required at the time of application and award.
 
 (2) *Subapplicants.* To be eligible for FMA project grants, subapplicants must have an approved mitigation plan in accordance with part 201 of this chapter that provides for reduction of flood losses to structures for which NFIP coverage is available. The FEMA-approved mitigation plan is required at the time of application and award.
 
-(c) *Eligible activities* - (1) *Planning.* FMA planning grants may be used to develop or update State, Indian Tribal and/or local mitigation plans that meet the planning criteria outlined in part 201 of this chapter and provide for reduction of flood losses to structures for which NFIP coverage is available.
+(c) *Eligible activities*—(1) *Planning.* FMA planning grants may be used to develop or update State, Indian Tribal and/or local mitigation plans that meet the planning criteria outlined in part 201 of this chapter and provide for reduction of flood losses to structures for which NFIP coverage is available.
 
 (2) *Projects.* Projects funded under the FMA program are limited to activities that reduce flood damages to properties insured under the NFIP. Applications involving any activities for which implementation has already been initiated or completed are not eligible for funding, and will not be considered. Eligible activities are:
 
@@ -30,7 +30,7 @@
 
 (3) *Technical assistance.* If a recipient applied for and was awarded at least $1 million in the prior fiscal year, that recipient may be eligible to receive a technical assistance grant for up to $50,000.
 
-(4) *Project Scoping.* Activities that enable subapplicants to develop complete subapplications for eligible mitigation activities including but not limited to data development.
+(4) *Project scoping.* Activities that enable subapplicants to develop complete subapplications for eligible mitigation activities including but not limited to data development.
 
 (d) *Minimum project criteria.* In addition to being an eligible project type, mitigation grant projects must also:
 
