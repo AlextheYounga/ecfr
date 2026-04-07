@@ -236,4 +236,4 @@
 
 (3) *Ratings.* The FDIC rates the performance of a bank under this section pursuant to appendix D to this part. 
 
-\[89 FR 7205, Feb. 1, 2024, as amended at 89 FR 22069, Mar. 29, 2024\]
+\[89 FR 7205, Feb. 1, 2024; 89 FR 22069, Mar. 29, 2024\]

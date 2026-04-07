@@ -122,7 +122,7 @@ Income level includes:
 
 *Large bank* means a bank, excluding a bank designated as a limited purpose bank pursuant to § 345.26, that had assets of at least $2 billion as of December 31 in both of the prior two calendar years. The FDIC adjusts and publishes the figure in this definition annually, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each 12-month period ending in November, with rounding to the nearest million. 
 
-*Large depository institution* means any depository institution, excluding depository institutions designated as limited purpose banks or savings associations pursuant to 12 CFR 25.26(a) and depository institutions designated as limited purpose banks pursuant to 345.26(a) or 12 CFR 228.26(a), that meets the asset size threshold of a large bank. 
+*Large depository institution* means any depository institution, excluding depository institutions designated as limited purpose banks or savings associations pursuant to 12 CFR 25.26(a) and depository institutions designated as limited purpose banks pursuant to § 345.26(a) or 12 CFR 228.26(a), that meets the asset size threshold of a large bank. 
 
 *Limited purpose bank* means a bank that is not in the business of extending closed-end home mortgage loans, small business loans, small farm loans, or automobile loans evaluated under § 345.22 to retail customers, except on an incidental and accommodation basis, and for which a designation as a limited purpose bank is in effect, pursuant to § 345.26. 
 

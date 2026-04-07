@@ -20,6 +20,4 @@
 
 (1) Make the certifications contained in the Salvage Auction Certification Form to the dealer that authorized the salvage auction to sell the trade-in vehicle; and 
 
-(3) Comply with the requirements and limitations of § 599.402. 
-
-Editorial Note:At 74 FR 37902, July 29, 2009, § 599.400 was added, however, there was a codification error in the original document resulting in two paragraphs (c)(1).
+(3) Comply with the requirements and limitations of § 599.402.

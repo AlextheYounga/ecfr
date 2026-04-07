@@ -22,4 +22,4 @@
 
 (e) *First evaluation under this part on or after February 1, 2024.* In its first performance evaluation under this part on or after February 1, 2024, a large bank that has a total of 10 or more facility-based assessment areas in any State or multistate MSA, or nationwide, as applicable, and that was a bank subject to evaluation under this part or 12 CFR part 25 or 228 prior to February 1, 2024, may not receive a rating of “Satisfactory” or “Outstanding” in that State or multistate MSA, or for the institution, unless the bank received an overall facility-based assessment area conclusion, calculated as described in paragraph g.2.ii of appendix D to this part, of at least “Low Satisfactory” in 60 percent or more of the total number of its facility-based assessment areas in that State or multistate MSA, or nationwide, as applicable. 
 
-\[89 FR 7205, Feb. 1, 2024, as amended at 89 FR 22069, Mar. 29, 2024\]
+\[89 FR 7205, Feb. 1, 2024; 89 FR 22069, Mar. 29, 2024\]
