@@ -1,15 +1,12 @@
 ##### § 90.617 Frequencies in the 809.750-824/854.750-869 MHz, and 896-901/935-940 MHz bands available for trunked, conventional or cellular system use in non-border areas.
 
-Link to an amendment published at 85 FR 43140, July 16, 2020.
-
 The following channels will be available at locations farther then 110 km (68.4 miles) from the U.S./Mexico border and 140 km (87 miles) from the U.S./Canadian border (“non-border areas”).
 
 (a) Unless otherwise specified, the channels listed in Table 1 and paragraph (a)(1) of this section are available for to eligible applicants in the Public Safety Category which consists of licensees eligible in the Public Safety Pool of subpart B of this part. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These frequencies are available in non-border areas. Specialized Mobile Radio Systems will not be authorized in this category. These channels are available for intercategory sharing as indicated in § 90.621(e).
 
-Table 1 - Public Safety Pool 806-816/851-861 MHz Band Channels
+Table 1—Public Safety Pool 806-816/851-861 MHz Band Channels
 
 \[139 Channels\]
-
 | Group No.       | Channel Nos.                                          |
 | --------------- | ----------------------------------------------------- |
 | 269             | 269-289-311-399-439.                                  |
@@ -43,10 +40,9 @@ Table 1 - Public Safety Pool 806-816/851-861 MHz Band Channels
 
 (2) Except as provided in paragraph (a)(3) of this section, the channels listed in Table 1A are available in the counties listed in § 90.614(c) to eligible applicants in the Public Safety Category. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e).
 
-Table 1A - Public Safety Pool 806-813.5/851-858.5 MHz Band Channels for Counties in Southeastern U.S.
+Table 1A—Public Safety Pool 806-813.5/851-858.5 MHz Band Channels for Counties in Southeastern U.S.
 
 \[138 Channels\]
-
 | Group No.       | Channel Nos.                                                                                                 |
 | --------------- | ------------------------------------------------------------------------------------------------------------ |
 | 261             | 261-313-324-335-353                                                                                          |
@@ -75,12 +71,11 @@ Table 1A - Public Safety Pool 806-813.5/851-858.5 MHz Band Channels for Counties
 | 321a            | 321a-331a-341a-361a                                                                                          |
 | Single Channels | 326, 327, 332, 337, 338, 342, 343, 344, 345, 356, 326a, 327a, 332a, 337a, 338a, 342a, 343a, 344a, 345a, 356a |
 
-(3) The channels listed in Table 1B are available within 113 km (70 mi) of the center city coordinates of Atlanta, GA to eligible applicants in the Public Safety Category. The center city coordinates of Atlanta, GA - for the purposes of the rule - are defined as 33°44′55″ NL, 84°23′17″ WL. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e).
+(3) The channels listed in Table 1B are available within 113 km (70 mi) of the center city coordinates of Atlanta, GA to eligible applicants in the Public Safety Category. The center city coordinates of Atlanta, GA—for the purposes of the rule—are defined as 33°44′55″ NL, 84°23′17″ WL. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e).
 
-Table 1B - Public Safety Pool 806-813.5/851-858.5 MHz Band Channels for Atlanta, GA
+Table 1B—Public Safety Pool 806-813.5/851-858.5 MHz Band Channels for Atlanta, GA
 
 \[138 Channels\]
-
 | Group No.       | Channel Nos.                                                                                            |
 | --------------- | ------------------------------------------------------------------------------------------------------- |
 | 261             | 261-313-324-335-353                                                                                     |
@@ -111,10 +106,9 @@ Table 1B - Public Safety Pool 806-813.5/851-858.5 MHz Band Channels for Atlanta,
 
 (b) Unless otherwise specified, the channels listed in Table 2 are available to applicants eligible in the Industrial/Business Pool of subpart C of this part but exclude Special Mobilized Radio Systems as defined in § 90.603(c). 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These frequencies are available in non-border areas. Specialized Mobile Radio (SMR) systems will not be authorized on these frequencies. These channels are available for inter-category sharing as indicated in § 90.621(e).
 
-Table 2 - Business/Industrial/Land Transportation Pool 806-816/851-861 MHz Band Channels
+Table 2—Business/Industrial/Land Transportation Pool 806-816/851-861 MHz Band Channels
 
 \[200 Channels\]
-
 | Group No.       | Channel Nos.                                                                                                                                                                                                                                    |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 322             | 322-362-402-442-482.                                                                                                                                                                                                                            |
@@ -146,122 +140,58 @@ Table 2 - Business/Industrial/Land Transportation Pool 806-816/851-861 MHz Band 
 
 (1) Except as provided in paragraph (b)(2) of this section, the channels listed in Table 2A are available in the counties listed in § 90.614(c) to eligible applicants in the Industrial/Business Pool of subpart C of this part but exclude Special Mobilized Radio Systems as defined in § 90.603(c). 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e).
 
-Table 2A - Business/Industrial/Land Transportation Pool 806-813.5/851-858.5 MHz Band for Channels in Southeastern U.S.
+Table 2A—Business/Industrial/Land Transportation Pool 806-813.5/851-858.5 MHz Band for Channels in Southeastern U.S.
 
 \[137 Channels\]
-
 |                 | Channel Nos.                                                                                                                                                                                                                                                                                                                                                                                                           |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Single Channels | 263, 264, 267, 268, 272, 273, 274, 275, 276, 277, 278, 281, 282, 283, 284, 287, 288, 291, 292, 293, 294, 295, 296, 297, 298, 301, 302, 303, 304, 305, 306, 307, 308, 346, 347, 362, 363, 364, 365, 366, 367, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410                                                                |
 |                 | 263a, 264a, 267a, 268a, 272a, 273a, 274a, 275a, 276a, 277a, 278a, 281a, 282a, 283a, 284a, 287a, 288a, 291a, 292a, 293a, 294a, 295a, 296a, 297a, 298a, 301a, 302a, 303a, 304a, 305a, 306a, 307a, 308a, 346a, 347a, 362a, 363a, 364a, 365a, 366a, 367a, 379a, 380a, 381a, 382a, 383a, 384a, 385a, 386a, 387a, 388a, 389a, 390a, 391a, 392a, 393a, 394a, 399a, 400a, 401a, 402a, 403a, 404a, 405a, 406a, 407a, 408a, 409a |
 
-(2) The channels listed in Table 2B are available within 113 km (70 mi) of the center city coordinates of Atlanta, GA, to eligible applicants in the Industrial/Business Pool of subpart C of this part but exclude Special Mobilized Radio Systems as defined in § 90.603(c). The center city coordinates of Atlanta, GA - for the purposes of the rule - are defined as 33°44′55″ NL, 84°23′17″ WL. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e).
+(2) The channels listed in Table 2B are available within 113 km (70 mi) of the center city coordinates of Atlanta, GA, to eligible applicants in the Industrial/Business Pool of subpart C of this part but exclude Special Mobilized Radio Systems as defined in § 90.603(c). The center city coordinates of Atlanta, GA—for the purposes of the rule—are defined as 33°44′55″ NL, 84°23′17″ WL. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e).
 
-Table 2B - Business/Industrial/Land Transportation Pool 806-813.5/851-858.5 MHz Band for Channels in Atlanta, GA
+Table 2B—Business/Industrial/Land Transportation Pool 806-813.5/851-858.5 MHz Band for Channels in Atlanta, GA
 
 \[137 Channels\]
-
 |                 | Channel Nos.                                                                                                                                                                                                                                                                                                                                                                                                           |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Single Channels | 263, 264, 265, 266, 267, 268, 271, 272, 273, 274, 275, 276, 277, 278, 281, 282, 283, 284, 287, 288, 291, 292, 293, 294, 295, 296, 297, 298, 301, 302, 303, 304, 305, 306, 307, 308, 342, 343, 344, 345, 346, 347, 362, 363, 364, 365, 366, 367, 382, 383, 384, 385, 386, 387, 391, 392, 393, 394, 399, 400, 401, 402, 403, 404, 405, 406, 407, 409, 410                                                                |
 |                 | 263a, 264a, 265a, 266a, 267a, 268a, 271a, 272a, 273a, 274a, 275a, 276a, 277a, 278a, 281a, 282a, 283a, 284a, 287a, 288a, 291a, 292a, 293a, 294a, 295a, 296a, 297a, 298a, 301a, 302a, 303a, 304a, 305a, 306a, 307a, 308a, 342a, 343a, 344a, 345a, 346a, 347a, 362a, 363a, 364a, 365a, 366a, 367a, 382a, 383a, 384a, 385a, 386a, 387a, 391a, 392a, 393a, 394a, 399a, 400a, 401a, 402a, 403a, 404a, 405a, 406a, 407a, 409a |
 
-(c) The channels listed in Table 3 are available to applicants eligible in the Industrial/Business Pool of subpart C of this part but exclude Special Mobilized Radio Systems as defined in § 90.603(c). These frequencies are available in non-border areas. Specialized Mobile Radio (SMR) systems will not be authorized on these frequencies. These channels are available for intercategory sharing as indicated in § 90.621(e).
+(c) Except as specified in § 90.616, the channels listed in Table 3 of this section are available to applicants eligible in the Industrial Business Pool of subpart C of this part but exclude Specialized Mobile Radio Systems as defined in § 90.603(c). These frequencies are available in non-border areas. Specialized Mobile Radio (SMR) systems will not be authorized on these frequencies. These channels are available for intercategory sharing as indicated in § 90.621(e).
 
 For multi-channel systems, channels may be grouped vertically or horizontally as they appear in the following table.
 
-Table 3 - Business/Industrial/Land Transportation Pool 896-901/935-940 MHZ Band Channels
+Table 3—Business/Industrial/Land Transportation Pool 896-901/935-940 MHZ Band Channels
 
 \[199 channels\]
+| Channel Nos.        |                     |
+| 11-12-13-14-15      | 211-212-213-214-215 |
+| 16-17-18-19-20      | 216-217-218-219-220 |
+| 31-32-33-34-35      | 231-232-233-234-235 |
+| 36-37-38-39-40      | 236-237-238-239-240 |
+| 51-52-53-54-55      | 251-252-253-254-255 |
+| 56-57-58-59-60      | 256-257-258-259-260 |
+| 71-72-73-74-75      | 271-272-273-274-275 |
+| 76-77-78-79-80      | 276-277-278-279-280 |
+| 91-92-93-94-95      | 291-292-293-294-295 |
+| 96-97-98-99-100     | 296-297-298-299-300 |
+| 111-112-113-114-115 | 311-312-313-314-315 |
+| 116-117-118-119-120 | 316-317-318-319-320 |
+| 131-132-133-134-135 | 331-332-333-334-335 |
+| 136-137-138-139-140 | 336-337-338-339-340 |
+| 151-152-153-154-155 | 351-352-353-354-355 |
+| 156-157-158-159-160 | 356-357-358-359-360 |
+| 171-172-173-174-175 | 371-372-373-374-375 |
+| 176-177-178-179-180 | 376-377-378-379-380 |
+| 191-192-193-194-195 | 391-392-393-394-395 |
+| 196-197-198-199-200 | 396-397-398-399     |
 
-Channel Nos. 
+(d) Unless otherwise specified, the channels listed in Tables 4A and 4B are available only to eligibles in the SMR category—which consists of Specialized Mobile Radio (SMR) stations and eligible end users. 800 MHz high density cellular systems, as defined in § 90.7, are prohibited on these channels. These frequencies are available in non-border areas. The spectrum blocks listed in Table 4A are available for EA-based services (as defined by § 90.681) prior to January 21, 2005. No new EA-based services will be authorized after January 21, 2005. EA-based licensees who operate non-high-density cellular systems prior to January 21, 2005, may choose to remain on these channels in the non-high-density cellular portion of the 800 MHz band (as defined in § 90.614). These licensees may continue to operate non-high-density cellular systems and will be grandfathered indefinitely. The channels listed in Table 4B will be available for site-based licensing after January 21, 2005, in any Economic Area where no EA-based licensee is authorized for these channels.
 
-11-12-13-14-15
-
-211-212-213-214-215 
-
-16-17-18-19-20
-
-216-217-218-219-220 
-
-31-32-33-34-35
-
-231-232-233-234-235 
-
-36-37-38-39-40
-
-236-237-238-239-240 
-
-51-52-53-54-55
-
-251-252-253-254-255 
-
-56-57-58-59-60
-
-256-257-258-259-260 
-
-71-72-73-74-75
-
-271-272-273-274-275 
-
-76-77-78-79-80
-
-276-277-278-279-280 
-
-91-92-93-94-95
-
-291-292-293-294-295 
-
-96-97-98-99-100
-
-296-297-298-299-300 
-
-111-112-113-114-115
-
-311-312-313-314-315 
-
-116-117-118-119-120
-
-316-317-318-319-320 
-
-131-132-133-134-135
-
-331-332-333-334-335 
-
-136-137-138-139-140
-
-336-337-338-339-340 
-
-151-152-153-154-155
-
-351-352-353-354-355 
-
-156-157-158-159-160
-
-356-357-358-359-360 
-
-171-172-173-174-175
-
-371-372-373-374-375 
-
-176-177-178-179-180
-
-376-377-378-379-380 
-
-191-192-193-194-195
-
-391-392-393-394-395 
-
-196-197-198-199-200
-
-396-397-398-399
-
-(d) Unless otherwise specified, the channels listed in Tables 4A and 4B are available only to eligibles in the SMR category - which consists of Specialized Mobile Radio (SMR) stations and eligible end users. 800 MHz high density cellular systems, as defined in § 90.7, are prohibited on these channels. These frequencies are available in non-border areas. The spectrum blocks listed in Table 4A are available for EA-based services (as defined by § 90.681) prior to January 21, 2005. No new EA-based services will be authorized after January 21, 2005. EA-based licensees who operate non-high-density cellular systems prior to January 21, 2005, may choose to remain on these channels in the non-high-density cellular portion of the 800 MHz band (as defined in § 90.614). These licensees may continue to operate non-high-density cellular systems and will be grandfathered indefinitely. The channels listed in Table 4B will be available for site-based licensing after January 21, 2005, in any Economic Area where no EA-based licensee is authorized for these channels.
-
-Table 4A - EA-Based SMR Category 806-816/851-861 MHz Band Channels, Available Prior to January 21, 2005
+Table 4A—EA-Based SMR Category 806-816/851-861 MHz Band Channels, Available Prior to January 21, 2005
 
 \[80 Channels\]
-
 | Spectrum block | Channel Nos.        |
 | -------------- | ------------------- |
 | G              | 311-351-391-431-471 |
@@ -281,10 +211,9 @@ Table 4A - EA-Based SMR Category 806-816/851-861 MHz Band Channels, Available Pr
 | U              | 337-377-417-457-497 |
 | V              | 338-378-418-458-498 |
 
-Table 4B - SMR Category 806-816/851-861 MHz Band Channels, Available After January 21, 2005, for Site-Based Licensing
+Table 4B—SMR Category 806-816/851-861 MHz Band Channels, Available After January 21, 2005, for Site-Based Licensing
 
 \[160 Channels\]
-
 | Group No.       | Channel Nos.                                                                                                            |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 315             | 315-355-395-435-475.                                                                                                    |
@@ -314,46 +243,42 @@ Table 4B - SMR Category 806-816/851-861 MHz Band Channels, Available After Janua
 | Single Channels | 431, 432, 433, 434, 471, 472, 473, 474, 479, 480, 481, 488, 489, 490, 499, 500, 501, 508, 509, 510.                     |
 |                 | 431a, 432a, 433a, 434a, 471a, 472a, 473a, 474a, 479a, 480a, 481a, 488a, 489a, 490a, 499a, 500a, 501a, 508a, 509a, 510a. |
 
-(1) Except as provided in paragraph (d)(2) of this section, the channels listed in Table 4C are available in the counties listed in § 90.614(c) for non-high-density cellular operations only to eligibles in the SMR category - which consists of Specialized Mobile Radio (SMR) stations and eligible end users. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e).
+(1) Except as provided in paragraph (d)(2) of this section, the channels listed in Table 4C are available in the counties listed in § 90.614(c) for non-high-density cellular operations only to eligibles in the SMR category—which consists of Specialized Mobile Radio (SMR) stations and eligible end users. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e).
 
-Table 4C - SMR Category 806-813.5/851-858.5 MHz Band Channels Available for Site-Based Licensing in Southeastern U.S. After January 21, 2005
+Table 4C—SMR Category 806-813.5/851-858.5 MHz Band Channels Available for Site-Based Licensing in Southeastern U.S. After January 21, 2005
 
 \[22 Channels\]
-
 |                 | Channel Nos.                                                      |
 | --------------- | ----------------------------------------------------------------- |
 | Single Channels | 371, 373, 374, 375, 376, 377, 378, 395, 396, 397, 398.            |
 |                 | 371a, 373a, 374a, 375a, 376a, 377a, 378a, 395a, 396a, 397a, 398a. |
 
-(2) The channels listed in Table 4D are available within 113 km (70 mi) of the center city coordinates of Atlanta, GA, only to eligibles in the SMR category - which consists of Specialized Mobile Radio (SMR) stations and eligible end users. The center city coordinates of Atlanta, GA - for the purposes of this rule - are defined as 33°44′55″ NL, 84°23′17″ WL. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e). 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e).
+(2) The channels listed in Table 4D are available within 113 km (70 mi) of the center city coordinates of Atlanta, GA, only to eligibles in the SMR category—which consists of Specialized Mobile Radio (SMR) stations and eligible end users. The center city coordinates of Atlanta, GA—for the purposes of this rule—are defined as 33°44′55″ NL, 84°23′17″ WL. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e). 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e).
 
-Table 4D - SMR Category 806-813.5/851-858.5 MHz Band Channels Available for Site-Based Licensing in Atlanta, GA after January 21, 2005
+Table 4D—SMR Category 806-813.5/851-858.5 MHz Band Channels Available for Site-Based Licensing in Atlanta, GA after January 21, 2005
 
 \[22 Channels\]
-
 |                 | Channel Nos.                                                      |
 | --------------- | ----------------------------------------------------------------- |
 | Single Channels | 373, 374, 375, 376, 377, 378, 395, 396, 397, 398, 408.            |
 |                 | 373a, 374a, 375a, 376a, 377a, 378a, 395a, 396a, 397a, 398a, 408a. |
 
-(e) The Channels listed in § 90.614(b) and (c) are available to eligibles in the SMR category - which consists of Specialized Mobile Radio (SMR) stations and eligible end users. ESMR licensees which employ an 800 MHz high density cellular system, as defined in § 90.7, are permitted to operate on these channels in non-border areas. ESMR licensees authorized prior to January 21, 2005, may continue to operate, if they so choose, on the channels listed in Table 5. These licensees will be grandfathered indefinitely.
+(e) The Channels listed in § 90.614(b) and (c) are available to eligibles in the SMR category—which consists of Specialized Mobile Radio (SMR) stations and eligible end users. ESMR licensees which employ an 800 MHz high density cellular system, as defined in § 90.7, are permitted to operate on these channels in non-border areas. ESMR licensees authorized prior to January 21, 2005, may continue to operate, if they so choose, on the channels listed in Table 5. These licensees will be grandfathered indefinitely.
 
-Table 5 - ESMR Category 816-821 MHz Band Channels for Cellular Operations in Non-Border Areas Available Prior to January 21, 2005
+Table 5—ESMR Category 816-821 MHz Band Channels for Cellular Operations in Non-Border Areas Available Prior to January 21, 2005
 
 \[200 Channels\]
-
 | Spectrum block | Channel Nos.     |
 | -------------- | ---------------- |
 | A              | 511 through 530. |
 | B              | 531 through 590. |
 | C              | 591 through 710. |
 
-(f) The channels listed in Tables 6 are available for operations only to eligibles in the SMR category - which consists of Specialized Mobile Radio (SMR) stations and eligible end users. These frequencies are available in non-border areas. The spectrum blocks listed below are available for EA-based services according to § 90.681.
+(f) Except as specified in § 90.616, the channels listed in Table 6 of this section are available for operations only to eligibles in the SMR category—which consists of Specialized Mobile Radio (SMR) stations and eligible end users. These frequencies are available in non-border areas. The spectrum blocks listed below are available for EA-based services according to § 90.681.
 
-Table 6 - SMR Category 896-901/935-940 MHz Band Channels
+Table 6—SMR Category 896-901/935-940 MHz Band Channels
 
 \[200 channels\]
-
 | Block | Channel Nos.                            |
 | ----- | --------------------------------------- |
 | A     | 1-2-3-4-5-6-7-8-9-10                    |
@@ -385,7 +310,7 @@ Table 6 - SMR Category 896-901/935-940 MHz Band Channels
 
 (3) Five years after the release of a public notice announcing the completion of band reconfiguration in that region, these channels revert back to their original pool categories.
 
-(h) In a given 800 MHz NPSPAC region - except for the counties listed in § 90.614(c) - channels below 471 listed in Tables 2 and 4B which are vacated by a licensee relocating to channels 511-550 and remain vacant after band reconfiguration will be available as follows:
+(h) In a given 800 MHz NPSPAC region—except for the counties listed in § 90.614(c)—channels below 471 listed in Tables 2 and 4B which are vacated by a licensee relocating to channels 511-550 and remain vacant after band reconfiguration will be available as follows:
 
 (1) Only to eligible applicants in the Public Safety Category until three years after the release of a public notice announcing the completion of band reconfiguration in that region;
 
@@ -401,40 +326,40 @@ Table 6 - SMR Category 896-901/935-940 MHz Band Channels
 
 (1) Mobile units (except in Puerto Rico and the U.S. Virgin Islands):
 
-(i) For channels 511 to 524 - the minimum median desired signal levels specified in § 22.970(a)(1)(i) of this chapter and § 90.672(a)(1)(i) shall apply;
+(i) For channels 511 to 524—the minimum median desired signal levels specified in § 22.970(a)(1)(i) of this chapter and § 90.672(a)(1)(i) shall apply;
 
-(ii) For channels 524 to 534 - the minimum median desired signal level shall increase linearly from the values specified in § 22.970(a)(1)(i) of this chapter and § 90.672(a)(1)(i) to −70 dBm;
+(ii) For channels 524 to 534—the minimum median desired signal level shall increase linearly from the values specified in § 22.970(a)(1)(i) of this chapter and § 90.672(a)(1)(i) to −70 dBm;
 
-(iii) For channels 534 to 550 - the minimum median desired signal level shall increase linearly from −70 dBm to −65 dBm.
+(iii) For channels 534 to 550—the minimum median desired signal level shall increase linearly from −70 dBm to −65 dBm.
 
 (2) Portable units (except in Puerto Rico and the U.S. Virgin Islands):
 
-(i) For channels 511 to 524 - the minimum median desired signal levels specified in § 22.970(a)(1)(i) of this chapter and § 90.672(a)(1)(i) shall apply;
+(i) For channels 511 to 524—the minimum median desired signal levels specified in § 22.970(a)(1)(i) of this chapter and § 90.672(a)(1)(i) shall apply;
 
-(ii) For channels 524 to 530 - the minimum median desired signal level shall increase linearly from the values specified in § 22.970(a)(1)(i) of this chapter and § 90.672(a)(1)(i) to −80 dBm;
+(ii) For channels 524 to 530—the minimum median desired signal level shall increase linearly from the values specified in § 22.970(a)(1)(i) of this chapter and § 90.672(a)(1)(i) to −80 dBm;
 
-(iii) For channels 530 to 534 - the minimum median desired signal level shall increase linearly from −80 dBm to −70 dBm;
+(iii) For channels 530 to 534—the minimum median desired signal level shall increase linearly from −80 dBm to −70 dBm;
 
-(iv) For channels 534 to 550 - the minimum median desired signal level shall increase linearly from −70 dBm to −65 dBm.
+(iv) For channels 534 to 550—the minimum median desired signal level shall increase linearly from −70 dBm to −65 dBm.
 
 (3) Mobile units operating in Puerto Rico and the U.S. Virgin Islands:
 
-(i) For channels 511 to 530 - the minimum median desired signal levels specified in § 22.970(a)(1)(i) of this chapter and § 90.672(a)(1)(i) shall apply;
+(i) For channels 511 to 530—the minimum median desired signal levels specified in § 22.970(a)(1)(i) of this chapter and § 90.672(a)(1)(i) shall apply;
 
-(ii) For channels 531 to 534 - the minimum median desired signal level shall increase linearly from −80.2 dBm to −70 dBm;
+(ii) For channels 531 to 534—the minimum median desired signal level shall increase linearly from −80.2 dBm to −70 dBm;
 
-(iii) For channels 534 to 550 - the minimum median desired signal level shall increase linearly from −70 dBm to −65 dBm.
+(iii) For channels 534 to 550—the minimum median desired signal level shall increase linearly from −70 dBm to −65 dBm.
 
 (4) Portable units operating in Puerto Rico and the U.S. Virgin Islands:
 
-(i) For channels 511 to 530 - the minimum median desired signal levels specified in § 22.970(a)(1)(i) of this chapter and § 90.672(a)(1)(i) shall apply;
+(i) For channels 511 to 530—the minimum median desired signal levels specified in § 22.970(a)(1)(i) of this chapter and § 90.672(a)(1)(i) shall apply;
 
-(ii) For channels 531 to 534 - the minimum median desired signal level shall increase linearly from −80 dBm to −70 dBm;
+(ii) For channels 531 to 534—the minimum median desired signal level shall increase linearly from −80 dBm to −70 dBm;
 
-(iii) For channels 534 to 550 - the minimum median desired signal level shall increase linearly from −70 dBm to −65 dBm.
+(iii) For channels 534 to 550—the minimum median desired signal level shall increase linearly from −70 dBm to −65 dBm.
 
 (l) Applicants may begin to license interstitial pool channels (denoted with an “a” after the channel number) listed in paragraphs (a) through (d) of this section only after the Wireless Telecommunications Bureau and the Public Safety and Homeland Security Bureau jointly release a public notice announcing the availability of those channels for licensing in a National Public Safety Planning Advisory Committee region.
 
 (m) Incumbent licensees in the 470-512 MHz band in the urban areas specified in § 90.303 of the Commission's rules are given priority access over mutually exclusive applicants for a three-year period to all interstitial channel pairs in the public safety pool or the business/industrial/land transportation pool listed above for which they are eligible, provided that any relocating T-Band incumbent must commit to surrendering an equal amount of 470-512 MHz spectrum on a channel-for-channel basis. The three-year period begins on the date these channel pairs become available for licensing in a National Public Safety Planning Advisory Committee region. Priority access applies to any applicant seeking to license a base station within 80 kilometers (50 miles) or mobile units or control stations within 128 kilometers (80 miles) of the geographic center of the urbanized areas listed in § 90.303 of the Commission's rules.
 
-\[69 FR 67843, Nov. 22, 2004, as amended at 70 FR 6760, Feb. 8, 2005; 70 FR 76708, Dec. 28, 2005; 72 FR 39760, July 20, 2007; 75 FR 35317, June 22, 2010; 76 FR 11683, Mar. 3, 2011; 81 FR 30201, May 16, 2016; 83 FR 61100, Nov. 27, 2018; 85 FR 41417, July 10, 2020\]
+\[69 FR 67843, Nov. 22, 2004, as amended at 70 FR 6760, Feb. 8, 2005; 70 FR 76708, Dec. 28, 2005; 72 FR 39760, July 20, 2007; 75 FR 35317, June 22, 2010; 76 FR 11683, Mar. 3, 2011; 81 FR 30201, May 16, 2016; 83 FR 61100, Nov. 27, 2018; 85 FR 41417, July 10, 2020; 85 FR 43140, July 15, 2020\]
