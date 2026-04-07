@@ -146,7 +146,7 @@
 
 (D) *Loss recoupment limit.* (*1*) Except as provided in paragraph (d)(1)(iii)(D)(*2*) of this section, the amount of shared losses for which an eligible ACO is liable may not exceed 2 percent of total Medicare Parts A and B fee-for-service revenue of the ACO participants in the ACO.
 
-(*2*) Instead of the revenue-based loss recoupment limit determined under paragraph (d)(1)(iii)(D)(*1*) of this section, the loss recoupment limit for the ACO is 1 percent of the ACO's updated benchmark as determined under § 425.601 or § 425.652, if the amount determined under paragraph (d)(1)(iii)(D)(*1*) of this section exceeds the amount that is 1 percent of the ACO's updated benchmark as determined under § 425.601.
+(*2*) Instead of the revenue-based loss recoupment limit determined under paragraph (d)(1)(iii)(D)(*1*) of this section, the loss recoupment limit for the ACO is 1 percent of the ACO's updated benchmark as determined under § 425.601 or § 425.652, if the amount determined under paragraph (d)(1)(iii)(D)(*1*) of this section exceeds the amount that is 1 percent of the ACO's updated benchmark as determined under § 425.601 or § 425.652.
 
 (iv) *Level D (two-sided model)*—(A) *Final sharing rate*—(*1*) *For performance years beginning on or before January 1, 2020.* An ACO that meets all the requirements for receiving shared savings payments under the BASIC track, Level D, receives a shared savings payment of up to 50 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (d)(1)(iv)(B) of this section).
 
@@ -172,7 +172,7 @@
 
 (D) *Loss recoupment limit.* (*1*) Except as provided in paragraph (d)(1)(iv)(D)(*2*) of this section, the amount of shared losses for which an eligible ACO is liable may not exceed 4 percent of total Medicare Parts A and B fee-for-service revenue of the ACO participants in the ACO.
 
-(*2*) Instead of the revenue-based loss recoupment limit determined under paragraph (d)(1)(iv)(D)(*1*) of this section, the loss recoupment limit for the ACO is 2 percent of the ACO's updated benchmark as determined under § 425.601 or § 425.652, if the amount determined under paragraph (d)(1)(iv)(D)(*1*) of this section exceeds the amount that is 2 percent of the ACO's updated benchmark as determined under § 425.601.
+(*2*) Instead of the revenue-based loss recoupment limit determined under paragraph (d)(1)(iv)(D)(*1*) of this section, the loss recoupment limit for the ACO is 2 percent of the ACO's updated benchmark as determined under § 425.601 or § 425.652, if the amount determined under paragraph (d)(1)(iv)(D)(*1*) of this section exceeds the amount that is 2 percent of the ACO's updated benchmark as determined under § 425.601 or § 425.652.
 
 (v) *Level E (two-sided model)*—(A) *Final sharing rate*—(*1*) *For performance years beginning on or before January 1, 2020.* An ACO that meets all the requirements for receiving shared savings payments under the BASIC track, Level E, receives a shared savings payment of up to 50 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (d)(1)(v)(B) of this section).
 

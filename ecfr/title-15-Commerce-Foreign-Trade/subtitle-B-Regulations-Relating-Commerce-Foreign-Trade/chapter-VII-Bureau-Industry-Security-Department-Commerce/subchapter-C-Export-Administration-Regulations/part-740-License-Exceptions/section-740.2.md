@@ -18,9 +18,25 @@
 
 (iv) Authorized by § 740.20 of the EAR (License Exception STA).
 
-(5)(i) The item is controlled for missile technology (MT) reasons, except that the items described in ECCNs 6A008, 7A001, 7A002, 7A004, 7A101, 7A102, 7A103, 7A104, 7A105, 7B001, 7D001, 7D002, 7D003, 7D101, 7D102, 7E003, 7E101 or 9A515, may be exported as part of a spacecraft, manned aircraft, land vehicle or marine vehicle or in quantities appropriate for replacement parts for such applications under § 740.9(a)(4) (License Exception TMP for kits consisting of replacement parts), § 740.10 (License Exception RPL), § 740.13 (License Exception TSU), or § 740.15(b) (License Exception AVS for equipment and spare parts for permanent use on a vessel, aircraft or spacecraft).
+(5)(i) The item is controlled for missile technology (MT) reasons. Only the following license exceptions may be used to export MT-controlled items to destinations other than those identified in Country Groups D:4 or D:5 (see supplement no. 1 to part 740 of the EAR):
 
-(ii) MT controlled commodities described in ECCNs 2A001 or 2A101 may be exported or reexported under § 740.9(a)(4) (License Exception TMP) or § 740.10 (License Exception RPL) as one-for-one replacement for equipment previously legally exported or reexported.
+(A) License Exception TMP (§ 740.9(a)(1), (a)(3) through (8), and (a)(10), (b)(1) through (b)(3), and Notes 2, 3, and 4 to paragraph (b) of the EAR);
+
+(B) License Exception RPL (§ 740.10 of the EAR);
+
+(C) License Exception GOV (§ 740.11(b)(2) of the EAR);
+
+(D) License Exception TSU (§ 740.13(a) through (c), and (g) of the EAR);
+
+(E) License Exception AVS (§ 740.15(b)(1) through (b)(4), (c)(1), (2), (e), and (f) of the EAR); *and*
+
+(F) License Exception APR for (§ 740.16(c) through (f) of the EAR).
+
+(ii) The item is controlled for missile technology (MT) reasons. Only the following license exceptions may be used to export MT-controlled items described in paragraphs (a)(5)(ii)(A) and (B) of this section to destinations identified in Country Groups D:4 or D:5 (see supplement no. 1 to part 740 of the EAR), provided the terms and conditions in parts 740 and 746 as applicable are met:
+
+(A) MT-controlled items described in ECCNs 6A008, 7A001, 7A002, 7A004, 7A101, 7A102, 7A103, 7A104, 7A105, 7B001, 7D001, 7D002, 7D003, 7D101, 7D102, 7E003, 7E101 or 9A515, may be exported, reexported, or transferred (in-country) as part of a spacecraft, manned aircraft, land vehicle or marine vehicle or in quantities appropriate for replacement parts for such applications under § 740.9(a)(4) (License Exception TMP for kits consisting of replacement parts), § 740.10 (License Exception RPL), § 740.13 (License Exception TSU), or § 740.15(b) (License Exception AVS for equipment and spare parts for permanent use on a vessel, aircraft or spacecraft, excluding paragraph (b)(2)(ii)), *and*
+
+(B) MT-controlled commodities described in ECCNs 2A001 or 2A101 may be exported, reexported, or transferred (in-country) under § 740.9(a)(4) (License Exception TMP) or § 740.10 (License Exception RPL) as one-for-one replacement for equipment previously legally exported, reexported, or transferred (in-country).
 
 (6) The export or reexport is to a sanctioned destination (Cuba, Iran, North Korea, Syria, Crimea region of Ukraine, and the so-called Donetsk People's Republic (DNR) and Luhansk People's Republic (LNR) regions of Ukraine) or a license is required based on a limited sanction (Russia or Belarus) unless a license exception or portion thereof is specifically listed in the license exceptions paragraph pertaining to a particular sanctioned country in part 746 of the EAR.
 
