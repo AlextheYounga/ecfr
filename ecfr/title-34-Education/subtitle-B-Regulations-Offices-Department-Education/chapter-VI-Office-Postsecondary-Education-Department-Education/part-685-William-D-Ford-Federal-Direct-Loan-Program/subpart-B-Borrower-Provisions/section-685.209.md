@@ -8,9 +8,7 @@
 
 (ii) *Eligible loan,* for purposes of determining whether a borrower has a partial financial hardship in accordance with paragraph (a)(1)(v) of this section or adjusting a borrower's monthly payment amount in accordance with paragraph (a)(2)(ii) of this section, means any outstanding loan made to a borrower under the Direct Loan Program or the FFEL Program except for a defaulted loan, a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower, or a Direct Consolidation Loan or Federal Consolidation Loan that repaid a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower;
 
-(iii) *Eligible new borrower* means an individual who -
-
-(A) Has no outstanding balance on a Direct Loan Program loan or a FFEL Program loan as of October 1, 2007, or who has no outstanding balance on such a loan on the date he or she receives a new loan after October 1, 2007; and
+(iii) *Eligible new borrower* means an individual who - (A) Has no outstanding balance on a Direct Loan Program loan or a FFEL Program loan as of October 1, 2007, or who has no outstanding balance on such a loan on the date he or she receives a new loan after October 1, 2007; and
 
 (B)(*1*) Receives a disbursement of a Direct Subsidized Loan, Direct Unsubsidized Loan, or student Direct PLUS Loan on or after October 1, 2011; or
 
