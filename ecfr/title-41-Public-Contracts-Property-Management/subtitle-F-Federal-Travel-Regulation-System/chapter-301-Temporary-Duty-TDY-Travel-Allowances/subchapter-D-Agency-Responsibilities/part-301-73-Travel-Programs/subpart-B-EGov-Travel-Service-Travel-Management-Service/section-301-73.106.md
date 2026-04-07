@@ -1,7 +1,5 @@
 ##### § 301-73.106 What are the basic services that should be covered by a TMS?
 
-Link to an amendment published at 89 FR 77028, Sept. 20, 2024.
-
 The TMS must, at a minimum— 
 
 (a) Include a Travel Management Center (TMC), commercial ticket office (CTO), an in-house system, an electronically available system, or other method(s) of arranging travel, which has the ability to provide the following as appropriate to the agency's travel needs: 
@@ -28,8 +26,8 @@ The TMS must, at a minimum—
 
 (7) Other tasks, e.g., reconciliation of charges on centrally billed accounts and processing ticket refunds. 
 
-Note to § 301-73.106:
+Note 1 to § 301-73.106:
 
-The ETS fulfills the basic services of a TMS. You have the option to use the contracted travel agent service(s) of your choice through ETS or other contract vehicles. You have the responsibility to ensure that agency-contracted-for travel agent services complement and support the ETS in an efficient and cost effective manner. (See § 301-73.2).
+The ETS fulfills the basic services of a TMS.
 
-\[FTR Amdt. 2003-07, 68 FR 71030, Dec. 22, 2003, as amended by FTR Amdt. 2007-05, 72 FR 61540, Oct. 31, 2007; FTR Amdt. 2010-05, 75 FR 63104, Oct. 14, 2010; 85 FR 39849, July 2, 2020\]
+\[FTR Amdt. 2003-07, 68 FR 71030, Dec. 22, 2003, as amended by FTR Amdt. 2007-05, 72 FR 61540, Oct. 31, 2007; FTR Amdt. 2010-05, 75 FR 63104, Oct. 14, 2010; 85 FR 39849, July 2, 2020; FTR Case 2023-03, 89 FR 77028, Sept. 20, 2024\]
