@@ -1,7 +1,5 @@
 ##### § 100.1103 Northern California and Lake Tahoe area annual marine events.
 
-Link to an amendment published at 85 FR 8172, Feb. 13, 2020.
-
 (a) *General.* Special local regulations are established for the events listed in Table 1 of this section. Notice of implementation of these special local regulations will be made by publication in the Federal Register 30 days prior to the event for those events without specific dates or by Notice to Mariners 20 Days prior to the event for those events listing a period for which a firm date is identifiable. In all cases, further information on exact dates, times, and other details concerning the number and type of participants and an exact geographical description of the areas are published by the Eleventh Coast Guard District in the Local Notice to Mariners at least 20 days prior to each event. To be placed on the mailing list for Local Notice to Mariners contact: Commander (dpw), Eleventh Coast Guard District, Coast Guard Island, Building 50-2, Alameda, CA 94501-5100. *Note:* Sponsors of events listed in Table 1 of this section must submit an application each year as required by 33 CFR part 100, subpart A, to the cognizant Coast Guard Sector Commander. Sponsors are informed that ample lead time is required to inform all Federal, state, local agencies, and/or other interested parties and to provide the sponsor the best support to ensure the safety of life and property.
 
 (b) *Special local regulations.* All persons and vessels not registered with the sponsor as participants or as official patrol vessels are considered spectators. The “official patrol” consists of any Coast Guard; other Federal, state, or local law enforcement; and any public or sponsor-provided vessels assigned or approved by the cognizant Coast Guard Sector Commander to patrol each event.
@@ -20,51 +18,7 @@ Table 1 to § 100.1103
 
 \[All coordinates referenced use datum NAD 83\]
 
-1\. Redwood Heron Sprints Regatta
-
-Sponsor
-
-Humboldt State University Athletic Department. 
-
-Event Description
-
-Sport rowing shells. 
-
-Date
-
-Third Sunday in April. 
-
-Location
-
-Eureka Inner Reach Channel. 
-
-Regulated Area
-
-The navigable waters within an area bounded by a line starting 40°48′16″ N, 124°10′28″ W; thence to 40°48′21″ N, 124°10′28″ W; thence to 40°48′35″ N, 124°09′17″ W; thence to 40°48′30″ N, 124°09′17″ W; thence returning to the point of origin. 
-
-2\. Stockton Asparagus Festival
-
-Sponsor
-
-City of Stockton. 
-
-Event Description
-
-Pier side Event. 
-
-Date
-
-Last Friday, Saturday and Sunday in April. 
-
-Location
-
-McLeod Lake, Stockton, CA. 
-
-Regulated Area
-
-Starting at the Port of Stockton and extending east to McLeod Lake; beginning at latitude 37°57′06″ N and longitude 121°19′35″ W; then northerly to latitude 37°57′10″ N and longitude 121°19′36″ W; then north-northeasterly to latitude 37°57′24″ N and longitude 121°17′35″ W; then south-southwesterly to latitude 37°57′15″ N and longitude 121°17′41″ W; then south-southeasterly to latitude 37°57′14″ N and longitude 121°17′31″ W; and then back to the beginning point. 
-
-3\. Blessing of the Fleet
+1\. Blessing of the Fleet
 
 Sponsor
 
@@ -86,7 +40,7 @@ Regulated Area
 
 The area between a line drawn from Bluff Point on the southeastern side of Tiburon Peninsula to Point Campbell on the northern edge of Angel Island, and a line drawn from Peninsula Point to the southern edge of Tiburon Peninsula to Point Stuart on the western edge of Angel Island. 
 
-4\. Opening Day on San Francisco Bay
+2\. Opening Day on San Francisco Bay
 
 Sponsor
 
@@ -112,73 +66,7 @@ Special Requirements: All vessels entering the regulated area shall follow the p
 
 Commercial Vessel Traffic Allowances: The parade will be interrupted, as necessary, to permit the passage of commercial vessel traffic. Commercial traffic must cross the parade route at a no-wake speed and perpendicular to the parade route. 
 
-5\. Kinetic Sculpture Race
-
-Sponsor
-
-Kinetic Sculpture Race Inc. 
-
-Event Description
-
-Human Powered Craft Race. 
-
-Date
-
-Saturday and Sunday of Memorial Day Weekend. 
-
-Location
-
-Eureka Inner Reach Channel. 
-
-Regulated Area
-
-The navigable waters within an area bounded by a line starting 40°48′16″ N, 124°10′28″ W; thence to 40°48′21″ N, 124°10′28″ W; thence to 40°48′35″ N, 124°09′17″ W; thence to 40°48′30″ N, 124°09′17″ W; thence returning to the point of origin. 
-
-6\. Sacramento Bridge-to-Bridge Water Festival
-
-Sponsor
-
-Sacramento Visitors Bureau. 
-
-Event Description
-
-Professional high-speed powerboat races. 
-
-Date
-
-Second to last Friday, Saturday and Sunday in July. 
-
-Location
-
-Sacramento, CA. 
-
-Regulated Area
-
-The navigable waters within an area bounded by a line starting 38°35′49″ N, 121°30′30″ W; thence to 38°35′49″ N, 121°30′23″ W thence to 38°40′00″ N, 121°30′59″ W thence to 38°33′46″ N, 121°31′11″ W thence returning to the point of origin. 
-
-7\. Humboldt Bay Paddle Fest
-
-Sponsor
-
-Humboldt State University Alumni Association. 
-
-Event Description
-
-Paddle boat race. 
-
-Date
-
-Last weekend in September or first weekend in October. 
-
-Location
-
-Eureka Inner Reach Channel. 
-
-Regulated Area
-
-The navigable waters within an area bounded by a line starting 40°48′16″ N, 124°10′28″ W; thence to 40°48′21″ N, 124°10′28″ W; thence to 40°48′35″ N, 124°09′17″ W; thence to 40°48′30″ N, 124°09′17″ W; thence returning to the point of origin. 
-
-8\. Delta Thunder Powerboat Race
+3\. Delta Thunder Powerboat Race
 
 Sponsor
 
@@ -200,7 +88,7 @@ Regulated Area
 
 The water area of Suisun Bay commencing at Simmons Point on Chipps Island; thence southwesterly to Stake Point on the southern shore of Suisun Bay; thence easterly following the southern shoreline of Suisun Bay and New York Slough to New York Slough Buoy 13; thence north-northwesterly to the Northwestern corner of Fraser Shoal; thence northwesterly to the western tip of Chain Island; thence west-northwesterly to the northeast tip of Van Sickle Island; thence following the shoreline of Van Sickle Island and Chipps Island and returning to the point of origin. 
 
-9\. Pittsburg Seafood Festival Air Show
+4\. Pittsburg Seafood Festival Air Show
 
 Sponsor
 
@@ -222,4 +110,4 @@ Regulated Area
 
 The water area of Suisun Bay commencing at Simmons Point on Chipps Island; thence southwesterly to Stake Point on the southern shore of Suisun Bay; thence easterly following the southern shoreline of Suisun Bay and New York Slough to New York Slough Buoy 13; thence north-northwesterly to the Northwestern corner of Fraser Shoal; thence northwesterly to the western tip of Chain Island; thence west-northwesterly to the northeast tip of Van Sickle Island; thence following the shoreline of Van Sickle Island and Chipps Island and returning to the point of origin.
 
-\[USCG-2009-0558, 76 FR 53334, Aug. 26, 2011\]
+\[USCG-2009-0558, 76 FR 53334, Aug. 26, 2011, as amended by USCG-2018-0533, 85 FR 8172, Feb. 13, 2020\]
