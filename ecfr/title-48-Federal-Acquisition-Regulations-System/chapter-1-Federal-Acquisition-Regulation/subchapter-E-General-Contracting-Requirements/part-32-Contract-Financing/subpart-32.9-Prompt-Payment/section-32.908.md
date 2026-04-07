@@ -12,7 +12,7 @@
 
 (2) As authorized in 32.904(d)(2)(iv), the contracting officer may modify the date in paragraph (a)(4)(i) of the clause to specify a period longer than 7 days for constructive acceptance or constructive approval if required to afford the Government a reasonable opportunity to inspect and test the supplies furnished or evaluate the services performed.
 
-(c) Insert the clause at 52.232-25, Prompt Payment, in all other solicitations and contracts, except when the clause at 52.212-4, Contract Terms and Conditions - Commercial Products and Commercial Services , applies, or when payment terms and late payment penalties are established by other governmental authority (*e.g.,* tariffs).
+(c) Insert the clause at 52.232-25, Prompt Payment, in all other solicitations and contracts, except when the clause at 52.212-4, Contract Terms and Conditions—Commercial Products and Commercial Services, applies, or when payment terms and late payment penalties are established by other governmental authority (*e.g.,* tariffs).
 
 (1) As authorized in 32.904(b)(1)(ii)(B)(*4*), the contracting officer may modify the date in paragraph (a)(5)(i) of the clause to specify a period longer than 7 days for constructive acceptance, if required to afford the Government a reasonable opportunity to inspect and test the supplies furnished or to evaluate the services performed, except in the case of a contract for the purchase of a commercial product or commercial service, including a brand-name commercial product for authorized resale (*e.g.,* commissary items).
 

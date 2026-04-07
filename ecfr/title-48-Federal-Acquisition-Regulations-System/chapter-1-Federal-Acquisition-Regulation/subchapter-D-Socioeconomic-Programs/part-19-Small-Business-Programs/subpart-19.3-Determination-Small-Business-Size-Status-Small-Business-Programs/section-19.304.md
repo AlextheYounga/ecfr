@@ -2,7 +2,7 @@
 
 (a) The contracting officer may accept an offeror's representation that it is a small disadvantaged business concern (SDB) concern.
 
-(b) The provision at 52.219-1, Small Business Program Representations, or 52.212-3(c)(4), Offeror Representations and Certifications - Commercial Products and Commercial Services , is used to collect SDB data.
+(b) The provision at 52.219-1, Small Business Program Representations, or 52.212-3(c)(4), Offeror Representations and Certifications—Commercial Products and Commercial Services, is used to collect SDB data.
 
 (c) A representation of SDB status on a Federal prime contract will be deemed a misrepresentation of SDB status if the firm does not meet the requirements of 13 CFR 124.1001(b).
 
