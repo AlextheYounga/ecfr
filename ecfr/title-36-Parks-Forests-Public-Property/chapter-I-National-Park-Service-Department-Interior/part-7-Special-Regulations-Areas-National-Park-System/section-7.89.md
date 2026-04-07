@@ -1,6 +1,6 @@
 ##### § 7.89 New River Gorge National River.
 
-(a) *Hunting* - (1) *May I hunt within New River Gorge National River?* Yes, you may hunt if you:
+(a) *Hunting*—(1) *May I hunt within New River Gorge National River?* Yes, you may hunt if you:
 
 (i) Possess a valid West Virginia State hunting license or permit, or are exempt under provisions of West Virginia law.
 
@@ -16,7 +16,7 @@
 
 (ii) On administrative roads and trails authorized for bicycle use as listed in the following table.
 
-Administrative Roads and Trails Authorized for Bicycle Use - North to South Hawks Nest Connector Trail Fayetteville Trail Park Loop Trail Timber Ridge Trail Kaymoor Trail Craig Branch Trail Arrowhead Trail Long Point Trail (except 0.2 miles closest to Long Point Vista) Keeneys Creek Rail Trail Headhouse Trail Tipple Trail Seldom Seen Trail Nuttallburg Town Loop Connector Trail Brooklyn Mine Trail Brooklyn Miner's Connector Trail Southside Trail Rend Trail Stone Cliff Trail Terry Top Trail Garden Ground Stacked Loop Trail Little Laurel Trail Mud Turn Trail Glade Creek Trail Panther Branch Connector Trail
+Administrative Roads and Trails Authorized for Bicycle Use—North to South Hawks Nest Connector Trail Fayetteville Trail Park Loop Trail Timber Ridge Trail Kaymoor Trail Craig Branch Trail Arrowhead Trail Long Point Trail (except 0.2 miles closest to Long Point Vista) Keeneys Creek Rail Trail Headhouse Trail Tipple Trail Seldom Seen Trail Nuttallburg Town Loop Connector Trail Brooklyn Mine Trail Brooklyn Miner's Connector Trail Southside Trail Rend Trail Stone Cliff Trail Terry Top Trail Garden Ground Stacked Loop Trail Little Laurel Trail Mud Turn Trail Glade Creek Trail Panther Branch Connector Trail
 
 (2) *How will I know where these administrative roads and trails are located in the park?* The administrative roads and trails where bicycle use is authorized are identified on maps located in the Superintendent's office, at park visitor centers, at interpretive kiosks, and on the park's Web site. Additional information about bicycling will also be posted at appropriate trailheads and other locations.
 
