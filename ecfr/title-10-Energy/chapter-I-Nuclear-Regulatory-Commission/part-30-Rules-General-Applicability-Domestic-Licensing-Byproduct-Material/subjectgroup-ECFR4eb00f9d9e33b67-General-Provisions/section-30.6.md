@@ -1,26 +1,26 @@
 ##### § 30.6 Communications.
 
-(a) Unless otherwise specified or covered under the regional licensing program as provided in paragraph (b) of this section, any communication or report concerning the regulations in parts 30 through 37 and 39 of this chapter and any application filed under these regulations may be submitted to the Commission as follows: 
+(a) Unless otherwise specified or covered under the regional licensing program as provided in paragraph (b) of this section, any communication or report concerning the regulations in parts 30 through 37 and 39 of this chapter and any application filed under these regulations may be submitted to the Commission as follows:
 
-(1) By mail addressed: ATTN: Document Control Desk, Director, Office of Nuclear Material Safety and Safeguards U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001. 
+(1) By mail addressed: ATTN: Document Control Desk, Director, Office of Nuclear Material Safety and Safeguards U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001.
 
-(2) By hand delivery to the NRC's offices at 11555 Rockville Pike, Rockville, Maryland. 
+(2) By hand delivery to the NRC's offices at 11555 Rockville Pike, Rockville, Maryland.
 
-(3) Where practicable, by electronic submission, for example, via Electronic Information Exchange, or CD-ROM. Electronic submissions must be made in a manner that enables the NRC to receive, read, authenticate, distribute, and archive the submission, and process and retrieve it a single page at a time. Detailed guidance on making electronic submissions can be obtained by visiting the NRC's Web site at *http://www.nrc.gov/site-help/e-submittals.html;* by e-mail to *MSHD.Resource@nrc.gov;* or by writing the Office of the Chief Information Officer, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001. The guidance discusses, among other topics, the formats the NRC can accept, the use of electronic signatures, and the treatment of nonpublic information. 
+(3) Where practicable, by electronic submission, for example, via Electronic Information Exchange, or CD-ROM. Electronic submissions must be made in a manner that enables the NRC to receive, read, authenticate, distribute, and archive the submission, and process and retrieve it a single page at a time. Detailed guidance on making electronic submissions can be obtained by visiting the NRC's Web site at *http://www.nrc.gov/site-help/e-submittals.html;* by e-mail to *MSHD.Resource@nrc.gov;* or by writing the Office of the Chief Information Officer, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001. The guidance discusses, among other topics, the formats the NRC can accept, the use of electronic signatures, and the treatment of nonpublic information.
 
-(b) The Commission has delegated to the four Regional Administrators licensing authority for selected parts of its decentralized licensing program for nuclear materials as described in paragraph (b)(1) of this section. Any communication, report, or application covered under this licensing program must be submitted to the appropriate Regional Administrator. The Administrators' jurisdictions and mailing addresses are listed in paragraph (b)(2) of this section. 
+(b) The Commission has delegated to the four Regional Administrators licensing authority for selected parts of its decentralized licensing program for nuclear materials as described in paragraph (b)(1) of this section. Any communication, report, or application covered under this licensing program must be submitted to the appropriate Regional Administrator. The Administrators' jurisdictions and mailing addresses are listed in paragraph (b)(2) of this section.
 
-(1) The delegated licensing program includes authority to issue, renew, amend, cancel, modify, suspend, or revoke licenses for nuclear materials issued pursuant to 10 CFR parts 30 through 36, 39, 40, and 70 to all persons for academic, medical, and industrial uses, with the following exceptions: 
+(1) The delegated licensing program includes authority to issue, renew, amend, cancel, modify, suspend, or revoke licenses for nuclear materials issued pursuant to 10 CFR parts 30 through 36, 39, 40, and 70 to all persons for academic, medical, and industrial uses, with the following exceptions:
 
-(i) Activities in the fuel cycle and special nuclear material in quantities sufficient to constitute a critical mass in any room or area. This exception does not apply to license modifications relating to termination of special nuclear material licenses that authorize possession of larger quantities when the case is referred for action from NRC's Headquarters to the Regional Administrators. 
+(i) Activities in the fuel cycle and special nuclear material in quantities sufficient to constitute a critical mass in any room or area. This exception does not apply to license modifications relating to termination of special nuclear material licenses that authorize possession of larger quantities when the case is referred for action from NRC's Headquarters to the Regional Administrators.
 
-(ii) Health and safety design review of sealed sources and devices and approval, for licensing purposes, of sealed sources and devices. 
+(ii) Health and safety design review of sealed sources and devices and approval, for licensing purposes, of sealed sources and devices.
 
-(iii) Processing of source material for extracting of metallic compounds (including Zirconium, Hafnium, Tantalum, Titanium, Niobium, etc.). 
+(iii) Processing of source material for extracting of metallic compounds (including Zirconium, Hafnium, Tantalum, Titanium, Niobium, etc.).
 
-(iv) Distribution of products containing radioactive material under §§ 32.11 through 32.30 and 40.52 of this chapter to persons exempt from licensing requirements. 
+(iv) Distribution of products containing radioactive material under §§ 32.11 through 32.30 and 40.52 of this chapter to persons exempt from licensing requirements.
 
-(v) New uses or techniques for use of byproducts, source, or special nuclear material. 
+(v) New uses or techniques for use of byproducts, source, or special nuclear material.
 
 (2) *Submissions.* (i) *Region I.* The regional licensing program involves all Federal facilities in the region and non-Federal licensees in the following Region I non-Agreement States and the District of Columbia: Connecticut, Delaware, and Vermont. All mailed or hand-delivered inquiries, communications, and applications for a new license or an amendment, renewal, or termination request of an existing license specified in paragraph (b)(1) of this section must use the following address: U.S. Nuclear Regulatory Commission, Region I, 475 Allendale Road, Suite 102, King of Prussia, PA 19406-1415; where email is appropriate it should be addressed to *RidsRgn1MailCenter.Resource@nrc.gov.*
 

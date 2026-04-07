@@ -1,6 +1,6 @@
 ##### § 431.296 Energy conservation standards and their effective dates.
 
-(a) Each refrigerated bottled or canned beverage vending machine manufactured on or after August 31, 2012 and before January 8, 2019, shall have a daily energy consumption (in kilowatt hours per day), when measured in accordance with the DOE test procedure at § 431.294, that does not exceed the following: 
+(a) Each refrigerated bottled or canned beverage vending machine manufactured on or after August 31, 2012 and before January 8, 2019, shall have a daily energy consumption (in kilowatt hours per day), when measured in accordance with the DOE test procedure at § 431.294, that does not exceed the following:
 
 | Equipment class                                                                                                                 | Maximum daily energy consumption   (kilowatt hours per day) |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
@@ -9,7 +9,7 @@
 | Combination Vending Machines                                                                                                    | \[Reserved\].                                               |
 | † “V” is the representative value of refrigerated volume (ft3) of the BVM model, as calculated pursuant to 10 CFR 429.52(a)(3). |                                                             |
 
-(b) Each refrigerated bottled or canned beverage vending machine manufactured on or after January 8, 2019, shall have a daily energy consumption (in kilowatt hours per day), when measured in accordance with the DOE test procedure at § 431.294, that does not exceed the following: 
+(b) Each refrigerated bottled or canned beverage vending machine manufactured on or after January 8, 2019, shall have a daily energy consumption (in kilowatt hours per day), when measured in accordance with the DOE test procedure at § 431.294, that does not exceed the following:
 
 | Equipment class                                                                                                                 | Maximum daily energy consumption   (kilowatt hours per day) |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |

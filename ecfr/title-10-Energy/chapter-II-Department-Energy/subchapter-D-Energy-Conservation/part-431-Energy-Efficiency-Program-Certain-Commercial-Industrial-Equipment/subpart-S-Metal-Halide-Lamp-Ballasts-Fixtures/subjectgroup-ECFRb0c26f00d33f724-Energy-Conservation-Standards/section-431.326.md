@@ -1,28 +1,28 @@
 ##### § 431.326 Energy conservation standards and their effective dates.
 
-(a) Except as provided in paragraph (b) of this section, each metal halide lamp fixture manufactured on or after January 1, 2009, and designed to be operated with lamps rated greater than or equal to 150 watts but less than or equal to 500 watts shall contain— 
+(a) Except as provided in paragraph (b) of this section, each metal halide lamp fixture manufactured on or after January 1, 2009, and designed to be operated with lamps rated greater than or equal to 150 watts but less than or equal to 500 watts shall contain—
 
-(1) A pulse-start metal halide ballast with a minimum ballast efficiency of 88 percent; 
+(1) A pulse-start metal halide ballast with a minimum ballast efficiency of 88 percent;
 
-(2) A magnetic probe-start ballast with a minimum ballast efficiency of 94 percent; or 
+(2) A magnetic probe-start ballast with a minimum ballast efficiency of 94 percent; or
 
-(3) A nonpulse-start electronic ballast with either a minimum ballast efficiency of 92 percent for wattages greater than 250 watts; or a minimum ballast efficiency of 90 percent for wattages less than or equal to 250 watts. 
+(3) A nonpulse-start electronic ballast with either a minimum ballast efficiency of 92 percent for wattages greater than 250 watts; or a minimum ballast efficiency of 90 percent for wattages less than or equal to 250 watts.
 
-(b) The standards described in paragraph (a) of this section do not apply to— 
+(b) The standards described in paragraph (a) of this section do not apply to—
 
-(1) Metal halide lamp fixtures with regulated lag ballasts; 
+(1) Metal halide lamp fixtures with regulated lag ballasts;
 
-(2) Metal halide lamp fixtures that use electronic ballasts that operate at 480 volts; or 
+(2) Metal halide lamp fixtures that use electronic ballasts that operate at 480 volts; or
 
-(3) Metal halide lamp fixtures that; 
+(3) Metal halide lamp fixtures that;
 
-(i) Are rated only for 150 watt lamps; 
+(i) Are rated only for 150 watt lamps;
 
-(ii) Are rated for use in wet locations; as specified by the National Fire Protection Association in NFPA 70 (incorporated by reference; *see* § 431.323); and 
+(ii) Are rated for use in wet locations; as specified by the National Fire Protection Association in NFPA 70 (incorporated by reference; *see* § 431.323); and
 
-(iii) Contain a ballast that is rated to operate at ambient air temperatures above 50 °C, as specified in UL 1029, (incorporated by reference; *see* § 431.323). 
+(iii) Contain a ballast that is rated to operate at ambient air temperatures above 50 °C, as specified in UL 1029, (incorporated by reference; *see* § 431.323).
 
-(c) Except when the requirements of paragraph (a) of this section are more stringent (*i.e.,* require a larger minimum efficiency value) or as provided by paragraph (e) of this section, each metal halide lamp fixture manufactured on or after February 10, 2017, must contain a metal halide ballast with an efficiency not less than the value determined from the appropriate equation in the following table: 
+(c) Except when the requirements of paragraph (a) of this section are more stringent (*i.e.,* require a larger minimum efficiency value) or as provided by paragraph (e) of this section, each metal halide lamp fixture manufactured on or after February 10, 2017, must contain a metal halide ballast with an efficiency not less than the value determined from the appropriate equation in the following table:
 
 | Designed to be   operated with lamps of the following rated lamp wattage                                                                                                                                                                                                                                                                                                                                        | Tested input   voltage‡‡ | Minimum standard equation‡‡   %                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------------------------------- |
@@ -47,14 +47,14 @@
 | †† P is defined as the rated wattage of the lamp the fixture is designed to operate.                                                                                                                                                                                                                                                                                                                            |                          |                                                               |
 | ‡‡ Tested input voltage is specified in 10 CFR 431.324.                                                                                                                                                                                                                                                                                                                                                         |                          |                                                               |
 
-(d) Except as provided in paragraph (e) of this section, metal halide lamp fixtures manufactured on or after February 10, 2017, that operate lamps with rated wattage >500 W to ≤1000 W must not contain a probe-start metal halide ballast. 
+(d) Except as provided in paragraph (e) of this section, metal halide lamp fixtures manufactured on or after February 10, 2017, that operate lamps with rated wattage >500 W to ≤1000 W must not contain a probe-start metal halide ballast.
 
-(e) The standards described in paragraphs (c) and (d) of this section do not apply to— 
+(e) The standards described in paragraphs (c) and (d) of this section do not apply to—
 
-(1) Metal halide lamp fixtures with regulated-lag ballasts; 
+(1) Metal halide lamp fixtures with regulated-lag ballasts;
 
-(2) Metal halide lamp fixtures that use electronic ballasts that operate at 480 volts; and 
+(2) Metal halide lamp fixtures that use electronic ballasts that operate at 480 volts; and
 
-(3) Metal halide lamp fixtures that use high-frequency electronic ballasts. 
+(3) Metal halide lamp fixtures that use high-frequency electronic ballasts.
 
 \[74 FR 12075, Mar. 23, 2009, as amended at 79 FR 7844, Feb. 10, 2014\]

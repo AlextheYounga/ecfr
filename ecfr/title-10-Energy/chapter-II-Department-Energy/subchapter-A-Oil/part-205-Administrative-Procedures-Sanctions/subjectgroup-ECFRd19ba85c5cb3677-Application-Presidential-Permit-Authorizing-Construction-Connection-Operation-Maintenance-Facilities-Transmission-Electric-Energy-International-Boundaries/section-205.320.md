@@ -1,6 +1,6 @@
 ##### § 205.320 Who shall apply.
 
-(a) Any person, firm, co-operative, corporation or other entity who operates an electric power transmission or distribution facility crossing the border of the United States, for the transmission of electric energy between the United States and a foreign country, shall have a Presidential Permit, in compliance with Executive Order 10485, as amended by Executive Order 12038. Such applications should be filed with the Office of Utility Systems of the Economic Regulatory Administration. 
+(a) Any person, firm, co-operative, corporation or other entity who operates an electric power transmission or distribution facility crossing the border of the United States, for the transmission of electric energy between the United States and a foreign country, shall have a Presidential Permit, in compliance with Executive Order 10485, as amended by Executive Order 12038. Such applications should be filed with the Office of Utility Systems of the Economic Regulatory Administration.
 
 Note:
 

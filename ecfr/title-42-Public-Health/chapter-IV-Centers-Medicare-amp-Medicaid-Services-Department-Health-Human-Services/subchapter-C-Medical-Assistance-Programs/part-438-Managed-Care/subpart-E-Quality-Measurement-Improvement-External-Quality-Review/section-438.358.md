@@ -4,6 +4,8 @@
 
 (2) The data obtained from the mandatory and optional EQR-related activities in this section must be used for the annual EQR in § 438.350 and must include, at a minimum, the elements in § 438.364(a)(2)(i) through (iv).
 
+(3) For the EQR-related activities described in paragraph (b)(1) of this section (except paragraph (b)(1)(iii) of this section), the review period begins on the first day of the most recently concluded contract year or calendar year, whichever is nearest to the date of the EQR-related activity and is twelve months in duration.
+
 (b) *Mandatory activities.*
 
 (1) For each MCO, PIHP, or PAHP the following EQR-related activities must be performed in the 12 months preceding the finalization of the annual report:
