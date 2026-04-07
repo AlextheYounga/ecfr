@@ -1,41 +1,17 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates.
 
-Link to an amendment published at 89 FR 3113, Jan. 17, 2024.Link to an amendment published at 89 FR 11547, Feb. 14, 2024.Link to an amendment published at 89 FR 18243, Mar. 12, 2024.Link to an amendment published at 89 FR 19126, Mar. 15, 2024.Link to an amendment published at 89 FR 28963, Apr. 19, 2024.Link to an amendment published at 89 FR 31484, Apr. 24, 2024.Link to an amendment published at 89 FR 38582, May 7, 2024.
+Link to an amendment published at 89 FR 11547, Feb. 14, 2024.Link to an amendment published at 89 FR 18243, Mar. 12, 2024.Link to an amendment published at 89 FR 19126, Mar. 15, 2024.Link to an amendment published at 89 FR 28963, Apr. 19, 2024.Link to an amendment published at 89 FR 31484, Apr. 24, 2024.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
-(a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
+(a) *Refrigerators/refrigerator-freezers/freezers.* The standards in this paragraph (a) do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
 
-The following standards remain in effect from July 1, 2001 until September 15, 2014:
+(1) The following standards apply to products manufactured on or before September 15, 2014, and before the 2029/2030 compliance dates depending on product class (see paragraphs (a)(2) and (3) of this section).
 
-| Product class                                                                                                                                    | Energy standard equations for maximum energy use   (kWh/yr) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| 1\. Refrigerators and refrigerator-freezers with manual defrost                                                                                  | 8.82AV + 248.4   0.31av + 248.4                             |
-| 2\. Refrigerator-freezers—partial automatic defrost                                                                                              | 8.82AV + 248.4   0.31av + 248.4                             |
-| 3\. Refrigerator-freezers—automatic defrost with top-mounted freezer without through-the-door ice service and all-refrigerator—automatic defrost | 9.80AV + 276.0   0.35av + 276.0                             |
-| 4\. Refrigerator-freezers—automatic defrost with side-mounted freezer without through-the-door ice service                                       | 4.91AV + 507.5   0.17av + 507.5                             |
-| 5\. Refrigerator-freezers—automatic defrost with bottom-mounted freezer without through-the-door ice service                                     | 4.60AV + 459.0   0.16av + 459.0                             |
-| 6\. Refrigerator-freezers—automatic defrost with top-mounted freezer with through-the-door ice service                                           | 10.20AV + 356.0   0.36av + 356.0                            |
-| 7\. Refrigerator-freezers—automatic defrost with side-mounted freezer with through-the-door ice service                                          | 10.10AV + 406.0   0.36av + 406.0                            |
-| 8\. Upright freezers with manual defrost                                                                                                         | 7.55AV + 258.3   0.27av + 258.3                             |
-| 9\. Upright freezers with automatic defrost                                                                                                      | 12.43AV + 326.1   0.44av + 326.1                            |
-| 10\. Chest freezers and all other freezers except compact freezers                                                                               | 9.88AV + 143.7   0.35av + 143.7                             |
-| 11\. Compact refrigerators and refrigerator-freezers with manual defrost                                                                         | 10.70AV + 299.0   0.38av + 299.0                            |
-| 12\. Compact refrigerator-freezer—partial automatic defrost                                                                                      | 7.00AV + 398.0   0.25av + 398.0                             |
-| 13\. Compact refrigerator-freezers—automatic defrost with top-mounted freezer and compact all-refrigerator—automatic defrost                     | 12.70AV + 355.0   0.45av + 355.0                            |
-| 14\. Compact refrigerator-freezers—automatic defrost with side-mounted freezer                                                                   | 7.60AV + 501.0   0.27av + 501.0                             |
-| 15\. Compact refrigerator-freezers—automatic defrost with bottom-mounted freezer                                                                 | 13.10AV + 367.0   0.46av + 367.0                            |
-| 16\. Compact upright freezers with manual defrost                                                                                                | 9.78AV + 250.8   0.35av + 250.8                             |
-| 17\. Compact upright freezers with automatic defrost                                                                                             | 11.40AV + 391.0   0.40av + 391.0                            |
-| 18\. Compact chest freezers                                                                                                                      | 10.45AV + 152.0   0.37av + 152.0                            |
-
-AV: Adjusted Volume in ft 3; av: Adjusted Volume in liters (L).
-
-The following standards apply to products manufactured starting on September 15, 2014:
-
+Table 1 to Paragraph (a)(1)
 | Product class                                                                                                                                       | Equations for maximum energy use   (kWh/yr) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 1\. Refrigerator-freezers and refrigerators other than all-refrigerators with manual defrost                                                        | 7.99AV + 225.0                              |
+| 1\. Refrigerators and refrigerator-freezers with manual defrost                                                                                     | 7.99AV + 225.0                              |
 | 1A. All-refrigerators—manual defrost                                                                                                                | 6.79AV + 193.6                              |
 | 2\. Refrigerator-freezers—partial automatic defrost                                                                                                 | 7.99AV + 225.0                              |
 | 3\. Refrigerator-freezers—automatic defrost with top-mounted freezer without an automatic icemaker                                                  | 8.07AV + 233.7                              |
@@ -47,7 +23,7 @@ The following standards apply to products manufactured starting on September 15,
 | 4\. Refrigerator-freezers—automatic defrost with side-mounted freezer without an automatic icemaker                                                 | 8.51AV + 297.8                              |
 | 4-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer without an automatic icemaker                                      | 10.22AV + 357.4                             |
 | 4I. Refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker without through-the-door ice service               | 8.51AV + 381.8                              |
-| 4I-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker without through-the-door ice service   | 10.22AV + 441.4                             |
+| 4I-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker without through-the-door ice service   | 10.22AV + 441.4.2                           |
 | 5\. Refrigerator-freezers—automatic defrost with bottom-mounted freezer without an automatic icemaker                                               | 8.85AV + 317.0                              |
 | 5-BI. Built-In Refrigerator-freezers—automatic defrost with bottom-mounted freezer without an automatic icemaker                                    | 9.40AV + 336.9                              |
 | 5I. Refrigerator-freezers—automatic defrost with bottom-mounted freezer with an automatic icemaker without through-the-door ice service             | 8.85AV + 401.0                              |
@@ -61,15 +37,15 @@ The following standards apply to products manufactured starting on September 15,
 | 9\. Upright freezers with automatic defrost without an automatic icemaker                                                                           | 8.62AV + 228.3                              |
 | 9I. Upright freezers with automatic defrost with an automatic icemaker                                                                              | 8.62AV + 312.3                              |
 | 9-BI. Built-In Upright freezers with automatic defrost without an automatic icemaker                                                                | 9.86AV + 260.9                              |
-| 9I-BI. Built-in upright freezers with automatic defrost with an automatic icemaker                                                                  | 9.86AV + 344.9                              |
+| 9I-BI. Built-In Upright freezers with automatic defrost with an automatic icemaker                                                                  | 9.86AV + 344.9                              |
 | 10\. Chest freezers and all other freezers except compact freezers                                                                                  | 7.29AV + 107.8                              |
 | 10A. Chest freezers with automatic defrost                                                                                                          | 10.24AV + 148.1                             |
-| 11\. Compact refrigerator-freezers and refrigerators other than all-refrigerators with manual defrost                                               | 9.03AV + 252.3                              |
-| 11A.Compact all-refrigerators—manual defrost                                                                                                        | 7.84AV + 219.1                              |
+| 11\. Compact refrigerators and refrigerator-freezers with manual defrost                                                                            | 9.03AV + 252.3                              |
+| 11A.Compact refrigerators and refrigerator-freezers with manual defrost                                                                             | 7.84AV + 219.1                              |
 | 12\. Compact refrigerator-freezers—partial automatic defrost                                                                                        | 5.91AV + 335.8                              |
 | 13\. Compact refrigerator-freezers—automatic defrost with top-mounted freezer                                                                       | 11.80AV + 339.2                             |
 | 13I. Compact refrigerator-freezers—automatic defrost with top-mounted freezer with an automatic icemaker                                            | 11.80AV + 423.2                             |
-| 13A. Compact all-refrigerators—automatic defrost                                                                                                    | 9.17AV + 259.3                              |
+| 13A. Compact all-refrigerator—automatic defrost                                                                                                     | 9.17AV + 259.3                              |
 | 14\. Compact refrigerator-freezers—automatic defrost with side-mounted freezer                                                                      | 6.82AV + 456.9                              |
 | 14I. Compact refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker                                           | 6.82AV + 540.9                              |
 | 15\. Compact refrigerator-freezers—automatic defrost with bottom-mounted freezer                                                                    | 11.80AV + 339.2                             |
@@ -77,15 +53,93 @@ The following standards apply to products manufactured starting on September 15,
 | 16\. Compact upright freezers with manual defrost                                                                                                   | 8.65AV + 225.7                              |
 | 17\. Compact upright freezers with automatic defrost                                                                                                | 10.17AV + 351.9                             |
 | 18\. Compact chest freezers                                                                                                                         | 9.25AV + 136.8                              |
+| AV = Total adjusted volume, expressed in ft3, as determined in appendices A and B to subpart B of this part.                                        |                                             |
+| av = Total adjusted volume, expressed in Liters.                                                                                                    |                                             |
 
-AV = Total adjusted volume, expressed in ft 3, as determined in appendices A and B of subpart B of this part.
+(2) The following standards apply to products manufactured on or after January 31, 2029.
 
-av = Total adjusted volume, expressed in Liters.
+Table 2 to Paragraph (a)(2)
+| Product class                                                                                                        | Equations for maximum energy use   (kWh/yr) |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 3-BI. Built-in refrigerator-freezer—automatic defrost with top-mounted freezer                                       | 8.24AV + 238.4 + 28I                        |
+| 3A-BI. Built-in All-refrigerators—automatic defrost                                                                  | (7.22AV + 205.7)\*K3ABI                     |
+| 4-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer                                     | (8.79AV + 307.4)\*K4BI + 28I                |
+| 5-BI. Built-In Refrigerator-freezers—automatic defrost with bottom-mounted freezer                                   | (8.65AV + 309.9)\*K5BI + 28I                |
+| 5A. Refrigerator-freezer—automatic defrost with bottom-mounted freezer with through-the-door ice service             | (7.76AV + 351.9)\*K5A                       |
+| 5A-BI. Built-in refrigerator-freezer—automatic defrost with bottom-mounted freezer with through-the-door ice service | (8.21AV + 370.7)\*K5ABI                     |
+| 7-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer                                     | (8.82AV + 384.1)\*K7BI                      |
+| 8\. Upright freezers with manual defrost                                                                             | 5.57AV + 193.7                              |
+| 9-BI. Built-In Upright freezers with automatic defrost                                                               | (9.37AV + 247.9)\*K9BI + 28I                |
+| 9A-BI. Built-In Upright freezers with automatic defrost with through-the-door ice service                            | 9.86AV + 288.9                              |
+| 10\. Chest freezers and all other freezers except compact freezers                                                   | 7.29AV + 107.8                              |
+| 10A. Chest freezers with automatic defrost                                                                           | 10.24AV + 148.1                             |
+| 11\. Compact refrigerator-freezers and refrigerators other than all-refrigerators with manual defrost                | 7.68AV + 214.5                              |
+| 11A. Compact all-refrigerators—manual defrost                                                                        | 6.66AV + 186.2                              |
+| 12\. Compact refrigerator-freezers—partial automatic defrost                                                         | (5.32AV + 302.2)\*K12                       |
+| 13\. Compact refrigerator-freezers—automatic defrost with top-mounted freezer                                        | 10.62AV + 305.3 + 28I                       |
+| 13A. Compact all-refrigerators—automatic defrost                                                                     | (8.25AV + 233.4)\*K13A                      |
+| 14\. Compact refrigerator-freezers—automatic defrost with side-mounted freezer                                       | 6.14AV + 411.2 + 28I                        |
+| 15\. Compact refrigerator-freezers—automatic defrost with bottom-mounted freezer                                     | 10.62AV + 305.3 + 28I                       |
+| 16\. Compact upright freezers with manual defrost                                                                    | 7.35AV + 191.8                              |
+| 17\. Compact upright freezers with automatic defrost                                                                 | 9.15AV + 316.7                              |
+| 18\. Compact chest freezers                                                                                          | 7.86AV + 107.8                              |
+| AV = Total adjusted volume, expressed in ft3, as determined in appendices A and B to subpart B of 10 CFR part 430.   |                                             |
+| av = Total adjusted volume, expressed in Liters.                                                                     |                                             |
+| I = 1 for a product with an automatic icemaker and = 0 for a product without an automatic icemaker.                  |                                             |
+| Door Coefficients (e.g., K3ABI) are as defined in the following table.                                               |                                             |
+
+Table 3 to Paragraph (a)(2)
+| Door coefficient                                                                 | Products   with a   transparent   door | Products   without a   transparent   door with a   door-in-door | Products without a transparent door or door-in-door with added external doors |
+| -------------------------------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| K3ABI                                                                            | 1.10                                   | 1.0                                                             | 1.0.                                                                          |
+| K4BI                                                                             | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−2).                                                           |
+| K5BI                                                                             | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−2).                                                           |
+| K5A                                                                              | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−3).                                                           |
+| K5ABI                                                                            | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−3).                                                           |
+| K7BI                                                                             | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−2).                                                           |
+| K9BI                                                                             | 1.0                                    | 1.0                                                             | 1 + 0.02 \* (Nd−1).                                                           |
+| K12                                                                              | 1.0                                    | 1.0                                                             | 1 + 0.02 \* (Nd−1).                                                           |
+| K13A                                                                             | 1.10                                   | 1.0                                                             | 1.0                                                                           |
+| **Notes:**                                                                       |                                        |                                                                 |                                                                               |
+| 1 Nd is the number of external doors.                                            |                                        |                                                                 |                                                                               |
+| 2 The maximum Nd values are 2 for K12, 3 for K9BI, and 5 for all other K values. |                                        |                                                                 |                                                                               |
+
+(3) The following standards apply to products manufactured on or after January 31, 2030.
+
+Table 4 to Paragraph (a)(3)
+| Product class                                                                                                | Equations for maximum energy use   (kWh/yr) |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
+| 1\. Refrigerator-freezers and refrigerators other than all-refrigerators with manual defrost                 | 6.79AV + 191.3                              |
+| 1A. All-refrigerators—manual defrost                                                                         | 5.77AV + 164.6                              |
+| 2\. Refrigerator-freezers—partial automatic defrost                                                          | (6.79AV + 191.3)\*K2                        |
+| 3\. Refrigerator-freezers—automatic defrost with top-mounted freezer                                         | 6.86AV + 198.6 + 28I                        |
+| 3A. All-refrigerators—automatic defrost                                                                      | (6.01AV + 171.4)\*K3A                       |
+| 4\. Refrigerator-freezers—automatic defrost with side-mounted freezer                                        | (7.28AV + 254.9)\*K4 + 28I                  |
+| 5\. Refrigerator-freezers—automatic defrost with bottom-mounted freezer                                      | (7.61AV + 272.6)\*K5 + 28I                  |
+| 6\. Refrigerator-freezers—automatic defrost with top-mounted freezer with through-the-door ice service       | 7.14AV + 280.0                              |
+| 7\. Refrigerator-freezers—automatic defrost with side-mounted freezer with through-the-door ice service      | (7.31AV + 322.5)\*K7                        |
+| 9\. Upright freezers with automatic defrost                                                                  | (7.33AV + 194.1)\*K9 + 28I                  |
+| AV = Total adjusted volume, expressed in ft3, as determined in appendices A and B to subpart B of this part. |                                             |
+| av = Total adjusted volume, expressed in Liters.                                                             |                                             |
+| I = 1 for a product with an automatic icemaker and = 0 for a product without an automatic icemaker.          |                                             |
+| Door Coefficients (e.g., K3A) are as defined in the following table.                                         |                                             |
+
+Table 5 to Paragraph (a)(3)
+| Door coefficient                                                    | Products   with a   transparent   door | Products   without a   transparent   door with a   door-in-door | Products without a transparent door or door-in-door with added external doors |
+| ------------------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| K2                                                                  | 1.0                                    | 1.0                                                             | 1 + 0.02 \* (Nd−1).                                                           |
+| K3A                                                                 | 1.10                                   | 1.0                                                             | 1.0.                                                                          |
+| K4                                                                  | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−2).                                                           |
+| K5                                                                  | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−2).                                                           |
+| K7                                                                  | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−2).                                                           |
+| K9                                                                  | 1.0                                    | 1.0                                                             | 1 + 0.02 \* (Nd−1).                                                           |
+| **Notes:**                                                          |                                        |                                                                 |                                                                               |
+| 1 Nd is the number of external doors.                               |                                        |                                                                 |                                                                               |
+| 2 The maximum Nd values are 2 for K2, and 5 for all other K values. |                                        |                                                                 |                                                                               |
 
 (b) *Room air conditioners.* (1) The following standards remain in effect from June 1, 2014, until May 26, 2026:
 
-Table 3 to Paragraph (b)
-
+Table 6 to Paragraph (b)(1)
 | Equipment class                                                                                                      | Combined energy   efficiency ratio |
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | 1\. Without reverse cycle, with louvered sides, and with a certified cooling capacity 1 less than 6,000 Btu/h        | 11.0                               |
@@ -106,13 +160,11 @@ Table 3 to Paragraph (b)
 | 14\. With reverse cycle, without louvered sides, and with a certified cooling capacity of 14,000 Btu/h or more       | 8.7                                |
 | 15\. Casement-Only                                                                                                   | 9.5                                |
 | 16\. Casement-Slider                                                                                                 | 10.4                               |
-
-1 The certified cooling capacity is determined by the manufacturer in accordance with 10 CFR 429.15(a)(3).
+| 1 The certified cooling capacity is determined by the manufacturer in accordance with 10 CFR 429.15(a)(3).           |                                    |
 
 (2) The following standards apply to products manufactured starting May 26, 2026:
 
-Table 4 to Paragraph (b)(2)
-
+Table 7 to Paragraph (b)(2)
 | Equipment class                                                                                                      | Combined energy   efficiency ratio |
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | 1\. Without reverse cycle, with louvered sides, and with a certified cooling capacity 1 less than 6,000 Btu/h        | 13.1                               |
@@ -133,8 +185,7 @@ Table 4 to Paragraph (b)(2)
 | 14\. With reverse cycle, without louvered sides, and with a certified cooling capacity of 14,000 Btu/h or more       | 12.8                               |
 | 15\. Casement-Only                                                                                                   | 13.9                               |
 | 16\. Casement-Slider                                                                                                 | 15.3                               |
-
-1 The certified cooling capacity is determined by the manufacturer in accordance with 10 CFR 429.15(a)(3).
+| 1 The certified cooling capacity is determined by the manufacturer in accordance with 10 CFR 429.15(a)(3).           |                                    |
 
 (c) *Central air conditioners and heat pumps.* The energy conservation standards defined in terms of the heating seasonal performance factor are based on Region IV, the minimum standardized design heating requirement, and the provisions of 10 CFR 429.16.
 
@@ -189,65 +240,59 @@ Table 4 to Paragraph (b)(2)
 
 (6)(i) In addition to meeting the applicable requirements in paragraph (c)(5) of this section, products in product classes (i) and (iii) of paragraph (c)(5) of this section (*i.e.,* split systems—air conditioners and single-package units—air conditioners) that are installed on or after January 1, 2023, in the southeast or southwest must have a Seasonal Energy Efficiency Ratio 2 and a Energy Efficiency Ratio 2 not less than:
 
-| Product class                                                                                                  | Southeast \* | Southwest \*\* |
-| -------------------------------------------------------------------------------------------------------------- | ------------ | -------------- |
-| (i)(A) Split-systems—air conditioners with a certified cooling capacity less than 45,000 Btu/hr                | 14.3         | 14.3           |
-| (i)(B) Split-systems—air conditioners with a certified cooling capacity equal to or greater than 45,000 Btu/hr | 13.8         | 13.8           |
-| (iii) Single-package units—air conditioners                                                                    |              |                |
-
-\* “Southeast” includes the States of Alabama, Arkansas, Delaware, Florida, Georgia, Hawaii, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, Puerto Rico, South Carolina, Tennessee, Texas, Virginia, the District of Columbia, and the U.S. Territories.
-
-\*\* “Southwest” includes the States of Arizona, California, Nevada, and New Mexico.
-
-\*\*\* EER refers to the energy efficiency ratio at a standard rating of 95 °F dry bulb outdoor temperature.
-
-† The 11.7 EER2 standard applies to products with a certified SEER2 less than 15.2. The 9.8 EER2 standard applies to products with a certified SEER2 greater than or equal to 15.2.
-
-†† The 11.2 EER2 standard applies to products with a certified SEER2 less than 15.2. The 9.8 EER2 standard applies to products with a certified SEER2 greater than or equal to 15.2.
+| Product class                                                                                                                                                                                                                                                                   | Southeast \* | Southwest \*\* |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------- |
+| (i)(A) Split-systems—air conditioners with a certified cooling capacity less than 45,000 Btu/hr                                                                                                                                                                                 | 14.3         | 14.3           |
+| (i)(B) Split-systems—air conditioners with a certified cooling capacity equal to or greater than 45,000 Btu/hr                                                                                                                                                                  | 13.8         | 13.8           |
+| (iii) Single-package units—air conditioners                                                                                                                                                                                                                                     |              |                |
+| \* “Southeast” includes the States of Alabama, Arkansas, Delaware, Florida, Georgia, Hawaii, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, Puerto Rico, South Carolina, Tennessee, Texas, Virginia, the District of Columbia, and the U.S. Territories. |              |                |
+| \*\* “Southwest” includes the States of Arizona, California, Nevada, and New Mexico.                                                                                                                                                                                            |              |                |
+| \*\*\* EER refers to the energy efficiency ratio at a standard rating of 95 °F dry bulb outdoor temperature.                                                                                                                                                                    |              |                |
+| † The 11.7 EER2 standard applies to products with a certified SEER2 less than 15.2. The 9.8 EER2 standard applies to products with a certified SEER2 greater than or equal to 15.2.                                                                                             |              |                |
+| †† The 11.2 EER2 standard applies to products with a certified SEER2 less than 15.2. The 9.8 EER2 standard applies to products with a certified SEER2 greater than or equal to 15.2.                                                                                            |              |                |
 
 (ii) Any model of outdoor unit that has a certified combination with a rating below the applicable standard level(s) for a region cannot be installed in that region. The least-efficient combination of each basic model, which for single-split-system air conditioner (AC) with single-stage or two-stage compressor (including space-constrained and small-duct high velocity systems (SDHV)) must be a coil-only combination, must comply with the applicable standard. See 10 CFR 429.16(a)(1) and (a)(4)(i).
 
 (d) *Water heaters.* The uniform energy factor of water heaters shall not be less than the following:
 
-| Product class                        | Rated storage volume   and input rating   (if applicable) | Draw pattern     | Uniform energy factor  |
-| ------------------------------------ | --------------------------------------------------------- | ---------------- | ---------------------- |
-| Gas-fired Storage Water Heater       | ≥20 gal and ≤55 gal                                       | Very Small       | 0.3456 − (0.0020 × Vr) |
-|                                      |                                                           | Low              | 0.5982 − (0.0019 × Vr) |
-|                                      |                                                           | Medium           | 0.6483 − (0.0017 × Vr) |
-|                                      |                                                           | High             | 0.6920 − (0.0013 × Vr) |
-|                                      | \>55 gal and ≤100 gal                                     | Very Small       | 0.6470 − (0.0006 × Vr) |
-|                                      |                                                           | Low              | 0.7689 − (0.0005 × Vr) |
-|                                      |                                                           | Medium           | 0.7897 − (0.0004 × Vr) |
-|                                      |                                                           | High             | 0.8072 − (0.0003 × Vr) |
-| Oil-fired Storage Water Heater       | ≤50 gal                                                   | Very Small       | 0.2509 − (0.0012 × Vr) |
-|                                      |                                                           | Low              | 0.5330 − (0.0016 × Vr) |
-|                                      |                                                           | Medium           | 0.6078 − (0.0016 × Vr) |
-|                                      |                                                           | High             | 0.6815 − (0.0014 × Vr) |
-| Electric Storage Water Heaters       | ≥20 gal and ≤55 gal                                       | Very Small       | 0.8808 − (0.0008 × Vr) |
-|                                      |                                                           | Low              | 0.9254 − (0.0003 × Vr) |
-|                                      |                                                           | Medium           | 0.9307 − (0.0002 × Vr) |
-|                                      |                                                           | High             | 0.9349 − (0.0001 × Vr) |
-|                                      | \>55 gal and ≤120 gal                                     | Very Small       | 1.9236 − (0.0011 × Vr) |
-|                                      |                                                           | Low              | 2.0440 − (0.0011 × Vr) |
-|                                      |                                                           | Medium           | 2.1171 − (0.0011 × Vr) |
-|                                      |                                                           | High             | 2.2418 − (0.0011 × Vr) |
-| Tabletop Water Heater                | ≥20 gal and ≤120 gal                                      | Very Small       | 0.6323 − (0.0058 × Vr) |
-|                                      |                                                           | Low              | 0.9188 − (0.0031 × Vr) |
-|                                      |                                                           | Medium           | 0.9577 − (0.0023 × Vr) |
-|                                      |                                                           | High             | 0.9884 − (0.0016 × Vr) |
-| Instantaneous Gas-fired Water Heater | <2 gal and >50,000 Btu/h                                  | Very Small   Low | 0.80   0.81            |
-|                                      |                                                           | Medium           | 0.81                   |
-|                                      |                                                           | High             | 0.81                   |
-| Instantaneous Electric Water Heater  | <2 gal                                                    | Very Small       | 0.91                   |
-|                                      |                                                           | Low              | 0.91                   |
-|                                      |                                                           | Medium           | 0.91                   |
-|                                      |                                                           | High             | 0.92                   |
-| Grid-Enabled Water Heater            | \>75 gal                                                  | Very Small       | 1.0136 − (0.0028 × Vr) |
-|                                      |                                                           | Low              | 0.9984 − (0.0014 × Vr) |
-|                                      |                                                           | Medium           | 0.9853 − (0.0010 × Vr) |
-|                                      |                                                           | High             | 0.9720 − (0.0007 × Vr) |
-
-\* Vr is the Rated Storage Volume (in gallons), as determined pursuant to 10 CFR 429.17.
+| Product class                                                                            | Rated storage volume   and input rating   (if applicable) | Draw pattern     | Uniform energy factor  |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------- | ---------------------- |
+| Gas-fired Storage Water Heater                                                           | ≥20 gal and ≤55 gal                                       | Very Small       | 0.3456 − (0.0020 × Vr) |
+|                                                                                          |                                                           | Low              | 0.5982 − (0.0019 × Vr) |
+|                                                                                          |                                                           | Medium           | 0.6483 − (0.0017 × Vr) |
+|                                                                                          |                                                           | High             | 0.6920 − (0.0013 × Vr) |
+|                                                                                          | \>55 gal and ≤100 gal                                     | Very Small       | 0.6470 − (0.0006 × Vr) |
+|                                                                                          |                                                           | Low              | 0.7689 − (0.0005 × Vr) |
+|                                                                                          |                                                           | Medium           | 0.7897 − (0.0004 × Vr) |
+|                                                                                          |                                                           | High             | 0.8072 − (0.0003 × Vr) |
+| Oil-fired Storage Water Heater                                                           | ≤50 gal                                                   | Very Small       | 0.2509 − (0.0012 × Vr) |
+|                                                                                          |                                                           | Low              | 0.5330 − (0.0016 × Vr) |
+|                                                                                          |                                                           | Medium           | 0.6078 − (0.0016 × Vr) |
+|                                                                                          |                                                           | High             | 0.6815 − (0.0014 × Vr) |
+| Electric Storage Water Heaters                                                           | ≥20 gal and ≤55 gal                                       | Very Small       | 0.8808 − (0.0008 × Vr) |
+|                                                                                          |                                                           | Low              | 0.9254 − (0.0003 × Vr) |
+|                                                                                          |                                                           | Medium           | 0.9307 − (0.0002 × Vr) |
+|                                                                                          |                                                           | High             | 0.9349 − (0.0001 × Vr) |
+|                                                                                          | \>55 gal and ≤120 gal                                     | Very Small       | 1.9236 − (0.0011 × Vr) |
+|                                                                                          |                                                           | Low              | 2.0440 − (0.0011 × Vr) |
+|                                                                                          |                                                           | Medium           | 2.1171 − (0.0011 × Vr) |
+|                                                                                          |                                                           | High             | 2.2418 − (0.0011 × Vr) |
+| Tabletop Water Heater                                                                    | ≥20 gal and ≤120 gal                                      | Very Small       | 0.6323 − (0.0058 × Vr) |
+|                                                                                          |                                                           | Low              | 0.9188 − (0.0031 × Vr) |
+|                                                                                          |                                                           | Medium           | 0.9577 − (0.0023 × Vr) |
+|                                                                                          |                                                           | High             | 0.9884 − (0.0016 × Vr) |
+| Instantaneous Gas-fired Water Heater                                                     | <2 gal and >50,000 Btu/h                                  | Very Small   Low | 0.80   0.81            |
+|                                                                                          |                                                           | Medium           | 0.81                   |
+|                                                                                          |                                                           | High             | 0.81                   |
+| Instantaneous Electric Water Heater                                                      | <2 gal                                                    | Very Small       | 0.91                   |
+|                                                                                          |                                                           | Low              | 0.91                   |
+|                                                                                          |                                                           | Medium           | 0.91                   |
+|                                                                                          |                                                           | High             | 0.92                   |
+| Grid-Enabled Water Heater                                                                | \>75 gal                                                  | Very Small       | 1.0136 − (0.0028 × Vr) |
+|                                                                                          |                                                           | Low              | 0.9984 − (0.0014 × Vr) |
+|                                                                                          |                                                           | Medium           | 0.9853 − (0.0010 × Vr) |
+|                                                                                          |                                                           | High             | 0.9720 − (0.0007 × Vr) |
+| \* Vr is the Rated Storage Volume (in gallons), as determined pursuant to 10 CFR 429.17. |                                                           |                  |                        |
 
 (e) *Furnaces and boilers*—(1) *Furnaces.* (i) The Annual Fuel Utilization Efficiency (AFUE) of residential furnaces shall not be less than the following for non-weatherized gas furnaces manufactured before November 19, 2015, non-weatherized oil furnaces manufactured before May 1, 2013, and weatherized furnaces manufactured before January 1, 2015:
 
@@ -258,8 +303,7 @@ Table 4 to Paragraph (b)(2)
 | (C) Small furnaces (other than those designed solely for installation in mobile homes) having an input rate of less than 45,000 Btu/hr |                    |
 | (1) Weatherized (outdoor)                                                                                                              | 78                 |
 | (2) Non-weatherized (indoor)                                                                                                           | 78                 |
-
-1 Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2) of this part.
+| 1 Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2) of this part.                                                    |                    |
 
 (ii) The AFUE for non-weatherized gas furnaces (not including mobile home gas furnaces) manufactured on or after November 19, 2015, but before December 18, 2028; mobile home gas furnaces manufactured on or after November 19, 2015, but before December 18, 2028; non-weatherized oil-fired furnaces (not including mobile home furnaces) manufactured on or after May 1, 2013, mobile home oil-fired furnaces manufactured on or after September 1, 1990; weatherized gas-fired furnaces manufactured on or after January 1, 2015; weatherized oil-fired furnaces manufactured on or after January 1, 1992; and electric furnaces manufactured on or after January 1, 1992; shall not be less than the following:
 
@@ -272,8 +316,7 @@ Table 4 to Paragraph (b)(2)
 | (E) Weatherized gas furnaces                                                | 81.0               |
 | (F) Weatherized oil-fired furnaces                                          | 78.0               |
 | (G) Electric furnaces                                                       | 78.0               |
-
-1 Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2).
+| 1 Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2).      |                    |
 
 (iii) The AFUE for non-weatherized gas (not including mobile home gas furnaces) manufactured on and after December 18, 2028; and mobile home gas furnaces manufactured on and after December 18, 2028, shall not be less than the following:
 
@@ -281,8 +324,7 @@ Table 4 to Paragraph (b)(2)
 | ------------------------------------------------------------------------- | ------------------ |
 | (A) Non-weatherized gas furnaces (not including mobile home gas furnaces) | 95.0               |
 | (B) Mobile home gas furnaces                                              | 95.0               |
-
-1 Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2).
+| 1 Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2).    |                    |
 
 (iv) Furnaces manufactured on or after May 1, 2013, shall have an electrical standby mode power consumption (PW,SB) and electrical off mode power consumption (PW,OFF) not more than the following:
 
@@ -293,37 +335,34 @@ Table 4 to Paragraph (b)(2)
 
 (2) *Boilers.* (i) The AFUE of residential boilers manufactured before September 1, 2012, shall not be less than the following:
 
-| Product class                     | AFUE 1 (percent) |
-| --------------------------------- | ---------------- |
-| (A) Boilers (excluding gas steam) | 80               |
-| (B) Gas steam boilers             | 75               |
-
-1 Annual Fuel Utilization Efficiency, as determined in § 430.22(n)(2) of this part.
+| Product class                                                                       | AFUE 1 (percent) |
+| ----------------------------------------------------------------------------------- | ---------------- |
+| (A) Boilers (excluding gas steam)                                                   | 80               |
+| (B) Gas steam boilers                                                               | 75               |
+| 1 Annual Fuel Utilization Efficiency, as determined in § 430.22(n)(2) of this part. |                  |
 
 (ii) Except as provided in paragraph (e)(2)(iv) of this section, the AFUE of residential boilers, manufactured on or after September 1, 2012, and before January 15, 2021, shall not be less than the following and must comply with the design requirements as follows:
 
-| Product class                  | AFUE 1   (percent) | Design requirements                                                                                                                                                        |
-| ------------------------------ | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| (A) Gas-fired hot water boiler | 82                 | Constant burning pilot not permitted.   Automatic means for adjusting water temperature required (except for boilers equipped with tankless domestic water heating coils). |
-| (B) Gas-fired steam boiler     | 80                 | Constant burning pilot not permitted.                                                                                                                                      |
-| (C) Oil-fired hot water boiler | 84                 | Automatic means for adjusting temperature required (except for boilers equipped with tankless domestic water heating coils).                                               |
-| (D) Oil-fired steam boiler     | 82                 | None.                                                                                                                                                                      |
-| (E) Electric hot water boiler  | None               | Automatic means for adjusting temperature required (except for boilers equipped with tankless domestic water heating coils).                                               |
-
-1 Annual Fuel Utilization Efficiency, as determined in § 430.22(n)(2) of this part.
+| Product class                                                                       | AFUE 1   (percent) | Design requirements                                                                                                                                                        |
+| ----------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| (A) Gas-fired hot water boiler                                                      | 82                 | Constant burning pilot not permitted.   Automatic means for adjusting water temperature required (except for boilers equipped with tankless domestic water heating coils). |
+| (B) Gas-fired steam boiler                                                          | 80                 | Constant burning pilot not permitted.                                                                                                                                      |
+| (C) Oil-fired hot water boiler                                                      | 84                 | Automatic means for adjusting temperature required (except for boilers equipped with tankless domestic water heating coils).                                               |
+| (D) Oil-fired steam boiler                                                          | 82                 | None.                                                                                                                                                                      |
+| (E) Electric hot water boiler                                                       | None               | Automatic means for adjusting temperature required (except for boilers equipped with tankless domestic water heating coils).                                               |
+| 1 Annual Fuel Utilization Efficiency, as determined in § 430.22(n)(2) of this part. |                    |                                                                                                                                                                            |
 
 (iii)(A) Except as provided in paragraph (e)(2)(v) of this section, the AFUE of residential boilers, manufactured on and after January 15, 2021, shall not be less than the following and must comply with the design requirements as follows:
 
-| Product class                  | AFUE 1   (percent) | Design requirements                                                                                                                                                      |
-| ------------------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| (1) Gas-fired hot water boiler | 84                 | Constant-burning pilot not permitted. Automatic means for adjusting water temperature required (except for boilers equipped with tankless domestic water heating coils). |
-| (2) Gas-fired steam boiler     | 82                 | Constant-burning pilot not permitted.                                                                                                                                    |
-| (3) Oil-fired hot water boiler | 86                 | Automatic means for adjusting temperature required (except for boilers equipped with tankless domestic water heating coils).                                             |
-| (4) Oil-fired steam boiler     | 85                 | None.                                                                                                                                                                    |
-| (5) Electric hot water boiler  | None               | Automatic means for adjusting temperature required (except for boilers equipped with tankless domestic water heating coils).                                             |
-| (6) Electric steam boiler      | None               | None.                                                                                                                                                                    |
-
-1 Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2) of this part.
+| Product class                                                                       | AFUE 1   (percent) | Design requirements                                                                                                                                                      |
+| ----------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| (1) Gas-fired hot water boiler                                                      | 84                 | Constant-burning pilot not permitted. Automatic means for adjusting water temperature required (except for boilers equipped with tankless domestic water heating coils). |
+| (2) Gas-fired steam boiler                                                          | 82                 | Constant-burning pilot not permitted.                                                                                                                                    |
+| (3) Oil-fired hot water boiler                                                      | 86                 | Automatic means for adjusting temperature required (except for boilers equipped with tankless domestic water heating coils).                                             |
+| (4) Oil-fired steam boiler                                                          | 85                 | None.                                                                                                                                                                    |
+| (5) Electric hot water boiler                                                       | None               | Automatic means for adjusting temperature required (except for boilers equipped with tankless domestic water heating coils).                                             |
+| (6) Electric steam boiler                                                           | None               | None.                                                                                                                                                                    |
+| 1 Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2) of this part. |                    |                                                                                                                                                                          |
 
 (B) Except as provided in paragraph (e)(2)(v) of this section, the standby mode power consumption (PW,SB) and off mode power consumption (PW,OFF) of residential boilers, manufactured on and after January 15, 2021, shall not be more than the following:
 
@@ -356,15 +395,14 @@ Table 4 to Paragraph (b)(2)
 
 (g) *Clothes washers.* (1) Clothes washers manufactured on or after January 1, 2007 shall have a Modified Energy Factor no less than:
 
-| Product class                                            | Modified energy factor   (cu.ft./kWh/cycle) |
-| -------------------------------------------------------- | ------------------------------------------- |
-| i. Top-loading, Compact (less than 1.6 ft 3 capacity)    | 0.65.                                       |
-| ii. Top-loading, Standard (1.6 ft 3 or greater capacity) | 1.26.                                       |
-| iii. Top-Loading, Semi-Automatic                         | Not Applicable. 1                           |
-| iv. Front-loading                                        | 1.26.                                       |
-| v. Suds-saving                                           | Not Applicable. 1                           |
-
-1 Must have an unheated rinse water option.
+| Product class                                           | Modified energy factor   (cu.ft./kWh/cycle) |
+| ------------------------------------------------------- | ------------------------------------------- |
+| i. Top-loading, Compact (less than 1.6 ft3 capacity)    | 0.65.                                       |
+| ii. Top-loading, Standard (1.6 ft3 or greater capacity) | 1.26.                                       |
+| iii. Top-Loading, Semi-Automatic                        | Not Applicable.1                            |
+| iv. Front-loading                                       | 1.26.                                       |
+| v. Suds-saving                                          | Not Applicable.1                            |
+| 1 Must have an unheated rinse water option.             |                                             |
 
 (2) All top-loading or front-loading standard-size residential clothes washers manufactured on or after January 1, 2011, and before March 7, 2015, shall meet the following standard—
 
@@ -374,12 +412,12 @@ Table 4 to Paragraph (b)(2)
 
 (3) Clothes washers manufactured on or after March 7, 2015, and before January 1, 2018, shall have an Integrated Modified Energy Factor no less than, and an Integrated Water Factor no greater than:
 
-| Product class                                              | Integrated modified energy factor   (cu.ft./kWh/cycle) | Integrated water   factor   (gal/cycle/cu.ft.) |
-| ---------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------- |
-| i. Top-loading, Compact (less than 1.6 ft 3 capacity)      | 0.86                                                   | 14.4                                           |
-| ii. Top-loading, Standard (1.6 ft 3 or greater capacity)   | 1.29                                                   | 8.4                                            |
-| iii. Front-loading, Compact (less than 1.6 ft 3 capacity)  | 1.13                                                   | 8.3                                            |
-| iv. Front-loading, Standard (1.6 ft 3 or greater capacity) | 1.84                                                   | 4.7                                            |
+| Product class                                             | Integrated modified energy factor   (cu.ft./kWh/cycle) | Integrated water   factor   (gal/cycle/cu.ft.) |
+| --------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------- |
+| i. Top-loading, Compact (less than 1.6 ft3 capacity)      | 0.86                                                   | 14.4                                           |
+| ii. Top-loading, Standard (1.6 ft3 or greater capacity)   | 1.29                                                   | 8.4                                            |
+| iii. Front-loading, Compact (less than 1.6 ft3 capacity)  | 1.13                                                   | 8.3                                            |
+| iv. Front-loading, Standard (1.6 ft3 or greater capacity) | 1.84                                                   | 4.7                                            |
 
 (4) Clothes washers manufactured on or after January 1, 2018, shall have an Integrated Modified Energy Factor no less than, and an Integrated Water Factor no greater than:
 
@@ -394,12 +432,12 @@ Table 4 to Paragraph (b)(2)
 
 (2) Clothes dryers manufactured on or after May 14, 1994 and before January 1, 2015, shall have an energy factor no less than:
 
-| Product class                                               | Energy   factor   (lbs/kWh) |
-| ----------------------------------------------------------- | --------------------------- |
-| i. Electric, Standard (4.4 ft 3 or greater capacity)        | 3.01                        |
-| ii. Electric, Compact (120V) (less than 4.4 ft 3 capacity)  | 3.13                        |
-| iii. Electric, Compact (240V) (less than 4.4 ft 3 capacity) | 2.90                        |
-| iv. Gas                                                     | 2.67                        |
+| Product class                                              | Energy   factor   (lbs/kWh) |
+| ---------------------------------------------------------- | --------------------------- |
+| i. Electric, Standard (4.4 ft3 or greater capacity)        | 3.01                        |
+| ii. Electric, Compact (120V) (less than 4.4 ft3 capacity)  | 3.13                        |
+| iii. Electric, Compact (240V) (less than 4.4 ft3 capacity) | 2.90                        |
+| iv. Gas                                                    | 2.67                        |
 
 (3) Clothes dryers manufactured on or after January 1, 2015, shall have a combined energy factor no less than:
 
@@ -548,14 +586,13 @@ Table 4 to Paragraph (b)(2)
 
 (n) *General service fluorescent lamps and incandescent reflector lamps.* (1) Each of the following general service fluorescent lamps manufactured after the effective dates specified in the table must meet or exceed the following color rendering index standards:
 
-| Lamp type               | Nominal lamp watts \* | Minimum color rendering index | Effective date                |
-| ----------------------- | --------------------- | ----------------------------- | ----------------------------- |
-| (i) 4-foot medium bipin | \>35 W   ≤35 W        | 69   45                       | Nov. 1, 1995.   Nov. 1, 1995. |
-| (ii) 2-foot U-shaped    | \>35 W   ≤35 W        | 69   45                       | Nov. 1, 1995.   Nov. 1, 1995. |
-| (iii) 8-foot slimline   | \>65 W   ≤65 W        | 69   45                       | May 1, 1994.   May 1, 1994.   |
-| (iv) 8-foot high output | \>100 W   ≤100 W      | 69   45                       | May 1, 1994.   May 1, 1994.   |
-
-\* Nominal lamp watts means the wattage at which a fluorescent lamp is designed to operate. 42 U.S.C. 6291(29)(H)
+| Lamp type                                                                                                         | Nominal lamp watts \* | Minimum color rendering index | Effective date                |
+| ----------------------------------------------------------------------------------------------------------------- | --------------------- | ----------------------------- | ----------------------------- |
+| (i) 4-foot medium bipin                                                                                           | \>35 W   ≤35 W        | 69   45                       | Nov. 1, 1995.   Nov. 1, 1995. |
+| (ii) 2-foot U-shaped                                                                                              | \>35 W   ≤35 W        | 69   45                       | Nov. 1, 1995.   Nov. 1, 1995. |
+| (iii) 8-foot slimline                                                                                             | \>65 W   ≤65 W        | 69   45                       | May 1, 1994.   May 1, 1994.   |
+| (iv) 8-foot high output                                                                                           | \>100 W   ≤100 W      | 69   45                       | May 1, 1994.   May 1, 1994.   |
+| \* Nominal lamp watts means the wattage at which a fluorescent lamp is designed to operate. 42 U.S.C. 6291(29)(H) |                       |                               |                               |
 
 (2) The standards described in paragraph (n)(1) of this section do not apply to:
 
@@ -584,10 +621,10 @@ For paragraphs (n)(3)(i) through (vi), rated wattage is defined with respect to 
 
 | Rated wattage | Lamp spectrum     | Lamp diameter inches | Rated voltage of lamp | Minimum   average lamp   efficacy   lm/W |
 | ------------- | ----------------- | -------------------- | --------------------- | ---------------------------------------- |
-| (i) 40-205    | Standard Spectrum | \>2.5                | ≥125 V   <125 V       | 6.8\*P 0.27   5.9\*P 0.27                |
-|               |                   | ≤2.5                 | ≥125 V   <125 V       | 5.7\*P 0.27   5.0\*P 0.27                |
-| (ii) 40-205   | Modified Spectrum | \>2.5                | ≥125 V   <125 V       | 5.8\*P 0.27   5.0\*P 0.27                |
-|               |                   | ≤2.5                 | ≥125 V   <125 V       | 4.9\*P 0.27   4.2\*P 0.27                |
+| (i) 40-205    | Standard Spectrum | \>2.5                | ≥125 V   <125 V       | 6.8\*P0.27   5.9\*P0.27                  |
+|               |                   | ≤2.5                 | ≥125 V   <125 V       | 5.7\*P0.27   5.0\*P0.27                  |
+| (ii) 40-205   | Modified Spectrum | \>2.5                | ≥125 V   <125 V       | 5.8\*P0.27   5.0\*P0.27                  |
+|               |                   | ≤2.5                 | ≥125 V   <125 V       | 4.9\*P0.27   4.2\*P0.27                  |
 
 Note 2 to paragraph (n)(4):
 
@@ -607,31 +644,22 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 
 (o) *Faucets.* The maximum water use allowed for any of the following faucets manufactured after January 1, 1994, when measured at a flowing water pressure of 60 pounds per square inch (414 kilopascals), shall be as follows:
 
-| Faucet type                   | Maximum flow rate   (gpm (L/min)) or (gal/cycle (L/cycle)) |
-| ----------------------------- | ---------------------------------------------------------- |
-| Lavatory faucets              | 2.2 gpm (8.3 L/min) 1 2                                    |
-| Lavatory replacement aerators | 2.2 gpm (8.3 L/min)                                        |
-| Kitchen faucets               | 2.2 gpm (8.3 L/min)                                        |
-| Kitchen replacement aerators  | 2.2 gpm (8.3 L/min)                                        |
-| Metering faucets              | 0.25 gal/cycle (0.95 L/cycle) 3 4                          |
-
-Note:
-
-1 Sprayheads with independently-controlled orifices and manual controls.
-
-The maximum flow rate of each orifice that manually turns on or off shall not exceed the maximum flow rate for a lavatory faucet.
-
-2 Sprayheads with collectively controlled orifices and manual controls.
-
-The maximum flow rate of a sprayhead that manually turns on or off shall be the product of (a) the maximum flow rate for a lavatory faucet and (b) the number of component lavatories (rim space of the lavatory in inches (millimeters) divided by 20 inches (508 millimeters)).
-
-3 Sprayheads with independently controlled orifices and metered controls.
-
-The maximum flow rate of each orifice that delivers a pre-set volume of water before gradually shutting itself off shall not exceed the maximum flow rate for a metering faucet.
-
-4 Sprayheads with collectively-controlled orifices and metered controls.
-
-The maximum flow rate of a sprayhead that delivers a pre-set volume of water before gradually shutting itself off shall be the product of (a) the maximum flow rate for a metering faucet and (b) the number of component lavatories (rim space of the lavatory in inches (millimeters) divided by 20 inches (508 millimeters)).
+| Faucet type                                                                                                                                                                                                                                                                                                                      | Maximum flow rate   (gpm (L/min)) or (gal/cycle (L/cycle)) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Lavatory faucets                                                                                                                                                                                                                                                                                                                 | 2.2 gpm (8.3 L/min) 1 2                                    |
+| Lavatory replacement aerators                                                                                                                                                                                                                                                                                                    | 2.2 gpm (8.3 L/min)                                        |
+| Kitchen faucets                                                                                                                                                                                                                                                                                                                  | 2.2 gpm (8.3 L/min)                                        |
+| Kitchen replacement aerators                                                                                                                                                                                                                                                                                                     | 2.2 gpm (8.3 L/min)                                        |
+| Metering faucets                                                                                                                                                                                                                                                                                                                 | 0.25 gal/cycle (0.95 L/cycle) 3 4                          |
+| **Note:**                                                                                                                                                                                                                                                                                                                        |                                                            |
+| 1 Sprayheads with independently-controlled orifices and manual controls.                                                                                                                                                                                                                                                         |                                                            |
+| The maximum flow rate of each orifice that manually turns on or off shall not exceed the maximum flow rate for a lavatory faucet.                                                                                                                                                                                                |                                                            |
+| 2 Sprayheads with collectively controlled orifices and manual controls.                                                                                                                                                                                                                                                          |                                                            |
+| The maximum flow rate of a sprayhead that manually turns on or off shall be the product of (a) the maximum flow rate for a lavatory faucet and (b) the number of component lavatories (rim space of the lavatory in inches (millimeters) divided by 20 inches (508 millimeters)).                                                |                                                            |
+| 3 Sprayheads with independently controlled orifices and metered controls.                                                                                                                                                                                                                                                        |                                                            |
+| The maximum flow rate of each orifice that delivers a pre-set volume of water before gradually shutting itself off shall not exceed the maximum flow rate for a metering faucet.                                                                                                                                                 |                                                            |
+| 4 Sprayheads with collectively-controlled orifices and metered controls.                                                                                                                                                                                                                                                         |                                                            |
+| The maximum flow rate of a sprayhead that delivers a pre-set volume of water before gradually shutting itself off shall be the product of (a) the maximum flow rate for a metering faucet and (b) the number of component lavatories (rim space of the lavatory in inches (millimeters) divided by 20 inches (508 millimeters)). |                                                            |
 
 (p) *Showerheads.* The maximum water use allowed for any showerheads manufactured after January 1, 1994, shall be 2.5 gallons per minute (9.5 liters per minute) when measured at a flowing pressure of 80 pounds per square inch gage (552 kilopascals). When used as a component of any such showerhead, the flow-restricting insert shall be mechanically retained at the point of manufacture such that a force of 8.0 pounds force (36 Newtons) or more is required to remove the flow-restricting insert, except that this requirement shall not apply to showerheads for which removal of the flow-restricting insert would cause water to leak significantly from areas other than the spray face.
 
@@ -667,15 +695,14 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (2)(i) Ceiling fans manufactured on or after January 21, 2020, shall meet the requirements shows in the table:
 
-| Product class as   defined in Appendix U | Minimum   efficiency   (CFM/W) 1 |
-| ---------------------------------------- | -------------------------------- |
-| Very small-diameter (VSD)                | D ≤ 12 in.: 21.                  |
-|                                          | D > 12 in.: 3.16 D-17.04.        |
-| Standard                                 | 0.65 D + 38.03.                  |
-| Hugger                                   | 0.29 D + 34.46.                  |
-| High-speed small-diameter (HSSD)         | 4.16 D + 0.02.                   |
-
-1 D is the ceiling fan's blade span, in inches, as determined in Appendix U of this part.
+| Product class as   defined in Appendix U                                                  | Minimum   efficiency   (CFM/W) 1 |
+| ----------------------------------------------------------------------------------------- | -------------------------------- |
+| Very small-diameter (VSD)                                                                 | D ≤ 12 in.: 21.                  |
+|                                                                                           | D > 12 in.: 3.16 D-17.04.        |
+| Standard                                                                                  | 0.65 D + 38.03.                  |
+| Hugger                                                                                    | 0.29 D + 34.46.                  |
+| High-speed small-diameter (HSSD)                                                          | 4.16 D + 0.02.                   |
+| 1 D is the ceiling fan's blade span, in inches, as determined in Appendix U of this part. |                                  |
 
 (ii) Large-diameter ceiling fans, as defined in appendix U to subpart B of this part, manufactured on or after January 21, 2020, shall have a CFEI greater than or equal to -
 
@@ -699,28 +726,26 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (i) Be compact fluorescent lamps that meet or exceed the following requirements or be as described in paragraph (s)(3)(ii) of this section:
 
-| Factor                                      | Requirements                                                                                                                    |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Rated Wattage (Watts) & Configuration 1     | Minimum Initial Lamp Efficacy (lumens per watt) 2                                                                               |
-| Bare Lamp:                                  |                                                                                                                                 |
-| Lamp Power <15                              | 45.0                                                                                                                            |
-| Lamp Power ≥15                              | 60.0                                                                                                                            |
-| Covered Lamp (no reflector):                |                                                                                                                                 |
-| Lamp Power <15                              | 40.0                                                                                                                            |
-| 15≤Lamp Power <19                           | 48.0                                                                                                                            |
-| 19≤Lamp Power <25                           | 50.0                                                                                                                            |
-| Lamp Power ≥25                              | 55.0                                                                                                                            |
-| With Reflector:                             |                                                                                                                                 |
-| Lamp Power <20                              | 33.0                                                                                                                            |
-| Lamp Power ≥20                              | 40.0                                                                                                                            |
-| Lumen Maintenance at 1,000 hours            | ≥ 90.0%                                                                                                                         |
-| Lumen Maintenance at 40 Percent of Lifetime | ≥ 80.0%                                                                                                                         |
-| Rapid Cycle Stress Test                     | Each lamp must be cycled once for every 2 hours of lifetime. At least 5 lamps must meet or exceed the minimum number of cycles. |
-| Lifetime                                    | ≥ 6,000 hours for the sample of lamps.                                                                                          |
-
-1 Use rated wattage to determine the appropriate minimum efficacy requirements in this table.
-
-2 Calculate efficacy using measured wattage, rather than rated wattage, and measured lumens to determine product compliance. Wattage and lumen values indicated on products or packaging may not be used in calculation.
+| Factor                                                                                                                                                                                                                   | Requirements                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| Rated Wattage (Watts) & Configuration 1                                                                                                                                                                                  | Minimum Initial Lamp Efficacy (lumens per watt) 2                                                                               |
+| Bare Lamp:                                                                                                                                                                                                               |                                                                                                                                 |
+| Lamp Power <15                                                                                                                                                                                                           | 45.0                                                                                                                            |
+| Lamp Power ≥15                                                                                                                                                                                                           | 60.0                                                                                                                            |
+| Covered Lamp (no reflector):                                                                                                                                                                                             |                                                                                                                                 |
+| Lamp Power <15                                                                                                                                                                                                           | 40.0                                                                                                                            |
+| 15≤Lamp Power <19                                                                                                                                                                                                        | 48.0                                                                                                                            |
+| 19≤Lamp Power <25                                                                                                                                                                                                        | 50.0                                                                                                                            |
+| Lamp Power ≥25                                                                                                                                                                                                           | 55.0                                                                                                                            |
+| With Reflector:                                                                                                                                                                                                          |                                                                                                                                 |
+| Lamp Power <20                                                                                                                                                                                                           | 33.0                                                                                                                            |
+| Lamp Power ≥20                                                                                                                                                                                                           | 40.0                                                                                                                            |
+| Lumen Maintenance at 1,000 hours                                                                                                                                                                                         | ≥ 90.0%                                                                                                                         |
+| Lumen Maintenance at 40 Percent of Lifetime                                                                                                                                                                              | ≥ 80.0%                                                                                                                         |
+| Rapid Cycle Stress Test                                                                                                                                                                                                  | Each lamp must be cycled once for every 2 hours of lifetime. At least 5 lamps must meet or exceed the minimum number of cycles. |
+| Lifetime                                                                                                                                                                                                                 | ≥ 6,000 hours for the sample of lamps.                                                                                          |
+| 1 Use rated wattage to determine the appropriate minimum efficacy requirements in this table.                                                                                                                            |                                                                                                                                 |
+| 2 Calculate efficacy using measured wattage, rather than rated wattage, and measured lumens to determine product compliance. Wattage and lumen values indicated on products or packaging may not be used in calculation. |                                                                                                                                 |
 
 (ii) Be light sources other than compact fluorescent lamps that have lumens per watt performance at least equivalent to comparably configured compact fluorescent lamps meeting the energy conservation standards in paragraph (s)(3)(i) of this section.
 
@@ -738,17 +763,14 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (6) Ceiling fan light kits manufactured on or after January 21, 2020 must be packaged with lamps to fill all sockets, and each basic model of lamp packaged with the basic model of CFLK, each basic model of consumer-replaceable SSL packaged with the basic model of CFLK, and each basic model of non-consumer-replaceable SSL in the CFLK basic model shall meet the requirements shown in paragraphs (s)(6)(i) and (ii) of this section:
 
-| Lumens 1  | Minimum required efficacy   (lm/W) |
-| --------- | ---------------------------------- |
-| (i) <120  | 50.                                |
-| (ii) ≥120 | (74.0−29.42 × 0.9983 lumens).      |
-
-1 Use the lumen output for each basic model of lamp packaged with the basic model of CFLK, each basic model of consumer-replaceable SSL packaged with the basic model of CFLK, or each basic model of non-consumer-replaceable SSL in the CFLK basic model to determine the applicable standard.
+| Lumens 1                                                                                                                                                                                                                                                                                         | Minimum required efficacy   (lm/W) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------- |
+| (i) <120                                                                                                                                                                                                                                                                                         | 50.                                |
+| (ii) ≥120                                                                                                                                                                                                                                                                                        | (74.0−29.42 × 0.9983lumens).       |
+| 1 Use the lumen output for each basic model of lamp packaged with the basic model of CFLK, each basic model of consumer-replaceable SSL packaged with the basic model of CFLK, or each basic model of non-consumer-replaceable SSL in the CFLK basic model to determine the applicable standard. |                                    |
 
 (i) Ceiling fan light kits with medium screw base sockets manufactured on or after January 21, 2020 and packaged with compact fluorescent lamps must include lamps that also meet the following requirements:
 
-|                                             |                                                                                                                                                                                   |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Lumen Maintenance at 1,000 hours            | ≥90.0%.                                                                                                                                                                           |
 | Lumen Maintenance at 40 Percent of Lifetime | ≥80.0%.                                                                                                                                                                           |
 | Rapid Cycle Stress Test                     | Each lamp must be cycled once for every 2 hours of lifetime of compact fluorescent lamp as defined in § 430.2. At least 5 lamps must meet or exceed the minimum number of cycles. |
@@ -764,25 +786,23 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (u) *Compact fluorescent lamps.* (1) Medium Base Compact Fluorescent Lamps. Subject to the sales prohibition in paragraph (dd) of this section, a bare or covered (no reflector) medium base compact fluorescent lamp manufactured on or after January 1, 2006, must meet the following requirements:
 
-| Factor                                           | Requirements                                                                                                                        |
-| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Labeled Wattage (Watts) & Configuration \*       | Measured initial lamp efficacy (lumens per watt) must be at least:                                                                  |
-| Bare Lamp:                                       |                                                                                                                                     |
-| Labeled Wattage < 15                             | 45.0.                                                                                                                               |
-| Labeled Wattage ≥ 15                             | 60.0.                                                                                                                               |
-| Covered Lamp (no reflector):                     |                                                                                                                                     |
-| Labeled Wattage < 15                             | 40.0.                                                                                                                               |
-| 15 ≤ Labeled Wattage < 19                        | 48.0.                                                                                                                               |
-| 19 ≤ Labeled Wattage < 25                        | 50.0.                                                                                                                               |
-| Labeled Wattage ≥ 25                             | 55.0.                                                                                                                               |
-| Lumen Maintenance at 1,000 Hours                 | ≥90.0%.                                                                                                                             |
-| Lumen Maintenance at 40 Percent of Lifetime \*\* | ≥80.0%.                                                                                                                             |
-| Rapid Cycle Stress Test                          | Each lamp must be cycled once for every 2 hours of lifetime.\*\* At least 5 lamps must meet or exceed the minimum number of cycles. |
-| Lifetime \*\*                                    | ≥6,000 hours.                                                                                                                       |
-
-\* Use labeled wattage to determine the appropriate efficacy requirements in this table; do not use measured wattage for this purpose.
-
-\*\* Lifetime refers to lifetime of a compact fluorescent lamp as defined in 10 CFR 430.2.
+| Factor                                                                                                                                 | Requirements                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Labeled Wattage (Watts) & Configuration \*                                                                                             | Measured initial lamp efficacy (lumens per watt) must be at least:                                                                  |
+| Bare Lamp:                                                                                                                             |                                                                                                                                     |
+| Labeled Wattage < 15                                                                                                                   | 45.0.                                                                                                                               |
+| Labeled Wattage ≥ 15                                                                                                                   | 60.0.                                                                                                                               |
+| Covered Lamp (no reflector):                                                                                                           |                                                                                                                                     |
+| Labeled Wattage < 15                                                                                                                   | 40.0.                                                                                                                               |
+| 15 ≤ Labeled Wattage < 19                                                                                                              | 48.0.                                                                                                                               |
+| 19 ≤ Labeled Wattage < 25                                                                                                              | 50.0.                                                                                                                               |
+| Labeled Wattage ≥ 25                                                                                                                   | 55.0.                                                                                                                               |
+| Lumen Maintenance at 1,000 Hours                                                                                                       | ≥90.0%.                                                                                                                             |
+| Lumen Maintenance at 40 Percent of Lifetime \*\*                                                                                       | ≥80.0%.                                                                                                                             |
+| Rapid Cycle Stress Test                                                                                                                | Each lamp must be cycled once for every 2 hours of lifetime.\*\* At least 5 lamps must meet or exceed the minimum number of cycles. |
+| Lifetime \*\*                                                                                                                          | ≥6,000 hours.                                                                                                                       |
+| \* Use labeled wattage to determine the appropriate efficacy requirements in this table; do not use measured wattage for this purpose. |                                                                                                                                     |
+| \*\* Lifetime refers to lifetime of a compact fluorescent lamp as defined in 10 CFR 430.2.                                             |                                                                                                                                     |
 
 (2) \[Reserved\].
 
@@ -872,32 +892,26 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 (2) Subject to the sales prohibition in paragraph (dd) of this section, general service incandescent lamps manufactured after the effective dates specified in the tables below, except as described in paragraph (x)(3) of this section, must have a color rendering index greater than or equal to 80, a rated wattage no greater than, and a lifetime no less than the values shown in the table below:
 
 General Service Incandescent Lamps
-
-| Lumen ranges \* | Maximum   rated   wattage | Minimum   lifetime \*\*   (hrs) | Effective   date |
-| --------------- | ------------------------- | ------------------------------- | ---------------- |
-| (i) 1490-2600   | 72                        | 1,000                           | 1/1/2012         |
-| (ii) 1050-1489  | 53                        | 1,000                           | 1/1/2013         |
-| (iii) 750-1049  | 43                        | 1,000                           | 1/1/2014         |
-| (iv) 310-749    | 29                        | 1,000                           | 1/1/2014         |
-
-\* Use measured initial lumen output to determine the applicable lumen range.
-
-\*\* Use lifetime determined in accordance with 10 CFR 429.27 to determine compliance with this standard.
+| Lumen ranges \*                                                                                           | Maximum   rated   wattage | Minimum   lifetime \*\*   (hrs) | Effective   date |
+| --------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------- | ---------------- |
+| (i) 1490-2600                                                                                             | 72                        | 1,000                           | 1/1/2012         |
+| (ii) 1050-1489                                                                                            | 53                        | 1,000                           | 1/1/2013         |
+| (iii) 750-1049                                                                                            | 43                        | 1,000                           | 1/1/2014         |
+| (iv) 310-749                                                                                              | 29                        | 1,000                           | 1/1/2014         |
+| \* Use measured initial lumen output to determine the applicable lumen range.                             |                           |                                 |                  |
+| \*\* Use lifetime determined in accordance with 10 CFR 429.27 to determine compliance with this standard. |                           |                                 |                  |
 
 (3) Subject to the sales prohibition in paragraph (dd) of this section, modified spectrum general service incandescent lamps manufactured after the effective dates specified must have a color rendering index greater than or equal to 75, a rated wattage no greater than, and a lifetime no less than, the values shown in the table below:
 
 Modified Spectrum General Service Incandescent Lamps
-
-| Lumen ranges \* | Maximum   rated   wattage | Minimum   lifetime \*\*   (hrs) | Effective   date |
-| --------------- | ------------------------- | ------------------------------- | ---------------- |
-| (i) 1118-1950   | 72                        | 1,000                           | 1/1/2012         |
-| (ii) 788-1117   | 53                        | 1,000                           | 1/1/2013         |
-| (iii) 563-787   | 43                        | 1,000                           | 1/1/2014         |
-| (iv) 232-562    | 29                        | 1,000                           | 1/1/2014         |
-
-\* Use measured initial lumen output to determine the applicable lumen range.
-
-\*\* Use lifetime determined in accordance with 10 CFR 429.27 to determine compliance with this standard.
+| Lumen ranges \*                                                                                           | Maximum   rated   wattage | Minimum   lifetime \*\*   (hrs) | Effective   date |
+| --------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------- | ---------------- |
+| (i) 1118-1950                                                                                             | 72                        | 1,000                           | 1/1/2012         |
+| (ii) 788-1117                                                                                             | 53                        | 1,000                           | 1/1/2013         |
+| (iii) 563-787                                                                                             | 43                        | 1,000                           | 1/1/2014         |
+| (iv) 232-562                                                                                              | 29                        | 1,000                           | 1/1/2014         |
+| \* Use measured initial lumen output to determine the applicable lumen range.                             |                           |                                 |                  |
+| \*\* Use lifetime determined in accordance with 10 CFR 429.27 to determine compliance with this standard. |                           |                                 |                  |
 
 (4) Subject to the sales prohibition in paragraph (dd) of this section, each candelabra base incandescent lamp must not exceed 60 rated watts.
 
@@ -906,39 +920,34 @@ Modified Spectrum General Service Incandescent Lamps
 (y) *Residential furnace fans.* Residential furnace fans incorporated in the products listed in Table 1 of this paragraph and manufactured on and after July 3, 2019, shall have a fan energy rating (FER) value that meets or is less than the following values:
 
 Table 1—Energy Conservation Standards for Covered Residential Furnace Fans\*
-
-| Product class                                                           | FER \*\* (Watts/1000 cfm) |
-| ----------------------------------------------------------------------- | ------------------------- |
-| Non-Weatherized, Non-Condensing Gas Furnace Fan (NWG-NC)                | FER = 0.044 × QMax + 182  |
-| Non-Weatherized, Condensing Gas Furnace Fan (NWG-C)                     | FER = 0.044 × QMax + 195  |
-| Weatherized Non-Condensing Gas Furnace Fan (WG-NC)                      | FER = 0.044 × QMax + 199  |
-| Non-Weatherized, Non-Condensing Oil Furnace Fan (NWO-NC)                | FER = 0.071 × QMax + 382  |
-| Non-Weatherized Electric Furnace/Modular Blower Fan (NWEF/NWMB)         | FER = 0.044 × QMax + 165  |
-| Mobile Home Non-Weatherized, Non-Condensing Gas Furnace Fan (MH-NWG-NC) | FER = 0.071 × QMax + 222  |
-| Mobile Home Non-Weatherized, Condensing Gas Furnace Fan (MH-NWG-C)      | FER = 0.071 × QMax + 240  |
-| Mobile Home Electric Furnace/Modular Blower Fan (MH-EF/MB)              | FER = 0.044 × QMax + 101  |
-| Mobile Home Non-Weatherized Oil Furnace Fan (MH-NWO)                    | Reserved                  |
-| Mobile Home Weatherized Gas Furnace Fan (MH-WG) \*\*                    | Reserved                  |
-
-\* Furnace fans incorporated into hydronic air handlers, SDHV modular blowers, SDHV electric furnaces, and CAC/HP indoor units are not subject to the standards listed in this table.
-
-\*\* QMax is the airflow, in cfm, at the maximum airflow-control setting measured using the final DOE test procedure at 10 CFR part 430, subpart B, appendix AA.
+| Product class                                                                                                                                                                         | FER \*\* (Watts/1000 cfm) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Non-Weatherized, Non-Condensing Gas Furnace Fan (NWG-NC)                                                                                                                              | FER = 0.044 × QMax + 182  |
+| Non-Weatherized, Condensing Gas Furnace Fan (NWG-C)                                                                                                                                   | FER = 0.044 × QMax + 195  |
+| Weatherized Non-Condensing Gas Furnace Fan (WG-NC)                                                                                                                                    | FER = 0.044 × QMax + 199  |
+| Non-Weatherized, Non-Condensing Oil Furnace Fan (NWO-NC)                                                                                                                              | FER = 0.071 × QMax + 382  |
+| Non-Weatherized Electric Furnace/Modular Blower Fan (NWEF/NWMB)                                                                                                                       | FER = 0.044 × QMax + 165  |
+| Mobile Home Non-Weatherized, Non-Condensing Gas Furnace Fan (MH-NWG-NC)                                                                                                               | FER = 0.071 × QMax + 222  |
+| Mobile Home Non-Weatherized, Condensing Gas Furnace Fan (MH-NWG-C)                                                                                                                    | FER = 0.071 × QMax + 240  |
+| Mobile Home Electric Furnace/Modular Blower Fan (MH-EF/MB)                                                                                                                            | FER = 0.044 × QMax + 101  |
+| Mobile Home Non-Weatherized Oil Furnace Fan (MH-NWO)                                                                                                                                  | Reserved                  |
+| Mobile Home Weatherized Gas Furnace Fan (MH-WG) \*\*                                                                                                                                  | Reserved                  |
+| \* Furnace fans incorporated into hydronic air handlers, SDHV modular blowers, SDHV electric furnaces, and CAC/HP indoor units are not subject to the standards listed in this table. |                           |
+| \*\* QMax is the airflow, in cfm, at the maximum airflow-control setting measured using the final DOE test procedure at 10 CFR part 430, subpart B, appendix AA.                      |                           |
 
 (z) *Battery chargers.* (1) Battery chargers manufactured on or after June 13, 2018, must have a unit energy consumption (UEC) less than or equal to the prescribed “Maximum UEC” standard when using the equations for the appropriate product class and corresponding rated battery energy as shown in the following table:
 
-| Product class | Product class description   | Rated battery energy (Ebatt \*\*) | Special characteristic or battery voltage | Maximum UEC (kWh/yr)   (as a function of Ebatt \*\*)                    |
-| ------------- | --------------------------- | --------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------- |
-| 1             | Low-Energy                  | ≤5 Wh                             | Inductive Connection \*                   | 3.04                                                                    |
-| 2             | Low-Energy, Low-Voltage     | <100 Wh                           | <4 V                                      | 0.1440 \* Ebatt + 2.95                                                  |
-| 3             | Low-Energy, Medium-Voltage  |                                   | 4-10 V                                    | For Ebatt <10 Wh,   1.42 kWh/y   Ebatt ≥10 Wh,   0.0255 \* Ebatt + 1.16 |
-| 4             | Low-Energy, High-Voltage    |                                   | \>10 V                                    | 0.11 \* Ebatt + 3.18                                                    |
-| 5             | Medium-Energy, Low-Voltage  | 100-3000 Wh                       | <20 V                                     | 0.0257 \* Ebatt + .815                                                  |
-| 6             | Medium-Energy, High-Voltage |                                   | ≥20 V                                     | 0.0778 \* Ebatt + 2.4                                                   |
-| 7             | High-Energy                 | \>3000 Wh                         |                                           | 0.0502 \* Ebatt + 4.53                                                  |
-
-\* Inductive connection and designed for use in a wet environment (e.g. electric toothbrushes).
-
-\*\* Ebatt = Rated battery energy as determined in 10 CFR part 429.39(a).
+| Product class                                                                                   | Product class description   | Rated battery energy (Ebatt \*\*) | Special characteristic or battery voltage | Maximum UEC (kWh/yr)   (as a function of Ebatt \*\*)                    |
+| ----------------------------------------------------------------------------------------------- | --------------------------- | --------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------- |
+| 1                                                                                               | Low-Energy                  | ≤5 Wh                             | Inductive Connection \*                   | 3.04                                                                    |
+| 2                                                                                               | Low-Energy, Low-Voltage     | <100 Wh                           | <4 V                                      | 0.1440 \* Ebatt + 2.95                                                  |
+| 3                                                                                               | Low-Energy, Medium-Voltage  |                                   | 4-10 V                                    | For Ebatt <10 Wh,   1.42 kWh/y   Ebatt ≥10 Wh,   0.0255 \* Ebatt + 1.16 |
+| 4                                                                                               | Low-Energy, High-Voltage    |                                   | \>10 V                                    | 0.11 \* Ebatt + 3.18                                                    |
+| 5                                                                                               | Medium-Energy, Low-Voltage  | 100-3000 Wh                       | <20 V                                     | 0.0257 \* Ebatt + .815                                                  |
+| 6                                                                                               | Medium-Energy, High-Voltage |                                   | ≥20 V                                     | 0.0778 \* Ebatt + 2.4                                                   |
+| 7                                                                                               | High-Energy                 | \>3000 Wh                         |                                           | 0.0502 \* Ebatt + 4.53                                                  |
+| \* Inductive connection and designed for use in a wet environment (e.g. electric toothbrushes). |                             |                                   |                                           |                                                                         |
+| \*\* Ebatt = Rated battery energy as determined in 10 CFR part 429.39(a).                       |                             |                                   |                                           |                                                                         |
 
 (2) A battery charger shall not be subject to the standards in paragraph (z)(1) of this section if it is a device that requires Federal Food and Drug Administration (FDA) listing and approval as a life-sustaining or life-supporting device in accordance with section 513 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(c)).
 
@@ -960,29 +969,27 @@ Table 1—Energy Conservation Standards for Covered Residential Furnace Fans\*
 
 (1) Coolers manufactured starting on October 28, 2019 shall have Annual Energy Use (AEU) no more than:
 
-| Product class            | AEU (kWh/yr)   |
-| ------------------------ | -------------- |
-| 1\. Built-in compact     | 7.88AV + 155.8 |
-| 2\. Built-in             |                |
-| 3\. Freestanding compact |                |
-| 4\. Freestanding         |                |
-
-AV = Total adjusted volume, expressed in ft 3, as calculated according to appendix A of subpart B of this part.
+| Product class                                                                                                  | AEU (kWh/yr)   |
+| -------------------------------------------------------------------------------------------------------------- | -------------- |
+| 1\. Built-in compact                                                                                           | 7.88AV + 155.8 |
+| 2\. Built-in                                                                                                   |                |
+| 3\. Freestanding compact                                                                                       |                |
+| 4\. Freestanding                                                                                               |                |
+| AV = Total adjusted volume, expressed in ft3, as calculated according to appendix A of subpart B of this part. |                |
 
 (2) Combination cooler refrigeration products manufactured starting on October 28, 2019 shall have Annual Energy Use (AEU) no more than:
 
-| Product class                                                                                     | AEU (kWh/yr)   |
-| ------------------------------------------------------------------------------------------------- | -------------- |
-| C-3A. Cooler with all-refrigerator—automatic defrost                                              | 4.57AV + 130.4 |
-| C-3A-BI. Built-in cooler with all-refrigerator—automatic defrost                                  | 5.19AV + 147.8 |
-| C-9. Cooler with upright freezers with automatic defrost without an automatic icemaker            | 5.58AV + 147.7 |
-| C-9-BI. Built-in cooler with upright freezer with automatic defrost without an automatic icemaker | 6.38AV + 168.8 |
-| C-9I. Cooler with upright freezer with automatic defrost with an automatic icemaker               | 5.58AV + 231.7 |
-| C-9I-BI. Built-in cooler with upright freezer with automatic defrost with an automatic icemaker   | 6.38AV + 252.8 |
-| C-13A. Compact cooler with all-refrigerator—automatic defrost                                     | 5.93AV + 193.7 |
-| C-13A-BI. Built-in compact cooler with all-refrigerator—automatic defrost                         | 6.52AV + 213.1 |
-
-AV = Total adjusted volume, expressed in ft 3, as calculated according to appendix A of subpart B of this part.
+| Product class                                                                                                  | AEU (kWh/yr)   |
+| -------------------------------------------------------------------------------------------------------------- | -------------- |
+| C-3A. Cooler with all-refrigerator—automatic defrost                                                           | 4.57AV + 130.4 |
+| C-3A-BI. Built-in cooler with all-refrigerator—automatic defrost                                               | 5.19AV + 147.8 |
+| C-9. Cooler with upright freezers with automatic defrost without an automatic icemaker                         | 5.58AV + 147.7 |
+| C-9-BI. Built-in cooler with upright freezer with automatic defrost without an automatic icemaker              | 6.38AV + 168.8 |
+| C-9I. Cooler with upright freezer with automatic defrost with an automatic icemaker                            | 5.58AV + 231.7 |
+| C-9I-BI. Built-in cooler with upright freezer with automatic defrost with an automatic icemaker                | 6.38AV + 252.8 |
+| C-13A. Compact cooler with all-refrigerator—automatic defrost                                                  | 5.93AV + 193.7 |
+| C-13A-BI. Built-in compact cooler with all-refrigerator—automatic defrost                                      | 6.52AV + 213.1 |
+| AV = Total adjusted volume, expressed in ft3, as calculated according to appendix A of subpart B of this part. |                |
 
 (bb) *Rough service lamps and vibration service lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, rough service lamps manufactured on or after January 25, 2018 must:
 
