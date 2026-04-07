@@ -1,0 +1,237 @@
+##### § 201.76 Minimum Land, Isolation, Field, and Seed Standards.
+
+In the following Table 5 the figures in the “Land” column indicate the number of years that must elapse between the destruction of a stand of a kind and establishment of a stand of a specified class of a variety of the same kind. A certification agency may grant a variance in the land cropping history in specific circumstances where cultural practices have been proven adequate to maintain genetic purity. The figures in “Isolation” column indicate the distance in feet from any contaminating source. The figures in the “Field” column indicate the minimum number of plants or heads in which one plant or head of another variety is permitted. The figure in the “Seed” column indicate the maximum percentage of seed of other varieties or off-types permitted in the cleaned seed.
+
+Table 5
+
+| Crop                                                                  | Foundation | Registered                  | Certified   |
+| --------------------------------------------------------------------- | ---------- | --------------------------- | ----------- |
+| Alfalfa:                                                              |            |                             |             |
+| Non hybrid                                                            | 14         | 44 48 600   ( 59 182.88m)   | 1,000       |
+| Hybrid                                                                | 1 4        | 43 1,320   ( 59 402.34m)    | 42 1,000    |
+| Barley:                                                               |            |                             |             |
+| Non hybrid                                                            | 7 1        | 23 0                        | 3,000       |
+| Hybrid                                                                | 30 1       | 21 32 660   ( 59 201.17m)   | 3,000       |
+| Hybrid (Chemically assisted)                                          |            |                             |             |
+| Bean:                                                                 |            |                             |             |
+| Field and garden                                                      | 7 1        | 23 0                        | 2,000       |
+| Mung                                                                  | 7 1        | 23 0                        | 1,000       |
+| Broad bean                                                            | 7 1        | 23 0                        | 2,000       |
+| Buckwheat                                                             | 7 1        | 660   ( 59 201.17m)         | 3,000       |
+| Clover all kinds                                                      | 1 9 5      | 5 18 44 600   ( 59 182.88m) | 1,000       |
+| Corn:                                                                 |            |                             |             |
+| Foundation back cross                                                 | 0          | 10 11 660   ( 59 201.17m)   | 13 46 1,000 |
+| Inbred                                                                | 0          | 10 11660   ( 59 201.17m)    | 13 46 1,000 |
+| Foundation single cross                                               | 0          | 10 11 660   ( 59 201.17m)   | 13 46 1,000 |
+| Hybrid                                                                |            |                             |             |
+| Open-pollinated                                                       |            |                             |             |
+| Sweet                                                                 |            |                             |             |
+| Cotton                                                                | 0          | 19 0                        | 10,000      |
+| Hybrid (Chemically assisted)                                          | 0          | 190                         | 10,000      |
+| Cowpea                                                                | 7 1        | 23 0                        | 2,000       |
+| Crambe                                                                | 7 1        | 660   ( 59 201.17m)         | 2,000       |
+| Crownvetch                                                            | 1 5        | 5 44 600   ( 59 182.88m)    | 1,000       |
+| Flatpea                                                               | 1 4        | 5 44 600   ( 59 182.88m)    | 1,000       |
+| Flax                                                                  | 7 1        | 23 0                        | 5,000       |
+| Grasses:                                                              |            |                             |             |
+| Cross-pollinated                                                      | 57 5       | 4 18 20 900   ( 59 274.32m) | 1,000       |
+| Strains at least 80 percent apomictic and highly self-fertile species | 57 5       | 4 18 20 60                  | 1,000       |
+|                                                                       |            | ( 59 18.29m)                |             |
+| Lespedeza                                                             | 1 5        | 4 10   ( 59 3.05m)          | 1,000       |
+| Millet:                                                               |            |                             |             |
+| Cross-pollinated                                                      | 8 1        | 40 1,320   ( 59 402.34m)    | 27 20,000   |
+| Self-pollinated                                                       | 8 1        | 23 0                        | 3,000       |
+| Mustard                                                               | 4          | 1,320   ( 59 402.34m)       | 2,000       |
+| Oat                                                                   | 7 1        | 23 0                        | 3,000       |
+| Okra                                                                  | 7 1        | 1,320   ( 59 402.34m)       | 27 0        |
+| Onion                                                                 | 7 1        | 5,280   ( 59 1,609.36m)     | 22 200      |
+| Pea, field                                                            | 7 1        | 23 0                        | 2,000       |
+| Peanut                                                                | 7 1        | 23 0                        | 1,000       |
+| Pepper                                                                | 7 1        | 25 200   ( 59 60.96m)       | 0           |
+| Rape:                                                                 |            |                             |             |
+| Cross-pollinated                                                      | 4          | 24 1,320   ( 59 402.34m)    | 2,000       |
+| Self-pollinated                                                       | 4          | 24 660   ( 59 201.17m)      | 2,000       |
+| Rice                                                                  | 7 1        | 39 10   ( 59 3.05m)         | 10,000      |
+| Rye                                                                   | 7 1        | 18 660   ( 59 201.17m)      | 3,000       |
+| Safflower                                                             | 7 2        | 1,320   ( 59 402.34m)       | 10,000      |
+| Sainfoin                                                              | 1 5        | 5 44 600   ( 59 182.88m)    | 1,000       |
+| Sorghum:                                                              |            |                             |             |
+| Nonhybrid                                                             | 7 1        | 900   ( 59 301.76m)         | 27 50,000   |
+| Hybrid seedstock                                                      | 7 1        | 990   ( 59 301.76m)         | 27 50,000   |
+| Commercial hybrid                                                     |            |                             |             |
+| Soybean                                                               | 23 1       | 23 0                        | 1,000       |
+| Sunflower:                                                            |            |                             |             |
+| Nonhybrid                                                             | 1          | 41 45 2,640   ( 59 804.66m) | 200         |
+| Hybrid                                                                | 1          | 41 45 2,640   ( 59 804.66m) | 35 250      |
+| Tomato                                                                | 7 1        | 25 200   ( 59 60.96m)       | 0           |
+| Tobacco:                                                              |            |                             |             |
+| Nonhybrid                                                             | 36 0       | 37 150   ( 59 45.72m)       | 0           |
+| Hybrid                                                                |            |                             |             |
+| Trefoil, birdsfoot                                                    | 1 5        | 5 44 600   ( 59 182.88m)    | 1,000       |
+| Triticale                                                             | 7 1        | 23 0                        | 3,000       |
+| Vetch                                                                 | 1 7 5      | 17 44 10   ( 59 3.05m)      | 1,000       |
+| Vetch, milk                                                           | 1 5        | 5 44 600   ( 59 182.88m)    | 2,000       |
+| Watermelon                                                            | 7 1        | 26 2,640   ( 59 804.66m)    | 28 0        |
+| Wheat:                                                                |            |                             |             |
+| Nonhybrid                                                             | 7 1        | 23 0                        | 3,000       |
+| Hybrid                                                                | 30 1       | 21 32 660   ( 59 201.17m)   | 3,000       |
+| Hybrid (Chemically assisted)                                          |            |                             |             |
+
+1 The land must be free of volunteer plants of the crop kind during the year immediately prior to establishment and no manure or other contaminating material shall be applied the year previous to seeding or during the establishment and productive life of the stand.
+
+2 At least 2 years must elapse between destruction of indistinguishable varieties or varieties of dissimilar adaptation and establishment of the stand for the production of the Certified class of seed.
+
+3 Isolation distance for certified seed production shall be at least 500 feet (152.07m) from varieties of dissimilar adaptation.
+
+4 Isolation between classes of the same variety may be reduced to 25 percent of the distance otherwise required.
+
+5 This distance applies when fields are 5 acres (2ha) or larger in area. For smaller fields, the distances are 900 feet (274.32m) and 450 feet (137.16m) for the Foundation and Registered classes, respectively.
+
+6 Fields of less than 5 acres (2ha) require 330 feet (100.59m).
+
+7 Requirement is waived if the previous crop was grown from certified seed of the same variety.
+
+8 Requirement is waived if the previous crop was of the same variety and of a certified class equal or superior to that of the crop seeded.
+
+9 Reseeding varieties of crimson clover may be allowed to volunteer back year after year on the same ground. If a new variety is being planted where another variety once grew, the field history requirements apply.
+
+10 No isolation is required for the production of hand-pollinated seed.
+
+11 When the contaminant is the same color and texture, the isolation distance may be modified by (1) adequate natural barriers or (2) differential maturity dates, provided there are no receptive silks in the seed parent at the time the contaminant is shedding pollen. In addition, dent sterile popcorn requires no isolation from dent corn.
+
+12 Where the contaminating source is corn of the same color and texture as that of the field inspected or white endosperm-corn optically sorted, the isolation distance is 410 feet (124.97m) and may be modified by the planting of pollen parent border rows according to the following table:
+
+| Minimum distance from contaminant | Minimum Numbers of Border Rows Required |
+| --------------------------------- | --------------------------------------- |
+| 410 (124.97m)                     | 0                                       |
+| 370 (112.78m)                     | 2 (0.8ha)                               |
+| 330 (100.59m)                     | 4 (1.6ha)                               |
+| 290 (88.39m)                      | 6 (2.4ha)                               |
+| 245 (74.68m)                      | 8 (3.2ha)                               |
+| 205 (62.48m)                      | 10 (4.0ha)                              |
+| 165 (50.29m)                      | 12 (4.8ha)                              |
+| 125 (38.10m)                      | 14 (5.6ha)                              |
+| 85 (25.91m)                       | 16 (6.4ha)                              |
+| 0                                 | Not permitted                           |
+
+13 Refers to off-type plants in the pollen parent that have shed pollen or to the off-type plants in the see parent at the time of the last inspection.
+
+14 The required minimum isolation distance for sweet corn is 660 feet (201.17m) from the contaminating source, plus four border rows when the field to be inspected is 10 acres (4.0ha) or less in size. This distance may be decreased by 15 feet (4.57m) for each increment of 4 acres (1.6ha) in the size of the field to a maximum of 40 acres (16ha) and further decreased 40 feet (12.19m) for each additional border row to a maximum of 16 rows. These border rows are for pollen-shedding purposes only.
+
+15 Refers to off-type ears. Ears with off-colored or different textured kernels are limited to 0.5 percent, or a total of 25 off-colored or different textured kernels per 1,000 ears.
+
+16 The Merion variety of Kentucky bluegrass is allowed 3 percent.
+
+17 All cross-pollinating varieties must be 400 feet (121.92m) from any contaminating source.
+
+18 Isolation between diploids and tetraploids shall be at least 15 feet (4.57m).
+
+19 Minimum isolation shall be at least 100 feet (30.48m) if the cotton plants in the contaminating source differ by easily observable morphological characteristics from the field to be inspected. Isolation distance between upland and Egyptian types shall be at least 1,320 feet (402.34m), 1,320 feet (402.34m), and 660 feet (182.88m) for Foundation, Registered, and Certified classes, respectively.
+
+20 These distances apply when there is no border removal. Border removal applies only to fields of 5 acres (2ha) or more. Removal of a 9-foot (2.7m) border (after flowering) decreases the required distance for Foundation, Registered, and Certified seed classes to 600 feet (182.88m), 225 feet (68.58m), and 100 feet (30.48m), respectively, for cross-pollinated species, and to 30 feet (9.14m), 15 feet (4.57m), and 15 feet (4.57m), respectively, for apomictic and self-pollinated species. Removal of a 15 foot (4.57m) border (after flowering) allows a further decrease to 450 feet (136.16m), 150 feet (45.72m), and 75 feet (22.86m), respectively, for cross-pollinated species.
+
+21 Isolation distances between 2 fields of the same kind may be reduced to a distance adequate to prevent mechanical mixture, if the sum of percentages of plants in bloom in both fields does not exceed 5 percent at a time when more than 1 percent of the plants in either field are in bloom.
+
+22 Refers to bulbs.
+
+23 Distance adequate to prevent mechanical mixture is necessary.
+
+24 Required isolation between classes of the same variety is 10 feet (3.05m).
+
+25 The minimum distance may be reduced by 50 percent if different classes of the same variety are involved.
+
+26 The minimum distance may be reduced by 50 percent if the field is adequately protected by natural or artificial barriers.
+
+27 These ratios are for definite other varieties. The ratios for doubtful other varieties are:
+
+|           | Foundation | Registered | Certified |
+| --------- | ---------- | ---------- | --------- |
+| Millet    | 1:10,000   | 1:5,000    | 1:2,500   |
+| Sorghum:  |            |            |           |
+| Nonhybrid | 1:20,000   | 1:10,000   | 1:1,000   |
+| Hybrid    | 1:20,000   | NA         | 1:1,000   |
+| Okra      | None       | 1:750      | 1:500     |
+
+28 Whiteheart fruits may not exceed 1 per 100, 40, and 20 for Foundation, Registered, and Certified classes, respectively. Citron or hard rind is not permitted in Foundation or Registered classes and may not exceed 1 per 1,000 fruits in the Certified class.
+
+29 This distance applies if the contaminating source does not genetically differ in height from the pollinator parent or has a different chromosome number. If the contaminating source does (genetically) differ and has the same chromosome number the distance shall be 990 feet (301.76m). The minimum isolation from grass sorghum or broomcorn with the same chromosome number shall be 1,320 feet (402.34m).
+
+30 Requirement is waived for the production of pollinator lines if the previous crop was grown from a certified class of seed of the same variety. Sterile lines and crossing blocks must be on land free of contaminating plants.
+
+31 If the contaminating source is similar to the hybrid in all important characteristics, the isolation may be reduced by 66 feet (20.12m) for each pair of border rows of the pollinator parent down to a minimum of 330 feet (100.59m). These rows must be located directly opposite or diagonally to the contaminating source. The pollinator border rows must be shedding pollen during the entire time 5 percent or more of the seed parent flowers are receptive.
+
+32 An unplanted strip at least 2 feet (0.61m) in width shall separate male sterile plants and pollinator plants in inter-planted blocks.
+
+33 Unless the preceding crop was another kind or unless the preceding soybean crop was planted with a class of certified seed of the same variety, or unless the preceding soybean crop and the variety being planted have an identifiable character difference, in which case, no time need elapse.
+
+34 May include not more than 0.04 percent purple or white seeds.
+
+35 Standards apply equally to seed parents and pollen parents which may include up to 1:1,000 plants each of the wild-type branching, purple, or white-seeded plants.
+
+36 A new plant bed must be used each year unless the bed is properly treated with a soil sterilant prior to seeding.
+
+37 This distance is applied between varieties of the same type and may be waived if four border rows of each variety are allowed to bloom and set seed between the two varieties but are not harvested for seed. Isolation between varieties of different types shall be 1,320 feet (402.34m) except if protected by bagging or by topping all plants in the contaminating source before bloom.
+
+38 When male sterile and male fertile plants of the same type are planted adjacent in a field, this requirement may be waived; provided, four border rows of male sterile plants are allowed to bloom and set seeds. The seed from these border rows shall not be harvested as part of the certified lot of seed produced by the male sterile plants. When plants are of different types, the distance shall be 1,320 feet (402.34m) except if protected by bagging or by topping all plants in the contaminating source before bloom.
+
+39 Isolation between varieties or non-certified fields of the same variety shall be 100 feet (30.48m) if aerial seeded and 50 feet (15.24m) if ground broadcast, and 10 feet (3.05m) is ground drilled.
+
+40 Isolation between millets of different genera shall be 6 feet (1.83m).
+
+41 Does not apply to Helianthus similes, H. ludens, or H. agrestis.
+
+42 The ratio of male sterile (A) strains and pollen (B or C) strains shall not exceed 2:1.
+
+43 Parent lines (A and B) in a crossing block, or seed and pollen lines in a hybrid seed production field, shall be separated by at least 6 feet (1.83m) and shall be managed and harvested in a manner to prevent mixing.
+
+44 Distance between fields of certified classes of the same variety may be reduced to 10 feet (3.05m) regardless of the class or size of the fields.
+
+45 An isolation distance of 5,280 feet (1609.36m) is required between oil and non-oil sunflower types and between either type and other volunteers or wild types.
+
+46 Detasseling, cutting, or pulling of the cytoplasmic male-sterile seed parent is permitted.
+
+47 All varieties of perennial ryegrass seed are allowed 3.0 percent.
+
+48 This distance applies for fields over 5 acres (2ha). For alfalfa fields of 5 acres (2ha) or less that produce the Foundation and Registered seed classes, the minimum distance from a different variety or a field of the same variety that does not meet the varietal purity requirements for certification shall be 900 feet (274.32m) and 450 feet (137.16m), respectively.
+
+49 There must be at least 10 feet (3.05m) or a distance adequate to prevent mechanical mixture between a field of another variety (or non-certified area within the same field) and the area being certified. The 165 feet (50.29m) isolation requirement is waived if the area of the “isolation zone” is less than 10 percent of the field eligible for the Certified class. The “isolation zone” is that area calculated by multiplying the length of the common border(s) with other varieties of alfalfa by the average width of the field (being certified) falling within the 165 feet (50.29m) isolation. Areas within the isolation zone nearest the contamination source shall not be certified.
+
+50 Seed of Critana thickspike wheatgrass may contain up to 30 percent slender wheatgrass types.
+
+51 Crossing blocks must be planted on land free of volunteer contaminating plants.
+
+52 This distance applies to the seed parent when the contaminating source is wheat of another market class. If the contaminating source is the same market class as the seed parent, the distance may be modified by the planting of pollen parent border according to the following table:
+
+| Minimum distance from contaminant | Pollen (parent border) |
+| --------------------------------- | ---------------------- |
+| 330                               | 100.59                 |
+| 275                               | 83.82                  |
+| 215                               | 65.53                  |
+| 160                               | 48.77                  |
+| 100                               | 30.48                  |
+
+53 Interplanted blocks of seed parent and pollinator shall be separated by an unplanted strip a minimum of one foot (0.31m) in width and be clearly identifiable.
+
+54 If Foundation or Registered the ratio shall be 1:3000 (Foundation) and 1:2000 (Registered).
+
+55 Does not include seed of the female parent.
+
+56 Pre-Control Test Standards: If field inspection shows one or more of the following, the applicant may request that seed certification be based on the results of a pre-certification grow-out test approved by the certification agency: a. inadequate isolation; b. too few male parent plants shedding pollen when female plants are receptive; c. excess off-types not to include wild types. In such cases, at least 2,000 plants must be observed and meet the following standards before seed can be certified from fields with problems listed above:
+
+\[For non-oil types, seed which contains not more than 15 percent sterile plants may be certified. If it contains 85 percent-95 percent hybrid plants, the percentage of hybrid shall be shown on the certification label\]
+
+| Factor                        | Maximum Permitted |
+| ----------------------------- | ----------------- |
+| Sterile Plants                | 5.0               |
+| Sterile or Fertile Plants     |                   |
+| Morphological Variants        | 0.5               |
+| Wild Types                    | 0.2               |
+| Total (including above types) | 5.0               |
+
+57 Application to establish the pedigree must be made within one year of seeding. The crop will remain under supervision of the certifying agency as long as the field is eligible for certification.
+
+58 These distances apply when there is no border removal. Varieties that are 95 percent or more apomictic, as defined by the originating breeder, shall have the isolation distance reduced to a mechanical separation only. Varieties less than 95 percent apomictic and all other cross pollinating species that have an “isolation zone” of less than 10 percent of the entire field, no isolation is required. (Isolation zone is calculated by multiplying the length of the common border with other varieties of grass by the average width of the certified field falling within the isolation distance required.)
+
+59 Indicates metric equivalent in meters.
+
+\[59 FR 64516, Dec. 14, 1994, as amended at 65 FR 1710, Jan. 11, 2000\]

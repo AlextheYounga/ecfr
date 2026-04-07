@@ -1,0 +1,7 @@
+##### § 1250.542 Patents, copyrights, trademarks, and information.
+
+Link to an amendment published at 81 FR 90186, December 14, 2016.
+
+Patents, copyrights, trademarks, and information accruing from work pursuant to any plan or project undertaken by any person on behalf of the Egg Board, financed by assessment funds or other revenues of the Egg Board; shall become property of the U.S Government as represented by the Egg Board; and such patents, copyrights, trademarks, and information may be licensed subject to approval by the Secretary of Agriculture. Upon termination of the Order, the Egg Board shall transfer custody of all such patents, copyrights, trademarks, and information to the Secretary of Agriculture pursuant to the procedure provided for in § 1250.358 who shall utilize them in a manner that he determines to be in the best interest of egg producers. Funds generated from the use of patents, copyrights, trademarks, and information by the Egg Board will be considered income subject to the same fiscal, budget, and audit control as the other funds of the Egg Board. Ownership of inventions made by employees of the Board shall be determined in accordance with Executive Order 10096.
+
+\[41 FR 22925, June 8, 1976; 41 FR 23930, June 14, 1976\]
