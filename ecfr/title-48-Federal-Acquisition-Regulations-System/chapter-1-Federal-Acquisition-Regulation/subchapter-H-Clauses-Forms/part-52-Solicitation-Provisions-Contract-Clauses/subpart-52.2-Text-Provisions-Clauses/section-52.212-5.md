@@ -1,5 +1,7 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items.
 
+Link to an amendment published at 83 FR 65477, Dec. 20, 2018.
+
 As prescribed in 12.301(b)(4), insert the following clause:
 
 Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (Oct 2018)
@@ -92,7 +94,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (27) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
-\_\_ (28)(i) 52.222-26, Equal Opportunity (SEPT 2016)
+\_\_ (28)(i) 52.222-26, Equal Opportunity (SEPT 2016) (E.O. 11246).
 
 \_\_ (ii) Alternate I (Feb 1999) of 52.222-26.
 
