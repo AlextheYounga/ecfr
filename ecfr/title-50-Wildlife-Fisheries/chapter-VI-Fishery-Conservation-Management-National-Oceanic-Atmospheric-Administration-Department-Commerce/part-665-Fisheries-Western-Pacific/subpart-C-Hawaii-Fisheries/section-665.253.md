@@ -1,3 +1,10 @@
-##### § 665.253 \[Reserved\]
+##### § 665.253 Annual Catch Limits (ACL).
 
-Link to an amendment published at 85 FR 26624, May 5, 2020.
+In accordance with § 665.4, the ACLs for MHI crusteaceans for each fishing year are as follows:
+
+| Fishery          | 2019 ACL   (lb) | 2020 ACL   (lb) | 2021 ACL   (lb) |
+| ---------------- | --------------- | --------------- | --------------- |
+| Kona crab        | 3,500           | NA              | NA              |
+| Deepwater shrimp | 250,733         | 250,733         | 250,733         |
+
+\[85 FR 26624, May 5, 2020\]
