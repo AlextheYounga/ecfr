@@ -18,7 +18,7 @@
 
 (3) *Reasonable and necessary.* It is reasonable and necessary for treating or monitoring the condition of a beneficiary who meets the conditions described in paragraph (d) of this section.
 
-(c) Types and frequency of training - (1) Initial training -
+(c) Types and frequency of training—(1) Initial training—
 
 *General rule.* (i) Medicare Part B covers initial training that meets the following conditions:
 
@@ -34,13 +34,13 @@
 
 (F) May include 1 hour of individual training for an assessment of the beneficiary's training needs.
 
-(ii)*Exception.* Medicare covers training on an individual basis for a Medicare beneficiary who meets any of the following conditions:
+(ii) *Exception.* Medicare covers training on an individual basis for a Medicare beneficiary who meets any of the following conditions:
 
 (A) No group session is available within 2 months of the date the training is ordered.
 
 (B) The beneficiary's physician (or qualified nonphysician practitioner) documents in the beneficiary's medical record that the beneficiary has special needs resulting from conditions, such as severe vision, hearing, or language limitations that will hinder effective participation in a group training session.
 
-(2)*Follow-up training.* After receiving the initial training described in paragraph (c)(1) of this section, Medicare covers follow-up training that meets the following conditions:
+(2) *Follow-up training.* After receiving the initial training described in paragraph (c)(1) of this section, Medicare covers follow-up training that meets the following conditions:
 
 (i) Consists of no more than 2 hours individual or group training for a beneficiary each year.
 
