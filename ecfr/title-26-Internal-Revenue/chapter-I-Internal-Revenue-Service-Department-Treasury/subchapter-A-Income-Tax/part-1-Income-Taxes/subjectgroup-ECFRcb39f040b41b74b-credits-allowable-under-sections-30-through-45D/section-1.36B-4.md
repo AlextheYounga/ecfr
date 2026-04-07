@@ -1,10 +1,10 @@
 ##### § 1.36B-4 Reconciling the premium tax credit with advance credit payments.
 
-(a) *Reconciliation* - (1) *Coordination of premium tax credit with advance credit payments* - (i) *In general.* A taxpayer must reconcile the amount of credit allowed under section 36B with advance credit payments on the taxpayer's income tax return for a taxable year. A taxpayer whose premium tax credit for the taxable year exceeds the taxpayer's advance credit payments may receive the excess as an income tax refund. A taxpayer whose advance credit payments for the taxable year exceed the taxpayer's premium tax credit owes the excess as an additional income tax liability.
+(a) *Reconciliation*—(1) *Coordination of premium tax credit with advance credit payments*—(i) *In general.* A taxpayer must reconcile the amount of credit allowed under section 36B with advance credit payments on the taxpayer's income tax return for a taxable year. A taxpayer whose premium tax credit for the taxable year exceeds the taxpayer's advance credit payments may receive the excess as an income tax refund. A taxpayer whose advance credit payments for the taxable year exceed the taxpayer's premium tax credit owes the excess as an additional income tax liability.
 
-(ii) *Allocation rules and responsibility for advance credit payments* - (A) *In general.* A taxpayer must reconcile all advance credit payments for coverage of any member of the taxpayer's family.
+(ii) *Allocation rules and responsibility for advance credit payments*—(A) *In general.* A taxpayer must reconcile all advance credit payments for coverage of any member of the taxpayer's family.
 
-(B) *Individuals enrolled by a taxpayer and claimed as a personal exemption deduction by another taxpayer* - (*1*) *In general.* If a taxpayer (the enrolling taxpayer) enrolls an individual in a qualified health plan and another taxpayer (the claiming taxpayer) claims a personal exemption deduction for the individual (the shifting enrollee), then for purposes of computing each taxpayer's premium tax credit and reconciling any advance credit payments, the enrollment premiums and advance credit payments for the plan in which the shifting enrollee was enrolled are allocated under this paragraph (a)(1)(ii)(B) according to the allocation percentage described in paragraph (a)(1)(ii)(B)(*2*) of this section. If advance credit payments are allocated under paragraph (a)(1)(ii)(B)(*4*) of this section, the claiming taxpayer and enrolling taxpayer must use this same allocation percentage to calculate their § 1.36B-3(d)(1)(ii) adjusted monthly premiums for the applicable benchmark plan (benchmark plan premiums). This paragraph (a)(1)(ii)(B) does not apply to amounts allocated under § 1.36B-3(h) (qualified health plan covering more than one family) or if the shifting enrollee or enrollees are the only individuals enrolled in the qualified health plan. For purposes of this paragraph (a)(1)(ii)(B)(*1*), a taxpayer who is expected at enrollment in a qualified health plan to be the taxpayer filing an income tax return for the year of coverage with respect to an individual enrolling in the plan has enrolled that individual. For taxable years to which section 151(d)(5) applies, the claiming taxpayer is the taxpayer who properly includes the shifting enrollee in his or her family for the taxable year.
+(B) *Individuals enrolled by a taxpayer and claimed as a personal exemption deduction by another taxpayer*—(*1*) *In general.* If a taxpayer (the enrolling taxpayer) enrolls an individual in a qualified health plan and another taxpayer (the claiming taxpayer) claims a personal exemption deduction for the individual (the shifting enrollee), then for purposes of computing each taxpayer's premium tax credit and reconciling any advance credit payments, the enrollment premiums and advance credit payments for the plan in which the shifting enrollee was enrolled are allocated under this paragraph (a)(1)(ii)(B) according to the allocation percentage described in paragraph (a)(1)(ii)(B)(*2*) of this section. If advance credit payments are allocated under paragraph (a)(1)(ii)(B)(*4*) of this section, the claiming taxpayer and enrolling taxpayer must use this same allocation percentage to calculate their § 1.36B-3(d)(1)(ii) adjusted monthly premiums for the applicable benchmark plan (benchmark plan premiums). This paragraph (a)(1)(ii)(B) does not apply to amounts allocated under § 1.36B-3(h) (qualified health plan covering more than one family) or if the shifting enrollee or enrollees are the only individuals enrolled in the qualified health plan. For purposes of this paragraph (a)(1)(ii)(B)(*1*), a taxpayer who is expected at enrollment in a qualified health plan to be the taxpayer filing an income tax return for the year of coverage with respect to an individual enrolling in the plan has enrolled that individual. For taxable years to which section 151(d)(5) applies, the claiming taxpayer is the taxpayer who properly includes the shifting enrollee in his or her family for the taxable year.
 
 (*2*) *Allocation percentage.* The enrolling taxpayer and claiming taxpayer may agree on any allocation percentage between zero and one hundred percent. If the enrolling taxpayer and claiming taxpayer do not agree on an allocation percentage, the percentage is equal to the number of shifting enrollees properly included in the enrolling taxpayer's family divided by the number of individuals enrolled by the enrolling taxpayer in the same qualified health plan as the shifting enrollee.
 
@@ -20,7 +20,7 @@
 
 (2) *Credit computation.* The premium assistance credit amount is computed on the taxpayer's return using the taxpayer's household income and family size for the taxable year. Thus, the taxpayer's contribution amount (household income for the taxable year times the applicable percentage) is determined using the taxpayer's household income and family size at the end of the taxable year. The applicable benchmark plan for each coverage month is determined under § 1.36B-3(f).
 
-(3) *Limitation on additional tax* - (i) *In general.* The additional tax imposed under paragraph (a)(1) of this section on a taxpayer whose household income is less than 400 percent of the Federal poverty line is limited to the amounts provided in the table in paragraph (a)(3)(ii) of this section (or successor tables). For taxable years beginning after December 31, 2014, the limitation amounts may be adjusted in published guidance, see § 601.601(d)(2) of this chapter, to reflect changes in the consumer price index.
+(3) *Limitation on additional tax*—(i) *In general.* The additional tax imposed under paragraph (a)(1) of this section on a taxpayer whose household income is less than 400 percent of the Federal poverty line is limited to the amounts provided in the table in paragraph (a)(3)(ii) of this section (or successor tables). For taxable years beginning after December 31, 2014, the limitation amounts may be adjusted in published guidance, see § 601.601(d)(2) of this chapter, to reflect changes in the consumer price index.
 
 (ii) *Additional tax limitation table.*
 
@@ -30,11 +30,11 @@
 | At least 200% but less than 300%                    | 750                                                                          | 1,500                                     |
 | At least 300% but less than 400%                    | 1,250                                                                        | 2,500                                     |
 
-(iii) *Limitation on additional tax for taxpayers who claim a section 162(l) deduction for a qualified health plan* - (A) *In general.* A taxpayer who receives advance credit payments and deducts premiums for a qualified health plan under section 162(l) must use paragraph (a)(3)(iii)(B), and paragraph (a)(3)(iii)(C) or (D), of this section to determine the limitation on additional tax in this paragraph (a)(3) (limitation amount). Taxpayers must make this determination before calculating their section 162(l) deduction and premium tax credit. For additional rules for taxpayers who may claim a deduction under section 162(l) for a qualified health plan for which advance credit payments are made, see § 1.162(l)-1.
+(iii) *Limitation on additional tax for taxpayers who claim a section 162(l) deduction for a qualified health plan*—(A) *In general.* A taxpayer who receives advance credit payments and deducts premiums for a qualified health plan under section 162(l) must use paragraph (a)(3)(iii)(B), and paragraph (a)(3)(iii)(C) or (D), of this section to determine the limitation on additional tax in this paragraph (a)(3) (limitation amount). Taxpayers must make this determination before calculating their section 162(l) deduction and premium tax credit. For additional rules for taxpayers who may claim a deduction under section 162(l) for a qualified health plan for which advance credit payments are made, see § 1.162(l)-1.
 
 (B) *Determining the limitation amount.* A taxpayer described in paragraph (a)(3)(iii)(A) of this section must use the limitation amount for which the taxpayer qualifies under paragraph (a)(3)(iii)(C) or (D) of this section. The limitation amount determined under this paragraph (a)(3)(iii) replaces the limitation amount that would otherwise be determined under the additional tax limitation table in paragraph (a)(3)(ii) of this section. In applying paragraph (a)(3)(iii)(C) of this section, a taxpayer must first determine whether he or she qualifies for the limitation amount applicable to taxpayers with household income of less than 200 percent of the Federal poverty line for the taxpayer's family size. If the taxpayer does not qualify to use the limitation amount applicable to taxpayers with household income of less than 200 percent of the Federal poverty line for the taxpayer's family size, the taxpayer must next determine whether he or she qualifies for the limitation applicable to taxpayers with household income of less than 300 percent of the Federal poverty line for the taxpayer's family size. If the taxpayer does not qualify to use the limitation amount applicable to taxpayers with household income of less than 300 percent of the Federal poverty line for the taxpayer's family size, the taxpayer must next determine whether he or she qualifies for the limitation applicable to taxpayers with household income of less than 400 percent of the Federal poverty line for the taxpayer's family size. If the taxpayer does not qualify to use the limitation amount applicable to taxpayers with household income of less than 200 percent, 300 percent, or 400 percent of the Federal poverty line for the taxpayer's family size, the limitation on additional tax under section 36B(f)(2)(B) does not apply to the taxpayer.
 
-(C) *Requirements.* A taxpayer meets the requirements of this paragraph (a)(3)(iii)(C) for a limitation amount if the taxpayer's household income as a percentage of the Federal poverty line is less than or equal to the maximum household income as a percentage of the Federal poverty line for which that limitation is available. Household income for this purpose is determined by using a section 162(l) deduction equal to the lesser of -
+(C) *Requirements.* A taxpayer meets the requirements of this paragraph (a)(3)(iii)(C) for a limitation amount if the taxpayer's household income as a percentage of the Federal poverty line is less than or equal to the maximum household income as a percentage of the Federal poverty line for which that limitation is available. Household income for this purpose is determined by using a section 162(l) deduction equal to the lesser of—
 
 (*1*) The sum of the specified premiums for the plan not paid through advance credit payments, the limitation amount (determined without regard to paragraph (a)(1)(iii)(C)(*2*) of this section), and any deduction allowable under section 162(l) for premiums other than specified premiums, and
 
@@ -72,93 +72,27 @@ Example 7. Changes in coverage months and applicable benchmark plan.(i) Taxpayer
 
 (iii) Under § 1.36B-3(c)(1), January through July of 2014 are coverage months for F and August through December are coverage months for E and F. Under paragraph (a)(2) of this section, E must compute her premium tax credit using the premium for the applicable benchmark plan for each coverage month. E's premium assistance credit amount for 2014 is the sum of the premium assistance amounts for all coverage months. E reconciles her premium tax credit with advance credit payments as follows:
 
-Advance credit payments (Jan. to July)
-
-$1,925
-
-($275 × 7) 
-
-Advance credit payments (Aug. to Dec.)
-
-3,375
-
-($675 × 5) 
-
-Total advance credit payments
-
-5,300 
-
-Benchmark plan premium (Jan. to July)
-
-3,033
-
-(($5,200/12) × 7) 
-
-Benchmark plan premium (Aug. to Dec.)
-
-4,167
-
-(($10,000/12) × 5) 
-
-Total benchmark plan premium
-
-7,200 
-
-Contribution amount (taxable year household income × applicable percentage)
-
-1,679
-
-($28,747 × .0584) 
-
-Credit (total benchmark plan premium less contribution amount)
-
-5,521
+| Advance credit payments (Jan. to July)                                      | $1,925 | ($275 × 7)         |
+| Advance credit payments (Aug. to Dec.)                                      | 3,375  | ($675 × 5)         |
+| Total advance credit payments                                               | 5,300  |                    |
+| Benchmark plan premium (Jan. to July)                                       | 3,033  | (($5,200/12) × 7)  |
+| Benchmark plan premium (Aug. to Dec.)                                       | 4,167  | (($10,000/12) × 5) |
+| Total benchmark plan premium                                                | 7,200  |                    |
+| Contribution amount (taxable year household income × applicable percentage) | 1,679  | ($28,747 × .0584)  |
+| Credit (total benchmark plan premium less contribution amount)              | 5,521  |                    |
 
 (iv) E's advance credit payments for 2014 are $5,300. E's premium tax credit is $5,521. Thus, E is allowed an additional credit of $221.Example 8. Part-year coverage and changes in coverage months and applicable benchmark plan.(i) The facts are the same as in *Example 7,* except that F is eligible for government-sponsored minimum essential coverage for January and February 2014, and E enrolls F in a qualified health plan beginning in March 2014. Thus, March through July are coverage months for F and August through December are coverage months for E and F.
 
 (ii) E reconciles her premium tax credit with advance credit payments as follows:
 
-Advance credit payments (March to July)
-
-$1,375
-
-($275 × 5) 
-
-Advance credit payments (Aug. to Dec.)
-
-3,375
-
-($675 × 5) 
-
-Total advance credit payments
-
-4,750 
-
-Benchmark plan premium (March to July)
-
-2,167
-
-(($5,200/12) × 5) 
-
-Benchmark plan premium (Aug. to Dec.)
-
-4,167
-
-(($10,000/12) × 5) 
-
-Total benchmark plan premium
-
-6,334 
-
-Contribution amount for 10 coverage months (taxable year household income × applicable percentage × 10/12)
-
-1,399
-
-($28,747 × .0584 × 10/12) 
-
-Credit (total benchmark plan premium less contribution amount)
-
-4,935
+| Advance credit payments (March to July)                                                                    | $1,375 | ($275 × 5)                |
+| Advance credit payments (Aug. to Dec.)                                                                     | 3,375  | ($675 × 5)                |
+| Total advance credit payments                                                                              | 4,750  |                           |
+| Benchmark plan premium (March to July)                                                                     | 2,167  | (($5,200/12) × 5)         |
+| Benchmark plan premium (Aug. to Dec.)                                                                      | 4,167  | (($10,000/12) × 5)        |
+| Total benchmark plan premium                                                                               | 6,334  |                           |
+| Contribution amount for 10 coverage months (taxable year household income × applicable percentage × 10/12) | 1,399  | ($28,747 × .0584 × 10/12) |
+| Credit (total benchmark plan premium less contribution amount)                                             | 4,935  |                           |
 
 (iii) E's advance credit payments for 2014 are $4,750. E's premium tax credit is $4,935. Thus, E is allowed an additional credit of $185.Example 9. Advance credit payments for months an issuer does not provide coverage.(i) Taxpayer F enrolls in a qualified health plan for 2014 and the Exchange approves advance credit payments. F pays the portion of the premium not covered by advance credit payments for January through April of 2014 but fails to make payments in May, June, and July. As a result, the issuer of the qualified health plan initiates the 3-month grace period under section 1412(c)(2)(B)(iv)(II) of the Affordable Care Act and 45 CFR 156.270(d). During the grace period the issuer continues to receive advance credit payments on behalf of F. On July 1 the issuer rescinds F's coverage retroactive to the end of the first month of the grace period, May 31.
 
@@ -200,11 +134,11 @@ Example 15.*Taxpayer with advance credit payments allowed a section 162(l) deduc
 
 (iii) C may determine the amount of the premium tax credit and the section 162(l) deduction using the rules under section 36B and section 162(l), applying the $600 limitation amount determined above.
 
-(b) *Changes in filing status* - (1) *In general.* Except as provided in paragraph (b)(2) or (b)(3) of this section, a taxpayer whose marital status changes during the taxable year computes the premium tax credit by using the applicable benchmark plan or plans for the taxpayer's marital status as of the first day of each coverage month. The taxpayer's contribution amount (household income for the taxable year times the applicable percentage) is determined using the taxpayer's household income and family size at the end of the taxable year.
+(b) *Changes in filing status*—(1) *In general.* Except as provided in paragraph (b)(2) or (b)(3) of this section, a taxpayer whose marital status changes during the taxable year computes the premium tax credit by using the applicable benchmark plan or plans for the taxpayer's marital status as of the first day of each coverage month. The taxpayer's contribution amount (household income for the taxable year times the applicable percentage) is determined using the taxpayer's household income and family size at the end of the taxable year.
 
-(2) *Taxpayers who marry during the taxable year* - (i) *In general.* Taxpayers who marry during and file a joint return for the taxable year may compute the additional tax imposed under paragraph (a)(1) of this section under paragraph (b)(2)(ii) of this section. Only taxpayers who are unmarried at the beginning of the taxable year and are married (within the meaning of section 7703) at the end of the taxable year, at least one of whom receives advance credit payments, may use this alternative computation.
+(2) *Taxpayers who marry during the taxable year*—(i) *In general.* Taxpayers who marry during and file a joint return for the taxable year may compute the additional tax imposed under paragraph (a)(1) of this section under paragraph (b)(2)(ii) of this section. Only taxpayers who are unmarried at the beginning of the taxable year and are married (within the meaning of section 7703) at the end of the taxable year, at least one of whom receives advance credit payments, may use this alternative computation.
 
-(ii) *Alternative computation of additional tax liability* - (A) *In general.* The additional tax liability determined under this paragraph (b)(2)(ii) is equal to the excess of the taxpayers' advance credit payments for the taxable year over the amount of the alternative marriage-year credit. The alternative marriage-year credit is the sum of both taxpayers' alternative premium assistance amounts for the pre-marriage months and the premium assistance amounts for the marriage months. This paragraph (b)(2)(ii) may not be used to increase the additional premium tax credit computed under paragraph (a)(1)(i) of this section.
+(ii) *Alternative computation of additional tax liability*—(A) *In general.* The additional tax liability determined under this paragraph (b)(2)(ii) is equal to the excess of the taxpayers' advance credit payments for the taxable year over the amount of the alternative marriage-year credit. The alternative marriage-year credit is the sum of both taxpayers' alternative premium assistance amounts for the pre-marriage months and the premium assistance amounts for the marriage months. This paragraph (b)(2)(ii) may not be used to increase the additional premium tax credit computed under paragraph (a)(1)(i) of this section.
 
 (B) *Alternative premium assistance amounts for pre-marriage months.* Taxpayers compute the alternative premium assistance amounts for each taxpayer for each full or partial month the taxpayers are unmarried as described in paragraph (a)(2) of this section, except that each taxpayer treats the amount of household income as one-half of the actual household income for the taxable year and treats family size as the number of individuals in the taxpayer's family prior to the marriage. The taxpayers may include a dependent of the taxpayers for the taxable year in either taxpayer's family size for the pre-marriage months.
 
@@ -212,7 +146,7 @@ Example 15.*Taxpayer with advance credit payments allowed a section 162(l) deduc
 
 (3) *Taxpayers not married to each other at the end of the taxable year.* Taxpayers who are married (within the meaning of section 7703) to each other during a taxable year but legally separate under a decree of divorce or of separate maintenance during the taxable year, and who are enrolled in the same qualified health plan at any time during the taxable year must allocate the benchmark plan premiums, the enrollment premiums, and the advance credit payments for the period the taxpayers are married during the taxable year. Taxpayers must also allocate these items if one of the taxpayers has a dependent enrolled in the same plan as the taxpayer's former spouse or enrolled in the same plan as a dependent of the taxpayer's former spouse. The taxpayers may allocate these items to each former spouse in any proportion but must allocate all items in the same proportion. If the taxpayers do not agree on an allocation that is reported to the IRS in accordance with the relevant forms and instructions, 50 percent of: The benchmark plan premiums; the enrollment premiums; and the advance credit payments for the married period, is allocated to each taxpayer. If for a period a plan covers only one of the taxpayers and no dependents, only one of the taxpayers and one or more dependents of that same taxpayer, or only one or more dependents of one of the taxpayers, then the benchmark plan premiums, the enrollment premiums, and the advance credit payments for that period are allocated entirely to that taxpayer.
 
-(4) *Taxpayers filing returns as married filing separately or head of household* - (i) *Allocation of advance credit payments.* Except as provided in § 1.36B-2(b)(2)(ii), the premium tax credit is allowed to married (within the meaning of section 7703) taxpayers only if they file joint returns. *See* § 1.36B-2(b)(2)(i). Taxpayers who receive advance credit payments as married taxpayers and who do not file a joint return must allocate the advance credit payments for coverage under a qualified health plan equally to each taxpayer for any period the plan covers and in which advance credit payments are made for both taxpayers, only one of the taxpayers and one or more dependents of the other taxpayer, or one or more dependents of both taxpayers. If, for a period a plan covers, advance credit payments are made for only one of the taxpayers and no dependents, only one of the taxpayers and one or more dependents of that same taxpayer, or only one or more dependents of one of the taxpayers, the advance credit payments for that period are allocated entirely to that taxpayer. If one or both of the taxpayers is an applicable taxpayer eligible for a premium tax credit for the taxable year, the premium tax credit is computed by allocating the enrollment premiums under paragraph (b)(4)(ii) of this section. The repayment limitation described in paragraph (a)(3) of this section applies to each taxpayer based on the household income and family size reported on that taxpayer's return. This paragraph (b)(4) also applies to taxpayers who receive advance credit payments as married taxpayers and file a tax return using the head of household filing status.
+(4) *Taxpayers filing returns as married filing separately or head of household*—(i) *Allocation of advance credit payments.* Except as provided in § 1.36B-2(b)(2)(ii), the premium tax credit is allowed to married (within the meaning of section 7703) taxpayers only if they file joint returns. *See* § 1.36B-2(b)(2)(i). Taxpayers who receive advance credit payments as married taxpayers and who do not file a joint return must allocate the advance credit payments for coverage under a qualified health plan equally to each taxpayer for any period the plan covers and in which advance credit payments are made for both taxpayers, only one of the taxpayers and one or more dependents of the other taxpayer, or one or more dependents of both taxpayers. If, for a period a plan covers, advance credit payments are made for only one of the taxpayers and no dependents, only one of the taxpayers and one or more dependents of that same taxpayer, or only one or more dependents of one of the taxpayers, the advance credit payments for that period are allocated entirely to that taxpayer. If one or both of the taxpayers is an applicable taxpayer eligible for a premium tax credit for the taxable year, the premium tax credit is computed by allocating the enrollment premiums under paragraph (b)(4)(ii) of this section. The repayment limitation described in paragraph (a)(3) of this section applies to each taxpayer based on the household income and family size reported on that taxpayer's return. This paragraph (b)(4) also applies to taxpayers who receive advance credit payments as married taxpayers and file a tax return using the head of household filing status.
 
 (ii) *Allocation of premiums.* If taxpayers who are married within the meaning of section 7703, without regard to section 7703(b), do not file a joint return, 50 percent of the enrollment premiums are allocated to each taxpayer. However, all of the enrollment premiums are allocated to only one of the taxpayers for a period in which a qualified health plan covers only that taxpayer and no dependents, only that taxpayer and one or more dependents of that taxpayer, or only one or more dependents of that taxpayer.
 
@@ -226,111 +160,33 @@ Example 1. Taxpayers marry during the taxable year, general rule for computing a
 
 (iv) P and Q file a joint return for 2014 and report $75,000 in household income and a family size of four. P and Q compute their credit at reconciliation under paragraph (b)(1) of this section. They use the premiums for the applicable benchmark plans that apply for the months married and the months not married, and their contribution amount is based on their Federal poverty line percentage at the end of the taxable year. P and Q reconcile their premium tax credit with advance credit payments as follows:
 
-Advance payments for P (Jan. to July)
-
-$819 
-
-Advance payments for Q (Jan. to July)
-
-4,704 
-
-Advance payments for P and Q (Aug. to Dec.)
-
-2,865 
-
-Total advance payments
-
-8,388 
-
-Benchmark plan premium for P (Jan. to July)
-
-3,033 
-
-Benchmark plan premium for Q (Jan. to July)
-
-5,833 
-
-Benchmark plan premium for P and Q (Aug. to Dec.)
-
-5,833 
-
-Total benchmark plan premium
-
-14,699 
-
-Contribution amount (taxable year household income × applicable percentage)
-
-7,125 
-
-Credit (total benchmark plan premium less contribution amount)
-
-7,574 
-
-Additional tax
-
-814
+| Advance payments for P (Jan. to July)                                       | $819   |
+| Advance payments for Q (Jan. to July)                                       | 4,704  |
+| Advance payments for P and Q (Aug. to Dec.)                                 | 2,865  |
+| Total advance payments                                                      | 8,388  |
+| Benchmark plan premium for P (Jan. to July)                                 | 3,033  |
+| Benchmark plan premium for Q (Jan. to July)                                 | 5,833  |
+| Benchmark plan premium for P and Q (Aug. to Dec.)                           | 5,833  |
+| Total benchmark plan premium                                                | 14,699 |
+| Contribution amount (taxable year household income × applicable percentage) | 7,125  |
+| Credit (total benchmark plan premium less contribution amount)              | 7,574  |
+| Additional tax                                                              | 814    |
 
 (v) P's and Q's tax liability for 2014 is increased by $814 under paragraph (a)(1) of this section.Example 2. Taxpayers marry during the taxable year, alternative computation of additional tax.(i) The facts are the same as in *Example 1,* except that P and Q compute their additional tax liability under paragraph (b)(2)(ii) of this section. P's and Q's additional tax is the excess of their advance credit payments for the taxable year ($8,388) over their alternative marriage-year credit, which is the sum of the alternative premium assistance amounts for the pre-marriage months and the premium assistance amounts for the marriage months.
 
 (ii) P and Q compute the alternative marriage-year credit as follows:
 
-Alternative premium assistance amounts for pre-marriage months:
-
-Benchmark plan premium for P (Jan. to July)
-
-$3,033
-
-(($5,200/12) × 7) 
-
-Contribution amount ( 1/2 taxable year household income × applicable percentage) × 7/12)
-
-2,078
-
-($37,500 × .095 × 7/12) 
-
-Alternative premium assistance amount for P's pre-marriage months
-
-955
-
-($3,033−$2,078) 
-
-Benchmark plan premium for Q (Jan. to July)
-
-5,833
-
-(($10,000/12) × 7) 
-
-Contribution amount ( 1/2 taxable year household income × applicable percentage × 7/12)
-
-1,339
-
-($37,500 × .0612 × 7/12) 
-
-Alternative premium assistance amount for Q's pre-marriage months
-
-4,494
-
-($5,833−$1,339) 
-
-Premium assistance amount for marriage months:
-
-Benchmark plan premium for P and Q (Aug. to Dec.)
-
-5,833
-
-(($14,000/12 × 5) 
-
-Contribution amount (taxable year household income × applicable percentage × 5/12)
-
-2,969
-
-($75,000 × .095 × 5/12) 
-
-Premium assistance amount for marriage months
-
-2,864
-
-($5,833−$2,969)
+| Alternative premium assistance amounts for pre-marriage months:                         |        |                          |
+| Benchmark plan premium for P (Jan. to July)                                             | $3,033 | (($5,200/12) × 7)        |
+| Contribution amount (1/2 taxable year household income × applicable percentage) × 7/12) | 2,078  | ($37,500 × .095 × 7/12)  |
+| Alternative premium assistance amount for P's pre-marriage months                       | 955    | ($3,033−$2,078)          |
+| Benchmark plan premium for Q (Jan. to July)                                             | 5,833  | (($10,000/12) × 7)       |
+| Contribution amount (1/2 taxable year household income × applicable percentage × 7/12)  | 1,339  | ($37,500 × .0612 × 7/12) |
+| Alternative premium assistance amount for Q's pre-marriage months                       | 4,494  | ($5,833−$1,339)          |
+| Premium assistance amount for marriage months:                                          |        |                          |
+| Benchmark plan premium for P and Q (Aug. to Dec.)                                       | 5,833  | (($14,000/12 × 5)        |
+| Contribution amount (taxable year household income × applicable percentage × 5/12)      | 2,969  | ($75,000 × .095 × 5/12)  |
+| Premium assistance amount for marriage months                                           | 2,864  | ($5,833−$2,969)          |
 
 Alternative marriage-year credit (sum of premium assistance amounts for pre-marriage months and marriage months): $955 + $4,494 + $2,864 = $8,313.
 
@@ -342,73 +198,23 @@ Example 3. Taxpayers marry during the taxable year, alternative computation of a
 
 (iii) R and S marry in September 2014 and enroll in a single policy for a qualified health plan covering them both, beginning October 1, 2014. The premium for the applicable benchmark plan is $10,000. Based on household income of $60,000 and a family size of two (397 percent of the Federal poverty line, applicable percentage 9.5), R's and S's monthly advance credit payment is $358, computed as follows: $10,000 benchmark plan premium minus contribution amount of $5,700 ($60,000 × .095) = $4,300; $4,300/12 = $358. R's and S's advance credit payments for 2014 are $5,232, computed as follows:
 
-Advance payments for R (Jan. to Sept.)
-
-$1,053
-
-($117 × 9) 
-
-Advance payments for S (Jan. to Sept.)
-
-3,105
-
-($345 × 9) 
-
-Advance payments for R and S (Oct. to Dec.)
-
-1,074
-
-($358 × 3) 
-
-Total advance payments
-
-5,232
+| Advance payments for R (Jan. to Sept.)      | $1,053 | ($117 × 9) |
+| Advance payments for S (Jan. to Sept.)      | 3,105  | ($345 × 9) |
+| Advance payments for R and S (Oct. to Dec.) | 1,074  | ($358 × 3) |
+| Total advance payments                      | 5,232  |            |
 
 (iv) R and S file a joint return for 2014 and report $62,000 in household income and a family size of two (410 percent of the FPL for a family of 2). Thus, under § 1.36B-2(b)(2), R and S are not applicable taxpayers for 2014 and may not claim a premium tax credit for 2014. However, they compute their additional tax liability under paragraph (b)(2)(ii) of this section. R's and S's additional tax is the excess of their advance credit payments for the taxable year ($5,232) over their alternative marriage-year credit, which is the sum of the alternative premium assistance amounts for the pre-marriage months and the premium assistance amounts for the marriage months. In this case, R and S have no premium assistance amounts for the married months because their household income is over 400 percent of the Federal poverty line for a family of 2.
 
 (v) R and S compute their alternative marriage-year credit as follows:
 
-Premium assistance amount for pre-marriage months:
-
-Benchmark plan premium for R (Jan. to Sept.)
-
-$3,900
-
-(($5,200/12) × 9) 
-
-Contribution amount (( 1/2 taxable year household income × applicable percentage) × 9/12)
-
-2,053
-
-($31,000 × .0883 × 9/12) 
-
-Premium assistance amount for R's pre-marriage months
-
-1,847
-
-($3,900 − $2,053) 
-
-Benchmark plan premium for S (Jan. to Sept.)
-
-3,900
-
-(($5,200/12) × 9) 
-
-Contribution amount (( 1/2 taxable year household income × applicable percentage) × 9/12)
-
-2,053
-
-($31,000 × .0883 × 9/12) 
-
-Premium assistance amount for S's pre-marriage months
-
-1,847
-
-($3,900−$2,053) 
-
-Premium assistance amount for marriage months
-
-0
+| Premium assistance amount for pre-marriage months:                                       |        |                          |
+| Benchmark plan premium for R (Jan. to Sept.)                                             | $3,900 | (($5,200/12) × 9)        |
+| Contribution amount ((1/2 taxable year household income × applicable percentage) × 9/12) | 2,053  | ($31,000 × .0883 × 9/12) |
+| Premium assistance amount for R's pre-marriage months                                    | 1,847  | ($3,900 − $2,053)        |
+| Benchmark plan premium for S (Jan. to Sept.)                                             | 3,900  | (($5,200/12) × 9)        |
+| Contribution amount ((1/2 taxable year household income × applicable percentage) × 9/12) | 2,053  | ($31,000 × .0883 × 9/12) |
+| Premium assistance amount for S's pre-marriage months                                    | 1,847  | ($3,900−$2,053)          |
+| Premium assistance amount for marriage months                                            | 0      |                          |
 
 Alternative marriage-year credit (sum of premium assistance amounts for pre-marriage months and marriage months): $1,847 + 1,847 + 0 = $3,694.
 
@@ -473,4 +279,4 @@ Example 10.(i) A is married to B at the close of 2014 and they have no dependent
 
 (c) *Applicability dates.* Paragraphs (a)(1)(ii), (a)(3)(iii), (a)(4), *Examples 4, 10,11, 12,13, 14,* and *15,* (b)(3), (b)(4), and (b)(5), *Examples 9* and *10* apply to taxable years beginning after December 31, 2013. The last sentence of paragraph (a)(1)(ii)(B)(*1*), paragraph (a)(1)(ii)(B)(*2*), and paragraph (a)(1)(ii)(C) of this section apply to taxable years ending on or after December 31, 2020.
 
-\[T.D. 9590, 77 FR 30385, May 23, 2012; 77 FR 41048, July 12, 2012; 77 FR 41270, July 13, 2012, as amended by T.D. 9683, 79 FR 43627, July 28, 2014; T.D. 9822, 82 FR 34607, July 26, 2017; T.D. 9934, 85 FR 76978, Dec. 1, 2020\]
+\[T.D. 9590, 77 FR 30385, May 23, 2012; 77 FR 41048, July 12, 2012; 77 FR 41270, July 13, 2012, as amended by T.D. 9683, 79 FR 43627, July 28, 2014; T.D. 9822, 82 FR 34607, July 26, 2017; T.D. 9912, 85 FR 76978, Dec. 1, 2020\]
