@@ -1,7 +1,5 @@
 ##### § 2.99 Application to register as concurrent user.
 
-Link to an amendment published at 86 FR 64330, Nov. 17, 2021.
-
 (a) An application for registration as a lawful concurrent user will be examined in the same manner as other applications for registration.
 
 (b) If it appears that the applicant is entitled to have the mark registered, subject to a concurrent use proceeding, the mark will be published in the Official Gazette as provided by § 2.80.

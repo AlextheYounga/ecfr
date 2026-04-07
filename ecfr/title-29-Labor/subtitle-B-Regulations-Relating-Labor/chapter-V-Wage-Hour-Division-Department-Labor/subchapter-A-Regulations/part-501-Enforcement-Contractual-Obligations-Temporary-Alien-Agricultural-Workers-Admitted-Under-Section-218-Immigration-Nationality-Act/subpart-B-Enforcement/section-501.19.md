@@ -20,7 +20,7 @@
 
 (c) A civil money penalty for each violation of the work contract or a requirement of 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part will not exceed $1,787 per violation, with the following exceptions:
 
-(1) A civil money penalty for each willful violation of the work contract, or of 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part, or for each act of discrimination prohibited by § 501.4 shall not exceed $5,942;
+(1) A civil money penalty for each willful violation of the work contract, or of 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part, or for each act of discrimination prohibited by § 501.4 shall not exceed $6,012;
 
 (2) A civil money penalty for a violation of a housing or transportation safety and health provision of the work contract, or any obligation under 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part, that proximately causes the death or serious injury of any worker shall not exceed $59,528 per worker;
 

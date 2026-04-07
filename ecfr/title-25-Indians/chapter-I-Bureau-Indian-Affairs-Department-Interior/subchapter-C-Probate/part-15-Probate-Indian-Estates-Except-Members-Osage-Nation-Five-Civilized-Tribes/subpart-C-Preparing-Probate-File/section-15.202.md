@@ -1,5 +1,7 @@
 ##### § 15.202 What items must the agency include in the probate file?
 
+Link to an amendment published at 86 FR 72081, Dec. 20, 2021.
+
 We will include the items listed in this section in the probate file.
 
 (a) The evidence of death of the decedent as provided under § 15.104.
