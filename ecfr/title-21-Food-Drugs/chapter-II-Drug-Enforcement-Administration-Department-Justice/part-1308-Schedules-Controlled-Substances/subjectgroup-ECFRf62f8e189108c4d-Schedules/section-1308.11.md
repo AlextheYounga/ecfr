@@ -782,4 +782,28 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (9834). 
 
+(10) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-ADB; 5F-MDMB-PINACA)
+
+(7034) 
+
+(11) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-AMB).
+
+(7033) 
+
+(12) N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-APINACA, 5F-AKB48)
+
+(7049) 
+
+(13) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: ADB-FUBINACA)
+
+(7010) 
+
+(14) methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MDMB-CHMICA, MMB-CHMINACA)
+
+(7042) 
+
+(15) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MDMB-FUBINACA)
+
+(7020) 
+
 \[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
