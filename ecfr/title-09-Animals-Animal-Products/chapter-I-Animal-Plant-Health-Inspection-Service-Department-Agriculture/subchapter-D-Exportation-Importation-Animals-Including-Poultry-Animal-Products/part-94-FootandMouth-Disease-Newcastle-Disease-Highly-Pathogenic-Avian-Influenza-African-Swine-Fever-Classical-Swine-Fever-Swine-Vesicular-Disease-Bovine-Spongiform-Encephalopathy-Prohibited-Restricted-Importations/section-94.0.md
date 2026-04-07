@@ -6,15 +6,15 @@ As used in this part, the following terms shall have the meanings set forth in t
 
 *Animal and Plant Health Inspection Service.* The Animal and Plant Health Inspection Service, of the United States Department of Agriculture (APHIS.)
 
-*APHIS representative.* An individual employed by Animal and Plant Health Inspection Service, United States Department of Agriculture, who is authorized to perform the function involved.
-
-*APHIS-defined EU Poultry Trade Region.* The European Union Member States of Austria, Belgium, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom (England, Scotland, Wales, the Isle of Man, and Northern Ireland).
-
 *APHIS-defined European CSF region.* A single region of Europe recognized by APHIS as low risk for classical swine fever.
 
-(1) A list of areas included in the region is maintained on the APHIS Web site at *http://www.aphis.usda.gov/import\_export/animals/animal\_disease\_status.shtml.* Copies of the list will also be available via postal mail, fax, or email upon request to the Sanitary Trade Issues Team, National Center for Import and Export, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road Unit 38, Riverdale, Maryland 20737.
+(1) A list of areas included in the region is maintained on the APHIS website at *https://www.aphis.usda.gov/animalhealth/disease-status-of-regions.* Copies of the list are also available via postal mail or email upon request to Regionalization Evaluation Services, Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Unit 38, Riverdale, Maryland 20737; *AskRegionalization@usda.gov.*
 
 (2) APHIS will add an area to the region after it conducts an evaluation of the area to be added in accordance with § 92.2 of this subchapter and finds that the risk profile for the area is equivalent with respect to classical swine fever to the risk profile for the region it is joining.
+
+*APHIS-defined European Poultry Trade Region.* A single region consisting of Austria, Belgium, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Great Britain (England, Scotland, and Wales), Greece, Hungary, Ireland (Republic of), Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Northern Ireland, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and Sweden.
+
+*APHIS representative.* An individual employed by Animal and Plant Health Inspection Service, United States Department of Agriculture, who is authorized to perform the function involved.
 
 *Approved establishment* means an establishment authorized by Veterinary Services for the receipt and handling of restricted imported animal carcasses, products, and byproducts.
 

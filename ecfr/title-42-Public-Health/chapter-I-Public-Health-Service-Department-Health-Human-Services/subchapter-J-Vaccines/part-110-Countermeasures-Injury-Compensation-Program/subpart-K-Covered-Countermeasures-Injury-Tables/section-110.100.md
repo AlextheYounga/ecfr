@@ -1,5 +1,7 @@
 ##### § 110.100 Injury Tables.
 
+Link to an amendment published at 86 FR 45657, Aug. 16, 2021.
+
 (a) *Pandemic influenza countermeasures injury table.*
 
 | Covered countermeasures under Secretarial declarations                                         | Serious physical injury   (illness, disability, injury, or condition) 1        | Time interval   (for first symptom or manifestation of onset of injury after administration or use of covered countermeasure, unless otherwise specified)          |
