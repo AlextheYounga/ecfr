@@ -78,33 +78,77 @@ Table 1 to Paragraph (b)(2)(iv)(B)
 
 Table 1 to paragraph (b)(2)(vi)(B)(1)
 
-|                                                                                                                                                                                                                                                                                                                                           |       |     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
-| R's subpart F income for Year 1                                                                                                                                                                                                                                                                                                           | $100x |     |
-| Less: Reduction under section 951(a)(2)(A) for period (1-1 through 3-14) during which R is not a controlled foreign corporation ($100x × 73/365)                                                                                                                                                                                          | 20x   |     |
-| Subpart F income for Year 1 as limited by section 951(a)(2)(A)                                                                                                                                                                                                                                                                            | 80x   |     |
-| A's pro rata share of subpart F income as determined under section 951(a)(2)(A) (0.6 × $80x)                                                                                                                                                                                                                                              | 48x   |     |
-| Less: Reduction under section 951(a)(2)(B) for dividends received by B during Year 1 with respect to the stock of R indirectly acquired by A:                                                                                                                                                                                             |       |     |
-| (i) Dividend received by B ($100x) multiplied by a fraction ($100x/$400x), the numerator of which is the subpart F income of such corporation for the taxable year ($100x) and the denominator of which is the sum of the subpart F income and the tested income of such corporation for the taxable year ($400x) ($100x × ($100x/$400x)) | 25x   |     |
-| (ii) B's pro rata share (60%) of the amount which bears the same ratio to the subpart F income of such corporation for the taxable year ($100x) as the part of such year during which A did not own (within the meaning of section 958(a)) such stock bears to the entire taxable year (73/365) (0.6 × $100x × (73/365))                  | 12x   |     |
-| (iii) Amount of reduction under section 951(a)(2)(B) (lesser of (i) or (ii))                                                                                                                                                                                                                                                              |       | 12x |
-| A's pro rata share of subpart F income as determined under section 951(a)(2)                                                                                                                                                                                                                                                              | 36x   |     |
+R's subpart F income for Year 1
+
+$100x 
+
+Less: Reduction under section 951(a)(2)(A) for period (1-1 through 3-14) during which R is not a controlled foreign corporation ($100x × 73/365)
+
+20x 
+
+Subpart F income for Year 1 as limited by section 951(a)(2)(A)
+
+80x 
+
+A's pro rata share of subpart F income as determined under section 951(a)(2)(A) (0.6 × $80x)
+
+48x 
+
+Less: Reduction under section 951(a)(2)(B) for dividends received by B during Year 1 with respect to the stock of R indirectly acquired by A: 
+
+(i) Dividend received by B ($100x) multiplied by a fraction ($100x/$400x), the numerator of which is the subpart F income of such corporation for the taxable year ($100x) and the denominator of which is the sum of the subpart F income and the tested income of such corporation for the taxable year ($400x) ($100x × ($100x/$400x))
+
+25x 
+
+(ii) B's pro rata share (60%) of the amount which bears the same ratio to the subpart F income of such corporation for the taxable year ($100x) as the part of such year during which A did not own (within the meaning of section 958(a)) such stock bears to the entire taxable year (73/365) (0.6 × $100x × (73/365))
+
+12x 
+
+(iii) Amount of reduction under section 951(a)(2)(B) (lesser of (i) or (ii))
+
+12x 
+
+A's pro rata share of subpart F income as determined under section 951(a)(2)
+
+36x
 
 (*2*) *Limitation of pro rata share of tested income.* Under section 951A(e)(1) and § 1.951A-1(d)(2), A's pro rata share of the tested income of M for Year 1 is $108x, such amount being determined as follows:
 
 Table 1 to paragraph (b)(2)(vi)(B)(2)
 
-|                                                                                                                                                                                                                                                                                                                                        |       |     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
-| R's tested income for Year 1                                                                                                                                                                                                                                                                                                           | $300x |     |
-| Less: Reduction under section 951(a)(2)(A) for period (1-1 through 3-14) during which R is not a controlled foreign corporation ($300x × 73/365)                                                                                                                                                                                       | 60x   |     |
-| Tested income for Year 1 as limited by under section 951(a)(2)(A)                                                                                                                                                                                                                                                                      | 240x  |     |
-| A's pro rata share of tested income as determined under § 1.951A-1(d)(2) (0.6 × $240x)                                                                                                                                                                                                                                                 | 144x  |     |
-| Less: Reduction under section 951(a)(2)(B for dividends received by B during Year 1 with respect to the stock of R indirectly acquired by A:                                                                                                                                                                                           |       |     |
-| (i) Dividend received by B ($100x) multiplied by a fraction ($300x/$400x), the numerator of which is the tested income of such corporation for the taxable year ($300x) and the denominator of which is the sum of the subpart F income and the tested income of such corporation for the taxable year ($400x) ($100x × ($300x/$400x)) | 75x   |     |
-| (ii) B's pro rata share (60%) of the amount which bears the same ratio to the tested income of such corporation for the taxable year ($300x) as the part of such year during which A did not own (within the meaning of section 958(a)) such stock bears to the entire taxable year (73/365) (0.6 × $300x × (73/365))                  | 36x   |     |
-| (iii) Amount of reduction under section 951(a)(2)(B) (lesser of (i) or (ii))                                                                                                                                                                                                                                                           |       | 36x |
-| A's pro rata share of tested income under section 951A(e)(1)                                                                                                                                                                                                                                                                           | 108x  |     |
+R's tested income for Year 1
+
+$300x 
+
+Less: Reduction under section 951(a)(2)(A) for period (1-1 through 3-14) during which R is not a controlled foreign corporation ($300x × 73/365)
+
+60x 
+
+Tested income for Year 1 as limited by under section 951(a)(2)(A)
+
+240x 
+
+A's pro rata share of tested income as determined under § 1.951A-1(d)(2) (0.6 × $240x)
+
+144x 
+
+Less: Reduction under section 951(a)(2)(B for dividends received by B during Year 1 with respect to the stock of R indirectly acquired by A: 
+
+(i) Dividend received by B ($100x) multiplied by a fraction ($300x/$400x), the numerator of which is the tested income of such corporation for the taxable year ($300x) and the denominator of which is the sum of the subpart F income and the tested income of such corporation for the taxable year ($400x) ($100x × ($300x/$400x))
+
+75x 
+
+(ii) B's pro rata share (60%) of the amount which bears the same ratio to the tested income of such corporation for the taxable year ($300x) as the part of such year during which A did not own (within the meaning of section 958(a)) such stock bears to the entire taxable year (73/365) (0.6 × $300x × (73/365))
+
+36x 
+
+(iii) Amount of reduction under section 951(a)(2)(B) (lesser of (i) or (ii))
+
+36x 
+
+A's pro rata share of tested income under section 951A(e)(1)
+
+108x
 
 (c)-(d) \[Reserved\]
 
@@ -232,4 +276,4 @@ Example 1.Foreign corporation S has two classes of capital stock outstanding, co
 
 (i) *Applicability dates.* Paragraphs (a), (b)(1)(ii), (b)(2), (e)(1)(ii)(B), and (g)(1) of this section apply to taxable years of foreign corporations beginning after December 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end. Except for paragraph (e)(1)(ii)(B) of this section, paragraph (e) of this section applies to taxable years of United States shareholders ending on or after October 3, 2018. Paragraph (h) of this section applies to taxable years of domestic partnerships ending on or after May 14, 2010.
 
-\[T.D. 6795, 30 FR 935, Jan. 29, 1965, as amended by T.D. 7893, 48 FR 22507, May 19, 1983; T.D. 9222, 70 FR 49866, Aug. 25, 2005; 70 FR 67906, Nov. 9, 2005; T.D. 9251, 71 FR 8944, Feb. 22, 2006; T.D. 9866, 84 FR 29337, June 21, 2019; 84 FR 44223, Aug. 23, 2019\]
+\[T.D. 6795, 30 FR 935, Jan. 29, 1965, as amended by T.D. 7893, 48 FR 22507, May 19, 1983; T.D. 9222, 70 FR 49866, Aug. 25, 2005; 70 FR 67906, Nov. 9, 2005; T.D. 9251, 71 FR 8944, Feb. 22, 2006; T.D. 9866, 84 FR 29337, June 21, 2019; 84 FR 44223, Aug. 23, 2019; 84 FR 53052, Oct. 4, 2019\]
