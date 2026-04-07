@@ -313,7 +313,7 @@ The late and prevented planting provisions of the Basic Provisions are not appli
 
 (2) You have not elected coverage under the Catastrophic Risk Protection Endorsement.
 
-(b) In lieu of the provisions contained in section 14(c)(3) and 14(c)(4) of these Crop Provisions, the total value of harvested production will be determined as follows:
+(b) In lieu of the provisions contained in sections 14(c)(3) and 14(c)(4) of these Crop Provisions, the total value of harvested production will be determined as follows:
 
 (1) For sold harvested production, the dollar amount obtained by subtracting the allowable cost contained in the actuarial documents from the price received for each carton of fresh market tomatoes in the load (this result may not be less than the minimum value option price contained in the actuarial documents for any carton of tomatoes sold), and multiplying this result by the number of cartons of fresh market tomatoes sold; and
 
@@ -329,7 +329,7 @@ $5,250
 
 16(b)(1)
 
-500 cartons × $2 = value of sold production ($6 price received minus $4.25 allowable costs = $1.75. $2.00 minimum value option price is greater than $1.75)
+500 cartons × $2 = value of sold production ($6 price received minus $4.25 allowable costs = $1.75. The $2.00 minimum value option price is greater than $1.75)
 
 1,000 
 
@@ -353,4 +353,4 @@ $3,750 × 10.0 acres = $37,500 total indemnity payment
 
 37,500
 
-\[62 FR 14777, Mar. 28, 1997; 62 FR 63634, Dec. 2, 1997, as amended at 62 FR 65174, Dec. 10, 1997; 77 FR 22469, Apr. 16, 2012; 87 FR 38896, June 30, 2022\]
+\[62 FR 14777, Mar. 28, 1997; 62 FR 63634, Dec. 2, 1997, as amended at 62 FR 65174, Dec. 10, 1997; 77 FR 22469, Apr. 16, 2012; 87 FR 38896, June 30, 2022; 87 FR 52853, Aug. 30, 2022\]
