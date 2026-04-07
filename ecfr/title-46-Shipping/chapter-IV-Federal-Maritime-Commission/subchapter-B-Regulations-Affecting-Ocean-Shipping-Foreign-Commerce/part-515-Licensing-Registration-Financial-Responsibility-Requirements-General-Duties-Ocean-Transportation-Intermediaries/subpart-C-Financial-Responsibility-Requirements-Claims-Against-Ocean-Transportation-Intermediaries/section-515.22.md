@@ -1,7 +1,5 @@
 ##### § 515.22 Proof of financial responsibility.
 
-Link to an amendment published at 84 FR 62468, Nov. 15, 2019.
-
 Prior to the date it commences furnishing ocean transportation intermediary services, every ocean transportation intermediary shall establish its financial responsibility for the purpose of this part by one of the following methods:
 
 (a) Surety bond, by filing with the Commission a valid bond on Form FMC-48. Bonds must be issued by a surety company found acceptable by the Secretary of the Treasury;
@@ -46,6 +44,6 @@ Prior to the date it commences furnishing ocean transportation intermediary serv
 
 (ii) in the case of insurance and guaranty, a firm having a financial rating of Class V or higher under the Financial Size Categories of A.M. Best & Company or equivalent from an acceptable international rating organization, Underwriters at Lloyd's, or surplus line insurers named on a current “white list” issued by the Non-Admitted Insurers' Information Office of the National Association of Insurance Commissioners and issued by such firms on Form FMC-67 and Form FMC-68, respectively.
 
-(e) All forms and documents for establishing financial responsibility of ocean transportation intermediaries prescribed in this section shall be submitted to the Director, Bureau of Certification and Licensing, Federal Maritime Commission, Washington, DC 20573. Such forms and documents must clearly identify the name; trade name, if any; and the address of each ocean transportation intermediary.
+(e) All forms and documents for establishing financial responsibility of ocean transportation intermediaries prescribed in this section shall be submitted to the Director, Bureau of Certification and Licensing, via email to *bcl@fmc.gov*. Such forms and documents must clearly identify the principal's name; trade name, if any; address; the state of incorporation/formation; and the printed name and title of the signatory.
 
-\[64 FR 11171, Mar. 8, 1999, as amended at 67 FR 39860, June 11, 2002; 74 FR 50719, Oct. 1, 2009\]
+\[64 FR 11171, Mar. 8, 1999, as amended at 67 FR 39860, June 11, 2002; 74 FR 50719, Oct. 1, 2009; 84 FR 62468, Nov. 15, 2019\]

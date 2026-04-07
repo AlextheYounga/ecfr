@@ -1,7 +1,5 @@
 ##### § 515.11 Basic requirements for licensing; eligibility.
 
-Link to an amendment published at 84 FR 62467, Nov. 15, 2019.
-
 (a) *Necessary qualifications.* To be eligible for an ocean transportation intermediary license, the applicant must demonstrate to the Commission that:
 
 (1) It possesses the necessary experience, that is, its qualifying individual has a minimum of three (3) years' experience in ocean transportation intermediary activities in the United States, and the necessary character to render ocean transportation intermediary services. A foreign NVOCC seeking to be licensed under this part must demonstrate that its qualifying individual has a minimum 3 years' experience in ocean transportation intermediary activities, and the necessary character to render ocean transportation intermediary services. The required OTI experience of the QI of a foreign-based NVOCC seeking to become licensed under this part (foreign-based licensed NVOCC) may be experience acquired in the U.S. or a foreign country with respect to shipments in the United States oceanborne foreign commerce.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 62467, Nov. 15, 2019.
 
 (1) *Sole proprietorship.* The applicant sole proprietor.
 
-(2) *Partnership.* At least one of the active managing partners.
+(2) *Partnership.* At least one of the active managing partners, unless the partners are entities, such as corporations, in which case an officer, member, or manager of one of the entities as long as the entity is a general partner.
 
 (3) *Corporation.* At least one of the active corporate officers.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 84 FR 62467, Nov. 15, 2019.
 
 (e) *Foreign-based licensed NVOCC.* A foreign-based NVOCC that elects to obtain a license must establish a presence in the United States by opening an unincorporated office that is resident in the United States and is qualified to do business where it is located.
 
-\[80 FR 68732, Nov. 5, 2015\]
+\[80 FR 68732, Nov. 5, 2015, as amended at 84 FR 62467, Nov. 15, 2019\]

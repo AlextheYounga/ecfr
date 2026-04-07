@@ -1,7 +1,5 @@
 ##### § 515.20 Changes in organization.
 
-Link to an amendment published at 84 FR 62468, Nov. 15, 2019.
-
 (a) *Licenses.* The following changes in an existing licensee's organization require prior approval of the Commission, and application for such status change or license transfer shall be made on Form FMC-18, filed with the Commission's Bureau of Certification and Licensing, and accompanied by the fee required under § 515.5(c):
 
 (1) Transfer of a corporate license to another person;
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 62468, Nov. 15, 2019.
 
 (3) Any change in the business structure of a licensee from or to a sole proprietorship, partnership, limited liability company, or corporation, whether or not such change involves a change in ownership;
 
-(4) Any change in a licensee's name; or
+(4) Any change in a licensee's name, including adding or deleting a trade name relating to its OTI services; or
 
 (5) Change in the identity or status of the designated QI, except as described in paragraphs (b) and (c) of this section.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 84 FR 62468, Nov. 15, 2019.
 
 (e) *Other changes.* Other changes in material fact of a licensee shall be reported within thirty (30) days of such changes, in writing by mail or email (*bcl@fmc.gov*) to the Director, Bureau of Certification and Licensing, Federal Maritime Commission, Washington, DC 20573. Material changes include, but are not limited to: Changes in business address; any criminal indictment or conviction of a licensee, QI, or officer; any voluntary or involuntary bankruptcy filed by or naming a licensee, QI, or officer; changes of five (5) percent or more of the common equity ownership or voting securities of the OTI; or, the addition or reduction of one or more partners of a licensed partnership, one or more members or managers of a Limited Liability Company, or one or more branch offices. No fee shall be charged for reporting such changes.
 
-\[80 FR 68734, Nov. 5, 2015\]
+\[80 FR 68734, Nov. 5, 2015, as amended at 84 FR 62468, Nov. 15, 2019\]

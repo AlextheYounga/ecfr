@@ -1,7 +1,5 @@
 ##### § 515.23 Claims against an ocean transportation intermediary.
 
-Link to an amendment published at 84 FR 62468, Nov. 15, 2019.
-
 (a) *Who may seek payment.* Shippers, common carriers, and other affected persons may seek payment from the bond, insurance, or other surety maintained by an ocean transportation intermediary for damages arising out of its ocean transportation-related activities. The Commission may also seek payment of civil penalties assessed under section 13 of the Shipping Act (46 U.S.C. 41107-41109).
 
 (b) *Payment pursuant to a claim.* (1) If a person does not file a complaint with the Commission pursuant to section 11 of the Shipping Act (46 U.S.C. 41301-41302, 41305-41307(a)), but otherwise seeks to pursue a claim against an ocean transportation intermediary bond, insurance, or other surety for damages arising from its transportation-related activities, it shall attempt to resolve its claim with the financial responsibility provider prior to seeking payment on any judgment for damages obtained. When a claimant seeks payment under this section, it simultaneously shall notify both the financial responsibility provider and the ocean transportation intermediary of the claim by mail or courier service. The bond, insurance, or other surety may be available to pay such claim if:
@@ -16,10 +14,10 @@ Link to an amendment published at 84 FR 62468, Nov. 15, 2019.
 
 (2) Notices described in paragraph (c)(1) of this section shall be promptly submitted in writing by mail or email (*bcl@fmc.gov*) to the Director, Bureau of Certification and Licensing, Federal Maritime Commission, Washington, DC 20573.
 
-(3) Notices required by this section shall include the name of the claimant, name of the court and case number assigned, and the name and license number of the OTI involved. Such notices may include or attach other information relevant to the claim.
+(3) Notices required by this section shall include the name of the claimant, name of the court and case number assigned, and the name and license or organization number of the OTI involved. Such notices may include or attach other information relevant to the claim.
 
 (d) The Federal Maritime Commission shall not serve as depository or distributor to third parties of bond, guaranty, or insurance funds in the event of any claim, judgment, or order for reparation.
 
 (e) *Optional bond riders.* The Federal Maritime Commission shall not serve as a depository or distributor to third parties of funds payable pursuant to optional bond riders described in § 515.25(b).
 
-\[80 FR 68735, Nov. 5, 2015\]
+\[80 FR 68735, Nov. 5, 2015, as amended at 84 FR 62468, Nov. 15, 2019\]
