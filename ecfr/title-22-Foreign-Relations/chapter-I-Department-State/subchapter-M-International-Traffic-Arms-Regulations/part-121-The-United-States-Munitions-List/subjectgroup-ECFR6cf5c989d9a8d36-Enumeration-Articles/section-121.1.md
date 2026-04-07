@@ -1740,7 +1740,7 @@ Note 2 to paragraph (a):
 
 Paragraphs (a)(3)(xxix) and (a)(12) include terrain contour mapping equipment, scene mapping and correlation (both digital and analogue) equipment, Doppler navigation radar equipment, passive interferometer equipment, and imaging sensor equipment (both active and passive).
 
-\*(b) Electronic systems or equipment, not elsewhere enumerated in this subchapter, specially designed for intelligence purposes that collect, survey, monitor, or exploit the electromagnetic spectrum (regardless of transmission medium), or for counteracting such activities.
+\*(b) Electronic systems, equipment or software, not elsewhere enumerated in this subchapter, specially designed for intelligence purposes that collect, survey, monitor, or exploit, or analyze and produce information from, the electromagnetic spectrum (regardless of transmission medium), or for counteracting such activities.
 
 (c) Parts, components, accessories, attachments, and associated equipment, as follows:
 
