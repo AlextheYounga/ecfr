@@ -34,10 +34,6 @@ Consistent with section 906(a)(1) of the Trade Sanctions Reform and Export Enhan
 
 (ii) *Excluded medical devices.* Paragraph (a)(3)(i) of this section does not authorize the exportation or reexportation of medical devices on the List of Medical Devices Requiring Specific Authorization, which is maintained on OFAC's Web site (*www.treasury.gov/ofac*) on the Iran Sanctions page.
 
-Note to Paragraph (a)(3)(ii) of § 560.530:
-
-The List of Medical Supplies is maintained on OFAC's Web site (*www.treasury.gov/ofac*) on the Iran Sanctions page. The list also will be published in the Federal Register, as will any changes to the list. The List of Medical Supplies contains those medical devices for which OFAC previously did not require an Official Commodity Classification of EAR99 issued by the Department of Commerce's Bureau of Industry and Security to be submitted with a specific license application and which are now generally licensed.
-
 (iii) *Excluded medicines.* Paragraph (a)(3)(i) of this section does not authorize the exportation or reexportation of the following medicines: non-NSAID analgesics, cholinergics, anticholinergics, opioids, narcotics, benzodiazapenes, and bioactive peptides.
 
 (iv) *Excluded persons.* Paragraph (a)(3)(i) of this section does not authorize the exportation or reexportation of medicine or medical devices to military, intelligence, or law enforcement purchasers or importers.
