@@ -1,14 +1,14 @@
 ##### § 1308.14 Schedule IV.
 
-(a) Schedule IV shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
+(a) Schedule IV shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it. 
 
-(b) *Narcotic drugs.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing any of the following narcotic drugs, or their salts calculated as the free anhydrous base or alkaloid, in limited quantities as set forth below:
+(b) *Narcotic drugs.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing any of the following narcotic drugs, or their salts calculated as the free anhydrous base or alkaloid, in limited quantities as set forth below: 
 
 | (1) Not more than 1 milligram of difenoxin and not less than 25 micrograms of atropine sulfate per dosage unit                                            | 9167 |
 | (2) Dextropropoxyphene (alpha-(+)-4-dimethylamino-1,2-diphenyl-3-methyl-2-propionoxybutane)                                                               | 9278 |
 | (3) 2-\[(dimethylamino)methyl\]-1-(3-methoxyphenyl)cyclohexanol, its salts, optical and geometric isomers and salts of these isomers (including tramadol) | 9752 |
 
-(c) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
+(c) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation: 
 
 | (1) Alfaxalone                           | 2731 |
 | (2) Alprazolam                           | 2882 |
@@ -71,13 +71,13 @@
 | (59) Zopiclone                           | 2784 |
 | (60) Zuranolone                          | 2420 |
 
-(d) \[Reserved\]
+(d) \[Reserved\] 
 
-(e) *Lorcaserin.* Any material, compound, mixture, or preparation which contains any quantity of the following substances, including its salts, isomers, and salts of such isomers, whenever the existence of such salts, isomers, and salts of isomers is possible:
+(e) *Lorcaserin.* Any material, compound, mixture, or preparation which contains any quantity of the following substances, including its salts, isomers, and salts of such isomers, whenever the existence of such salts, isomers, and salts of isomers is possible: 
 
 | (1) Lorcaserin | 1625 |
 
-(f) *Stimulants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers and salts of isomers:
+(f) *Stimulants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers and salts of isomers: 
 
 | (1) Cathine ((+)-norpseudoephedrine)                                                                  | 1230 |
 | (2) Diethylpropion                                                                                    | 1610 |
@@ -94,7 +94,7 @@
 | (13) Solriamfetol (2-amino-3-phenylpropyl carbamate; benzenepropanol, beta-amino-, carbamate (ester)) | 1650 |
 | (14) SPA ((-)-1-dimethylamino- 1,2-diphenylethane)                                                    | 1635 |
 
-(g) *Other substances.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture or preparation which contains any quantity of the following substances, including its salts:
+(g) *Other substances.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture or preparation which contains any quantity of the following substances, including its salts: 
 
 | (1) Pentazocine                                                                                                                                                                                                                                                     | 9709 |
 | (2) Butorphanol (including its optical isomers)                                                                                                                                                                                                                     | 9720 |

@@ -1,29 +1,27 @@
 ##### § 512.520 Participation tracks.
 
-(a) *For performance year 1:* (1) Any TEAM participant may choose to participate in Track 1 or Track 3.
+(a) *For performance year 1:* (1) Any TEAM participant may choose to participate in Track 1 or Track 3. 
 
-(2) The TEAM participant must notify CMS of its track choice, prior to performance year 1, in a form and manner and by a date specified by CMS.
+(2) The TEAM participant must notify CMS of its track choice, prior to performance year 1, in a form and manner and by a date specified by CMS. 
 
-(3) CMS assigns the TEAM participant to Track 1 for performance year 1 if a TEAM participant does not choose a track in the form and manner and by the date specified by CMS.
+(3) CMS assigns the TEAM participant to Track 1 for performance year 1 if a TEAM participant does not choose a track in the form and manner and by the date specified by CMS. 
 
-(b) *For performance years 2 through 5:* (1) CMS assigns a TEAM participant to participate in Track 3 unless the TEAM participant requests to participate in Track 1 or Track 2 and receives approval from CMS to participate in Track 1 or Track 2, with the exception that a TEAM participant cannot request participation in Track 1 for performance years 4 and 5.
+(b) *For performance years 2 through 5:* (1) CMS assigns a TEAM participant to participate in Track 3 unless the TEAM participant requests to participate in Track 1 or Track 2 and receives approval from CMS to participate in Track 1 or Track 2, with the exception that a TEAM participant cannot request participation in Track 1 for performance years 4 and 5. 
 
-(2) The TEAM participant must notify CMS of its Track 1 or Track 2 request prior to performance year 2, and prior to every performance year thereafter, as applicable, in a form and manner and by a date specified by CMS.
+(2) The TEAM participant must notify CMS of its Track 1 or Track 2 request prior to performance year 2, and prior to every performance year thereafter, as applicable, in a form and manner and by a date specified by CMS. 
 
-(3) CMS does not approve a TEAM participant's request to participate in Track 1 submitted in accordance with paragraph (b)(2) of this section unless the TEAM participant is a safety net hospital, as defined in § 512.505, at the time of the request.
+(3) CMS does not approve a TEAM participant's request to participate in Track 1 submitted in accordance with paragraph (b)(2) of this section unless the TEAM participant is a safety net hospital, as defined in § 512.505, at the time of the request. 
 
-(4) CMS does not approve a TEAM participant's request to participate in Track 2 submitted in accordance with paragraph (b)(2) of this section unless the TEAM participant is one of the following hospital types at the time of the request:
+(4) CMS does not approve a TEAM participant's request to participate in Track 2 submitted in accordance with paragraph (b)(2) of this section unless the TEAM participant is one of the following hospital types at the time of the request: 
 
-(i) Medicare-dependent hospital (as defined in § 512.505) and the Medicare Dependent Hospital program, as authorized by statute, is not expired at the time Track 2 selections are due, as described in paragraph (b)(2) of this section.
+(i) Medicare-dependent hospital (as defined in § 512.505). 
 
-(ii) Rural hospital (as defined in § 512.505).
+(ii) Rural hospital (as defined in § 512.505). 
 
-(iii) Safety Net hospital (as defined in § 512.505).
+(iii) Safety Net hospital (as defined in § 512.505). 
 
-(iv) Sole community hospital (as defined in § 512.505).
+(iv) Sole community hospital (as defined in § 512.505). 
 
-(v) Essential access community hospital (as defined in § 512.505).
+(v) Essential access community hospital (as defined in § 512.505). 
 
 (5) A TEAM participant who does not notify CMS of its Track 1 or Track 2 request prior to a given performance year in the form and manner and by the date specified by CMS or who is not a safety net hospital, as defined as defined in § 512.505, or one of the hospital types specified in paragraph (b)(4) of this section at the time of the request is assigned to Track 3 for the applicable performance year.
-
-\[89 FR 69914, Aug. 28, 2024, as amended at 90 FR 37204, Aug. 4, 2025\]

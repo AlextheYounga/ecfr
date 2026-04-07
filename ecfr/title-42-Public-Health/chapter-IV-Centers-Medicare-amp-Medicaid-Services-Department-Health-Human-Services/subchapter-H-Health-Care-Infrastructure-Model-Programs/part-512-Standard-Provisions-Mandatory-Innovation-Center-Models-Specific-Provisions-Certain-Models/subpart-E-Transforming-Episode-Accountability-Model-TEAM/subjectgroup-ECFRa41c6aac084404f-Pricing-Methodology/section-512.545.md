@@ -1,339 +1,227 @@
 ##### § 512.545 Determination of reconciliation target prices.
 
-CMS calculates the reconciliation target price as follows:
+CMS calculates the reconciliation target price as follows: 
 
-(a) CMS risk adjusts the preliminary episode target prices computed under § 512.540 at the beneficiary level using a TEAM Hierarchical Condition Category (HCC) count risk adjustment factor, an age bracket risk adjustment factor, a beneficiary economic risk adjustment factor, and at the hospital level using a hospital bed size risk adjustment factor and a safety net hospital risk adjustment factor, and at the episode category-specific beneficiary level using factors specified in paragraphs (a)(6)(i) through (v) of this section.
+(a) CMS risk adjusts the preliminary episode target prices computed under § 512.540 at the beneficiary level using a TEAM Hierarchical Condition Category (HCC) count risk adjustment factor, an age bracket risk adjustment factor, a social need risk adjustment factor, and at the hospital level using a hospital bed size risk adjustment factor and a safety net hospital risk adjustment factor, and at the episode category-specific beneficiary level using factors specified in paragraph (a)(6)(i) through (v) of this section. 
 
-(1) The TEAM HCC count risk adjustment factor uses five variables, representing beneficiaries with zero, one, two, three, or four or more CMS-HCC conditions based on a 180-day lookback period that ends on the day prior to the anchor hospitalization or anchor procedure.
+(1) The TEAM HCC count risk adjustment factor uses five variables, representing beneficiaries with zero, one, two, three, or four or more CMS-HCC conditions based on a lookback period that ends on the day prior to the anchor hospitalization or anchor procedure. 
 
-(2) The age bracket risk adjustment factor uses four variables, representing beneficiaries in the following age groups as of the first day of the episode:
+(2) The age bracket risk adjustment factor uses four variables, representing beneficiaries in the following age groups as of the first day of the episode: 
 
-(i) Less than 65 years.
+(i) Less than 65 years. 
 
-(ii) 65 to less than 75 years.
+(ii) 65 to less than 75 years. 
 
-(iii) 75 years to less than 85 years.
+(iii) 75 years to less than 85 years. 
 
-(iv) 85 years or more.
+(iv) 85 years or more. 
 
-(3) The beneficiary economic risk adjustment factor uses two variables, representing beneficiaries that, as of the first day of the episode—
+(3) The social need risk adjustment factor uses two variables, representing beneficiaries that, as of the first day of the episode— 
 
-(i) Meet one or more of the following economic measures:
+(i) Meet one or more of the following measures of social need: 
 
-(A) \[Reserved\]
+(A) State ADI above the 8th decile. 
 
-(B) National CDI above the 80th percentile.
+(B) National ADI above the 80th percentile. 
 
-(C) Eligibility for the low-income subsidy.
+(C) Eligibility for the low-income subsidy. 
 
-(D) Eligibility for full Medicaid benefits.
+(D) Eligibility for full Medicaid benefits. 
 
-(ii) Do not meet any of the three economic measures in paragraph (a)(3)(i) of this section.
+(ii) Do not meet any of the three measures of social need in § 512.545(a)(1)(iii)(A). 
 
-(4) The hospital bed size risk adjustment factor uses four variables based on the TEAM participant's characteristics:
+(4) The hospital bed size risk adjustment factor uses four variables based on the TEAM participant's characteristics: 
 
-(i) 250 beds or fewer.
+(i) 250 beds or fewer. 
 
-(ii) 251-500 beds.
+(ii) 251-500 beds. 
 
-(iii) 501-850 beds.
+(iii) 501-850 beds. 
 
-(iv) 850 beds or more.
+(iv) 850 beds or more. 
 
-(5) The safety net hospital risk adjustment factor is based on the TEAM participant meeting the definition of safety net hospital, as defined in § 512.505.
+(5) The safety net hospital risk adjustment factor is based on the TEAM participant meeting the definition of safety net hospital, as defined in § 512.505. 
 
-(6) Episode category-specific beneficiary level risk adjustment factors represent the presence or absence in beneficiaries, based on a 180-day lookback period that ends on the day prior to the anchor hospitalization or anchor procedure, of each of the following conditions:
+(6) Episode category-specific beneficiary level risk adjustment factors represent the presence or absence in beneficiaries, as of the first day of the episode, of each of the following conditions: 
 
-(i) CABG episode category.
+(i) CABG episode category. 
 
-(A) Prior post-acute care use.
+(A) Prior post-acute care use. 
 
-(B) HCC 37: Diabetes with Chronic Complications.
+(B) HCC 18: Diabetes with Chronic Complications. 
 
-(C) HCC 48: Morbid Obesity.
+(C) HCC 46: Severe Hematological Disorders. 
 
-(D) HCC 125: Dementia, Severe.
+(D) HCC 58: Major Depressive, Bipolar, and Paranoid Disorders. 
 
-(E) HCC 126: Dementia, Moderate.
+(E) HCC 84: Cardio-Respiratory Failure and Shock. 
 
-(F) HCC 127: Dementia, Mild or Unspecified.
+(F) HCC 85: Congestive Heart Failure. 
 
-(G) HCC 155: Major Depression, Moderate or Severe, without Psychosis.
+(G) HCC 86: Acute Myocardial Infarction. 
 
-(H) HCC 199: Parkinson and Other Degenerative Disease of Basal Ganglia.
+(H) HCC 96: Specified Heart Arrhythmias. 
 
-(I) HCC 213: Cardio-Respiratory Failure and Shock.
+(I) HCC 103: Hemiplegia/Hemiparesis. 
 
-(J) HCC 224: Acute on Chronic Heart Failure.
+(J) HCC 111: Chronic Obstructive Pulmonary Disease. 
 
-(K) HCC 226: Heart Failure, Except End-Stage and Acute.
+(K) HCC 112: Fibrosis of Lung and Other Chronic Lung Disorders. 
 
-(L) HCC 228: Acute Myocardial Infarction.
+(L) HCC 134: Dialysis Status. 
 
-(M) HCC 229: Unstable Angina and Other Acute Ischemic Heart Disease.
+(ii) LEJR episode category. 
 
-(N) HCC 238: Specified Heart Arrhythmias.
+(A) Ankle procedure or reattachment, partial hip procedure, partial knee arthroplasty, total hip arthroplasty or hip resurfacing procedure, and total knee arthroplasty. 
 
-(O) HCC 249: Ischemic or Unspecified Stroke.
+(B) Disability as the original reason for Medicare enrollment. 
 
-(P) HCC 253: Hemiplegia/Hemiparesis.
+(C) Dementia without complications. 
 
-(Q) HCC 263: Atherosclerosis of Arteries of the Extremities with Ulceration or Gangrene.
+(D) Prior post-acute care use. 
 
-(R) HCC 280: Chronic Obstructive Pulmonary Disease, Interstitial Lung Disorders, and Other Chronic Lung Disorders.
+(E) HCC 8: Metastatic Cancer and Acute Leukemia. 
 
-(S) HCC 298: Severe Diabetic Eye Disease, Retinal Vein Occlusion, and Vitreous Hemorrhage.
+(F) HCC 18: Diabetes with Chronic Complications. 
 
-(T) HCC 326: Chronic Kidney Disease, Stage 5.
+(G) HCC 22: Morbid Obesity. 
 
-(U) HCC 327: Chronic Kidney Disease, Severe (Stage 4).
+(H) HCC 58: Major Depressive, Bipolar, and Paranoid Disorders. 
 
-(V) HCC 383: Chronic Ulcer of Skin, Except Pressure, Not Specified as Through to Bone or Muscle.
+(I) HCC 78: Parkinson's and Huntington's Diseases. 
 
-(W) \[Reserved\]
+(J) HCC 85: Congestive Heart Failure. 
 
-(X) HCC 409: Amputation Status, Lower Limb/Amputation Complications.
+(K) HCC 86: Acute Myocardial Infarction. 
 
-(ii) LEJR episode category.
+(L) HCC 103: Hemiplegia/Hemiparesis. 
 
-(A) Ankle procedure or reattachment, partial hip procedure, partial knee arthroplasty, total hip arthroplasty or hip resurfacing procedure, and total knee arthroplasty.
+(M) HCC 111: Chronic Obstructive Pulmonary Disease. 
 
-(B) Disability as the original reason for Medicare enrollment.
+(N) HCC 112: Fibrosis of Lung and Other Chronic Lung Disorders. 
 
-(C) Prior post-acute care use.
+(O) HCC 134: Dialysis Status. 
 
-(D) HCC 17: Cancer Metastatic to Lung, Liver, Brain, and Other Organs; Acute Myeloid Leukemia Except Promyelocytic.
+(P) HCC 170: Hip Fracture/Dislocation. 
 
-(E) HCC 36: Diabetes with Severe Acute Complications.
+(iii) Major Bowel Procedure episode category. 
 
-(F) HCC 37: Diabetes with Chronic Complications.
+(A) Long-term institutional care use. 
 
-(G) HCC 48: Morbid Obesity.
+(B) HCC 11: Colorectal, Bladder, and Other Cancers. 
 
-(H) HCC 125: Dementia, Severe.
+(C) HCC 18: Diabetes with Chronic Complications. 
 
-(I) HCC 126: Dementia, Moderate.
+(D) HCC 21: Protein-Calorie Malnutrition. 
 
-(J) HCC 127: Dementia, Mild or Unspecified.
+(E) HCC 33: Intestinal Obstruction/Perforation. 
 
-(K) HCC 151: Schizophrenia.
+(F) HCC 82: Respirator Dependence/Tracheostomy Status. 
 
-(L) HCC 155: Major Depression, Moderate or Severe, without Psychosis.
+(G) HCC 85: Congestive Heart Failure. 
 
-(M) HCC 199: Parkinson and Other Degenerative Disease of Basal Ganglia.
+(H) HCC 86: Acute Myocardial Infarction. 
 
-(N) HCC 224: Acute on Chronic Heart Failure.
+(I) HCC 103: Hemiplegia/Hemiparesis. 
 
-(O) HCC 225: Acute Heart Failure (Excludes Acute on Chronic).
+(J) HCC 111: Chronic Obstructive Pulmonary Disease. 
 
-(P) HCC 226: Heart Failure, Except End-Stage and Acute.
+(K) HCC 112: Fibrosis of Lung and Other Chronic Lung Disorders. 
 
-(Q) HCC 238: Specified Heart Arrhythmias.
+(L) HCC 134: Dialysis Status. 
 
-(R) HCC 253: Hemiplegia/Hemiparesis.
+(M) HCC 188: Artificial Openings for Feeding or Elimination. 
 
-(S) HCC 267: Deep Vein Thrombosis and Pulmonary Embolism.
+(iv) SHFFT episode category. 
 
-(T) HCC 280: Chronic Obstructive Pulmonary Disease, Interstitial Lung Disorders, and Other Chronic Lung Disorders.
+(A) HCC 18: Diabetes with Chronic Complications. 
 
-(U) \[Reserved\]
+(B) HCC 22: Morbid Obesity. 
 
-(V) HCC 326: Chronic Kidney Disease, Stage 5.
+(C) HCC 82: Respirator Dependence/Tracheostomy Status. 
 
-(W) HCC 327: Chronic Kidney Disease, Severe (Stage 4).
+(D) HCC 83: Respiratory Arrest. 
 
-(X) HCC 383: Chronic Ulcer of Skin, Except Pressure, Not Specified as Through to Bone or Muscle.
+(E) HCC 84: Cardio-Respiratory Failure and Shock. 
 
-(Y) HCC402: Hip Fracture/Dislocation.
+(F) HCC 85: Congestive Heart Failure. 
 
-(iii) Major Bowel Procedure episode category.
+(G) HCC 86: Acute Myocardial Infarction. 
 
-(A) Long-term institutional care use.
+(H) HCC 96: Specified Heart Arrhythmias. 
 
-(B) HCC 17: Cancer Metastatic to Lung, Liver, Brain, and Other Organs; Acute Myeloid Leukemia Except Promyelocytic.
+(I) HCC 103: Hemiplegia/Hemiparesis. 
 
-(C) HCC 22: Bladder, Colorectal, and Other Cancers.
+(J) HCC 111: Chronic Obstructive Pulmonary Disease. 
 
-(D) HCC 37: Diabetes with Chronic Complications.
+(K) HCC 112: Fibrosis of Lung and Other Chronic Lung Disorders. 
 
-(E) HCC 48: Morbid Obesity.
+(L) HCC 134: Dialysis Status. 
 
-(F) HCC 78: Intestinal Obstruction/Perforation.
+(M) HCC 157: Pressure Ulcer of Skin with Necrosis Through to Muscle, Tendon, or Bone. 
 
-(G) HCC 125: Dementia, Severe.
+(N) HCC 158: Pressure Ulcer of Skin with Full Thickness Skin Loss. 
 
-(H) HCC 126: Dementia, Moderate.
+(O) HCC 161: Chronic Ulcer of Skin, Except Pressure. 
 
-(I) HCC 127: Dementia, Mild or Unspecified.
+(P) HCC 170: Hip Fracture/Dislocation. 
 
-(J) HCC 151: Schizophrenia.
+(v) Spinal Fusion episode category. 
 
-(K) HCC 155: Major Depression, Moderate or Severe, without Psychosis.
+(A) Prior post-acute care use. 
 
-(L) HCC 199: Parkinson and Other Degenerative Disease of Basal Ganglia.
+(B) HCC 8: Metastatic Cancer and Acute Leukemia. 
 
-(M) HCC 201: Seizure Disorders and Convulsions.
+(C) HCC 18: Diabetes with Chronic Complications. 
 
-(N) HCC 211: Respirator Dependence/Tracheostomy Status/Complications.
+(D) HCC 22: Morbid Obesity. 
 
-(O) HCC 213: Cardio-Respiratory Failure and Shock.
+(E) HCC 40: Rheumatoid Arthritis and Inflammatory Connective Tissue Disease. 
 
-(P) HCC 224: Acute on Chronic Heart Failure.
+(F) HCC 58: Major Depressive, Bipolar, and Paranoid Disorders. 
 
-(Q) HCC 226: Heart Failure, Except End-Stage and Acute.
+(G) HCC 85: Congestive Heart Failure. 
 
-(R) HCC 238: Specified Heart Arrhythmias.
+(H) HCC 86: Acute Myocardial Infarction. 
 
-(S) HCC 253: Hemiplegia/Hemiparesis.
+(I) HCC 96: Specified Heart Arrhythmias. 
 
-(T) HCC 267: Deep Vein Thrombosis and Pulmonary Embolism.
+(J) HCC 103: Hemiplegia/Hemiparesis. 
 
-(U) HCC 280: Chronic Obstructive Pulmonary Disease, Interstitial Lung Disorders, and Other Chronic Lung Disorders.
+(K) HCC 111: Chronic Obstructive Pulmonary Disease. 
 
-(V) HCC 326: Chronic Kidney Disease, Stage 5.
+(L) HCC 112: Fibrosis of Lung and Other Chronic Lung Disorders. 
 
-(W) HCC 327: Chronic Kidney Disease, Severe (Stage 4).
+(M) HCC 134: Dialysis Status. 
 
-(X) HCC 383: Chronic Ulcer of Skin, Except Pressure, Not Specified as Through to Bone or Muscle.
+(b) All risk adjustment factors are computed prior to the start of the performance year via a linear regression analysis. The regression analysis is computed using 3 years of claims data as follows: 
 
-(Y) HCC 463: Artificial Openings for Feeding or Elimination.
+(1) For performance year 1, CMS uses claims data with dates of service dated January 1, 2022 to December 31, 2024. 
 
-(iv) SHFFT episode category.
+(2) For performance year 2, CMS uses claims data with dates of service dated January 1, 2023 to December 31, 2025. 
 
-(A) HCC 36: Diabetes with Severe Acute Complications.
+(3) For performance year 3, CMS uses claims data with dates of service dated January 1, 2024 to December 31, 2026. 
 
-(B) HCC 37: Diabetes with Chronic Complications.
+(4) For performance year 4, CMS uses claims data with dates of service dated January 1, 2025 to December 31, 2027. 
 
-(C) HCC 38: Diabetes with Glycemic, Unspecified, or No Complications.
+(5) For performance year 5, CMS uses claims data with dates of service dated January 1, 2026 to December 30, 2028. 
 
-(D) HCC 48: Morbid Obesity.
+(c) The annual linear regression analysis produces exponentiated coefficients to determine the anticipated marginal effect of each risk adjustment factor on episode costs. CMS transforms, or exponentiates, these coefficients, and the resulting coefficients are the beneficiary and hospital-level risk adjustment factors, specified in paragraphs (a)(1) through (6) of this section, that would be used during reconciliation for the subsequent performance year. 
 
-(E) HCC 63: Chronic Liver Failure/End-Stage Liver Disorders.
+(d) At the time of reconciliation, the preliminary target prices computed under § 512.540 are risk adjusted by applying the applicable beneficiary level and hospital-level risk adjustment factors specific to the beneficiary in the episode, as set forth in paragraphs (a)(1) through (6) of this section. 
 
-(F) HCC 93: Rheumatoid Arthritis and Other Specified Inflammatory Rheumatic Disorders.
+(e) The risk-adjusted preliminary target prices are normalized at reconciliation to ensure that the average of the total risk-adjusted preliminary target price does not exceed the average of the total non-risk adjusted preliminary target price. 
 
-(G) HCC 109: Acquired Hemolytic, Aplastic, and Sideroblastic Anemias.
+(1) The final normalization factor at reconciliation— 
 
-(H) HCC 125: Dementia, Severe.
+(i) Is the national mean of the benchmark price for each MS-DRG/HCPCS episode type divided by the national mean of the risk-adjusted benchmark price for the same MS-DRG/HCPCS episode type. 
 
-(I) HCC 126: Dementia, Moderate.
+(ii) As applied, cannot exceed ±5 percent of the prospective normalization factor (as specified in § 512.540(b)(6)). 
 
-(J) HCC 127: Dementia, Mild or Unspecified.
+(2) CMS applies the final normalization factor to the previously calculated, beneficiary and provider level, risk-adjusted target prices specific to each region and MS-DRG/HCPCS episode type. 
 
-(K) HCC 180: Quadriplegia.
+(f) *Retrospective trend factor.* CMS calculates the average regional capped performance year episode spending for each MS-DRG/HCPCS episode type divided by the average regional capped baseline period episode spending for each MS-DRG/HCPCS episode type. 
 
-(L) HCC 181: Paraplegia.
-
-(M) HCC 191: Quadriplegic Cerebral Palsy.
-
-(N) HCC 198: Multiple Sclerosis.
-
-(O) HCC 199: Parkinson and Other Degenerative Disease of Basal Ganglia.
-
-(P) HCC 211: Respirator Dependence/Tracheostomy Status/Complications.
-
-(Q) HCC 213: Cardio-Respiratory Failure and Shock.
-
-(R) HCC 226: Heart Failure, Except End-Stage and Acute.
-
-(S) HCC 238: Specified Heart Arrhythmias.
-
-(T) HCC 249: Ischemic or Unspecified Stroke.
-
-(U) HCC 253: Hemiplegia/Hemiparesis.
-
-(V) HCC 280: Chronic Obstructive Pulmonary Disease, Interstitial Lung Disorders, and Other Chronic Lung Disorders.
-
-(W) HCC 326: Chronic Kidney Disease, Stage 5.
-
-(X) HCC 383: Chronic Ulcer of Skin, Except Pressure, Not Specified as Through to Bone or Muscle.
-
-(Y) HCC 402: Hip Fracture/Dislocation.
-
-(v) Spinal Fusion episode category.
-
-(A) Prior post-acute care use.
-
-(B) HCC 17: Cancer Metastatic to Lung, Liver, Brain, and Other Organs; Acute Myeloid Leukemia Except Promyelocytic.
-
-(C) HCC 18: Cancer Metastatic to Bone, Other and Unspecified Metastatic Cancer; Acute Leukemia Except Myeloid.
-
-(D) HCC 37: Diabetes with Chronic Complications.
-
-(E) HCC 48: Morbid Obesity.
-
-(F) HCC 93: Rheumatoid Arthritis and Other Specified Inflammatory Rheumatic Disorders.
-
-(G) HCC 125: Dementia, Severe.
-
-(H) HCC 126: Dementia, Moderate.
-
-(I) HCC 127: Dementia, Mild or Unspecified.
-
-(J) HCC 155: Major Depression, Moderate or Severe, without Psychosis.
-
-(K) HCC 180: Quadriplegia.
-
-(L) HCC 181: Paraplegia.
-
-(M) HCC 182: Spinal Cord Disorders/Injuries.
-
-(N) HCC 192: Cerebral Palsy, Except Quadriplegic.
-
-(O) HCC 193: Chronic Inflammatory Demyelinating Polyneuritis and Multifocal Motor Neuropathy.
-
-(P) HCC 199: Parkinson and Other Degenerative Disease of Basal Ganglia.
-
-(Q) HCC 224: Acute on Chronic Heart Failure.
-
-(R) HCC 226: Heart Failure, Except End-Stage and Acute.
-
-(S) HCC 238: Specified Heart Arrhythmias.
-
-(T) HCC 249: Ischemic or Unspecified Stroke.
-
-(U) HCC 253: Hemiplegia/Hemiparesis.
-
-(V) HCC 254: Monoplegia, Other Paralytic Syndromes.
-
-(W) HCC 267: Deep Vein Thrombosis and Pulmonary Embolism.
-
-(X) HCC 326: Chronic Kidney Disease, Stage 5.
-
-(Y) HCC 383: Chronic Ulcer of Skin, Except Pressure, Not Specified as Through to Bone or Muscle.
-
-(Z) HCC 401: Vertebral Fractures without Spinal Cord Injury.
-
-(b) All risk adjustment factors are computed prior to the start of the performance year via a linear regression analysis. The regression analysis is computed using 3 years of claims data as follows:
-
-(1) For performance year 1, CMS uses claims data with dates of service dated January 1, 2022 to December 31, 2024.
-
-(2) For performance year 2, CMS uses claims data with dates of service dated January 1, 2023 to December 31, 2025.
-
-(3) For performance year 3, CMS uses claims data with dates of service dated January 1, 2024 to December 31, 2026.
-
-(4) For performance year 4, CMS uses claims data with dates of service dated January 1, 2025 to December 31, 2027.
-
-(5) For performance year 5, CMS uses claims data with dates of service dated January 1, 2026 to December 30, 2028.
-
-(c) The annual linear regression analysis produces exponentiated coefficients to determine the anticipated marginal effect of each risk adjustment factor on episode costs. CMS transforms, or exponentiates, these coefficients, and the resulting coefficients are the beneficiary and hospital-level risk adjustment factors, specified in paragraphs (a)(1) through (6) of this section, that would be used during reconciliation for the subsequent performance year.
-
-(d) At the time of reconciliation, the preliminary target prices computed under § 512.540 are risk adjusted by applying the applicable beneficiary level and hospital-level risk adjustment factors specific to the beneficiary in the episode, as set forth in paragraphs (a)(1) through (6) of this section.
-
-(e) The risk-adjusted preliminary target prices are normalized at reconciliation to ensure that the average of the total risk-adjusted preliminary target price does not exceed the average of the total non-risk adjusted preliminary target price.
-
-(1) The final normalization factor at reconciliation—
-
-(i) Is the mean benchmark price for each MS-DRG/HCPCS episode type and region divided by the mean risk-adjusted benchmark price for the same MS-DRG/HCPCS episode type and region.
-
-(ii) As applied, cannot exceed ±5 percent of the prospective normalization factor (as specified in § 512.540(b)(6)).
-
-(2) CMS applies the final normalization factor to the previously calculated, beneficiary and provider level, risk-adjusted target prices specific to each region and MS-DRG/HCPCS episode type.
-
-(f) CMS calculates a multiplier for each MS-DRG/HCPCS episode type and region which is applied during reconciliation to the most recent calendar year of the applicable baseline period. The multiplier is calculated as the average regional capped performance year episode spending for each MS-DRG/HCPCS episode type divided by the average regional capped baseline period episode spending for each MS-DRG/HCPCS episode type.
-
-(1) The retrospective trend factor is capped so that the maximum difference cannot exceed ±3 percent of the prospective trend factor (as specified in § 512.540(b)(7)).
+(1) The retrospective trend factor is capped so that the maximum difference cannot exceed ±3 percent of the prospective trend factor (as specified in § 512.540(b)(7)). 
 
 (2) CMS applies the capped retrospective trend factor to the previously calculated normalized, risk adjusted target prices specific to each region and MS-DRG/HCPCS episode type, as specified in paragraph (e)(2) of this section, to calculate the reconciliation target prices, which are compared to performance year spending at reconciliation, as specified in § 512.550(c).
-
-\[89 FR 69914, Aug. 28, 2024, as amended at 90 FR 37205, Aug. 4, 2025\]
