@@ -1333,7 +1333,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Paradise             | 20                                                  |
 | Porterville          | 48                                                  |
 | Rancho Palos Verdes  | 51                                                  |
-| Redding              | 7, \*9                                              |
+| Redding              | \*9, 15                                             |
 | Riverside            | 35                                                  |
 | Sacramento           | \*9, 10, 21, 35, 40, 48                             |
 | Salinas              | 8, 13                                               |
@@ -1495,7 +1495,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Olney                | \*19                                                |
 | Oswego               | 10                                                  |
 | Peoria               | 19, 25, 30, \*46                                    |
-| Quincy               | 10, 32, \*34                                        |
+| Quincy               | 19, 32, \*34                                        |
 | Rock Island          | 4                                                   |
 | Rockford             | 13, 16, 42                                          |
 | Springfield          | 13, 42, 44                                          |
@@ -1702,7 +1702,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | MONTANA              |                                                     |
 | Billings             | 10, 11, 18                                          |
 | Bozeman              | \*8, 13                                             |
-| Butte                | 5, 6, 19, 24                                        |
+| Butte                | 5, 19, 20, 24                                       |
 | Glendive             | 5                                                   |
 | Great Falls          | 7, 8, 26, 45                                        |
 | Hardin               | 22                                                  |
@@ -1711,7 +1711,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Kalispell            | 9, \*46                                             |
 | Lewistown            | 13                                                  |
 | Miles City           | 3                                                   |
-| Missoula             | 7, \*11, 13, 17, 23                                 |
+| Missoula             | 7, \*11, 17, 20, 23                                 |
 | NEBRASKA             |                                                     |
 | Alliance             | \*13                                                |
 | Bassett              | \*7                                                 |
@@ -1887,7 +1887,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Bend                 | \*11, 21, 18                                        |
 | Coos Bay             | 11, 22                                              |
 | Corvallis            | \*7                                                 |
-| Eugene               | 9, 13, 17, \*29, 31                                 |
+| Eugene               | 9, 17, 28, \*29, 31                                 |
 | Grants Pass          | 30                                                  |
 | Klamath Falls        | 13, 29, \*33                                        |
 | La Grande            | \*13, 16                                            |
