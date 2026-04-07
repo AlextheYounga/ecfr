@@ -8,9 +8,9 @@ Table 1—Steering System Free Play Values
 | Steering wheel diameter (inches) | Lash (inches) |
 | -------------------------------- | ------------- |
 | 16 or less                       | 2             |
-| 18                               | 21⁄4          |
-| 20                               | 21⁄2          |
-| 22                               | 23⁄4          |
+| 18                               | 21/4          |
+| 20                               | 21/2          |
+| 22                               | 23/4          |
 
 (b) *Linkage play.* Free play in the steering linkage shall not exceed one-quarter of an inch.
 
