@@ -1152,7 +1152,7 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.020.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 20939, Apr. 21, 2021.Link to an amendment published at 86 FR 4844, Jan. 15, 2021.This amendment was delayed to Apr. 30, 2021, at 86 FR 11892, Mar. 1, 2021.This amendment was further delayed to Dec. 15, 2021, at 86 FR 22876, Apr. 30, 2021.
+![](/graphics/ec01jn91.020.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 4844, Jan. 15, 2021.This amendment was delayed to Apr. 30, 2021, at 86 FR 11892, Mar. 1, 2021.This amendment was further delayed to Dec. 15, 2021, at 86 FR 22876, Apr. 30, 2021.
 
 (b) *Birds.*
 
@@ -1460,7 +1460,311 @@ The map provided is for informational purposes only. Map follows:
 
 (B) Map 3 showing Unit B for Mariana crow follows:
 
-![](/graphics/er28oc04.004.gif)Spectacled Eider (*Somateria fischeri*)
+![](/graphics/er28oc04.004.gif)Yellow-Billed Cuckoo (Coccyzus americanus), Western DPS
+
+(1) Critical habitat units are depicted for Arizona, California, Colorado, Idaho, New Mexico, Texas, and Utah, on the maps in this entry.
+
+(2) Within these areas, the specific physical or biological features essential to the conservation of western yellow-billed cuckoo consist of three components:
+
+(i) *Rangewide breeding habitat.* Riparian woodlands across the Distinct Population Segment (DPS); Southwestern breeding habitat, primarily in Arizona and New Mexico: Drainages with varying combinations of riparian, xeroriparian, and/or nonriparian trees and large shrubs. This physical or biological feature includes breeding habitat found throughout the DPS range as well as additional breeding habitat characteristics unique to the Southwest.
+
+(A) *Rangewide breeding habitat* (*including areas in the Southwest*). Rangewide breeding habitat is composed of riparian woodlands within floodplains or in upland areas or terraces often greater than 325 ft (100 m) in width and 200 ac (81 ha) or more in extent with an overstory and understory vegetation component in contiguous or nearly contiguous patches adjacent to intermittent or perennial watercourses. The slope of the watercourses is generally less than 3 percent but may be greater in some instances. Nesting sites within the habitat have an above-average canopy closure (greater than 70 percent), and have a cooler, more humid environment than the surrounding riparian and upland habitats. Rangewide breeding habitat is composed of varying combinations of riparian species including the following nest trees: Cottonwood, willow, ash, sycamore, boxelder, alder, and walnut.
+
+(B) *Southwestern breeding habitat.* Southwestern breeding habitat, found primarily in Arizona and New Mexico, is more variable than rangewide breeding habitat. Southwestern breeding habitat occurs within or along perennial, intermittent, and ephemeral drainages in montane canyons, foothills, desert floodplains, and arroyos. It may include woody side drainages, terraces, and hillsides immediately adjacent to the main drainage bottom. Drainages intersect a variety of habitat types including, but not limited to, desert scrub, desert grassland, and Madrean evergreen woodlands (presence of oak). Southwestern breeding habitat is composed of varying combinations of riparian, xeroriparian, and/or nonriparian tree and large shrub species including, but not limited to, the following nest trees: Cottonwood, willow, mesquite, ash, hackberry, sycamore, walnut, desert willow, soapberry, tamarisk, Russian olive, juniper, acacia, and/or oak. In perennial and intermittent drainages, Southwestern riparian breeding habitat is often narrower, patchier, and/or sparser than rangewide riparian breeding habitat and may contain a greater proportion of xeroriparian trees and large shrub species. Although some cottonwood and willow may be present in Southwestern riparian habitat, xeroriparian species may be more prevalent. Mesquite woodland may be present within the riparian floodplain, flanking the outer edges of wetter riparian habitat, or scattered on the adjacent hillsides. The more arid the drainage, the greater the likelihood that it will be dominated by xeroriparian and nonriparian nest tree species. Arid ephemeral drainages in southeastern Arizona receive summer humidity and rainfall from the North American Monsoon, with a pronounced green-up of grasses and forbs. These arid ephemeral drainages often contain xeroriparian species like hackberry or nonriparian species associated with the adjacent habitat type like oak, mesquite, acacia, mimosa, greythorn, and juniper. In southeastern Arizona mountains, breeding habitat is typically below pine woodlands (∼6,000 ft (1,829 m)).
+
+(ii) *Adequate prey base.* Presence of prey base consisting of large insect fauna (for example, cicadas, caterpillars, katydids, grasshoppers, large beetles, dragonflies, moth larvae, spiders), lizards, or frogs for adults and young in breeding areas during the nesting season and in post-breeding dispersal areas.
+
+(iii) *Hydrologic processes.* The movement of water and sediment in natural or altered systems that maintains and regenerates breeding habitat. This physical or biological feature includes hydrologic processes found in rangewide breeding habitat as well as additional hydrologic processes unique to the Southwest in southwestern breeding habitat:
+
+(A) *Rangewide breeding habitat hydrologic processes (including the Southwest).* Hydrologic processes (either natural or managed) in river and reservoir systems that encourage sediment movement and deposits and promote riparian tree seedling germination and plant growth, maintenance, health, and vigor (*e.g.,* lower-gradient streams and broad floodplains, elevated subsurface groundwater table, and perennial rivers and streams). In some areas where habitat is being restored, such as on terraced slopes above the floodplain, this may include managed irrigated systems that may not naturally flood due to their elevation above the floodplain.
+
+(B) *Southwestern breeding habitat hydrologic processes.* In southwestern breeding habitat, elevated summer humidity and runoff resulting from seasonal water management practices or weather patterns and precipitation (typically from North American Monsoon or other tropical weather events) provide suitable conditions for prey species production and vegetation regeneration and growth. Elevated humidity is especially important in southeastern Arizona, where cuckoos breed in intermittent and ephemeral drainages.
+
+(3) Critical habitat does not include humanmade structures (such as buildings, aqueducts, runways, roads, bridges, and other paved or hardened areas as a result of development) and the land on which they are located existing within the legal boundaries of the critical habitat units designated for the species on May 21, 2021. Due to the scale on which the critical habitat boundaries are developed, some areas within these legal boundaries may not contain the physical or biological features and therefore are not considered critical habitat.
+
+(4) Data layers defining map units were created on a base of the Natural Resources Conservation Service National Agriculture Imagery Program (NAIP 2011), and critical habitat was then mapped using North American Datum (NAD) 83, Universal Transverse Mercator Zone 10N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's Sacramento Fish and Wildlife Office's internet site at *http://www.fws.gov/sacramento,* or on *http://www.regulations.gov* at Docket No. FWS-R8-ES-2013-0011. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Unit 1:* CA/AZ-1, Colorado River 1; Imperial, Riverside, and San Bernardino Counties, California, and Yuma and La Paz Counties, Arizona. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(6) *Unit 2:* CA/AZ-2, Colorado River 2; San Bernardino County, California, and Mohave County, Arizona. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(7) *Unit 3:* AZ-1, Bill Williams River; Mohave and La Paz Counties, Arizona. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(8) *Unit 4:* AZ-2, Alamo Lake, Mohave and La Paz Counties, Arizona. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(9) *Unit 5:* AZ-3, Hassayampa River; Maricopa County, Arizona. Map of Unit 5 follows:
+
+![](/graphics/er21ap21.000.gif)
+
+(10) *Unit 6:* AZ-4, Agua Fria River; Yavapai County, Arizona. Map of Unit 6 follows:
+
+![](/graphics/er21ap21.001.gif)
+
+(11) *Unit 7:* AZ-5, Upper Verde River; Yavapai County, Arizona. Map of Unit 7 follows:
+
+![](/graphics/er21ap21.002.gif)
+
+(12) *Unit 8:* AZ-6, Oak Creek; Yavapai and Coconino Counties, Arizona. Map of Unit 8 follows:
+
+![](/graphics/er21ap21.003.gif)
+
+(13) *Unit 9:* AZ-7, Beaver Creek; Yavapai County, Arizona. Map of Unit 9 follows:
+
+![](/graphics/er21ap21.004.gif)
+
+(14) *Unit 10:* AZ-8, Lower Verde River and West Clear Creek; Yavapai County, Arizona. Map of Unit 10 follows:
+
+![](/graphics/er21ap21.005.gif)
+
+(15) *Unit 11:* AZ-9A and AZ-9B, Horseshoe Dam; Gila, Maricopa, and Yavapai Counties, Arizona. Maps of Unit 11 follow:
+
+(i) *Map of Unit 11:* AZ-9A, Horseshoe Dam.
+
+![](/graphics/er21ap21.006.gif)
+
+(ii) *Map of Unit 11:* AZ-9B, Horseshoe Dam.
+
+![](/graphics/er21ap21.007.gif)
+
+(16) *Unit 12:* AZ-10, Tonto Creek; Gila County, Arizona. Map of Unit 12 follows:
+
+![](/graphics/er21ap21.008.gif)
+
+(17) *Unit 13:* AZ-11, Pinal Creek; Gila County, Arizona. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(18) *Unit 14:* AZ-12, Bonita Creek; Graham County, Arizona. Map of Unit 14 follows:
+
+![](/graphics/er21ap21.009.gif)
+
+(19) *Unit 15:* AZ-13, San Francisco River; Greenlee County, Arizona. Map of Unit 15 follows:
+
+![](/graphics/er21ap21.010.gif)
+
+(20) *Unit 16:* AZ-14, Upper San Pedro River; Cochise County, Arizona. Map of Unit 16 follows:
+
+![](/graphics/er21ap21.011.gif)
+
+(21) *Unit 17:* AZ-15, Lower San Pedro River and Gila River; Pima, Pinal, and Gila Counties, Arizona. Map of Unit 17 follows:
+
+![](/graphics/er21ap21.012.gif)
+
+(22) *Unit 18:* AZ-16, Sonoita Creek; Santa Cruz County, Arizona. Map of Unit 18 follows:
+
+![](/graphics/er21ap21.013.gif)
+
+(23) *Unit 19:* AZ-17, Upper Cienega Creek; Pima County, Arizona. Map of Unit 19 follows:
+
+![](/graphics/er21ap21.014.gif)
+
+(24) *Unit 20:* AZ-18, Santa Cruz River; Santa Cruz County, Arizona. Map of Unit 20 follows:
+
+![](/graphics/er21ap21.015.gif)
+
+(25) *Unit 21:* AZ-19, Black Draw; Cochise County, Arizona. Map of Unit 21 follows:
+
+![](/graphics/er21ap21.016.gif)
+
+(26) *Unit 22:* AZ-20, Gila River 1; Graham County, Arizona. Map of Unit 22 follows:
+
+![](/graphics/er21ap21.017.gif)
+
+(27) *Unit 23:* AZ-21, Salt River; Gila County, Arizona. Map of Unit 23 follows:
+
+![](/graphics/er21ap21.018.gif)
+
+(28) *Unit 24:* AZ-22, Lower Cienega Creek; Pima County, Arizona. Map of Unit 24 follows:
+
+![](/graphics/er21ap21.019.gif)
+
+(29) *Unit 25:* AZ-23, Blue River; Greenlee County, Arizona. Map of Unit 25 follows:
+
+![](/graphics/er21ap21.020.gif)
+
+(30) *Unit 26:* AZ-24, Pinto Creek South; Gila and Pinal Counties, Arizona. Map of Unit 26 follows:
+
+![](/graphics/er21ap21.021.gif)
+
+(31) *Unit 27:* AZ-25, Aravaipa Creek; Pinal and Graham Counties, Arizona. Map of Unit 27 follows:
+
+![](/graphics/er21ap21.022.gif)
+
+(32) *Unit 28:* AZ-26, Gila River 2; Graham and Greenlee Counties, Arizona. Map of Unit 28 follows:
+
+![](/graphics/er21ap21.023.gif)
+
+(33) *Unit 29:* AZ-27, Pinto Creek North; Gila County, Arizona. Map of Unit 29 follows:
+
+![](/graphics/er21ap21.024.gif)
+
+(34) *Unit 30:* AZ-28, Mineral Creek; Pinal and Gila Counties, Arizona. Map of Unit 30 follows:
+
+![](/graphics/er21ap21.025.gif)
+
+(35) *Unit 31:* AZ-29, Big Sandy River; Mohave County, Arizona. Map of Unit 31 follows:
+
+![](/graphics/er21ap21.026.gif)
+
+(36) *Unit 32:* NM-1, San Francisco River; Catron County, New Mexico. Map of Unit 32 follows:
+
+![](/graphics/er21ap21.027.gif)
+
+(37) *Unit 33:* NM-2, Gila River; Grant County, New Mexico. Map of Unit 33 follows:
+
+![](/graphics/er21ap21.028.gif)
+
+(38) *Unit 34:* NM-3A and NM-3B, Mimbres River; Grant County, New Mexico. Maps of Unit 34 follow:
+
+(i) *Map of Unit 34:* NM-3A, Mimbres River.
+
+![](/graphics/er21ap21.029.gif)
+
+(ii) *Map of Unit 34:* NM-3B, Mimbres River.
+
+![](/graphics/er21ap21.030.gif)
+
+(39) *Unit 35:* NM-4, Upper Rio Grande 1; Rio Arriba County, New Mexico. Map of Unit 35 follows:
+
+![](/graphics/er21ap21.031.gif)
+
+(40) *Unit 36:* NM-5, Upper Rio Grande 2; Santa Fe and Rio Arriba Counties, New Mexico. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(41) *Unit 37:* NM-6A and NM-6B, Middle Rio Grande; Sierra, Socorro, Valencia and Bernalillo Counties, New Mexico. Unit 37: NM-6A was excluded from the designation pursuant to section 4(b)(2) of the Act. Map of Unit 37: NM-6B, Middle Rio Grande, follows:
+
+![](/graphics/er21ap21.032.gif)
+
+(42) *Unit 38:* NM-7, Upper Gila River; Grant and Hidalgo Counties, New Mexico. Map of Unit 38 follows:
+
+![](/graphics/er21ap21.033.gif)
+
+(43) *Unit 39:* NM-8A, Caballo Delta North and NM-8B, Caballo Delta South; Sierra County, New Mexico. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(44) *Unit 40:* NM-9, Animas; Sierra County, New Mexico. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(45) *Unit 41:* NM-10, Selden Canyon and Radium Springs; Doña Ana County, New Mexico. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(46) *Unit 42:* AZ-30, Arivaca Wash and San Luis Wash; Pima County, Arizona. Map of Unit 42 follows:
+
+![](/graphics/er21ap21.034.gif)
+
+(47) *Unit 43:* AZ-31, Florida Wash; Pima and Santa Cruz Counties, Arizona. Map of Unit 43 follows:
+
+![](/graphics/er21ap21.035.gif)
+
+(48) *Unit 44:* AZ-32, California Gulch; Santa Cruz County, Arizona. Map of Unit 44 follows:
+
+![](/graphics/er21ap21.036.gif)
+
+(49) *Unit 45:* AZ-33, Sycamore Canyon; Santa Cruz County, Arizona. Map of Unit 45 follows:
+
+![](/graphics/er21ap21.037.gif)
+
+(50) *Unit 46:* AZ-34, Madera Canyon; Pima and Santa Cruz Counties, Arizona. Map of Unit 46 follows:
+
+![](/graphics/er21ap21.038.gif)
+
+(51) *Unit 47:* AZ-35, Montosa Canyon; Santa Cruz County, Arizona. Map of Unit 47 follows:
+
+![](/graphics/er21ap21.039.gif)
+
+(52) *Unit 48:* AZ-36, Patagonia Mountains; Santa Cruz County, Arizona. Map of Unit 48 follows:
+
+![](/graphics/er21ap21.040.gif)
+
+(53) *Unit 49:* AZ-37, Canelo Hills; Santa Cruz County, Arizona. Map of Unit 49 follows:
+
+![](/graphics/er21ap21.041.gif)
+
+(54) *Unit 50:* AZ-38, Arivaca Lake; Pima and Santa Cruz Counties, Arizona. Map of Unit 50 follows:
+
+![](/graphics/er21ap21.042.gif)
+
+(55) *Unit 51:* AZ-39, Peppersauce Canyon; Pinal County, Arizona. Map of Unit 51 follows:
+
+![](/graphics/er21ap21.043.gif)
+
+(56) *Unit 52:* AZ-40, Pena Blanca Canyon; Santa Cruz County, Arizona. Map of Unit 52 follows:
+
+![](/graphics/er21ap21.044.gif)
+
+(57) *Unit 53:* AZ-41, Box Canyon; Pima County, Arizona. Map of Unit 53 follows:
+
+![](/graphics/er21ap21.045.gif)
+
+(58) *Unit 54:* AZ-42, Rock Corral Canyon; Santa Cruz County, Arizona. Map of Unit 54 follows:
+
+![](/graphics/er21ap21.046.gif)
+
+(59) *Unit 55:* AZ-43, Lyle Canyon; Santa Cruz and Cochise Counties, Arizona. Map of Unit 55 follows:
+
+![](/graphics/er21ap21.047.gif)
+
+(60) *Unit 56:* AZ-44, Parker Canyon Lake; Santa Cruz and Cochise Counties, Arizona. Map of Unit 56 follows:
+
+![](/graphics/er21ap21.048.gif)
+
+(61) *Unit 57:* AZ-45, Barrel Canyon; Pima County, Arizona. Map of Unit 57 follows:
+
+![](/graphics/er21ap21.049.gif)
+
+(62) *Unit 58:* AZ-46, Gardner Canyon; Pima and Santa Cruz Counties, Arizona. Map of Unit 58 follows:
+
+![](/graphics/er21ap21.050.gif)
+
+(63) *Unit 59:* AZ-47, Brown Canyon; Pima County, Arizona. Map of Unit 59 follows:
+
+![](/graphics/er21ap21.051.gif)
+
+(64) *Unit 60:* AZ-48, Sycamore Canyon; Santa Cruz County, Arizona. Map of Unit 60 follows:
+
+![](/graphics/er21ap21.052.gif)
+
+(65) *Unit 61:* AZ-49, Washington Gulch; Santa Cruz County, Arizona. Map of Unit 61 follows:
+
+![](/graphics/er21ap21.053.gif)
+
+(66) *Unit 62:* AZ-50, Paymaster Spring and Mowry Wash; Santa Cruz County, Arizona. Map of Unit 62 follows:
+
+![](/graphics/er21ap21.054.gif)
+
+(67) *Unit 63:* CA-1, Sacramento River, Colusa, Glenn, Butte, and Tehama Counties, California. Map of Unit 63 follows:
+
+![](/graphics/er21ap21.055.gif)
+
+(68) *Unit 64:* CA-2, South Fork Kern River Valley; Kern County, California. Map of Unit 64 follows:
+
+![](/graphics/er21ap21.056.gif)
+
+(69) *Unit 65:* ID-1, Snake River 1; Bannock and Bingham Counties, Idaho. Map of Unit 65 follows:
+
+![](/graphics/er21ap21.057.gif)
+
+(70) *Unit 66:* ID-2, Snake River 2; Bonneville, Madison, and Jefferson Counties, Idaho. Map of Unit 66 follows:
+
+![](/graphics/er21ap21.058.gif)
+
+(71) *Unit 67:* ID-3, Henry's Fork and Teton Rivers; Madison and Fremont Counties, Idaho. Map of Unit 67 follows:
+
+![](/graphics/er21ap21.059.gif)
+
+(72) *Unit 68:* CO-1, Colorado River; Mesa County, Colorado. Map of Unit 68 follows:
+
+![](/graphics/er21ap21.060.gif)
+
+(73) *Unit 69:* CO-2, North Fork Gunnison River; Delta County, Colorado. Map of Unit 69 follows:
+
+![](/graphics/er21ap21.061.gif)
+
+(74) *Unit 70:* UT-1, Green River 1; Uintah and Duchesne Counties, Utah. Map of Unit 70 follows:
+
+![](/graphics/er21ap21.062.gif)
+
+(75) *Unit 71:* UT-2, Green River 2; Emery and Grand Counties, Utah. Map of Unit 71 follows:
+
+![](/graphics/er21ap21.063.gif)
+
+(76) *Unit 72:* TX-1, Terlingua Creek and Rio Grande; Brewster County, Texas. Map of Unit 72 follows:
+
+![](/graphics/er21ap21.064.gif)Spectacled Eider (*Somateria fischeri*)
 
 1\. Critical habitat units are depicted for Unit 1 (Central Yukon-Kuskokwim Delta), Unit 2 (South Y-K Delta Unit), Unit 3 (Norton Sound), Unit 4 (Ledyard Bay), and Unit 5 (the Wintering Unit in the Bering Sea between St. Lawrence and St. Matthew Islands) for reference only. The maps provided are for informational purposes only.
 
@@ -9010,7 +9314,7 @@ Critical Habitat Map Unit
 
 (ii) Map 1 of the critical habitat for Rota bridled white-eye follows:
 
-![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 85 FR 61631, Sept. 30, 2020.Link to an amendment published at 85 FR 82388, Dec. 18, 2020.Link to an amendment published at 86 FR 22570, Apr. 28, 2021.
+![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 22570, Apr. 28, 2021.
 
 (c) *Reptiles.*
 
