@@ -18,7 +18,7 @@
 
 (c) *Receipt of requests.* Requests for an investigation must be filed electronically via CBP's online e-Allegations system or through any other method approved or designated by CBP. The date of receipt is the date that CBP transmits notice of the assigned control number to the Federal agency that filed the request.
 
-(d) *Notice of release of information* - (1) *Public information.* CBP will treat the information required by paragraphs (b)(1) through (3) of this section as public information.
+(d) *Notice of release of information*—(1) *Public information.* CBP will treat the information required by paragraphs (b)(1) through (3) of this section as public information.
 
 (2) *Business confidential treatment.* CBP will create a public summary of the information required by paragraphs (b)(4) and (6) of this section.
 
