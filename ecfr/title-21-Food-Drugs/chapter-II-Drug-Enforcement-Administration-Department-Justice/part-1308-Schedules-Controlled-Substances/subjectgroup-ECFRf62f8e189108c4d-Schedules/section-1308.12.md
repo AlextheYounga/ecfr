@@ -264,7 +264,7 @@
 
 (2) Dronabinol \[(-)-delta-9-trans tetrahydrocannabinol\] in an oral solution in a drug product approved for marketing by the U.S. Food and Drug Administration
 
-(7365) 
+(7365)
 
 (g) *Immediate precursors.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances:
 
