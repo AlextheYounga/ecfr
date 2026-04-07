@@ -126,6 +126,8 @@ Herring GB Haddock Accountability Measure Area
 
 (*3*) When using gears other than trawls.
 
+(vi) *Possession of northern red hake.* Vessels participating in the small-mesh multispecies fishery and fishing on the northern red hake stock, defined as statistical areas 464-465, 467, 511-515, 521-522, and 561, may possess and land no more than 3,000 lb 91,361 kg) of red hake when fishing in the GOM/GB Exemption area, as described in § 648.80(a)(17).
+
 (2) *Possession limit for vessels participating in the northern shrimp fishery.* Owners and operators of vessels participating in the Small-Mesh Northern Shrimp Fishery Exemption Area, as described in § 648.80(a)(3), with a vessel issued a valid Federal NE multispecies permit specified under § 648.4(a)(1), may possess and land silver hake and offshore hake, combined, up to an amount equal to the weight of shrimp on board, not to exceed 3,500 lb (1,588 kg). Silver hake and offshore hake on board a vessel subject to this possession limit must be separated from other species of fish and stored so as to be readily available for inspection.
 
 (3) *Possession restriction for vessels electing to transfer small-mesh NE multispecies at sea.* Owners and operators of vessels issued a valid Federal NE multispecies permit and issued a letter of authorization to transfer small-mesh NE multispecies at sea according to the provisions specified in § 648.13(b) are subject to a combined silver hake and offshore hake possession limit that is 500 lb (226.8 kg) less than the possession limit the vessel otherwise receives. This deduction shall be noted on the transferring vessel's letter of authorization from the Regional Administrator.
