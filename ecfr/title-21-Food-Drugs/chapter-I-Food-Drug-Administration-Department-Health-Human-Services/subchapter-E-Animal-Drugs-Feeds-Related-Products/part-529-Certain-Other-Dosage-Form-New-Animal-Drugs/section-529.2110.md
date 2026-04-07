@@ -1,4 +1,4 @@
-##### § 529.2150 Sevoflurane.
+##### § 529.2110 Sevoflurane.
 
 (a) *Specifications.* Sevoflurane liquid.
 
@@ -10,4 +10,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-\[64 FR 71640, Dec. 22, 1999, as amended at 73 FR 25508, May 7, 2008; 74 FR 10484, Mar. 11, 2009, 75 FR 1021, Jan. 8, 2010; 76 FR 16533, Mar. 24, 2011; 78 FR 17868, Mar. 25, 2013; 80 FR 18776, Apr. 8, 2015\]
+\[64 FR 71640, Dec. 22, 1999, as amended at 73 FR 25508, May 7, 2008; 74 FR 10484, Mar. 11, 2009, 75 FR 1021, Jan. 8, 2010; 76 FR 16533, Mar. 24, 2011; 78 FR 17868, Mar. 25, 2013; 80 FR 18776, Apr. 8, 2015. Redesignated at 86 FR 13188, Mar. 8, 2021\]

@@ -10,7 +10,7 @@
 
 (2) Any benefit issuer or any officer, employee or agent, thereof convicted of knowingly providing false information in the reports required under § 274.5 shall be subject to a fine of not more than $10,000, or imprisoned not more than 5 years, or both.
 
-(e) *Forfeiture and denial of property rights* - (1) *General.* (i) Any nonfood items, moneys, negotiable instruments, securities, or other things of value furnished or intended to be furnished by any person in exchange for food benefits, authorization cards, or other program benefit instruments or access devices in any manner not authorized by the Food and Nutrition Act of 2008 or regulations issued pursuant to the Act, shall be subject to forfeiture and denial of property rights. Such property is deemed forfeited to the United States Department of Agriculture (USDA) at the time it is either exchanged or offered in exchange.
+(e) *Forfeiture and denial of property rights*—(1) *General.* (i) Any nonfood items, moneys, negotiable instruments, securities, or other things of value furnished or intended to be furnished by any person in exchange for food benefits, authorization cards, or other program benefit instruments or access devices in any manner not authorized by the Food and Nutrition Act of 2008 or regulations issued pursuant to the Act, shall be subject to forfeiture and denial of property rights. Such property is deemed forfeited to the United States Department of Agriculture (USDA) at the time it is either exchanged or offered in exchange.
 
 (ii) These forfeiture and denial of property rights provisions shall apply to property exchanged or offered in exchange during investigations conducted by the Inspector General, USDA, and by other authorized Federal law enforcement agencies.
 
@@ -56,7 +56,7 @@
 
 (v) Notice need not be given to the general public.
 
-(4) Administrative review. (i) The actual or apparent owner(s) of or person(s) with possessory interests in the property shall have 30 days from the date of the delivery of the notice of forfeiture to make a request for an administrative review of the forfeiture.
+(4) *Administrative review.* (i) The actual or apparent owner(s) of or person(s) with possessory interests in the property shall have 30 days from the date of the delivery of the notice of forfeiture to make a request for an administrative review of the forfeiture.
 
 (ii) The request shall be made in writing to the Assistant Inspector General for Investigations, Office of Inspector General, USDA, or to his/her designee, hereinafter referred to as the reviewing official.
 
