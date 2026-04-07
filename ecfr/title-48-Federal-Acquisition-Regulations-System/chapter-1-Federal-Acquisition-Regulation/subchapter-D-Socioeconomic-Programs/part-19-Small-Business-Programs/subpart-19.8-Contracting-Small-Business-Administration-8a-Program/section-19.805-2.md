@@ -2,7 +2,7 @@
 
 (a) Offers shall be solicited from those sources identified in accordance with 19.804-3.
 
-(b) The SBA will determine the eligibility of the apparent successful offeror. Eligibility is based on section 8(a) program criteria. For a two-step design-build procurement, an 8(a) participant must be eligible for award under the 8(a) program on the initial date for receipt of phase one offers specified in the solicitation (see 13 CFR 124.507(d)(3)).
+(b) The SBA will determine the eligibility of the apparent successful offeror. Eligibility is based on section 8(a) program criteria (see 13 CFR 124.501(g) and 19.816(c)). For a two-step design-build procurement, an 8(a) participant must be eligible for award under the 8(a) program on the initial date for receipt of phase one offers specified in the solicitation (see 13 CFR 124.507(d)(3)).
 
 (1) In either negotiated or sealed bid competitive 8(a) acquisitions SBA will determine the eligibility of the apparent successful offeror and advise the contracting office within 5 working days after receipt of the contracting office's request for an eligibility determination.
 
