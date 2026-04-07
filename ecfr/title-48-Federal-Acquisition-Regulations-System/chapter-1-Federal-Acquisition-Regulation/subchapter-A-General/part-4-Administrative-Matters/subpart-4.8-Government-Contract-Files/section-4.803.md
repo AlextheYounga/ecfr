@@ -26,7 +26,7 @@ The following are examples of the records normally contained, if applicable, in 
 
 (ii) Technical and management proposals;
 
-(iii) Cost/price proposals;
+(iii) Cost/price proposals; and
 
 (iv) Any other pages of the solicitation that the offeror or quoter has altered or annotated.
 
@@ -68,7 +68,13 @@ The following are examples of the records normally contained, if applicable, in 
 
 (25) Notice of award.
 
-(26) The original of (i) the signed contract or award, (ii) all contract modifications, and (iii) documents supporting modifications executed by the contracting office.
+(26) The original of -
+
+(i) The signed contract or award;
+
+(ii) All contract modifications; and
+
+(iii) Documents supporting modifications executed by the contracting office.
 
 (27) Synopsis of award or reference thereto.
 

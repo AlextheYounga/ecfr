@@ -2,13 +2,13 @@
 
 As prescribed in 4.1105(b), use the following clause:
 
-System for Award Management Maintenance (Oct 2018)
+System for Award Management Maintenance (OCT 2018)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Electronic Funds Transfer (EFT) indicator* means a four-character suffix to the unique entity identifier. The suffix is assigned at the discretion of the commercial, nonprofit, or Government entity to establish additional System for Award Management (SAM) records for identifying alternative EFT accounts (see subpart 32.11) for the same entity.
 
-*Registered in the System for Award Management (SAM)* means that -
+*Registered in the System for Award Management (SAM)* means that—
 
 (1) The Contractor has entered all mandatory information, including the unique entity identifier and the EFT indicator (if applicable), the Commercial and Government Entity (CAGE) code, as well as data required by the Federal Funding Accountability and Transparency Act of 2006 (see subpart 4.14), into SAM;
 
@@ -18,7 +18,7 @@ System for Award Management Maintenance (Oct 2018)
 
 (4) The Government has marked the record “Active”.
 
-*System for Award Management (SAM)* means the primary Government repository for prospective Federal awardee and Federal awardee information and the centralized Government system for certain contracting, grants, and other assistance-related processes. It includes -
+*System for Award Management (SAM)* means the primary Government repository for prospective Federal awardee and Federal awardee information and the centralized Government system for certain contracting, grants, and other assistance-related processes. It includes—
 
 (1) Data collected from prospective Federal awardees required for the conduct of business with the Government;
 
@@ -32,7 +32,7 @@ System for Award Management Maintenance (Oct 2018)
 
 (c) The Contractor shall maintain registration in SAM during contract performance and through final payment of any contract, basic agreement, basic ordering agreement, or blanket purchasing agreement. The Contractor is responsible for the currency, accuracy and completeness of the data within SAM, and for any liability resulting from the Government's reliance on inaccurate or incomplete data. To remain registered in SAM after the initial registration, the Contractor is required to review and update on an annual basis, from the date of initial registration or subsequent updates, its information in SAM to ensure it is current, accurate and complete. Updating information in SAM does not alter the terms and conditions of this contract and is not a substitute for a properly executed contractual document.
 
-(d)(1)(i) If a Contractor has legally changed its business name or “doing business as” name (whichever is shown on the contract), or has transferred the assets used in performing the contract, but has not completed the necessary requirements regarding novation and change-of-name agreements in subpart 42.12, the Contractor shall provide the responsible Contracting Officer a minimum of one business day's written notification of its intention to -
+(d)(1)(i) If a Contractor has legally changed its business name or “doing business as” name (whichever is shown on the contract), or has transferred the assets used in performing the contract, but has not completed the necessary requirements regarding novation and change-of-name agreements in subpart 42.12, the Contractor shall provide the responsible Contracting Officer a minimum of one business day's written notification of its intention to—
 
 (A) Change the name in SAM;
 

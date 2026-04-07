@@ -24,11 +24,11 @@ Subcontracts for Commercial Items (JAN 2019)
 
 (v) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
-(vi) 52.219-8, Utilization of Small Business Concerns (Oct 2018) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(vi) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (vii) 52.222-21**,** Prohibition of Segregated Facilities (APR 2015).
 
-(viii) 52.222-26, Equal Opportunity (Sept 2016) (E.O. 11246).
+(viii) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
 
 (ix) 52.222-35, Equal Opportunity for Veterans (Oct 2015)(38 U.S.C. 4212(a));
 
@@ -50,7 +50,7 @@ Subcontracts for Commercial Items (JAN 2019)
 
 (B) Alternate I (JAN 2017) of 52.224-3, if flow down is required in accordance with 52.224-3(f) and the agency specifies that only its agency-provided training is acceptable).
 
-(xvii) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+(xvii) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
 (xviii) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (DEC 2013), if flow down is required in accordance with paragraph (c) of FAR clause 52.232-40.
 

@@ -2,19 +2,19 @@
 
 As prescribed at 9.104-7(c), insert the following clause:
 
-Updates of Publicly Available Information Regarding Responsibility Matters (Oct 2018)
+Updates of Publicly Available Information Regarding Responsibility Matters (OCT 2018)
 
 (a) The Contractor shall update the information in the Federal Awardee Performance and Integrity Information System (FAPIIS) on a semi-annual basis, throughout the life of the contract, by posting the required information in the System for Award Management via *https://www.sam.gov*.
 
-(b) As required by section 3010 of the Supplemental Appropriations Act, 2010 (Pub. L. 111-212), all information posted in FAPIIS on or after April 15, 2011, except past performance reviews, will be publicly available. FAPIIS consists of two segments -
+(b) As required by section 3010 of the Supplemental Appropriations Act, 2010 (Pub. L. 111-212), all information posted in FAPIIS on or after April 15, 2011, except past performance reviews, will be publicly available. FAPIIS consists of two segments—
 
-(1) The non-public segment, into which Government officials and the Contractor post information, which can only be viewed by -
+(1) The non-public segment, into which Government officials and the Contractor post information, which can only be viewed by—
 
 (i) Government personnel and authorized users performing business on behalf of the Government; or
 
 (ii) The Contractor, when viewing data on itself; and
 
-(2) The publicly-available segment, to which all data in the non-public segment of FAPIIS is automatically transferred after a waiting period of 14 calendar days, except for -
+(2) The publicly-available segment, to which all data in the non-public segment of FAPIIS is automatically transferred after a waiting period of 14 calendar days, except for—
 
 (i) Past performance reviews required by subpart 42.15;
 

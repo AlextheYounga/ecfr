@@ -2,7 +2,7 @@
 
 As prescribed in 4.1403(a), insert the following clause:
 
-Reporting Executive Compensation and First-Tier Subcontract Awards (Oct 2018)
+Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2018)
 
 (a) *Definitions.* As used in this clause:
 
@@ -38,7 +38,7 @@ Reporting Executive Compensation and First-Tier Subcontract Awards (Oct 2018)
 
 (B) $25,000,000 or more in annual gross revenues from Federal contracts (and subcontracts), loans, grants (and subgrants), cooperative agreements, and other forms of Federal financial assistance; and
 
-(ii) The public does not have access to information about the compensation of the executives through periodic reports filed under section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a), 78o(d)) or section 6104 of the Internal Revenue Code of 1986. (To determine if the public has access to the compensation information, see the U.S. Security and Exchange Commission total compensation filings at *http://www.sec.gov/answers/execomp.htm.).*
+(ii) The public does not have access to information about the compensation of the executives through periodic reports filed under section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a), 78o(d)) or section 6104 of the Internal Revenue Code of 1986. (To determine if the public has access to the compensation information, see the U.S. Security and Exchange Commission total compensation filings at *http://www.sec.gov/answers/execomp.htm.*).
 
 (2) *First-tier subcontract information.* Unless otherwise directed by the contracting officer, or as provided in paragraph (g) of this clause, by the end of the month following the month of award of a first-tier subcontract with a value of $30,000 or more, the Contractor shall report the following information at *http://www.fsrs.gov* for that first-tier subcontract. (The Contractor shall follow the instructions at *http://www.fsrs.gov* to report the data.)
 

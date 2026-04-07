@@ -2,13 +2,13 @@
 
 As prescribed in 4.1105(a)(1), use the following provision.
 
-System for Award Management (Oct 2018)
+System for Award Management (OCT 2018)
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
 *Electronic Funds Transfer (EFT) indicator* means a four-character suffix to the unique entity identifier. The suffix is assigned at the discretion of the commercial, nonprofit, or Government entity to establish additional System for Award Management records for identifying alternative EFT accounts (see subpart 32.11) for the same entity.
 
-*Registered in the System for Award Management (SAM)* means that -
+*Registered in the System for Award Management (SAM)* means that—
 
 (1) The Offeror has entered all mandatory information, including the unique entity identifier and the EFT indicator, if applicable, the Commercial and Government Entity (CAGE) code, as well as data required by the Federal Funding Accountability and Transparency Act of 2006 (see subpart 4.14) into SAM;
 
@@ -48,7 +48,7 @@ System for Award Management (Oct 2018)
 
 (d) Processing time should be taken into consideration when registering. Offerors who are not registered in SAM should consider applying for registration immediately upon receipt of this solicitation. See *https://www.sam.gov* for information on registration.
 
-*Alternate I* (Oct 2018). As prescribed in 4.1105(a)(2), substitute the following paragraph (b)(1) for paragraph (b)(1) of the basic provision:
+*Alternate I* (OCT 2018). As prescribed in 4.1105(a)(2), substitute the following paragraph (b)(1) for paragraph (b)(1) of the basic provision:
 
 (b)(1) An Offeror is required to be registered in SAM as soon as possible. If registration is not possible when submitting an offer or quotation, the awardee shall be registered in SAM in accordance with the requirements of clause 52.204-13, System for Award Management Maintenance.
 

@@ -2,13 +2,13 @@
 
 As prescribed at 9.104-7(b), insert the following provision:
 
-Information Regarding Responsibility Matters (Oct 2018)
+Information Regarding Responsibility Matters (OCT 2018)
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
 *Administrative proceeding* means a non-judicial process that is adjudicatory in nature in order to make a determination of fault or liability (e.g., Securities and Exchange Commission Administrative Proceedings, Civilian Board of Contract Appeals Proceedings, and Armed Services Board of Contract Appeals Proceedings). This includes administrative proceedings at the Federal and State level but only in connection with performance of a Federal contract or grant. It does not include agency actions such as contract audits, site visits, corrective plans, or inspection of deliverables.
 
-*Federal contracts and grants with total value greater than $10,000,000* means -
+*Federal contracts and grants with total value greater than $10,000,000* means—
 
 (1) The total value of all current, active contracts and grants, including all priced options; and
 
@@ -26,7 +26,7 @@ Information Regarding Responsibility Matters (Oct 2018)
 
 (ii) In a civil proceeding, a finding of fault and liability that results in the payment of a monetary fine, penalty, reimbursement, restitution, or damages of $5,000 or more.
 
-(iii) In an administrative proceeding, a finding of fault and liability that results in -
+(iii) In an administrative proceeding, a finding of fault and liability that results in—
 
 (A) The payment of a monetary fine or penalty of $5,000 or more; or
 
