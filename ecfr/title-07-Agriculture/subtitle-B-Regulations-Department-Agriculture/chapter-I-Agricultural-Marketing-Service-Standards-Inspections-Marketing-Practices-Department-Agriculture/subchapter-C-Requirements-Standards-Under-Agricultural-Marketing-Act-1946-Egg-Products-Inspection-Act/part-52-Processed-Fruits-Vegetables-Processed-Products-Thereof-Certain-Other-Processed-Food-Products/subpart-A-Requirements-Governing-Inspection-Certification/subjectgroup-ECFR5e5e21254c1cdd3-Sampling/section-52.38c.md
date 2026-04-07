@@ -28,10 +28,10 @@ Table XII—Frozen or Similarly Processed Fruits, Vegetables, and Products Conta
 | Container size group                                                     | Lot size (number of containers) |
 | ------------------------------------------------------------------------ | ------------------------------- |
 | Group 1: Any type of container of 1 lb or less net weight                | 9,600 or less                   |
-| Group 2: Any type of container over 1 lb but not over 21⁄2 lb net weight | 4,800 or less                   |
+| Group 2: Any type of container over 1 lb but not over 21/2 lb net weight | 4,800 or less                   |
 | Group 3: Any type of container over                                      |                                 |
-| Convert to equivalent number of 21⁄2-lb. containers and use group 2      |                                 |
-| 21⁄2 lbs.                                                                |                                 |
+| Convert to equivalent number of 21/2-lb. containers and use group 2      |                                 |
+| 21/2 lbs.                                                                |                                 |
 | Lot inspection: Sample size (number of sample units)                     | 6                               |
 
 Table XIII—Canned, Frozen, or Otherwise Processed Fruits, Vegetables, Related Products of a Comminuted, Fluid or Homogeneous State
