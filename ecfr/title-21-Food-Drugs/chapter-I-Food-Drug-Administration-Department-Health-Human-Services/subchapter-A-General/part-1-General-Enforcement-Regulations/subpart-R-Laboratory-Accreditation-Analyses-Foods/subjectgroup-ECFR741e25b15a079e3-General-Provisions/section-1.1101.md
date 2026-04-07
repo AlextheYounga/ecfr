@@ -4,6 +4,6 @@
 
 (b) International Organization for Standardization (ISO), Chemin de Blandonnet 8, CP 401, 1214 Vernier, Geneva, Switzerland; Telephone 41 22 749 01 11, *https://www.iso.org/home.html.*
 
-(1) ISO/IEC 17011:2017(E), Conformity assessment—Requirements for accreditation bodies accrediting conformity assessment bodies, Second edition, November 2017, IBR approved for §§ 1.1113(a) and (c), 1.1114(b), 1.1120(c), 1.1131(a).
+(1) ISO/IEC 17011:2017(E), Conformity assessment—Requirements for accreditation bodies accrediting conformity assessment bodies, Second edition, November 2017, IBR approved for §§ 1.1113(a) and (c), 1.1114(b), 1.1120(c), 1.1131(a). 
 
 (2) ISO/IEC 17025:2017(E), General requirements for the competence of testing and calibration laboratories, Third edition, November 2017, IBR approved for §§ 1.1120(c), 1.1121(a), 1.1138(a), 1.1139(b) and (c), 1.1141(a), 1.1152(a) and (d), 1.1153(c), and 1.1161(a).

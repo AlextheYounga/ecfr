@@ -1,20 +1,20 @@
 ##### § 1310.04 Maintenance of records.
 
-(a) Every record required to be kept subject to § 1310.03 for a List I chemical, a tableting machine, or an encapsulating machine shall be kept by the regulated person for 2 years after the date of the transaction.
+(a) Every record required to be kept subject to § 1310.03 for a List I chemical, a tableting machine, or an encapsulating machine shall be kept by the regulated person for 2 years after the date of the transaction. 
 
-(b) Every record required to be kept subject to Section 1310.03 for List II chemical shall be kept by the regulated person for two years after the date of the transaction.
+(b) Every record required to be kept subject to Section 1310.03 for List II chemical shall be kept by the regulated person for two years after the date of the transaction. 
 
-(c) A record under this section shall be kept at the regulated person's place of business where the transaction occurred, except that records may be kept at a single, central location of the regulated person if the regulated person has notified the Administration of the intention to do so. Written notification must be submitted by registered or certified mail, return receipt requested, to the Special Agent in Charge of the DEA Divisional Office for the area in which the records are required to be kept.
+(c) A record under this section shall be kept at the regulated person's place of business where the transaction occurred, except that records may be kept at a single, central location of the regulated person if the regulated person has notified the Administration of the intention to do so. Written notification must be submitted by registered or certified mail, return receipt requested, to the Special Agent in Charge of the DEA Divisional Office for the area in which the records are required to be kept. 
 
-(d) The records required to be kept under this section shall be readily retrievable and available for inspection and copying by authorized employees of the Administration under the provisions of 21 U.S.C. 880.
+(d) The records required to be kept under this section shall be readily retrievable and available for inspection and copying by authorized employees of the Administration under the provisions of 21 U.S.C. 880. 
 
-(e) The regulated person with more than one place of business where records are required to be kept shall devise a system to detect any party purchasing from several individual locations of the regulated person thereby seeking to avoid the application of the cumulative threshold or evading the requirements of the Act.
+(e) The regulated person with more than one place of business where records are required to be kept shall devise a system to detect any party purchasing from several individual locations of the regulated person thereby seeking to avoid the application of the cumulative threshold or evading the requirements of the Act. 
 
-(f) For those listed chemicals for which thresholds have been established, the quantitative threshold or the cumulative amount for multiple transactions within a calendar month, to be utilized in determining whether a receipt, sale, importation or exportation is a regulated transaction is as follows:
+(f) For those listed chemicals for which thresholds have been established, the quantitative threshold or the cumulative amount for multiple transactions within a calendar month, to be utilized in determining whether a receipt, sale, importation or exportation is a regulated transaction is as follows: 
 
-(1) List I chemicals:
+(1) List I chemicals: 
 
-(i) Except as provided in paragraph (f)(1)(ii) of this section, the following thresholds have been established for List I chemicals.
+(i) Except as provided in paragraph (f)(1)(ii) of this section, the following thresholds have been established for List I chemicals. 
 
 | Code | Chemical                                                                          | Threshold by base weight              |
 | ---- | --------------------------------------------------------------------------------- | ------------------------------------- |
@@ -39,11 +39,11 @@
 | 8328 | Propionic anhydride                                                               | 1 gram.                               |
 | 8323 | Safrole                                                                           | 4 kilograms.                          |
 
-(ii) For List I chemicals that are contained in scheduled listed chemical products as defined in § 1300.02 of this chapter, the thresholds established in paragraph (g) of this section apply only to non-retail distribution, import, and export. Sales of these products at retail are subject to the requirements of part 1314 of this chapter.
+(ii) For List I chemicals that are contained in scheduled listed chemical products as defined in § 1300.02 of this chapter, the thresholds established in paragraph (g) of this section apply only to non-retail distribution, import, and export. Sales of these products at retail are subject to the requirements of part 1314 of this chapter. 
 
-(2) List II Chemicals:
+(2) List II Chemicals: 
 
-(i) Imports and Exports
+(i) Imports and Exports 
 
 | Chemical                   | Threshold by volume | Threshold by weight |
 | -------------------------- | ------------------- | ------------------- |
@@ -56,7 +56,7 @@
 | (G) Toluene                | 500 gallons         | 1,591 kilograms.    |
 | (H) Sodium permanganate    | N/A                 | 500 kilograms       |
 
-(ii) Domestic Sales
+(ii) Domestic Sales 
 
 | Chemical                        | Threshold by volume | Threshold by weight |
 | ------------------------------- | ------------------- | ------------------- |
@@ -70,9 +70,9 @@
 | (H) Anhydrous Hydrogen chloride | N/A                 | 0.0 kilograms.      |
 | (I) Sodium permanganate         | N/A                 | 55 kilograms        |
 
-(iii) The cumulative threshold is not applicable to domestic sales of Acetone, 2-Butanone (MEK), and Toluene.
+(iii) The cumulative threshold is not applicable to domestic sales of Acetone, 2-Butanone (MEK), and Toluene. 
 
-(iv) Exports, Transshipments and International Transactions to Designated Countries as Set Forth in § 1310.08(b).
+(iv) Exports, Transshipments and International Transactions to Designated Countries as Set Forth in § 1310.08(b). 
 
 | Chemical                        | Threshold by   volume | Threshold by weight |
 | ------------------------------- | --------------------- | ------------------- |
@@ -80,65 +80,63 @@
 | (1) Anhydrous Hydrogen chloride |                       | 27 kilograms.       |
 | (B) Sulfuric acid               | 50 gallons            |                     |
 
-(v) Export and International Transactions to Designated Countries, and Importations for Transshipment or Transfer to Designated Countries
+(v) Export and International Transactions to Designated Countries, and Importations for Transshipment or Transfer to Designated Countries 
 
 | Chemical                          | Threshold by volume | Threshold by weight |
 | --------------------------------- | ------------------- | ------------------- |
 | (A) Methyl Isobutyl Ketone (MIBK) | 500 gallons         | 1523 kilograms.     |
 | (B) Reserved.                     |                     |                     |
 
-(g) For listed chemicals for which no thresholds have been established, the size of the transaction is not a factor in determining whether the transaction meets the definition of a regulated transaction as set forth in § 1300.02 of this chapter. All such transactions, regardless of size, are subject to recordkeeping and reporting requirements as set forth in this part and notification provisions as set forth in part 1313 of this chapter.
+(g) For listed chemicals for which no thresholds have been established, the size of the transaction is not a factor in determining whether the transaction meets the definition of a regulated transaction as set forth in § 1300.02 of this chapter. All such transactions, regardless of size, are subject to recordkeeping and reporting requirements as set forth in this part and notification provisions as set forth in part 1313 of this chapter. 
 
-(1) Listed chemicals for which no thresholds have been established:
+(1) Listed chemicals for which no thresholds have been established: 
 
-(i) Alpha-phenylacetoacetamide (APAA) and its optical isomers
+(i) Alpha-phenylacetoacetamide (APAA) and its optical isomers 
 
-(ii) Alpha-phenylacetoacetonitrile and its salts, optical isomers, and salts of optical isomers (APAAN)
+(ii) Alpha-phenylacetoacetonitrile and its salts, optical isomers, and salts of optical isomers (APAAN) 
 
-(iii) 1-boc-4-AP (*tert*-butyl 4-(phenylamino)piperidine-1-carboxylate) and its salts.
+(iii) 1-boc-4-AP (*tert*-butyl 4-(phenylamino)piperidine-1-carboxylate) and its salts. 
 
-(iv) 1-boc-4-piperidone (*tert*-butyl 4-oxopiperidine-1-carboxylate) and its salts.
+(iv) Ephedrine, its salts, optical isomers, and salts of optical isomers; 
 
-(v) Ephedrine, its salts, optical isomers, and salts of optical isomers;
+(v) Ergocristine and its salts 
 
-(vi) Ergocristine and its salts
+(vi) Gamma-Butyrolactone (Other names include: GBL; Dihydro-2(3H)-furanone; 1,2-Butanolide; 1,4-Butanolide; 4-Hydroxybutanoic acid lactone; gamma-hydroxybutyric acid lactone) 
 
-(vii) Gamma-Butyrolactone (Other names include: GBL; Dihydro-2(3H)-furanone; 1,2-Butanolide; 1,4-Butanolide; 4-Hydroxybutanoic acid lactone; gamma-hydroxybutyric acid lactone)
+(vii) Hypophosphorous acid and its salts (including ammonium hypophosphite, calcium hypophosphite, iron hypophosphite, potassium hypophosphite, manganese hypophosphite, magnesium hypophosphite, and sodium hypophosphite) 
 
-(viii) Hypophosphorous acid and its salts (including ammonium hypophosphite, calcium hypophosphite, iron hypophosphite, potassium hypophosphite, manganese hypophosphite, magnesium hypophosphite, and sodium hypophosphite)
+(viii) Iodine 
 
-(ix) Iodine
+(ix) 3,4-MDP-2-P methyl glycidate (PMK glycidate) and its optical and geometric isomers 
 
-(x) 3,4-MDP-2-P methyl glycidate (PMK glycidate) and its optical and geometric isomers
+(x) 3,4-MDP-2-P methyl glycidic acid (PMK glycidic acid) and its salts, optical and geometric isomers, and salts of isomers 
 
-(xi) 3,4-MDP-2-P methyl glycidic acid (PMK glycidic acid) and its salts, optical and geometric isomers, and salts of isomers
+(xi) methyl *alpha*-phenylacetoacetate (MAPA; methyl 3-oxo-2-phenylbutanoate) and its optical isomers 
 
-(xii) methyl *alpha*-phenylacetoacetate (MAPA; methyl 3-oxo-2-phenylbutanoate) and its optical isomers
+(xii) *N*-(1-benzylpiperidin-4-yl)-*N*-phenylpropionamide (benzylfentanyl) and its salts 
 
-(xiii) *N*-(1-benzylpiperidin-4-yl)-*N*-phenylpropionamide (benzylfentanyl) and its salts
+(xiii) N-phenethyl-4-piperidone (NPP) 
 
-(xiv) N-phenethyl-4-piperidone (NPP)
+(xiv) *N*-phenylpiperidin-4-amine (4-anilinopiperidine; *N*-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, its halides, its salts, and any combination thereof, whenever the existence of such is possible. 
 
-(xv) *N*-phenylpiperidin-4-amine (4-anilinopiperidine; *N*-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, its halides, its salts, and any combination thereof, whenever the existence of such is possible.
+(xv) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers 
 
-(xvi) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers
+(xvi) Phenylpropanolamine, its salts, optical isomers, and salts of optical isomers 
 
-(xvii) Phenylpropanolamine, its salts, optical isomers, and salts of optical isomers
+(xvii) 4-piperidone (piperidin-4-one), its acetals, its amides, its carbamates, its salts, and salts of its acetals, its amides, and its carbamates, and any combination thereof, whenever the existence of such is possible 
 
-(xviii) 4-piperidone (piperidin-4-one), its acetals, its amides, its carbamates, its salts, and salts of its acetals, its amides, and its carbamates, and any combination thereof, whenever the existence of such is possible
+(xviii) Red phosphorus 
 
-(xix) Red phosphorus
+(xix) White phosphorus (Other names: Yellow Phosphorus) 
 
-(xx) White phosphorus (Other names: Yellow Phosphorus)
+(2) \[Reserved\] 
 
-(2) \[Reserved\]
+(h) The thresholds and conditions in paragraphs (f) and (g) of this section will apply to transactions involving regulated chemical mixtures. For purposes of determining whether the weight or volume of a chemical mixture meets or exceeds the applicable quantitative threshold, the following rules apply: 
 
-(h) The thresholds and conditions in paragraphs (f) and (g) of this section will apply to transactions involving regulated chemical mixtures. For purposes of determining whether the weight or volume of a chemical mixture meets or exceeds the applicable quantitative threshold, the following rules apply:
+(1) For chemical mixtures containing List I chemicals or List II chemicals other than those in paragraph (h)(2) of this section, the threshold is determined by the weight of the listed chemical in the chemical mixture. 
 
-(1) For chemical mixtures containing List I chemicals or List II chemicals other than those in paragraph (h)(2) of this section, the threshold is determined by the weight of the listed chemical in the chemical mixture.
+(2) For the List II chemicals acetone, ethyl ether, 2-butanone, toluene, and methyl isobutyl ketone, the threshold is determined by the weight of the entire chemical mixture. 
 
-(2) For the List II chemicals acetone, ethyl ether, 2-butanone, toluene, and methyl isobutyl ketone, the threshold is determined by the weight of the entire chemical mixture.
-
-(3) If two or more listed chemicals are present in a chemical mixture, and the quantity of any of these chemicals equals or exceeds the threshold applicable to that chemical, then the transaction is regulated.
+(3) If two or more listed chemicals are present in a chemical mixture, and the quantity of any of these chemicals equals or exceeds the threshold applicable to that chemical, then the transaction is regulated. 
 
 \[54 FR 31665, Aug. 1, 1989\] Editorial Note:For Federal Register citations affecting § 1310.04, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
