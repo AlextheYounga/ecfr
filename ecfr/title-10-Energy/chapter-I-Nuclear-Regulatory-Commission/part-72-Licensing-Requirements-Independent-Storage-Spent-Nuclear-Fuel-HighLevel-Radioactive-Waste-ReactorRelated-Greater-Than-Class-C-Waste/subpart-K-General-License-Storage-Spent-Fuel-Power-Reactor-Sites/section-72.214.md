@@ -154,9 +154,7 @@ Amendment Number 6 Effective Date: August 17, 2009.
 
 Amendment Number 7 Effective Date: December 28, 2009.
 
-Amendment Number 8 Effective Date: May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by Amendment 8, Revision 1
-
-Effective Date: February 16, 2016.
+Amendment Number 8 Effective Date: May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by Amendment 8, Revision 1 Effective Date: February 16, 2016.
 
 Amendment Number 8, Revision 1 Effective Date: February 16, 2016.
 
@@ -166,13 +164,13 @@ Amendment Number 9, Revision 1, Effective Date: March 21, 2016, as corrected (AD
 
 Amendment Number 10 Effective Date: May 31, 2016, as corrected (ADAMS Accession No. ML17236A452).
 
-Amendment Number 11 Effective Date: February 25, 2019.
+Amendment Number 11 Effective Date: February 25, 2019, as corrected (ADAMS Accession No. ML19343B024).
 
-Amendment Number 12 Effective Date: February 25, 2019, as corrected (ADAMS Accession No. ML19109A111).
+Amendment Number 12 Effective Date: February 25, 2019, as corrected on May 30, 2019 (ADAMS Accession No. ML19109A111); further corrected December 23, 2019 (ADAMS Accession No. ML19343A908).
 
-Amendment Number 13 Effective Date: May 13, 2019, as corrected (ADAMS Accession No. ML19109A122).
+Amendment Number 13 Effective Date: May 13, 2019, as corrected on May 30, 2019 (ADAMS Accession No. ML19109A122); further corrected December 23, 2019 (ADAMS Accession No. ML19343B156).
 
-Amendment Number 14 Effective Date: December 17, 2019
+Amendment Number 14 Effective Date: December 17, 2019, as corrected (ADAMS Accession No. ML19343B287).
 
 Safety Analysis Report (SAR) Submitted by: Holtec International.
 
