@@ -1,6 +1,6 @@
 ##### § 135.605 Helicopter terrain awareness and warning system (HTAWS).
 
-(a) After April 24, 2017, no person may operate a helicopter in helicopter air ambulance operations unless that helicopter is equipped with a helicopter terrain awareness and warning system (HTAWS) that meets the requirements in TSO-C194 and Section 2 of RTCA DO-309.
+(a) After April 24, 2017, no person may operate a helicopter in helicopter air ambulance operations unless that helicopter is equipped with a helicopter terrain awareness and warning system (HTAWS) that meets the requirements in TSO-C194 and Section 2 of RTCA DO-309.Federal Register*http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) The certificate holder's Rotorcraft Flight Manual must contain appropriate procedures for—
 

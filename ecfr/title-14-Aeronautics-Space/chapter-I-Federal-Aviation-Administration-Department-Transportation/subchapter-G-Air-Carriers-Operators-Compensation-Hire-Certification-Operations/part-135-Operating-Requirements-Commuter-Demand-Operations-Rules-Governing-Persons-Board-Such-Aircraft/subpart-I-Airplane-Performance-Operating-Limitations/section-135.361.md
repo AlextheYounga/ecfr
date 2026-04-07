@@ -1,6 +1,6 @@
 ##### § 135.361 Applicability.
 
-(a) This subpart prescribes airplane performance operating limitations applicable to the operation of the categories of airplanes listed in § 135.363 when operated under this part.
+(a) This subpart prescribes airplane performance operating limitations applicable to the operation of the categories of airplanes listed in § 135.363 when operated under this part.*effective length of the runway,*
 
 (b) For the purpose of this subpart, *effective length of the runway,* for landing means the distance from the point at which the obstruction clearance plane associated with the approach end of the runway intersects the centerline of the runway to the far end of the runway.
 

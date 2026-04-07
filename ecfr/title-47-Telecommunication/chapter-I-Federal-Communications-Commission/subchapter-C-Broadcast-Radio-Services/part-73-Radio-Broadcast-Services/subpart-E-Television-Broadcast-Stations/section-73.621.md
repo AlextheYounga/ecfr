@@ -1,6 +1,6 @@
 ##### § 73.621 Noncommercial educational TV stations.
 
-In addition to the other provisions of this subpart, the following shall be applicable to noncommercial educational television broadcast stations:
+In addition to the other provisions of this subpart, the following shall be applicable to noncommercial educational television broadcast stations:*promotional*
 
 (a) Except as provided in paragraph (b) of this section, noncommercial educational broadcast stations will be licensed only to nonprofit educational organizations upon a showing that the proposed stations will be used primarily to serve the educational needs of the community; for the advancement of educational programs; and to furnish a nonprofit and noncommercial television broadcast service.
 

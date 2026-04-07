@@ -1,6 +1,6 @@
 ##### § 135.143 General requirements.
 
-(a) No person may operate an aircraft under this part unless that aircraft and its equipment meet the applicable regulations of this chapter.
+(a) No person may operate an aircraft under this part unless that aircraft and its equipment meet the applicable regulations of this chapter.*Through January 1, 1992:*
 
 (b) Except as provided in § 135.179, no person may operate an aircraft under this part unless the required instruments and equipment in it have been approved and are in an operable condition.
 

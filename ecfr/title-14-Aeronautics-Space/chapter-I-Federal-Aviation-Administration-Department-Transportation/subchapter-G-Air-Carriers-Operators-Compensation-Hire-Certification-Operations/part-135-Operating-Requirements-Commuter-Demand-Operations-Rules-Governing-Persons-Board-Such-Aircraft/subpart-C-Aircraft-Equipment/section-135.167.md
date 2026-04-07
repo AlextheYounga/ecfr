@@ -1,6 +1,6 @@
 ##### § 135.167 Emergency equipment: Extended overwater operations.
 
-(a) Except where the Administrator, by amending the operations specifications of the certificate holder, requires the carriage of all or any specific items of the equipment listed below for any overwater operation, or, upon application of the certificate holder, the Administrator allows deviation for a particular extended overwater operation, no person may operate an aircraft in extended overwater operations unless it carries, installed in conspicuously marked locations easily accessible to the occupants if a ditching occurs, the following equipment:
+(a) Except where the Administrator, by amending the operations specifications of the certificate holder, requires the carriage of all or any specific items of the equipment listed below for any overwater operation, or, upon application of the certificate holder, the Administrator allows deviation for a particular extended overwater operation, no person may operate an aircraft in extended overwater operations unless it carries, installed in conspicuously marked locations easily accessible to the occupants if a ditching occurs, the following equipment:2
 
 (1) An approved life preserver equipped with an approved survivor locator light for each occupant of the aircraft. The life preserver must be easily accessible to each seated occupant.
 

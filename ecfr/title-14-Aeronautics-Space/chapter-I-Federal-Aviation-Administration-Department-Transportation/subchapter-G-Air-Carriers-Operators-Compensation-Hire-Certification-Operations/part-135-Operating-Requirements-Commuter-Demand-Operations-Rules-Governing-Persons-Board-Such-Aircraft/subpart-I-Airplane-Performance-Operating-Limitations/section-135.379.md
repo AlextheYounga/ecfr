@@ -1,6 +1,6 @@
 ##### § 135.379 Large transport category airplanes: Turbine engine powered: Takeoff limitations.
 
-(a) No person operating a turbine engine powered large transport category airplane may take off that airplane at a weight greater than that listed in the Airplane Flight Manual for the elevation of the airport and for the ambient temperature existing at take- off.
+(a) No person operating a turbine engine powered large transport category airplane may take off that airplane at a weight greater than that listed in the Airplane Flight Manual for the elevation of the airport and for the ambient temperature existing at take- off.*takeoff distance, takeoff run, net takeoff flight path,*
 
 (b) No person operating a turbine engine powered large transport category airplane certificated after August 26, 1957, but before August 30, 1959 (SR422, 422A), may take off that airplane at a weight greater than that listed in the Airplane Flight Manual for the minimum distance required for takeoff. In the case of an airplane certificated after September 30, 1958 (SR422A, 422B), the takeoff distance may include a clearway distance but the clearway distance included may not be greater than one-half of the takeoff run.
 

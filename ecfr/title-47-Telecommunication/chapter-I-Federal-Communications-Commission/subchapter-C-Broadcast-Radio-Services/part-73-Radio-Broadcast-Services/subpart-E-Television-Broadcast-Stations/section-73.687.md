@@ -1,6 +1,6 @@
 ##### § 73.687 Transmission system requirements.
 
-(a)-(b) \[Reserved\]
+(a)-(b) \[Reserved\]*Requirements applicable to transmitters are as follows:*
 
 (c) *Requirements applicable to transmitters are as follows:* (1) \[Reserved\]
 

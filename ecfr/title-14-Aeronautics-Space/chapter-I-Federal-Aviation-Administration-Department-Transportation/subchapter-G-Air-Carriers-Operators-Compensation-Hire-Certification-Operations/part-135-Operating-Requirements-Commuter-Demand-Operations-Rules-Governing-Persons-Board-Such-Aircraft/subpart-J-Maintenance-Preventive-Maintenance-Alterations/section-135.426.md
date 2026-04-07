@@ -1,6 +1,6 @@
 ##### § 135.426 Contract maintenance.
 
-(a) A certificate holder may arrange with another person for the performance of maintenance, preventive maintenance, and alterations as authorized in § 135.437(a) only if the certificate holder has met all the requirements in this section. For purposes of this section—
+(a) A certificate holder may arrange with another person for the performance of maintenance, preventive maintenance, and alterations as authorized in § 135.437(a) only if the certificate holder has met all the requirements in this section. For purposes of this section—*maintenance provider*
 
 (1) A *maintenance provider* is any person who performs maintenance, preventive maintenance, or an alteration for a certificate holder other than a person who is trained by and employed directly by that certificate holder.
 

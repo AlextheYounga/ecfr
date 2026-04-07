@@ -1,6 +1,6 @@
 ##### § 135.91 Oxygen and portable oxygen concentrators for medical use by passengers.
 
-(a) Except as provided in paragraphs (d) and (e) of this section, no certificate holder may allow the carriage or operation of equipment for the storage, generation or dispensing of medical oxygen unless the conditions in paragraphs (a) through (c) of this section are satisfied. Beginning August 22, 2016, a certificate holder may allow a passenger to carry and operate a portable oxygen concentrator when the conditions in paragraphs (b) and (f) of this section are satisfied.
+(a) Except as provided in paragraphs (d) and (e) of this section, no certificate holder may allow the carriage or operation of equipment for the storage, generation or dispensing of medical oxygen unless the conditions in paragraphs (a) through (c) of this section are satisfied. Beginning August 22, 2016, a certificate holder may allow a passenger to carry and operate a portable oxygen concentrator when the conditions in paragraphs (b) and (f) of this section are satisfied.*Portable oxygen concentrators*
 
 (1) The equipment must be—
 

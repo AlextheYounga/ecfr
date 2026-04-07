@@ -1,6 +1,6 @@
 ##### § 135.423 Maintenance, preventive maintenance, and alteration organization.
 
-(a) Each certificate holder that performs any of its maintenance (other than required inspections), preventive maintenance, or alterations, and each person with whom it arranges for the performance of that work, must have an organization adequate to perform the work.
+(a) Each certificate holder that performs any of its maintenance (other than required inspections), preventive maintenance, or alterations, and each person with whom it arranges for the performance of that work, must have an organization adequate to perform the work.*required inspections*
 
 (b) Each certificate holder that performs any inspections required by its manual under § 135.427(b) (2) or (3), (in this subpart referred to as *required inspections*), and each person with whom it arranges for the performance of that work, must have an organization adequate to perform that work.
 

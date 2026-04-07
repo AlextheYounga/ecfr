@@ -1,6 +1,6 @@
 ##### § 135.127 Passenger information requirements and smoking prohibitions.
 
-(a) No person may conduct a scheduled flight on which smoking is prohibited by part 252 of this title unless the “No Smoking” passenger information signs are lighted during the entire flight, or one or more “No Smoking” placards meeting the requirements of § 25.1541 of this chapter are posted during the entire flight. If both the lighted signs and the placards are used, the signs must remain lighted during the entire flight segment.
+(a) No person may conduct a scheduled flight on which smoking is prohibited by part 252 of this title unless the “No Smoking” passenger information signs are lighted during the entire flight, or one or more “No Smoking” placards meeting the requirements of § 25.1541 of this chapter are posted during the entire flight. If both the lighted signs and the placards are used, the signs must remain lighted during the entire flight segment.*On-demand operations.*
 
 (b) No person may smoke while a “No Smoking” sign is lighted or while “No Smoking” placards are posted, except as follows:
 

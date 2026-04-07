@@ -1,6 +1,6 @@
 ##### § 135.3 Rules applicable to operations subject to this part.
 
-(a) Each person operating an aircraft in operations under this part shall—
+(a) Each person operating an aircraft in operations under this part shall—*Upgrade training.*
 
 (1) While operating inside the United States, comply with the applicable rules of this chapter; and
 

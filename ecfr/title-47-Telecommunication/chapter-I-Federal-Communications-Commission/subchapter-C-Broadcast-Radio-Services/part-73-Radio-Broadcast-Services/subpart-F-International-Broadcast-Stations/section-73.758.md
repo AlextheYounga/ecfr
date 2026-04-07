@@ -1,6 +1,6 @@
 ##### § 73.758 System specifications for digitally modulated emissions in the HF broadcasting service.
 
-(a) For digitally modulated emissions, the Digital Radio Mondiale (DRM) standard shall be employed. Both digital audio broadcasting and datacasting are authorized. The RF requirements for the DRM system are specified in paragraphs (b) and (c), of this section.
+(a) For digitally modulated emissions, the Digital Radio Mondiale (DRM) standard shall be employed. Both digital audio broadcasting and datacasting are authorized. The RF requirements for the DRM system are specified in paragraphs (b) and (c), of this section.*System parameters*
 
 (b) *System parameters*—(1) *Channel spacing.* The initial spacing for digitally modulated emissions shall be 10 kHz. However, interleaved channels with a separation of 5 kHz may be used in accordance with the appropriate protection criteria appearing in Resolution 543 (WRC-03), provided that the interleaved emission is not to the same geographical area as either of the emissions between which it is interleaved.
 

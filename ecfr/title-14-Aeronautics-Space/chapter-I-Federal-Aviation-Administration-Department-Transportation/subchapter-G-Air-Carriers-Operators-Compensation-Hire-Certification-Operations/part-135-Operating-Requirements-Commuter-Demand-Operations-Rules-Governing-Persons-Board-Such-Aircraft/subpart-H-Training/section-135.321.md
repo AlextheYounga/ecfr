@@ -1,6 +1,6 @@
 ##### § 135.321 Applicability and terms used.
 
-(a) Except as provided in § 135.3, this subpart prescribes the requirements applicable to—
+(a) Except as provided in § 135.3, this subpart prescribes the requirements applicable to—*Initial training.*
 
 (1) A certificate holder under this part which contracts with, or otherwise arranges to use the services of a training center certificated under part 142 to perform training, testing, and checking functions;
 

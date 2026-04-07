@@ -1,6 +1,6 @@
 ##### § 73.1680 Emergency antennas.
 
-(a) An emergency antenna is one that is erected for temporary use after the authorized main and auxiliary antennas are damaged and cannot be used.
+(a) An emergency antenna is one that is erected for temporary use after the authorized main and auxiliary antennas are damaged and cannot be used.*AM stations.*
 
 (b) Prior authority from the FCC is not required by licensees and permittees to erect and commence operations using an emergency antenna to restore program service to the public. However, an informal letter request to continue operation with the emergency antenna must be made within 24 hours to the FCC in Washington, DC, Attention: Audio Division (radio) or Video Division (television), Media Bureau, within 24 hours after commencement of its use. The request is to include a description of the damage to the authorized antenna, a description of the emergency antenna, and the station operating power with the emergency antenna.
 

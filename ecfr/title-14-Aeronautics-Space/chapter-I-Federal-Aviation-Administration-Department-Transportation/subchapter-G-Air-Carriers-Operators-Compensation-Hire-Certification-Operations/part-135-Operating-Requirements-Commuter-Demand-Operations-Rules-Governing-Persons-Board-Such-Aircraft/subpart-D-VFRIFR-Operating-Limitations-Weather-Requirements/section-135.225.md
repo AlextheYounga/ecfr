@@ -1,6 +1,6 @@
 ##### § 135.225 IFR: Takeoff, approach and landing minimums.
 
-(a) Except to the extent permitted by paragraphs (b) and (j) of this section, no pilot may begin an instrument approach procedure to an airport unless—
+(a) Except to the extent permitted by paragraphs (b) and (j) of this section, no pilot may begin an instrument approach procedure to an airport unless—1/2
 
 (1) That airport has a weather reporting facility operated by the U.S. National Weather Service, a source approved by U.S. National Weather Service, or a source approved by the Administrator; and
 

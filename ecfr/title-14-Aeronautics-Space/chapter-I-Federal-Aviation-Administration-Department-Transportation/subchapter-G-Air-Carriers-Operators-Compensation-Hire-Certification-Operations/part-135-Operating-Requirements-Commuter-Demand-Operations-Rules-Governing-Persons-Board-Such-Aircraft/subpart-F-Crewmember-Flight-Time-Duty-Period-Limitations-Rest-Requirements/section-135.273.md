@@ -1,6 +1,6 @@
 ##### § 135.273 Duty period limitations and rest time requirements.
 
-(a) For purposes of this section—
+(a) For purposes of this section—*Calendar day*
 
 *Calendar day* means the period of elapsed time, using Coordinated Universal Time or local time, that begins at midnight and ends 24 hours later at the next midnight.
 

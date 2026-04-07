@@ -1,6 +1,6 @@
 ##### § 135.4 Applicability of rules for eligible on-demand operations.
 
-(a) An “eligible on-demand operation” is an on-demand operation conducted under this part that meets the following requirements:
+(a) An “eligible on-demand operation” is an on-demand operation conducted under this part that meets the following requirements:*Two-pilot crew.*3/4
 
 (1) *Two-pilot crew.* The flightcrew must consist of at least two qualified pilots employed or contracted by the certificate holder.
 

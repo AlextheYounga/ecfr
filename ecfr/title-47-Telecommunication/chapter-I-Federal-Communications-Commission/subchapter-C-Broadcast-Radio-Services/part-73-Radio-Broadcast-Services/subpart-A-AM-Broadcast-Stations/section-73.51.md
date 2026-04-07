@@ -1,6 +1,6 @@
 ##### § 73.51 Determining operating power.
 
-(a) Except in those circumstances described in paragraph (d) of this section, the operating power shall be determined by the direct method. The direct method consists of either:
+(a) Except in those circumstances described in paragraph (d) of this section, the operating power shall be determined by the direct method. The direct method consists of either:*F*
 
 (1) using a suitable instrument for determining the antenna's input power directly from the RF voltage, RF current, and phase angle; or
 
@@ -34,7 +34,7 @@
 
 (e) The antenna input power is determined indirectly by applying an appropriate factor to the input power to the last radio-frequency power amplifier stage of the transmitter, using the following formula:
 
-Where: Antenna input power = Ep × Ip × *F*Ep = DC input voltage of final radio stage. Ip = Total DC input current of final radio stage. *F=* Efficiency factor.
+Where: Antenna input power = Ep × Ip × *F*Ep = DC input voltage of final radio stage. *F=*Ip = Total DC input current of final radio stage. *F=* Efficiency factor.
 
 (1) If the above formula is not appropriate for the design of the transmitter final amplifier, use a formula specified by the transmitter manufacturer with other appropriate operating parameters.
 
@@ -52,7 +52,7 @@ Where: Antenna input power = Ep × Ip × *F*Ep = DC input voltage of final radio
 
 | Factor(F)                                                                               | Method of modulation | Maximum rated carrier power | Class of amplifier |
 | --------------------------------------------------------------------------------------- | -------------------- | --------------------------- | ------------------ |
-| 0.70                                                                                    | Plate                | 1 kW or less                |                    |
+| 0.701                                                                                   | Plate                | 1 kW or less                |                    |
 | .80                                                                                     | Plate                | 2.5 kW and over             |                    |
 | .35                                                                                     | Low level            | 0.25 kW and over            | B                  |
 | .65                                                                                     | Low level            | 0.25 kW and over            | BC1                |

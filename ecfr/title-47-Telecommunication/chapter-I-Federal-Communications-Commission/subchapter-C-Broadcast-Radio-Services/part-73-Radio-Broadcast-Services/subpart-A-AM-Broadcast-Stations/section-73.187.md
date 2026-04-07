@@ -1,6 +1,6 @@
 ##### § 73.187 Limitation on daytime radiation.
 
-(a)(1) Except as otherwise provided in paragraphs (a)(2) and (3) of this section, no authorization will be granted for a Class B or Class D station on a frequency specified in § 73.25 if the proposed operation would radiate during the period of critical hours (the two hours after local sunrise and the two hours before local sunset) toward any point on the 0.1 mV/m contour of a co-channel U.S. Class A station, at or below the pertinent vertical angle determined from Curve 2 of Figure 6a of § 73.190, values in excess of those obtained as provided in paragraph (b) of this section.
+(a)(1) Except as otherwise provided in paragraphs (a)(2) and (3) of this section, no authorization will be granted for a Class B or Class D station on a frequency specified in § 73.25 if the proposed operation would radiate during the period of critical hours (the two hours after local sunrise and the two hours before local sunset) toward any point on the 0.1 mV/m contour of a co-channel U.S. Class A station, at or below the pertinent vertical angle determined from Curve 2 of Figure 6a of § 73.190, values in excess of those obtained as provided in paragraph (b) of this section.500*Interpolation factors.*
 
 (2) The limitation set forth in paragraph (a)(1) of this section shall not apply in the following cases:
 
@@ -18,36 +18,36 @@
 
 (c) *Interpolation factors.* (1) Frequencies below 1000 kHz.
 
-| fkHz | K500  | K1000 |
-| ---- | ----- | ----- |
-| 640  | 0.720 | 0.280 |
-| 650  | 0.700 | 0.300 |
-| 660  | 0.680 | 0.320 |
-| 670  | 0.660 | 0.340 |
-| 680  | 0.640 | 0.360 |
-| 690  | 0.620 | 0.380 |
-| 700  | 0.600 | 0.400 |
-| 710  | 0.580 | 0.420 |
-| 720  | 0.560 | 0.440 |
-| 730  | 0.540 | 0.460 |
-| 740  | 0.520 | 0.480 |
-| 750  | 0.500 | 0.500 |
-| 760  | 0.480 | 0.520 |
-| 770  | 0.460 | 0.540 |
-| 780  | 0.440 | 0.560 |
-| 800  | 0.400 | 0.600 |
-| 810  | 0.380 | 0.620 |
-| 820  | 0.360 | 0.640 |
-| 830  | 0.340 | 0.660 |
-| 840  | 0.320 | 0.680 |
-| 850  | 0.300 | 0.700 |
-| 860  | 0.280 | 0.720 |
-| 870  | 0.260 | 0.740 |
-| 880  | 0.240 | 0.760 |
-| 890  | 0.220 | 0.780 |
-| 900  | 0.200 | 0.800 |
-| 940  | 0.120 | 0.880 |
-| 990  | 0.020 | 0.980 |
+| fkHz500 | K500  | K1000 |
+| ------- | ----- | ----- |
+| 640     | 0.720 | 0.280 |
+| 650     | 0.700 | 0.300 |
+| 660     | 0.680 | 0.320 |
+| 670     | 0.660 | 0.340 |
+| 680     | 0.640 | 0.360 |
+| 690     | 0.620 | 0.380 |
+| 700     | 0.600 | 0.400 |
+| 710     | 0.580 | 0.420 |
+| 720     | 0.560 | 0.440 |
+| 730     | 0.540 | 0.460 |
+| 740     | 0.520 | 0.480 |
+| 750     | 0.500 | 0.500 |
+| 760     | 0.480 | 0.520 |
+| 770     | 0.460 | 0.540 |
+| 780     | 0.440 | 0.560 |
+| 800     | 0.400 | 0.600 |
+| 810     | 0.380 | 0.620 |
+| 820     | 0.360 | 0.640 |
+| 830     | 0.340 | 0.660 |
+| 840     | 0.320 | 0.680 |
+| 850     | 0.300 | 0.700 |
+| 860     | 0.280 | 0.720 |
+| 870     | 0.260 | 0.740 |
+| 880     | 0.240 | 0.760 |
+| 890     | 0.220 | 0.780 |
+| 900     | 0.200 | 0.800 |
+| 940     | 0.120 | 0.880 |
+| 990     | 0.020 | 0.980 |
 
 (2) Frequencies above 1000 kHz.
 

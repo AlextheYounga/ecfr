@@ -1,8 +1,8 @@
 ##### § 73.160 Vertical plane radiation characteristics, f(θ).
 
-(a) The vertical plane radiation characteristics show the relative field being radiated at a given vertical angle, with respect to the horizontal plane. The vertical angle, represented as θ, is 0 degrees in the horizontal plane, and 90 degrees when perpendicular to the horizontal plane. The vertical plane radiation characteristic is referred to as f(θ). The generic formula for f(θ) is:
+(a) The vertical plane radiation characteristics show the relative field being radiated at a given vertical angle, with respect to the horizontal plane. The vertical angle, represented as θ, is 0 degrees in the horizontal plane, and 90 degrees when perpendicular to the horizontal plane. The vertical plane radiation characteristic is referred to as f(θ). The generic formula for f(θ) is:*must*
 
-f(θ) = E(θ)/E(O) where: E(θ) is the radiation from the tower at angle θ. E(O) is the radiation from the tower in the horizontal plane.
+f(θ) = E(θ)/E(O) where: E(θ) is the radiation from the tower at angle θ. *Δ*E(O) is the radiation from the tower in the horizontal plane.
 
 (b) Listed below are formulas for f(θ) for several common towers.
 

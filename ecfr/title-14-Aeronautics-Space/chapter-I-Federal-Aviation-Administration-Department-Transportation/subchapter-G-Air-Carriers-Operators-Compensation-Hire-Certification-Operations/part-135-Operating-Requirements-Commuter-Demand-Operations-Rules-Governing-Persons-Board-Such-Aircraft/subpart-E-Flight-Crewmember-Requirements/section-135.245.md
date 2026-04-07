@@ -1,6 +1,6 @@
 ##### § 135.245 Second in command qualifications.
 
-(a) Except as provided in paragraph (b) of this section, no certificate holder may use any person, nor may any person serve, as second in command of an aircraft unless that person holds at least a commercial pilot certificate with appropriate category and class ratings and an instrument rating.
+(a) Except as provided in paragraph (b) of this section, no certificate holder may use any person, nor may any person serve, as second in command of an aircraft unless that person holds at least a commercial pilot certificate with appropriate category and class ratings and an instrument rating.*Use of an airplane, powered-lift, or helicopter for maintaining instrument experience.*
 
 (b) A second in command of a helicopter operated under VFR, other than over-the-top, must have at least a commercial pilot certificate with an appropriate aircraft category and class rating.
 

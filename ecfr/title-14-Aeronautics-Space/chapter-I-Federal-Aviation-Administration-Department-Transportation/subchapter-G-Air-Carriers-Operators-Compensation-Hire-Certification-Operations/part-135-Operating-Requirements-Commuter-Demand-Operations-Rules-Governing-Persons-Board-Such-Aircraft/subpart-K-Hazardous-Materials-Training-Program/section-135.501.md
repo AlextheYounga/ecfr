@@ -1,6 +1,6 @@
 ##### § 135.501 Applicability and definitions.
 
-(a) This subpart prescribes the requirements applicable to each certificate holder for training each crewmember and person performing or directly supervising any of the following job functions involving any item for transport on board an aircraft:
+(a) This subpart prescribes the requirements applicable to each certificate holder for training each crewmember and person performing or directly supervising any of the following job functions involving any item for transport on board an aircraft:*Definitions.*
 
 (1) Acceptance;
 

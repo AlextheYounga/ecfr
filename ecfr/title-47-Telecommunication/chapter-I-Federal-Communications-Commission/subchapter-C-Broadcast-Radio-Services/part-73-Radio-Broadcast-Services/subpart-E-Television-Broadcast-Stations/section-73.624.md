@@ -1,6 +1,6 @@
 ##### § 73.624 Television broadcast stations.
 
-(a) Television broadcast stations are assigned channels 6 MHz wide.
+(a) Television broadcast stations are assigned channels 6 MHz wide.*Payment of fees.*
 
 (b) Minimum programming requirements. The TV service that is provided pursuant to this paragraph (b) must have a resolution of at least 480i (vertical resolution of 480 lines, interlaced).
 

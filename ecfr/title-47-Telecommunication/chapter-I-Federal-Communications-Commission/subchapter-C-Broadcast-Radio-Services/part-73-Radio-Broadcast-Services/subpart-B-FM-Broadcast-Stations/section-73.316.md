@@ -1,6 +1,6 @@
 ##### § 73.316 FM antenna systems.
 
-(a) It shall be standard to employ horizontal polarization; however, circular or elliptical polarization may be employed if desired. Clockwise or counterclockwise rotation may be used. The supplemental vertically polarized effective radiated power required for circular or elliptical polarization shall in no event exceed the effective radiated power authorized.
+(a) It shall be standard to employ horizontal polarization; however, circular or elliptical polarization may be employed if desired. Clockwise or counterclockwise rotation may be used. The supplemental vertically polarized effective radiated power required for circular or elliptical polarization shall in no event exceed the effective radiated power authorized.*Directional antennas.*
 
 (b) *Directional antennas.* A directional antenna is an antenna that is designed or altered for the purpose of obtaining a non-circular radiation pattern.
 
@@ -32,7 +32,7 @@
 
 (x)(A) For a station authorized pursuant to § 73.215 or § 73.509, a showing that the root mean square (RMS) of the measured or computer modeled composite antenna pattern (encompassing both the horizontally and vertically polarized radiation components (in relative field)) is at least 85 percent of the RMS of the authorized composite directional antenna pattern (in relative field). The RMS value, for a composite antenna pattern specified in relative field values, may be determined from the following formula:
 
-RMS = the square root of: \[(relative field value 1) 2 + (relative field value 2) 2 + .... + (last relative field value) 2\] total number of relative field values
+RMS = the square root of: 2\[(relative field value 1) 2 + (relative field value 2) 2 + .... + (last relative field value) 2\] total number of relative field values
 
 (B) Where the relative field values are taken from at least 36 evenly spaced radials for the entire 360 degrees of azimuth. The application for license must also demonstrate that coverage of the community of license by the 70 dBu contour is maintained for stations authorized pursuant to § 73.215 on Channels 221 through 300, as required by § 73.315(a), while noncommercial educational stations operating on Channels 201 through 220 must show that the 60 dBu contour covers at least a portion of the community of license.
 

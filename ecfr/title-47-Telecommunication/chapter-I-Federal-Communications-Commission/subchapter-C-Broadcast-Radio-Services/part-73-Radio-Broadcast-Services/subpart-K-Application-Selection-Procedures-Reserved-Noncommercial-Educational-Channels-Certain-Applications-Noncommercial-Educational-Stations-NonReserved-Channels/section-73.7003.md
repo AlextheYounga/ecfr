@@ -1,6 +1,6 @@
 ##### § 73.7003 Point system selection procedures.
 
-(a) If timely filed applications for reserved FM channels or reserved TV channels are determined to be mutually exclusive, applications will be processed and assessed points to determine the tentative selectee for the particular channels. The tentative selectee will be the applicant with the highest point total under the procedure set forth in this section, and will be awarded the requested permit if the Commission determines that an award will serve the public interest, convenience, and necessity.
+(a) If timely filed applications for reserved FM channels or reserved TV channels are determined to be mutually exclusive, applications will be processed and assessed points to determine the tentative selectee for the particular channels. The tentative selectee will be the applicant with the highest point total under the procedure set forth in this section, and will be awarded the requested permit if the Commission determines that an award will serve the public interest, convenience, and necessity.*Established local applicant.*
 
 (b) Based on information provided in each application, each applicant will be awarded a predetermined number of points under the criteria listed:
 

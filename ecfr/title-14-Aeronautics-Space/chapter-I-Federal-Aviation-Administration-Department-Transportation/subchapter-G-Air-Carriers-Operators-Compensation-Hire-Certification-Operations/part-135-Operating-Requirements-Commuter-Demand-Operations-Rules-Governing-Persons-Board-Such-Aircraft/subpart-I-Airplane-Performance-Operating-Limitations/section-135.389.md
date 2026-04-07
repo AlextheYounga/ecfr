@@ -1,6 +1,6 @@
 ##### § 135.389 Large nontransport category airplanes: Takeoff limitations.
 
-(a) No person operating a large nontransport category airplane may take off that airplane at a weight greater than the weight that would allow the airplane to be brought to a safe stop within the effective length of the runway, from any point during the takeoff before reaching 105 percent of minimum control speed (the minimum speed at which an airplane can be safely controlled in flight after an engine becomes inoperative) or 115 percent of the power off stalling speed in the takeoff configuration, whichever is greater.
+(a) No person operating a large nontransport category airplane may take off that airplane at a weight greater than the weight that would allow the airplane to be brought to a safe stop within the effective length of the runway, from any point during the takeoff before reaching 105 percent of minimum control speed (the minimum speed at which an airplane can be safely controlled in flight after an engine becomes inoperative) or 115 percent of the power off stalling speed in the takeoff configuration, whichever is greater.*effective length of the runway*
 
 (b) For the purposes of this section—
 

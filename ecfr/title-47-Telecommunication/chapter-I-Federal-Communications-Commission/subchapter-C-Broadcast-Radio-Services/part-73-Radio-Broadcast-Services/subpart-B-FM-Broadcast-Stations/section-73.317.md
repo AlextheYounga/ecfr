@@ -1,6 +1,6 @@
 ##### § 73.317 FM transmission system requirements.
 
-(a) FM broadcast stations employing transmitters authorized after January 1, 1960, must maintain the bandwidth occupied by their emissions in accordance with the specification detailed below. FM broadcast stations employing transmitters installed or type accepted before January 1, 1960, must achieve the highest degree of compliance with these specifications practicable with their existing equipment. In either case, should harmful interference to other authorized stations occur, the licensee shall correct the problem promptly or cease operation.
+(a) FM broadcast stations employing transmitters authorized after January 1, 1960, must maintain the bandwidth occupied by their emissions in accordance with the specification detailed below. FM broadcast stations employing transmitters installed or type accepted before January 1, 1960, must achieve the highest degree of compliance with these specifications practicable with their existing equipment. In either case, should harmful interference to other authorized stations occur, the licensee shall correct the problem promptly or cease operation.10
 
 (b) Any emission appearing on a frequency removed from the carrier by between 120 kHz and 240 kHz inclusive must be attenuated at least 25 dB below the level of the unmodulated carrier. Compliance with this requirement will be deemed to show the occupied bandwidth to be 240 kHz or less.
 

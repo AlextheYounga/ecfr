@@ -1,6 +1,6 @@
 ##### § 135.367 Large transport category airplanes: Reciprocating engine powered: Takeoff limitations.
 
-(a) No person operating a reciprocating engine powered large transport category airplane may take off that airplane unless it is possible—
+(a) No person operating a reciprocating engine powered large transport category airplane may take off that airplane unless it is possible—1
 
 (1) To stop the airplane safely on the runway, as shown by the accelerate-stop distance data, at any time during takeoff until reaching critical-engine failure speed;
 

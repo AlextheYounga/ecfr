@@ -1,6 +1,6 @@
 ##### § 135.393 Large nontransport category airplanes: Landing limitations: Destination airports.
 
-(a) No person operating a large nontransport category airplane may take off that airplane at a weight that—
+(a) No person operating a large nontransport category airplane may take off that airplane at a weight that—so
 
 (1) Allowing for anticipated consumption of fuel and oil, is greater than the weight that would allow a full stop landing within 60 percent of the effective length of the most suitable runway at the destination airport; and
 

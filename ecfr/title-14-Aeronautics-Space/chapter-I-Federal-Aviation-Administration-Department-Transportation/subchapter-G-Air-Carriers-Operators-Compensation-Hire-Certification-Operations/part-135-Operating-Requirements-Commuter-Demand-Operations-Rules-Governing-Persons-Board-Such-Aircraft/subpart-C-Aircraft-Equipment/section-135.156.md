@@ -1,6 +1,6 @@
 ##### § 135.156 Flight data recorders: filtered data.
 
-(a) A flight data signal is filtered when an original sensor signal has been changed in any way, other than changes necessary to:
+(a) A flight data signal is filtered when an original sensor signal has been changed in any way, other than changes necessary to:*Compliance.*
 
 (1) Accomplish analog to digital conversion of the signal;
 

@@ -1,6 +1,6 @@
 ##### § 135.345 Pilots: Initial, transition, and upgrade ground training.
 
-Initial, transition, and upgrade ground training for pilots must include instruction in at least the following, as applicable to their duties:
+Initial, transition, and upgrade ground training for pilots must include instruction in at least the following, as applicable to their duties:*i.e.*
 
 (a) General subjects—
 

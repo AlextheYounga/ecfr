@@ -1,6 +1,6 @@
 ##### § 135.415 Service difficulty reports.
 
-(a) Each certificate holder shall report the occurrence or detection of each failure, malfunction, or defect in an aircraft concerning—
+(a) Each certificate holder shall report the occurrence or detection of each failure, malfunction, or defect in an aircraft concerning—*during flight*
 
 (1) Fires during flight and whether the related fire-warning system functioned properly;
 

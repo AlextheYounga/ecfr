@@ -1,6 +1,6 @@
 ##### § 73.62 Directional antenna system operation and tolerances.
 
-(a) Each AM station operating a directional antenna must maintain the relative amplitudes of the antenna currents, as indicated by the antenna monitor, within 5% of the values specified on the instrument of authorization. Directional antenna relative phases must be maintained within 3 degrees of the values specified on the instrument of authorization.
+(a) Each AM station operating a directional antenna must maintain the relative amplitudes of the antenna currents, as indicated by the antenna monitor, within 5% of the values specified on the instrument of authorization. Directional antenna relative phases must be maintained within 3 degrees of the values specified on the instrument of authorization.*See*
 
 (b) In the event of a failure of system components, improper pattern switching or any other event that results in operation substantially at variance from the radiation pattern specified in the instrument of authorization for the pertinent time of day, operation must be terminated within three minutes unless power can be reduced sufficiently to eliminate any excessive radiation. *See* § 73.1350(e).
 

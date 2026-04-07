@@ -1,6 +1,6 @@
 ##### § 135.427 Manual requirements.
 
-(a) Each certificate holder shall put in its manual the chart or description of the certificate holder's organization required by § 135.423 and a list of persons with whom it has arranged for the performance of any of its required inspections, other maintenance, preventive maintenance, or alterations, including a general description of that work.
+(a) Each certificate holder shall put in its manual the chart or description of the certificate holder's organization required by § 135.423 and a list of persons with whom it has arranged for the performance of any of its required inspections, other maintenance, preventive maintenance, or alterations, including a general description of that work.*buy-back procedures*
 
 (b) Each certificate holder shall put in its manual the programs required by § 135.425 that must be followed in performing maintenance, preventive maintenance, and alterations of that certificate holder's aircraft, including airframes, aircraft engines, propellers, rotors, appliances, emergency equipment, and parts, and must include at least the following:
 
