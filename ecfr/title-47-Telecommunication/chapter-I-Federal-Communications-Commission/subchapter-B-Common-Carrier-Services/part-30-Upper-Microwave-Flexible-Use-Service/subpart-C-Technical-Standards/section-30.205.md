@@ -24,7 +24,7 @@ Table 1 to Paragraph (a): Goldstone, California Coordination Zone
 | 34.33405/−117.94189 |                     |
 | 34.27249/−117.65445 |                     |
 
-Table 2 to Paragraph (a): Socorro, New Mexico Coordination Zone
+Table 2 to Paragraph (a) - Socorro, New Mexico Coordination Zone
 
 | 60 dBm/100 MHz EIRP | 75 dBm/100 MHz EIRP |
 | ------------------- | ------------------- |
@@ -38,11 +38,11 @@ Table 2 to Paragraph (a): Socorro, New Mexico Coordination Zone
 | 34.07442/−108.30646 | 34.15203/−107.39035 |
 | 34.01447/−108.31694 | 34.29643/−107.51071 |
 | 33.86740/−108.48706 | 34.83816/−107.66828 |
-| 33.81660/−108.51052 | 33.35946/−108.68902 |
-| 33.67909/−108.58750 | 33.29430/−108.65004 |
-| 33.50223/−108.65470 | 33.10651/−108.19320 |
+| 33.81660/−108.51052 |                     |
+| 33.67909/−108.58750 |                     |
+| 33.50223/−108.65470 |                     |
 
-Table 3 to Paragraph (a): White Sands, New Mexico Coordination Zone
+Table 3 to Paragraph (a) - White Sands, New Mexico Coordination Zone
 
 | 60 dBm/100 MHz EIRP | 75 dBm/100 MHz EIRP |
 | ------------------- | ------------------- |
@@ -52,10 +52,10 @@ Table 3 to Paragraph (a): White Sands, New Mexico Coordination Zone
 | 33.37098/−107.84333 | 32.89856/−106.56882 |
 | 33.25424/−107.86409 | 33.24323/−106.70094 |
 | 33.19808/−107.89673 | 33.98689/−107.15967 |
-| 33.02128/−107.87226 | 33.24347/−106.70165 |
-| 32.47747/−107.77963 | 34.00708/−107.08652 |
-| 32.31543/−108.16101 | 34.04967/−107.17524 |
-| 31.79429/−107.88616 | 33.83491/−107.85971 |
+| 33.02128/−107.87226 |                     |
+| 32.47747/−107.77963 |                     |
+| 32.31543/−108.16101 |                     |
+| 31.79429/−107.88616 |                     |
 
 (b) Licensees in the 37-38.6 GHz band located within the zones defined by the coordinates in the table below must coordinate their operations with the Department of Defense via the National Telecommunications and Information Administration (NTIA).
 
@@ -80,3 +80,5 @@ Table to Paragraph (b) - Coordination Areas for Federal Terrestrial Systems
 | White Sands Missile Range, NM | Army      | 30 kilometer radius centered on latitude 33.35 and longitude −106.3.        |
 | Moody Air Force Base, GA      | Air Force | 30 kilometer radius centered on latitude 30.96694 and longitude −83.185.    |
 | Hurlburt Air Force Base, FL   | Air Force | 30 kilometer radius centered on latitude 30.42388 and longitude −86.70694.  |
+
+\[81 FR 79937, Nov. 14, 2016, as amended at 84 FR 18405, May 1, 2019\]
