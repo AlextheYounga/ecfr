@@ -88,7 +88,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (e) *Alternative calculating cash to close table for transactions without a seller or for simultaneous subordinate financing.* For transactions that do not involve a seller or for simultaneous subordinate financing, if the creditor disclosed the optional alternative table under § 1026.37(h)(2), the creditor shall disclose, instead of the table described in paragraph (i) of this section, in a separate table, under the heading “Calculating Cash to Close,” together with the statement “Use this table to see what has changed from your Loan Estimate”:
 
-(1) *Loan amount.* Labeled “Loan Amount:”
+(1) *Loan amount.* Labeled “Loan Amount”:
 
 (i) Under the subheading “Loan Estimate,” the loan amount disclosed on the Loan Estimate under § 1026.37(b)(1);
 
