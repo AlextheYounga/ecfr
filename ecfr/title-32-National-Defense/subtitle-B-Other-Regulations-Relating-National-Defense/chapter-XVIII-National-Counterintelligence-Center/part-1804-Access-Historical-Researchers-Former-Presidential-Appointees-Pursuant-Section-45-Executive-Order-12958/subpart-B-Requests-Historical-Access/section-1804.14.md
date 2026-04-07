@@ -2,7 +2,7 @@
 
 (a) *Required determinations.* The tasked parties as specified below shall respond in writing to the Coordinator with recommended findings to the following issues:
 
-(1)That a serious professional or scholarly research project by the requester is contemplated;
+(1) That a serious professional or scholarly research project by the requester is contemplated;
 
 (2) That such access is clearly consistent with the interests of national security (by originator and interested party, if any);
 
