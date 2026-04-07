@@ -1,7 +1,5 @@
 ##### § 1308.11 Schedule I.
 
-Link to an amendment published at 88 FR 13694, Mar. 6, 2023.
-
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
 (b) *Opiates.* Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers and salts is possible within the specific chemical designation (for purposes of 3-methylthiofentanyl only, the term isomer includes the optical and geometric isomers):
@@ -641,7 +639,11 @@ Meaning an extract containing one or more cannabinoids that has been derived fro
 
 (100) 2-(ethylamino)-2-(3-methoxyphenyl)cyclohexan-1-one (methoxetamine, MXE)
 
-7286
+7286 
+
+(101) 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)butan-1-one (other names: eutylone; bk-EBDB)
+
+7549 
 
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
@@ -823,7 +825,11 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 9759
 
-\[39 FR 22141, June 20, 1974\] Editorial Note:At 88 FR 13694, Mar. 6, 2022, § 1308.11 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:
+\[39 FR 22141, June 20, 1974\] Editorial Notes:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+2.At 88 FR 13694, Mar. 6, 2022, § 1308.11 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+
+Effective Date Notes:
 
 1.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114. Effective May 4, 2021, Congress extended the effective period for paragraph (h)(30) until October 22, 2021, by Public Law 117-12. Effective Sept. 30, 2021, Congress extended the effective period for paragraph (h)(30) until Jan. 28, 2022, by Public Law 117-43. Effective Jan. 13, 2022, Congress extended the effective period for paragraph (h)(30) until Feb. 18, 2022, by Public Law 117-70. Effective Feb. 18, 2022, Congress extended the effective period for paragraph (h)(30) until Mar. 11, 2022, by Public Law 117-86. Effective Mar. 11, 2022, Congress extended the effective period for paragraph (h)(30) until Mar. 15, 2022 by Public Law 117-95. Effective Mar. 15, 2022, Congress extended the effective period for paragraph (h)(30) until Dec. 31, 2022 by Public Law No. 117-103. Effective Dec. 29, 2022, Congress extended the effective period for paragraph (h)(30) until Dec. 31, 2024 by Public Law No. 117-328.
 

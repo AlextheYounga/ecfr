@@ -190,7 +190,7 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (*i*) The provider's business name(s) and primary address;
 
-(*ii*) The names and business addresses of the provider's chief executive officer, chairman, and president, or, in the event that a provider does not have such executives, three similarly senior-level officials of the provider;
+(*ii*) The names and business addresses of the provider's chief executive officer, chairperson, and president, or, in the event that a provider does not have such executives, three similarly senior-level officials of the provider;
 
 (*iii*) The provider's regulatory contact and/or designated agent;
 

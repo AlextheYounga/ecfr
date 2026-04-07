@@ -15,12 +15,11 @@
 (ii) The area in which the earth station generates a PFD, at 10 meters above ground level, of greater than or equal to −77.6 dBm/m2/MHz, together with the similar area of any other earth station authorized pursuant to paragraph (a) of this section, does not cover, in the aggregate, more than the amount of population of the UMFUS license area within which the earth station is located as noted in table 1 to this paragraph (a)(4)(ii):
 
 Table 1 to Paragraph (a)(4)(ii)
-
-| Population within UMFUS license area | Maximum permitted aggregate population   within −77.6 dBm/m 2/MHz PFD contour   of earth stations |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| Greater than 450,000                 | 0.1 percent of population in UMFUS license area.                                                  |
-| Between 6,000 and 450,000            | 450 people.                                                                                       |
-| Fewer than 6,000                     | 7.5 percent of population in UMFUS license area.                                                  |
+| Population within UMFUS license area | Maximum permitted aggregate population   within −77.6 dBm/m2/MHz PFD contour   of earth stations |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| Greater than 450,000                 | 0.1 percent of population in UMFUS license area.                                                 |
+| Between 6,000 and 450,000            | 450 people.                                                                                      |
+| Fewer than 6,000                     | 7.5 percent of population in UMFUS license area.                                                 |
 
 (iii) The area in which the earth station generates a PFD, at 10 meters above ground level, of greater than or equal to −77.6 dBm/m 2/MHz does not contain any major event venue, urban mass transit route, passenger railroad, or cruise ship port. In addition, the area mentioned in paragraph (a)(4)(ii) of this section shall not cross any of the following types of roads, as defined in functional classification guidelines issued by the Federal Highway Administration pursuant to 23 CFR 470.105(b): Interstate, Other Freeways and Expressways, or Other Principal Arterial. The Federal Highway Administration Office of Planning, Environment, and Realty Executive Geographic Information System (HEPGIS) map contains information on the classification of roads. For purposes of this rule, an urban area shall be an Adjusted Urban Area as defined in section 101(a)(37) of Title 21 of the United States Code.
 
@@ -35,7 +34,6 @@ Table 1 to Paragraph (a)(4)(ii)
 (2) The protection zone, together with the protection zone of other earth stations in the same PEA authorized pursuant to this, does not cover, in the aggregate, more than the amount of population of the PEA within which the earth station is located as noted in table 2 to this paragraph (c)(2):
 
 Table 2 to Paragraph (c)(2)
-
 | Population within Partial Economic Area (PEA) where earth station is located | Maximum permitted aggregate population   within protection zone of earth stations |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | Greater than 2,250,000                                                       | 0.1 percent of population in PEA.                                                 |
@@ -61,12 +59,11 @@ Table 2 to Paragraph (c)(2)
 (ii) The area in which the earth station generates a PFD, at 10 meters above ground level, of greater than or equal to −77.6 dBm/m 2/MHz, together with the similar area of any other earth station authorized pursuant to paragraph (d) of this section, does not cover, in the aggregate, more than the amount of population of the PEA within which the earth station is located as noted in table 3 to this paragraph (d)(4)(ii):
 
 Table 3 to Paragraph (d)(4)(ii)
-
-| Population within Partial Economic Area (PEA) where earth station is located | Maximum permitted aggregate population   within −77.6 dBm/m 2/MHz PFD contour   of earth stations |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Greater than 2,250,000                                                       | 0.1 percent of population in PEA.                                                                 |
-| Between 60,000 and 2,250,000                                                 | 2,250 people.                                                                                     |
-| Fewer than 60,000                                                            | 3.75 percent of population in PEA.                                                                |
+| Population within Partial Economic Area (PEA) where earth station is located | Maximum permitted aggregate population   within −77.6 dBm/m2/MHz PFD contour   of earth stations |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Greater than 2,250,000                                                       | 0.1 percent of population in PEA.                                                                |
+| Between 60,000 and 2,250,000                                                 | 2,250 people.                                                                                    |
+| Fewer than 60,000                                                            | 3.75 percent of population in PEA.                                                               |
 
 (iii) The area in which the earth station generates a PFD, at 10 meters above ground level, of greater than or equal to −77.6 dBm/m 2/MHz does not contain any major event venue, any highway classified by the U.S. Department of Transportation under the categories Interstate, Other Freeways and Expressways, or Other Principal Arterial, or an urban mass transit route, passenger railroad, or cruise ship port; and
 
@@ -87,12 +84,11 @@ Table 3 to Paragraph (d)(4)(ii)
 (ii) The area in which the earth station generates a power flux density (PFD), at 10 meters above ground level, of greater than or equal to −77.6 dBm/m 2/MHz, together with the similar area of any other earth station operating in the same frequency band authorized pursuant to paragraph (e) of this section, does not cover, in the aggregate, more than the amount of population of the county within which the earth station is located as noted in table 4 to this paragraph (e)(4)(ii):
 
 Table 4 to Paragraph (e)(4)(ii)
-
-| Population within the County where earth station is located | Maximum permitted aggregate population within −77.6 dBm/m 2/MHz PFD contour of earth stations |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Greater than 450,000                                        | 0.1 percent of population in county.                                                          |
-| Between 6,000 and 450,000                                   | 450 people.                                                                                   |
-| Fewer than 6,000                                            | 7.5 percent of population in county.                                                          |
+| Population within the County where earth station is located | Maximum permitted aggregate population within −77.6 dBm/m2/MHz PFD contour of earth stations |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Greater than 450,000                                        | 0.1 percent of population in county.                                                         |
+| Between 6,000 and 450,000                                   | 450 people.                                                                                  |
+| Fewer than 6,000                                            | 7.5 percent of population in county.                                                         |
 
 (iii) The area in which the earth station generates a PFD, at 10 meters above ground level, of greater than or equal to −77.6 dBm/m2/MHz does not contain any major event venue, urban mass transit route, passenger railroad, or cruise ship port. In addition, the area mentioned in paragraph (e)(4)(ii) of this section shall not cross any of the following types of roads, as defined in functional classification guidelines issued by the Federal Highway Administration pursuant to 23 CFR 470.105(b): Interstate, Other Freeways and Expressways, or Other Principal Arterial. The Federal Highway Administration Office of Planning, Environment, and Realty Executive Geographic Information System (HEPGIS) map contains information on the classification of roads. For purposes of this paragraph (e)(4), an urban area shall be an Adjusted Urban Area as defined in section 101(a)(37) of Title 21 of the United States Code; and
 
@@ -102,6 +98,6 @@ Table 4 to Paragraph (e)(4)(ii)
 
 (g) Any earth station authorizations issued pursuant to paragraph (a)(4), (c), (d)(4), or (e)(4) of this section shall be conditioned upon operation being in compliance with the criteria contained in the applicable paragraph.
 
-(h) *Re-coordination.* An earth station licensed under this section that is brought into operation later than one year after the date of the license grant must be re-coordinated with UMFUS stations using the applicable processes in § 101.103(d) of this chapter. The earth station licensee must complete re-coordination within one year before its commencement of operation. The re-coordination should account for any demographic or geographic changes as well as changes to the earth station equipment or configuration. A re-coordination notice must be filed in IBFS before commencement of earth station operations.
+(h) *Re-coordination.* An earth station licensed under this section that is brought into operation later than one year after the date of the license grant must be re-coordinated with UMFUS stations using the applicable processes in § 101.103(d) of this chapter. The earth station licensee must complete re-coordination within one year before its commencement of operation. The re-coordination should account for any demographic or geographic changes as well as changes to the earth station equipment or configuration. A re-coordination notice must be filed in ICFS before commencement of earth station operations.
 
-\[81 FR 79937, Nov. 14, 2016, as amended at 83 FR 63, Jan. 2, 2018; 83 FR 34489, July 20, 2018; 84 FR 20819, May 13, 2019; 84 FR 47147, Sept. 9, 2019; 86 FR 11887, Mar. 1, 2021\]
+\[81 FR 79937, Nov. 14, 2016, as amended at 83 FR 63, Jan. 2, 2018; 83 FR 34489, July 20, 2018; 84 FR 20819, May 13, 2019; 84 FR 47147, Sept. 9, 2019; 86 FR 11887, Mar. 1, 2021; 88 FR 21440, Apr. 10, 2023\]

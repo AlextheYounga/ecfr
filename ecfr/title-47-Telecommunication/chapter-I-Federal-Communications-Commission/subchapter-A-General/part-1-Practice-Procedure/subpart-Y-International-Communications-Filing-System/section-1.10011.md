@@ -1,6 +1,6 @@
 ##### § 1.10011 Who may sign applications?
 
-(a) The Commission only accepts electronic applications. An electronic application is “signed” when there is an electronic signature. An electronic signature is the typed name of the person “signing” the application, which is then electronically transmitted via MyIBFS.
+(a) The Commission only accepts electronic applications. An electronic application is “signed” when there is an electronic signature. An electronic signature is the typed name of the person “signing” the application, which is then electronically transmitted via ICFS.
 
 (b) For all electronically filed applications, you (or the signor) must actually sign a paper copy of the application, and keep the signed original in your files for future reference.
 
@@ -34,4 +34,4 @@
 
 (g) It is unnecessary to sign applications, amendments, and related statements of fact under oath. However, willful false statements are punishable by a fine and imprisonment, 18 U.S.C. 1001, and by administrative sanctions.
 
-\[69 FR 40327, July 2, 2004, as amended at 85 FR 17285, Mar. 27, 2020\]
+\[69 FR 40327, July 2, 2004, as amended at 85 FR 17285, Mar. 27, 2020; 88 FR 21437, Apr. 10, 2023\]

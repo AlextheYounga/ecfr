@@ -20595,7 +20595,255 @@ Carolina Heelsplitter (*Lasmigona decorata*)
 
 (vii) Fish hosts, with adequate living, foraging, and spawning areas for them.
 
-Eleven Mobile River Basin Mussel Species: Southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum*), upland combshell (*Epioblasma metastriata*), triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orangenacre mucket (*Hamiota perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and finelined pocketbook (*Hamiota altilis*)
+Round Hickorynut (*Obovaria subrotunda*)
+
+(1) Critical habitat units for the round hickorynut are depicted on the maps in this entry for Jackson, Madison, and Marshall Counties, Alabama; Fulton, Marshall, Pulaski, and Starke Counties, Indiana; Bath, Butler, Campbell, Edmonson, Fleming, Green, Harrison, Hart, Kenton, Laurel, Morgan, Nicholas, Pendleton, Pulaski, Rockcastle, Robertson, Rowan, and Warren Counties, Kentucky; Montgomery County, Mississippi; Bedford, Marshall, and Maury Counties, Tennessee; Ashtabula, Lake, and Trumbull Counties, Ohio; Crawford and Mercer Counties, Pennsylvania; and Braxton, Calhoun, Clay, Doddridge, Fayette, Gilmer, Kanawha, Pleasants, Ritchie, Tyler, and Wood Counties, West Virginia.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the round hickorynut consist of the following components:
+
+(i) Adequate flows, or a hydrologic flow regime (magnitude, timing, frequency, duration, rate of change, and overall seasonality of discharge over time), necessary to maintain benthic habitats where the species is found and to maintain stream connectivity, specifically providing for the exchange of nutrients and sediment for maintenance of the mussel's and fish host's habitat and food availability, maintenance of spawning habitat for native fishes, and the ability for newly transformed juveniles to settle and become established in their habitats. Adequate flows ensure delivery of oxygen, enable reproduction, deliver food to filter-feeding mussels, and reduce contaminants and fine sediments from interstitial spaces. Stream velocity is not static over time, and variations may be attributed to seasonal changes (with higher flows in winter/spring and lower flows in summer/fall), extreme weather events (e.g., drought or floods), or anthropogenic influence (e.g., flow regulation via impoundments).
+
+(ii) Suitable substrates and connected instream habitats, characterized by geomorphically stable stream channels and banks (*i.e.,* channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation) with habitats that support a diversity of freshwater mussel and native fish (such as, stable riffle-run-pool habitats that provide flow refuges consisting of predominantly silt-free, stable sand, gravel, and cobble substrates).
+
+(iii) Water and sediment quality necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages, including (but not limited to): Dissolved oxygen (generally above 2 to 3 parts per million (ppm)), salinity (generally below 2 to 4 ppm), and temperature (generally below 86 °F ( °F) (30 °Celsius ( °C)). Additionally, water and sediment should be low in ammonia (generally below 0.5 ppm total ammonia-nitrogen) and heavy metal concentrations, and lack excessive total suspended solids and other pollutants.
+
+(iv) The presence and abundance of fish hosts necessary for recruitment of the round hickorynut (*i.e.,* eastern sand darter (*Ammocrypta pellucida*), emerald darter (*Etheostoma baileyi*), greenside darter (*E. blennioides*), Iowa darter (*E. exile*), fantail darter (*E. flabellare*), Cumberland darter (*E. susanae*), spangled darter (*E. obama*), variegate darter (*E. variatum*), blackside darter (*Percina maculata*), frecklebelly darter (*P. stictogaster*), and banded sculpin (*Cottus carolinae*)).
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on April 10, 2023.
+
+(4) Data layers defining map units were created by overlaying Natural Heritage Element Occurrence data and U.S. Geological Survey hydrologic data for stream reaches. The hydrologic data used in the critical habitat maps were extracted from the U.S. Geological Survey 1:1M scale nationwide hydrologic layer (*https://www.usgs.gov/core-science-systems/ngp/national-hydrography*) with a projection of EPSG:4269—NAD83 Geographic. Natural Heritage program and State mussel database species presence data from Pennsylvania, Ohio, Indiana, West Virginia, Kentucky, Tennessee, Alabama, and Mississippi were used to select specific river and stream segments for inclusion in the critical habitat layer. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2020-0010, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map for the round hickorynut follows:
+
+Figure 1 to Round Hickorynut (*Obovaria subrotunda*) paragraph (5) ![](/graphics/er09mr23.017.gif)
+
+(6) Unit RH 1: Shenango River; Crawford and Mercer Counties, Pennsylvania.
+
+(i) Unit RH 1 consists of 22 river miles (mi) (35.5 kilometers (km)) of the Shenango River in Crawford County, Pennsylvania, from Pymatuning Dam downstream to the point of inundation by Shenango River Lake near Big Bend, Mercer County, Pennsylvania. Approximately 15 river mi (24.3 km; 68 percent) of riparian lands that border the unit are private ownership, and 7 river mi (11.1 km; 32 percent) are public (Federal or State) ownership. This unit is immediately downstream from Pymatuning Dam, which is owned by the State of Pennsylvania.
+
+(ii) Map of Unit RH 1 follows:
+
+Figure 2 to Round Hickorynut (*Obovaria subrotunda*) paragraph (6)(ii) ![](/graphics/er09mr23.018.gif)
+
+(7) Unit RH 2: Grand River; Ashtabula, Lake, and Trumbull Counties, Ohio.
+
+(i) Unit RH 2 consists of 92 river mi (148.2 km) of the Grand River in Ashtabula, Lake, and Trumbull Counties, Ohio. Approximately 59 river mi (95.2 km; 64 percent) of riparian lands that border the unit are private ownership, and 33 river mi (53 km; 36 percent) are public (State or local) ownership. The Grand River is a State Wild and Scenic River. The Wild River designation includes approximately 23 river mi (37 km) from the Harpersfield Covered Bridge downstream to the Norfolk and Western Railroad Trestle in Lake County, and approximately 33 mi (53 km) from the U.S. Route 322 Bridge in Ashtabula County downstream to the Harpersfield Covered Bridge. Harpersfield Dam within this unit is operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit RH 2 follows:
+
+Figure 3 to Round Hickorynut (*Obovaria subrotunda*) paragraph (7)(ii) ![](/graphics/er09mr23.019.gif)
+
+(8) Unit RH 3: Tippecanoe River; Fulton, Marshall, Pulaski, and Starke Counties, Indiana.
+
+(i) Unit RH 3 consists of 75 river mi (120.8 km) of the Tippecanoe River in Fulton, Marshall, Pulaski, and Starke Counties, Indiana. Approximately 66 river mi (105.6 km; 89 percent) of riparian lands that border the unit are private ownership, and 9 river mi (14.5 km; 11 percent) are public (State or easement) ownership.
+
+(ii) Map of Unit RH 3 follows:
+
+Figure 4 to Round Hickorynut (*Obovaria subrotunda*) paragraph (8)(ii) ![](/graphics/er09mr23.020.gif)
+
+(9) Unit RH 4: Middle Island Creek; Doddridge, Pleasants, and Tyler Counties, West Virginia.
+
+(i) Unit RH 4 consists of 75 stream mi (120.8 km) of Middle Island Creek in Doddridge, Pleasants, and Tyler Counties, West Virginia. Approximately 74.8 stream mi (120.4 km; 99 percent) of riparian lands that border the unit are private ownership, and 0.2 stream mi (0.4 km; less than 1 percent) is public ownership.
+
+(ii) Map of Unit RH 4 follows:
+
+Figure 5 to Round Hickorynut (*Obovaria subrotunda*) paragraph (9)(ii) ![](/graphics/er09mr23.021.gif)
+
+(10) Unit RH 5: Little Kanawha River; Calhoun, Gilmer, Ritchie, and Wood Counties, West Virginia.
+
+(i) Unit RH 5 consists of 110 stream mi (176.6 km) of the Little Kanawha River in Calhoun, Gilmer, Ritchie, and Wood Counties, West Virginia. Approximately 109 river mi (175.4 km; 99 percent) of riparian lands that border the unit are private ownership, and 0.7 river mi (1.2 km; 1 percent) are public (Federal, State, or local) ownership. This unit is directly below Burnsville Dam, which is operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit RH 5 follows:
+
+Figure 6 to Round Hickorynut (*Obovaria subrotunda*) paragraph (10)(ii) ![](/graphics/er09mr23.022.gif)
+
+(11) Unit RH 6: Elk River; Braxton, Clay, and Kanawha Counties, West Virginia.
+
+(i) Unit RH 6 consists of 101 river mi (163 km) of the Elk River in Braxton, Clay, and Kanawha Counties, West Virginia. Approximately 93 river mi (150.3 km; 92 percent) of riparian lands that border the unit are private ownership, and 7 river mi (12.7 km; 8 percent) are public (Federal, State, or local) ownership. This unit is immediately below Sutton Dam, which is operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit RH 6 follows:
+
+Figure 7 to Round Hickorynut (*Obovaria subrotunda*) paragraph (11)(ii) ![](/graphics/er09mr23.023.gif)
+
+(12) Unit RH 7: Kanawha River; Fayette and Kanawha Counties, West Virginia.
+
+(i) Unit RH 7 consists of 37.5 river mi (60.4 km) of the Kanawha River in Fayette and Kanawha Counties, West Virginia. Approximately 33 river mi (53.2 km; 90 percent) of riparian lands that border the unit are private ownership, and 4 river mi (7.2 km; 10 percent) are public (Federal, State, or local) ownership. London and Marmet locks and dams within this unit are operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit RH 7 follows:
+
+Figure 8 to Round Hickorynut (*Obovaria subrotunda*) paragraph (12)(ii) ![](/graphics/er09mr23.024.gif)
+
+(13) Unit RH 8: Licking River; Bath, Campbell, Fleming, Harrison, Kenton, Morgan, Nicholas, Pendleton, Robertson, and Rowan Counties, Kentucky.
+
+(i) Unit RH 8 consists of 150 river mi (241.9 km) of the Licking River in Bath, Campbell, Fleming, Harrison, Kenton, Morgan, Nicholas, Pendleton, Robertson, and Rowan Counties, Kentucky. Approximately 131 river mi (211.8 km; 87 percent) of riparian lands that border the unit are private ownership, and 18 river mi (30 km; 13 percent) are public (Federal, State, or local) ownership. This unit is directly below Cave Run Dam, which is operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit RH 8 follows:
+
+Figure 9 to Round Hickorynut (*Obovaria subrotunda*) paragraph (13)(ii) ![](/graphics/er09mr23.025.gif)
+
+(14) Unit RH 9: Rockcastle River; Laurel, Pulaski, and Rockcastle Counties, Kentucky.
+
+(i) Unit RH 9 consists of 15.3 river mi (24.6 km) of the Rockcastle River in Laurel, Pulaski, and Rockcastle Counties, Kentucky. Approximately 0.3 river mi (0.4 km; 1 percent) of riparian lands that border the unit is private ownership, and 15 river mi (24.2 km; 99 percent) are public (Federal; Daniel Boone National Forest) ownership.
+
+(ii) Map of Unit RH 9 follows:
+
+Figure 10 to Round Hickorynut (*Obovaria subrotunda*) paragraph (14)(ii) ![](/graphics/er09mr23.026.gif)
+
+(15) Unit RH 10: Buck Creek; Pulaski County, Kentucky.
+
+(i) Unit RH 10 consists of 36 stream mi (58.1 km) of Buck Creek in Pulaski County, Kentucky. Approximately 33 stream mi (52.6 km; 92 percent) of riparian lands that border the unit are private ownership, and 3 stream mi (5.5 km; 8 percent) are public (State or local) ownership.
+
+(ii) Map of Unit RH 10 follows:
+
+Figure 11 to Round Hickorynut (*Obovaria subrotunda*) paragraph (15)(ii) ![](/graphics/er09mr23.027.gif)
+
+(16) Unit RH 11: Green River; Hart, Edmonson, Green, Butler, and Warren Counties, Kentucky.
+
+(i) Unit RH 11 consists of 98 river mi (157.7 km) of the Green River in Butler, Edmonson, Green, Hart, and Warren Counties, Kentucky. Approximately 61 river mi (98.4 km; 62 percent) of riparian lands that border the unit are private ownership, and 37 river mi (59.4 km; 38 percent) are public (Federal or State) ownership, including portions of Mammoth Cave National Park. This unit is located directly below Green River Lake Dam, which is operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit RH 11 follows:
+
+Figure 12 to Round Hickorynut (*Obovaria subrotunda*) paragraph (16)(ii) ![](/graphics/er09mr23.028.gif)
+
+(17) Unit RH 12: Paint Rock River; Jackson, Madison, and Marshall Counties, Alabama.
+
+(i) Unit RH 12 consists of 48 river mi (77.5 km) of the Paint Rock River in Jackson, Madison, and Marshall Counties, Alabama. Approximately 2 river mi (4.1 km; 2 percent) of riparian lands that border the unit are private ownership, and 46 river mi (73.4 km; 98 percent) are public (Federal or State) ownership.
+
+(ii) Map of Unit RH 12 follows:
+
+Figure 13 to Round Hickorynut (*Obovaria subrotunda*) paragraph (17)(ii) ![](/graphics/er09mr23.029.gif)
+
+(18) Unit RH 13: Duck River; Bedford, Marshall, and Maury Counties, Tennessee.
+
+(i) Unit RH 13 consists of 59 river mi (94.8 km) of the Duck River in Bedford, Marshall, and Maury Counties, Tennessee. Approximately 27 river mi (43.7 km; 47 percent) of riparian lands that border the unit are private ownership, and 32 river mi (51.1 km; 53 percent) are public (State or local) ownership.
+
+(ii) Map of Unit RH 13 follows:
+
+Figure 14 to Round Hickorynut (*Obovaria subrotunda*) paragraph (18)(ii) ![](/graphics/er09mr23.030.gif)
+
+(19) Unit RH 14: Big Black River; Montgomery County, Mississippi.
+
+(i) Unit RH 14 consists of 4 river mi (7 km) of the Big Black River in Montgomery County, Mississippi. All of riparian lands that border the unit are private ownership.
+
+(ii) Map of Unit RH 14 follows:
+
+Figure 15 to Round Hickorynut (*Obovaria subrotunda*) paragraph (19)(ii) ![](/graphics/er09mr23.031.gif)Longsolid (*Fusconaia subrotunda*)
+
+(1) Critical habitat units for the longsolid are depicted on the maps in this entry for Jackson, Madison, and Marshall Counties, Alabama; Bath, Butler, Campbell, Edmonson, Fleming, Green, Harrison, Hart, Kenton, Morgan, Nicholas, Pendleton, Robertson, Rowan, Taylor, and Warren Counties, Kentucky; Clarion, Crawford, Erie, Forest, Mercer, Venango, and Warren Counties, Pennsylvania; Claiborne, Hancock, Hawkins, Smith, Trousdale, and Wilson Counties, Tennessee; Russell, Scott, Tazewell, and Wise Counties, Virginia; and Braxton, Calhoun, Clay, Doddridge, Fayette, Gilmer, Kanawha, Ritchie, Tyler, and Wood Counties, West Virginia.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the longsolid consist of the following components:
+
+(i) Adequate flows, or a hydrologic flow regime (magnitude, timing, frequency, duration, rate of change, and overall seasonality of discharge over time), necessary to maintain benthic habitats where the species is found and to maintain stream connectivity, specifically providing for the exchange of nutrients and sediment for maintenance of the mussel's and fish host's habitat and food availability, maintenance of spawning habitat for native fishes, and the ability for newly transformed juveniles to settle and become established in their habitats. Adequate flows ensure delivery of oxygen, enable reproduction, deliver food to filter-feeding mussels, and reduce contaminants and fine sediments from interstitial spaces. Stream velocity is not static over time, and variations may be attributed to seasonal changes (with higher flows in winter/spring and lower flows in summer/fall), extreme weather events (e.g., drought or floods), or anthropogenic influence (e.g., flow regulation via impoundments).
+
+(ii) Suitable substrates and connected instream habitats, characterized by geomorphically stable stream channels and banks (*i.e.,* channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation) with habitats that support a diversity of freshwater mussel and native fish (such as, stable riffle-run-pool habitats that provide flow refuges consisting of predominantly silt-free, stable sand, gravel, and cobble substrates).
+
+(iii) Water and sediment quality necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages, including (but not limited to): Dissolved oxygen (generally above 2 to 3 parts per million (ppm)), salinity (generally below 2 to 4 ppm), and temperature (generally below 86 °Fahrenheit ( °F) (30 °Celsius ( °C)). Additionally, water and sediment should be low in ammonia (generally below 0.5 ppm total ammonia-nitrogen) and heavy metal concentrations, and lack excessive total suspended solids and other pollutants.
+
+(iv) The presence and abundance of fish hosts necessary for recruitment of the longsolid (currently unknown, likely includes the minnows of the family Cyprinidae and banded sculpin (*Cottus carolinae*)).
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on April 10, 2023.
+
+(4) Data layers defining map units were created by overlaying Natural Heritage Element Occurrence data and U.S. Geological Survey hydrologic data for stream reaches. The hydrologic data used in the critical habitat maps were extracted from the U.S. Geological Survey 1:1M scale nationwide hydrologic layer (*https://www.usgs.gov/core-science-systems/ngp/national-hydrography*) with a projection of EPSG:4269—NAD83 Geographic. Natural Heritage program and State mussel database species presence data from Pennsylvania, West Virginia, Virginia, Kentucky, Tennessee, and Alabama were used to select specific river and stream segments for inclusion in the critical habitat layer. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2020-0010, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map for the longsolid follows:
+
+Figure 1 to Longsolid (*Fusconaia subrotunda*) paragraph (5) ![](/graphics/er09mr23.032.gif)
+
+(6) Unit LS 1: French Creek; Crawford, Erie, Mercer, and Venango Counties, Pennsylvania.
+
+(i) Unit LS 1 consists of 120 stream mi (191.5 km) of French Creek in Crawford, Erie, Mercer, and Venango Counties, Pennsylvania. Approximately 106 stream mi (170.6 km; 76 percent) of riparian lands that border the unit are private ownership, and 14 stream mi (22.1 km; 24 percent) are public (Federal or State) ownership. This unit begins immediately downstream of the Union City Dam, which is operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit LS 1 follows:
+
+Figure 2 to Longsolid (*Fusconaia subrotunda*) paragraph (6)(ii) ![](/graphics/er09mr23.033.gif)
+
+(7) Unit LS 2: Allegheny River; Clarion, Crawford, Forest, Venango, and Warren Counties, Pennsylvania.
+
+(i) Unit LS 2 consists of 99 river mi (159.3 km) of the Allegheny River in Clarion, Crawford, Forest, Venango, and Warren Counties, Pennsylvania. Approximately 15 river mi (24.1 km; 14 percent) of riparian lands that border the unit are private ownership, and 84 river mi (135.8 km; 86 percent) are public (Federal or State; primarily Allegheny National Forest) ownership. This unit is immediately downstream of Kinzua Dam, which is operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit LS 2 follows:
+
+Figure 3 to Longsolid (*Fusconaia subrotunda*) paragraph (7)(ii) ![](/graphics/er09mr23.034.gif)
+
+(8) Unit LS 3: Shenango River; Crawford and Mercer Counties, Pennsylvania.
+
+(i) Unit LS 3 consists of 22 river miles (mi) (35.5 kilometers (km)) of the Shenango River in Crawford County, Pennsylvania, from Pymatuning Dam downstream to the point of inundation by Shenango River Lake near Big Bend, Mercer County, Pennsylvania. Approximately 15 river mi (24.3 km; 68 percent) of riparian lands that border the unit are private ownership, and 7 river mi (11.3 km; 32 percent) are public (Federal or State) ownership. This unit is immediately downstream from the Pymatuning Dam, which is owned by the State of Pennsylvania.
+
+(ii) Map of Unit LS 3 follows:
+
+Figure 4 to Longsolid (*Fusconaia subrotunda*) paragraph (8)(ii) ![](/graphics/er09mr23.035.gif)
+
+(9) Unit LS 4: Middle Island Creek; Doddridge and Tyler Counties, West Virginia.
+
+(i) Unit LS 4 consists of 14 stream mi (23.7 km) of Middle Island Creek in Doddridge and Tyler Counties, West Virginia. Approximately 14 stream mi (23.5 km; 99 percent) of riparian lands that border the unit are private ownership, and 0.1 stream mi (0.2 km; less than 1 percent) are public (local) ownership.
+
+(ii) Map of Unit LS 4 follows:
+
+Figure 5 to Longsolid (*Fusconaia subrotunda*) paragraph (9)(ii) ![](/graphics/er09mr23.036.gif)
+
+(10) Unit LS 5: Little Kanawha River; Calhoun, Gilmer, Ritchie, and Wood Counties, West Virginia.
+
+(i) Unit LS 5 consists of 123 river mi (198 km) of the Little Kanawha River in Calhoun, Gilmer, Ritchie, and Wood Counties, West Virginia. Approximately 122 river mi (197.2 km; 99 percent) are private ownership, and 0.53 river mi (0.9 km; 1 percent) are public (Federal or State) ownership. This unit is directly below the Burnsville Dam, which is operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit LS 5 follows:
+
+Figure 6 to Longsolid (*Fusconaia subrotunda*) paragraph (10)(ii) ![](/graphics/er09mr23.037.gif)
+
+(11) Unit LS 6: Elk River; Braxton, Clay, and Kanawha Counties, West Virginia.
+
+(i) Unit LS 6 consists of 101 river mi (163 km) of the Elk River in Braxton, Clay, and Kanawha Counties, West Virginia. Approximately 93 river mi (150.3 km; 92 percent) of riparian lands that border the unit are private ownership, and 7 river mi (12.7 km; 8 percent) are public (Federal, State, or local) ownership. This unit is directly below Sutton Dam, which is operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit LS 6 follows:
+
+Figure 7 to Longsolid (*Fusconaia subrotunda*) paragraph (11)(ii) ![](/graphics/er09mr23.038.gif)
+
+(12) Unit LS 7: Kanawha River; Fayette and Kanawha Counties, West Virginia.
+
+(i) Unit LS 7 consists of 21 river mi (33.9 km) of the Kanawha River in Fayette and Kanawha Counties, West Virginia. Approximately 18 river mi (29.3 km; 90 percent) of riparian lands that border the unit are private ownership, and 2 river mi (4.6 km; 10 percent) are public (Federal, State, or local) ownership. London and Marmet locks and dams within this unit are operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit LS 7 follows:
+
+Figure 8 to Longsolid (*Fusconaia subrotunda*) paragraph (12)(ii) ![](/graphics/er09mr23.039.gif)
+
+(13) Unit LS 8: Licking River; Bath, Campbell, Fleming, Harrison, Kenton, Morgan, Nicholas, Pendleton, Robertson, and Rowan Counties, Kentucky.
+
+(i) Unit LS 8 consists of 181 river mi (291.5 km) of the Licking River in Bath, Campbell, Fleming, Harrison, Kenton, Morgan, Nicholas, Pendleton, Robertson, and Rowan Counties, Kentucky. Approximately 161 river mi (259.7 km; 90 percent) of riparian lands that border the unit are private ownership, and 19 river mi (31.7 km; 10 percent) are public (Federal, State, or local) ownership. This unit is directly below Cave Run Dam, which is operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit LS 8 follows:
+
+Figure 9 to Longsolid (*Fusconaia subrotunda*) paragraph (13)(ii) ![](/graphics/er09mr23.040.gif)
+
+(14) Unit LS 9: Green River; Butler, Edmonson, Green, Hart, Taylor, and Warren Counties, Kentucky.
+
+(i) Unit LS 9 consists of 156 river mi (251.6 km) of the Green River in Butler, Edmonson, Green, Hart, Taylor, and Warren Counties, Kentucky. Approximately 105 river mi (169.2 km; 67 percent) of riparian lands that border the unit are private ownership, and 51 river mi (82.4 km; 33 percent) are public (Federal, State, or local) ownership, including Mammoth Cave National Park. This unit is directly below Green River Dam, which is operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit LS 9 follows:
+
+Figure 10 to Longsolid (*Fusconaia subrotunda*) paragraph (14)(ii) ![](/graphics/er09mr23.041.gif)
+
+(15) Unit LS 10: Cumberland River; Smith, Trousdale, and Wilson Counties, Tennessee.
+
+(i) Unit LS 10 consists of 48 river mi (77.5 km) of the Cumberland River in Smith, Trousdale, and Wilson Counties, Tennessee. All riparian lands that border the river are owned by the U.S. Army Corps of Engineers (Federal; 48 river mi (77.5 km)). This unit also falls within the Tennessee Wildlife Resources Agency's Rome Landing Sanctuary. Cordell Hull and Old Hickory Dams, upstream and downstream of this unit, respectively, are operated by the U.S. Army Corps of Engineers.
+
+(ii) Map of Unit LS 10 follows:
+
+Figure 11 to Longsolid (*Fusconaia subrotunda*) paragraph (15)(ii) ![](/graphics/er09mr23.042.gif)
+
+(16) Unit LS 11: Clinch River; Russell, Scott, Tazewell, and Wise Counties, Virginia; Claiborne, Hancock, and Hawkins Counties, Tennessee.
+
+(i) Unit LS 11 consists of 177 river mi (286.1 km) of the Clinch River in Russell, Scott, Tazewell, and Wise Counties, Virginia, and Claiborne, Hancock, and Hawkins Counties, Tennessee. Approximately 160 river mi (258.8 km; 90 percent) of riparian lands that border the unit are private ownership, and 17 river mi (27.3 km; 10 percent) are public (Federal or State) ownership. The Tennessee portion of this unit is encompassed by the Tennessee Wildlife Resources Agency's Clinch River Sanctuary.
+
+(ii) Map of Unit LS 11 follows:
+
+Figure 12 to Longsolid (*Fusconaia subrotunda*) paragraph (16)(ii) ![](/graphics/er09mr23.043.gif)
+
+(17) Unit LS 12: Paint Rock River; Jackson, Madison, and Marshall Counties, Alabama.
+
+(i) Unit LS 12 consists of 58 river mi (94.5 km) of the Paint Rock River in Jackson, Madison, and Marshall Counties, Alabama. Approximately 2 river mi (4.1 km; 3 percent) of riparian lands that border the unit are private ownership, and 56 river mi (90.4 km; 97 percent) are public (Federal or State) ownership.
+
+(ii) Map of Unit LS 12 follows:
+
+Figure 13 to Longsolid (*Fusconaia subrotunda*) paragraph (17)(ii) ![](/graphics/er09mr23.044.gif)Eleven Mobile River Basin Mussel Species: Southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum*), upland combshell (*Epioblasma metastriata*), triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orangenacre mucket (*Hamiota perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and finelined pocketbook (*Hamiota altilis*)
 
 (1) The primary constituent elements essential for the conservation of the southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum),* upland combshell (*Epioblasma metastriata*), triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orangenacre mucket (*Hamiota perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and finelined pocketbook (*Hamiota altilis*) are those habitat components that support feeding, sheltering, reproduction, and physical features for maintaining the natural processes that support these habitat components. The primary constituent elements include:
 
