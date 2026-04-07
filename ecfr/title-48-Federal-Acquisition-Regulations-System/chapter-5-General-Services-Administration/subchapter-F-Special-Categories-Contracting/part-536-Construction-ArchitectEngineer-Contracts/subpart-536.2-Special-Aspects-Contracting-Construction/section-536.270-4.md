@@ -16,7 +16,7 @@
 
 (6) Exercising the option is in accordance with the terms of the option.
 
-(7) The option price is fair and reasonable, unless already determined as such (*e.g.,* at time of award).
+(7) The option price is fair and reasonable, unless already determined as such (e.g., at time of award).
 
 (c) The contract modification, or other written document which notifies the contractor of the exercise of the option, must cite the option clause as authority. If exercising an unpriced or unevaluated option, cite the statutory authority permitting the use of other than full and open competition (see FAR 6.302).
 
