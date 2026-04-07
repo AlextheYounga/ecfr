@@ -1,6 +1,6 @@
 ##### § 7.465-5 Examples.
 
-The provisions of § 7.465-1 and § 7.465-2 may be illustrated by the following examples: 
+The provisions of § 7.465-1 and § 7.465-2 may be illustrated by the following examples:
 
 Example (1).J and K, as equal partners, form partnership JK on January 1, 1975. Partnership JK is engaged solely in an activity described in section 465(c)(1). On January 1, 1975, each partner contributes $10,000 in cash from personal assets to JK. On July 1, 1975, JK borrows $40,000 (of which J's share is $20,000) from a bank under a nonrecourse financing arrangement secured only by the new equipment (for use in the activity) purchased with the $40,000. On September 1, 1975, JK reduces the amount due on the loan to $36,000 (of which J's share is $18,000). On October 1, 1975, JK distributes $3,000 to each partner. For taxable year 1975, JK has no income or loss. Although J's basis in the activity is $25,000 ($10,000 + $18,000—$3,000) J's amount at risk on the effective date is $7,000 determined as follows:
 

@@ -1,46 +1,46 @@
 ##### § 1.817-2 Treatment of capital gains and losses.
 
-(a) *In general.* For taxable years beginning after December 31, 1958, and before January 1, 1962, if the net long-term capital gain (as defined in section 1222(7)) of any life insurance company exceeds its net short-term capital loss (as defined in section 1222(6)), section 802(a)(2) prior to its amendment by section 3 of the Act of October 23, 1962 (76 Stat. 1134), imposes a separate tax equal to 25 percent of such excess. For taxable years beginning after December 31, 1961, if the net long-term capital gain of any life insurance company exceeds its net short-term capital loss, section 802(a)(2) imposes an alternative tax in lieu of the tax imposed by section 802(a)(1), if and only if such alternative tax is less than the tax imposed by section 802(a)(1). Except as modified by section 817 (rules relating to certain gains and losses), the general rules of the Code relating to gains and losses, such as subchapter O (relating to gain or loss on disposition of property), subchapter P (relating to capital gains and losses), etc., shall apply with respect to life insurance companies. 
+(a) *In general.* For taxable years beginning after December 31, 1958, and before January 1, 1962, if the net long-term capital gain (as defined in section 1222(7)) of any life insurance company exceeds its net short-term capital loss (as defined in section 1222(6)), section 802(a)(2) prior to its amendment by section 3 of the Act of October 23, 1962 (76 Stat. 1134), imposes a separate tax equal to 25 percent of such excess. For taxable years beginning after December 31, 1961, if the net long-term capital gain of any life insurance company exceeds its net short-term capital loss, section 802(a)(2) imposes an alternative tax in lieu of the tax imposed by section 802(a)(1), if and only if such alternative tax is less than the tax imposed by section 802(a)(1). Except as modified by section 817 (rules relating to certain gains and losses), the general rules of the Code relating to gains and losses, such as subchapter O (relating to gain or loss on disposition of property), subchapter P (relating to capital gains and losses), etc., shall apply with respect to life insurance companies.
 
-(b) *Modification of section 1221 and 1231.* (1) In the case of a life insurance company, section 817(a)(1) provides that for purposes of applying section 1231(a) (relating to property used in the trade or business and involuntary conversions), the term *property used in the trade or business* shall be treated as including only: 
+(b) *Modification of section 1221 and 1231.* (1) In the case of a life insurance company, section 817(a)(1) provides that for purposes of applying section 1231(a) (relating to property used in the trade or business and involuntary conversions), the term *property used in the trade or business* shall be treated as including only:
 
-(i) Property used in carrying on an insurance business, of a character subject to the allowance for depreciation under section 167 (even though fully depreciated), held for more than 1 year (6 months for taxable years beginning before 1977; 9 months taxable years beginning in 1977), and real property used in carrying on an insurance business, held for more than 1 year (6 months for taxable years beginning before 1977; 9 months taxable years beginning in 1977), and which is not: 
+(i) Property used in carrying on an insurance business, of a character subject to the allowance for depreciation under section 167 (even though fully depreciated), held for more than 1 year (6 months for taxable years beginning before 1977; 9 months taxable years beginning in 1977), and real property used in carrying on an insurance business, held for more than 1 year (6 months for taxable years beginning before 1977; 9 months taxable years beginning in 1977), and which is not:
 
-(*a*) Property of a kind which would properly be includible in the inventory of the taxpayer if on hand at the close of the taxable year; 
+(*a*) Property of a kind which would properly be includible in the inventory of the taxpayer if on hand at the close of the taxable year;
 
-(*b*) Property held by the taxpayer primarily for sale to customers in the ordinary course of business; or 
+(*b*) Property held by the taxpayer primarily for sale to customers in the ordinary course of business; or
 
-(*c*) A copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property held by a taxpayer described in section 1221(3). In the case of a letter, memorandum, or property similar to a letter or memorandum, this subdivision (*c*) applies only to sales and other dispositions occurring after July 25, 1969. 
+(*c*) A copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property held by a taxpayer described in section 1221(3). In the case of a letter, memorandum, or property similar to a letter or memorandum, this subdivision (*c*) applies only to sales and other dispositions occurring after July 25, 1969.
 
-(ii) The cutting or disposal of timber, or the disposal of coal or iron ore, to the extent considered arising from a sale or exchange by reason of the provisions of section 631 and the regulations thereunder. 
+(ii) The cutting or disposal of timber, or the disposal of coal or iron ore, to the extent considered arising from a sale or exchange by reason of the provisions of section 631 and the regulations thereunder.
 
-(2) In the case of a life insurance company, section 817(a)(2) provides that for purposes of applying section 1221(2) (relating to the exclusion of certain property from the term capital asset), the reference to property used in trade or business shall be treated as including only property used in carrying on an insurance business. 
+(2) In the case of a life insurance company, section 817(a)(2) provides that for purposes of applying section 1221(2) (relating to the exclusion of certain property from the term capital asset), the reference to property used in trade or business shall be treated as including only property used in carrying on an insurance business.
 
-(3) Section 1231(a), as modified by section 817(a)(1) and subparagraph (1) of this paragraph, shall apply to recognized gains and losses from the following: 
+(3) Section 1231(a), as modified by section 817(a)(1) and subparagraph (1) of this paragraph, shall apply to recognized gains and losses from the following:
 
-(i) The sale, exchange, or involuntary conversion of the following property, if held for more than 1 year (6 months for taxable years beginning before 1977; 9 months taxable years beginning in 1977): 
+(i) The sale, exchange, or involuntary conversion of the following property, if held for more than 1 year (6 months for taxable years beginning before 1977; 9 months taxable years beginning in 1977):
 
-(*a*) The home office and branch office buildings (including land) owned and occupied by the life insurance company; 
+(*a*) The home office and branch office buildings (including land) owned and occupied by the life insurance company;
 
-(*b*) Furniture and equipment owned by the life insurance company and used in the home office and branch office buildings occupied by the life insurance company; and 
+(*b*) Furniture and equipment owned by the life insurance company and used in the home office and branch office buildings occupied by the life insurance company; and
 
-(*c*) Automobiles and other depreciable personal property used in connection with the operations conducted in the home office and branch office buildings occupied by the life insurance company. 
+(*c*) Automobiles and other depreciable personal property used in connection with the operations conducted in the home office and branch office buildings occupied by the life insurance company.
 
-(ii) The involuntary conversion of capital assets held for more than 1 year (6 months for taxable years beginning before 1977; 9 months taxable years beginning in 1977). 
+(ii) The involuntary conversion of capital assets held for more than 1 year (6 months for taxable years beginning before 1977; 9 months taxable years beginning in 1977).
 
-(iii) The cutting or disposal of timber, or the disposal of coal or iron ore, to the extent considered arising from a sale or exchange by reason of the provisions of section 631 and the regulations thereunder. 
+(iii) The cutting or disposal of timber, or the disposal of coal or iron ore, to the extent considered arising from a sale or exchange by reason of the provisions of section 631 and the regulations thereunder.
 
-(4) Section 1221(2), as modified by section 817(a)(2) and subparagraph (2) of this paragraph, shall include only the following property; 
+(4) Section 1221(2), as modified by section 817(a)(2) and subparagraph (2) of this paragraph, shall include only the following property;
 
-(i) The home office and branch office buildings (including land) owned and occupied by the life insurance company; 
+(i) The home office and branch office buildings (including land) owned and occupied by the life insurance company;
 
-(ii) Furniture and equipment owned by the life insurance company and used in the home office and branch office buildings occupied by the life insurance company; and 
+(ii) Furniture and equipment owned by the life insurance company and used in the home office and branch office buildings occupied by the life insurance company; and
 
-(iii) Automobiles and other depreciable personal property used in connection with the operations conducted in the home office and branch office buildings occupied by the life insurance company. 
+(iii) Automobiles and other depreciable personal property used in connection with the operations conducted in the home office and branch office buildings occupied by the life insurance company.
 
-(5) If an asset described in subparagraph (3) (i)(*a*), (*b*), or (*c*) or subparagraph (4) of this paragraph, or any portion thereof, is also an “investment asset” (an asset from which gross investment income, as defined in section 804(b), is derived), such asset, or portion thereof, shall not be treated as an asset used in carrying on an insurance business. Accordingly, the gains or losses from the sale or exchange (or considered as from the sale or exchange) of depreciable assets attributable to any trade or business, other than the insurance trade or business, carried on by the life insurance company, such as operating a radio station, housing development, or a farm, or renting various pieces of real estate shall be treated as gains or losses from the sale or exchange of a capital asset unless such asset is involuntarily converted (within the meaning of paragraph (e) of § 1.123-1). 
+(5) If an asset described in subparagraph (3) (i)(*a*), (*b*), or (*c*) or subparagraph (4) of this paragraph, or any portion thereof, is also an “investment asset” (an asset from which gross investment income, as defined in section 804(b), is derived), such asset, or portion thereof, shall not be treated as an asset used in carrying on an insurance business. Accordingly, the gains or losses from the sale or exchange (or considered as from the sale or exchange) of depreciable assets attributable to any trade or business, other than the insurance trade or business, carried on by the life insurance company, such as operating a radio station, housing development, or a farm, or renting various pieces of real estate shall be treated as gains or losses from the sale or exchange of a capital asset unless such asset is involuntarily converted (within the meaning of paragraph (e) of § 1.123-1).
 
-(c) *Illustration of principles.* The provisions of section 817(a) and this section may be illustrated by the following examples: 
+(c) *Illustration of principles.* The provisions of section 817(a) and this section may be illustrated by the following examples:
 
 Example 1.L, a life insurance company, has recognized gains and losses for the taxable year 1959 from the sale or involuntary conversion of the following items:
 

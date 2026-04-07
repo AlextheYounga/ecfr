@@ -1,28 +1,28 @@
 ##### § 171.16 Annual fees: Materials licensees, holders of certificates of compliance, holders of sealed source and device registrations, holders of quality assurance program approvals, and government agencies licensed by the NRC.
 
-(a)(1) The provisions of this section apply to person(s) who are authorized to conduct activities under—
+(a)(1) The provisions of this section apply to person(s) who are authorized to conduct activities under— 
 
-(i) 10 CFR part 30 for byproduct material;
+(i) 10 CFR part 30 for byproduct material; 
 
-(ii) 10 CFR part 40 for source material;
+(ii) 10 CFR part 40 for source material; 
 
-(iii) 10 CFR part 70 for special nuclear material;
+(iii) 10 CFR part 70 for special nuclear material; 
 
-(iv) 10 CFR part 71 for packaging and transportation of radioactive material; and
+(iv) 10 CFR part 71 for packaging and transportation of radioactive material; and 
 
-(v) 10 CFR part 76 for uranium enrichment.
+(v) 10 CFR part 76 for uranium enrichment. 
 
-(2) Notwithstanding the other provisions in this section, the regulations in this part do not apply to uranium recovery and fuel facility licensees until after the Commission verifies through inspection that the facility has been constructed in accordance with the requirements of the license.
+(2) Notwithstanding the other provisions in this section, the regulations in this part do not apply to uranium recovery and fuel facility licensees until after the Commission verifies through inspection that the facility has been constructed in accordance with the requirements of the license. 
 
-(3) In accordance with § 171.17, each person identified in paragraph (a)(1) of this section shall pay the applicable annual fee for each license the person holds during the FY. Annual fees will be prorated for new licenses issued and for licenses for which termination is requested and activities permanently ceased during the FY as provided in § 171.17. If a single license authorizes more than one activity (e.g., human use and irradiator activities), annual fees will be assessed for each fee category applicable to the license. If a person holds more than one license, the total annual fee assessed will be the cumulative total of the annual fees applicable to each license held.
+(3) In accordance with § 171.17, each person identified in paragraph (a)(1) of this section shall pay the applicable annual fee for each license the person holds during the FY. Annual fees will be prorated for new licenses issued and for licenses for which termination is requested and activities permanently ceased during the FY as provided in § 171.17. If a single license authorizes more than one activity (e.g., human use and irradiator activities), annual fees will be assessed for each fee category applicable to the license. If a person holds more than one license, the total annual fee assessed will be the cumulative total of the annual fees applicable to each license held. 
 
-(b) The FY 2024 annual fee is comprised of a base annual fee and associated additional charges. The base FY 2024 annual fee is the sum of budgeted costs for the following activities:
+(b) The FY 2024 annual fee is comprised of a base annual fee and associated additional charges. The base FY 2024 annual fee is the sum of budgeted costs for the following activities: 
 
-(1) Generic and other research activities directly related to the regulation of materials licenses as defined in this part; and
+(1) Generic and other research activities directly related to the regulation of materials licenses as defined in this part; and 
 
-(2) Other safety, environmental, and safeguards activities for materials licenses, except costs for licensing and inspection activities that are recovered under Part 170 of this chapter.
+(2) Other safety, environmental, and safeguards activities for materials licenses, except costs for licensing and inspection activities that are recovered under Part 170 of this chapter. 
 
-(c) A licensee who is required to pay an annual fee under this section, in addition to 10 CFR part 72 licenses, may qualify as a small entity. If a licensee qualifies as a small entity and provides the Commission with the proper certification along with its annual fee payment, the licensee may pay reduced annual fees as shown in table 1 to this paragraph (c). Failure to file a small entity certification in a timely manner could result in the receipt of a delinquent invoice requesting the outstanding balance due and/or denial of any refund that might otherwise be due. The small entity fees are as follows:
+(c) A licensee who is required to pay an annual fee under this section, in addition to 10 CFR part 72 licenses, may qualify as a small entity. If a licensee qualifies as a small entity and provides the Commission with the proper certification along with its annual fee payment, the licensee may pay reduced annual fees as shown in table 1 to this paragraph (c). Failure to file a small entity certification in a timely manner could result in the receipt of a delinquent invoice requesting the outstanding balance due and/or denial of any refund that might otherwise be due. The small entity fees are as follows: 
 
 Table 1 to Paragraph (c)
 | NRC small entity classification                                                                                | Maximum   annual fee   per licensed   category |
@@ -43,7 +43,7 @@ Table 1 to Paragraph (c)
 | 35 to 500 employees                                                                                            | 5,200                                          |
 | Fewer than 35 employees                                                                                        | 1,000                                          |
 
-(d) The FY 2024 annual fees for materials licensees and holders of certificates, registrations, or approvals subject to fees under this section are shown in table 2 to this paragraph (d):
+(d) The FY 2024 annual fees for materials licensees and holders of certificates, registrations, or approvals subject to fees under this section are shown in table 2 to this paragraph (d): 
 
 Table 2 to Paragraph (d)—Schedule of Materials Annual Fees and Fees for Government Agencies Licensed by NRC
 

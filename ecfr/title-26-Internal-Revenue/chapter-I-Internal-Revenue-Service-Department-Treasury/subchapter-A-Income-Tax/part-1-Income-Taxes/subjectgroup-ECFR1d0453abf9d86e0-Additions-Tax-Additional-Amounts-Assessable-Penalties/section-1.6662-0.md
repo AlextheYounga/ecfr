@@ -1,320 +1,320 @@
 ##### § 1.6662-0 Table of contents.
 
-This section lists the captions that appear in §§ 1.6662-1 through 1.6662-7. 
+This section lists the captions that appear in §§ 1.6662-1 through 1.6662-7.
 
 § 1.6662-1 Overview of the accuracy-related penalty. § 1.6662-2 Accuracy-related penalty.
 
-(a) In general. 
+(a) In general.
 
-(b) Amount of penalty. 
+(b) Amount of penalty.
 
-(1) In general. 
+(1) In general.
 
-(2) Increase in penalty for gross valuation misstatement. 
+(2) Increase in penalty for gross valuation misstatement.
 
-(c) No stacking of accuracy-related penalty components. 
+(c) No stacking of accuracy-related penalty components.
 
-(d) Effective dates. 
+(d) Effective dates.
 
-(1) Returns due before January 1, 1994. 
+(1) Returns due before January 1, 1994.
 
-(2) Returns due after December 31, 1993. 
+(2) Returns due after December 31, 1993.
 
-(3) Special rules for tax shelter items. 
+(3) Special rules for tax shelter items.
 
-(4) Special rule for reasonable basis. 
+(4) Special rule for reasonable basis.
 
-(5) Returns filed after December 31, 2002. 
+(5) Returns filed after December 31, 2002.
 
 § 1.6662-3 Negligence or disregard of rules or regulations.
 
-(a) In general. 
+(a) In general.
 
-(b) Definitions and rules. 
+(b) Definitions and rules.
 
-(1) Negligence. 
+(1) Negligence.
 
-(2) Disregard of rules or regulations. 
+(2) Disregard of rules or regulations.
 
-(3) Reasonable basis. 
+(3) Reasonable basis.
 
-(c) Exception for adequate disclosure. 
+(c) Exception for adequate disclosure.
 
-(1) In general. 
+(1) In general.
 
-(2) Method of disclosure. 
+(2) Method of disclosure.
 
-(d) Special rules in the case of carrybacks and carryovers. 
+(d) Special rules in the case of carrybacks and carryovers.
 
-(1) In general. 
+(1) In general.
 
-(2) Transition rule for carrybacks to pre-1990 years. 
+(2) Transition rule for carrybacks to pre-1990 years.
 
-(3) Example. 
+(3) Example.
 
 § 1.6662-4 Substantial understatement of income tax.
 
-(a) In general. 
+(a) In general.
 
-(b) Definitions and computational rules. 
+(b) Definitions and computational rules.
 
-(1) Substantial. 
+(1) Substantial.
 
-(2) Understatement. 
+(2) Understatement.
 
-(3) Amount of the tax required to be shown on the return. 
+(3) Amount of the tax required to be shown on the return.
 
-(4) Amount of the tax imposed which is shown on the return. 
+(4) Amount of the tax imposed which is shown on the return.
 
-(5) Rebate. 
+(5) Rebate.
 
-(6) Examples. 
+(6) Examples.
 
-(c) Special rules in the case of carrybacks and carryovers. 
+(c) Special rules in the case of carrybacks and carryovers.
 
-(1) In general. 
+(1) In general.
 
-(2) Understatements for carryback years not reduced by amount of carrybacks. 
+(2) Understatements for carryback years not reduced by amount of carrybacks.
 
-(3) Tainted items defined. 
+(3) Tainted items defined.
 
-(i) In general. 
+(i) In general.
 
-(ii) Tax shelter items. 
+(ii) Tax shelter items.
 
-(4) Transition rule for carrybacks to pre-1990 years. 
+(4) Transition rule for carrybacks to pre-1990 years.
 
-(5) Examples. 
+(5) Examples.
 
-(d) Substantial authority. 
+(d) Substantial authority.
 
-(1) Effect of having substantial authority. 
+(1) Effect of having substantial authority.
 
-(2) Substantial authority standard. 
+(2) Substantial authority standard.
 
-(3) Determination of whether substantial authority is present. 
+(3) Determination of whether substantial authority is present.
 
-(i) Evaluation of authorities. 
+(i) Evaluation of authorities.
 
-(ii) Nature of analysis. 
+(ii) Nature of analysis.
 
-(iii) Types of authority. 
+(iii) Types of authority.
 
-(iv) Special rules. 
+(iv) Special rules.
 
-(A) Written determinations. 
+(A) Written determinations.
 
-(B) Taxpayer's jurisdiction. 
+(B) Taxpayer's jurisdiction.
 
-(C) When substantial authority determined. 
+(C) When substantial authority determined.
 
-(v) Substantial authority for tax returns due before January 1, 1990. 
+(v) Substantial authority for tax returns due before January 1, 1990.
 
-(e) Disclosure of certain information. 
+(e) Disclosure of certain information.
 
-(1) Effect of adequate disclosure. 
+(1) Effect of adequate disclosure.
 
-(2) Circumstances where disclosure will not have an effect. 
+(2) Circumstances where disclosure will not have an effect.
 
-(3) Restriction for corporations. 
+(3) Restriction for corporations.
 
-(f) Method of making adequate disclosure. 
+(f) Method of making adequate disclosure.
 
-(1) Disclosure statement. 
+(1) Disclosure statement.
 
-(2) Disclosure on return. 
+(2) Disclosure on return.
 
-(3) Recurring item. 
+(3) Recurring item.
 
-(4) Carrybacks and carryovers. 
+(4) Carrybacks and carryovers.
 
-(5) Pass-through entities. 
+(5) Pass-through entities.
 
-(g) Items relating to tax shelters. 
+(g) Items relating to tax shelters.
 
-(1) In general. 
+(1) In general.
 
-(i) Noncorporate taxpayers. 
+(i) Noncorporate taxpayers.
 
-(ii) Corporate taxpayers. 
+(ii) Corporate taxpayers.
 
-(A) In general. 
+(A) In general.
 
-(B) Special rule for transactions occurring prior to December 9, 1994. 
+(B) Special rule for transactions occurring prior to December 9, 1994.
 
-(iii) Disclosure irrelevant. 
+(iii) Disclosure irrelevant.
 
-(iv) Cross-reference. 
+(iv) Cross-reference.
 
-(2) Tax shelter. 
+(2) Tax shelter.
 
-(i) In general. 
+(i) In general.
 
-(ii) Principal purpose. 
+(ii) Principal purpose.
 
-(3) Tax shelter item. 
+(3) Tax shelter item.
 
-(4) Reasonable belief. 
+(4) Reasonable belief.
 
-(i) In general. 
+(i) In general.
 
-(ii) Facts and circumstances; reliance on professional tax advisor. 
+(ii) Facts and circumstances; reliance on professional tax advisor.
 
-(5) Pass-through entities. 
+(5) Pass-through entities.
 
 § 1.6662-5 Substantial and gross valuation misstatements under chapter 1.
 
-(a) In general. 
+(a) In general.
 
-(b) Dollar limitation. 
+(b) Dollar limitation.
 
-(c) Special rules in the case of carrybacks and carryovers. 
+(c) Special rules in the case of carrybacks and carryovers.
 
-(1) In general. 
+(1) In general.
 
-(2) Transition rule for carrybacks to pre-1990 years. 
+(2) Transition rule for carrybacks to pre-1990 years.
 
-(d) Examples. 
+(d) Examples.
 
-(e) Definitions. 
+(e) Definitions.
 
-(1) Substantial valuation misstatement. 
+(1) Substantial valuation misstatement.
 
-(2) Gross valuation misstatement. 
+(2) Gross valuation misstatement.
 
-(3) Property. 
+(3) Property.
 
-(f) Multiple valuation misstatements on a return. 
+(f) Multiple valuation misstatements on a return.
 
-(1) Determination of whether valuation misstatements are substantial or gross. 
+(1) Determination of whether valuation misstatements are substantial or gross.
 
-(2) Application of dollar limitation. 
+(2) Application of dollar limitation.
 
-(g) Property with a value or adjusted basis of zero. 
+(g) Property with a value or adjusted basis of zero.
 
-(h) Pass-through entities. 
+(h) Pass-through entities.
 
-(1) In general. 
+(1) In general.
 
-(2) Example. 
+(2) Example.
 
-(i) \[Reserved\] 
+(i) \[Reserved\]
 
-(j) Transactions between persons described in section 482 and net section 482 transfer price adjustments. \[Reserved\] 
+(j) Transactions between persons described in section 482 and net section 482 transfer price adjustments. \[Reserved\]
 
-(k) Returns affected. 
+(k) Returns affected.
 
 § 1.6662-5T Substantial and gross valuation misstatements under chapter 1 (temporary).
 
-(a) through (e)(3) \[Reserved\] 
+(a) through (e)(3) \[Reserved\]
 
-(e)(4) Tests related to section 482. 
+(e)(4) Tests related to section 482.
 
-(i) Substantial valuation misstatement. 
+(i) Substantial valuation misstatement.
 
-(ii) Gross valuation misstatement. 
+(ii) Gross valuation misstatement.
 
-(iii) Property. 
+(iii) Property.
 
-(f) through (i) \[Reserved\] 
+(f) through (i) \[Reserved\]
 
-(j) Transactions between persons described in section 482 and net section 482 transfer price adjustments. 
+(j) Transactions between persons described in section 482 and net section 482 transfer price adjustments.
 
 § 1.6662-6 Transactions between persons described in section 482 and net section 482 transfer price adjustments.
 
-(a) In general. 
+(a) In general.
 
-(1) Purpose and scope. 
+(1) Purpose and scope.
 
-(2) Reported results. 
+(2) Reported results.
 
-(3) Identical terms used in the section 482 regulations. 
+(3) Identical terms used in the section 482 regulations.
 
-(b) The transactional penalty. 
+(b) The transactional penalty.
 
-(1) Substantial valuation misstatement. 
+(1) Substantial valuation misstatement.
 
-(2) Gross valuation misstatement. 
+(2) Gross valuation misstatement.
 
-(3) Reasonable cause and good faith. 
+(3) Reasonable cause and good faith.
 
-(c) Net adjustment penalty. 
+(c) Net adjustment penalty.
 
-(1) Net section 482 adjustment. 
+(1) Net section 482 adjustment.
 
-(2) Substantial valuation misstatement. 
+(2) Substantial valuation misstatement.
 
-(3) Gross valuation misstatement. 
+(3) Gross valuation misstatement.
 
-(4) Setoff allocation rule. 
+(4) Setoff allocation rule.
 
-(5) Gross receipts. 
+(5) Gross receipts.
 
-(6) Coordination with reasonable cause exception under section 6664(c). 
+(6) Coordination with reasonable cause exception under section 6664(c).
 
-(7) Examples. 
+(7) Examples.
 
-(d) Amounts excluded from net section 482 adjustments. 
+(d) Amounts excluded from net section 482 adjustments.
 
-(1) In general. 
+(1) In general.
 
-(2) Application of a specified section 482 method. 
+(2) Application of a specified section 482 method.
 
-(i) In general. 
+(i) In general.
 
-(ii) Specified method requirement. 
+(ii) Specified method requirement.
 
-(iii) Documentation requirement. 
+(iii) Documentation requirement.
 
-(A) In general. 
+(A) In general.
 
-(B) Principal documents. 
+(B) Principal documents.
 
-(C) Background documents. 
+(C) Background documents.
 
-(3) Application of an unspecified method. 
+(3) Application of an unspecified method.
 
-(i) In general. 
+(i) In general.
 
-(ii) Unspecified method requirement. 
+(ii) Unspecified method requirement.
 
-(A) In general. 
+(A) In general.
 
-(B) Specified method potentially applicable. 
+(B) Specified method potentially applicable.
 
-(C) No specified method applicable. 
+(C) No specified method applicable.
 
-(iii) Documentation requirement. 
+(iii) Documentation requirement.
 
-(A) In general. 
+(A) In general.
 
-(B) Principal and background documents. 
+(B) Principal and background documents.
 
-(4) Certain foreign to foreign transactions. 
+(4) Certain foreign to foreign transactions.
 
-(5) Special rule. 
+(5) Special rule.
 
-(6) Examples. 
+(6) Examples.
 
-(e) Special rules in the case of carrybacks and carryovers. 
+(e) Special rules in the case of carrybacks and carryovers.
 
-(f) Rules for coordinating between the transactional penalty and the net adjustment penalty. 
+(f) Rules for coordinating between the transactional penalty and the net adjustment penalty.
 
-(1) Coordination of a net section 482 adjustment subject to the net adjustment penalty and a gross valuation misstatement subject to the transactional penalty. 
+(1) Coordination of a net section 482 adjustment subject to the net adjustment penalty and a gross valuation misstatement subject to the transactional penalty.
 
-(2) Coordination of net section 482 adjustment subject to the net adjustment penalty and substantial valuation misstatements subject to the transactional penalty. 
+(2) Coordination of net section 482 adjustment subject to the net adjustment penalty and substantial valuation misstatements subject to the transactional penalty.
 
-(3) Examples. 
+(3) Examples.
 
-(g) Effective date. 
+(g) Effective date.
 
 § 1.6662-7 Omnibus Budget Reconciliation Act of 1993 changes to the accuracy-related penalty.
 
-(a) Scope. 
+(a) Scope.
 
-(b) No disclosure exception for negligence penalty. 
+(b) No disclosure exception for negligence penalty.
 
-(c) Disclosure standard for other penalties is reasonable basis. 
+(c) Disclosure standard for other penalties is reasonable basis.
 
 (d) Reasonable basis.
 

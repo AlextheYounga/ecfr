@@ -1,10 +1,10 @@
 ##### § 31.3402(h)(2)-1 Withholding on basis of annualized wages.
 
-An employer may determine the amount of tax to be deducted and withheld upon a payment of wages to an employee by taking the following steps: 
+An employer may determine the amount of tax to be deducted and withheld upon a payment of wages to an employee by taking the following steps:
 
-*Step 1.* Multiply the amount of the employee's wages for the payroll period by the number of such periods in the calendar year. 
+*Step 1.* Multiply the amount of the employee's wages for the payroll period by the number of such periods in the calendar year.
 
-*Step 2.* Determine the amount of tax which would be required to be deducted and withheld upon the amount determined in Step 1 if that amount constituted the actual wages for the calendar year and the payroll period of the employee were an annual payroll period. 
+*Step 2.* Determine the amount of tax which would be required to be deducted and withheld upon the amount determined in Step 1 if that amount constituted the actual wages for the calendar year and the payroll period of the employee were an annual payroll period.
 
 *Step 3.* Divide the amount of tax determined in Step 2 by the number of periods by which the employee's wages were multiplied in Step 1.
 

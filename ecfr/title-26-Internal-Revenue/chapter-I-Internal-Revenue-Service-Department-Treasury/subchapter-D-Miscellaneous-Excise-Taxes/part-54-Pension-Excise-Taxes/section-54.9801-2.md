@@ -1,117 +1,117 @@
 ##### § 54.9801-2 Definitions.
 
-Unless otherwise provided, the definitions in this section govern in applying the provisions of sections 9801 through 9815 and 9831 through 9833. 
+Unless otherwise provided, the definitions in this section govern in applying the provisions of sections 9801 through 9815 and 9831 through 9833.
 
-*Affiliation period* means a period of time that must expire before health insurance coverage provided by an HMO becomes effective, and during which the HMO is not required to provide benefits. 
+*Affiliation period* means a period of time that must expire before health insurance coverage provided by an HMO becomes effective, and during which the HMO is not required to provide benefits.
 
-*COBRA* definitions: 
+*COBRA* definitions:
 
-(1) *COBRA* means title X of the Consolidated Omnibus Budget Reconciliation Act of 1985, as amended. 
+(1) *COBRA* means title X of the Consolidated Omnibus Budget Reconciliation Act of 1985, as amended.
 
-(2) *COBRA continuation coverage* means coverage, under a group health plan, that satisfies an applicable COBRA continuation provision. 
+(2) *COBRA continuation coverage* means coverage, under a group health plan, that satisfies an applicable COBRA continuation provision.
 
-(3) *COBRA continuation provision* means section 4980B (other than paragraph (f)(1) of section 4980B insofar as it relates to pediatric vaccines), sections 601-608 of ERISA, or title XXII of the PHS Act. 
+(3) *COBRA continuation provision* means section 4980B (other than paragraph (f)(1) of section 4980B insofar as it relates to pediatric vaccines), sections 601-608 of ERISA, or title XXII of the PHS Act.
 
-(4) *Exhaustion of COBRA continuation coverage* means that an individual's COBRA continuation coverage ceases for any reason other than either failure of the individual to pay premiums on a timely basis, or for cause (such as making a fraudulent claim or an intentional misrepresentation of a material fact in connection with the plan). An individual is considered to have exhausted COBRA continuation coverage if such coverage ceases— 
+(4) *Exhaustion of COBRA continuation coverage* means that an individual's COBRA continuation coverage ceases for any reason other than either failure of the individual to pay premiums on a timely basis, or for cause (such as making a fraudulent claim or an intentional misrepresentation of a material fact in connection with the plan). An individual is considered to have exhausted COBRA continuation coverage if such coverage ceases—
 
-(i) Due to the failure of the employer or other responsible entity to remit premiums on a timely basis; 
+(i) Due to the failure of the employer or other responsible entity to remit premiums on a timely basis;
 
-(ii) When the individual no longer resides, lives, or works in the service area of an HMO or similar program (whether or not within the choice of the individual) and there is no other COBRA continuation coverage available to the individual; or 
+(ii) When the individual no longer resides, lives, or works in the service area of an HMO or similar program (whether or not within the choice of the individual) and there is no other COBRA continuation coverage available to the individual; or
 
-(iii) When the individual incurs a claim that would meet or exceed a lifetime limit on all benefits and there is no other COBRA continuation coverage available to the individual. 
+(iii) When the individual incurs a claim that would meet or exceed a lifetime limit on all benefits and there is no other COBRA continuation coverage available to the individual.
 
 *Condition* means a *medical condition.*
 
-*Creditable coverage* means *creditable coverage* within the meaning of § 54.9801-4(a). 
+*Creditable coverage* means *creditable coverage* within the meaning of § 54.9801-4(a).
 
-*Dependent* means any individual who is or may become eligible for coverage under the terms of a group health plan because of a relationship to a participant. 
+*Dependent* means any individual who is or may become eligible for coverage under the terms of a group health plan because of a relationship to a participant.
 
-*Employee Retirement Income Security Act of 1974 (ERISA)* means the Employee Retirement Income Security Act of 1974, as amended (29 U.S.C. 1001 *et seq.*). 
+*Employee Retirement Income Security Act of 1974 (ERISA)* means the Employee Retirement Income Security Act of 1974, as amended (29 U.S.C. 1001 *et seq.*).
 
-*Enroll* means to become covered for benefits under a group health plan (that is, when coverage becomes effective), without regard to when the individual may have completed or filed any forms that are required in order to become covered under the plan. For this purpose, an individual who has health coverage under a group health plan is enrolled in the plan regardless of whether the individual elects coverage, the individual is a dependent who becomes covered as a result of an election by a participant, or the individual becomes covered without an election. 
+*Enroll* means to become covered for benefits under a group health plan (that is, when coverage becomes effective), without regard to when the individual may have completed or filed any forms that are required in order to become covered under the plan. For this purpose, an individual who has health coverage under a group health plan is enrolled in the plan regardless of whether the individual elects coverage, the individual is a dependent who becomes covered as a result of an election by a participant, or the individual becomes covered without an election.
 
-*Enrollment date* means the first day of coverage or, if there is a waiting period, the first day of the waiting period. If an individual receiving benefits under a group health plan changes benefit packages, or if the plan changes group health insurance issuers, the individual's enrollment date does not change. 
+*Enrollment date* means the first day of coverage or, if there is a waiting period, the first day of the waiting period. If an individual receiving benefits under a group health plan changes benefit packages, or if the plan changes group health insurance issuers, the individual's enrollment date does not change.
 
-*Excepted benefits* means the benefits described as excepted in § 54.9831(c). 
+*Excepted benefits* means the benefits described as excepted in § 54.9831(c).
 
-*First day of coverage* means, in the case of an individual covered for benefits under a group health plan, the first day of coverage under the plan and, in the case of an individual covered by health insurance coverage in the individual market, the first day of coverage under the policy or contract. 
+*First day of coverage* means, in the case of an individual covered for benefits under a group health plan, the first day of coverage under the plan and, in the case of an individual covered by health insurance coverage in the individual market, the first day of coverage under the policy or contract.
 
-*Genetic information* has the meaning given the term in § 54.9802-3T(a)(3). 
+*Genetic information* has the meaning given the term in § 54.9802-3T(a)(3).
 
-*Group health insurance coverage* means health insurance coverage offered in connection with a group health plan. Individual health insurance coverage reimbursed by the arrangements described in 29 CFR 2510.3-1(l) is not offered in connection with a group health plan, and is not group health insurance coverage, provided all the conditions in 29 CFR 2510.3-1(l) are satisfied. 
+*Group health insurance coverage* means health insurance coverage offered in connection with a group health plan. Individual health insurance coverage reimbursed by the arrangements described in 29 CFR 2510.3-1(l) is not offered in connection with a group health plan, and is not group health insurance coverage, provided all the conditions in 29 CFR 2510.3-1(l) are satisfied.
 
-*Group health plan* or *plan* means a *group health plan* within the meaning of § 54.9831-1(a). 
+*Group health plan* or *plan* means a *group health plan* within the meaning of § 54.9831-1(a).
 
-*Group market* means the market for health insurance coverage offered in connection with a group health plan. (However, certain very small plans may be treated as being in the *individual market,* rather than the group market; see the definition of individual market in this section.) 
+*Group market* means the market for health insurance coverage offered in connection with a group health plan. (However, certain very small plans may be treated as being in the *individual market,* rather than the group market; see the definition of individual market in this section.)
 
-*Health insurance coverage* means benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or HMO contract offered by a health insurance issuer. Health insurance coverage includes group health insurance coverage, individual health insurance coverage, and short-term, limited-duration insurance. However, benefits described in § 54.9831(c)(2) are not treated as benefits consisting of medical care. 
+*Health insurance coverage* means benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or HMO contract offered by a health insurance issuer. Health insurance coverage includes group health insurance coverage, individual health insurance coverage, and short-term, limited-duration insurance. However, benefits described in § 54.9831(c)(2) are not treated as benefits consisting of medical care.
 
-*Health insurance issuer* or *issuer* means an insurance company, insurance service, or insurance organization (including an HMO) that is required to be licensed to engage in the business of insurance in a State and that is subject to State law that regulates insurance (within the meaning of section 514(b)(2) of ERISA). Such term does not include a group health plan. 
+*Health insurance issuer* or *issuer* means an insurance company, insurance service, or insurance organization (including an HMO) that is required to be licensed to engage in the business of insurance in a State and that is subject to State law that regulates insurance (within the meaning of section 514(b)(2) of ERISA). Such term does not include a group health plan.
 
-*Health maintenance organization* or *HMO* means— 
+*Health maintenance organization* or *HMO* means—
 
-(1) A federally qualified health maintenance organization (as defined in section 1301(a) of the PHS Act); 
+(1) A federally qualified health maintenance organization (as defined in section 1301(a) of the PHS Act);
 
-(2) An organization recognized under State law as a health maintenance organization; or 
+(2) An organization recognized under State law as a health maintenance organization; or
 
-(3) A similar organization regulated under State law for solvency in the same manner and to the same extent as such a health maintenance organization. 
+(3) A similar organization regulated under State law for solvency in the same manner and to the same extent as such a health maintenance organization.
 
-*Individual health insurance coverage* means health insurance coverage offered to individuals in the individual market, but does not include short-term, limited-duration insurance. Individual health insurance coverage can include dependent coverage. 
+*Individual health insurance coverage* means health insurance coverage offered to individuals in the individual market, but does not include short-term, limited-duration insurance. Individual health insurance coverage can include dependent coverage.
 
-*Individual market* means the market for health insurance coverage offered to individuals other than in connection with a group health plan. Unless a State elects otherwise in accordance with section 2791(e)(1)(B)(ii) of the PHS Act, such term also includes coverage offered in connection with a group health plan that has fewer than two participants who are current employees on the first day of the plan year. 
+*Individual market* means the market for health insurance coverage offered to individuals other than in connection with a group health plan. Unless a State elects otherwise in accordance with section 2791(e)(1)(B)(ii) of the PHS Act, such term also includes coverage offered in connection with a group health plan that has fewer than two participants who are current employees on the first day of the plan year.
 
 *Issuer* means a *health insurance issuer.*
 
-*Late enrollee* means an individual whose enrollment in a plan is a late enrollment. 
+*Late enrollee* means an individual whose enrollment in a plan is a late enrollment.
 
-*Late enrollment* means enrollment of an individual under a group health plan other than on the earliest date on which coverage can become effective for the individual under the terms of the plan; or through special enrollment. (For rules relating to special enrollment, see § 54.9801-6.) If an individual ceases to be eligible for coverage under a plan, and then subsequently becomes eligible for coverage under the plan, only the individual's most recent period of eligibility is taken into account in determining whether the individual is a late enrollee under the plan with respect to the most recent period of coverage. Similar rules apply if an individual again becomes eligible for coverage following a suspension of coverage that applied generally under the plan. 
+*Late enrollment* means enrollment of an individual under a group health plan other than on the earliest date on which coverage can become effective for the individual under the terms of the plan; or through special enrollment. (For rules relating to special enrollment, see § 54.9801-6.) If an individual ceases to be eligible for coverage under a plan, and then subsequently becomes eligible for coverage under the plan, only the individual's most recent period of eligibility is taken into account in determining whether the individual is a late enrollee under the plan with respect to the most recent period of coverage. Similar rules apply if an individual again becomes eligible for coverage following a suspension of coverage that applied generally under the plan.
 
-*Medical care* has the meaning given such term by section 213(d), determined without regard to section 213(d)(1)(C) and so much of section 213(d)(1)(D) as relates to qualified long-term care insurance. 
+*Medical care* has the meaning given such term by section 213(d), determined without regard to section 213(d)(1)(C) and so much of section 213(d)(1)(D) as relates to qualified long-term care insurance.
 
-*Medical condition* or *condition* means any condition, whether physical or mental, including, but not limited to, any condition resulting from illness, injury (whether or not the injury is accidental), pregnancy, or congenital malformation. However, genetic information is not a condition. 
+*Medical condition* or *condition* means any condition, whether physical or mental, including, but not limited to, any condition resulting from illness, injury (whether or not the injury is accidental), pregnancy, or congenital malformation. However, genetic information is not a condition.
 
-*Participant* means *participant* within the meaning of section 3(7) of ERISA. 
+*Participant* means *participant* within the meaning of section 3(7) of ERISA.
 
-*Placement, or being placed, for adoption* means the assumption and retention of a legal obligation for total or partial support of a child by a person with whom the child has been placed in anticipation of the child's adoption. The child's placement for adoption with such person ends upon the termination of such legal obligation. 
+*Placement, or being placed, for adoption* means the assumption and retention of a legal obligation for total or partial support of a child by a person with whom the child has been placed in anticipation of the child's adoption. The child's placement for adoption with such person ends upon the termination of such legal obligation.
 
-*Plan year* means the year that is designated as the plan year in the plan document of a group health plan, except that if the plan document does not designate a plan year or if there is no plan document, the plan year is— 
+*Plan year* means the year that is designated as the plan year in the plan document of a group health plan, except that if the plan document does not designate a plan year or if there is no plan document, the plan year is—
 
-(1) The deductible or limit year used under the plan; 
+(1) The deductible or limit year used under the plan;
 
-(2) If the plan does not impose deductibles or limits on a yearly basis, then the plan year is the policy year; 
+(2) If the plan does not impose deductibles or limits on a yearly basis, then the plan year is the policy year;
 
-(3) If the plan does not impose deductibles or limits on a yearly basis, and either the plan is not insured or the insurance policy is not renewed on an annual basis, then the plan year is the employer's taxable year; or 
+(3) If the plan does not impose deductibles or limits on a yearly basis, and either the plan is not insured or the insurance policy is not renewed on an annual basis, then the plan year is the employer's taxable year; or
 
-(4) In any other case, the plan year is the calendar year. 
+(4) In any other case, the plan year is the calendar year.
 
-*Preexisting condition exclusion* means a limitation or exclusion of benefits (including a denial of coverage) based on the fact that the condition was present before the effective date of coverage (or if coverage is denied, the date of the denial) under a group health plan or group or individual health insurance coverage (or other coverage provided to Federally eligible individuals pursuant to 45 CFR part 148), whether or not any medical advice, diagnosis, care, or treatment was recommended or received before that day. A preexisting condition exclusion includes any limitation or exclusion of benefits (including a denial of coverage) applicable to an individual as a result of information relating to an individual's health status before the individual's effective date of coverage (or if coverage is denied, the date of the denial) under a group health plan, or group or individual health insurance coverage (or other coverage provided to Federally eligible individuals pursuant to 45 CFR part 148), such as a condition identified as a result of a pre-enrollment questionnaire or physical examination given to the individual, or review of medical records relating to the pre-enrollment period. 
+*Preexisting condition exclusion* means a limitation or exclusion of benefits (including a denial of coverage) based on the fact that the condition was present before the effective date of coverage (or if coverage is denied, the date of the denial) under a group health plan or group or individual health insurance coverage (or other coverage provided to Federally eligible individuals pursuant to 45 CFR part 148), whether or not any medical advice, diagnosis, care, or treatment was recommended or received before that day. A preexisting condition exclusion includes any limitation or exclusion of benefits (including a denial of coverage) applicable to an individual as a result of information relating to an individual's health status before the individual's effective date of coverage (or if coverage is denied, the date of the denial) under a group health plan, or group or individual health insurance coverage (or other coverage provided to Federally eligible individuals pursuant to 45 CFR part 148), such as a condition identified as a result of a pre-enrollment questionnaire or physical examination given to the individual, or review of medical records relating to the pre-enrollment period.
 
-*Public health plan* means *public health plan* within the meaning of § 54.9801-4(a)(1)(ix). 
+*Public health plan* means *public health plan* within the meaning of § 54.9801-4(a)(1)(ix).
 
-*Public Health Service Act (PHS Act)* means the Public Health Service Act (42 U.S.C. 201, *et seq.*). 
+*Public Health Service Act (PHS Act)* means the Public Health Service Act (42 U.S.C. 201, *et seq.*).
 
-*Short-term, limited-duration insurance* means health insurance coverage provided pursuant to a policy, certificate, or contract of insurance with an issuer that meets the conditions of paragraph (1) of this definition. 
+*Short-term, limited-duration insurance* means health insurance coverage provided pursuant to a policy, certificate, or contract of insurance with an issuer that meets the conditions of paragraph (1) of this definition.
 
-(1) *Short-term, limited-duration insurance* means health insurance coverage provided pursuant to a policy, certificate, or contract of insurance with an issuer that: 
+(1) *Short-term, limited-duration insurance* means health insurance coverage provided pursuant to a policy, certificate, or contract of insurance with an issuer that:
 
-(i) Has an expiration date specified in the policy, certificate, or contract of insurance that is no more than 3 months after the original effective date of the policy, certificate, or contract of insurance, and taking into account any renewals or extensions, has a duration no longer than 4 months in total. For purposes of this paragraph (1)(i), a renewal or extension includes the term of a new short-term, limited-duration insurance policy, certificate, or contract of insurance issued by the same issuer, or if the issuer is a member of a controlled group, any other issuer that is a member of such controlled group, to the same policyholder within the 12-month period beginning on the original effective date of the initial policy, certificate, or contract of insurance; and 
+(i) Has an expiration date specified in the policy, certificate, or contract of insurance that is no more than 3 months after the original effective date of the policy, certificate, or contract of insurance, and taking into account any renewals or extensions, has a duration no longer than 4 months in total. For purposes of this paragraph (1)(i), a renewal or extension includes the term of a new short-term, limited-duration insurance policy, certificate, or contract of insurance issued by the same issuer, or if the issuer is a member of a controlled group, any other issuer that is a member of such controlled group, to the same policyholder within the 12-month period beginning on the original effective date of the initial policy, certificate, or contract of insurance; and
 
-(ii) Displays prominently on the first page (in either paper or electronic form, including on a website) of the policy, certificate, or contract of insurance, and in any marketing, application, and enrollment materials (including reenrollment materials) provided to individuals at or before the time an individual has the opportunity to enroll (or reenroll) in the coverage, in at least 14-point font, the language in the following notice: 
+(ii) Displays prominently on the first page (in either paper or electronic form, including on a website) of the policy, certificate, or contract of insurance, and in any marketing, application, and enrollment materials (including reenrollment materials) provided to individuals at or before the time an individual has the opportunity to enroll (or reenroll) in the coverage, in at least 14-point font, the language in the following notice:
 
 ![](/graphics/er03ap24.060.gif)
 
-(2) For purposes of paragraph (1)(i) of this definition, the term “controlled group” means any group treated as a single employer under section 52(a), 52(b), 414(m), or 414(o) of the Code. 
+(2) For purposes of paragraph (1)(i) of this definition, the term “controlled group” means any group treated as a single employer under section 52(a), 52(b), 414(m), or 414(o) of the Code.
 
-(3) If any provision of this definition is held to be invalid or unenforceable by its terms, or as applied to any entity or circumstance, or stayed pending further agency action, the provision shall be construed so as to continue to give the maximum effect to the provision permitted by law, along with other provisions not found invalid or unenforceable, including as applied to entities not similarly situated or to dissimilar circumstances, unless such holding is that the provision is invalid and unenforceable in all circumstances, in which event the provision shall be severable from the remainder of the definition and shall not affect the remainder thereof. 
+(3) If any provision of this definition is held to be invalid or unenforceable by its terms, or as applied to any entity or circumstance, or stayed pending further agency action, the provision shall be construed so as to continue to give the maximum effect to the provision permitted by law, along with other provisions not found invalid or unenforceable, including as applied to entities not similarly situated or to dissimilar circumstances, unless such holding is that the provision is invalid and unenforceable in all circumstances, in which event the provision shall be severable from the remainder of the definition and shall not affect the remainder thereof.
 
-*Significant break in coverage* means a *significant break in coverage* within the meaning of § 54.9801-4(b)(2)(iii). 
+*Significant break in coverage* means a *significant break in coverage* within the meaning of § 54.9801-4(b)(2)(iii).
 
-*Special enrollment* means enrollment in a group health plan under the rights described in § 54.9801-6 or in group health insurance coverage under the rights described in 29 CFR 2590.701-6 or 45 CFR 146.117. 
+*Special enrollment* means enrollment in a group health plan under the rights described in § 54.9801-6 or in group health insurance coverage under the rights described in 29 CFR 2590.701-6 or 45 CFR 146.117.
 
-*State health benefits risk pool* means a *State health benefits risk pool* within the meaning of § 54.9801-4(a)(1)(vii). 
+*State health benefits risk pool* means a *State health benefits risk pool* within the meaning of § 54.9801-4(a)(1)(vii).
 
-*Travel insurance* means insurance coverage for personal risks incident to planned travel, which may include, but is not limited to, interruption or cancellation of trip or event, loss of baggage or personal effects, damages to accommodations or rental vehicles, and sickness, accident, disability, or death occurring during travel, provided that the health benefits are not offered on a stand-alone basis and are incidental to other coverage. For this purpose, the term travel insurance does not include major medical plans that provide comprehensive medical protection for travelers with trips lasting 6 months or longer, including, for example, those working overseas as an expatriate or military personnel being deployed. 
+*Travel insurance* means insurance coverage for personal risks incident to planned travel, which may include, but is not limited to, interruption or cancellation of trip or event, loss of baggage or personal effects, damages to accommodations or rental vehicles, and sickness, accident, disability, or death occurring during travel, provided that the health benefits are not offered on a stand-alone basis and are incidental to other coverage. For this purpose, the term travel insurance does not include major medical plans that provide comprehensive medical protection for travelers with trips lasting 6 months or longer, including, for example, those working overseas as an expatriate or military personnel being deployed.
 
-*Waiting period* means *waiting period* within the meaning of § 54.9815-2708(b). 
+*Waiting period* means *waiting period* within the meaning of § 54.9815-2708(b).
 
 \[T.D. 9166, 69 FR 78746, Dec. 30, 2004, as amended by T.D. 9299, 71 FR 75056, Dec. 13, 2006; T.D. 9427, 73 FR 62420, Oct. 20, 2008; T.D. 9464, 74 FR 51678, Oct. 7, 2009; T.D. 9491, 75 FR 37222, June 28, 2010; T.D. 9656, 79 FR 10304, Feb. 24, 2014; T.D. 9744, 80 FR 72238, Nov. 18, 2015; T.D. 9791, 81 FR 75324, Oct. 31, 2016; T.D. 9837, 83 FR 38241, Aug. 3, 2018; T.D. 9867, 84 FR 28987, June 20, 2019; T.D. 9990, 89 FR 23410, Apr. 3, 2024\]

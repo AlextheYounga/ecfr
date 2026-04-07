@@ -1,630 +1,630 @@
 ##### § 1.409A-0 Table of contents.
 
-This section lists captions contained in §§ 1.409A-1, 1.409A-2, 1.409A-3, 1.409A-4, 1.409A-5 and 1.409A-6. 
+This section lists captions contained in §§ 1.409A-1, 1.409A-2, 1.409A-3, 1.409A-4, 1.409A-5 and 1.409A-6.
 
 § 1.409A-1 Definitions and covered plans.
 
-(a) Nonqualified deferred compensation plan. 
+(a) Nonqualified deferred compensation plan.
 
-(1) In general. 
+(1) In general.
 
-(2) Qualified employer plans. 
+(2) Qualified employer plans.
 
-(3) Certain foreign plans. 
+(3) Certain foreign plans.
 
-(i) Participation addressed by treaty. 
+(i) Participation addressed by treaty.
 
-(ii) Participation by nonresident aliens, certain resident aliens, and bona fide residents of possessions. 
+(ii) Participation by nonresident aliens, certain resident aliens, and bona fide residents of possessions.
 
-(iii) Participation by U.S. citizens and lawful permanent residents. 
+(iii) Participation by U.S. citizens and lawful permanent residents.
 
-(iv) Plans subject to a totalization agreement and similar plans. 
+(iv) Plans subject to a totalization agreement and similar plans.
 
-(v) Broad-based foreign retirement plan. 
+(v) Broad-based foreign retirement plan.
 
-(4) Section 457 plans. 
+(4) Section 457 plans.
 
-(5) Certain welfare benefits. 
+(5) Certain welfare benefits.
 
-(b) Deferral of compensation 
+(b) Deferral of compensation
 
-(1) In general. 
+(1) In general.
 
-(2) Earnings. 
+(2) Earnings.
 
-(3) Compensation payable pursuant to the service recipient's customary payment timing arrangement. 
+(3) Compensation payable pursuant to the service recipient's customary payment timing arrangement.
 
-(4) Short-term deferrals. 
+(4) Short-term deferrals.
 
-(i) In general. 
+(i) In general.
 
-(ii) Certain delayed payments. 
+(ii) Certain delayed payments.
 
-(iii) Examples. 
+(iii) Examples.
 
-(5) Stock options, stock appreciation rights, and other equity-based compensation. 
+(5) Stock options, stock appreciation rights, and other equity-based compensation.
 
-(i) Stock rights. 
+(i) Stock rights.
 
-(A) Nonstatutory stock options not providing for the deferral of compensation. 
+(A) Nonstatutory stock options not providing for the deferral of compensation.
 
-(B) Stock appreciation rights not providing for the deferral of compensation. 
+(B) Stock appreciation rights not providing for the deferral of compensation.
 
-(C) Stock rights that may provide for the deferral of compensation. 
+(C) Stock rights that may provide for the deferral of compensation.
 
-(D) Feature for the deferral of compensation. 
+(D) Feature for the deferral of compensation.
 
-(E) Rights to dividends. 
+(E) Rights to dividends.
 
-(ii) Statutory stock options. 
+(ii) Statutory stock options.
 
-(iii) Service recipient stock. 
+(iii) Service recipient stock.
 
-(A) In general. 
+(A) In general.
 
-(B) American depositary receipts. 
+(B) American depositary receipts.
 
-(C) Mutual company units. 
+(C) Mutual company units.
 
-(D) Other entities. 
+(D) Other entities.
 
-(E) Eligible issuer of service recipient stock. 
+(E) Eligible issuer of service recipient stock.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Investment vehicles. 
+(*2*) Investment vehicles.
 
-(*3*) Corporate structures established or transactions undertaken for purposes of avoiding coverage under section 409A. 
+(*3*) Corporate structures established or transactions undertaken for purposes of avoiding coverage under section 409A.
 
-(*4*) Substitutions and assumptions by reason of a corporate transaction. 
+(*4*) Substitutions and assumptions by reason of a corporate transaction.
 
-(iv) Determination of the fair market value of service recipient stock. 
+(iv) Determination of the fair market value of service recipient stock.
 
-(A) Stock readily tradable on an established securities market. 
+(A) Stock readily tradable on an established securities market.
 
-(B) Stock not readily tradable on an established securities market. 
+(B) Stock not readily tradable on an established securities market.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Presumption of reasonableness. 
+(*2*) Presumption of reasonableness.
 
-(*3*) Use of alternative methods. 
+(*3*) Use of alternative methods.
 
-(v) Modifications, extensions, substitutions, and assumptions of stock rights. 
+(v) Modifications, extensions, substitutions, and assumptions of stock rights.
 
-(A) Treatment of modified and extended stock rights. 
+(A) Treatment of modified and extended stock rights.
 
-(B) Modification in general. 
+(B) Modification in general.
 
-(C) Extensions. 
+(C) Extensions.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Certain extensions before April 10, 2007. 
+(*2*) Certain extensions before April 10, 2007.
 
-(*3*) Examples. 
+(*3*) Examples.
 
-(D) Substitutions and assumptions of stock rights by reason of a corporate transaction. 
+(D) Substitutions and assumptions of stock rights by reason of a corporate transaction.
 
-(E) Acceleration of date when exercisable. 
+(E) Acceleration of date when exercisable.
 
-(F) Discretionary added benefits. 
+(F) Discretionary added benefits.
 
-(G) Change in underlying stock increasing value. 
+(G) Change in underlying stock increasing value.
 
-(H) Change in the number of shares purchasable. 
+(H) Change in the number of shares purchasable.
 
-(I) Rescission of changes. 
+(I) Rescission of changes.
 
-(J) Successive modifications and extensions. 
+(J) Successive modifications and extensions.
 
-(K) Modifications and extensions in effect on October 23, 2004. 
+(K) Modifications and extensions in effect on October 23, 2004.
 
-(vi) Meaning and use of certain terms. 
+(vi) Meaning and use of certain terms.
 
-(A) Option. 
+(A) Option.
 
-(B) Date of grant of option. 
+(B) Date of grant of option.
 
-(C) Stock. 
+(C) Stock.
 
-(D) Exercise price. 
+(D) Exercise price.
 
-(E) Exercise. 
+(E) Exercise.
 
-(F) Transfer. 
+(F) Transfer.
 
-(G) Readily tradable. 
+(G) Readily tradable.
 
-(H) Application to stock appreciation rights. 
+(H) Application to stock appreciation rights.
 
-(6) Restricted property, section 402(b) trusts, and section 403(c) annuities. 
+(6) Restricted property, section 402(b) trusts, and section 403(c) annuities.
 
-(i) In general. 
+(i) In general.
 
-(ii) Promises to transfer property. 
+(ii) Promises to transfer property.
 
-(7) Arrangements between partnerships and partners. \[Reserved\] 
+(7) Arrangements between partnerships and partners. \[Reserved\]
 
-(8) Certain foreign plans. 
+(8) Certain foreign plans.
 
-(i) Plans with respect to compensation covered by treaty or other international agreement. 
+(i) Plans with respect to compensation covered by treaty or other international agreement.
 
-(ii) Plans with respect to certain other compensation. 
+(ii) Plans with respect to certain other compensation.
 
-(iii) Tax equalization agreements. 
+(iii) Tax equalization agreements.
 
-(iv) Certain limited deferrals of a nonresident alien. 
+(iv) Certain limited deferrals of a nonresident alien.
 
-(v) Additional foreign plans. 
+(v) Additional foreign plans.
 
-(vi) Earnings. 
+(vi) Earnings.
 
-(9) Separation pay plans. 
+(9) Separation pay plans.
 
-(i) In general. 
+(i) In general.
 
-(ii) Collectively bargained separation pay plans. 
+(ii) Collectively bargained separation pay plans.
 
-(iii) Separation pay due to involuntary separation from service or participation in a window program. 
+(iii) Separation pay due to involuntary separation from service or participation in a window program.
 
-(iv) Foreign separation pay plans. 
+(iv) Foreign separation pay plans.
 
-(v) Reimbursements and certain other separation payments. 
+(v) Reimbursements and certain other separation payments.
 
-(A) In general. 
+(A) In general.
 
-(B) Medical benefits. 
+(B) Medical benefits.
 
-(C) In-kind benefits and direct service recipient payments. 
+(C) In-kind benefits and direct service recipient payments.
 
-(D) Limited payments. 
+(D) Limited payments.
 
-(E) Limited period of time. 
+(E) Limited period of time.
 
-(vi) Window programs—definition. 
+(vi) Window programs—definition.
 
-(10) Certain indemnification and liability insurance plans. 
+(10) Certain indemnification and liability insurance plans.
 
-(11) Legal settlements. 
+(11) Legal settlements.
 
-(12) Certain educational benefits. 
+(12) Certain educational benefits.
 
-(c) Plan. 
+(c) Plan.
 
-(1) In general. 
+(1) In general.
 
-(2) Plan aggregation rules. 
+(2) Plan aggregation rules.
 
-(i) In general. 
+(i) In general.
 
-(ii) Dual status. 
+(ii) Dual status.
 
-(3) Establishment of plan. 
+(3) Establishment of plan.
 
-(i) In general. 
+(i) In general.
 
-(ii) Initial deferral election provisions. 
+(ii) Initial deferral election provisions.
 
-(iii) Subsequent deferral election provisions. 
+(iii) Subsequent deferral election provisions.
 
-(iv) Payment accelerations. 
+(iv) Payment accelerations.
 
-(v) Six-month delay for specified employees. 
+(v) Six-month delay for specified employees.
 
-(vi) Plan amendments. 
+(vi) Plan amendments.
 
-(vii) Transition rule for written plan requirement. 
+(vii) Transition rule for written plan requirement.
 
-(viii) Plan aggregation rules. 
+(viii) Plan aggregation rules.
 
-(d) Substantial risk of forfeiture. 
+(d) Substantial risk of forfeiture.
 
-(1) In general. 
+(1) In general.
 
-(2) Stock rights. 
+(2) Stock rights.
 
-(3) Enforcement of forfeiture condition. 
+(3) Enforcement of forfeiture condition.
 
-(i) In general. 
+(i) In general.
 
-(ii) Examples. 
+(ii) Examples.
 
-(e) Performance-based compensation. 
+(e) Performance-based compensation.
 
-(1) In general. 
+(1) In general.
 
-(2) Payments based upon subjective performance criteria. 
+(2) Payments based upon subjective performance criteria.
 
-(3) Equity-based compensation. 
+(3) Equity-based compensation.
 
-(f) Service provider. 
+(f) Service provider.
 
-(1) In general. 
+(1) In general.
 
-(2) Independent contractors. 
+(2) Independent contractors.
 
-(i) In general. 
+(i) In general.
 
-(ii) Related person. 
+(ii) Related person.
 
-(iii) Significant services. 
+(iii) Significant services.
 
-(iv) Management services. 
+(iv) Management services.
 
-(v) Services provided to related persons. 
+(v) Services provided to related persons.
 
-(g) Service recipient. 
+(g) Service recipient.
 
-(h) Separation from service. 
+(h) Separation from service.
 
-(1) Employees. 
+(1) Employees.
 
-(i) In general. 
+(i) In general.
 
-(ii) Termination of employment. 
+(ii) Termination of employment.
 
-(2) Independent contractors. 
+(2) Independent contractors.
 
-(i) In general. 
+(i) In general.
 
-(ii) Special rule. 
+(ii) Special rule.
 
-(3) Definition of service recipient and employer. 
+(3) Definition of service recipient and employer.
 
-(4) Asset purchase transactions. 
+(4) Asset purchase transactions.
 
-(5) Dual status. 
+(5) Dual status.
 
-(6) Collectively bargained plans covering multiple employers. 
+(6) Collectively bargained plans covering multiple employers.
 
-(i) Specified employee. 
+(i) Specified employee.
 
-(1) In general. 
+(1) In general.
 
-(2) Definition of compensation. 
+(2) Definition of compensation.
 
-(3) Specified employee identification date. 
+(3) Specified employee identification date.
 
-(4) Specified employee effective date. 
+(4) Specified employee effective date.
 
-(5) Alternative methods of satisfying the six-month delay rule. 
+(5) Alternative methods of satisfying the six-month delay rule.
 
-(6) Corporate transactions. 
+(6) Corporate transactions.
 
-(i) Mergers and acquisitions of public service recipients. 
+(i) Mergers and acquisitions of public service recipients.
 
-(ii) Mergers and acquisitions of nonpublic service recipients. 
+(ii) Mergers and acquisitions of nonpublic service recipients.
 
-(iii) Spinoffs. 
+(iii) Spinoffs.
 
-(iv) Public offerings and other corporate transactions. 
+(iv) Public offerings and other corporate transactions.
 
-(v) Alternative methods of compliance. 
+(v) Alternative methods of compliance.
 
-(7) Nonresident alien employees. 
+(7) Nonresident alien employees.
 
-(8) Elections affecting the identification of specified employees. 
+(8) Elections affecting the identification of specified employees.
 
-(j) Nonresident alien. 
+(j) Nonresident alien.
 
-(k) Established securities market. 
+(k) Established securities market.
 
-(l) Stock right. 
+(l) Stock right.
 
-(m) Separation pay plan. 
+(m) Separation pay plan.
 
-(n) Involuntary separation from service. 
+(n) Involuntary separation from service.
 
-(1) In general. 
+(1) In general.
 
-(2) Separations from service for good reason. 
+(2) Separations from service for good reason.
 
-(i) In general. 
+(i) In general.
 
-(ii) Safe harbor. 
+(ii) Safe harbor.
 
-(3) Special rule for certain collectively bargained plans. 
+(3) Special rule for certain collectively bargained plans.
 
-(o) Earnings. 
+(o) Earnings.
 
-(p) In-kind benefits. 
+(p) In-kind benefits.
 
-(q) Application of definitions and rules. 
+(q) Application of definitions and rules.
 
 § 1.409A-2 Deferral elections.
 
-(a) Initial elections as to the time and form of payment. 
+(a) Initial elections as to the time and form of payment.
 
-(1) In general. 
+(1) In general.
 
-(2) Service recipient elections. 
+(2) Service recipient elections.
 
-(3) General rule. 
+(3) General rule.
 
-(4) Initial deferral election with respect to short-term deferrals. 
+(4) Initial deferral election with respect to short-term deferrals.
 
-(5) Initial deferral election with respect to certain forfeitable rights. 
+(5) Initial deferral election with respect to certain forfeitable rights.
 
-(6) Initial deferral election with respect to fiscal year compensation. 
+(6) Initial deferral election with respect to fiscal year compensation.
 
-(7) First year of eligibility. 
+(7) First year of eligibility.
 
-(i) In general. 
+(i) In general.
 
-(ii) Eligibility to participate. 
+(ii) Eligibility to participate.
 
-(iii) Application to excess benefit plans. 
+(iii) Application to excess benefit plans.
 
-(8) Initial deferral election with respect to performance-based compensation. 
+(8) Initial deferral election with respect to performance-based compensation.
 
-(9) Nonqualified deferred compensation plans linked to qualified employer plans or certain other arrangements. 
+(9) Nonqualified deferred compensation plans linked to qualified employer plans or certain other arrangements.
 
-(10) Changes in elections under a cafeteria plan. 
+(10) Changes in elections under a cafeteria plan.
 
-(11) Initial deferral election with respect to certain separation pay. 
+(11) Initial deferral election with respect to certain separation pay.
 
-(12) Initial deferral election with respect to certain commissions. 
+(12) Initial deferral election with respect to certain commissions.
 
-(i) Sales commission compensation. 
+(i) Sales commission compensation.
 
-(ii) Investment commission compensation. 
+(ii) Investment commission compensation.
 
-(iii) Commission compensation and related persons. 
+(iii) Commission compensation and related persons.
 
-(13) Initial deferral election with respect to compensation paid for final payroll period. 
+(13) Initial deferral election with respect to compensation paid for final payroll period.
 
-(i) In general. 
+(i) In general.
 
-(ii) Transition rule. 
+(ii) Transition rule.
 
-(14) Elections to annualize recurring part-year compensation. 
+(14) Elections to annualize recurring part-year compensation.
 
-(15) USERRA rights. 
+(15) USERRA rights.
 
-(b) Subsequent changes in time and form of payment. 
+(b) Subsequent changes in time and form of payment.
 
-(1) In general. 
+(1) In general.
 
-(2) Definition of payments for purposes of subsequent changes in the time and form of payment. 
+(2) Definition of payments for purposes of subsequent changes in the time and form of payment.
 
-(i) In general. 
+(i) In general.
 
-(ii) Life annuities. 
+(ii) Life annuities.
 
-(A) In general. 
+(A) In general.
 
-(B) Certain features disregarded. 
+(B) Certain features disregarded.
 
-(C) Subsidized joint and survivor annuities. 
+(C) Subsidized joint and survivor annuities.
 
-(D) Actuarial assumptions and methods. 
+(D) Actuarial assumptions and methods.
 
-(iii) Installment payments. 
+(iii) Installment payments.
 
-(iv) Transition rule. 
+(iv) Transition rule.
 
-(3) Beneficiaries. 
+(3) Beneficiaries.
 
-(4) Domestic relations orders. 
+(4) Domestic relations orders.
 
-(5) Coordination with prohibition against acceleration of payments. 
+(5) Coordination with prohibition against acceleration of payments.
 
-(6) Application to multiple payment events. 
+(6) Application to multiple payment events.
 
-(7) Delay of payments under certain circumstances. 
+(7) Delay of payments under certain circumstances.
 
-(i) Payments subject to section 162(m). 
+(i) Payments subject to section 162(m).
 
-(ii) Payments that would violate Federal securities laws or other applicable law. 
+(ii) Payments that would violate Federal securities laws or other applicable law.
 
-(iii) Other events and conditions. 
+(iii) Other events and conditions.
 
-(8) USERRA rights. 
+(8) USERRA rights.
 
-(9) Examples. 
+(9) Examples.
 
-(c) Special rules for certain resident aliens. 
+(c) Special rules for certain resident aliens.
 
 § 1.409A-3 Permissible payments
 
-(a) In general. 
+(a) In general.
 
-(b) Designation of payment upon a permissible payment event. 
+(b) Designation of payment upon a permissible payment event.
 
-(c) Designation of alternative specified dates or payment schedules based upon date of permissible event. 
+(c) Designation of alternative specified dates or payment schedules based upon date of permissible event.
 
-(d) When a payment is treated as made upon the designated payment date. 
+(d) When a payment is treated as made upon the designated payment date.
 
-(e) Designation of time and form of payment with respect to earnings. 
+(e) Designation of time and form of payment with respect to earnings.
 
-(f) Substitutions. 
+(f) Substitutions.
 
-(g) Disputed payments and refusals to pay. 
+(g) Disputed payments and refusals to pay.
 
-(h) Special rule for certain resident aliens. 
+(h) Special rule for certain resident aliens.
 
-(i) Definitions and special rules. 
+(i) Definitions and special rules.
 
-(1) Specified time or fixed schedule. 
+(1) Specified time or fixed schedule.
 
-(i) In general. 
+(i) In general.
 
-(ii) Payment schedules with formula and fixed limitations. 
+(ii) Payment schedules with formula and fixed limitations.
 
-(A) Individual limitations. 
+(A) Individual limitations.
 
-(B) Limitations on aggregate payments to all participants in substantially identical plans. 
+(B) Limitations on aggregate payments to all participants in substantially identical plans.
 
-(iii) Payment schedules determined by timing of payments received by the service recipient. 
+(iii) Payment schedules determined by timing of payments received by the service recipient.
 
-(iv) Reimbursement or in-kind benefit plans. 
+(iv) Reimbursement or in-kind benefit plans.
 
-(A) General rule. 
+(A) General rule.
 
-(B) Medical reimbursement arrangements. 
+(B) Medical reimbursement arrangements.
 
-(v) Tax gross-up payments. 
+(v) Tax gross-up payments.
 
-(vi) Examples. 
+(vi) Examples.
 
-(2) Separation from service—required delay in payment to a specified employee pursuant to a separation from service. 
+(2) Separation from service—required delay in payment to a specified employee pursuant to a separation from service.
 
-(i) In general. 
+(i) In general.
 
-(ii) Application of payment rules to delayed payments. 
+(ii) Application of payment rules to delayed payments.
 
-(3) Unforeseeable emergency. 
+(3) Unforeseeable emergency.
 
-(i) Definition. 
+(i) Definition.
 
-(ii) Amount of payment permitted upon an unforeseeable emergency. 
+(ii) Amount of payment permitted upon an unforeseeable emergency.
 
-(iii) Payments due to an unforeseeable emergency. 
+(iii) Payments due to an unforeseeable emergency.
 
-(4) Disability. 
+(4) Disability.
 
-(i) In general. 
+(i) In general.
 
-(ii) Limited plan definition of disability. 
+(ii) Limited plan definition of disability.
 
-(iii) Determination of disability. 
+(iii) Determination of disability.
 
-(5) Change in the ownership or effective control of a corporation, or a change in the ownership of a substantial portion of the assets of a corporation. 
+(5) Change in the ownership or effective control of a corporation, or a change in the ownership of a substantial portion of the assets of a corporation.
 
-(i) In general. 
+(i) In general.
 
-(ii) Identification of relevant corporation. 
+(ii) Identification of relevant corporation.
 
-(A) In general. 
+(A) In general.
 
-(B) Majority shareholder. 
+(B) Majority shareholder.
 
-(C) Example. 
+(C) Example.
 
-(iii) Attribution of stock ownership. 
+(iii) Attribution of stock ownership.
 
-(iv) Special rules for certain delayed payments pursuant to a change in control event. 
+(iv) Special rules for certain delayed payments pursuant to a change in control event.
 
-(A) Certain transaction-based compensation. 
+(A) Certain transaction-based compensation.
 
-(B) Certain nonvested compensation. 
+(B) Certain nonvested compensation.
 
-(v) Change in the ownership of a corporation. 
+(v) Change in the ownership of a corporation.
 
-(A) In general. 
+(A) In general.
 
-(B) Persons acting as a group. 
+(B) Persons acting as a group.
 
-(vi) Change in the effective control of a corporation. 
+(vi) Change in the effective control of a corporation.
 
-(A) In general. 
+(A) In general.
 
-(B) Multiple change in control events. 
+(B) Multiple change in control events.
 
-(C) Acquisition of additional control. 
+(C) Acquisition of additional control.
 
-(D) Persons acting as a group. 
+(D) Persons acting as a group.
 
-(vii) Change in the ownership of a substantial portion of a corporation's assets. 
+(vii) Change in the ownership of a substantial portion of a corporation's assets.
 
-(A) In general. 
+(A) In general.
 
-(B) Transfers to a related person. 
+(B) Transfers to a related person.
 
-(C) Persons acting as a group. 
+(C) Persons acting as a group.
 
-(6) Certain back-to-back arrangements. 
+(6) Certain back-to-back arrangements.
 
-(i) In general. 
+(i) In general.
 
-(ii) Example. 
+(ii) Example.
 
-(j) Prohibition on acceleration of payments. 
+(j) Prohibition on acceleration of payments.
 
-(1) In general. 
+(1) In general.
 
-(2) Application to multiple payment events. 
+(2) Application to multiple payment events.
 
-(3) Beneficiaries. 
+(3) Beneficiaries.
 
-(4) Exceptions. 
+(4) Exceptions.
 
-(i) In general. 
+(i) In general.
 
-(ii) Domestic relations order. 
+(ii) Domestic relations order.
 
-(iii) Conflicts of interest. 
+(iii) Conflicts of interest.
 
-(A) Compliance with ethics agreements with the Federal government. 
+(A) Compliance with ethics agreements with the Federal government.
 
-(B) Compliance with ethics laws or conflicts of interest laws. 
+(B) Compliance with ethics laws or conflicts of interest laws.
 
-(iv) Section 457 plans. 
+(iv) Section 457 plans.
 
-(v) Limited cashouts. 
+(v) Limited cashouts.
 
-(vi) Payment of employment taxes. 
+(vi) Payment of employment taxes.
 
-(vii) Payment upon income inclusion under section 409A. 
+(vii) Payment upon income inclusion under section 409A.
 
-(viii) Cancellation of deferrals following an unforeseeable emergency or hardship distribution. 
+(viii) Cancellation of deferrals following an unforeseeable emergency or hardship distribution.
 
-(ix) Plan terminations and liquidations. 
+(ix) Plan terminations and liquidations.
 
-(x) Certain distributions to avoid a nonallocation year under section 409(p). 
+(x) Certain distributions to avoid a nonallocation year under section 409(p).
 
-(xi) Payment of state, local, or foreign taxes. 
+(xi) Payment of state, local, or foreign taxes.
 
-(xii) Cancellation of deferral elections due to disability. 
+(xii) Cancellation of deferral elections due to disability.
 
-(xiii) Certain offsets. 
+(xiii) Certain offsets.
 
-(xiv) Bona fide disputes as to a right to a payment. 
+(xiv) Bona fide disputes as to a right to a payment.
 
-(5) Nonqualified deferred compensation plans linked to qualified employer plans or certain other arrangements. 
+(5) Nonqualified deferred compensation plans linked to qualified employer plans or certain other arrangements.
 
-(6) Changes in elections under a cafeteria plan. 
+(6) Changes in elections under a cafeteria plan.
 
 § 1.409A-4 Calculation of income inclusion. \[Reserved\] § 1.409A-5 Funding. \[Reserved\] § 1.409A-6 Application of section 409A and effective dates.
 
-(a) Statutory application and effective dates 
+(a) Statutory application and effective dates
 
-(1) Application to amounts deferred. 
+(1) Application to amounts deferred.
 
-(i) In general. 
+(i) In general.
 
-(ii) Collectively bargained plans. 
+(ii) Collectively bargained plans.
 
-(2) Identification of date of deferral for statutory effective date purposes. 
+(2) Identification of date of deferral for statutory effective date purposes.
 
-(3) Calculation of amount of compensation deferred for statutory effective date purposes. 
+(3) Calculation of amount of compensation deferred for statutory effective date purposes.
 
-(i) Nonaccount balance plans. 
+(i) Nonaccount balance plans.
 
-(ii) Account balance plans. 
+(ii) Account balance plans.
 
-(iii) Equity-based compensation plans. 
+(iii) Equity-based compensation plans.
 
-(iv) Earnings. 
+(iv) Earnings.
 
-(v) Definition of plan. 
+(v) Definition of plan.
 
-(4) Material modifications. 
+(4) Material modifications.
 
-(i) In general. 
+(i) In general.
 
-(ii) Adoptions of new plans. 
+(ii) Adoptions of new plans.
 
-(iii) Suspension or termination of a plan. 
+(iii) Suspension or termination of a plan.
 
-(iv) Changes to investment measures—account balance plans. 
+(iv) Changes to investment measures—account balance plans.
 
-(v) Stock rights. 
+(v) Stock rights.
 
-(vi) Rescission of modifications. 
+(vi) Rescission of modifications.
 
-(vii) Definition of plan. 
+(vii) Definition of plan.
 
 (b) Regulatory applicability date.
 

@@ -1,6 +1,6 @@
 ##### § 20.1203 Determination of external dose from airborne radioactive material.
 
-Licensees shall, when determining the dose from airborne radioactive material, include the contribution to the deep-dose equivalent, lens dose equivalent, and shallow-dose equivalent from external exposure to the radioactive cloud (see appendix B to part 20, footnotes 1 and 2).
+Licensees shall, when determining the dose from airborne radioactive material, include the contribution to the deep-dose equivalent, lens dose equivalent, and shallow-dose equivalent from external exposure to the radioactive cloud (see appendix B to part 20, footnotes 1 and 2). 
 
 Note:
 

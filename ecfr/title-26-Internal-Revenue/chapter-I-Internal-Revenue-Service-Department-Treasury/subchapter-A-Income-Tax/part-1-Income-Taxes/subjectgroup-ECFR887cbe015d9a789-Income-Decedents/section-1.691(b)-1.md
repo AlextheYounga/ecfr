@@ -1,10 +1,10 @@
 ##### § 1.691(b)-1 Allowance of deductions and credit in respect to decedents.
 
-(a) Under section 691(b) the expenses, interest, and taxes described in sections 162, 163, 164, and 212 for which the decedent (or a prior decedent) was liable, which were not properly allowable as a deduction in his last taxable year or any prior taxable year, are allowed when paid: 
+(a) Under section 691(b) the expenses, interest, and taxes described in sections 162, 163, 164, and 212 for which the decedent (or a prior decedent) was liable, which were not properly allowable as a deduction in his last taxable year or any prior taxable year, are allowed when paid:
 
-(1) As a deduction by the estate; or 
+(1) As a deduction by the estate; or
 
-(2) If the estate was not liable to pay such obligation, as a deduction by the person who by bequest, devise, or inheritance from the decedent or by reason of the death of the decedent acquires, subject to such obligation, an interest in property of the decedent (or the prior decedent). 
+(2) If the estate was not liable to pay such obligation, as a deduction by the person who by bequest, devise, or inheritance from the decedent or by reason of the death of the decedent acquires, subject to such obligation, an interest in property of the decedent (or the prior decedent).
 
 Similar treatment is given to the foreign tax credit provided by section 33. For the purposes of subparagraph (2) of this paragraph, the right to receive an amount of gross income in respect of a decedent is considered property of the decedent; on the other hand, it is not necessary for a person, otherwise within the provisions of subparagraph (2) of this paragraph, to receive the right to any income in respect of a decedent. Thus, an heir who receives a right to income in respect of a decedent (by reason of the death of the decedent) subject to any income tax imposed by a foreign country during the decedent's life, which tax must be satisfied out of such income, is entitled to the credit provided by section 33 when he pays the tax. If a decedent who reported income by use of the cash receipts and disbursements method owned real property on which accrued taxes had become a lien, and if such property passed directly to the heir of the decedent in a jurisdiction in which real property does not become a part of a decedent's estate, the heir, upon paying such taxes, may take the same deduction under section 164 that would be allowed to the decedent if, while alive, he had made such payment.
 

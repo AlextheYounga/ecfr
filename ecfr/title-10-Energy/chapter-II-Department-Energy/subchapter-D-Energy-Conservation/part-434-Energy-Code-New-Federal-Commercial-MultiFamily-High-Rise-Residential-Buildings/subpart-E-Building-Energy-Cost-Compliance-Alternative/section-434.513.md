@@ -1,8 +1,8 @@
 ##### § 434.513 Occupancy.
 
-5131 Occupancy schedules are default assumptions. The same assumptions shall be made in computing Design Energy Consumption as were used in calculating the Energy Cost Budget.
+5131 Occupancy schedules are default assumptions. The same assumptions shall be made in computing Design Energy Consumption as were used in calculating the Energy Cost Budget. 
 
-513.2 Table 513.2.a, Occupancy Density, establishes the density, in ft 2 person of conditioned floor area, to be used for each building type. Table 513.2.b, Building Schedule Percentage Multipliers, establishes the percentage of total occupants in the building by hour of the day for each building type.
+513.2 Table 513.2.a, Occupancy Density, establishes the density, in ft 2 person of conditioned floor area, to be used for each building type. Table 513.2.b, Building Schedule Percentage Multipliers, establishes the percentage of total occupants in the building by hour of the day for each building type. 
 
 Table 513.2. a—Occupancy Density
 | Building type                                                                                                                  | Conditioned floor area Ft 2 person |

@@ -1,11 +1,11 @@
 ##### § 851.33 Terms and conditions.
 
-A variance may contain appropriate terms and conditions including, but not limited to, provisions that:
+A variance may contain appropriate terms and conditions including, but not limited to, provisions that: 
 
-(a) Limit its duration;
+(a) Limit its duration; 
 
-(b) Require alternative action;
+(b) Require alternative action; 
 
-(c) Require partial compliance; and
+(c) Require partial compliance; and 
 
 (d) Establish a schedule for full or partial compliance.

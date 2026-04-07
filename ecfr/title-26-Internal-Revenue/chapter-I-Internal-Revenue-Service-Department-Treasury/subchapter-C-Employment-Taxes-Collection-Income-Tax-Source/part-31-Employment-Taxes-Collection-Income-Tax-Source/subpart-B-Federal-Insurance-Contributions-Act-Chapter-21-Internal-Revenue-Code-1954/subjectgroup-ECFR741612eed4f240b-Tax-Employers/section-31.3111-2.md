@@ -1,6 +1,6 @@
 ##### § 31.3111-2 Rates and computation of employer tax.
 
-(a) *Old-age, survivors, and disability insurance.* The rates of employer tax for old-age, survivors, and disability insurance with respect to wages paid in calendar years after 1954 are as follows: 
+(a) *Old-age, survivors, and disability insurance.* The rates of employer tax for old-age, survivors, and disability insurance with respect to wages paid in calendar years after 1954 are as follows:
 
 | Calendar year                      | Percent |
 | ---------------------------------- | ------- |
@@ -19,7 +19,7 @@
 | 1974 to 2010, both inclusive       | 4.95    |
 | 2011 and subsequent calendar years | 5.95    |
 
-(b) *Hospital insurance.* The rates of employer tax for hospital insurance with respect to wages paid in calendar years after 1965 are as follows: 
+(b) *Hospital insurance.* The rates of employer tax for hospital insurance with respect to wages paid in calendar years after 1965 are as follows:
 
 | Calendar year                      | Percent |
 | ---------------------------------- | ------- |
@@ -32,6 +32,6 @@
 | 1981 to 1985, both inclusive       | 1.35    |
 | 1986 and subsequent calendar years | 1.50    |
 
-(c) *Computation of employer tax.* The employer tax is computed by applying to the wages paid by the employer the rate in effect at the time such wages are paid. 
+(c) *Computation of employer tax.* The employer tax is computed by applying to the wages paid by the employer the rate in effect at the time such wages are paid.
 
 \[T.D. 6983, 33 FR 18014, Dec. 4, 1968, as amended by T.D. 7374, 40 FR 30948, July 24, 1975\]

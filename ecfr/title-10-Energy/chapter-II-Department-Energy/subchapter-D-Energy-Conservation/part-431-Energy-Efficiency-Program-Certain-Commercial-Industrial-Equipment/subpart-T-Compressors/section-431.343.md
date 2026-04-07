@@ -4,26 +4,26 @@
 
 (b) *ISO.* International Organization for Standardization, Chemin de Blandonnet 8, CP 401, 1214 Vernier, Geneva, Switzerland +41 22 749 01 11, *www.iso.org.*
 
-(1) ISO Standard 1217:2009(E), (“ISO 1217:2009(E)”), “Displacement compressors—Acceptance tests,” July 1, 2009, IBR approved for appendix A to this subpart:
+(1) ISO Standard 1217:2009(E), (“ISO 1217:2009(E)”), “Displacement compressors—Acceptance tests,” July 1, 2009, IBR approved for appendix A to this subpart: 
 
-(i) Section 2. Normative references;
+(i) Section 2. Normative references; 
 
-(ii) Section 3. Terms and definitions;
+(ii) Section 3. Terms and definitions; 
 
-(iii) Section 4. Symbols;
+(iii) Section 4. Symbols; 
 
-(iv) Section 5. Measuring equipment, methods and accuracy (excluding 5.1, 5.5, 5.7, and 5.8);
+(iv) Section 5. Measuring equipment, methods and accuracy (excluding 5.1, 5.5, 5.7, and 5.8); 
 
-(v) Section 6. Test procedures, introductory text to Section 6.2, Test arrangements, and paragraphs 6.2(g) and 6.2(h) including Table 1—Maximum deviations from specified values and fluctuations from average readings;
+(v) Section 6. Test procedures, introductory text to Section 6.2, Test arrangements, and paragraphs 6.2(g) and 6.2(h) including Table 1—Maximum deviations from specified values and fluctuations from average readings; 
 
-(vi) Annex C (normative), Simplified acceptance test for electrically driven packaged displacement compressors (excluding C.1.2, C.2.1, C.3, C.4.2.2, C.4.3.1, and C.4.5).
+(vi) Annex C (normative), Simplified acceptance test for electrically driven packaged displacement compressors (excluding C.1.2, C.2.1, C.3, C.4.2.2, C.4.3.1, and C.4.5). 
 
-(2) ISO 1217:2009/Amd.1:2016(E), Displacement compressors—Acceptance tests (Fourth edition); Amendment 1: “Calculation of isentropic efficiency and relationship with specific energy,” April 15, 2016, IBR approved for appendix A to this subpart:
+(2) ISO 1217:2009/Amd.1:2016(E), Displacement compressors—Acceptance tests (Fourth edition); Amendment 1: “Calculation of isentropic efficiency and relationship with specific energy,” April 15, 2016, IBR approved for appendix A to this subpart: 
 
-(i) Section 3.5.1: isentropic power;
+(i) Section 3.5.1: isentropic power; 
 
-(ii) Section 3.6.1: isentropic efficiency;
+(ii) Section 3.6.1: isentropic efficiency; 
 
-(iii) Annex H (informative), Isentropic efficiency and its relation to specific energy requirement, sections H.2, Symbols and subscripts, and H.3, Derivation of isentropic power.
+(iii) Annex H (informative), Isentropic efficiency and its relation to specific energy requirement, sections H.2, Symbols and subscripts, and H.3, Derivation of isentropic power. 
 
 \[82 FR 1102, Jan. 4, 2017\]

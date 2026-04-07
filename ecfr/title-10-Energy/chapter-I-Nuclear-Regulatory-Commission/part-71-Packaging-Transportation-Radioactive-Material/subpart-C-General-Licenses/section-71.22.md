@@ -1,42 +1,42 @@
 ##### § 71.22 General license: Fissile material.
 
-(a) A general license is issued to any licensee of the Commission to transport fissile material, or to deliver fissile material to a carrier for transport, if the material is shipped in accordance with this section. The fissile material need not be contained in a package which meets the standards of subparts E and F of this part; however, the material must be contained in a Type A package. The Type A package must also meet the DOT requirements of 49 CFR 173.417(a).
+(a) A general license is issued to any licensee of the Commission to transport fissile material, or to deliver fissile material to a carrier for transport, if the material is shipped in accordance with this section. The fissile material need not be contained in a package which meets the standards of subparts E and F of this part; however, the material must be contained in a Type A package. The Type A package must also meet the DOT requirements of 49 CFR 173.417(a). 
 
-(b) The general license applies only to a licensee who has a quality assurance program approved by the Commission as satisfying the provisions of subpart H of this part.
+(b) The general license applies only to a licensee who has a quality assurance program approved by the Commission as satisfying the provisions of subpart H of this part. 
 
-(c) The general license applies only when a package's contents:
+(c) The general license applies only when a package's contents: 
 
-(1) Contain no more than a Type A quantity of radioactive material; and
+(1) Contain no more than a Type A quantity of radioactive material; and 
 
-(2) Contain less than 500 total grams of beryllium, graphite, or hydrogenous material enriched in deuterium.
+(2) Contain less than 500 total grams of beryllium, graphite, or hydrogenous material enriched in deuterium. 
 
-(d) The general license applies only to packages containing fissile material that are labeled with a CSI which:
+(d) The general license applies only to packages containing fissile material that are labeled with a CSI which: 
 
-(1) Has been determined in accordance with paragraph (e) of this section;
+(1) Has been determined in accordance with paragraph (e) of this section; 
 
-(2) Has a value less than or equal to 10; and
+(2) Has a value less than or equal to 10; and 
 
-(3) For a shipment of multiple packages containing fissile material, the sum of the CSIs must be less than or equal to 50 (for shipment on a nonexclusive use conveyance) and less than or equal to 100 (for shipment on an exclusive use conveyance).
+(3) For a shipment of multiple packages containing fissile material, the sum of the CSIs must be less than or equal to 50 (for shipment on a nonexclusive use conveyance) and less than or equal to 100 (for shipment on an exclusive use conveyance). 
 
-(e)(1) The value for the CSI must be greater than or equal to the number calculated by the following equation:
+(e)(1) The value for the CSI must be greater than or equal to the number calculated by the following equation: 
 
 ![](/graphics/er26ja04.012.gif)
 
-(2) The calculated CSI must be rounded up to the first decimal place;
+(2) The calculated CSI must be rounded up to the first decimal place; 
 
-(3) The values of X, Y, and Z used in the CSI equation must be taken from Tables 71-1 or 71-2, as appropriate;
+(3) The values of X, Y, and Z used in the CSI equation must be taken from Tables 71-1 or 71-2, as appropriate; 
 
-(4) If Table 71-2 is used to obtain the value of X, then the values for the terms in the equation for uranium-233 and plutonium must be assumed to be zero; and
+(4) If Table 71-2 is used to obtain the value of X, then the values for the terms in the equation for uranium-233 and plutonium must be assumed to be zero; and 
 
-(5) Table 71-1 values for X, Y, and Z must be used to determine the CSI if:
+(5) Table 71-1 values for X, Y, and Z must be used to determine the CSI if: 
 
-(i) Uranium-233 is present in the package;
+(i) Uranium-233 is present in the package; 
 
-(ii) The mass of plutonium exceeds 1 percent of the mass of uranium-235;
+(ii) The mass of plutonium exceeds 1 percent of the mass of uranium-235; 
 
-(iii) The uranium is of unknown uranium-235 enrichment or greater than 24 weight percent enrichment; or
+(iii) The uranium is of unknown uranium-235 enrichment or greater than 24 weight percent enrichment; or 
 
-(iv) Substances having a moderating effectiveness (*i.e.*, an average hydrogen density greater than H 2O) (e.g., certain hydrocarbon oils or plastics) are present in any form, except as polyethylene used for packing or wrapping.
+(iv) Substances having a moderating effectiveness (*i.e.*, an average hydrogen density greater than H 2O) (e.g., certain hydrocarbon oils or plastics) are present in any form, except as polyethylene used for packing or wrapping. 
 
 Table 71-1—Mass Limits for General License Packages Containing Mixed Quantities of Fissile Material or Uranium-235 of Unknown Enrichment per § 71.22(e)
 | Fissile material                                                                                                                                                                                 | Fissile material mass mixed with moderating substances having an average hydrogen density less than or equal to H 2 O (grams) | Fissile material mass mixed with moderating substances having an average hydrogen density greater than H 2 Oa (grams) |

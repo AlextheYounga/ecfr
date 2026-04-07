@@ -1,76 +1,76 @@
 ##### § 1.985-0 Outline of regulation.
 
-This section lists the paragraphs contained in §§ 1.985-1 through 1.985-6. 
+This section lists the paragraphs contained in §§ 1.985-1 through 1.985-6.
 
 § 1.985-1 Functional currency.
 
-(a) Applicability and effective date. 
+(a) Applicability and effective date.
 
-(b) Dollar functional currency. 
+(b) Dollar functional currency.
 
-(c) Functional currency of a QBU that is not required to use the dollar. 
+(c) Functional currency of a QBU that is not required to use the dollar.
 
-(d) Single functional currency for a foreign corporation. 
+(d) Single functional currency for a foreign corporation.
 
-(e) Translation of nonfunctional currency transactions. 
+(e) Translation of nonfunctional currency transactions.
 
-(f) Examples. 
+(f) Examples.
 
 § 1.985-2 Election to use the United States dollar as the functional currency of a QBU.
 
-(a) Background and scope. 
+(a) Background and scope.
 
-(b) Eligible QBU. 
+(b) Eligible QBU.
 
-(c) Time and manner for dollar election. 
+(c) Time and manner for dollar election.
 
-(d) Effect of dollar election. 
+(d) Effect of dollar election.
 
 § 1.985-3 United States dollar approximate separate transactions method.
 
-(a) Scope and effective date. 
+(a) Scope and effective date.
 
-(b) Statement of method. 
+(b) Statement of method.
 
-(c) Translation into United States dollars. 
+(c) Translation into United States dollars.
 
-(d) Computation of DASTM gain or loss. 
+(d) Computation of DASTM gain or loss.
 
-(e) Effect of DASTM gain or loss on gross income, taxable income, or earnings and profits. 
+(e) Effect of DASTM gain or loss on gross income, taxable income, or earnings and profits.
 
 § 1.985-4 Method of accounting.
 
-(a) Adoption or election. 
+(a) Adoption or election.
 
-(b) Condition for changing functional currencies. 
+(b) Condition for changing functional currencies.
 
-(c) Relationship to certain other sections of the Code. 
+(c) Relationship to certain other sections of the Code.
 
 § 1.985-5 Adjustments required upon change in functional currency.
 
-(a) In general. 
+(a) In general.
 
-(b) Step 1—Taking into account exchange gain or loss on certain section 988 transactions. 
+(b) Step 1—Taking into account exchange gain or loss on certain section 988 transactions.
 
-(c) Step 2—Determining the new functional currency basis of property and the new functional currency amount of liabilities and any other relevant items. 
+(c) Step 2—Determining the new functional currency basis of property and the new functional currency amount of liabilities and any other relevant items.
 
-(d) Step 3A—Additional adjustments that are necessary when a branch changes functional currency. 
+(d) Step 3A—Additional adjustments that are necessary when a branch changes functional currency.
 
-(e) Step 3B—Additional adjustments that are necessary when a taxpayer changes functional currency. 
+(e) Step 3B—Additional adjustments that are necessary when a taxpayer changes functional currency.
 
-(f) Examples. 
+(f) Examples.
 
 Section 1.985-6 Transition rules for a QBU that uses the dollar approximate separate transactions method for its first taxable year beginning in 1987.
 
-(a) In general. 
+(a) In general.
 
-(b) Certain controlled foreign corporations. 
+(b) Certain controlled foreign corporations.
 
-(c) All other foreign corporations. 
+(c) All other foreign corporations.
 
-(d) Pre-1987 section 902 amounts. 
+(d) Pre-1987 section 902 amounts.
 
-(e) Net worth branch. 
+(e) Net worth branch.
 
 (f) Profit and loss branch.
 

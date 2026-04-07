@@ -1,392 +1,392 @@
 ##### § 1.48D-0. Table of contents.
 
-This section lists the table of contents for §§ 1.48D-1 through 1.48D-6. 
+This section lists the table of contents for §§ 1.48D-1 through 1.48D-6.
 
 *§ 1.48D-1 Advanced manufacturing investment credit determined.*
 
-(a) Overview. 
+(a) Overview.
 
-(b) Determination of credit. 
+(b) Determination of credit.
 
-(c) Coordination with section 47. 
+(c) Coordination with section 47.
 
-(1) In general. 
+(1) In general.
 
-(2) Example. 
+(2) Example.
 
-(d) Applicability date. 
+(d) Applicability date.
 
 § 1.48D-2 Definitions.
 
-(a) In general. 
+(a) In general.
 
-(b) Applicable transaction. 
+(b) Applicable transaction.
 
-(c) Basis. 
+(c) Basis.
 
-(1) In general. 
+(1) In general.
 
-(2) Transition rule. 
+(2) Transition rule.
 
-(d) Beginning of construction. 
+(d) Beginning of construction.
 
-(e) Eligible taxpayer. 
+(e) Eligible taxpayer.
 
-(f) Foreign entities. 
+(f) Foreign entities.
 
-(1) Foreign entity. 
+(1) Foreign entity.
 
-(2) Foreign entity of concern. 
+(2) Foreign entity of concern.
 
-(g) Manufacturing of semiconductors. 
+(g) Manufacturing of semiconductors.
 
-(h) Manufacturing of semiconductor manufacturing equipment. 
+(h) Manufacturing of semiconductor manufacturing equipment.
 
-(i) Placed in service. 
+(i) Placed in service.
 
-(j) Qualified investment. 
+(j) Qualified investment.
 
-(1) In general. 
+(1) In general.
 
-(2) Special rules for certain passthrough entities. 
+(2) Special rules for certain passthrough entities.
 
-(i) Partnership. 
+(i) Partnership.
 
-(ii) S corporation. 
+(ii) S corporation.
 
-(iii) Estate or trust. 
+(iii) Estate or trust.
 
-(3) Qualified progress expenditures election. 
+(3) Qualified progress expenditures election.
 
-(i) In general. 
+(i) In general.
 
-(ii) Special rules for certain passthrough entities. 
+(ii) Special rules for certain passthrough entities.
 
-(4) Examples. 
+(4) Examples.
 
-(i) Example 1. 
+(i) Example 1.
 
-(ii) Example 2. 
+(ii) Example 2.
 
-(k) Section 48D credit. 
+(k) Section 48D credit.
 
-(l) Section 48D regulations. 
+(l) Section 48D regulations.
 
-(m) Semiconductor. 
+(m) Semiconductor.
 
-(n) Semiconductor manufacturing. 
+(n) Semiconductor manufacturing.
 
-(1) Semiconductor wafer production. 
+(1) Semiconductor wafer production.
 
-(2) Semiconductor fabrication. 
+(2) Semiconductor fabrication.
 
-(3) Semiconductor packaging. 
+(3) Semiconductor packaging.
 
-(4) Assembly. 
+(4) Assembly.
 
-(5) Testing. 
+(5) Testing.
 
-(6) Advanced packaging. 
+(6) Advanced packaging.
 
-(o) Semiconductor manufacturing equipment. 
+(o) Semiconductor manufacturing equipment.
 
-(p) Statutory references. 
+(p) Statutory references.
 
-(1) Chapter 1. 
+(1) Chapter 1.
 
-(2) Code. 
+(2) Code.
 
-(3) Subtitle A. 
+(3) Subtitle A.
 
-(q) Applicability date. 
+(q) Applicability date.
 
  § 1.48D-3 Qualified property.
 
-(a) In general. 
+(a) In general.
 
-(b) Qualified property. 
+(b) Qualified property.
 
-(c) Tangible depreciable property. 
+(c) Tangible depreciable property.
 
-(1) In general. 
+(1) In general.
 
-(2) Exception. 
+(2) Exception.
 
-(3) Buildings or portions of a building not excluded by section 48D(b)(2)(B)(ii). 
+(3) Buildings or portions of a building not excluded by section 48D(b)(2)(B)(ii).
 
-(d) Constructed, reconstructed, or erected by the taxpayer. 
+(d) Constructed, reconstructed, or erected by the taxpayer.
 
-(e) Original use. 
+(e) Original use.
 
-(1) In general. 
+(1) In general.
 
-(2) Treatment of inventory. 
+(2) Treatment of inventory.
 
-(f) Part of an advanced manufacturing facility. 
+(f) Part of an advanced manufacturing facility.
 
-(1) In general. 
+(1) In general.
 
-(2) Property that is not located or co-located at an advanced manufacturing facility or on a contiguous piece of land to the advanced manufacturing facility. 
+(2) Property that is not located or co-located at an advanced manufacturing facility or on a contiguous piece of land to the advanced manufacturing facility.
 
-(g) Integral to the operation of an advanced manufacturing facility. 
+(g) Integral to the operation of an advanced manufacturing facility.
 
-(1) In general. 
+(1) In general.
 
-(2) Vertically integrated manufacturers. 
+(2) Vertically integrated manufacturers.
 
-(3) Specific examples of integral property. 
+(3) Specific examples of integral property.
 
-(4) Research or storage facilities. 
+(4) Research or storage facilities.
 
-(5) Examples. 
+(5) Examples.
 
-(i) Example 1. 
+(i) Example 1.
 
-(ii) Example 2. 
+(ii) Example 2.
 
-(h) Applicability date. 
+(h) Applicability date.
 
 § 1.48D-4 Advanced manufacturing facility of an eligible taxpayer.
 
-(a) In general. 
+(a) In general.
 
-(b) Advanced manufacturing facility. 
+(b) Advanced manufacturing facility.
 
-(c) Primary purpose. 
+(c) Primary purpose.
 
-(1) In general. 
+(1) In general.
 
-(2) No primary purpose. 
+(2) No primary purpose.
 
-(3) Examples. 
+(3) Examples.
 
-(i) Example 1: Primary purpose; in general. 
+(i) Example 1: Primary purpose; in general.
 
-(ii) Example 2: Primary purpose; semiconductor wafer production. 
+(ii) Example 2: Primary purpose; semiconductor wafer production.
 
-(iii) Example 3: Primary purpose; vertically integrated manufacturer. 
+(iii) Example 3: Primary purpose; vertically integrated manufacturer.
 
-(iv) Example 4: No primary purpose; vertically integrated manufacturer. 
+(iv) Example 4: No primary purpose; vertically integrated manufacturer.
 
-(d) Applicability date. 
+(d) Applicability date.
 
 § 1.48D-5 Beginning of construction.
 
-(a) Termination of credit. 
+(a) Termination of credit.
 
-(1) In general. 
+(1) In general.
 
-(2) Property. 
+(2) Property.
 
-(3) Single advanced manufacturing facility project. 
+(3) Single advanced manufacturing facility project.
 
-(i) In general. 
+(i) In general.
 
-(ii) Related taxpayers. 
+(ii) Related taxpayers.
 
-(A) Definition. 
+(A) Definition.
 
-(B) Related taxpayer rule. 
+(B) Related taxpayer rule.
 
-(iii) Example. 
+(iii) Example.
 
-(iv) Timing of single advanced manufacturing facility project determination. 
+(iv) Timing of single advanced manufacturing facility project determination.
 
-(v) Disaggregation. 
+(v) Disaggregation.
 
-(vi) Example. 
+(vi) Example.
 
-(b) Beginning of construction. 
+(b) Beginning of construction.
 
-(1) In general. 
+(1) In general.
 
-(2) Continuity requirement. 
+(2) Continuity requirement.
 
-(c) Physical work test. 
+(c) Physical work test.
 
-(1) In general. 
+(1) In general.
 
-(2) Physical work of significant nature. 
+(2) Physical work of significant nature.
 
-(i) In general. 
+(i) In general.
 
-(ii) Exceptions. 
+(ii) Exceptions.
 
-(d) Five percent safe harbor. 
+(d) Five percent safe harbor.
 
-(1) In general. 
+(1) In general.
 
-(2) Costs. 
+(2) Costs.
 
-(3) Cost overruns. 
+(3) Cost overruns.
 
-(i) Single advanced manufacturing facility project. 
+(i) Single advanced manufacturing facility project.
 
-(ii) Example. 
+(ii) Example.
 
-(iii) Single property. 
+(iii) Single property.
 
-(iv) Example. 
+(iv) Example.
 
-(e) Continuity requirement. 
+(e) Continuity requirement.
 
-(1) In general. 
+(1) In general.
 
-(2) Continuous construction. 
+(2) Continuous construction.
 
-(3) Continuous efforts. 
+(3) Continuous efforts.
 
-(4) Excusable disruptions to continuous construction and continuous efforts tests. 
+(4) Excusable disruptions to continuous construction and continuous efforts tests.
 
-(i) In general. 
+(i) In general.
 
-(ii) Effect of excusable disruptions on continuity safe harbor. 
+(ii) Effect of excusable disruptions on continuity safe harbor.
 
-(iii) Non-exclusive list of construction disruptions. 
+(iii) Non-exclusive list of construction disruptions.
 
-(5) Timing of excusable disruption determination. 
+(5) Timing of excusable disruption determination.
 
-(6) Continuity safe harbor. 
+(6) Continuity safe harbor.
 
-(i) In general. 
+(i) In general.
 
-(ii) Example. 
+(ii) Example.
 
-(f) Applicability date. 
+(f) Applicability date.
 
 § 1.48D-6 Elective payment election.
 
-(a) Elective payment election. 
+(a) Elective payment election.
 
-(1) In general. 
+(1) In general.
 
-(2) Partnerships and S corporations. 
+(2) Partnerships and S corporations.
 
-(3) Irrevocable. 
+(3) Irrevocable.
 
-(b) Pre-filing registration required. 
+(b) Pre-filing registration required.
 
-(1) In general. 
+(1) In general.
 
-(2) Manner of registration. 
+(2) Manner of registration.
 
-(3) Members of a consolidated group. 
+(3) Members of a consolidated group.
 
-(4) Timing of pre-filing registration. 
+(4) Timing of pre-filing registration.
 
-(5) Each qualified investment in an advanced manufacturing facility must have its own registration number. 
+(5) Each qualified investment in an advanced manufacturing facility must have its own registration number.
 
-(6) Information required to complete the pre-filing registration process. 
+(6) Information required to complete the pre-filing registration process.
 
-(7) Registration number. 
+(7) Registration number.
 
-(i) In general. 
+(i) In general.
 
-(ii) Registration number is only valid for one year. 
+(ii) Registration number is only valid for one year.
 
-(iii) Renewing registration numbers. 
+(iii) Renewing registration numbers.
 
-(iv) Amendment of previously submitted registration information if a change occurs before the registration number is used. 
+(iv) Amendment of previously submitted registration information if a change occurs before the registration number is used.
 
-(v) Registration number is required to be reported on the return for the taxable year of the elective payment election. 
+(v) Registration number is required to be reported on the return for the taxable year of the elective payment election.
 
-(c) Time and manner of election. 
+(c) Time and manner of election.
 
-(1) In general. 
+(1) In general.
 
-(2) Limitations. 
+(2) Limitations.
 
-(d) Special rules for partnerships and S corporations. 
+(d) Special rules for partnerships and S corporations.
 
-(1) In general. 
+(1) In general.
 
-(2) Election. 
+(2) Election.
 
-(i) Time and manner of election. 
+(i) Time and manner of election.
 
-(ii) Effect of election. 
+(ii) Effect of election.
 
-(iii) Coordination with sections 705 and 1366. 
+(iii) Coordination with sections 705 and 1366.
 
-(iv) Partner's distributive share. 
+(iv) Partner's distributive share.
 
-(A) In general. 
+(A) In general.
 
-(B) Interim rule. 
+(B) Interim rule.
 
-(C) Partnership requirements. 
+(C) Partnership requirements.
 
-(v) S corporation shareholder's pro-rata share. 
+(v) S corporation shareholder's pro-rata share.
 
-(vi) Timing of tax exempt income. 
+(vi) Timing of tax exempt income.
 
-(3) Disregarded entity ownership. 
+(3) Disregarded entity ownership.
 
-(4) Electing partnerships in tiered structures. 
+(4) Electing partnerships in tiered structures.
 
-(i) In general. 
+(i) In general.
 
-(ii) Electing partnerships in tiered structures; interim rule. 
+(ii) Electing partnerships in tiered structures; interim rule.
 
-(5) Character of tax exempt income. 
+(5) Character of tax exempt income.
 
-(6) Determination of amount of the section 48D credit. 
+(6) Determination of amount of the section 48D credit.
 
-(i) In general. 
+(i) In general.
 
-(ii) Application of section 49 at-risk rules to determination of section 48D credit for partnerships and S corporations. 
+(ii) Application of section 49 at-risk rules to determination of section 48D credit for partnerships and S corporations.
 
-(iii) Changes in at-risk amounts under section 49 at partner or shareholder level. 
+(iii) Changes in at-risk amounts under section 49 at partner or shareholder level.
 
-(7) Partnerships subject to subchapter C of chapter 63 of the Code. 
+(7) Partnerships subject to subchapter C of chapter 63 of the Code.
 
-(8) Example. 
+(8) Example.
 
-(e) Denial of double benefit. 
+(e) Denial of double benefit.
 
-(1) In general. 
+(1) In general.
 
-(2) Application of the denial of double benefit rule. 
+(2) Application of the denial of double benefit rule.
 
-(3) Use of the section 48D credit for other purposes. 
+(3) Use of the section 48D credit for other purposes.
 
-(4) Examples. 
+(4) Examples.
 
-(i) Example 1. 
+(i) Example 1.
 
-(ii) Example 2. 
+(ii) Example 2.
 
-(iii) Example 3. 
+(iii) Example 3.
 
-(iv) Example 4. 
+(iv) Example 4.
 
-(f) Excessive payment. 
+(f) Excessive payment.
 
-(1) In general. 
+(1) In general.
 
-(2) Reasonable cause. 
+(2) Reasonable cause.
 
-(3) Excessive payment defined. 
+(3) Excessive payment defined.
 
-(4) Example. 
+(4) Example.
 
-(g) Basis reduction and recapture. 
+(g) Basis reduction and recapture.
 
-(1) In general. 
+(1) In general.
 
-(2) Basis adjustment. 
+(2) Basis adjustment.
 
-(i) In general. 
+(i) In general.
 
-(ii) Basis adjustment by partnership or S corporation. 
+(ii) Basis adjustment by partnership or S corporation.
 
-(iii) Basis adjustment of partners and S corporation shareholders. 
+(iii) Basis adjustment of partners and S corporation shareholders.
 
-(3) Recapture reporting. 
+(3) Recapture reporting.
 
-(h) Applicability dates. 
+(h) Applicability dates.
 
-(1) In general. 
+(1) In general.
 
 (2) Prior taxable years.
 

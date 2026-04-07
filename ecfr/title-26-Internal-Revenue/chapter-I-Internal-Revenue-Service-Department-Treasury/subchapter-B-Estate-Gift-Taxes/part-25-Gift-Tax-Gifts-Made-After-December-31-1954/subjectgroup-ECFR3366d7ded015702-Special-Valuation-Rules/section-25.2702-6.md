@@ -1,26 +1,26 @@
 ##### § 25.2702-6 Reduction in taxable gifts.
 
-(a) *Transfers of retained interests in trust*—(1) *Inter vivos transfers.* If an individual subsequently transfers by gift an interest in trust previously valued (when held by that individual) under § 25.2702-2 (b)(1) or (c), the individual is entitled to a reduction in aggregate taxable gifts. The amount of the reduction is determined under paragraph (b) of this section. Thus, for example, if an individual transferred property to an irrevocable trust, retaining an interest in the trust that was valued at zero under § 25.2702-2(b)(1), and the individual later transfers the retained interest by gift, the individual is entitled to a reduction in aggregate taxable gifts on the subsequent transfer. For purposes of this section, aggregate taxable gifts means the aggregate sum of the individual's taxable gifts for the calendar year determined under section 2502(a)(1). 
+(a) *Transfers of retained interests in trust*—(1) *Inter vivos transfers.* If an individual subsequently transfers by gift an interest in trust previously valued (when held by that individual) under § 25.2702-2 (b)(1) or (c), the individual is entitled to a reduction in aggregate taxable gifts. The amount of the reduction is determined under paragraph (b) of this section. Thus, for example, if an individual transferred property to an irrevocable trust, retaining an interest in the trust that was valued at zero under § 25.2702-2(b)(1), and the individual later transfers the retained interest by gift, the individual is entitled to a reduction in aggregate taxable gifts on the subsequent transfer. For purposes of this section, aggregate taxable gifts means the aggregate sum of the individual's taxable gifts for the calendar year determined under section 2502(a)(1).
 
-(2) *Testamentary transfers.* If either— 
+(2) *Testamentary transfers.* If either—
 
-(i) A term interest in trust is included in an individual's gross estate solely by reason of section 2033, or 
+(i) A term interest in trust is included in an individual's gross estate solely by reason of section 2033, or
 
-(ii) A remainder interest in trust is included in an individual's gross estate, 
+(ii) A remainder interest in trust is included in an individual's gross estate,
 
 and the interest was previously valued (when held by that individual) under § 25.2702-2(b)(1) or (c), the individual's estate is entitled to a reduction in the individual's adjusted taxable gifts in computing the Federal estate tax payable under section 2001. The amount of the reduction is determined under paragraph (b) of this section.
 
-(3) *Gift splitting on subsequent transfer.* If an individual who is entitled to a reduction in aggregate taxable gifts (or adjusted taxable gifts) subsequently transfers the interest in a transfer treated as made one-half by the individual's spouse under section 2513, the individual may assign one-half of the amount of the reduction to the consenting spouse. The assignment must be attached to the Form 709 on which the consenting spouse reports the split gift. 
+(3) *Gift splitting on subsequent transfer.* If an individual who is entitled to a reduction in aggregate taxable gifts (or adjusted taxable gifts) subsequently transfers the interest in a transfer treated as made one-half by the individual's spouse under section 2513, the individual may assign one-half of the amount of the reduction to the consenting spouse. The assignment must be attached to the Form 709 on which the consenting spouse reports the split gift.
 
-(b) *Amount of reduction*—(1) *In general.* The amount of the reduction in aggregate taxable gifts (or adjusted taxable gifts) is the lesser of— 
+(b) *Amount of reduction*—(1) *In general.* The amount of the reduction in aggregate taxable gifts (or adjusted taxable gifts) is the lesser of—
 
-(i) The increase in the individual's taxable gifts resulting from the interest being valued at the time of the initial transfer under § 25.2702-2(b)(1) or (c); or 
+(i) The increase in the individual's taxable gifts resulting from the interest being valued at the time of the initial transfer under § 25.2702-2(b)(1) or (c); or
 
-(ii) The increase in the individual's taxable gifts (or gross estate) resulting from the subsequent transfer of the interest. 
+(ii) The increase in the individual's taxable gifts (or gross estate) resulting from the subsequent transfer of the interest.
 
-(2) *Treatment of annual exclusion.* For purposes of determining the amount under paragraph (b)(1)(ii) of this section, the exclusion under section 2503(b) applies first to transfers in that year other than the transfer of the interest previously valued under § 25.2702-2(b)(1) or (c). 
+(2) *Treatment of annual exclusion.* For purposes of determining the amount under paragraph (b)(1)(ii) of this section, the exclusion under section 2503(b) applies first to transfers in that year other than the transfer of the interest previously valued under § 25.2702-2(b)(1) or (c).
 
-(3) *Overlap with section 2001.* Notwithstanding paragraph (b)(1) of this section, the amount of the reduction is reduced to the extent section 2001 would apply to reduce the amount of an individual's adjusted taxable gifts with respect to the same interest to which paragraph (b)(1) of this section would otherwise apply. 
+(3) *Overlap with section 2001.* Notwithstanding paragraph (b)(1) of this section, the amount of the reduction is reduced to the extent section 2001 would apply to reduce the amount of an individual's adjusted taxable gifts with respect to the same interest to which paragraph (b)(1) of this section would otherwise apply.
 
 (c) *Examples.* The rules of this section are illustrated by the following examples. The following facts apply for *Examples 1-4:*
 
