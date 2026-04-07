@@ -10,7 +10,7 @@
 
 (ii) The airport authority of each U.S. airport that the applicant proposes to serve, and
 
-(iii) Any other person who has filed a pleading in a related proceeding under section 41102, 41302, or 40109 of the Statute.
+(iii) Any other person who has filed a pleading in a related proceeding under section 41102, 41302, or 40109 of 49 U.S.C. Subtitle VII.
 
 (2) Applicants for scheduled foreign air transportation authority shall serve:
 
@@ -18,15 +18,15 @@
 
 (ii)The airport authority of each U.S. airport that the applicant proposes to serve, and
 
-(iii) Any other person who has filed a pleading in a related proceeding under section 41102, 41302, or 40109 of the Statute.
+(iii) Any other person who has filed a pleading in a related proceeding under section 41102, 41302, or 40109 of 49 U.S.C. Subtitle VII.
 
-(3) Applicants for charter-only or nonscheduled-only authority shall serve any person who has filed a pleading in a related proceeding under section 41102, 41302, or 40109 of the Statute. However, applicants that file fewer than sixteen (16) days prior to the proposed start of service must also serve:
+(3) Applicants for charter-only or nonscheduled-only authority shall serve any person who has filed a pleading in a related proceeding under section 41102, 41302, or 40109 of 49 U.S.C. Subtitle VII. However, applicants that file fewer than sixteen (16) days prior to the proposed start of service must also serve:
 
 (i) Those U.S. carriers (including commuter carriers) that are known to be operating in the general market(s) at issue and
 
 (ii) Those persons who may be presumed to have an interest in the subject matter of the application.
 
-(4) Applicants for slot exemptions under section 41714 of the Statute shall serve:
+(4) Applicants for slot exemptions under section 41714 of 49 U.S.C. Subtitle VII shall serve:
 
 (i) All U.S. air carriers (including commuter air carriers) that publish schedules in the *Official Airline Guide* or the *Air Cargo Guide* for the airport(s) specified in the application,
 
@@ -36,7 +36,7 @@
 
 (iv) The Governor of the State in which each affected airport is located, and
 
-(v) Any other person who has filed a pleading in a related proceeding under section 41714 of the Statute.
+(v) Any other person who has filed a pleading in a related proceeding under section 41714 of 49 U.S.C. Subtitle VII.
 
 (5) *Additional service.* The Department may, in its discretion, order additional service upon any other person.
 

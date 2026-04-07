@@ -6,7 +6,7 @@
 
 (2) *Rate* means rate, fare, or charge.
 
-(b) Except in unusual circumstances or as provided in paragraph (c) of this section, the Board will find a rate for domestic air transportation to constitute unreasonable discrimination only if:
+(b) Except in unusual circumstances or as provided in paragraph (c) of this section, the Departmentwill find a rate for domestic air transportation to constitute unreasonable discrimination only if:
 
 (1) There is a reasonable probability that the rate will result in significant long-run economic injury to passengers or shippers;
 

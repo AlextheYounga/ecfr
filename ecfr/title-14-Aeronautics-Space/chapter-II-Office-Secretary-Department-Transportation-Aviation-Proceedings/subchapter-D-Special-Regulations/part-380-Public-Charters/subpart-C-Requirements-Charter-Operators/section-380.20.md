@@ -10,6 +10,6 @@
 
 (4) Chapter 419.
 
-(5) If foreign charter operators receive interstate air transportation rights, any other provision of the statute that would otherwise prohibit them from organizing and arranging Public Charters in interstate air transportation.
+(5) If foreign charter operators receive interstate air transportation rights, any other provision of 49 U.S.C. Subtitle VII that would otherwise prohibit them from organizing and arranging Public Charters in interstate air transportation.
 
 (b) A charter operator who is a citizen of the United States shall not be subject to the following requirements with respect to Public Charters that originate in a foreign country: §§ 380.25, 380.28, and 380.30 through 380.35.

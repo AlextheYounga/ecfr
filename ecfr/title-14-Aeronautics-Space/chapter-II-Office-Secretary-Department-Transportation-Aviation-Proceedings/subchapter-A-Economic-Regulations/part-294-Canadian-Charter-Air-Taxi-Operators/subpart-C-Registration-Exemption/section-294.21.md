@@ -2,7 +2,7 @@
 
 (a) The Department will list the names and addresses of all persons applying for registration under this part in its Weekly Summary of Filings.
 
-(b) Any person objecting to the registration of a Canadian charter air taxi operator shall file an objection with the Office of International Aviation, Special Authorities Division, and serve a copy on the applicant within 28 days after the Department receives the properly completed registration application. Objections shall include any facts and arguments upon which they are based.
+(b) Any person objecting to the registration of a Canadian charter air taxi operator shall file an objection with the Office of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division, and serve a copy on the applicant within 28 days after the Department receives the properly completed registration application. Objections shall include any facts and arguments upon which they are based.
 
 (c) Any answers to objections shall be filed within 14 days after the date that the objections were due.
 

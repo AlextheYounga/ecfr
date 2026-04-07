@@ -8,7 +8,7 @@
 
 (4) In the case of an application sought to be consolidated, the applicant shall serve the notice required in paragraph (a)(1) of this section on all persons served by the original applicant.
 
-(b) *Persons to be served* - (1) *U.S. air carriers.* (i) In certificate proceedings, except for those proceedings that involve charter-only authority under section 41102(a)(3) of the Statute:
+(b) *Persons to be served*—(1) *U.S. air carriers.* (i) In certificate proceedings, except for those proceedings that involve charter-only authority under section 41102(a)(3) of 49 U.S.C. Subtitle VII:
 
 (A) Applicants for certificates to engage in interstate air transportation and other persons who file a pleading in the docket shall serve:
 
@@ -24,7 +24,7 @@
 
 (*3*) Any other person who has filed a pleading in the docket.
 
-(ii) In certificate proceedings involving charter-only authority under 41102(a)(3) of the Statute, applicants and other persons who file a pleading in the docket shall serve any other person who has filed a pleading in the docket.
+(ii) In certificate proceedings involving charter-only authority under 41102(a)(3) of 49 U.S.C. Subtitle VII, applicants and other persons who file a pleading in the docket shall serve any other person who has filed a pleading in the docket.
 
 (2) *Foreign air carriers.* (i) In permit proceedings, except for those proceedings involving charter-only authority, applicants and other persons who have filed a pleading in the docket shall serve:
 
