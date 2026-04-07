@@ -15,10 +15,10 @@
 Table I
 | Size designation                                                                                                                                   | Inches |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Small                                                                                                                                              | 24/32  |
-| Medium                                                                                                                                             | 28/32  |
-| Large                                                                                                                                              | 216/32 |
-| Extra large                                                                                                                                        | 224/32 |
+| Small                                                                                                                                              | 24⁄32  |
+| Medium                                                                                                                                             | 28⁄32  |
+| Large                                                                                                                                              | 216⁄32 |
+| Extra large                                                                                                                                        | 224⁄32 |
 | 1 Will not pass through a round opening of the designated diameter when tomato is placed with the greatest transverse diameter across the opening. |        |
 | 2 Will pass through a round opening of the designated diameter in any position.                                                                    |        |
 
