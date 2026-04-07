@@ -1,6 +1,6 @@
 ##### § 3715.1 Do the regulations in this subpart apply to my use or occupancy?
 
-To determine if the regulations in this subpart apply to your activities, refer to Table 1 in this section. 
+To determine if the regulations in this subpart apply to your activities, refer to Table 1 in this section.
 
 Table 1
 | Applicability of this subpart                                                                                                                         |                                                                                                                                                                                                                                                                             |

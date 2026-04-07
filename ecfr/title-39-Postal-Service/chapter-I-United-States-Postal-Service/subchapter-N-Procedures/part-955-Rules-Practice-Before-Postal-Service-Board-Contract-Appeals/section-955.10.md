@@ -1,15 +1,5 @@
-##### § 955.10 (Rule 10) Conferences with the parties.
+##### § 955.10 Prehearing briefs.
 
-(a) Regardless of whether an appeal will be decided after a hearing or on the written record, the Board may, on its own initiative or at the request of one of the parties, convene a conference to consider:
+Based on an examination of the documentation described in § 955.5, the pleadings, and a determination of whether the arguments and authorities addressed to the issues are adequately set forth therein, the Board may, in its discretion, require the parties to submit prehearing briefs in any case in which a hearing has been ordered pursuant to § 955.9. In the absence of a Board requirement therefor, either party may, in its discretion and upon appropriate and sufficient notice to the other party, furnish a prehearing brief to the Board. In any case where a prehearing brief is submitted, it shall be filed with the Board at least 15 days prior to the date set for hearing. 
 
-(1) Simplifying or clarifying the issues;
-
-(2) Obtaining stipulations, admissions, agreements on documents, understandings on matters already of record, and similar agreements to avoid unnecessary proof;
-
-(3) Limiting the number of witnesses and avoiding cumulative evidence;
-
-(4) Settling any of the disputed issues; and
-
-(5) Discussing any other matters that may aid in disposing of the appeal.
-
-(b) The Board will prepare a written summary of any conference with the parties. The written summary will be part of the record.
+\[74 FR 20592, May 5, 2009, as amended at 76 FR 37660, June 28, 2011; 80 FR 31305, June 2, 2015\]

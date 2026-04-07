@@ -1,6 +1,6 @@
 ##### § 3809.551 What are my choices for providing BLM with a financial guarantee?
 
-You must provide BLM with a financial guarantee using any of the 3 options in the following table: 
+You must provide BLM with a financial guarantee using any of the 3 options in the following table:
 
 | If—                                                                                                                                    | Then—                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

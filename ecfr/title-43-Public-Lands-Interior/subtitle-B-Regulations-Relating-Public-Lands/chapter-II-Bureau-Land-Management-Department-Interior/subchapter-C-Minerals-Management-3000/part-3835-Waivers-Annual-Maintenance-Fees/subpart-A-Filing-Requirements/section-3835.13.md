@@ -1,6 +1,6 @@
 ##### § 3835.13 How long do the waivers last and how do I renew them?
 
-The following table states how long waivers last and explains how to renew them: 
+The following table states how long waivers last and explains how to renew them:
 
 | Type of waiver                                        | Duration                                                                                                                                                 | Renewal requirements                                                                                                                                                                              |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 3809.300 Does this subpart apply to my existing notice-level operations?
 
-To see how this subpart applies to your operations conducted under a notice and existing on January 20, 2001, follow this table: 
+To see how this subpart applies to your operations conducted under a notice and existing on January 20, 2001, follow this table:
 
 | If BLM has received your complete notice before January 20, 2001—                                                            | Then—                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,6 +1,6 @@
 ##### § 3809.801 When may I file an appeal of the BLM decision with OHA?
 
-(a) If you intend to appeal a BLM decision under this subpart, use the following table to see when you must file a notice of appeal with OHA: 
+(a) If you intend to appeal a BLM decision under this subpart, use the following table to see when you must file a notice of appeal with OHA:
 
 | If—                                          | And—                                                                                                             | Then if you intend to appeal, you must file a notice of appeal with OHA—                                                             |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |

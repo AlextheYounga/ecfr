@@ -1,8 +1,8 @@
 ##### § 3835.1 How do I qualify for a waiver?
 
-(a) Under certain conditions, you may qualify for a waiver from the annual maintenance fee requirements. You cannot obtain a waiver from service charges, the location fee, the initial maintenance fee, or the $550 oil shale fee. 
+(a) Under certain conditions, you may qualify for a waiver from the annual maintenance fee requirements. You cannot obtain a waiver from service charges, the location fee, the initial maintenance fee, or the $550 oil shale fee.
 
-(b) The following table lists the types of waivers available and how you qualify for them (detailed requirements for each category appear in § 3835.10): 
+(b) The following table lists the types of waivers available and how you qualify for them (detailed requirements for each category appear in § 3835.10):
 
 | Type of waiver                              | Qualifications                                                                                                                                                                                                                   |
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

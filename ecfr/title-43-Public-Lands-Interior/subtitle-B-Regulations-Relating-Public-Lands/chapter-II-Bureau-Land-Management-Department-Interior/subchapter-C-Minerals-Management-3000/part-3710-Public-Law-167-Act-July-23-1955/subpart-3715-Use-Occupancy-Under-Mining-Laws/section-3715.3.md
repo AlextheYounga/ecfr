@@ -1,6 +1,6 @@
 ##### § 3715.3 Must I consult with BLM before occupancy?
 
-Before beginning occupancy, you must consult with BLM about the requirements of this subpart. See Table 2 in this section. 
+Before beginning occupancy, you must consult with BLM about the requirements of this subpart. See Table 2 in this section.
 
 Table 2
 | Consultation requirements                                                                                                                                 |                                                                                                                                                                                              |

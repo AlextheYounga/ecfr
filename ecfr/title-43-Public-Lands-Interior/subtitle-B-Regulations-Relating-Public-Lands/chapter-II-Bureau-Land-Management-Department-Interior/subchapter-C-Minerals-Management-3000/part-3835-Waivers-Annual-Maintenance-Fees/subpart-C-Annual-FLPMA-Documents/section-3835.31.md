@@ -1,12 +1,14 @@
 ##### § 3835.31 When do I file an annual FLPMA document?
 
-(a) If you must file an annual FLPMA document as required in paragraph (d) of this section, you must file your annual FLPMA documents with BLM on or before the December 30th of the calendar year in which the assessment year ends. (For example, if the assessment year ends on September 1, 2003, you must file your annual FLPMA document no later than December 30, 2003.) 
+Link to an amendment published at 90 FR 33328, July 17, 2025.
 
-(b) If part 3836 of this chapter requires you to perform assessment work, you must file an affidavit of assessment work. You do not need to complete assessment work in the assessment year when you located your claim. (For example, if you locate a claim on September 2, 2002, you first need to perform assessment work sometime between September 2, 2003, and September 1, 2004.) 
+(a) If you must file an annual FLPMA document as required in paragraph (d) of this section, you must file your annual FLPMA documents with BLM on or before the December 30th of the calendar year in which the assessment year ends. (For example, if the assessment year ends on September 1, 2003, you must file your annual FLPMA document no later than December 30, 2003.)
 
-(c) If part 3836 of this chapter does not require you to perform assessment work, either because you located the claim during the current assessment year or because BLM has deferred assessment work, you must submit a notice of intent to hold under §§ 3835.32 and 3835.33 of this part as an annual FLPMA document filing. You must state in the notice of intent to hold either that BLM has deferred the assessment work requirement or that you located the claim during the current assessment year. 
+(b) If part 3836 of this chapter requires you to perform assessment work, you must file an affidavit of assessment work. You do not need to complete assessment work in the assessment year when you located your claim. (For example, if you locate a claim on September 2, 2002, you first need to perform assessment work sometime between September 2, 2003, and September 1, 2004.)
 
-(d) The following table describes the circumstances under which you must file annual FLPMA documents: 
+(c) If part 3836 of this chapter does not require you to perform assessment work, either because you located the claim during the current assessment year or because BLM has deferred assessment work, you must submit a notice of intent to hold under §§ 3835.32 and 3835.33 of this part as an annual FLPMA document filing. You must state in the notice of intent to hold either that BLM has deferred the assessment work requirement or that you located the claim during the current assessment year.
+
+(d) The following table describes the circumstances under which you must file annual FLPMA documents:
 
 | Your situation                                                                   | Affidavit of assessment work required                                          | Notice of intent to hold   required                                    |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |

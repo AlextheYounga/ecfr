@@ -1,6 +1,6 @@
 ##### § 3809.500 In general, what are BLM's financial guarantee requirements?
 
-To see generally what BLM's financial guarantee requirements are, follow this table: 
+To see generally what BLM's financial guarantee requirements are, follow this table:
 
 | If—                                                               | Then—                                                                                                                                                                                                      |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,3 +1,3 @@
-##### § 955.24 (Rule 24) Motion for reconsideration.
+##### § 955.24 Posthearing briefs.
 
-A motion for reconsideration must be filed within 30 days of the moving party's receipt of the Board's decision. A motion for reconsideration must set forth the specific grounds for reconsideration.
+Posthearing briefs may be submitted upon such terms as may be ordered by the Board at the conclusion of the hearing. Ordinarily, they will be simultaneous briefs, submitted to the Board on a date established by the Board, following receipt of transcripts.

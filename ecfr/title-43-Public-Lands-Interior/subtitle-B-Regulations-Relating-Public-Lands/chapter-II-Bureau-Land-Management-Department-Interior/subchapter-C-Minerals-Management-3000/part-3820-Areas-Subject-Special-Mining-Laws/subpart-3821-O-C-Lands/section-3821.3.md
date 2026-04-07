@@ -1,9 +1,11 @@
 ##### § 3821.3 Requirement for filing statement of assessment work.
 
-The owner of an unpatented mining claim, mill site, or tunnel site located on O and C lands may either: 
+Link to an amendment published at 90 FR 33325, July 17, 2025.
 
-(a) Perform and record proof of annual assessment work if qualified as a small miner under part 3835 of this chapter; or 
+The owner of an unpatented mining claim, mill site, or tunnel site located on O and C lands may either:
 
-(b) Pay an annual maintenance fee of $100 per unpatented mining claim, mill site, or tunnel site under part 3834 of this chapter. 
+(a) Perform and record proof of annual assessment work if qualified as a small miner under part 3835 of this chapter; or
+
+(b) Pay an annual maintenance fee of $100 per unpatented mining claim, mill site, or tunnel site under part 3834 of this chapter.
 
 \[68 FR 61064, Oct. 24, 2003\]

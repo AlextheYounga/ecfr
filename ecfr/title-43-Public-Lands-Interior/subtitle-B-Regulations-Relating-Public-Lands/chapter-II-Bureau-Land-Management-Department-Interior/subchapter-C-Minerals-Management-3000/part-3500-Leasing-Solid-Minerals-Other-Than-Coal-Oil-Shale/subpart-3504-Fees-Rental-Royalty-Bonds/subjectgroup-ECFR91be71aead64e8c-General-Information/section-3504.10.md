@@ -1,6 +1,6 @@
 ##### § 3504.10 What fees must I pay?
 
-(a) The following table shows fees for various documents in this part. 
+(a) The following table shows fees for various documents in this part.
 
 | Document                                                                                    | Processing fee                                                                                        |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -18,6 +18,6 @@
 | (12) Application to waive, suspend, or reduce your rental, minimum royalty, or royalty rate | Case-by-case basis as described in § 3000.11 of this chapter.                                         |
 | (13) Use permit                                                                             | As found in the fee schedule in § 3000.12 of this chapter.                                            |
 
-(b) Fees for exploration licenses are not administered under this section, but are administered under part 2920 of this chapter. 
+(b) Fees for exploration licenses are not administered under this section, but are administered under part 2920 of this chapter.
 
 \[72 FR 50887, Sept. 5, 2007\]

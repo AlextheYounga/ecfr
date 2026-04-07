@@ -1,6 +1,6 @@
 ##### § 3714.3 Protection of existing rights; exclusion of reservation in patents.
 
-The Act in section 7 provides as follows: 
+The Act in section 7 provides as follows:
 
 Nothing in this Act shall be construed in any manner to limit or restrict or to authorize the limitation or restriction of any existing rights of any claimant under any valid mining claim heretofore located, except as such rights may be limited or restricted as a result of a proceeding pursuant to section 5 of this Act, or as a result of a waiver and relinquishment pursuant to section 6 of this Act; and nothing in this act shall be construed in any manner to authorize inclusion in any patent hereafter issued under the mining laws of the United States for any mining claim heretofore or hereafter located, of any reservation, limitation, or restriction not otherwise authorized by law, or to limit or repeal any existing authority to include any reservation, limitation, or restriction in any such patent, or to limit or restrict any use of the lands covered by any patented or unpatented mining claim by the United States, its lessees, permittees, and licensees which is otherwise authorized by law.
 

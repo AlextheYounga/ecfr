@@ -1,6 +1,6 @@
 ##### § 3809.503 When must I provide a financial guarantee for my notice-level operations?
 
-To see how this subpart applies to your notice, follow this table: 
+To see how this subpart applies to your notice, follow this table:
 
 | If—                                                                                                                                                 | Then—                                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

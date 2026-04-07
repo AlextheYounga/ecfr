@@ -1,6 +1,8 @@
 ##### § 3503.37 Is there a limit to the acreage of lands I can hold under permits and leases?
 
-Yes. The limits are summarized in the following table: 
+Link to an amendment published at 90 FR 33312, July 17, 2025.
+
+Yes. The limits are summarized in the following table:
 
 | Commodity             | Maximum acreage for a permit or lease | Maximum acreage of permits and leases in any one State                                                                                  | Maximum acreage in permits and leases nationwide |
 | --------------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |

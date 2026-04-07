@@ -1,3 +1,3 @@
-##### § 955.19 (Rule 19) Posthearing briefs.
+##### § 955.19 Notice of hearings.
 
-Posthearing briefs may be submitted as ordered by the Board at the end of the hearing. Ordinarily, briefs will be filed simultaneously on a date and by a method established by the Board. The Board may also allow reply briefs.
+The Board shall issue an order reasonably in advance of the hearing identifying the time and place thereof.

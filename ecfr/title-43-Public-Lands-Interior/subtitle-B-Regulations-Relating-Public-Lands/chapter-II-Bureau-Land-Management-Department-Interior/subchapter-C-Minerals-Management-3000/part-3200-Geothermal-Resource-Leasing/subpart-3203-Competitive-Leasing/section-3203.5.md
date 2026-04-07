@@ -1,21 +1,23 @@
 ##### § 3203.5 What is the general process for obtaining a geothermal lease?
 
-(a) The competitive geothermal leasing process consists of the following steps: 
+Link to an amendment published at 90 FR 33302, July 17, 2025.
 
-(1)(i) Entities interested in geothermal development nominate lands by submitting to BLM descriptions of lands they seek to be included in a lease sale; or 
+(a) The competitive geothermal leasing process consists of the following steps:
 
-(ii) BLM may include land in a competitive lease sale on its own initiative. 
+(1)(i) Entities interested in geothermal development nominate lands by submitting to BLM descriptions of lands they seek to be included in a lease sale; or
 
-(2) BLM provides notice of the parcels to be offered, and the time, location, and process for participating in the lease sale. 
+(ii) BLM may include land in a competitive lease sale on its own initiative.
 
-(3) BLM holds the lease sale and offers leases to the successful bidder. 
+(2) BLM provides notice of the parcels to be offered, and the time, location, and process for participating in the lease sale.
 
-(b) BLM will issue geothermal leases to the highest responsible qualified bidder after a competitive leasing process, except for situations where noncompetitive leasing is allowed under subparts 3204 and 3205, which include: 
+(3) BLM holds the lease sale and offers leases to the successful bidder.
 
-(1) Lease applications pending on August 8, 2005; 
+(b) BLM will issue geothermal leases to the highest responsible qualified bidder after a competitive leasing process, except for situations where noncompetitive leasing is allowed under subparts 3204 and 3205, which include:
 
-(2) Lands for which no bid was received in a competitive lease sale; 
+(1) Lease applications pending on August 8, 2005;
 
-(3) Direct use lease applications for which no competitive interest exists; and 
+(2) Lands for which no bid was received in a competitive lease sale;
+
+(3) Direct use lease applications for which no competitive interest exists; and
 
 (4) Lands subject to mining claims.

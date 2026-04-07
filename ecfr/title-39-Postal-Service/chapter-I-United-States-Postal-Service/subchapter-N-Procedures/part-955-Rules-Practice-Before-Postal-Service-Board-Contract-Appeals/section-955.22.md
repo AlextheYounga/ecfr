@@ -1,5 +1,3 @@
-##### § 955.22 (Rule 22) Suspension.
+##### § 955.22 Examination of witnesses.
 
-(a) If the parties agree, the Board may suspend further proceedings. If, however, the Board is later advised by either party that the reason for the suspension is no longer applicable, the Board may restore the case to its active docket.
-
-(b) The Board may suspend proceedings for good cause or to give a contracting officer time to issue a final decision when an appeal has been taken from a deemed denial of a claim.
+Witnesses before the Board will be examined orally under oath or affirmation, unless the facts are stipulated, or the Board shall otherwise order. If the testimony of a witness is not given under oath or affirmation, the Board may warn the witness that his or her statements may be subject to the provisions of 18 U.S.C. 287 and 1001, and any other provisions of law imposing penalties for knowingly making false representations in connection with claims against the United States or in any matter within the jurisdiction of any department or agency thereof. Upon the request of either party, or if the Board deems it advisable, the Board may exclude witnesses from the hearing room. The Board will not exclude a party who is an individual, the properly designated representative of a party which is an entity, a person whose presence is essential to the presentation of a party's case, or a person required by statute to be present.

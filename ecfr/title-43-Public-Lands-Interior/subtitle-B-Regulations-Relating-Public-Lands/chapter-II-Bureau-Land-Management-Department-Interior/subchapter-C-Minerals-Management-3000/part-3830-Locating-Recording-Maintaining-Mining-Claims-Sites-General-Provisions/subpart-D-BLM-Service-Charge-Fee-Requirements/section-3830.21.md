@@ -1,6 +1,6 @@
 ##### § 3830.21 What are the different types of service charges and fees?
 
-The following table lists service charges, maintenance fees, location fees, and oil shale fees (all cross-references refer to this chapter): 
+The following table lists service charges, maintenance fees, location fees, and oil shale fees (all cross-references refer to this chapter):
 
 | Transaction                                                                                              | Amount due per mining claim or site                                                                                                                                 | Waiver available    |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |

@@ -1,7 +1,17 @@
-##### § 955.6 (Rule 6) Pleadings.
+##### § 955.6 Motions.
 
-(a) *Complaint.* Within 45 days after receipt of the notice of docketing, the appellant must file a complaint. The complaint must set forth simple, concise, and direct statements describing the basis and dollar amount for each claim. This pleading must fulfill the generally recognized requirements of a complaint, although no particular form is required. At the appellant's request or on the Board's own initiative, the appellant's claim, notice of appeal, or another document may be deemed to constitute the complaint if, in the Board's opinion, the issues are sufficiently explained in one of those documents.
+(a) Any motion addressed to the jurisdiction of the Board shall be promptly filed. Oral argument on the motion may be afforded on application of either party, in the Board's discretion, or on the Board's initiative. The Board may at any time and on its own initiative raise the issue of its jurisdiction to proceed with a particular case. 
 
-(b) *Answer.* Within 30 days from receipt of the complaint, or notice from the Board designating another document as the complaint, the respondent must file an answer. The answer must set forth simple, concise, and direct statements of the respondent's defenses to each claim asserted by the appellant. This pleading must fulfill the generally recognized requirements of an answer and must set forth any affirmative defenses or counterclaims. If the answer is not filed within the time required, the Board may enter a general denial on behalf of the respondent, and the appellant will be so notified.
+(b) A motion filed in lieu of an answer shall be filed no later than the date on which the answer is required to be filed or such later date as may be established by Board order. Any other dispositive motion shall be filed as soon as practicable after the grounds therefor are known. 
 
-(c) *Affirmative claims by the respondent.* Where the appellant has appealed an affirmative claim asserted by a contracting officer in a final decision, such as a termination for default or a monetary claim by the Postal Service, the Board may order the respondent to file the complaint and the appellant to file the answer.
+(c) Motions for summary judgment may be considered by the Board. However, the Board may defer ruling on a motion for summary judgment, in its discretion, until after a hearing or other presentation of evidence. Motions for summary judgment may be filed only when a party believes that, based upon uncontested material facts, it is entitled to relief as a matter of law. The parties are to consider proceeding by submission of the case without a hearing in accordance with § 955.12, in lieu of a motion for summary judgment. 
+
+(1) Motions for summary judgment shall include a separate document titled *Statement of Uncontested Facts,* which shall contain in separately numbered paragraphs all of the material facts upon which the moving party bases its motion and as to which it contends there is no genuine issue. This statement shall include references to affidavits, declarations and/or documents relied upon to support such statement. 
+
+(2) The opposing party shall file with its opposition a separate document titled *Statement of Genuine Issues.* This document shall identify, by reference to specific paragraph numbers in the moving party's Statement of Uncontested Facts, those facts as to which the opposing party claims there is a genuine issue necessary to be litigated. An opposing party shall state the precise nature of its disagreement, and support its opposition with references to affidavits, declarations and/or documents that demonstrate the existence of a genuine dispute. 
+
+(3) The moving party and the non-moving party shall each submit a memorandum of law supporting or opposing summary judgment. 
+
+(4) If, despite reasonable efforts, the opposing party cannot present facts essential to justify its opposition, the Board may defer ruling on the motion to permit affidavits to be obtained or depositions to be taken or other discovery to be conducted, or may issue such other order as is just. The parties should not expect the Board to search the record for evidence in support of either party's position. 
+
+\[74 FR 20592, May 5, 2009, as amended at 76 FR 37660, June 28, 2011\]
