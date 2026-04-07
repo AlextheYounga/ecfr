@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 77365, Sept. 20, 2024.
 
-(a) A Provider shall provide incarcerated people access to TRS and related communication services as described in this section, except where the correctional authority overseeing a facility prohibits such access.
+(a) A Provider shall provide incarcerated people access to TRS and related communication services as described in this section, except where the correctional authority overseeing a facility prohibits such access.*non-internet Protocol*
 
 (b)(1) A Provider shall provide access for Incarcerated People with hearing or speech disabilities to Traditional (TTY-Based) TRS and STS. As an alternative to supporting transmissions from a TTY device, where broadband internet access service is available, an IPCS Provider may provide access to Traditional TRS via real-time text, in accordance with 47 CFR part 67, if real-time text is supported by the available devices and reliable access to a provider of traditional TRS service can be provided by this method.
 

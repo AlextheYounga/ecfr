@@ -1,6 +1,6 @@
 ##### § 64.703 Consumer information.
 
-(a) Each provider of operator services shall:
+(a) Each provider of operator services shall:*i.e.,*
 
 (1) Identify itself, audibly and distinctly, to the consumer at the beginning of each telephone call and before the consumer incurs any charge for the call;
 

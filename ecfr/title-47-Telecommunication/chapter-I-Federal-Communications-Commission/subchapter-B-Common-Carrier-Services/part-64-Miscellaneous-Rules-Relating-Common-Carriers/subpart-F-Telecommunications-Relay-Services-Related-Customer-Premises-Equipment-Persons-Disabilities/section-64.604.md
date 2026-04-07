@@ -1,6 +1,6 @@
 ##### § 64.604 Mandatory minimum standards.
 
-(a) *Operational standards*—(1) *Communications assistant (CA).* (i) TRS providers are responsible for requiring that all CAs be sufficiently trained to effectively meet the specialized communications needs of individuals with hearing and speech disabilities.
+(a) *Operational standards*—(1) *Communications assistant (CA).* (i) TRS providers are responsible for requiring that all CAs be sufficiently trained to effectively meet the specialized communications needs of individuals with hearing and speech disabilities.Federal Register
 
 (ii) CAs must have competent skills in typing, grammar, spelling, interpretation of typewritten ASL, and familiarity with hearing and speech disability cultures, languages and etiquette. CAs must possess clear and articulate voice communications.
 

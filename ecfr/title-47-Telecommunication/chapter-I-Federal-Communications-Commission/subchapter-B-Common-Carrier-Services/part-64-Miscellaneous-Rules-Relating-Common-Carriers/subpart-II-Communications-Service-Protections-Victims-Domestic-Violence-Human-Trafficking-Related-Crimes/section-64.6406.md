@@ -1,6 +1,6 @@
 ##### § 64.6406 Notice of line separation availability to consumers.
 
-(a) A covered provider shall make information about the line separation options and processes described in this subpart readily available to consumers:
+(a) A covered provider shall make information about the line separation options and processes described in this subpart readily available to consumers:*e.g.,*
 
 (1) On a support-related page of the website and mobile application of the provider in all languages in which the provider advertises on the website;
 

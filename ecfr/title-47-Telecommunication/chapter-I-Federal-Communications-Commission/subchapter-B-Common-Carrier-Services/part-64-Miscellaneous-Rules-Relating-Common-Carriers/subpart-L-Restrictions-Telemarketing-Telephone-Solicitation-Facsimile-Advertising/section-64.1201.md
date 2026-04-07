@@ -1,6 +1,6 @@
 ##### § 64.1201 Restrictions on billing name and address disclosure.
 
-(a) As used in this section:
+(a) As used in this section:*billing name and address*
 
 (1) The term *billing name and address* means the name and address provided to a local exchange company by each of its local exchange customers to which the local exchange company directs bills for its services.
 

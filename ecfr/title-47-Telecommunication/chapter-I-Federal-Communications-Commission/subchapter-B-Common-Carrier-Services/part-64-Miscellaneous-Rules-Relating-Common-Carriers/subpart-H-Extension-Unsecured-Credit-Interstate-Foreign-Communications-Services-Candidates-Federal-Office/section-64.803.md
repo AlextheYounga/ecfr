@@ -1,6 +1,6 @@
 ##### § 64.803 Definitions.
 
-For the purposes of this subpart:
+For the purposes of this subpart:*Candidate*
 
 (a) *Candidate* means an individual who seeks nomination for election, or election, to Federal office, whether or not such individual is elected, and an individual shall be deemed to seek nomination for election, or election, if he has (1) taken the action necessary under the law of a State to qualify himself for nomination for election, or election, to Federal office, or (2) received contributions or made expenditures, or has given his consent for any other person to receive contributions or make expenditures, with a view to bringing about his nomination for election, or election, to such office.
 

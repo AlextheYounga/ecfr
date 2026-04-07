@@ -1,6 +1,6 @@
 ##### § 64.1902 Terms and definitions.
 
-Terms used in this part have the following meanings:
+Terms used in this part have the following meanings:*Books of account.*
 
 *Books of account.* Books of account refer to the financial accounting system a company uses to record, in monetary terms, the basic transactions of a company. These books of account reflect the company's assets, liabilities, and equity, and the revenues and expenses from operations. Each company has its own separate books of account.
 

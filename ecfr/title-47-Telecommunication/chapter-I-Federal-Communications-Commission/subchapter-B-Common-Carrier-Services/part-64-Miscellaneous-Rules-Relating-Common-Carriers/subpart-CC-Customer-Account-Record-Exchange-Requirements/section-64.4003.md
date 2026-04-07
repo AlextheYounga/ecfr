@@ -1,6 +1,6 @@
 ##### § 64.4003 Notification obligations of IXCs.
 
-To the extent that the information is reasonably available to an IXC, the IXC shall provide to a LEC the customer account information described in this section consistent with § 64.4004. Nothing in this section shall prevent an IXC from providing additional customer account information to a LEC to the extent that such additional information is necessary for billing purposes or to properly execute a customer's PIC Order.
+To the extent that the information is reasonably available to an IXC, the IXC shall provide to a LEC the customer account information described in this section consistent with § 64.4004. Nothing in this section shall prevent an IXC from providing additional customer account information to a LEC to the extent that such additional information is necessary for billing purposes or to properly execute a customer's PIC Order.*IXC-submitted PIC Order.*
 
 (a) *IXC-submitted PIC Order.* When a customer contacts an IXC to establish interexchange service on a presubscribed basis, the IXC selected must submit the customer's properly verified PIC Order (*see* 47 CFR 64.1120(a)) to the customer's LEC, instructing the LEC to install or change the PIC for the customer's line(s) to that IXC. The notification provided by the IXC to the LEC must contain all of the information necessary to properly execute the Order including but not limited to:
 

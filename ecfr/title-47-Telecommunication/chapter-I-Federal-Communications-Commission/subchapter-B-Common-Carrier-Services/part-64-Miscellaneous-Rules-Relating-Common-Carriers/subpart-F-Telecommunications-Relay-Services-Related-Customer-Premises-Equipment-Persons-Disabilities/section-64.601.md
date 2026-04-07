@@ -1,6 +1,6 @@
 ##### § 64.601 Definitions and provisions of general applicability.
 
-(a) For purposes of this subpart, the term affiliate is defined in 47 CFR 52.12(a)(1)(i), and the terms majority and debt are defined in 47 CFR 52.12(a)(1)(ii).
+(a) For purposes of this subpart, the term affiliate is defined in 47 CFR 52.12(a)(1)(i), and the terms majority and debt are defined in 47 CFR 52.12(a)(1)(ii).*711.*
 
 (1) *711.* The abbreviated dialing code for accessing relay services anywhere in the United States.
 

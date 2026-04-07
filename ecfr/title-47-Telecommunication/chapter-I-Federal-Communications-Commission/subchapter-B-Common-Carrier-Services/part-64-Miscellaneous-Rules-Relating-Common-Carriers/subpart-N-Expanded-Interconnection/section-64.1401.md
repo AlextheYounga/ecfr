@@ -1,6 +1,6 @@
 ##### § 64.1401 Expanded interconnection.
 
-(a) Every local exchange carrier that is classified as a Class A company under § 32.11 of this chapter and that is not a National Exchange Carrier Association interstate tariff participant, as provided in part 69, subpart G of this chapter, shall offer expanded interconnection for interstate special access services at their central offices that are classified as end offices or serving wire centers, and at other rating points used for interstate special access.
+(a) Every local exchange carrier that is classified as a Class A company under § 32.11 of this chapter and that is not a National Exchange Carrier Association interstate tariff participant, as provided in part 69, subpart G of this chapter, shall offer expanded interconnection for interstate special access services at their central offices that are classified as end offices or serving wire centers, and at other rating points used for interstate special access.*bona fide*
 
 (b) The local exchange carriers specified in paragraph (a) of this section shall offer expanded interconnection for interstate switched transport services:
 

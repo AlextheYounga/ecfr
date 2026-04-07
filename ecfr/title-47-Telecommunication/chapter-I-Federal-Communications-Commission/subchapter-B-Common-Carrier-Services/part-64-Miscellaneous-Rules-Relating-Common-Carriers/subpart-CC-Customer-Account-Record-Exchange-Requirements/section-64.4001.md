@@ -1,6 +1,6 @@
 ##### § 64.4001 Definitions.
 
-Terms in this subpart have the following meanings:
+Terms in this subpart have the following meanings:*Automatic number identification (ANI).*
 
 (a) *Automatic number identification (ANI).* The term automatic number identification refers to the delivery of the calling party's billing telephone number by a local exchange carrier to any interconnecting carrier for billing or routing purposes.
 

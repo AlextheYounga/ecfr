@@ -1,6 +1,6 @@
 ##### § 64.2101 Definitions.
 
-For purposes of this subpart, the following definitions will apply:
+For purposes of this subpart, the following definitions will apply:*Affiliate.*
 
 *Affiliate.* The term “affiliate” has the same meaning as in 47 U.S.C. 153(2).
 

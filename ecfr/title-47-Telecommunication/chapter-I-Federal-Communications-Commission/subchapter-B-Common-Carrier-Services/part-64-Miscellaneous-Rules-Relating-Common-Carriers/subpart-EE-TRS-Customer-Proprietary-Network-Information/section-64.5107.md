@@ -1,6 +1,6 @@
 ##### § 64.5107 Approval required for use of customer proprietary network information.
 
-(a) A TRS provider may obtain approval through written, oral, electronic, or sign language methods.
+(a) A TRS provider may obtain approval through written, oral, electronic, or sign language methods.*Use of opt-in and opt-out approval processes.*
 
 (1) A TRS provider relying on oral or sign language approval shall bear the burden of demonstrating that such approval has been given in compliance with the Commission's rules in this part.
 

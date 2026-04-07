@@ -1,6 +1,6 @@
 ##### § 64.709 Informational tariffs.
 
-(a) Informational tariffs filed pursuant to 47 U.S.C. 226(h)(1)(A) shall contain specific rates expressed in dollars and cents for each interstate operator service of the carrier and shall also contain applicable per call aggregator surcharges or other per-call fees, if any, collected from consumers by, or on behalf of, the carrier.
+(a) Informational tariffs filed pursuant to 47 U.S.C. 226(h)(1)(A) shall contain specific rates expressed in dollars and cents for each interstate operator service of the carrier and shall also contain applicable per call aggregator surcharges or other per-call fees, if any, collected from consumers by, or on behalf of, the carrier.*i.e.,*
 
 (b) Per call fees, if any, billed on behalf of aggregators or others, shall be specified in informational tariffs in dollars and cents.
 

@@ -1,6 +1,6 @@
 ##### § 64.2007 Approval required for use of customer proprietary network information.
 
-(a) A telecommunications carrier may obtain approval through written, oral or electronic methods.
+(a) A telecommunications carrier may obtain approval through written, oral or electronic methods.*Use of opt-out and opt-in approval processes.*
 
 (1) A telecommunications carrier relying on oral approval shall bear the burden of demonstrating that such approval has been given in compliance with the Commission's rules in this part.
 

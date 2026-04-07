@@ -1,6 +1,6 @@
 ##### § 64.6401 Line separation request submission requirements.
 
-(a) A survivor seeking to separate a line from a shared mobile service contract pursuant to 47 U.S.C. 345 and this subpart, or a designated representative of such survivor, shall submit to the covered provider a line separation request that:
+(a) A survivor seeking to separate a line from a shared mobile service contract pursuant to 47 U.S.C. 345 and this subpart, or a designated representative of such survivor, shall submit to the covered provider a line separation request that:*i.e.,*
 
 (1) Requests relief under 47 U.S.C. 345 and this subpart;
 

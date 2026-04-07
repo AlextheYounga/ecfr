@@ -1,6 +1,6 @@
 ##### § 64.1190 Preferred carrier freezes.
 
-(a) A preferred carrier freeze (or freeze) prevents a change in a subscriber's preferred carrier selection unless the subscriber gives the carrier from whom the freeze was requested his or her express consent. All local exchange carriers who offer preferred carrier freezes must comply with the provisions of this section.
+(a) A preferred carrier freeze (or freeze) prevents a change in a subscriber's preferred carrier selection unless the subscriber gives the carrier from whom the freeze was requested his or her express consent. All local exchange carriers who offer preferred carrier freezes must comply with the provisions of this section.*Solicitation and imposition of preferred carrier freezes.*
 
 (b) All local exchange carriers who offer preferred carrier freezes shall offer freezes on a nondiscriminatory basis to all subscribers, regardless of the subscriber's carrier selections.
 

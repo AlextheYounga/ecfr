@@ -1,6 +1,6 @@
 ##### § 64.6209 Eligibility criteria.
 
-Before providing Equipment or related services to an individual, a certified program shall verify the individual's eligibility in accordance with this section.
+Before providing Equipment or related services to an individual, a certified program shall verify the individual's eligibility in accordance with this section.*Verification of disability.*
 
 (a) *Verification of disability.* A certified program shall require an individual applying for Equipment and related services to provide verification of disability in accordance with paragraph (a)(1) or (2) of this section.
 

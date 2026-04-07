@@ -1,6 +1,6 @@
 ##### § 64.1120 Verification of orders for telecommunications service.
 
-(a) No telecommunications carrier shall submit or execute a change on the behalf of a subscriber in the subscriber's selection of a provider of telecommunications service except in accordance with the procedures prescribed in this subpart. Nothing in this section shall preclude any State commission from enforcing these procedures with respect to intrastate services.
+(a) No telecommunications carrier shall submit or execute a change on the behalf of a subscriber in the subscriber's selection of a provider of telecommunications service except in accordance with the procedures prescribed in this subpart. Nothing in this section shall preclude any State commission from enforcing these procedures with respect to intrastate services.*Methods of third party verification.*
 
 (1) No submitting carrier shall submit a change on the behalf of a subscriber in the subscriber's selection of a provider of telecommunications service prior to obtaining:
 
