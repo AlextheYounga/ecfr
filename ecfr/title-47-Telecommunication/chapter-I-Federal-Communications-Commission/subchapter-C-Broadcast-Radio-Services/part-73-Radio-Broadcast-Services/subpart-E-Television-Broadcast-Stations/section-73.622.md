@@ -971,7 +971,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Richmond             | 10, \*22, 23, 24, \*29                              |
 | Roanoke              | \*3, 27, 30, 34, 36                                 |
 | Spotsylvania         | \*S                                                 |
-| Staunton             | \*12                                                |
+| Staunton             | \*15                                                |
 | Virginia Beach       | 7, 21                                               |
 | Washington           |                                                     |
 | Bellevue             | 24, 33                                              |
