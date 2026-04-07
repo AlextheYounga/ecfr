@@ -4,13 +4,13 @@
 
 (b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter.
 
-(1) No. 016592: Type medicated article containing 100 grams per pound.
+(1) No. 016592: Type A medicated articles containing 40 or 100 grams per pound (g/lb).
 
-(2) No. 054771: Type medicated article containing 40 grams per pound.
+(2) No. 054771: Type A medicated article containing 40 g/lb.
 
-(3) No. 058198: Type medicated article containing 10, 40, or 100 grams per pound.
+(3) No. 058198: Type A medicated articles containing 10, 40, or 100 g/lb.
 
-(4) No. 066104: Type medicated article containing 20 or 40 grams per pound.
+(4) No. 066104: Type A medicated articles containing 20 or 40 g/lb.
 
 (c) *Related tolerances.* See § 556.740 of this chapter.
 
