@@ -1,6 +1,6 @@
 ##### § 1026.18 Content of disclosures.
 
-For each transaction other than a mortgage transaction subject to § 1026.19(e) and (f), the creditor shall disclose the following information as applicable:
+For each transaction other than a mortgage transaction subject to § 1026.19(e) and (f), the creditor shall disclose the following information as applicable:*Creditor.*
 
 (a) *Creditor.* The identity of the creditor making the disclosures.
 

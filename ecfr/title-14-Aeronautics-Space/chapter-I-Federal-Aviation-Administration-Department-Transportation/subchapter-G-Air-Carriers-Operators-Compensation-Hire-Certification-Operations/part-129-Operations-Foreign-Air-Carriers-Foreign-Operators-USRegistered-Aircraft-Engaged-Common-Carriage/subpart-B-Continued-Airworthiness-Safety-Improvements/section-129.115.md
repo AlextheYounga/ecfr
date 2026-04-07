@@ -1,32 +1,32 @@
 ##### § 129.115 Limit of validity.
 
-(a) *Applicability.* This section applies to foreign air carriers or foreign persons operating any U.S.-registered transport category, turbine-powered airplane with a maximum takeoff gross weight greater than 75,000 pounds and a type certificate issued after January 1, 1958, regardless of whether the maximum takeoff gross weight is a result of an original type certificate or a later design change. This section also applies to foreign air carriers or foreign persons operating any other U.S.-registered transport category, turbine-powered airplane with a type certificate issued after January 1, 1958, regardless of the maximum takeoff gross weight, for which a limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV) is required in accordance with § 25.571 or § 26.21 of this chapter after January 14, 2011. 
+(a) *Applicability.* This section applies to foreign air carriers or foreign persons operating any U.S.-registered transport category, turbine-powered airplane with a maximum takeoff gross weight greater than 75,000 pounds and a type certificate issued after January 1, 1958, regardless of whether the maximum takeoff gross weight is a result of an original type certificate or a later design change. This section also applies to foreign air carriers or foreign persons operating any other U.S.-registered transport category, turbine-powered airplane with a type certificate issued after January 1, 1958, regardless of the maximum takeoff gross weight, for which a limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV) is required in accordance with § 25.571 or § 26.21 of this chapter after January 14, 2011.
 
-(b) *Limit of validity.* No foreign air carrier or foreign person may operate a U.S.-registered airplane identified in paragraph (a) of this section after the applicable date identified in Table 1 of this section, unless an Airworthiness Limitations section (ALS) approved under Appendix H to part 25 or § 26.21 of this chapter is incorporated into its maintenance program. The ALS must— 
+(b) *Limit of validity.* No foreign air carrier or foreign person may operate a U.S.-registered airplane identified in paragraph (a) of this section after the applicable date identified in Table 1 of this section, unless an Airworthiness Limitations section (ALS) approved under Appendix H to part 25 or § 26.21 of this chapter is incorporated into its maintenance program. The ALS must—
 
-(1) Include an LOV approved under § 25.571 or § 26.21 of this chapter, as applicable, except as provided in paragraph (f) of this section; and 
+(1) Include an LOV approved under § 25.571 or § 26.21 of this chapter, as applicable, except as provided in paragraph (f) of this section; and
 
-(2) Be clearly distinguishable within its maintenance program. 
+(2) Be clearly distinguishable within its maintenance program.
 
-(c) *Operation of airplanes excluded from § 26.21.* No certificate holder may operate an airplane identified in § 26.21(g) of this chapter after July 14, 2013, unless an ALS approved under Appendix H to part 25 or § 26.21 of this chapter is incorporated into its maintenance program. The ALS must— 
+(c) *Operation of airplanes excluded from § 26.21.* No certificate holder may operate an airplane identified in § 26.21(g) of this chapter after July 14, 2013, unless an ALS approved under Appendix H to part 25 or § 26.21 of this chapter is incorporated into its maintenance program. The ALS must—
 
-(1) Include an LOV approved under § 25.571 or § 26.21 of this chapter, as applicable, except as provided in paragraph (f) of this section; and 
+(1) Include an LOV approved under § 25.571 or § 26.21 of this chapter, as applicable, except as provided in paragraph (f) of this section; and
 
-(2) Be clearly distinguishable within its maintenance program 
+(2) Be clearly distinguishable within its maintenance program
 
-(d) *Extended limit of validity.* No foreign air carrier or foreign person may operate an airplane beyond the LOV or extended LOV specified in paragraph (b)(1), (c), (d), or (f) of this section, as applicable, unless the following conditions are met: 
+(d) *Extended limit of validity.* No foreign air carrier or foreign person may operate an airplane beyond the LOV or extended LOV specified in paragraph (b)(1), (c), (d), or (f) of this section, as applicable, unless the following conditions are met:
 
-(1) An ALS must be incorporated into its maintenance program that— 
+(1) An ALS must be incorporated into its maintenance program that—
 
-(i) Includes an extended LOV and any widespread fatigue damage airworthiness limitation items (ALIs) approved under § 26.23 of this chapter; and 
+(i) Includes an extended LOV and any widespread fatigue damage airworthiness limitation items (ALIs) approved under § 26.23 of this chapter; and
 
-(ii) Is approved under § 26.23 of this chapter; 
+(ii) Is approved under § 26.23 of this chapter;
 
-(2) The extended LOV and the airworthiness limitation items pertaining to widespread fatigue damage must be clearly distinguishable within its maintenance program. 
+(2) The extended LOV and the airworthiness limitation items pertaining to widespread fatigue damage must be clearly distinguishable within its maintenance program.
 
-(e) *Principal Maintenance Inspector approval.* Foreign air carriers or foreign persons must submit the maintenance program revisions required by paragraphs (b), (c), and (d) of this section to the Principal Maintenance Inspector or Flight Standards office for review and approval. 
+(e) *Principal Maintenance Inspector approval.* Foreign air carriers or foreign persons must submit the maintenance program revisions required by paragraphs (b), (c), and (d) of this section to the Principal Maintenance Inspector or Flight Standards office for review and approval.
 
-(f) *Exception.* For any airplane for which an LOV has not been approved as of the applicable compliance date specified in paragraph (c) or Table 1 of this section, instead of including an approved LOV in the ALS, an operator must include the applicable default LOV specified in Table 1 or Table 2 of this section, as applicable, in the ALS. 
+(f) *Exception.* For any airplane for which an LOV has not been approved as of the applicable compliance date specified in paragraph (c) or Table 1 of this section, instead of including an approved LOV in the ALS, an operator must include the applicable default LOV specified in Table 1 or Table 2 of this section, as applicable, in the ALS.
 
 Table 1—Airplanes Subject to § 26.21
 | Airplane model                                                                                                                                                                                                                               | Compliance Date—months after   January 14, 2011                                                              | Default LOV   \[flight cycles (FC)   or flight hours (FH)\] |
@@ -137,4 +137,4 @@ Table 2—Airplanes Excluded From § 26.21
 | Lockheed:                                      |                                                         |
 | 300-50A01 (USAF C 141A)                        | 20,000 FC                                               |
 
-\[Doc. No. FAA-2006-24281, 75 FR 69787, Nov. 15, 2010, as amended by Amdt. 129-51, 77 FR 30878, May 24, 2012; Amdt. 129-51A, 77 FR 55107, Sept. 7, 2012; Docket FAA-2018-0119, Amdt. 129-53, 83 FR 9174, Mar. 5, 2018; Doc. No. FAA-2022-1355; Amdt. Nos. 129-54, 87 FR 75847, Dec. 9, 2022.\]
+\[Docket FAA-2006-24281, 75 FR 69787, Nov. 15, 2010, as amended by Amdt. 129-51, 77 FR 30878, May 24, 2012; Amdt. 129-51A, 77 FR 55107, Sept. 7, 2012; Docket FAA-2018-0119, Amdt. 129-53, 83 FR 9174, Mar. 5, 2018; Docket FAA-2022-1355, Amdt. 129-54, 87 FR 75847, Dec. 9, 2022.\]

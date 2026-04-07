@@ -1,6 +1,6 @@
 ##### § 121.356 Collision avoidance system.
 
-Effective January 1, 2005, any airplane you operate under this part must be equipped and operated according to the following table: 
+Effective January 1, 2005, any airplane you operate under this part must be equipped and operated according to the following table:
 
 Collision Avoidance Systems
 | If you operate any—                                                                                                  | Then you must operate that airplane with—                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -10,4 +10,4 @@ Collision Avoidance Systems
 | (b) Passenger or combination cargo/passenger (combi) airplane that has a passenger seat configuration of 10-30 seats | (1) TCAS I that meets TSO C-118, or a later version, or   (2) A collision avoidance system equivalent to has a TSO C-118, or a later version, or   (3) A collision avoidance system and Mode S transponder that meet paragraph (a)(1) of this section.                                                                                                                                                                                                                                                           |
 | (c) Piston-powered airplane of more than 33,000 pounds maximum certificated takeoff weight                           | (1) TCAS I that meets TSO C-118, or a later version, or   (2) A collision avoidance system equivalent to maximum TSO C-118, or a later version, or   (3) A collision avoidance system and Mode S transponder that meet paragraph (a)(1) of this section.                                                                                                                                                                                                                                                         |
 
-\[Doc. No. FAA-2001-10910, 68 FR 15902, Apr. 1, 2003\]
+\[Docket FAA-2001-10910, 68 FR 15902, Apr. 1, 2003\]

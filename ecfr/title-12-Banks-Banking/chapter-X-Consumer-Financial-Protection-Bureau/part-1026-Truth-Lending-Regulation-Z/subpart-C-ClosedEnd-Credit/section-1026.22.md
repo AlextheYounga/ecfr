@@ -1,6 +1,6 @@
 ##### § 1026.22 Determination of annual percentage rate.
 
-(a) *Accuracy of annual percentage rate.* (1) The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate, that relates the amount and timing of value received by the consumer to the amount and timing of payments made. The annual percentage rate shall be determined in accordance with either the actuarial method or the United States Rule method. Explanations, equations and instructions for determining the annual percentage rate in accordance with the actuarial method are set forth in appendix J to this part. An error in disclosure of the annual percentage rate or finance charge shall not, in itself, be considered a violation of this part if:
+(a) *Accuracy of annual percentage rate.* (1) The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate, that relates the amount and timing of value received by the consumer to the amount and timing of payments made. The annual percentage rate shall be determined in accordance with either the actuarial method or the United States Rule method. Explanations, equations and instructions for determining the annual percentage rate in accordance with the actuarial method are set forth in appendix J to this part. An error in disclosure of the annual percentage rate or finance charge shall not, in itself, be considered a violation of this part if:1/8
 
 (i) The error resulted from a corresponding error in a calculation tool used in good faith by the creditor; and
 

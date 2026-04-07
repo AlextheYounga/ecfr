@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
 
-The following transactions are not subject to this part or, if the exemption is limited to specified provisions of this part, are not subject to those provisions:
+The following transactions are not subject to this part or, if the exemption is limited to specified provisions of this part, are not subject to those provisions:*Business, commercial, agricultural, or organizational credit.*
 
 (a) *Business, commercial, agricultural, or organizational credit.* (1) An extension of credit primarily for a business, commercial or agricultural purpose.
 

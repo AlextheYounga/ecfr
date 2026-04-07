@@ -1,8 +1,8 @@
 ##### § 139.203 Contents of Airport Certification Manual.
 
-(a) Except as otherwise authorized by the Administrator, each certificate holder must include in the Airport Certification Manual a description of operating procedures, facilities and equipment, responsibility assignments, and any other information needed by personnel concerned with operating the airport in order to comply with applicable provisions of subpart D of this part and paragraph (b) of this section. 
+(a) Except as otherwise authorized by the Administrator, each certificate holder must include in the Airport Certification Manual a description of operating procedures, facilities and equipment, responsibility assignments, and any other information needed by personnel concerned with operating the airport in order to comply with applicable provisions of subpart D of this part and paragraph (b) of this section.
 
-(b) Except as otherwise authorized by the Administrator, the certificate holder must include in the Airport Certification Manual the following elements, as appropriate for its class: 
+(b) Except as otherwise authorized by the Administrator, the certificate holder must include in the Airport Certification Manual the following elements, as appropriate for its class:
 
 Required Airport Certification Manual Elements
 | Manual elements                                                                                                                                                                                                                                                                      | Airport certificate class |
@@ -38,4 +38,4 @@ Required Airport Certification Manual Elements
 | 29\. Policies and procedures for the development of, implementation of, maintenance of, and adherence to, the Airport's Safety Management System, as required under subpart E of this part. Section 139.401(1) prescribes which certificate holders are subject to this requirement. | X                         |
 | 30\. Any other item that the Administrator finds is necessary to ensure safety in air transportation                                                                                                                                                                                 | X                         |
 
-\[Doc. No. FAA-2000-7479, 69 FR 6424, Feb. 10, 2004; Amdt. 139-26, 69 FR 31522, June 4, 2004, as amended by Amdt. 139-27, 78 FR 3316, Jan. 16, 2013; Docket No. FAA-2010-0997;Amdt. No. 139-28, 88 FR 11672, Feb. 23, 2023\]
+\[Docket FAA-2000-7479, 69 FR 6424, Feb. 10, 2004; Amdt. 139-26, 69 FR 31522, June 4, 2004, as amended by Amdt. 139-27, 78 FR 3316, Jan. 16, 2013; Docket FAA-2010-0997, Amdt. 139-28, 88 FR 11672, Feb. 23, 2023\]

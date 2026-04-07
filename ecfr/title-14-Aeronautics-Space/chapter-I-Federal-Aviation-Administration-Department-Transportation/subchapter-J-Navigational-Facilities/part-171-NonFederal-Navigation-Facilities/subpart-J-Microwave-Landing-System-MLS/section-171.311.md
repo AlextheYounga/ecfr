@@ -1,8 +1,8 @@
 ##### § 171.311 Signal format requirements.
 
-The signals radiated by the MLS must conform to the signal format in which angle guidance functions and data functions are transmitted sequentially on the same C-band frequency. Each function is identified by a unique digital code which initializes the airborne receiver for proper processing. The signal format must meet the following minimum requirements: 
+The signals radiated by the MLS must conform to the signal format in which angle guidance functions and data functions are transmitted sequentially on the same C-band frequency. Each function is identified by a unique digital code which initializes the airborne receiver for proper processing. The signal format must meet the following minimum requirements:
 
-(a) *Frequency assignment.* The ground components (except DME/Marker Beacon) must operate on a single frequency assignment or channel, using time division multiplexing. These components must be capable of operating on any one of the 200 channels spaced 300 KHz apart with center frequencies from 5031.0 MHz to 5090.7 MHz and with channel numbering as shown in Table 1a. The operating radio frequencies of all ground components must not vary by more than ±10 KHz from the assigned frequency. Any one transmitter frequency must not vary more than ±50 Hz in any one second period. The MLS angle/data and DME equipment must operate on one of the paired channels as shown in Table 1b. 
+(a) *Frequency assignment.* The ground components (except DME/Marker Beacon) must operate on a single frequency assignment or channel, using time division multiplexing. These components must be capable of operating on any one of the 200 channels spaced 300 KHz apart with center frequencies from 5031.0 MHz to 5090.7 MHz and with channel numbering as shown in Table 1a. The operating radio frequencies of all ground components must not vary by more than ±10 KHz from the assigned frequency. Any one transmitter frequency must not vary more than ±50 Hz in any one second period. The MLS angle/data and DME equipment must operate on one of the paired channels as shown in Table 1b.
 
 Table 1a—Frequency Channel Plan
 | Channel No.    | Frequency (MHz) |
@@ -388,13 +388,13 @@ Table 1b—Channels
 | \*\* These channels may be used for national allotment on a secondary basis. The primary reason for reserving these channels is to provide protection for the secondary Surveillance Radar (SSR) system. |                |
 | ▽ 108.0 MHz is not scheduled for assignment to ILS service. The associated DME operating channel No. 17X may be assigned to the emergency service.                                                       |                |
 
-(b) *Polarization.* (1) The radio frequency emissions from all ground equipment must be nominally vertically polarized. Any horizontally polarized radio frequency emission component from the ground equipment must not have incorrectly coded angle information such that the limits specified in paragraphs (b) (2) and (3) of this section are exceeded. 
+(b) *Polarization.* (1) The radio frequency emissions from all ground equipment must be nominally vertically polarized. Any horizontally polarized radio frequency emission component from the ground equipment must not have incorrectly coded angle information such that the limits specified in paragraphs (b) (2) and (3) of this section are exceeded.
 
-(2) Rotation of the receiving antenna thirty degrees from the vertically polarized position must not cause the path following error to exceed the allowed error at that location. 
+(2) Rotation of the receiving antenna thirty degrees from the vertically polarized position must not cause the path following error to exceed the allowed error at that location.
 
-(c) *Modulation requirements.* Each function transmitter must be capable of DPSK and continuous wave (CW) modulations of the RF carrier which have the following characteristics. 
+(c) *Modulation requirements.* Each function transmitter must be capable of DPSK and continuous wave (CW) modulations of the RF carrier which have the following characteristics.
 
-(1) DPSK. The DPSK signal must have the following characteristics: 
+(1) DPSK. The DPSK signal must have the following characteristics:
 
 | bit rate         | 15.625 KHz                |
 | bit length       | 64 microseconds           |
@@ -405,13 +405,13 @@ Table 1b—Channels
 
 The phase shall advance (or retard) monotonically throughout the transition region. Amplitude modulation during the phase transition period shall not be used. ![](/graphics/ec15se91.005.gif)
 
-(2) CW. The CW pulse transmissions and the CW angle transmissions as may be required in the signal format of any function must have characteristics such that the requirements of paragraph (d) of this section are met. 
+(2) CW. The CW pulse transmissions and the CW angle transmissions as may be required in the signal format of any function must have characteristics such that the requirements of paragraph (d) of this section are met.
 
-(d) *Radio frequency signal spectrum.* The transmitted signal must be such that during the transmission time, the mean power density above a height of 600 meters (2000 feet) does not exceed −100.5 dBW/m 2 for angle guidance and −95.5 dBW/m 2 for data, as measured in a 150 KHz bandwidth centered at a frequency of 840 KHz or more from the assigned frequency. 
+(d) *Radio frequency signal spectrum.* The transmitted signal must be such that during the transmission time, the mean power density above a height of 600 meters (2000 feet) does not exceed −100.5 dBW/m 2 for angle guidance and −95.5 dBW/m 2 for data, as measured in a 150 KHz bandwidth centered at a frequency of 840 KHz or more from the assigned frequency.
 
-(e) *Synchronization.* Synchronization between the azimuth and elevation components is required and, in split-site configurations, would normally be accomplished by landline interconnections. Synchronization monitoring must be provided to preclude function overlap. 
+(e) *Synchronization.* Synchronization between the azimuth and elevation components is required and, in split-site configurations, would normally be accomplished by landline interconnections. Synchronization monitoring must be provided to preclude function overlap.
 
-(f) *Transmission rates.* Angle guidance and data signals must be transmitted at the following average repetition rates: 
+(f) *Transmission rates.* Angle guidance and data signals must be transmitted at the following average repetition rates:
 
 | Function                                                                                                                                                                                                                                   | Average data rate (Hertz) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
@@ -425,31 +425,31 @@ The phase shall advance (or retard) monotonically throughout the transition regi
 | 2 Refer to Table 8a.                                                                                                                                                                                                                       |                           |
 | 3 Refer to Table 8c.                                                                                                                                                                                                                       |                           |
 
-(g) *Transmission sequences.* Sequences of angle transmissions which will generate the required repetition rates are shown in Figures 2 and 3. 
+(g) *Transmission sequences.* Sequences of angle transmissions which will generate the required repetition rates are shown in Figures 2 and 3.
 
 ![](/graphics/ec15se91.006.gif)![](/graphics/ec15se91.007.gif)
 
-(h) *TDM cycle.* The time periods between angle transmission sequences must be varied so that exact repetitions do not occur within periods of less than 0.5 second in order to protect against synchronous interference. One such combination of sequences is shown in Figure 4 which forms a full multiplex cycle. Data may be transmitted during suitable open times within or between the sequences. 
+(h) *TDM cycle.* The time periods between angle transmission sequences must be varied so that exact repetitions do not occur within periods of less than 0.5 second in order to protect against synchronous interference. One such combination of sequences is shown in Figure 4 which forms a full multiplex cycle. Data may be transmitted during suitable open times within or between the sequences.
 
 ![](/graphics/ec15se91.008.gif)
 
-(i) *Function Formats (General).* Each angle function must contain the following elements: a preamble; sector signals; and a TO and FRO angle scan organized as shown in Figure 5a. Each data function must contain a preamble and a data transmission period organized as shown in Figure 5b. 
+(i) *Function Formats (General).* Each angle function must contain the following elements: a preamble; sector signals; and a TO and FRO angle scan organized as shown in Figure 5a. Each data function must contain a preamble and a data transmission period organized as shown in Figure 5b.
 
 ![](/graphics/ec15se91.009.gif)
 
-(1) *Preamble format.* The transmitted angle and date functions must use the preamble format shown in Figure 6. This format consists of a carrier acquisition period of unmodulated CW transmission followed by a receiver synchronization code and a function identification code. The preamble timing must be in accordance with Table 2. 
+(1) *Preamble format.* The transmitted angle and date functions must use the preamble format shown in Figure 6. This format consists of a carrier acquisition period of unmodulated CW transmission followed by a receiver synchronization code and a function identification code. The preamble timing must be in accordance with Table 2.
 
 ![](/graphics/ec15se91.010.gif)
 
-(i) *Digital codes.* The coding used in the preamble for receiver synchronization is a Barker code logic 11101. The time of the last phase transition midpoint in the code shall be the receiver reference time (see Table 2). The function identification codes must be as shown in Table 3. The last two bits (I11 and I12) of the code are parity bits obeying the equations: 
+(i) *Digital codes.* The coding used in the preamble for receiver synchronization is a Barker code logic 11101. The time of the last phase transition midpoint in the code shall be the receiver reference time (see Table 2). The function identification codes must be as shown in Table 3. The last two bits (I11 and I12) of the code are parity bits obeying the equations:
 
 I6 + I7 + I8 + I9 + I10 + I11 = Even I6 + I8 + I10 + I12 = Even
 
-(ii) *Data modulation.* The digital code portions of the preamble must be DPSK modulated in accordance with § 171.311(c)(1) and must be transmitted throughout the function coverage volume. 
+(ii) *Data modulation.* The digital code portions of the preamble must be DPSK modulated in accordance with § 171.311(c)(1) and must be transmitted throughout the function coverage volume.
 
-(2) *Angle function formats.* The timing of the angle transmissions must be in accordance with Tables 4a, 4b, and 5. The actual timing of the TO and FRO scans must be as required to meet the accuracy requirements of §§ 171.313 and 171.317. 
+(2) *Angle function formats.* The timing of the angle transmissions must be in accordance with Tables 4a, 4b, and 5. The actual timing of the TO and FRO scans must be as required to meet the accuracy requirements of §§ 171.313 and 171.317.
 
-(i) Preamble. Must be in accordance with requirements of § 171.311(i)(1). 
+(i) Preamble. Must be in accordance with requirements of § 171.311(i)(1).
 
 Table 2—Preamble Timing 1
 | Event                                                                  | Event time slot begins at— |
@@ -491,11 +491,11 @@ Table 3—Function Identification Codes
 | Auxiliary data B           | 1    |
 | Auxiliary data C           | 1    |
 
-(ii) *Sector signals.* In all azimuth formats, sector signals must be transmitted to provide Morse Code identification, airborne antenna selection, and system test signals. These signals are not required in the elevation formats. In addition, if the signal from an installed ground component results in a valid indication in an area where no valid guidance should exist, OCI signals must be radiated as provided for in the signal format (see Tables 4a, 4b, and 5). The sector signals are defined as follows: 
+(ii) *Sector signals.* In all azimuth formats, sector signals must be transmitted to provide Morse Code identification, airborne antenna selection, and system test signals. These signals are not required in the elevation formats. In addition, if the signal from an installed ground component results in a valid indication in an area where no valid guidance should exist, OCI signals must be radiated as provided for in the signal format (see Tables 4a, 4b, and 5). The sector signals are defined as follows:
 
-(A) *Morse Code.* DPSK transmissions that will permit Morse Code facility identification in the aircraft by a four letter code starting with the letter “M” must be included in all azimuth functions. They must be transmitted and repeated at approximately equal intervals, not less than six times per minute, during which time the ground subsystem is available for operational use. When the transmissions of the ground subsystem are not available, the identification signal must be suppressed. The audible tone in the aircraft is started by setting the Morse Code bit to logic “1” and stopped by a logic “0” (see Tables 4a and 4b). The identification code characteristics must conform to the following: the dot must be between 0.13 and 0.16 second in duration, and the dash between 0.39 and 0.48 second. The duration between dots and/or dashes must be one dot plus or minus 10%. The duration between characters (letters) must not be less than three dots. When back azimuth is provided, the code shall be transmitted by the approach azimuth and back azimuth within plus or minus 0.08 seconds. 
+(A) *Morse Code.* DPSK transmissions that will permit Morse Code facility identification in the aircraft by a four letter code starting with the letter “M” must be included in all azimuth functions. They must be transmitted and repeated at approximately equal intervals, not less than six times per minute, during which time the ground subsystem is available for operational use. When the transmissions of the ground subsystem are not available, the identification signal must be suppressed. The audible tone in the aircraft is started by setting the Morse Code bit to logic “1” and stopped by a logic “0” (see Tables 4a and 4b). The identification code characteristics must conform to the following: the dot must be between 0.13 and 0.16 second in duration, and the dash between 0.39 and 0.48 second. The duration between dots and/or dashes must be one dot plus or minus 10%. The duration between characters (letters) must not be less than three dots. When back azimuth is provided, the code shall be transmitted by the approach azimuth and back azimuth within plus or minus 0.08 seconds.
 
-(B) *Airborne antenna selection.* A signal for airborne antenna selection shall be transmitted as a “zero” DPSK signal lasting for a six-bit period (see Tables 4a and 4b). 
+(B) *Airborne antenna selection.* A signal for airborne antenna selection shall be transmitted as a “zero” DPSK signal lasting for a six-bit period (see Tables 4a and 4b).
 
 Table 4a—Approach Azimuth Function timing
 | Event                                                                                                                                                                                                                                                                                                  | Event time slot   begins at— |
@@ -535,7 +535,7 @@ Table 4b—High Rate Approach Azimuth and Back Azimuth Function Timing
 | End guard time; end function (ground)                                                                                                                                                                                                                                                               |                              |
 | 1 The actual commencement and completion of the TO and the FRO scan transmissions are dependent on the amount of proportional guidance provided. The time slots provided will accommodate a maximum scan of plus or minus 42.0 degrees. Scan timing shall be compatible with accuracy requirements. |                              |
 
-(C) *OCI.* Where OCI pulses are used, they must be: (1) greater than any guidance signal in the OCI sector; (2) at least 5 dB less than the level of the scanning beam within the proportional guidance sector; and (3) for azimuth functions with clearance signals, at least 5 dB less than the level of the left (right) clearance pulses within the left (right) clearance sector. 
+(C) *OCI.* Where OCI pulses are used, they must be: (1) greater than any guidance signal in the OCI sector; (2) at least 5 dB less than the level of the scanning beam within the proportional guidance sector; and (3) for azimuth functions with clearance signals, at least 5 dB less than the level of the left (right) clearance pulses within the left (right) clearance sector.
 
 Table 5—Approach Elevation Function Timing
 | Event                                                                                                                                                                                                                                                                                                 | Event time slot   begins at: |
@@ -551,27 +551,27 @@ Table 5—Approach Elevation Function Timing
 | End guard time; end function (ground)                                                                                                                                                                                                                                                                 |                              |
 | 1 The actual commencement and completion of the TO and FRO scan transmissions are dependent upon the amount of proportional guidance provided. The time slots provided will accommodate a maximum scan of −1.5 degrees to + 29.5 degrees. Scan timing shall be compatible with accuracy requirements. |                              |
 
-The duration of each pulse measured at the half amplitude point shall be at least 100 microseconds, and the rise and fall times shall be less then 10 microseconds. It shall be permissible to sequentially transmit two pulses in each out-of-coverage indication time slot. Where pulse pairs are used, the duration of each pulse shall be at least 50 microseconds, and the rise and fall times shall be less then 10 microseconds. The transmission of out-of-coverage indication pulses radiated from antennas with overlapping coverage patterns shall be separated by at least 10 microseconds. 
+The duration of each pulse measured at the half amplitude point shall be at least 100 microseconds, and the rise and fall times shall be less then 10 microseconds. It shall be permissible to sequentially transmit two pulses in each out-of-coverage indication time slot. Where pulse pairs are used, the duration of each pulse shall be at least 50 microseconds, and the rise and fall times shall be less then 10 microseconds. The transmission of out-of-coverage indication pulses radiated from antennas with overlapping coverage patterns shall be separated by at least 10 microseconds.
 
 Note:
 
 If desired, two pulses may be sequentially transmitted in each OCI time slot. Where pulse pairs are used, the duration of each pulse must be 45 (±5) microseconds and the rise and fall times must be less than 10 microseconds.
 
-(D) *System test.* Time slots are provided in Tables 4a and 4b to allow radiation of TO and FRO test pulses. However, radiation of these pulses is not required since the characteristics of these pulses have not yet been standardized. 
+(D) *System test.* Time slots are provided in Tables 4a and 4b to allow radiation of TO and FRO test pulses. However, radiation of these pulses is not required since the characteristics of these pulses have not yet been standardized.
 
-(iii) *Angle encoding.* The encoding must be as follows: 
+(iii) *Angle encoding.* The encoding must be as follows:
 
-(A) *General.* Azimuth and elevation angles are encoded by scanning a narrow beam between the limits of the proportional coverage sector first in one direction (the TO scan) and then in the opposite direction (the FRO scan). Angular information must be encoded by the amount of time separation between the beam centers of the TO and FRO scanning beam pulses. The TO and FRO transmissions must be symmetrically disposed about the midscan point listed in Tables 4a, 4b, 5, and 7. The midscan point and the center of the time interval between the TO and FRO scan transmissions must coincide with a tolerance of ±10 microseconds. Angular coding must be linear with angle and properly decoded using the formula: 
+(A) *General.* Azimuth and elevation angles are encoded by scanning a narrow beam between the limits of the proportional coverage sector first in one direction (the TO scan) and then in the opposite direction (the FRO scan). Angular information must be encoded by the amount of time separation between the beam centers of the TO and FRO scanning beam pulses. The TO and FRO transmissions must be symmetrically disposed about the midscan point listed in Tables 4a, 4b, 5, and 7. The midscan point and the center of the time interval between the TO and FRO scan transmissions must coincide with a tolerance of ±10 microseconds. Angular coding must be linear with angle and properly decoded using the formula:
 
 ![](/graphics/ec15se91.011.gif)where: θ = Receiver angle in degrees. V = Scan velocity in degrees per microsecond. T0 = Time separation in microseconds between TO and FRO beam centers corresponding to zero degrees. t = Time separation in microseconds between TO and FRO beam centers.The timing requirements are listed in Table 6 and illustrated in Figure 7. ![](/graphics/ec15se91.012.gif)
 
-(B) *Azimuth angle encoding.* Each guidance angle transmitted must consist of a clockwise TO scan followed by a counterclockwise FRO scan as viewed from above the antenna. For approach azimuth functions, increasing angle values must be in the direction of the TO scan; for the back azimuth function, increasing angle values must be in the direction of the FRO scan. The antenna has a narrow beam in the plane of the scan direction and a broad beam in the orthogonal plane which fills the vertical coverage. 
+(B) *Azimuth angle encoding.* Each guidance angle transmitted must consist of a clockwise TO scan followed by a counterclockwise FRO scan as viewed from above the antenna. For approach azimuth functions, increasing angle values must be in the direction of the TO scan; for the back azimuth function, increasing angle values must be in the direction of the FRO scan. The antenna has a narrow beam in the plane of the scan direction and a broad beam in the orthogonal plane which fills the vertical coverage.
 
-(C) *Elevation angle encoding.* The radiation from elevation equipment must produce a beam which scans from the horizon up to the highest elevation angle and then scans back down to the horizon. The antenna has a narrow beam in the plane of the scan direction and a broad beam in the orthogonal plane which fills the horizontal coverage. Elevation angles are defined from the horizontal plane containing the antenna phase center; positive angles are above the horizontal and zero angle is along the horizontal. 
+(C) *Elevation angle encoding.* The radiation from elevation equipment must produce a beam which scans from the horizon up to the highest elevation angle and then scans back down to the horizon. The antenna has a narrow beam in the plane of the scan direction and a broad beam in the orthogonal plane which fills the horizontal coverage. Elevation angles are defined from the horizontal plane containing the antenna phase center; positive angles are above the horizontal and zero angle is along the horizontal.
 
-(iv) *Clearance guidance.* The timing of the clearance pulses must be in accordance with Figure 8. For azimuth elements with proportional coverage of less than ±40 degrees (±20 degrees for back azimuth), clearance guidance information must be provided by transmitting pulses in a TO and FRO format adjacent to the stop/start times of the scanning beam signal. The fly-right clearance pulses must represent positive angles and the fly-left clearance pulses must represent negative angles. The duration of each clearance pulse must be 50 microseconds with a tolerance of ±5 microseconds. The transmitter switching time between the clearance pulses and the scanning beam transmissions must not exceed 10 microseconds. The rise time at the edge of each clearance pulse must be less than 10 microseconds. Within the fly-right clearance guidance section, the fly-right clearance guidance signal shall exceed scanning beam antenna sidelobes and other guidance and OCI signals by at least 5 dB; within the fly-left clearance guidance sector, the fly left clearance guidance signal shall exceed scanning beam antenna sidelobes and all other guidance and OCI signals by at least 5 dB; within the proportional guidance sector, the clearance guidance signals shall be at least 5dB below the proportional guidance signal. Optionally, clearance guidance may be provided by scanning throughout the approach guidance sector. For angles outside the approach azimuth proportional coverage limits as set in Basic Data Word One (Basic Data Word 5 for back azimuth), proper decode and display of clearance guidance must occur to the limits of the guidance region. Where used, clearance pulses shall be transmitted adjacent to the scanning beam signals at the edges of proportional coverage as shown in Figure 8. The proportional coverage boundary shall be established at one beamwidth inside the scan start/stop angles, such that the transition between scanning beam and clearance signals occurs outside the proportional coverage sector. When clearance pulses are provided in conjunction with a narrow beamwidth (e.g., one degree) scanning antenna, the scanning beam antenna shall radiate for 15 microseconds while stationary at the scan start/stop angles. 
+(iv) *Clearance guidance.* The timing of the clearance pulses must be in accordance with Figure 8. For azimuth elements with proportional coverage of less than ±40 degrees (±20 degrees for back azimuth), clearance guidance information must be provided by transmitting pulses in a TO and FRO format adjacent to the stop/start times of the scanning beam signal. The fly-right clearance pulses must represent positive angles and the fly-left clearance pulses must represent negative angles. The duration of each clearance pulse must be 50 microseconds with a tolerance of ±5 microseconds. The transmitter switching time between the clearance pulses and the scanning beam transmissions must not exceed 10 microseconds. The rise time at the edge of each clearance pulse must be less than 10 microseconds. Within the fly-right clearance guidance section, the fly-right clearance guidance signal shall exceed scanning beam antenna sidelobes and other guidance and OCI signals by at least 5 dB; within the fly-left clearance guidance sector, the fly left clearance guidance signal shall exceed scanning beam antenna sidelobes and all other guidance and OCI signals by at least 5 dB; within the proportional guidance sector, the clearance guidance signals shall be at least 5dB below the proportional guidance signal. Optionally, clearance guidance may be provided by scanning throughout the approach guidance sector. For angles outside the approach azimuth proportional coverage limits as set in Basic Data Word One (Basic Data Word 5 for back azimuth), proper decode and display of clearance guidance must occur to the limits of the guidance region. Where used, clearance pulses shall be transmitted adjacent to the scanning beam signals at the edges of proportional coverage as shown in Figure 8. The proportional coverage boundary shall be established at one beamwidth inside the scan start/stop angles, such that the transition between scanning beam and clearance signals occurs outside the proportional coverage sector. When clearance pulses are provided in conjunction with a narrow beamwidth (e.g., one degree) scanning antenna, the scanning beam antenna shall radiate for 15 microseconds while stationary at the scan start/stop angles.
 
-(3) *Data function format.* Basic data words provide equipment characteristics and certain siting information. Basic data words must be transmitted from an antenna located at the approach azimuth or back azimuth site which provides coverage throughout the appropriate sector. Data function timing must be in accordance with Table 7a. 
+(3) *Data function format.* Basic data words provide equipment characteristics and certain siting information. Basic data words must be transmitted from an antenna located at the approach azimuth or back azimuth site which provides coverage throughout the appropriate sector. Data function timing must be in accordance with Table 7a.
 
 Table 6—Angle Scan Timing Constants
 | Function                   | Max value of t (usec) | To (usec) | V(deg/usec) | Tm (usec) | Pause time (usec) | Tt (usec) |
@@ -610,17 +610,17 @@ Table 7c—Auxiliary Data Function Timing—(Alphanumeric)
 | End function (airborne)               | 89                           |
 | End guard time; (end function ground) |                              |
 
-(i) *Preamble.* Must be in accordance with requirements of § 171.311(i)(1). 
+(i) *Preamble.* Must be in accordance with requirements of § 171.311(i)(1).
 
-(ii) *Data transmissions.* Basic data must be transmitted using DPSK modulation. The content and repetition rate of each basic data word must be in accordance with Table 8a. For data containing digital information, binary number 1 must represent the lower range limit with increments in binary steps to the upper range limit shown in Table 8a. Data containing digital information shall be transmitted with the least significant bit first. 
+(ii) *Data transmissions.* Basic data must be transmitted using DPSK modulation. The content and repetition rate of each basic data word must be in accordance with Table 8a. For data containing digital information, binary number 1 must represent the lower range limit with increments in binary steps to the upper range limit shown in Table 8a. Data containing digital information shall be transmitted with the least significant bit first.
 
-(j) *Basic Data word requirements.* Basic Data shall consist of the items specified in Table 8a. Basic Data word contents shall be defined as follows: 
+(j) *Basic Data word requirements.* Basic Data shall consist of the items specified in Table 8a. Basic Data word contents shall be defined as follows:
 
-(1) *Approach azimuth to threshold distance* shall represent the minimum distance between the Approach Azimuth antenna phase center and the vertical plane perpendicular to the centerline which contains the landing threshold. 
+(1) *Approach azimuth to threshold distance* shall represent the minimum distance between the Approach Azimuth antenna phase center and the vertical plane perpendicular to the centerline which contains the landing threshold.
 
-(2) *Approach azimuth proportional coverage limit* shall represent the limit of the sector in which proportional approach azimuth guidance is transmitted. 
+(2) *Approach azimuth proportional coverage limit* shall represent the limit of the sector in which proportional approach azimuth guidance is transmitted.
 
-(3) *Clearance signal type* shall represent the type of clearance when used. Pulse clearance is that which is in accordance with § 171.311 (i) (2) (iv). Scanning Beam (SB) clearance indicates that the proportional guidance sector is limited by the proportional coverage limits set in basic data. 
+(3) *Clearance signal type* shall represent the type of clearance when used. Pulse clearance is that which is in accordance with § 171.311 (i) (2) (iv). Scanning Beam (SB) clearance indicates that the proportional guidance sector is limited by the proportional coverage limits set in basic data.
 
 ![](/graphics/ec15se91.013.gif)
 
@@ -858,70 +858,70 @@ Table 8a—Basic Data Words
 | 0 = Function not radiated, or radiated in test mode (not reliable for navigation).                                                                                                                                                         |     |                                               |
 | 1 = Function radiated in normal mode.                                                                                                                                                                                                      |     |                                               |
 
-(4) *Minimum glidepath* the lowest angle of descent along the zero degree azimuth that is consistent with published approach procedures and obstacle clearance criteria. 
+(4) *Minimum glidepath* the lowest angle of descent along the zero degree azimuth that is consistent with published approach procedures and obstacle clearance criteria.
 
-(5) *Back azimuth status* shall represent the operational status of the Back Azimuth equipment. 
+(5) *Back azimuth status* shall represent the operational status of the Back Azimuth equipment.
 
-(6) *DME status* shall represent the operational status of the DME equipment. 
+(6) *DME status* shall represent the operational status of the DME equipment.
 
-(7) *Approach azimuth status* shall represent the operational status of the approach azimuth equipment. 
+(7) *Approach azimuth status* shall represent the operational status of the approach azimuth equipment.
 
-(8) *Approach elevation status* shall represent the operational status of the approach elevation equipment. 
+(8) *Approach elevation status* shall represent the operational status of the approach elevation equipment.
 
-(9) *Beamwidth* the width of the scanning beam main lobe measured at the −3 dB points and defined in angular units on the antenna boresight, in the horizontal plane for the azimuth function and in the vertical plane for the elevation function. 
+(9) *Beamwidth* the width of the scanning beam main lobe measured at the −3 dB points and defined in angular units on the antenna boresight, in the horizontal plane for the azimuth function and in the vertical plane for the elevation function.
 
-(10) *DME distance* shall represent the minimum distance between the DME antenna phase center and the vertical plane perpendicular to the runway centerline which contains the MLS datum point. 
+(10) *DME distance* shall represent the minimum distance between the DME antenna phase center and the vertical plane perpendicular to the runway centerline which contains the MLS datum point.
 
-(11) *Approach azimuth magnetic orientation* shall represent the angle measured in the horizontal plane clockwise from Magnetic North to the zero-degree angle guidance radial originating from the approach azimuth antenna phase center. The vertex of the measured angle shall be at the approach azimuth antenna phase center. 
+(11) *Approach azimuth magnetic orientation* shall represent the angle measured in the horizontal plane clockwise from Magnetic North to the zero-degree angle guidance radial originating from the approach azimuth antenna phase center. The vertex of the measured angle shall be at the approach azimuth antenna phase center.
 
 Note:
 
 For example, this data item would be encoded 090 for an approach azimuth antenna serving runway 27 (assuming the magnetic heading is 270 degrees) when sited such that the zero degree radial is parallel to centerline.
 
-(12) *Back azimuth magnetic orientation* shall represent the angle measured in the horizontal plane clockwise from Magnetic North to the zero-degree angle guidance radial originating from the Back Azimuth antenna. The vertex of the measured angle shall be at the Back Azimuth antenna phase center. 
+(12) *Back azimuth magnetic orientation* shall represent the angle measured in the horizontal plane clockwise from Magnetic North to the zero-degree angle guidance radial originating from the Back Azimuth antenna. The vertex of the measured angle shall be at the Back Azimuth antenna phase center.
 
 Note:
 
 For example, this data item would be encoded 270 for a Back Azimuth Antenna serving runway 27 (assuming the magnetic heading is 270 degrees) when sited such that the zero degree radial is parallel to centerline.
 
-(13) *Back azimuth proportional coverage limit* shall represent the limit of the sector in which proportional back azimuth guidance is transmitted. 
+(13) *Back azimuth proportional coverage limit* shall represent the limit of the sector in which proportional back azimuth guidance is transmitted.
 
-(14) *MLS ground equipment identification* shall represent the last three characters of the system identification specified in § 171.311(i)(2). The characters shall be encoded in accordance with International Alphabet No. 5 (IA-5) using bits b1 through b6. 
+(14) *MLS ground equipment identification* shall represent the last three characters of the system identification specified in § 171.311(i)(2). The characters shall be encoded in accordance with International Alphabet No. 5 (IA-5) using bits b1 through b6.
 
 Note:
 
 Bit b7 of this code may be reconstructed in the airborne receiver by taking the complement of bit b6.
 
-(k) *Residual radiation.* The residual radiation of a transmitter associated with an MLS function during time intervals when it should not be transmitting shall not adversely affect the reception of any other function. The residual radiation of an MLS function at times when another function is radiating shall be at least 70 dB below the level provided when transmitting. 
+(k) *Residual radiation.* The residual radiation of a transmitter associated with an MLS function during time intervals when it should not be transmitting shall not adversely affect the reception of any other function. The residual radiation of an MLS function at times when another function is radiating shall be at least 70 dB below the level provided when transmitting.
 
-(l) *Symmetrical scanning.* The TO and FRO scan transmissions shall be symmetrically disposed about the mid-scan point listed in Tables 4a, 4b and 5. The mid-scan point and the center of the time interval between the TO and FRO scan shall coincide with a tolerance of plus or minus 10 microseconds. 
+(l) *Symmetrical scanning.* The TO and FRO scan transmissions shall be symmetrically disposed about the mid-scan point listed in Tables 4a, 4b and 5. The mid-scan point and the center of the time interval between the TO and FRO scan shall coincide with a tolerance of plus or minus 10 microseconds.
 
-(m) *Auxiliary data*—(1) *Addresses.* Three function identification codes are reserved to indicate transmission of Auxiliary Data A, Auxiliary Data B, and Auxiliary Data C. Auxiliary Data A contents are specified below, Auxiliary Data B contents are reserved for future use, and Auxiliary Data C contents are reserved for national use. The address codes of the auxiliary data words shall be as shown in Table 8b. 
+(m) *Auxiliary data*—(1) *Addresses.* Three function identification codes are reserved to indicate transmission of Auxiliary Data A, Auxiliary Data B, and Auxiliary Data C. Auxiliary Data A contents are specified below, Auxiliary Data B contents are reserved for future use, and Auxiliary Data C contents are reserved for national use. The address codes of the auxiliary data words shall be as shown in Table 8b.
 
-(2) *Organization and timing.* The organization and timing of digital auxiliary data must be as specified in Table 7b. Data containing digital information must be transmitted with the least significant bit first. Alphanumeric data characters must be encoded in accordance with the 7-unit code character set as defined by the American National Standard Code for Information Interchange (ASCII). An even parity bit is added to each character. Alphanumeric data must be transmitted in the order in which they are to be read. The serial transmission of a character must be with the lower order bit transmitted first and the parity bit transmitted last. The timing for alphanumeric auxiliary data must be as shown in Table 7c. 
+(2) *Organization and timing.* The organization and timing of digital auxiliary data must be as specified in Table 7b. Data containing digital information must be transmitted with the least significant bit first. Alphanumeric data characters must be encoded in accordance with the 7-unit code character set as defined by the American National Standard Code for Information Interchange (ASCII). An even parity bit is added to each character. Alphanumeric data must be transmitted in the order in which they are to be read. The serial transmission of a character must be with the lower order bit transmitted first and the parity bit transmitted last. The timing for alphanumeric auxiliary data must be as shown in Table 7c.
 
-(3) *Auxiliary Data A content:* The data items specified in Table 8c are defined as follows: 
+(3) *Auxiliary Data A content:* The data items specified in Table 8c are defined as follows:
 
-(i) *Approach azimuth antenna offset* shall represent the minimum distance between the Approach Azimuth antenna phase center and the vertical plane containing the runway centerline. 
+(i) *Approach azimuth antenna offset* shall represent the minimum distance between the Approach Azimuth antenna phase center and the vertical plane containing the runway centerline.
 
-(ii) *Approach azimuth to MLS datum point distance* shall represent the minimum distance between the Approach Azimuth antenna phase center and the vertical plane perpendicular to the centerline which contains the MLS datum point. 
+(ii) *Approach azimuth to MLS datum point distance* shall represent the minimum distance between the Approach Azimuth antenna phase center and the vertical plane perpendicular to the centerline which contains the MLS datum point.
 
-(iii) *Approach azimuth alignment with runway centerline* shall represent the minimum angle between the approach azimuth antenna zero-degree guidance plane and the runway certerline. 
+(iii) *Approach azimuth alignment with runway centerline* shall represent the minimum angle between the approach azimuth antenna zero-degree guidance plane and the runway certerline.
 
-(iv) *Approach azimuth antenna coordinate system* shall represent the coordinate system (planar or conical) of the angle data transmitted by the approach azimuth antenna. 
+(iv) *Approach azimuth antenna coordinate system* shall represent the coordinate system (planar or conical) of the angle data transmitted by the approach azimuth antenna.
 
-(v) *Approach elevation antenna offset* shall represent the minimum distance between the elevation antenna phase center and the vertical plane containing the runway centerline. 
+(v) *Approach elevation antenna offset* shall represent the minimum distance between the elevation antenna phase center and the vertical plane containing the runway centerline.
 
-(vi) *MLS datum point to threshold distance* shall represent the distance measured along the runway centerline from the MLS datum point to the runway threshold. 
+(vi) *MLS datum point to threshold distance* shall represent the distance measured along the runway centerline from the MLS datum point to the runway threshold.
 
-(vii) *Approach elevation antenna height* shall represent the height of the elevation antenna phase center relative to the height of the MLS datum point. 
+(vii) *Approach elevation antenna height* shall represent the height of the elevation antenna phase center relative to the height of the MLS datum point.
 
-(viii) *DME offset* shall represent the minimum distance between the DME antenna phase center and the vertical plane containing the runway centerline. 
+(viii) *DME offset* shall represent the minimum distance between the DME antenna phase center and the vertical plane containing the runway centerline.
 
-(ix) *DME to MLS datum point distance* shall represent the minimum distance between the DME antenna phase center and the vertical plane perpendicular to the centerline which contains the MLS datum point. 
+(ix) *DME to MLS datum point distance* shall represent the minimum distance between the DME antenna phase center and the vertical plane perpendicular to the centerline which contains the MLS datum point.
 
-(x) *Back azimuth antenna offset* shall represent the minimum distance between the back azimuth antenna phase center and the vertical plane containing the runway centerline. 
+(x) *Back azimuth antenna offset* shall represent the minimum distance between the back azimuth antenna phase center and the vertical plane containing the runway centerline.
 
-(xi) *Back azimuth to MLS datum point distance* shall represent the minimum distance between the Back Azimuth antenna and the vertical plane perpendicular to the centerline which contains the MLS datum point. 
+(xi) *Back azimuth to MLS datum point distance* shall represent the minimum distance between the Back Azimuth antenna and the vertical plane perpendicular to the centerline which contains the MLS datum point.
 
 (xii) *Back azimuth antenna alignment with runway centerline* shall represent the minimum angle between the back azimuth antenna zero-degree guidance plane and the runway centerline.

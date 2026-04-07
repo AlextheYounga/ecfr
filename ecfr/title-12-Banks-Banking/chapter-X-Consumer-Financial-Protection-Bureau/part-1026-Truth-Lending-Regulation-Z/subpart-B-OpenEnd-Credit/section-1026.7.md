@@ -1,6 +1,6 @@
 ##### § 1026.7 Periodic statement.
 
-The creditor shall furnish the consumer with a periodic statement that discloses the following items, to the extent applicable:
+The creditor shall furnish the consumer with a periodic statement that discloses the following items, to the extent applicable:*Rules affecting home-equity plans.*
 
 (a) *Rules affecting home-equity plans.* The requirements of paragraph (a) of this section apply only to home-equity plans subject to the requirements of § 1026.40. Alternatively, a creditor subject to this paragraph may, at its option, comply with any of the requirements of paragraph (b) of this section; however, any creditor that chooses not to provide a disclosure under paragraph (a)(7) of this section must comply with paragraph (b)(6) of this section.
 

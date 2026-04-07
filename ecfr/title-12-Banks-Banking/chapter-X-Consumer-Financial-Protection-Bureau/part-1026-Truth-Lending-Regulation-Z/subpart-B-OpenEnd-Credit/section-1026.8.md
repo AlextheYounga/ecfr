@@ -1,6 +1,6 @@
 ##### § 1026.8 Identifying transactions on periodic statements.
 
-The creditor shall identify credit transactions on or with the first periodic statement that reflects the transaction by furnishing the following information, as applicable:
+The creditor shall identify credit transactions on or with the first periodic statement that reflects the transaction by furnishing the following information, as applicable:*Sale credit.*
 
 (a) *Sale credit.* (1) Except as provided in paragraph (a)(2) of this section, for each credit transaction involving the sale of property or services, the creditor must disclose the amount and date of the transaction, and either:
 

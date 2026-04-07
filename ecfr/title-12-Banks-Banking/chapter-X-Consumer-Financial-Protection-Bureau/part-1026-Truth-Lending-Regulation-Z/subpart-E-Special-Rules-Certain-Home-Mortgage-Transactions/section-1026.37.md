@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 2502, Jan. 10, 2025.
 
-For each transaction subject to § 1026.19(e), the creditor shall disclose the information in this section:
+For each transaction subject to § 1026.19(e), the creditor shall disclose the information in this section:*General information*
 
 (a) *General information*—(1) *Form title.* The title of the form, “Loan Estimate,” using that term.
 
