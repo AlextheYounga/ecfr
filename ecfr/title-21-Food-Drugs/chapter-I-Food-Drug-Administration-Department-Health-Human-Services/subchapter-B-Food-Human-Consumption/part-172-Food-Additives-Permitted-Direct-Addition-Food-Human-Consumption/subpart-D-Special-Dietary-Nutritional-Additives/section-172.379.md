@@ -1,12 +1,12 @@
 ##### § 172.379 Vitamin D2.
 
-Vitamin D2 may be used safely in foods as a nutrient supplement defined under § 170.3(o)(20) of this chapter in accordance with the following prescribed conditions: 
+Vitamin D2 may be used safely in foods as a nutrient supplement defined under § 170.3(o)(20) of this chapter in accordance with the following prescribed conditions:
 
-(a) Vitamin D2, also known as ergocalciferol, is the chemical 9,10-seco(5Z,7E,22E)-5,7,10(19),22-ergostatetraen-3-ol. Vitamin D2 is produced by ultraviolet irradiation of ergosterol isolated from yeast and is purified by crystallization. 
+(a) Vitamin D2, also known as ergocalciferol, is the chemical 9,10-seco(5Z,7E,22E)-5,7,10(19),22-ergostatetraen-3-ol. Vitamin D2 is produced by ultraviolet irradiation of ergosterol isolated from yeast and is purified by crystallization.
 
 (b) Vitamin D2 meets the specifications of the 2015 Food Chemical Codex, 9th edition (through Third Supplement), effective December 1, 2015, pp. 1260-1261, which is incorporated by reference. The Director of the Office of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies from the United States Pharmacopeial Convention, 12601 Twinbrook Pkwy., Rockville, MD 20852 (Internet address *http://www.usp.org*). Copies may be examined at the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
-(c) The additive may be used as follows: 
+(c) The additive may be used as follows:
 
 | Category of Food                                                      | Maximum Levels in Food (as Served) |
 | --------------------------------------------------------------------- | ---------------------------------- |

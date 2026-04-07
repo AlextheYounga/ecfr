@@ -1,6 +1,6 @@
 ##### § 250.523 When do I have to repeat casing diagnostic testing?
 
-Casing diagnostic testing must be repeated according to the following table:
+Casing diagnostic testing must be repeated according to the following table: 
 
 | When . . .                                                                                                                                                                                    | you must repeat diagnostic testing . . .                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 550.1401 Index table.
 
-The following table is an index of the sections in this subpart:
+The following table is an index of the sections in this subpart: 
 
 | (a) Definitions                                                      | § 550.1402 |
 | (b) What is the maximum civil penalty?                               | § 550.1403 |

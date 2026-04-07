@@ -1,6 +1,6 @@
 ##### § 250.1200 Question index table.
 
-The table in this section lists questions concerning Oil and Gas Production Measurement, Surface Commingling, and Security.
+The table in this section lists questions concerning Oil and Gas Production Measurement, Surface Commingling, and Security. 
 
 | Frequently asked questions                                                                                                             | CFR citation  |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------- |

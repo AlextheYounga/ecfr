@@ -1,6 +1,6 @@
 ##### § 250.236 What information must I submit with the DWOP?
 
-Your DWOP must contain the following information, as applicable:
+Your DWOP must contain the following information, as applicable: 
 
 | Information that you must include with your DWOP | Where to find the   description   (§) |
 | ------------------------------------------------ | ------------------------------------- |

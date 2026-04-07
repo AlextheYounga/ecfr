@@ -1,10 +1,10 @@
 ##### § 585.500 How do I make payments under this part?
 
-(a) For acquisition fees or the initial 12 months' rent paid for the preliminary period of your lease, you must make your electronic payments through the Fees for Services page on the BOEM website at *https://www.boem.gov,* and you must include one copy of the *Pay.gov* confirmation receipt page with your unsolicited request.
+(a) For acquisition fees or the initial 12 months' rent paid for the preliminary period of your lease, you must make your electronic payments through the Fees for Services page on the BOEM website at *https://www.boem.gov,* and you must include one copy of the *Pay.gov* confirmation receipt page with your unsolicited request. 
 
-(b) For all other required rent payments and for operating fee payments, you must make your payments as required in 30 CFR 1218.51.
+(b) For all other required rent payments and for operating fee payments, you must make your payments as required in 30 CFR 1218.51. 
 
-(c) The following table summarizes payments you must make for leases and grants, unless otherwise specified in the Final Sale Notice:
+(c) The following table summarizes payments you must make for leases and grants, unless otherwise specified in the Final Sale Notice: 
 
 |                                                             | Payment                                                              | Amount                                                                                      | Due date                                                                          | Payment mechanism | Section   reference     |
 | ----------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------- | ----------------------- |

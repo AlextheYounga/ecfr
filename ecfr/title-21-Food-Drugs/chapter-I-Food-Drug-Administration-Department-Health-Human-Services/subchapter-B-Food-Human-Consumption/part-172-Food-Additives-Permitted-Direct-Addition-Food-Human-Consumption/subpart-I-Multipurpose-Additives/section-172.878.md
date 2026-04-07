@@ -1,18 +1,18 @@
 ##### § 172.878 White mineral oil.
 
-White mineral oil may be safely used in food in accordance with the following conditions: 
+White mineral oil may be safely used in food in accordance with the following conditions:
 
-(a) White mineral oil is a mixture of liquid hydrocarbons, essentially paraffinic and naphthenic in nature obtained from petroleum. It is refined to meet the following specifications: 
+(a) White mineral oil is a mixture of liquid hydrocarbons, essentially paraffinic and naphthenic in nature obtained from petroleum. It is refined to meet the following specifications:
 
-(1) It meets the test requirements of the United States Pharmacopeia XX (1980) for readily carbonizable substances (page 532). 
+(1) It meets the test requirements of the United States Pharmacopeia XX (1980) for readily carbonizable substances (page 532).
 
-(2) It meets the test requirements of U.S.P. XVII for sulfur compounds (page 400). 
+(2) It meets the test requirements of U.S.P. XVII for sulfur compounds (page 400).
 
 (3) It meets the specifications prescribed in the “Journal of the Association of Official Analytical Chemists,” Volume 45, page 66 (1962), which is incorporated by reference, after correction of the ultraviolet absorbance for any absorbance due to added antioxidants. Copies of the material incorporated by reference are available from the Office of Food Additive Safety (HFS-200), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, 240-402-1200, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(b) White mineral oil may contain any antioxidant permitted in food by regulations issued in accordance with section 409 of the Act, in an amount not greater than that required to produce its intended effect. 
+(b) White mineral oil may contain any antioxidant permitted in food by regulations issued in accordance with section 409 of the Act, in an amount not greater than that required to produce its intended effect.
 
-(c) White mineral oil is used or intended for use as follows: 
+(c) White mineral oil is used or intended for use as follows:
 
 | Use                                                                                                                                                                                                        | Limitation (inclusive of all petroleum hydrocarbons that may be used in combination with white mineral oil)                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |

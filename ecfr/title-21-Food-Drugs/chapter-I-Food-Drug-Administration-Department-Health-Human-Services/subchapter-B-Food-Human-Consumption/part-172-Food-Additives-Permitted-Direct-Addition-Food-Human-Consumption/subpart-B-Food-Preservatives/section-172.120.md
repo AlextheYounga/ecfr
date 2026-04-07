@@ -1,12 +1,12 @@
 ##### § 172.120 Calcium disodium EDTA.
 
-The food additive calcium disodium EDTA (calcium disodium ethylene-diaminetetraacetate) may be safely used in designated foods for the purposes and in accordance with the conditions prescribed, as follows: 
+The food additive calcium disodium EDTA (calcium disodium ethylene-diaminetetraacetate) may be safely used in designated foods for the purposes and in accordance with the conditions prescribed, as follows:
 
-(a) The additive contains a minimum of 99 percent by weight of either the dihydrate C10H12O8N2CaNa2·2H2O or the trihydrate C10H12O8N2CaNa2·3H2O, or any mixture of the two. 
+(a) The additive contains a minimum of 99 percent by weight of either the dihydrate C10H12O8N2CaNa2·2H2O or the trihydrate C10H12O8N2CaNa2·3H2O, or any mixture of the two.
 
-(b) It is used or intended for use as follows: 
+(b) It is used or intended for use as follows:
 
-(1) Alone, in the following foods at not to exceed the levels prescribed, calculated as the anhydrous compound: 
+(1) Alone, in the following foods at not to exceed the levels prescribed, calculated as the anhydrous compound:
 
 | Food                                                                                                              | Limitation (parts per million) | Use                                                         |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------------------- |
@@ -39,7 +39,7 @@ The food additive calcium disodium EDTA (calcium disodium ethylene-diaminetetraa
 | Spreads, artificially colored and lemon-flavored or orange-flavored                                               | 100                            | Promote color retention.                                    |
 | 1 By weight of egg yolk portion.                                                                                  |                                |                                                             |
 
-(2) With disodium EDTA (disodium ethylenediaminetetraacetate) in the following foods at not to exceed, in combination, the levels prescribed, calculated as anhydrous C10H12O8N2CaNa2: 
+(2) With disodium EDTA (disodium ethylenediaminetetraacetate) in the following foods at not to exceed, in combination, the levels prescribed, calculated as anhydrous C10H12O8N2CaNa2:
 
 | Food                       | Limitation (parts per million) | Use           |
 | -------------------------- | ------------------------------ | ------------- |
@@ -50,12 +50,12 @@ The food additive calcium disodium EDTA (calcium disodium ethylene-diaminetetraa
 | Sandwich spread            | 100                            | Do.           |
 | Sauces                     | 75                             | Do.           |
 
-(c) To assure safe use of the additive: 
+(c) To assure safe use of the additive:
 
-(1) The label and labeling of the additive container shall bear, in addition to the other information required by the Act, the name of the additive. 
+(1) The label and labeling of the additive container shall bear, in addition to the other information required by the Act, the name of the additive.
 
-(2) The label or labeling of the additive container shall bear adequate use directions to provide a final food product that complies with the limitations provided in paragraph (b) of this section. 
+(2) The label or labeling of the additive container shall bear adequate use directions to provide a final food product that complies with the limitations provided in paragraph (b) of this section.
 
-(d) In the standardized foods listed in paragraph (b) of this section, the additives are used only in compliance with the applicable standards of identity for such foods. 
+(d) In the standardized foods listed in paragraph (b) of this section, the additives are used only in compliance with the applicable standards of identity for such foods.
 
 \[42 FR 14491, Mar. 15, 1977, as amended at 48 FR 10815, Mar. 15, 1983; 58 FR 52222, Oct. 7, 1993; 60 FR 33710, June 29, 1995; 65 FR 48379, Aug. 8, 2000\]

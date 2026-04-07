@@ -1,24 +1,24 @@
 ##### § 585.108 How do I show that I am qualified to be a lessee or grant holder?
 
-(a) You must demonstrate your technical and financial capability to construct, operate, maintain, and terminate/decommission projects for which you are requesting authorization. Documentation can include:
+(a) You must demonstrate your technical and financial capability to construct, operate, maintain, and terminate/decommission projects for which you are requesting authorization. Documentation can include: 
 
-(1) Descriptions of international or domestic experience with renewable energy projects or other types of electric-energy-related projects; and
+(1) Descriptions of international or domestic experience with renewable energy projects or other types of electric-energy-related projects; and 
 
-(2) Information establishing access to sufficient capital to carry out development.
+(2) Information establishing access to sufficient capital to carry out development. 
 
-(b) An individual must submit a written statement of citizenship status attesting to U.S. citizenship. It does not need to be notarized nor give the age of individual. A resident alien may submit a photocopy of the U.S. Citizenship and Immigration Services form issued by the appropriate Federal immigration authority evidencing legal status as a resident alien.
+(b) An individual must submit a written statement of citizenship status attesting to U.S. citizenship. It does not need to be notarized nor give the age of individual. A resident alien may submit a photocopy of the U.S. Citizenship and Immigration Services form issued by the appropriate Federal immigration authority evidencing legal status as a resident alien. 
 
-(c) A corporation or association must submit evidence, as specified in the table in paragraph (d) of this section, acceptable to BOEM that:
+(c) A corporation or association must submit evidence, as specified in the table in paragraph (d) of this section, acceptable to BOEM that: 
 
-(1) It is qualified to hold leases or grants under this part;
+(1) It is qualified to hold leases or grants under this part; 
 
-(2) It is authorized to conduct business under the laws of its State;
+(2) It is authorized to conduct business under the laws of its State; 
 
-(3) It is authorized to hold leases or grants on the OCS under the operating rules of its business; and
+(3) It is authorized to hold leases or grants on the OCS under the operating rules of its business; and 
 
-(4) The persons holding the titles listed are authorized to bind the corporation or association when conducting business with BOEM.
+(4) The persons holding the titles listed are authorized to bind the corporation or association when conducting business with BOEM. 
 
-(d) Acceptable evidence under paragraph (c) of this section includes, but is not limited to the following:
+(d) Acceptable evidence under paragraph (c) of this section includes, but is not limited to the following: 
 
 | Requirements to qualify to hold leases or grants on the OCS:                                                                                                                                                                                                     | Corp. | Ltd.   prtnsp. | Gen.   prtnsp. | LLC | Trust |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | -------------- | -------------- | --- | ----- |
@@ -42,10 +42,10 @@
 | (11) Copy of trust agreement or document establishing the trust and all amendments, properly certified by the trustee with reference to where the original documents are filed                                                                                   |       |                |                |     | XX    |
 | (12) Statement indicating the law under which the trust is established and that the trust is authorized to hold OCS leases or grants                                                                                                                             |       |                |                |     | XX    |
 
-(e) A local, State, or Federal executive entity must submit a written statement that:
+(e) A local, State, or Federal executive entity must submit a written statement that: 
 
-(1) It is qualified to hold leases or grants under this part; and
+(1) It is qualified to hold leases or grants under this part; and 
 
-(2) The person(s) acting on behalf of the entity is authorized to bind the entity when conducting business with us.
+(2) The person(s) acting on behalf of the entity is authorized to bind the entity when conducting business with us. 
 
 (f) BOEM may require you to submit additional information at any time considering your bid or request for a noncompetitive lease.
