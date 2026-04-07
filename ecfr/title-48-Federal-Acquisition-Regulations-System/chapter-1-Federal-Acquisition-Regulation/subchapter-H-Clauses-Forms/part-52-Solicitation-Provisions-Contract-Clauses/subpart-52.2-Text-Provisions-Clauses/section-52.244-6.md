@@ -2,7 +2,7 @@
 
 As prescribed in 44.403, insert the following clause:
 
-Subcontracts for Commercial Products and Commercial Services (FEB 2024)
+Subcontracts for Commercial Products and Commercial Services (NOV 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -64,7 +64,9 @@ Subcontracts for Commercial Products and Commercial Services (FEB 2024)
 
 (xxii) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (MAR 2023), if flow down is required in accordance with paragraph (c) of FAR clause 52.232-40.
 
-(xxiii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305 and 10 U.S.C. 2631), if flow down is required in accordance with paragraph (d) of FAR clause 52.247-64.
+(xxiii) 52.240-1, Prohibition on Unmanned Aircraft Systems Manufactured or Assembled by American Security Drone Act—Covered Foreign Entities (NOV 2024) (Sections 1821-1826, Pub. L. 118-31, 41 U.S.C. 3901 note prec.).
+
+(xxiv) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305 and 10 U.S.C. 2631), if flow down is required in accordance with paragraph (d) of FAR clause 52.247-64.
 
 (2) While not required, the Contractor may flow down to subcontracts for commercial products or commercial services a minimal number of additional clauses necessary to satisfy its contractual obligations.
 
