@@ -1,5 +1,7 @@
 ##### § 3.852 Institutional awards.
 
+Link to an amendment published at 83 FR 32738, July 13, 2018.
+
 (a) When an incompetent veteran entitled to pension, compensation or retirement pay is a patient in a hospital or other institution, payments on his (or her) account may be made to the chief officer of a Department of Veterans Affairs or non-Department of Veterans Affairs institution:
 
 (1) When no fiduciary has been appointed or when payments to an unsatisfactory fiduciary have been discontinued;

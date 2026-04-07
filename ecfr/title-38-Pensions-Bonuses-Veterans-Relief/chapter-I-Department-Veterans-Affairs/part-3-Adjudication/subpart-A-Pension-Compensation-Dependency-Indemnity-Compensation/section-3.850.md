@@ -1,5 +1,7 @@
 ##### § 3.850 General.
 
+Link to an amendment published at 83 FR 32738, July 13, 2018.
+
 (a) Payment of benefits to a duly recognized fiduciary may be made on behalf of a person who is mentally incompetent or who is a minor; or, payment may be made directly to the beneficiary or to a relative or other person for the use of the beneficiary, regardless of legal disability, when it is determined to be in the best interest of the beneficiary by the Veterans Service Center Manager.
 
 (Authority: 38 U.S.C. 5502)

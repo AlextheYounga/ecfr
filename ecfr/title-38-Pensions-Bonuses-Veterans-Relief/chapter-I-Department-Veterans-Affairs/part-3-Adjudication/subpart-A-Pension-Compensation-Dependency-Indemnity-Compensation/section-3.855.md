@@ -1,5 +1,7 @@
 ##### § 3.855 Beneficiary rated or reported incompetent.
 
+Link to an amendment published at 83 FR 32738, July 13, 2018.
+
 (a) *General.* Payments being made directly to a beneficiary who is or may be incompetent will not be routinely suspended pending certification of a fiduciary (or a recommendation that payments should be paid directly to the beneficiary) by the Veterans Service Center Manager or development of the issue of incompetency.
 
 (b) *Application.* This policy applies to all cases including (but not limited to) the following:

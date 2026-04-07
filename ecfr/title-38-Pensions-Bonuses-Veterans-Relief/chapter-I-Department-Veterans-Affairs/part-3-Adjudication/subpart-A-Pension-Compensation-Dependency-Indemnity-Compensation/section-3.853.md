@@ -1,5 +1,7 @@
 ##### § 3.853 Incompetents; estate over $25,000.
 
+Link to an amendment published at 83 FR 32738, July 13, 2018.
+
 (a) Effective November 1, 1990, through September 30, 1992, where a veteran:
 
 (1) Is rated incompetent by VA, and
