@@ -1,6 +1,6 @@
 ##### § 407.9 Area risk protection insurance policy.
 
-Link to an amendment published at 88 FR 71732, Oct. 18, 2023.\[FCIC policies\] Department of Agriculture Federal Crop Insurance Corporation Area Risk Protection Insurance Policy \[Reinsured policies\] (Appropriate title for insurance provider) (This is a continuous policy. Refer to Section 2.) \[FCIC policies\]
+\[FCIC policies\] Department of Agriculture Federal Crop Insurance Corporation Area Risk Protection Insurance Policy \[Reinsured policies\] (Appropriate title for insurance provider) (This is a continuous policy. Refer to Section 2.) \[FCIC policies\]
 
 Area Risk Protection Insurance (ARPI) provides protection against widespread loss of revenue or widespread loss of yield in a county. Individual farm revenues and yields are not considered under ARPI and it is possible that your individual farm may experience reduced revenue or reduced yield and you do not receive an indemnity under ARPI.
 
@@ -356,7 +356,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (h) After acceptance of the application, you may not cancel this policy for the initial crop year unless you choose to insure the entire crop under another Federally reinsured plan of insurance with the same insurance provider on or before the sales closing date. After the first year, the policy will continue in force for each succeeding crop year unless canceled, voided or terminated as provided in this section.
 
-(i) Either you or we may cancel this policy after the initial crop year by providing written notice to the other on or before the cancellation date shown in the Crop Provisions.
+(i) You may cancel this policy after the initial crop year by providing written notice to us on or before the cancellation date shown in the Crop Provisions. We may cancel this policy with express written consent from FCIC.
 
 (j) Any amount owed to us for any policy authorized under the Act will be offset from any indemnity due you for this or any other crop insured with us under the authority of the Act.
 
@@ -1124,7 +1124,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (e) Failure to provide access to the insured crop or the farm, authorize access to the records maintained by third parties, or assist in obtaining all such records will result in a determination that no indemnity is due for the crop year in which such failure occurred.
 
-\[FCIC Policies\] 22\. Amounts Due Us
+\[FCIC Policies\] 22. Amounts Due Us
 
 (a) Any amount illegally or erroneously paid to you or that is owed to us but is delinquent may be recovered by us through offset by deducting it from any loan or payment due you under any Act of Congress or program administered by any United States Government Agency, or by other collection action.
 
@@ -1148,7 +1148,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (f) All amounts paid will be applied first to expenses of collection if any, second to the reduction of any penalties which may have been assessed, then to reduction of accrued interest, and finally to reduction of the principal balance.
 
-\[Reinsured policies\] 22\. Amounts Due Us
+\[Reinsured policies\] 22. Amounts Due Us
 
 (a) Interest will accrue at the rate of 1.25 percent simple interest per calendar month on any unpaid amount owed to us or on any unpaid administrative fees owed to FCIC.
 
@@ -1168,7 +1168,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (e) The portion of the amounts owed by you for a policy authorized under the Act that are owed to FCIC may be collected in part through administrative offset from payments you receive from United States government agencies in accordance with 31 U.S.C. chapter 37. Such amounts include all administrative fees, and the share of the overpaid indemnities and premiums retained by FCIC plus any interest owed thereon.
 
-\[FCIC Policies\] 23\. Appeal, Reconsideration, and Administrative and Judicial Review
+\[FCIC Policies\] 23. Appeal, Reconsideration, and Administrative and Judicial Review
 
 (a) All determinations required by the policy will be made by us. All expected county yields and final county yields are calculated by us in accordance with section 15. However, calculations of expected county yields and final county yields are matters of general applicability.
 
@@ -1194,7 +1194,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (e) You may only recover contractual damages from us. Under no circumstances can you recover any attorney's fees or other expenses, or any punitive, compensatory or any other damages from us in administrative review, appeal, or litigation.
 
-\[Reinsured policies\] 23\. Mediation, Arbitration, Appeal, Reconsideration, and Administrative and Judicial Review
+\[Reinsured policies\] 23. Mediation, Arbitration, Appeal, Reconsideration, and Administrative and Judicial Review
 
 (a) All expected county yields and final county yields are calculated by FCIC in accordance with section 15. However, calculations of expected county yields and final county yields are matters of general applicability.
 
@@ -1382,4 +1382,4 @@ Step 1: Calculate the Dollar Amount of Insurance per Acre Formula: Expected coun
 
 (3) Avoid an obligation or requirement under any Federal or State law.
 
-\[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021; 86 FR 42681, Aug. 5, 2021; 86 FR 67836, Nov. 30, 2021; 87 FR 38890, June 30, 2022; 88 FR 42019, June 29, 2023\]
+\[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021; 86 FR 42681, Aug. 5, 2021; 86 FR 67836, Nov. 30, 2021; 87 FR 38890, June 30, 2022; 88 FR 42019, June 29, 2023; 88 FR 71732, Oct. 18, 2023\]

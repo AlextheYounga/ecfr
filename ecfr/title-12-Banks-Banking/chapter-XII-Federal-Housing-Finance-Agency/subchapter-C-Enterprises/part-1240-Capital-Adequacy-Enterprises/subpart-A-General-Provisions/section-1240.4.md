@@ -1,5 +1,7 @@
 ##### § 1240.4 Transition.
 
+Link to an amendment published at 88 FR 83476, Nov. 30, 2023.
+
 (a) *Compliance dates.* An Enterprise will not be subject to any requirement under this part until the compliance date for the requirement under this section.
 
 (b) *Reporting requirements.* (1) For any reporting requirement under § 1240.1(f) or § 1240.41, the compliance date will be January 1, 2022.
