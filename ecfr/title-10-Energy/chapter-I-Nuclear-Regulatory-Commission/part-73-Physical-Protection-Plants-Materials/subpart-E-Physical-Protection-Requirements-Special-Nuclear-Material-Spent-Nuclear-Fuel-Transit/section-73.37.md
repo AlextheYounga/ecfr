@@ -1,7 +1,5 @@
 ##### § 73.37 Requirements for physical protection of irradiated reactor fuel in transit.
 
-Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
-
 (a) *Performance objectives.* (1) Each licensee who transports, or delivers to a carrier for transport, in a single shipment, a quantity of irradiated reactor fuel 1 in excess of 100 grams (0.22 lbs) in net weight of irradiated fuel, exclusive of cladding or other structural or packaging material, which has a total external radiation level in excess of 1 gray (100 rad) per hour at a distance of 1 meter (3.3 feet) from any accessible surface without intervening shielding, shall establish and maintain, or make arrangements for, and assure the proper implementation of, a physical protection system for shipments of such material that will achieve the following objectives:
 
 1 For purposes of 10 CFR 73.37, the terms “irradiated reactor fuel” and “spent nuclear fuel” are used interchangeably.
@@ -112,7 +110,7 @@ Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
 
 (ii) The movement control center must be staffed continuously by at least one individual who will actively monitor the progress of the spent nuclear fuel shipment and who has the authority to coordinate the physical protection activities.
 
-(iii) The movement control center personnel must monitor the shipment continuously, *i.e.*, 24-hours per day, from the time the shipment commences, or if delivered to a carrier for transport, from the time of delivery of the shipment to the carrier, until safe delivery of the shipment at its final destination, and must immediately notify the appropriate agencies in the event of a safeguards event under the provisions of § 73.71 of this part.
+(iii) The movement control center personnel must monitor the shipment continuously, *i.e.*, 24-hours per day, from the time the shipment commences, or if delivered to a carrier for transport, from the time of delivery of the shipment to the carrier, until safe delivery of the shipment at its final destination, and must immediately notify the appropriate agencies in the event of a safeguards event under the provisions of § 73.1200 of this part.
 
 (iv) The movement control center personnel and the armed escorts must maintain a written log for each spent nuclear fuel shipment, which will include information describing the shipment and significant events that occur during the shipment. The log must be available for review by authorized NRC personnel for a period of at least 3 years following completion of the shipment.
 
@@ -122,7 +120,7 @@ Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
 
 (B) Roles and responsibilities of the movement control center personnel, drivers, armed escorts and other individuals relative to the security of the shipment;
 
-(C) Reporting of safeguards events under § 73.71 of this part;
+(C) Reporting of safeguards events under § 73.1200 of this part;
 
 (D) Communications protocols that include a strategy for the use of authentication and duress codes, the management of refueling or other stops, detours, and the loss of communications, temporarily or otherwise; and
 
@@ -137,6 +135,12 @@ Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
 (B) Provide that shipment escorts communicate with the movement control center at random intervals, not to exceed 2 hours, to advise of the status of the shipment for road and rail shipments, and for sea shipments while shipment vessels are docked at U.S. ports; and
 
 (C) Provide that at least one armed escort remains alert at all times, maintains constant visual surveillance of the shipment, and periodically reports to the movement control center at regular intervals not to exceed 30 minutes during periods when the shipment vehicle is stopped, or the shipment vessel is docked.
+
+(viii)(A) The licensee must ensure that the firearms background check requirements of § 73.17 are met for all armed escorts whose official duties require access to covered weapons or who inventory enhanced weapons.
+
+(B) The provisions of this paragraph are only applicable to licensees subject to this section who are also subject to the firearms background check provisions of § 73.17.
+
+(C) The provisions of this paragraph are not applicable to members of local law enforcement agencies serving as armed escorts or ship's officers serving as unarmed escorts.
 
 (4) *Contingency and response procedures.* (i) In addition to the procedures established under paragraph (b)(3)(v) of this section, the licensee shall establish, maintain, and follow written contingency and response procedures to address threats, thefts, and radiological sabotage related to spent nuclear fuel in transit.
 
@@ -202,4 +206,4 @@ Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
 
 (g) State officials, State employees, Tribal officials, Tribal employees, and other individuals, whether or not licensees of the NRC, who receive information of the kind specified in paragraph (b)(2)(iii) of this section and any other Safeguards Information as defined in § 73.22(a) of this part shall protect that information against unauthorized disclosure as specified in §§ 73.21 and 73.22 of this part.
 
-\[78 FR 29550, May 20, 2013, as amended at 79 FR 75741, Dec. 19, 2014; 80 FR 74981, Dec. 1, 2015; 83 FR 30288, June 28, 2018; 83 FR 58723, Nov. 21, 2018; 86 FR 43403, Aug. 9, 2021\]
+\[78 FR 29550, May 20, 2013, as amended at 79 FR 75741, Dec. 19, 2014; 80 FR 74981, Dec. 1, 2015; 83 FR 30288, June 28, 2018; 83 FR 58723, Nov. 21, 2018; 86 FR 43403, Aug. 9, 2021; 88 FR 15890, Mar. 14, 2023\]

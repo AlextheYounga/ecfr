@@ -1,7 +1,5 @@
 ##### § 73.67 Licensee fixed site and in-transit requirements for the physical protection of special nuclear material of moderate and low strategic significance.
 
-Link to an amendment published at 88 FR 15891, Mar. 14, 2023.
-
 (a) *General performance objectives.* (1) Each licensee who possesses, uses or transports special nuclear material of moderate or low strategic significance shall establish and maintain a physical protection system that will achieve the following objectives:
 
 (i) Minimize the possibilities for unauthorized removal of special nuclear material consistent with the potential consequences of such actions; and
@@ -90,7 +88,7 @@ Link to an amendment published at 88 FR 15891, Mar. 14, 2023.
 
 (vi) Initiate immediately a trace investigation of any shipment that is determined to be lost or unaccounted for after a reasonable time beyond the estimated arrival time.
 
-(vii) Notify the NRC Headquarters Operations Center by telephone at the numbers specified in appendix A to this part within one hour after the discovery of the loss of the shipment and within one hour after recovery of or accounting for such lost shipment in accordance with the provisions of § 73.71 of this part.
+(vii) Notify the NRC Operations Center after the discovery of the loss of the shipment and after recovery of or accounting for such lost shipment, in accordance with the provisions of §§ 73.1200 and 73.1205 of this part.
 
 (4) Each licensee who arranges the physical protection of strategic special nuclear material in quantities of moderate strategic significance while in transit or who takes delivery of this material free on board (f.o.b.) the point at which it is delivered to a carrier for transport shall comply with the requirements of paragraphs (e) (1), (2), and (3) of this section. The licensee shall retain each record required by paragraphs (e) (1), (2), (3), and (4) (i) and (ii) of this section for three years after close of period licensee possesses special nuclear material under each license that authorizes these licensee activities. Copies of superseded material must be retained for three years after each change. In addition, the licensee shall—
 
@@ -162,4 +160,4 @@ Link to an amendment published at 88 FR 15891, Mar. 14, 2023.
 
 (ii) Notify the person who delivered the material to a carrier for transport of the arrival of such material.
 
-\[44 FR 43283, July 24, 1979. Redesignated at 44 FR 68198, Nov. 28, 1979, as amended at 45 FR 19215, Mar. 25, 1980; 47 FR 19114, May 4, 1982; 52 FR 21657, June 9, 1987; 53 FR 19260, May 27, 1988; 57 FR 33431, July 29, 1992, 59 FR 14087, Mar. 25, 1994; 67 FR 3586, Jan. 25, 2002; 67 FR 78143, Dec. 23, 2002; 68 FR 14530, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 73 FR 32463, June 9, 2008; 74 FR 62684, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018; 85 FR 65664, Oct. 16, 2020; 86 FR 43403, Aug. 9, 2021\]
+\[44 FR 43283, July 24, 1979. Redesignated at 44 FR 68198, Nov. 28, 1979, as amended at 45 FR 19215, Mar. 25, 1980; 47 FR 19114, May 4, 1982; 52 FR 21657, June 9, 1987; 53 FR 19260, May 27, 1988; 57 FR 33431, July 29, 1992, 59 FR 14087, Mar. 25, 1994; 67 FR 3586, Jan. 25, 2002; 67 FR 78143, Dec. 23, 2002; 68 FR 14530, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 73 FR 32463, June 9, 2008; 74 FR 62684, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018; 85 FR 65664, Oct. 16, 2020; 86 FR 43403, Aug. 9, 2021; 88 FR 15891, Mar. 14, 2023\]

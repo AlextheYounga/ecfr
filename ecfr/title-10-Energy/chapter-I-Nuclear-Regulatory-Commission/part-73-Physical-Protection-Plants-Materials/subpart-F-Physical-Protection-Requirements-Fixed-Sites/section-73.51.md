@@ -1,7 +1,5 @@
 ##### § 73.51 Requirements for the physical protection of stored spent nuclear fuel and high-level radioactive waste.
 
-Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
-
 (a) *Applicability.* Notwithstanding the provisions of §§ 73.20, 73.50, or 73.67, the physical protection requirements of this section apply to each licensee that stores spent nuclear fuel and high-level radioactive waste pursuant to paragraphs (a)(1)(i), (ii), and (2) of this section. This includes—
 
 (1) Spent nuclear fuel and high-level radioactive waste stored under a specific license issued pursuant to part 72 of this chapter:
@@ -27,6 +25,10 @@ Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
 (v) Manage the physical protection organization in a manner that maintains its effectiveness.
 
 (3) The physical protection system must be designed to protect against loss of control of the facility that could be sufficient to cause a radiation exposure exceeding the dose as described in § 72.106 of this chapter.
+
+(4)(i) The licensee must ensure that the firearms background check requirements of § 73.17 of this part are met for all members of the security organization whose official duties require access to covered weapons or who inventory enhanced weapons.
+
+(ii) The provisions of this paragraph are only applicable to licensees subject to this section who are also subject to the firearms background check provisions of § 73.17 of this part.
 
 (c) *Plan retention.* Each licensee subject to this section shall retain a copy of the effective physical protection plan as a record for 3 years or until termination of the license for which procedures were developed.
 
@@ -56,7 +58,7 @@ Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
 
 (12) The physical protection program must be reviewed once every 24 months by individuals independent of both physical protection program management and personnel who have direct responsibility for implementation of the physical protection program. The physical protection program review must include an evaluation of the effectiveness of the physical protection system and a verification of the liaison established with the designated response force or LLEA.
 
-(13) The following documentation must be retained as a record for 3 years after the record is made or until termination of the license. Duplicate records to those required under § 72.180 of part 72 and § 73.71 of this part need not be retained under the requirements of this section:
+(13) The following documentation must be retained as a record for 3 years after the record is made or until termination of the license. Duplicate records to those required under § 72.180 of part 72 and § 73.1210 of this part need not be retained under the requirements of this section:
 
 (i) A log of individuals granted access to the protected area;
 
@@ -68,6 +70,8 @@ Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
 
 (v) The physical protection program review reports.
 
-(e) A licensee that operates a GROA is exempt from the requirements of this section for that GROA after permanent closure of the GROA.
+(e) *GROA exemption.* A licensee that operates a GROA is exempt from the requirements of this section for that GROA after permanent closure of the GROA.
 
-\[63 FR 26962, May 15, 1998, as amended at 63 FR 49414, Sept. 16, 1998; 66 FR 55816, Nov. 2, 2001\]
+(f) *Response requirements.* Licensees must train each armed member of the security organization with access to enhanced weapons on the use of deadly force when the armed member of the security organization has a reasonable belief that the use of deadly force is necessary in self-defense or in the defense of others, or any other circumstances as authorized by applicable State or Federal law.
+
+\[63 FR 26962, May 15, 1998, as amended at 63 FR 49414, Sept. 16, 1998; 66 FR 55816, Nov. 2, 2001; 88 FR 15890, Mar. 14, 2023\]

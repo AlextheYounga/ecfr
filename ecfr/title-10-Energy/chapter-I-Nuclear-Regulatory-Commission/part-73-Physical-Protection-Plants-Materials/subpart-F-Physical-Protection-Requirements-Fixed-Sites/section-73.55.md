@@ -1,7 +1,5 @@
 ##### § 73.55 Requirements for physical protection of licensed activities in nuclear power reactors against radiological sabotage.
 
-Link to an amendment published at 88 FR 15891, Mar. 14, 2023.
-
 (a) *Introduction.* (1) By March 31, 2010, each nuclear power reactor licensee, licensed under 10 CFR part 50, shall implement the requirements of this section through its Commission-approved Physical Security Plan, Training and Qualification Plan, Safeguards Contingency Plan, and Cyber Security Plan referred to collectively hereafter as “security plans.” Current applicants for an operating license under 10 CFR part 50, or combined license under 10 CFR part 52 who have submitted their applications to the Commission prior to the effective date of this rule must amend their applications to include security plans consistent with this section.
 
 (2) The security plans must identify, describe, and account for site-specific conditions that affect the licensee's capability to satisfy the requirements of this section.
@@ -51,6 +49,10 @@ Link to an amendment published at 88 FR 15891, Mar. 14, 2023.
 (10) The licensee shall use the site corrective action program to track, trend, correct and prevent recurrence of failures and deficiencies in the physical protection program.
 
 (11) Implementation of security plans and associated procedures must be coordinated with other onsite plans and procedures to preclude conflict during both normal and emergency conditions.
+
+(12)(i) The licensee must ensure that the firearms background check requirements of § 73.17 of this part are met for all members of the security organization whose official duties require access to covered weapons or who inventory enhanced weapons.
+
+(ii) The provisions of this paragraph are only applicable to licensees subject to this section that are also subject to the firearms background check provisions of § 73.17 of this part.
 
 (c) *Security plans.* (1) Licensee security plans must describe:
 
@@ -554,7 +556,7 @@ Link to an amendment published at 88 FR 15891, Mar. 14, 2023.
 
 (2) Suspended security measures must be reinstated as soon as conditions permit.
 
-(3) The suspension of security measures must be reported and documented in accordance with the provisions of § 73.71.
+(3) The suspension of security measures must be reported and documented in accordance with the provisions of §§ 73.1200 and 73.1205 of this part.
 
 (q) *Records.* (1) The Commission may inspect, copy, retain, and remove all reports, records, and documents required to be kept by Commission regulations, orders, or license conditions, whether the reports, records, and documents are kept by the licensee or a contractor.
 
@@ -582,4 +584,4 @@ Link to an amendment published at 88 FR 15891, Mar. 14, 2023.
 
 (iii) Based on comparison of the costs of the alternative measures to the costs of meeting the Commission's requirements using the essential elements of 10 CFR 50.109, the costs of fully meeting the Commission's requirements are not justified by the protection that would be provided.
 
-\[74 FR 13971, Mar. 27, 2009, as amended at 77 FR 39909, July 6, 2012\]
+\[74 FR 13971, Mar. 27, 2009, as amended at 77 FR 39909, July 6, 2012; 88 FR 15891, Mar. 14, 2023\]

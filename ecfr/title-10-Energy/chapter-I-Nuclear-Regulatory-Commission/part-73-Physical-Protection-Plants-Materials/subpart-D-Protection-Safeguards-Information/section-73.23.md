@@ -1,7 +1,5 @@
 ##### § 73.23 Protection of Safeguards Information—Modified Handling: Specific requirements.
 
-Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
-
 This section contains specific requirements for the protection of Safeguards Information in the hands of any person subject to the requirements of § 73.21(a)(1)(ii) and research and test reactors that possess special nuclear material of moderate strategic significance or special nuclear material of low strategic significance. The requirements of this section distinguish Safeguards Information requiring modified handling requirements (SGI-M) from the specific Safeguards Information handling requirements applicable to facilities and materials needing a higher level of protection, as set forth in § 73.22.
 
 (a) *Information to be protected.* The types of information and documents that must be protected as Safeguards Information—Modified Handling include non-public security-related requirements such as protective measures, interim compensatory measures, additional security measures, and the following, as applicable:
@@ -86,7 +84,7 @@ This section contains specific requirements for the protection of Safeguards Inf
 
 (2) Safeguards Information designated Safeguards Information-Modified Handling may be transported by any commercial delivery company that provides service with computer tracking features, U.S. first class, registered, express, or certified mail, or by any individual authorized access pursuant to these requirements.
 
-(3) Except under emergency or extraordinary conditions, Safeguards Information designated as Safeguards Information-Modified Handling must be transmitted electronically only by protected telecommunications circuits (including facsimile) or encryption by a method (Federal Information Processing Standard \[FIPS\] 140-2 or later) approved by the appropriate NRC office. For the purpose of this section, emergency or extraordinary conditions are defined as any circumstances that require immediate communications in order to report, summon assistance for, or respond to a security contingency event or an event that has potential security significance. Physical security events required to be reported pursuant to § 73.71 are considered to be extraordinary conditions.
+(3) Except under emergency or extraordinary conditions, Safeguards Information designated as Safeguards Information-Modified Handling must be transmitted electronically only by protected telecommunications circuits (including facsimile) or encryption by a method (Federal Information Processing Standard \[FIPS\] 140-2 or later) approved by the appropriate NRC office. For the purpose of this section, emergency or extraordinary conditions are defined as any circumstances that require immediate communications in order to report, summon assistance for, or respond to a security contingency event or an event that has potential security significance. Physical security events required to be reported pursuant to §§ 73.1200 and 73.1205 are considered to be extraordinary conditions.
 
 (g) *Processing of Safeguards Information-Modified Handling on electronic systems.* (1) Safeguards Information designated for modified handling may be stored, processed or produced on a computer or computer system, provided that the system is assigned to the licensee's or contractor's facility. Safeguards Information designated as Safeguards Information-Modified Handling files must be protected, either by a password or encryption, to prevent unauthorized individuals from gaining access. Word processors such as typewriters are not subject to these requirements as long as they do not transmit information off-site.
 
@@ -104,4 +102,4 @@ If Safeguards Information designated as Safeguards Information-Modified Handling
 
 (i) *Destruction of matter containing Safeguards Information designated as Safeguards Information-Modified Handling.* Documents or other matter containing Safeguards Information shall be destroyed when no longer needed. The information can be destroyed by burning, shredding, or any other method that precludes reconstruction by means available to the public at large. Piece sizes no wider than one quarter inch composed of several pages or documents and thoroughly mixed are considered completely destroyed.
 
-\[73 FR 63577, Oct. 24, 2008\]
+\[73 FR 63577, Oct. 24, 2008, as amended at 88 FR 15890, Mar. 14, 2023\]
