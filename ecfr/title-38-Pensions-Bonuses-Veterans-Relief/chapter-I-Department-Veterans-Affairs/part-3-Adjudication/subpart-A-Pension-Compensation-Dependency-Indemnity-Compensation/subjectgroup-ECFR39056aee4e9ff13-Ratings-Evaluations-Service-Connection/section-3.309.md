@@ -100,6 +100,12 @@ For the purposes of this section, the term “urinary tract” means the kidneys
 
 (E) Service in a capacity which, if performed as an employee of the Department of Energy, would qualify the individual for inclusion as a member of the Special Exposure Cohort under section 3621(14) of the Energy Employees Occupational Illness Compensation Program Act of 2000 (42 U.S.C. 7384l(14)).
 
+(F) Cleanup of Enewetak Atoll during the period beginning on January 1,1977, and ending on December 31, 1980.
+
+(G) Onsite participation in the response effort following the collision of a United States Air Force B-52 bomber and refueling plane that caused the release of four thermonuclear weapons in the vicinity of Palomares, Spain, during the period beginning January 17, 1966, and ending March 31, 1967.
+
+(H) Onsite participation in the response effort following the on-board fire and crash of a United States Air Force B-52 bomber that caused the release of four thermonuclear weapons in the vicinity of Thule Air Force Base, Greenland, during the period beginning January 21, 1968, and ending September 25, 1968.
+
 (iii) The term *atmospheric detonation* includes underwater nuclear detonations.
 
 (iv) The term *onsite participation* means:
