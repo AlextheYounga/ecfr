@@ -1,6 +1,6 @@
 ##### § 534.203 Maximum stipends.
 
-(a) Except as authorized under paragraph (b) or (c) of this section, stipends are to be set by the agency, subject to the maximum stipends prescribed in the following table:
+(a) Except as authorized under paragraph (b) or (c) of this section, stipends are to be set by the agency, subject to the maximum stipends prescribed in the following table: 
 
 Maximum Stipends Prescribed
 | Code symbol                                                                                                                                                                                                                                                                    | Academic level of approved training program | Maximums by grade and step 1 |
@@ -27,10 +27,10 @@ Maximum Stipends Prescribed
 | L-13                                                                                                                                                                                                                                                                           | Fifth year medical residency                | GS-14-1 (minus 3 steps).     |
 | 1 The maximum money amount in each case is derived by subtracting from the statutory salary for the appropriate grade a sum equivalent to three step increments of that grade. This amount includes overtime pay, maintenance allowances, and other payments in money or kind. |                                             |                              |
 
-(b) An agency may pay a student-employee a stipend in excess of the amount prescribed under paragraph (a) of this section only if the Office of Personnel Management has determined that a higher maximum stipend is warranted for the student-employee.
+(b) An agency may pay a student-employee a stipend in excess of the amount prescribed under paragraph (a) of this section only if the Office of Personnel Management has determined that a higher maximum stipend is warranted for the student-employee. 
 
-(c) Maximum stipends for positions in the Public Health Service in which duty requires intimate contact with persons afflicted with leprosy are increased above the rates prescribed in paragraph (a) of this section to the same extent that additional pay is provided by Public Health Service Regulations (42 CFR 22.1) for employees subject to the General Schedule (part 531 of this chapter).
+(c) Maximum stipends for positions in the Public Health Service in which duty requires intimate contact with persons afflicted with leprosy are increased above the rates prescribed in paragraph (a) of this section to the same extent that additional pay is provided by Public Health Service Regulations (42 CFR 22.1) for employees subject to the General Schedule (part 531 of this chapter). 
 
-(d) Overtime pay, maintenance allowances, and other payments in money or kind for a student-employee must be considered as part of the student-employee's stipend for the purposes of this section, and therefore, may not be used to cause the stipend to exceed the maximum stipend established under this section.
+(d) Overtime pay, maintenance allowances, and other payments in money or kind for a student-employee must be considered as part of the student-employee's stipend for the purposes of this section, and therefore, may not be used to cause the stipend to exceed the maximum stipend established under this section. 
 
 (e) A trainee at a non-Federal hospital, clinic, or medical or dental laboratory who is assigned to a Federal hospital, clinic, or medical or dental laboratory as an affiliate for a part of his or her training may not receive a stipend from the Federal agency other than any maintenance allowance that is provided.

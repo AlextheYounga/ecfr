@@ -1,60 +1,60 @@
 ##### § 2641.202 Two-year restriction on any former employee's representations to United States concerning particular matter for which the employee had official responsibility.
 
-(a) *Basic prohibition of 18 U.S.C. 207(a)(2).* For two years after his Government service terminates, no former employee shall knowingly, with the intent to influence, make any communication to or appearance before an employee of the United States on behalf of any other person in connection with a particular matter involving a specific party or parties, in which the United States is a party or has a direct and substantial interest, and which such person knows or reasonably should know was actually pending under his official responsibility within the one-year period prior to the termination of his Government service.
+(a) *Basic prohibition of 18 U.S.C. 207(a)(2).* For two years after his Government service terminates, no former employee shall knowingly, with the intent to influence, make any communication to or appearance before an employee of the United States on behalf of any other person in connection with a particular matter involving a specific party or parties, in which the United States is a party or has a direct and substantial interest, and which such person knows or reasonably should know was actually pending under his official responsibility within the one-year period prior to the termination of his Government service. 
 
-(b) *Exceptions and waivers.* The prohibition of 18 U.S.C. 207(a)(2) does not apply to a former employee who is:
+(b) *Exceptions and waivers.* The prohibition of 18 U.S.C. 207(a)(2) does not apply to a former employee who is: 
 
-(1) Acting on behalf of the United States. *See* § 2641.301(a).
+(1) Acting on behalf of the United States. *See* § 2641.301(a). 
 
-(2) Acting as an elected State or local government official. *See* § 2641.301(b).
+(2) Acting as an elected State or local government official. *See* § 2641.301(b). 
 
-(3) Communicating scientific or technological information pursuant to procedures or certification. *See* § 2641.301(e).
+(3) Communicating scientific or technological information pursuant to procedures or certification. *See* § 2641.301(e). 
 
-(4) Testifying under oath. *See* § 2641.301(f).
+(4) Testifying under oath. *See* § 2641.301(f). 
 
-(5) Acting on behalf of an international organization pursuant to a waiver. *See* § 2641.301(h).
+(5) Acting on behalf of an international organization pursuant to a waiver. *See* § 2641.301(h). 
 
-(6) Acting as an employee of a Government-owned, contractor-operated entity pursuant to a waiver. *See* § 2641.301(i).
+(6) Acting as an employee of a Government-owned, contractor-operated entity pursuant to a waiver. *See* § 2641.301(i). 
 
-(c) *Commencement and length of restriction.* 18 U.S.C. 207(a)(2) is a two-year restriction that commences upon an employee's termination from Government service. *See* example 9 to paragraph (j) of this section.
+(c) *Commencement and length of restriction.* 18 U.S.C. 207(a)(2) is a two-year restriction that commences upon an employee's termination from Government service. *See* example 9 to paragraph (j) of this section. 
 
-(d) *Communication or appearance. See* § 2641.201(d).
+(d) *Communication or appearance. See* § 2641.201(d). 
 
-(e) *With the intent to influence. See* § 2641.201(e).
+(e) *With the intent to influence. See* § 2641.201(e). 
 
-(f) *To or before an employee of the United States See* § 2641.201(f).
+(f) *To or before an employee of the United States See* § 2641.201(f). 
 
-(g) *On behalf of any other person. See* § 2641.201(g).
+(g) *On behalf of any other person. See* § 2641.201(g). 
 
-(h) *Particular matter involving a specific party or parties. See* § 2641.201(h).
+(h) *Particular matter involving a specific party or parties. See* § 2641.201(h). 
 
-(i) *United States is a party or has a direct and substantial interest. See* § 2641.201(j).
+(i) *United States is a party or has a direct and substantial interest. See* § 2641.201(j). 
 
-(j) *Official responsibility*—(1) *Definition.* “Official responsibility” means the direct administrative or operating authority, whether intermediate or final, and either exercisable alone or with others, and either personally or through subordinates, to approve, disapprove, or otherwise direct Government action. Ordinarily, the scope of an employee's official responsibility is determined by those functions assigned by statute, regulation, Executive order, job description, or delegation of authority. All particular matters under consideration in an agency are under the official responsibility of the agency head and each is under that of any intermediate supervisor who supervises a person, including a subordinate, who actually participates in the matter or who has been assigned to participate in the matter within the scope of his official duties. A nonsupervisory employee does not have official responsibility for his own assignments within the meaning of section 207(a)(2). Authority to direct Government action concerning only ancillary or nonsubstantive aspects of a matter, such as budgeting, equal employment, scheduling, or format requirements does not, ordinarily, constitute official responsibility for the matter as a whole.
+(j) *Official responsibility*—(1) *Definition.* “Official responsibility” means the direct administrative or operating authority, whether intermediate or final, and either exercisable alone or with others, and either personally or through subordinates, to approve, disapprove, or otherwise direct Government action. Ordinarily, the scope of an employee's official responsibility is determined by those functions assigned by statute, regulation, Executive order, job description, or delegation of authority. All particular matters under consideration in an agency are under the official responsibility of the agency head and each is under that of any intermediate supervisor who supervises a person, including a subordinate, who actually participates in the matter or who has been assigned to participate in the matter within the scope of his official duties. A nonsupervisory employee does not have official responsibility for his own assignments within the meaning of section 207(a)(2). Authority to direct Government action concerning only ancillary or nonsubstantive aspects of a matter, such as budgeting, equal employment, scheduling, or format requirements does not, ordinarily, constitute official responsibility for the matter as a whole. 
 
-(2) *Actually pending.* A matter is actually pending under an employee's official responsibility if it has been referred to the employee for assignment or has been referred to or is under consideration by any person he supervises, including a subordinate. A matter remains pending even when it is not under “active” consideration. There is no requirement that the matter must have been pending under the employee's official responsibility for a certain length of time.
+(2) *Actually pending.* A matter is actually pending under an employee's official responsibility if it has been referred to the employee for assignment or has been referred to or is under consideration by any person he supervises, including a subordinate. A matter remains pending even when it is not under “active” consideration. There is no requirement that the matter must have been pending under the employee's official responsibility for a certain length of time. 
 
-(3) *Temporary duties.* An employee ordinarily acquires official responsibility for all matters within the scope of his position immediately upon assuming the position. However, under certain circumstances, an employee who is on detail (or other temporary assignment) to a position or who is serving in an “acting” status might not be deemed to have official responsibility for any matter by virtue of such temporary duties. Specifically, an employee performing such temporary duties will not thereby acquire official responsibility for matters within the scope of the position where he functions only in a limited “caretaker” capacity, as evidenced by such factors as:
+(3) *Temporary duties.* An employee ordinarily acquires official responsibility for all matters within the scope of his position immediately upon assuming the position. However, under certain circumstances, an employee who is on detail (or other temporary assignment) to a position or who is serving in an “acting” status might not be deemed to have official responsibility for any matter by virtue of such temporary duties. Specifically, an employee performing such temporary duties will not thereby acquire official responsibility for matters within the scope of the position where he functions only in a limited “caretaker” capacity, as evidenced by such factors as: 
 
-(i) Whether the employee serves in the position for no more than 60 consecutive calendar days;
+(i) Whether the employee serves in the position for no more than 60 consecutive calendar days; 
 
-(ii) Whether there is actually another incumbent for the position, who is temporarily absent, for example, on travel or leave;
+(ii) Whether there is actually another incumbent for the position, who is temporarily absent, for example, on travel or leave; 
 
-(iii) Whether there has been no event triggering the provisions of 5 U.S.C. 3345(a); and
+(iii) Whether there has been no event triggering the provisions of 5 U.S.C. 3345(a); and 
 
-(iv) Whether there are any other circumstances indicating that, given the temporary nature of the detail or acting status, there was no reasonable expectation of the full authority of the position.
+(iv) Whether there are any other circumstances indicating that, given the temporary nature of the detail or acting status, there was no reasonable expectation of the full authority of the position. 
 
-(4) *Effect of leave status.* The scope of an employee's official responsibility is not affected by annual leave, terminal leave, sick leave, excused absence, leave without pay, or similar absence from assigned duties.
+(4) *Effect of leave status.* The scope of an employee's official responsibility is not affected by annual leave, terminal leave, sick leave, excused absence, leave without pay, or similar absence from assigned duties. 
 
-(5) *Effect of disqualification.* Official responsibility for a matter is not eliminated through self-disqualification or avoidance of personal participation in a matter, as when an employee is disqualified from participating in a matter in accordance with subparts D, E, or F of 5 CFR part 2635 or part 2640. Official responsibility for a matter can be terminated by a formal modification of an employee's responsibilities, such as by a change in the employee's position description.
+(5) *Effect of disqualification.* Official responsibility for a matter is not eliminated through self-disqualification or avoidance of personal participation in a matter, as when an employee is disqualified from participating in a matter in accordance with subparts D, E, or F of 5 CFR part 2635 or part 2640. Official responsibility for a matter can be terminated by a formal modification of an employee's responsibilities, such as by a change in the employee's position description. 
 
-(6) *One-year period before termination.* 18 U.S.C. 207(a)(2) applies only with respect to a particular matter that was actually pending under the former employee's official responsibility:
+(6) *One-year period before termination.* 18 U.S.C. 207(a)(2) applies only with respect to a particular matter that was actually pending under the former employee's official responsibility: 
 
-(i) At some time when the matter involved a specific party or parties; and
+(i) At some time when the matter involved a specific party or parties; and 
 
-(ii) Within his last year of Government service.
+(ii) Within his last year of Government service. 
 
-(7) *Knowledge of official responsibility.* A communication or appearance is not prohibited unless, at the time of the proposed post-employment communication or appearance, the former employee knows or reasonably should know that the matter was actually pending under his official responsibility within the one-year period prior to his termination from Government service. It is not necessary that a former employee have known during his Government service that the matter was actually pending under his official responsibility.
+(7) *Knowledge of official responsibility.* A communication or appearance is not prohibited unless, at the time of the proposed post-employment communication or appearance, the former employee knows or reasonably should know that the matter was actually pending under his official responsibility within the one-year period prior to his termination from Government service. It is not necessary that a former employee have known during his Government service that the matter was actually pending under his official responsibility. 
 
 Note to paragraph (j):
 

@@ -14,7 +14,7 @@
 
 *Warrant* means an order by which the State agency or local agency without the authority to issue checks recognizes a claim. Presentation of a warrant by the payee to a State officer with authority to issue checks will result in release of funds due.
 
-(c) *Refund of Federal financial participation (FFP) for uncashed checks*—(1) *General provisions.* If a check remains uncashed beyond a period of 180 days from the date it was issued; i.e., the date of the check, it will no longer be regarded as an allowable program expenditure. If the State has claimed and received FFP for the amount of the uncashed check, it must refund the amount of FFP received.
+(c) *Refund of Federal financial participation (FFP) for uncashed checks*—(1) *General provisions.* If a check remains uncashed beyond a period of 180 days from the date it was issued; *i.e.*, the date of the check, it will no longer be regarded as an allowable program expenditure. If the State has claimed and received FFP for the amount of the uncashed check, it must refund the amount of FFP received.
 
 (2) *Report of refund.* At the end of each calendar quarter, the State must identify those checks which remain uncashed beyond a period of 180 days after issuance. The State agency must refund all FFP that it received for uncashed checks by adjusting the Quarterly Statement of Expenditures for that quarter. If an uncashed check is cashed after the refund is made, the State may file a claim. The claim will be considered to be an adjustment to the costs for the quarter in which the check was originally claimed. This claim will be paid if otherwise allowed by the Act and the regulations issued pursuant to the Act.
 

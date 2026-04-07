@@ -1,12 +1,12 @@
 ##### § 591.226 How does OPM apply the CPIs?
 
-(a) OPM uses a three-step process to adjust price indexes by relative annual or biennial changes in the CPIs. For steps 1 and 2, OPM computes the annual change by dividing the CPI from 1 year after the survey by the CPI from the time of the survey. OPM computes the biennial change by dividing the CPI from 2 years after the survey by the CPI from the time of the survey.
+(a) OPM uses a three-step process to adjust price indexes by relative annual or biennial changes in the CPIs. For steps 1 and 2, OPM computes the annual change by dividing the CPI from 1 year after the survey by the CPI from the time of the survey. OPM computes the biennial change by dividing the CPI from 2 years after the survey by the CPI from the time of the survey. 
 
-(1) *Step 1.* OPM computes the annual or biennial CPI change for the COLA area.
+(1) *Step 1.* OPM computes the annual or biennial CPI change for the COLA area. 
 
-(2) *Step 2.* OPM computes the annual or biennial CPI change for the DC area.
+(2) *Step 2.* OPM computes the annual or biennial CPI change for the DC area. 
 
-(3) *Step 3.* OPM multiplies the COLA area price index from the last survey by the COLA area CPI change computed in step 1 divided by the DC area CPI change computed in step 2. The adjusted price index is rounded to the second decimal place.
+(3) *Step 3.* OPM multiplies the COLA area price index from the last survey by the COLA area CPI change computed in step 1 divided by the DC area CPI change computed in step 2. The adjusted price index is rounded to the second decimal place. 
 
 (b) *Example:*
 
@@ -19,6 +19,6 @@
 | 1 No survey.                 |        |        |
 | 2 N/A                        |        |        |
 
-Computation:
+Computation: 
 
 117.33 × (174.7/172.2)/(161.9/159.7) = 117.4159, which would round to 117.42.

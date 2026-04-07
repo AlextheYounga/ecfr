@@ -1,6 +1,6 @@
 ##### § 532.313 Private sector industries.
 
-(a) For appropriated fund surveys, the lead agency must use the private sector industries in the following North American Industry Classification System (NAICS) codes when it makes its wage schedule determinations for each specialized Federal industry:
+(a) For appropriated fund surveys, the lead agency must use the private sector industries in the following North American Industry Classification System (NAICS) codes when it makes its wage schedule determinations for each specialized Federal industry: 
 
 | 2022 NAICS codes                                             | 2022 NAICS industry titles                                                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
@@ -136,8 +136,8 @@
 | **Small Arms Specialized Industry**                          |                                                                                                                     |
 | 332994                                                       | Small arms manufacturing.                                                                                           |
 
-(b) For wage surveys involving the specialized Federal industry “Artillery and Combat Vehicles” in paragraph (a) of this section, the lead agency must limit special job coverage for industries in NAICS codes 2211, 2212, 32732, 484, 4862, 5621, 492, 5171, 5172, and 5173 to automotive mechanic, diesel engine mechanic, and heavy mobile equipment mechanic.
+(b) For wage surveys involving the specialized Federal industry “Artillery and Combat Vehicles” in paragraph (a) of this section, the lead agency must limit special job coverage for industries in NAICS codes 2211, 2212, 32732, 484, 4862, 5621, 492, 5171, 5172, and 5173 to automotive mechanic, diesel engine mechanic, and heavy mobile equipment mechanic. 
 
-(c) For nonappropriated fund wage surveys, the lead agency must use NAICS codes 71111, 7221, 7222, 72231, 72232, and 7224 (eating and drinking places) when it determines a wage schedule for a specialized industry.
+(c) For nonappropriated fund wage surveys, the lead agency must use NAICS codes 71111, 7221, 7222, 72231, 72232, and 7224 (eating and drinking places) when it determines a wage schedule for a specialized industry. 
 
 \[71 FR 35375, June 20, 2006, as amended at 73 FR 45853, Aug. 7, 2008; 78 FR 58154, Sept. 23, 2013; 79 FR 21121, Apr. 15, 2014; 84 FR 36814, July 30, 2019; 89 FR 4541, Jan. 24, 2024\]

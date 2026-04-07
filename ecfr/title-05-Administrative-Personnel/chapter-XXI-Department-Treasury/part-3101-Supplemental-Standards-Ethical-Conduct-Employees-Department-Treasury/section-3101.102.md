@@ -1,26 +1,26 @@
 ##### § 3101.102 Designation of separate agency components.
 
-Pursuant to 5 CFR 2635.203(a), each of the following components of the Department of the Treasury is designated as a separate agency for purposes of the regulations contained in subpart B of 5 CFR part 2635 governing gifts from outside sources and 5 CFR 2635.807 governing teaching, speaking or writing:
+Pursuant to 5 CFR 2635.203(a), each of the following components of the Department of the Treasury is designated as a separate agency for purposes of the regulations contained in subpart B of 5 CFR part 2635 governing gifts from outside sources and 5 CFR 2635.807 governing teaching, speaking or writing: 
 
-(a) Alcohol and Tobacco Tax and Trade Bureau (TTB);
+(a) Alcohol and Tobacco Tax and Trade Bureau (TTB); 
 
-(b) Bureau of Engraving and Printing;
+(b) Bureau of Engraving and Printing; 
 
-(c) Bureau of the Fiscal Service (BFS);
+(c) Bureau of the Fiscal Service (BFS); 
 
-(d) Financial Crimes Enforcement Network (FinCEN);
+(d) Financial Crimes Enforcement Network (FinCEN); 
 
-(e) Internal Revenue Service (IRS);
+(e) Internal Revenue Service (IRS); 
 
-(f) Office of the Comptroller of the Currency (OCC);
+(f) Office of the Comptroller of the Currency (OCC); 
 
-(g) Office of the Inspector General;
+(g) Office of the Inspector General; 
 
-(h) Office of the Special Inspector General for the Troubled Asset Relief Program (SIGTARP);
+(h) Office of the Special Inspector General for the Troubled Asset Relief Program (SIGTARP); 
 
-(i) Office of the Treasury Inspector General for Tax Administration (TIGTA); and
+(i) Office of the Treasury Inspector General for Tax Administration (TIGTA); and 
 
-(j) United States Mint.
+(j) United States Mint. 
 
 Note to § 3101.102:
 

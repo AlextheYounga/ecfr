@@ -1,6 +1,6 @@
 ##### § 591.227 What adjustment factors does OPM add to the price indexes?
 
-OPM adds to the price index an adjustment factor that reflects differences in need, access to and availability of goods and services, and quality of life in the COLA area relative to the DC area. The following table shows the adjustment factor for each area:
+OPM adds to the price index an adjustment factor that reflects differences in need, access to and availability of goods and services, and quality of life in the COLA area relative to the DC area. The following table shows the adjustment factor for each area: 
 
 | COLA area                          | Amount |
 | ---------------------------------- | ------ |

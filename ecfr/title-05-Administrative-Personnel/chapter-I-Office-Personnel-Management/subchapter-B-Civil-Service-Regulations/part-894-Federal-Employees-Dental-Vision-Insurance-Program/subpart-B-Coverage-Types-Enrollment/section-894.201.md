@@ -4,7 +4,7 @@ FEDVIP has three *types of enrollment:*
 
 (a) Self only, which covers only the *enrollee;*
 
-(b) Self plus one, which covers the *enrollee* plus one *family member;* and
+(b) Self plus one, which covers the *enrollee* plus one *family member;* and 
 
 (c) Self and family, which covers the *enrollee* and all *family members.*
 

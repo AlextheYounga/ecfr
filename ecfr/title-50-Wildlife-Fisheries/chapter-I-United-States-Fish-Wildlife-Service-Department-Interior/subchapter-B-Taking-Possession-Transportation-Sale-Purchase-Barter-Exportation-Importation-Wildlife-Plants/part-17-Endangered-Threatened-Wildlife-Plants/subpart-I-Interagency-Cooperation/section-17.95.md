@@ -20779,6 +20779,234 @@ Canoe Creek Clubshell (*Pleurobema athearni*)
 
 (vii) Fish hosts, with adequate living, foraging, and spawning areas for them.
 
+Guadalupe Fatmucket (*Lampsilis bergmanni*)
+
+(1) A critical habitat unit is depicted for Kendall and Kerr Counties, Texas, on the map in this entry.
+
+(2) Within this area, the physical or biological features essential to the conservation of Guadalupe fatmucket consist of the following components within waters and streambeds up to the ordinary high-water mark:
+
+(i) Flowing water at moderate to high rates with sufficient depth to remain sufficiently cool and oxygenated during low-flow periods;
+
+(ii) Substrate including bedrock and boulder crevices, point bars, and vegetated run habitat comprising sand, gravel, and larger cobbles;
+
+(iii) Green sunfish (*Lepomis cyanellus*), bluegill (*L. macrochirus*), largemouth bass (*Micropterus salmoides*), and Guadalupe bass (*M. treculii*) present; and
+
+(iv) Water quality parameters within the following ranges:
+
+(A) Dissolved oxygen greater than 2 milligrams per liter (mg/L);
+
+(B) Salinity less than 2 parts per thousand;
+
+(C) Total ammonia less than 0.77 mg/L total ammonia nitrogen;
+
+(D) Water temperature below 29 °C (84.2 °F); and
+
+(E) Low levels of contaminants.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 5, 2024.
+
+(4) Data layers defining the map unit were created on a base of U.S. Geological Survey digital ortho-photo quarter-quadrangles, and the critical habitat unit was then mapped using Universal Transverse Mercator (UTM) Zone 14N coordinates. The map in this entry, as modified by any accompanying regulatory text, establishes the boundaries of the critical habitat designation. The coordinates or plot points or both on which the map is based are available to the public at the Service's internet site at *https://www.fws.gov/office/austin-ecological-services*, at *https://www.regulations.gov* at Docket No. FWS-R2-ES-2019-0061, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Unit GUFM-1: Guadalupe River Unit; Kendall and Kerr Counties, Texas.
+
+(i) Unit GUFM-1 consists of three subunits:
+
+(A) Subunit GUFM-1a (North Fork Guadalupe River) consists of 6.9 river miles (mi) (11.0 kilometers (km)) in Kerr County, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(B) Subunit GUFM-1b (Johnson Creek) consists of 10.1 river mi (16.3 km) in Kerr County, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(C) Subunit GUFM-1c (Guadalupe River) consists of 35.2 river mi (56.7 km) in Kendall and Kerr Counties, Texas. This subunit is composed of lands in State/local government (7 percent) and private (93 percent) ownership.
+
+(ii) Unit GUFM-1 includes stream channel up to bankfull height.
+
+(iii) Map of Unit GUFM-1 follows:
+
+Figure 1 to Guadalupe Fatmucket (*Lampsilis bergmanni*) paragraph (5)(iii) ![](/graphics/er04jn24.001.gif)Texas Fatmucket (*Lampsilis bracteata*)
+
+(1) Critical habitat units are depicted for Blanco, Gillespie, Hays, Kimble, Llano, Mason, McCulloch, Menard, Runnels, San Saba, Sutton, and Travis Counties, Texas, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Texas fatmucket consist of the following components within waters and streambeds up to the ordinary high-water mark:
+
+(i) Flowing water at moderate to high rates with sufficient depth to remain sufficiently cool and oxygenated during low-flow periods;
+
+(ii) Substrate including bedrock and boulder crevices, point bars, and vegetated run habitat comprising sand, gravel, and larger cobbles;
+
+(iii) Green sunfish (*Lepomis cyanellus*), bluegill (*L. macrochirus*), largemouth bass (*Micropterus salmoides*), and Guadalupe bass (*M. treculii*) present; and
+
+(iv) Water quality parameters within the following ranges:
+
+(A) Dissolved oxygen greater than 2 milligrams per liter (mg/L);
+
+(B) Salinity less than 2 parts per thousand;
+
+(C) Total ammonia less than 0.77 mg/L total ammonia nitrogen;
+
+(D) Water temperature below 29 °C (84.2 °F); and
+
+(E) Low levels of contaminants.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 5, 2024.
+
+(4) Data layers defining the map units were created on a base of U.S. Geological Survey digital ortho-photo quarter-quadrangles, and the critical habitat units were then mapped using Universal Transverse Mercator (UTM) Zone 14N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which the maps are based are available to the public at the Service's internet site at *https://www.fws.gov/office/austin-ecological-services*, at *https://www.regulations.gov* at Docket No. FWS-R2-ES-2019-0061, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map of critical habitat units for the Texas fatmucket follows:
+
+Figure 1 to Texas Fatmucket (*Lampsilis bracteata*) paragraph (5) ![](/graphics/er04jn24.002.gif)
+
+(6) Unit TXFM-1: Elm Creek Unit; Runnels County, Texas.
+
+(i) Unit TXFM-1 consists of three subunits:
+
+(A) Subunit TXFM-1a (Bluff Creek) consists of 11.6 river miles (mi) (18.7 river kilometers (km)) in Runnels County, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(B) Subunit TXFM-1b (Lower Elm Creek) consists of 12.3 river mi (19.8 km) in Runnels County, Texas. This subunit is composed of lands in State/local government (3 percent) and private (97 percent) ownership.
+
+(C) Subunit TXFM-1c (Upper Elm Creek) consists of 8.9 river mi (14.4 km) in Runnels County, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(ii) Unit TXFM-1 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXFM-1 follows:
+
+Figure 2 to Texas Fatmucket (*Lampsilis bracteata*) paragraph (6)(iii) ![](/graphics/er04jn24.003.gif)
+
+(7) Unit TXFM-2: San Saba River Unit; Mason, McCulloch, Menard, and San Saba Counties, Texas.
+
+(i) Unit TXFM-2 consists of 90.8 river mi (146.1 km) in Mason, McCulloch, Menard, and San Saba Counties, Texas. All of the riparian lands that border this unit are in private ownership.
+
+(ii) Unit TXFM-2 includes stream channel up to bankfull height.
+
+(iii) Map of TXFM-2 follows:
+
+Figure 3 to Texas Fatmucket (*Lampsilis bracteata*) paragraph (7)(iii) ![](/graphics/er04jn24.004.gif)
+
+(8) Unit TXFM-3: Cherokee Creek Unit; San Saba County, Texas.
+
+(i) Unit TXFM-3 consists of 17.8 river mi (28.6 km) in San Saba County, Texas. All of the riparian lands that border this unit are in private ownership.
+
+(ii) Unit TXFM-3 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXFM-3 follows:
+
+Figure 4 to Texas Fatmucket (*Lampsilis bracteata*) paragraph (8)(iii) ![](/graphics/er04jn24.005.gif)
+
+(9) Unit TXFM-4: Llano River Unit; Gillespie, Kimble, Llano, Mason, and Sutton Counites, Texas.
+
+(i) Unit TXFM-4 consists of six subunits:
+
+(A) Subunit TXFM-4a (North Llano River) consists of 30.2 river mi (48.7 km) in Sutton and Kimble Counties, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(B) Subunit TXFM-4b (South Llano River) consists of 22.5 river mi (36.2 km) in Kimble County, Texas. This subunit is composed of lands in State/local government (10 percent) and private (90 percent) ownership.
+
+(C) Subunit TXFM-4c (Llano River) consists of 90.9 river mi (146.4 km) in Kimble, Llano, and Mason Counties, Texas. This subunit is composed of lands in State/local government (0.5 percent) and private (99.5 percent) ownership.
+
+(D) Subunit TXFM-4d (James River) consists of 18.3 river mi (29.4 km) in Kimble and Mason Counties, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(E) Subunit TXFM-4e (Threadgill Creek) consists of 8.1 river mi (13.1 km) in Gillespie and Mason Counties, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(F) Subunit TXFM-4f (Beaver Creek) consists of 12.7 river mi (20.5 km) in Mason County, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(ii) Unit TXFM-4 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXFM-4 follows:
+
+Figure 5 to Texas Fatmucket (*Lampsilis bracteata*) paragraph (9)(iii) ![](/graphics/er04jn24.006.gif)
+
+(10) Unit TXFM-5: Pedernales River Unit: Blanco, Gillespie, Hays, and Travis Counties, Texas.
+
+(i) Unit TXFM-5 consists of two subunits:
+
+(A) Subunit TXFM-5a (Pedernales River) consists of 78.2 river mi (125.8 km) in Blanco, Gillespie, Hays, and Travis Counties, Texas. This subunit is composed of lands in State/local government (10 percent), Federal Government (3 percent), and private (87 percent) ownership.
+
+(B) Subunit TXFM-5b (Live Oak Creek) consists of 2.6 river mi (4.2 km) in Gillespie County, Texas. This subunit is composed of lands in State/local government (54 percent) and private (46 percent) ownership.
+
+(ii) Unit TXFM-5 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXFM-5 follows:
+
+Figure 6 to Texas Fatmucket (*Lampsilis bracteata*) paragraph (10)(iii) ![](/graphics/er04jn24.007.gif)
+
+(11) Unit TXFM-6: Onion Creek Unit; Travis County, Texas.
+
+(i) Unit TXFM-6 consists of 23.5 river mi (37.8 km) in Travis County, Texas. This subunit is composed of lands in State/local government (56 percent) and private (44 percent) ownership.
+
+(ii) Unit TXFM-6 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXFM-6 follows:
+
+Figure 7 to Texas Fatmucket (*Lampsilis bracteata*) paragraph (11)(iii) ![](/graphics/er04jn24.008.gif)Texas Fawnsfoot (*Truncilla macrodon*)
+
+(1) Critical habitat units are depicted for Lampasas, Mills, Palo Pinto, Parker, San Saba, Shackelford, Stephens, and Throckmorton Counties, Texas, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Texas fawnsfoot consist of the following components within waters and streambeds up to the ordinary high-water mark:
+
+(i) Flowing water at rates suitable to prevent excess sedimentation but not so high as to dislodge individuals or sediment;
+
+(ii) Stable bank and riffle habitats with gravel, sand, silt, and mud substrates that are clean swept by flushing flows;
+
+(iii) Freshwater drum (*Aplodinotus grunniens*) present; and
+
+(iv) Water quality parameters within the following ranges:
+
+(A) Dissolved oxygen greater than 2 milligrams per liter (mg/L);
+
+(B) Salinity less than 2 parts per thousand;
+
+(C) Total ammonia less than 0.77 mg/L total ammonia nitrogen;
+
+(D) Water temperature below 29 °C (84.2 °F); and
+
+(E) Low levels of contaminants.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 5, 2024.
+
+(4) Data layers defining the map units were created on a base of U.S. Geological Survey digital ortho-photo quarter-quadrangles, and the critical habitat units were then mapped using Universal Transverse Mercator (UTM) Zone 14N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which the maps are based are available to the public at the Service's internet site at *https://www.fws.gov/office/austin-ecological-services*, at *https://www.regulations.gov* at Docket No. FWS-R2-ES-2019-0061, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map of critical habitat units for the Texas fawnsfoot follows:
+
+Figure 1 to Texas Fawnsfoot (*Truncilla macrodon*) paragraph (5) ![](/graphics/er04jn24.009.gif)
+
+(6) Unit TXFF-1: Clear Fork of the Brazos River Unit; Shackelford, Stephens, and Throckmorton Counties, Texas.
+
+(i) Unit TXFF-1 consists of two subunits:
+
+(A) Subunit TXFF-1a (Upper Clear Fork Brazos River) consists of 27.3 river miles (mi) (44.0 kilometers (km)) in Shackelford and Throckmorton Counties, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(B) Subunit TXFF-1b (Lower Clear Fork Brazos River) consists of 27.9 river mi (45.0 km) in Shackelford and Stephens Counties, Texas. This subunit is composed of lands in State/local government (1 percent) and private (99 percent) ownership.
+
+(ii) Unit TXFF-1 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXFF-1 follows:
+
+Figure 2 to Texas Fawnsfoot (*Truncilla macrodon*) paragraph (6)(iii) ![](/graphics/er04jn24.010.gif)
+
+(7) Unit TXFF-2: Upper Brazos River Unit; Palo Pinto and Parker Counties, Texas.
+
+(i) Unit TXFF-2 consists of 78.0 river mi (125.5 km) in Palo Pinto and Parker Counties, Texas. All of the riparian lands that border this unit are in private ownership.
+
+(ii) Unit TXFF-2 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXFF-2 follows:
+
+Figure 3 to Texas Fawnsfoot (*Truncilla macrodon*) paragraph (7)(iii) ![](/graphics/er04jn24.011.gif)
+
+(8) Units TXFF-3 and TXFF-4 are excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(9) Unit TXFF-5: Lower San Saba River and Upper Colorado River Unit; Lampasas, Mills, and San Saba Counties, Texas.
+
+(i) Unit TXFF-5 consists of two subunits:
+
+(A) Subunit TXFF-5a (Lower San Saba River) consists of 49.2 river mi (79.1 km) in San Saba County, Texas. The riparian lands that border this subunit are in State/local government (1 percent) and private (99 percent) ownership.
+
+(B) Subunit TXFF-5b (Upper Colorado River) consists of 10.3 river mi (16.6 km) in Lampasas, Mills, and San Saba Counties, Texas. All of the riparian lands that border this unit are in private ownership.
+
+(ii) Unit TXFF-5 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXFF-5 follows:
+
+Figure 4 to Texas Fawnsfoot (*Truncilla macrodon*) paragraph (9)(iii) ![](/graphics/er04jn24.012.gif)
+
+(10) Units TXFF-6, TXFF-7, and TXFF-8 are excluded from the designation pursuant to section 4(b)(2) of the Act.
+
 “Ouachita” Fanshell (*Cyprogenia* cf. *aberti*)
 
 (1) Critical habitat units are depicted for Ashley, Bradley, Clark, Cleveland, Dallas, Drew, Grant, Nevada, and Ouachita Counties, Arkansas, on the maps in this entry.
@@ -20967,7 +21195,65 @@ Carolina Heelsplitter (*Lasmigona decorata*)
 
 (vii) Fish hosts, with adequate living, foraging, and spawning areas for them.
 
-Round Hickorynut (*Obovaria subrotunda*)
+Guadalupe Orb (*Cyclonaias necki*)
+
+(1) Critical habitat units are depicted for Caldwell, Comal, DeWitt, Gonzales, Guadalupe, Kendall, Kerr, and Victoria Counties, Texas, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Guadalupe orb consist of the following components within waters and streambeds up to the ordinary high-water mark:
+
+(i) Flowing water at rates suitable to keep riffle habitats wetted and well-oxygenated and to prevent excess sedimentation or scour during high-flow events but not so high as to dislodge individuals;
+
+(ii) Stable riffles and runs with substrate composed of cobble, gravel, and fine sediments;
+
+(iii) Channel catfish (*Ictalurus punctatus*), flathead catfish (*Pylodictis olivaris*), and tadpole madtom (*Noturus gyrinus*) present; and
+
+(iv) Water quality parameters within the following ranges:
+
+(A) Dissolved oxygen greater than 2 milligrams per liter (mg/L);
+
+(B) Salinity less than 2 parts per thousand;
+
+(C) Total ammonia less than 0.77 mg/L total ammonia nitrogen;
+
+(D) Water temperature below 29 °C (84.2 °F); and
+
+(E) Low levels of contaminants.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 5, 2024.
+
+(4) Data layers defining the map units were created on a base of U.S. Geological Survey digital ortho-photo quarter-quadrangles, and the critical habitat units were then mapped using Universal Transverse Mercator (UTM) Zone 14N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which the maps are based are available to the public at the Service's internet site at *https://www.fws.gov/office/austin-ecological-services*, at *https://www.regulations.gov* at Docket No. FWS-R2-ES-2019-0061, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map of critical habitat units for the Guadalupe orb follows:
+
+Figure 1 to Guadalupe Orb (*Cyclonaias necki*) paragraph (5) ![](/graphics/er04jn24.013.gif)
+
+(6) Unit GORB-1: Upper Guadalupe River; Comal, Kendall, and Kerr Counties, Texas.
+
+(i) Unit GORB-1 consists of two subunits:
+
+(A) Subunit GORB-1a (South Fork Guadalupe River) consists of 5.1 river miles (mi) (8.2 kilometers (km)) in Kerr County, Texas. All of the riparian lands that border this unit are in private ownership.
+
+(B) Subunit GORB-1b (Upper Guadalupe River) consists of 97.1 river mi (156.3 km) of the Guadalupe River in Comal, Kendall, and Kerr Counties, Texas. The riparian lands that border this subunit are in State/local government (5 percent) and private (95 percent) ownership.
+
+(ii) Unit GORB-1 includes stream channel up to bankfull height.
+
+(iii) Map of Unit GORB-1 follows:
+
+Figure 2 to Guadalupe Orb (*Cyclonaias necki*) paragraph (6)(iii) ![](/graphics/er04jn24.014.gif)
+
+(7) Unit GORB-2: Lower Guadalupe River; Caldwell, DeWitt, Gonzales, Guadalupe, and Victoria Counties, Texas.
+
+(i) Unit GORB-2 consists of two subunits:
+
+(A) Subunit GORB-2a (San Marcos River) consists of 63.9 river mi (102.8 km) in Caldwell, Gonzales, and Guadalupe Counties, Texas. The riparian lands that border this subunit are in State/local government (6 percent) and private (94 percent) ownership.
+
+(B) Subunit GORB-2b (Lower Guadalupe River) consists of 122.4 river mi (197.0 km) in DeWitt, Gonzales, and Victoria Counties, Texas. The riparian lands that border this subunit are in State/local government (5 percent) and private (95 percent) ownership.
+
+(ii) Unit GORB-2 includes stream channel up to bankfull height.
+
+(iii) Map of Unit GORB-2 follows:
+
+Figure 3 to Guadalupe Orb (*Cyclonaias necki*) paragraph (7)(iii) ![](/graphics/er04jn24.015.gif)Round Hickorynut (*Obovaria subrotunda*)
 
 (1) Critical habitat units for the round hickorynut are depicted on the maps in this entry for Jackson, Madison, and Marshall Counties, Alabama; Fulton, Marshall, Pulaski, and Starke Counties, Indiana; Bath, Butler, Campbell, Edmonson, Fleming, Green, Harrison, Hart, Kenton, Laurel, Morgan, Nicholas, Pendleton, Pulaski, Rockcastle, Robertson, Rowan, and Warren Counties, Kentucky; Montgomery County, Mississippi; Bedford, Marshall, and Maury Counties, Tennessee; Ashtabula, Lake, and Trumbull Counties, Ohio; Crawford and Mercer Counties, Pennsylvania; and Braxton, Calhoun, Clay, Doddridge, Fayette, Gilmer, Kanawha, Pleasants, Ritchie, Tyler, and Wood Counties, West Virginia.
 
@@ -21859,7 +22145,199 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (ii) Map of Unit 3 (GP 3) for Georgia pigtoe (Hatchet Creek) follows:
 
-![](/graphics/er02no10.003.gif)Altamaha spinymussel (*Elliptio spinosa*).
+![](/graphics/er02no10.003.gif)Texas Pimpleback (*Cyclonaias petrina*)
+
+(1) Critical habitat units are depicted for Brown, Coleman, Concho, Kimble, Lampasas, Mason, McCulloch, Menard, Mills, Runnels, San Saba, and Tom Green Counties, Texas, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Texas pimpleback consist of the following components within waters and streambeds up to the ordinary high-water mark:
+
+(i) Flowing water at rates suitable to keep riffle habitats wetted and well-oxygenated and to prevent excess sedimentation or scour during high-flow events but not so high as to dislodge individuals;
+
+(ii) Stable riffles and runs with substrate composed of cobble, gravel, and fine sediments;
+
+(iii) Channel catfish (*Ictalurus punctatus*), flathead catfish (*Pylodictis olivaris*), and tadpole madtom (*Noturus gyrinus*) present; and
+
+(iv) Water quality parameters within the following ranges:
+
+(A) Dissolved oxygen greater than 2 milligrams per liter (mg/L);
+
+(B) Salinity less than 2 parts per thousand;
+
+(C) Total ammonia less than 0.77 mg/L total ammonia nitrogen;
+
+(D) Water temperature below 29 °C (84.2 °F); and
+
+(E) Low levels of contaminants.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 5, 2024.
+
+(4) Data layers defining the map units were created on a base of U.S. Geological Survey digital ortho-photo quarter-quadrangles, and the critical habitat units were then mapped using Universal Transverse Mercator (UTM) Zone 14N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which the maps are based are available to the public at the Service's internet site at *https://www.fws.gov/office/austin-ecological-services*, at *https://www.regulations.gov* at Docket No. FWS-R2-ES-2019-0061, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map of critical habitat units for the Texas pimpleback follows:
+
+Figure 1 to Texas Pimpleback (*Cyclonaias petrina*) paragraph (5) ![](/graphics/er04jn24.016.gif)
+
+(6) Unit TXPB-1: Elm Creek; Runnels County, Texas.
+
+(i) Unit TXPB-1 consists of two subunits:
+
+(A) Subunit TXPB-1a (Bluff Creek) consists of 11.6 river miles (mi) (18.7 kilometers (km)) in Runnels County, Texas. All of the riparian lands that border this unit are in private ownership.
+
+(B) Subunit TXPB-1b (Lower Elm Creek) consists of 12.3 river mi (19.8 km) in Runnels County, Texas. The riparian lands that border this subunit are in State/local government (3 percent) and private (97 percent) ownership.
+
+(ii) Unit TXPB-1 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXPB-1 follows:
+
+Figure 2 to Texas Pimpleback (*Cyclonaias petrina*) paragraph (6)(iii) ![](/graphics/er04jn24.017.gif)
+
+(7) Unit TXPB-2: Concho River; Concho and Tom Green Counties, Texas.
+
+(i) Unit TXPB-2 consists of two subunits:
+
+(A) Subunit TXPB-2a (Lower Concho River) consists of 34.6 river mi (55.7 km) in Concho and Tom Green Counties, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(B) Subunit TXPB-2b (Upper Concho River) consists of 15.5 river mi (25.0 km) of the Concho River in Tom Green County, Texas. The riparian lands that border this subunit are in State/local government (2 percent) and private (98 percent) ownership.
+
+(ii) Unit TXPB-2 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXPB-2 follows:
+
+Figure 3 to Texas Pimpleback (*Cyclonaias petrina*) paragraph (7)(iii) ![](/graphics/er04jn24.018.gif)
+
+(8) Unit TXPB-3: Upper Colorado River and Lower San Saba River; Brown, Coleman, Lampasas, McCulloch, Mills, and San Saba Counties, Texas.
+
+(i) Unit TXPB-3 consists of two subunits:
+
+(A) Subunit TXPB-3a (Upper Colorado River) consists of 150.4 river mi (242.1 km) in Brown, Coleman, Lampasas, McCulloch, Mills, and San Saba Counties, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(B) Subunit TXPB-3b (Lower San Saba River) consists of 49.2 river mi (79.1 km) in San Saba County, Texas. The riparian lands that border this subunit are in State/local government (1 percent) and private (99 percent) ownership.
+
+(ii) Unit TXPB-3 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXPB-3 follows:
+
+Figure 4 to Texas Pimpleback (*Cyclonaias petrina*) paragraph (8)(iii) ![](/graphics/er04jn24.019.gif)
+
+(9) Unit TXPB-4: Upper San Saba River; Menard County, Texas.
+
+(i) Unit TXPB-4 consists of approximately 51.4 river mi (82.7 km) in Menard County, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(ii) Unit TXPB-4 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXPB-4: Upper San Saba River follows:
+
+Figure 5 to Texas Pimpleback (*Cyclonaias petrina*) paragraph (9)(iii) ![](/graphics/er04jn24.020.gif)
+
+(10) Unit TXPB-5: Llano River; Kimble and Mason Counties, Texas.
+
+(i) Unit TXPB-5 consists of two subunits.
+
+(A) Subunit TXPB-5a (Upper Llano River) consists of 37.2 river mi (59.9 km) in Kimble and Mason Counties, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(B) Subunit TXPB-5b (Lower Llano River) consists of 11.8 river mi (19.1 km) in Mason County, Texas. All of the riparian lands that border this subunit are in private ownership.
+
+(ii) Unit TXPB-5 includes stream channel up to bankfull height.
+
+(iii) Map of Unit TXPB-5 follows:
+
+Figure 6 to Texas Pimpleback (*Cyclonaias petrina*) paragraph (10)(iii) ![](/graphics/er04jn24.021.gif)
+
+(11) Unit TXPB-6 is excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+Balcones Spike (*Fusconaia iheringi*)
+
+(1) Critical habitat units are depicted for Kimble, Mason, and San Saba Counties, Texas, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Balcones spike consist of the following components within waters and streambeds up to the ordinary high-water mark:
+
+(i) Flowing water at rates suitable to keep riffle habitats wetted and well-oxygenated and to prevent excess sedimentation but not so high as to dislodge individuals;
+
+(ii) Stable riffles and runs with cobble, gravel, and fine sediments;
+
+(iii) Blacktail shiner (*Cyprinella venusta*) and red shiner (*C. lutrensis*) present; and
+
+(iv) Water quality parameters within the following ranges:
+
+(A) Dissolved oxygen greater than 2 milligrams per liter (mg/L);
+
+(B) Salinity less than 2 parts per thousand;
+
+(C) Total ammonia less than 0.77 mg/L total ammonia nitrogen;
+
+(D) Water temperature below 29 °C (84.2 °F); and
+
+(E) Low levels of contaminants.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 5, 2024.
+
+(4) Data layers defining the map units were created on a base of U.S. Geological Survey digital ortho-photo quarter-quadrangles, and the critical habitat units were then mapped using Universal Transverse Mercator (UTM) Zone 14N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which the maps are based are available to the public at the Service's internet site at *https://www.fws.gov/office/austin-ecological-services*, at *https://www.regulations.gov* at Docket No. FWS-R2-ES-2019-0061, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map of critical habitat units for the Balcones spike follows:
+
+Figure 1 to Balcones Spike (*Fusconaia iheringi*) paragraph (5) ![](/graphics/er04jn24.022.gif)
+
+(6) Unit BASP-1 is excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(7) Unit BASP-2: San Saba River; San Saba County, Texas.
+
+(i) Unit BASP-2 consists of 49.1 river miles (mi) (79.0 milometers (km)) in San Saba County, Texas. The riparian lands that border this subunit are in State/local government (1 percent) and private (99 percent) ownership.
+
+(ii) Unit BASP-2 includes stream channel up to bankfull height.
+
+(iii) Map of Unit BASP-2 follows:
+
+Figure 2 to Balcones Spike (*Fusconaia iheringi*) paragraph (7)(iii) ![](/graphics/er04jn24.023.gif)
+
+(8) Unit BASP-3: Llano River; Kimble and Mason Counties, Texas.
+
+(i) Unit BASP-3 consists of 49 river mi (78.9 km) in Kimble and Mason Counties, Texas.
+
+(ii) Unit BASP-3 includes stream channel up to bankfull height.
+
+(iii) Map of Unit BASP-3 follows:
+
+Figure 3 to Balcones Spike (*Fusconaia iheringi*) paragraph (8)(iii) ![](/graphics/er04jn24.024.gif)False Spike (*Fusconaia mitchelli*)
+
+(1) The critical habitat unit is depicted for DeWitt, Gonzales, and Victoria Counties, Texas, on the map in this entry.
+
+(2) Within this area, the physical or biological features essential to the conservation of false spike consist of the following components within waters and streambeds up to the ordinary high-water mark:
+
+(i) Flowing water at rates suitable to keep riffle habitats wetted and well-oxygenated and to prevent excess sedimentation but not so high as to dislodge individuals;
+
+(ii) Stable riffles and runs with cobble, gravel, and fine sediments;
+
+(iii) Blacktail shiner (*Cyprinella venusta*) and red shiner (*C. lutrensis*) present; and
+
+(iv) Water quality parameters within the following ranges:
+
+(A) Dissolved oxygen greater than 2 milligrams per liter (mg/L);
+
+(B) Salinity less than 2 parts per thousand;
+
+(C) Total ammonia less than 0.77 mg/L total ammonia nitrogen;
+
+(D) Water temperature below 29 °C (84.2 °F); and
+
+(E) Low levels of contaminants.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 5, 2024.
+
+(4) Data layers defining the map unit were created on a base of U.S. Geological Survey digital ortho-photo quarter-quadrangles, and the critical habitat unit was then mapped using Universal Transverse Mercator (UTM) Zone 14N coordinates. The map in this entry, as modified by any accompanying regulatory text, establishes the boundaries of the critical habitat designation. The coordinates or plot points or both on which the map is based are available to the public at the Service's internet site at *https://www.fws.gov/office/austin-ecological-services*, at *https://www.regulations.gov* at Docket No. FWS-R2-ES-2019-0061, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Unit FASP-1: Guadalupe River; DeWitt, Gonzales, and Victoria Counties, Texas.
+
+(i) Unit FASP-1 consists of two subunits:
+
+(A) Subunit FASP-1a (San Marcos River) consists of 21.2 river miles (mi) (34 kilometers (km)) of the in Gonzales County, Texas. The riparian lands that border this subunit are in State (8 percent) and private (92 percent) ownership.
+
+(B) Subunit FASP-1b (Guadalupe River) consists of 122.4 river mi (197 km) of the Guadalupe River in DeWitt, Gonzales, and Victoria Counties, Texas. The riparian lands that border this subunit are in State (2 percent) and private (98 percent) ownership.
+
+(ii) Unit FASP-1 includes stream channel up to bankfull height.
+
+(iii) Map of Unit FASP-1 follows:
+
+Figure 1 to False Spike (*Fusconaia mitchelli*) paragraph (5)(iii) ![](/graphics/er04jn24.025.gif)Altamaha spinymussel (*Elliptio spinosa*).
 
 (1) Critical habitat units are depicted for Appling, Ben Hill, Coffee, Jeff Davis, Long, Montgomery, Tattnall, Telfair, Toombs, Wayne, and Wheeler Counties, Georgia, on the maps below.
 

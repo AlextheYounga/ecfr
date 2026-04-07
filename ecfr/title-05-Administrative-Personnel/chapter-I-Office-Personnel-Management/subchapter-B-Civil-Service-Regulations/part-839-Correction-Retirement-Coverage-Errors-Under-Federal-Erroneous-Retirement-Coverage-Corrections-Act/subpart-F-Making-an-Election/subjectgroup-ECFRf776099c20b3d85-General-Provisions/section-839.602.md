@@ -1,6 +1,6 @@
 ##### § 839.602 What if I don't make an election?
 
-(a) If your qualifying retirement coverage error was not previously corrected and you fail to make an election within the time limit under § 839.611(a), your retirement coverage is summarized in the following chart:
+(a) If your qualifying retirement coverage error was not previously corrected and you fail to make an election within the time limit under § 839.611(a), your retirement coverage is summarized in the following chart: 
 
 | If you are in:      | And you belong in:                        | You are   considered to have elected: |
 | ------------------- | ----------------------------------------- | ------------------------------------- |
