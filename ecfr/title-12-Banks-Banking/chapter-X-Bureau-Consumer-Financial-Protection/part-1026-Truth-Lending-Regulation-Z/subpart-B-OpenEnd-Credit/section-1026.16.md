@@ -96,7 +96,7 @@
 
 (i) When the promotional rate or promotional fee will end;
 
-(ii) The annual percentage rate that will apply after the end of the promotional period. If such rate is variable, the annual percentage rate must comply with the accuracy standards in §§ 1026.60(c)(2), 1026.60(d)(3), 1026.60(e)(4), or 1026.16(b)(1)(ii), as applicable. If such rate cannot be determined at the time disclosures are given because the rate depends at least in part on a later determination of the consumer's creditworthiness, the advertisement must disclose the specific rates or the range of rates that might apply; and
+(ii) The annual percentage rate that will apply after the end of the promotional period. If such rate is variable, the annual percentage rate must comply with the accuracy standards in § 1026.60(c)(2), § 1026.60(d)(3), § 1026.60(e)(4), or § 1026.16(b)(1)(ii), as applicable. If such rate cannot be determined at the time disclosures are given because the rate depends at least in part on a later determination of the consumer's creditworthiness, the advertisement must disclose the specific rates or the range of rates that might apply; and
 
 (iii) The fee that will apply after the end of the promotional period.
 

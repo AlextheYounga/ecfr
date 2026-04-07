@@ -70,7 +70,7 @@ For each transaction other than a mortgage transaction subject to § 1026.19(e) 
 
 (i) *Demand feature.* If the obligation has a demand feature, that fact shall be disclosed. When the disclosures are based on an assumed maturity of 1 year as provided in § 1026.17(c)(5), that fact shall also be disclosed.
 
-(j) *Total sale price.* In a credit sale, the *total sale price,* using that term, and a descriptive explanation (including the amount of any downpayment) such as “the total price of your purchase on credit, including your downpayment of $\_\_.” The total sale price is the sum of the cash price, the items described in paragraph (b)(2), and the finance charge disclosed under paragraph (d) of this section.
+(j) *Total sale price.* In a credit sale, the *total sale price,* using that term, and a descriptive explanation (including the amount of any downpayment) such as “the total price of your purchase on credit, including your downpayment of $\_\_\_\_.” The total sale price is the sum of the cash price, the items described in paragraph (b)(2), and the finance charge disclosed under paragraph (d) of this section.
 
 (k) *Prepayment.* (1) When an obligation includes a finance charge computed from time to time by application of a rate to the unpaid principal balance, a statement indicating whether or not a charge may be imposed for paying all or part of a loan's principal balance before the date on which the principal is due.
 
@@ -100,7 +100,7 @@ For each transaction other than a mortgage transaction subject to § 1026.19(e) 
 
 (1) *Form of disclosures.* The information in paragraphs (s)(2)-(4) of this section shall be in the form of a table, with no more than five columns, with headings and format substantially similar to Model Clause H-4(E), H-4(F), H-4(G), or H-4(H) in appendix H to this part. The table shall contain only the information required in paragraphs (s)(2)-(4) of this section, shall be placed in a prominent location, and shall be in a minimum 10-point font.
 
-(2) *Interest rates.* (i) *Amortizing loans.* (A) For a fixed-rate mortgage, the interest rate at consummation.
+(2) *Interest rates* - (i) *Amortizing loans.* (A) For a fixed-rate mortgage, the interest rate at consummation.
 
 (B) For an adjustable-rate or step-rate mortgage:
 
@@ -128,7 +128,7 @@ For each transaction other than a mortgage transaction subject to § 1026.19(e) 
 
 (C) The fully-indexed rate.
 
-(3) *Payments for amortizing loans.* (i) *Principal and interest payments.* If all periodic payments will be applied to accrued interest and principal, for each interest rate disclosed under paragraph (s)(2)(i) of this section:
+(3) *Payments for amortizing loans* - (i) *Principal and interest payments.* If all periodic payments will be applied to accrued interest and principal, for each interest rate disclosed under paragraph (s)(2)(i) of this section:
 
 (A) The corresponding periodic principal and interest payment, labeled as “principal and interest;”
 
