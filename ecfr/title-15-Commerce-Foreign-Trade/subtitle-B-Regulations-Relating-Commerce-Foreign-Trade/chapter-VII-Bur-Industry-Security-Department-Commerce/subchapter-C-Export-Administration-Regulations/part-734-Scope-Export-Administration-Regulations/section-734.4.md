@@ -18,11 +18,11 @@
 
 (7) Under certain rules issued by the Office of Foreign Assets Control, certain exports from abroad by U.S.-owned or controlled entities may be prohibited notwithstanding the *de minimis* provisions of the EAR. In addition, the *de minimis* rules do not relieve U.S. persons of the obligation to refrain from supporting the proliferation of weapons of mass-destruction and missiles as provided in § 744.6 of the EAR.
 
-(b) *Special requirements for certain encryption items.* Non-U.S.-made items that incorporate U.S.-origin items that are listed in this paragraph are subject to the EAR unless they meet the *de minimis* level and destination requirements of paragraph (c) or (d) of this section and the requirements of this paragraph.
+(b) *Special requirements for certain Category 5, Part 2 items.* Non-U.S.-made items that incorporate U.S.-origin items that are listed in this paragraph are subject to the EAR unless they meet the *de minimis* level and destination requirements of paragraph (c) or (d) of this section and the requirements of this paragraph.
 
-(1) The U.S.-origin commodities or software, if controlled under ECCN 5A002, ECCN 5B002, equivalent or related software therefor classified under ECCN 5D002, and “cryptanalytic items” classified under ECCN 5A004 or 5D002, must have been:
+(1) The U.S.-origin commodities or software, if controlled under ECCN 5A002, ECCN 5B002, equivalent or related software therefor classified under ECCN 5D002, and “cryptanalytic items” or digital forensics items (investigative tools) classified under ECCN 5A004 or 5D002, must have been:
 
-(i) Publicly available encryption source code classified under ECCN 5D002 that has met the notification requirement of § 742.15(b), see § 734.3(b)(3) of the EAR. Such source code does not have to be counted as controlled U.S.-origin content in a *de minimis* calculation;
+(i) Publicly available encryption source code classified under ECCN 5D002 that has met the criteria specified in § 742.15(b), see § 734.3(b)(3) of the EAR. Such source code does not have to be counted as controlled U.S.-origin content in a *de minimis* calculation;
 
 (ii) Authorized for License Exception ENC by BIS after classification pursuant to § 740.17(b)(3) of the EAR;
 
