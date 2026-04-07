@@ -28,7 +28,7 @@
 
 (b) *Responsible official or agent.* The certification provided for in paragraph (a) of this section must be signed and dated by a responsible official of the importer, exporter, or producer, or by the importer's, exporter's, or producer's authorized agent having knowledge of the relevant facts.
 
-(c) *Language.* The certification provided for in paragraph (a) of this section must be completed in either the English or Korean language. In the latter case, the Center directormay require the importer to submit an English translation of the certification.
+(c) *Language.* The certification provided for in paragraph (a) of this section must be completed in either the English or Korean language. In the latter case, the Center director may require the importer to submit an English translation of the certification.
 
 (d) *Certification by the exporter or producer.* (1) A certification may be prepared by the exporter or producer of the good on the basis of:
 
