@@ -42,7 +42,11 @@
 
 2746 
 
-(4) Pregabalin \[(S)-3-(aminomethyl)-5-methylhexanoic acid\]
+(4) Lasmiditan \[2,4,6-trifluoro-N-(6-(1-methylpiperidine-4-carbonyl)pyridine-2-yl-benzamide\]
+
+2790 
+
+(5) Pregabalin \[(S)-3-(aminomethyl)-5-methylhexanoic acid\]
 
 2782 
 
@@ -52,4 +56,4 @@
 
 (2) \[Reserved\]
 
-\[39 FR 22143, June 20, 1974, as amended at 43 FR 38383, Aug. 28, 1978; 44 FR 40888, July 13, 1979; 47 FR 49841, Nov. 3, 1982; 50 FR 8108, Feb. 28, 1985; 52 FR 5952, Feb. 27, 1987; 53 FR 10870, Apr. 4, 1988; 56 FR 61372, Dec. 3, 1991; 67 FR 62370, Oct. 7, 2002; 70 FR 43635, July 28, 2005; 74 FR 23790, May 21, 2009; 76 FR 77899, Dec. 15, 2011; 81 FR 29491, May 12, 2016; 83 FR 48953, Sept 28, 2018\]
+\[39 FR 22143, June 20, 1974, as amended at 43 FR 38383, Aug. 28, 1978; 44 FR 40888, July 13, 1979; 47 FR 49841, Nov. 3, 1982; 50 FR 8108, Feb. 28, 1985; 52 FR 5952, Feb. 27, 1987; 53 FR 10870, Apr. 4, 1988; 56 FR 61372, Dec. 3, 1991; 67 FR 62370, Oct. 7, 2002; 70 FR 43635, July 28, 2005; 74 FR 23790, May 21, 2009; 76 FR 77899, Dec. 15, 2011; 81 FR 29491, May 12, 2016; 83 FR 48953, Sept 28, 2018; 85 FR 5562, Jan. 31, 2020\]
