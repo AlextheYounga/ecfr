@@ -1,8 +1,8 @@
 ##### § 622.224 Area closures to protect South Atlantic corals.
 
-(a) *Allowable octocoral closed area.* No person may harvest or possess allowable octocoral in the South Atlantic EEZ north of 28°35.1′ N. lat. (due east of the NASA Vehicle Assembly Building, Cape Canaveral, FL). 
+(a) *Allowable octocoral closed area.* No person may harvest or possess allowable octocoral in the South Atlantic EEZ north of 28°35.1′ N. lat. (due east of the NASA Vehicle Assembly Building, Cape Canaveral, FL).
 
-(b) *Oculina Bank*—(1) *HAPC.* The Oculina Bank HAPC is bounded by rhumb lines connecting, in order, the following points: 
+(b) *Oculina Bank*—(1) *HAPC.* The Oculina Bank HAPC is bounded by rhumb lines connecting, in order, the following points:
 
 | Point                                                                                                                                   | North lat.   | West long.                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -41,21 +41,21 @@
 | 31                                                                                                                                      | 29°35′55.86″ | 80°13′41.04″                                                                                                                             |
 | Origin                                                                                                                                  | 29°43′29.82″ | 80°14′55.27″                                                                                                                             |
 
-(i) In the Oculina Bank HAPC, no person may: 
+(i) In the Oculina Bank HAPC, no person may:
 
-(A) Use a bottom longline, bottom trawl, dredge, pot, or trap. 
+(A) Use a bottom longline, bottom trawl, dredge, pot, or trap.
 
-(B) If aboard a fishing vessel, anchor, use an anchor and chain, or use a grapple and chain. 
+(B) If aboard a fishing vessel, anchor, use an anchor and chain, or use a grapple and chain.
 
-(C) Fish for or possess rock shrimp in or from the Oculina Bank HAPC, except a shrimp vessel with a valid commercial vessel permit for rock shrimp that possesses rock shrimp may transit through the Oculina Bank HAPC if fishing gear is appropriately stowed. For the purpose of this paragraph, transit means a direct and non-stop continuous course through the area, maintaining a minimum speed of five knots as determined by an operating VMS and a VMS minimum ping rate of 1 ping per 5 minutes; fishing gear appropriately stowed means that doors and nets are out of the water. 
+(C) Fish for or possess rock shrimp in or from the Oculina Bank HAPC, except a shrimp vessel with a valid commercial vessel permit for rock shrimp that possesses rock shrimp may transit through the Oculina Bank HAPC if fishing gear is appropriately stowed. For the purpose of this paragraph, transit means a direct and non-stop continuous course through the area, maintaining a minimum speed of five knots as determined by an operating VMS and a VMS minimum ping rate of 1 ping per 5 minutes; fishing gear appropriately stowed means that doors and nets are out of the water.
 
-(ii) \[Reserved\] 
+(ii) \[Reserved\]
 
-(2) *Experimental closed area.* Within the Oculina Bank HAPC, the experimental closed area is bounded on the north by 27°53′ N. lat., on the south by 27°30′ N. lat., on the east by 79°56′ W. long., and on the west by 80°00' W. long. No person may fish for South Atlantic snapper-grouper in the experimental closed area, and no person may retain South Atlantic snapper-grouper in or from the area. In the experimental closed area, any South Atlantic snapper-grouper taken incidentally by hook-and-line gear must be released immediately by cutting the line without removing the fish from the water. 
+(2) *Experimental closed area.* Within the Oculina Bank HAPC, the experimental closed area is bounded on the north by 27°53′ N. lat., on the south by 27°30′ N. lat., on the east by 79°56′ W. long., and on the west by 80°00' W. long. No person may fish for South Atlantic snapper-grouper in the experimental closed area, and no person may retain South Atlantic snapper-grouper in or from the area. In the experimental closed area, any South Atlantic snapper-grouper taken incidentally by hook-and-line gear must be released immediately by cutting the line without removing the fish from the water.
 
-(c) *Deepwater Coral HAPCs*—(1) *Locations.* The following areas are designated Deepwater Coral HAPCs: 
+(c) *Deepwater Coral HAPCs*—(1) *Locations.* The following areas are designated Deepwater Coral HAPCs:
 
-(i) *Cape Lookout Lophelia Banks* is bounded by rhumb lines connecting, in order, the following points: 
+(i) *Cape Lookout Lophelia Banks* is bounded by rhumb lines connecting, in order, the following points:
 
 | Point  | North lat.    | West long.    |
 | ------ | ------------- | ------------- |
@@ -68,7 +68,7 @@
 | 6      | 34°27′54″     | 75°42′45″     |
 | Origin | 34°24′37″     | 75°45′11″     |
 
-(ii) *Cape Fear Lophelia Banks* is bounded by rhumb lines connecting, in order, the following points: 
+(ii) *Cape Fear Lophelia Banks* is bounded by rhumb lines connecting, in order, the following points:
 
 | Point  | North lat. | West long. |
 | ------ | ---------- | ---------- |
@@ -78,9 +78,9 @@
 | 3      | 33°36′09″  | 76°23′37″  |
 | Origin | 33°38′49″  | 76°29′32″  |
 
-(iii) *Stetson Reefs, Savannah and East Florida Lithoherms, and Miami Terrace (Stetson-Miami Terrace)* is bounded by— 
+(iii) *Stetson Reefs, Savannah and East Florida Lithoherms, and Miami Terrace (Stetson-Miami Terrace)* is bounded by—
 
-(A) Rhumb lines connecting, in order, the following points: 
+(A) Rhumb lines connecting, in order, the following points:
 
 | Point  | North lat.               | West long.               |
 | ------ | ------------------------ | ------------------------ |
@@ -267,11 +267,11 @@
 | 180    | 25°21′04″                | 80°01′27″                |
 | 181    | 25°21′04″                | at outer boundary of EEZ |
 
-(B) The outer boundary of the EEZ in a northerly direction from Point 181 to the Origin. 
+(B) The outer boundary of the EEZ in a northerly direction from Point 181 to the Origin.
 
-(iv) *Pourtales Terrace* is bounded by— 
+(iv) *Pourtales Terrace* is bounded by—
 
-(A) Rhumb lines connecting, in order, the following points: 
+(A) Rhumb lines connecting, in order, the following points:
 
 | Point  | North lat. | West long. |
 | ------ | ---------- | ---------- |
@@ -285,9 +285,9 @@
 | 7      | 24°15′04″  | 81°07′52″  |
 | 8      | 24°10′55″  | 80°58′11″  |
 
-(B) The outer boundary of the EEZ in a northerly direction from Point 8 to the Origin. 
+(B) The outer boundary of the EEZ in a northerly direction from Point 8 to the Origin.
 
-(v) *Blake Ridge Diapir* is bounded by rhumb lines connecting, in order, the following points: 
+(v) *Blake Ridge Diapir* is bounded by rhumb lines connecting, in order, the following points:
 
 | Point  | North lat. | West long. |
 | ------ | ---------- | ---------- |
@@ -297,17 +297,17 @@
 | 3      | 32°32′21″  | 76°11′13″  |
 | Origin | 32°32′28″  | 76°13′16″  |
 
-(2) *Restrictions.* In the Deepwater Coral HAPCs specified in paragraph (c)(1) of this section, no person may: 
+(2) *Restrictions.* In the Deepwater Coral HAPCs specified in paragraph (c)(1) of this section, no person may:
 
-(i) Use a bottom longline, trawl (mid-water or bottom), dredge, pot, or trap. 
+(i) Use a bottom longline, trawl (mid-water or bottom), dredge, pot, or trap.
 
-(ii) If aboard a fishing vessel, anchor, use an anchor and chain, or use a grapple and chain. 
+(ii) If aboard a fishing vessel, anchor, use an anchor and chain, or use a grapple and chain.
 
-(iii) Fish for coral or possess coral in or from the Deepwater Coral HAPC on board a fishing vessel. 
+(iii) Fish for coral or possess coral in or from the Deepwater Coral HAPC on board a fishing vessel.
 
-(3) *Shrimp fishery access areas.* The provisions of paragraph (c)(2)(i) of this section notwithstanding, an owner or operator of a vessel for which a valid commercial vessel permit for rock shrimp (South Atlantic EEZ) has been issued may trawl for shrimp in the following portions of the Stetson-Miami Terrace Deepwater Coral HAPC: 
+(3) *Shrimp fishery access areas.* The provisions of paragraph (c)(2)(i) of this section notwithstanding, an owner or operator of a vessel for which a valid commercial vessel permit for rock shrimp (South Atlantic EEZ) has been issued may trawl for shrimp in the following portions of the Stetson-Miami Terrace Deepwater Coral HAPC:
 
-(i) *Shrimp access area 1* is bounded by rhumb lines connecting, in order, the following points: 
+(i) *Shrimp access area 1* is bounded by rhumb lines connecting, in order, the following points:
 
 | Point  | North lat. | West long.  |
 | ------ | ---------- | ----------- |
@@ -337,7 +337,7 @@
 | 23     | 30°06′30″  | 80°00′53″   |
 | Origin | 30°06′30″  | 80°02′2.4″  |
 
-(ii) *Shrimp access area 2* is bounded by rhumb lines connecting, in order, the following points: 
+(ii) *Shrimp access area 2* is bounded by rhumb lines connecting, in order, the following points:
 
 | Point  | North lat. | West long. |
 | ------ | ---------- | ---------- |
@@ -389,7 +389,7 @@
 | 45     | 29°08′00″  | 79°58′34″  |
 | Origin | 29°08′00″  | 79°59′43″  |
 
-(iii) *Shrimp access area 3* is bounded by rhumb lines connecting, in order, the following points: 
+(iii) *Shrimp access area 3* is bounded by rhumb lines connecting, in order, the following points:
 
 | Point  | North lat. | West long. |
 | ------ | ---------- | ---------- |
@@ -441,7 +441,7 @@
 | 45     | 28°14′00″  | 79°45′12″  |
 | Origin | 28°14′00″  | 79°46′20″  |
 
-(iv) *Shrimp access area 4* is bounded by rhumb lines connecting, in order, the following points: 
+(iv) *Shrimp access area 4* is bounded by rhumb lines connecting, in order, the following points:
 
 | Point  | North lat. | West long. |
 | ------ | ---------- | ---------- |
@@ -469,9 +469,9 @@
 | 21     | 26°49′58″  | 79°45′13″  |
 | Origin | 26°49′58″  | 79°46′54″  |
 
-(4) *Golden crab fishery access areas.* The provisions of paragraphs (c)(2)(i) and (ii) of this section notwithstanding, an owner or operator of a vessel for which a valid commercial permit for South Atlantic golden crab has been issued may use a trap to fish for golden crab and use a grapple and chain while engaged in such fishing in the following portions of the Stetson-Miami Terrace and the Pourtales Terrace Deepwater Coral HAPCs. Access to an area specified in paragraph (c)(4)(i) through (v) of this section is contingent on that zone being authorized on the vessel's permit for South Atlantic golden crab. See § 622.241(b) for specification of zones. 
+(4) *Golden crab fishery access areas.* The provisions of paragraphs (c)(2)(i) and (ii) of this section notwithstanding, an owner or operator of a vessel for which a valid commercial permit for South Atlantic golden crab has been issued may use a trap to fish for golden crab and use a grapple and chain while engaged in such fishing in the following portions of the Stetson-Miami Terrace and the Pourtales Terrace Deepwater Coral HAPCs. Access to an area specified in paragraph (c)(4)(i) through (v) of this section is contingent on that zone being authorized on the vessel's permit for South Atlantic golden crab. See § 622.241(b) for specification of zones.
 
-(i) *Golden crab northern zone access area* is bounded by rhumb lines connecting, in order, the following points: 
+(i) *Golden crab northern zone access area* is bounded by rhumb lines connecting, in order, the following points:
 
 | Point  | North lat. | West long. |
 | ------ | ---------- | ---------- |
@@ -513,9 +513,9 @@
 | 35     | 29°00′00″  | 79°45′50″  |
 | Origin | 29°00′00″  | 79°54′24″  |
 
-(ii) *Golden crab middle zone access area A* is bounded by— 
+(ii) *Golden crab middle zone access area A* is bounded by—
 
-(A) Rhumb lines connecting, in order, the following points: 
+(A) Rhumb lines connecting, in order, the following points:
 
 | Point  | North lat. | West long. |
 | ------ | ---------- | ---------- |
@@ -566,9 +566,9 @@
 | 44     | 25°38′04″  | 79°45′58″  |
 | 45     | 25°38′05″  | 79°42′27″  |
 
-(B) The outer boundary of the EEZ in a northerly direction from Point 45 to Point 46. 
+(B) The outer boundary of the EEZ in a northerly direction from Point 45 to Point 46.
 
-(C) Rhumb lines connecting, in order, the following points: 
+(C) Rhumb lines connecting, in order, the following points:
 
 | Point | North lat. | West long. |
 | ----- | ---------- | ---------- |
@@ -578,9 +578,9 @@
 | 49    | 26°50′46″  | 79°35′12″  |
 | 50    | 26°50′40″  | 79°33′45″  |
 
-(D) The outer boundary of the EEZ in a northerly direction from Point 50 to the Origin. 
+(D) The outer boundary of the EEZ in a northerly direction from Point 50 to the Origin.
 
-(iii) *Golden crab middle zone access area B* is bounded by rhumb lines connecting, in order, the following points: 
+(iii) *Golden crab middle zone access area B* is bounded by rhumb lines connecting, in order, the following points:
 
 | Point  | North lat. | West long. |
 | ------ | ---------- | ---------- |
@@ -598,9 +598,9 @@
 | 11     | 25°49′11″  | 79°56′00″  |
 | Origin | 25°49′10″  | 80°00′38″  |
 
-(iv) *Golden crab middle zone access area C* is bounded by— 
+(iv) *Golden crab middle zone access area C* is bounded by—
 
-(A) Rhumb lines connecting, in order, the following points: 
+(A) Rhumb lines connecting, in order, the following points:
 
 | Point  | North lat. | West long. |
 | ------ | ---------- | ---------- |
@@ -609,11 +609,11 @@
 | 2      | 25°21′04″  | 79°53′45″  |
 | 3      | 25°21′04″  | 79°42′04″  |
 
-(B) The outer boundary of the EEZ in a northerly direction from Point 3 to the Origin. 
+(B) The outer boundary of the EEZ in a northerly direction from Point 3 to the Origin.
 
-(v) *Golden crab southern zone access area* is bounded by— 
+(v) *Golden crab southern zone access area* is bounded by—
 
-(A) Rhumb lines connecting, in order, the following points: 
+(A) Rhumb lines connecting, in order, the following points:
 
 | Point  | North lat. | West long. |
 | ------ | ---------- | ---------- |
@@ -621,6 +621,6 @@
 | 1      | 24°13′46″  | 81°04′54″  |
 | 2      | 24°10′55″  | 80°58′11″  |
 
-(B) The outer boundary of the EEZ in a northerly direction from Point 2 to the Origin. 
+(B) The outer boundary of the EEZ in a northerly direction from Point 2 to the Origin.
 
 \[78 FR 22952, Apr. 17, 2013, as amended at 80 FR 42431, July 17, 2015; 80 FR 46205, Aug. 4, 2015; 80 FR 60566, Oct. 7, 2015; 81 FR 7715, Feb. 16, 2016\]

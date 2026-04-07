@@ -1,6 +1,6 @@
 ##### § 778.7 Effect of Service Contract Act of 1965.
 
-The McNamara-O'Hara Service Contract Act of 1965, which provides for the predetermination and the specification in service contracts entered into by the Federal Government or the District of Columbia, of the minimum wages and fringe benefits to be received by employees of contractors and subcontractors employed in work on such contracts, contains the following provision: 
+The McNamara-O'Hara Service Contract Act of 1965, which provides for the predetermination and the specification in service contracts entered into by the Federal Government or the District of Columbia, of the minimum wages and fringe benefits to be received by employees of contractors and subcontractors employed in work on such contracts, contains the following provision:
 
 Sec. 6. In determining any overtime pay to which such service employees are entitled under any Federal law, the regular or basic hourly rate of pay of such an employee shall not include any fringe benefit payments computed hereunder which are excluded from the regular rate under the Fair Labor Standards Act by provisions of section 7(e)\* thereof. (\*Subsection designation changed in text from section 7(d) to 7(e) to conform with the relettering enacted by the Fair Labor Standards Amendments of 1966.)
 
