@@ -64,7 +64,7 @@
 
 (E) Designate an individual as a coop manager; and
 
-(F) Include at least 20 percent of all MS/CV-endorsed permits as members. The coop membership percentage will be interpreted by rounding to the nearest whole permit (i.e. less than 0.5 rounds down and 0.5 and greater rounds up).
+(F) Include at least 20 percent of all MS/CV-endorsed permits as members. The coop membership percentage will be interpreted by rounding to the nearest whole permit (*i.e.*, less than 0.5 rounds down and 0.5 and greater rounds up).
 
 (ii) *MS coop responsibilities.* A MS coop is responsible for:
 
@@ -278,7 +278,7 @@
 
 (g) *Mothership catcher vessel (MS/CV) - endorsed permit* - (1) *General.* Any vessel that delivers whiting to a mothership processor in the Pacific whiting fishery mothership sector must be registered to an MS/CV-endorsed permit, except that a vessel registered to limited entry trawl permit without an MS/CV or C/P endorsement may fish for a coop if authorized by the coop. Within the MS Coop Program, an MS/CV-endorsed permit may participate in an MS coop or in the non-coop fishery. An MS/CV-endorsed permit is a limited entry permit and is subject to the limited entry permit provisions given at § 660.25(b), subpart C.
 
-(i) *Catch history assignment.* NMFS will assign a catch history assignment to each MS/CV-endorsed permit. The catch history assignment is based on the catch history in the Pacific whiting mothership sector during the qualifying years of 1994 through 2003. The catch history assignment is expressed as a percentage of Pacific whiting of the total mothership sector allocation as described at paragraph (d)(2)(i) of this section. Catch history assignments will be issued to the nearest whole pound using standard rounding rules (i.e. decimal amounts from zero up to 0.5 round down and 0.5 up to 1.0 round up).
+(i) *Catch history assignment.* NMFS will assign a catch history assignment to each MS/CV-endorsed permit. The catch history assignment is based on the catch history in the Pacific whiting mothership sector during the qualifying years of 1994 through 2003. The catch history assignment is expressed as a percentage of Pacific whiting of the total mothership sector allocation as described at paragraph (d)(2)(i) of this section. Catch history assignments will be issued to the nearest whole pound using standard rounding rules (*i.e.*, decimal amounts from zero up to 0.5 round down and 0.5 up to 1.0 round up).
 
 (ii) *Pacific whiting mothership sector allocation.* The catch history assignment allocation accrues to the coop to which the MS/CV-endorsed permit is tied through private agreement, or will be assigned to the non-coop fishery if the MS/CV-endorsed permit does not participate in the coop fishery.
 
@@ -408,7 +408,7 @@
 
 (2) *Non-coop fishery closure.* The non-coop fishery will be closed by automatic action as specified at § 660.60(d) when the Pacific whiting or non-whiting allocations to the non-coop fishery have been reached or are projected to be reached.
 
-(i) *Retention requirements.* Catcher vessels participating in the MS Coop Program may discard minor operational amounts of catch at sea if the observer has accounted for the discard (i.e., a maximized retention fishery).
+(i) *Retention requirements.* Catcher vessels participating in the MS Coop Program may discard minor operational amounts of catch at sea if the observer has accounted for the discard (*i.e.*, a maximized retention fishery).
 
 (j) *Observer requirements* - (1) *Observer coverage requirements.* (i) *Coverage.* The following observer coverage pertains to certified observers obtained from an observer provider permitted by NMFS.
 

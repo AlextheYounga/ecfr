@@ -140,7 +140,7 @@ These prohibitions are specific to the limited entry trawl fisheries. General gr
 
 (4) Catch, take, or harvest fish in the MS Coop Program with a vessel that does not have a valid VMS declaration for limited entry midwater trawl, Pacific whiting mothership sector, as specified at § 660.13(d)(5)(iv)(A), subpart C.
 
-(5) Transfer catch to a vessel that is not registered to an MS permit. (i.e. a tender vessel).
+(5) Transfer catch to a vessel that is not registered to an MS permit. (*i.e.*, a tender vessel).
 
 (6) Use a vessel registered to a limited entry permit with a trawl endorsement (with or without an MS/CV endorsement) to catch more than 30 percent of the Pacific whiting allocation for the mothership sector.
 
@@ -178,7 +178,7 @@ These prohibitions are specific to the limited entry trawl fisheries. General gr
 
 (7) Sort, process, or discard catch before the catch is weighed on a scale that meets the requirements of § 660.15(b), including the daily test requirements.
 
-(8) Discard any catch from the codend or net (i.e. bleeding) before the observer has completed their data collection.
+(8) Discard any catch from the codend or net (*i.e.*, bleeding) before the observer has completed their data collection.
 
 (9) Mix catch from more than one haul before the observer completes their collection of catch for sampling.
 

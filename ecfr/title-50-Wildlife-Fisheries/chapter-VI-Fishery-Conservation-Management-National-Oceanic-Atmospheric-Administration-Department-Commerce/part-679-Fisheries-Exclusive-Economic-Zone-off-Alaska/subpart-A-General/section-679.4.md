@@ -84,7 +84,7 @@
 
 (ii) Submit the original permit, except for an FFP or an FPP, to NMFS, P.O. Box 21668, Juneau, AK 99802. For surrender of an FFP and FPP, respectively, refer to paragraphs (b)(3)(ii) and (f)(3)(ii) of this section.
 
-(iii) Objective written evidence is considered proof of a timely application. The responsibility remains with the sender to prove when the application to amend or to surrender a permit was received by NMFS (i.e., by certified mail or other method that provides written evidence that NMFS Alaska Region received it).
+(iii) Objective written evidence is considered proof of a timely application. The responsibility remains with the sender to prove when the application to amend or to surrender a permit was received by NMFS (*i.e.*, by certified mail or other method that provides written evidence that NMFS Alaska Region received it).
 
 (iv) For applications delivered by hand delivery or carrier only, the receiving date of signature by NMFS staff is the date the application was received. If the application is submitted by fax or mail, the receiving date of the application is the date stamped received by NMFS.
 
@@ -529,7 +529,7 @@
 
 (iv) Exception to allow purchase of LLP qualifying fishing history after the documented harvest in the RPP. To qualify for a LLP crab species license, a person who made a documented harvest of LLP crab species during the period from January 1, 1998, through February 7, 1998, must have obtained, or entered into a contract to obtain, the LLP qualifying fishing history by 8:36 a.m. Alaska local time on October 10, 1998,
 
-(v) A qualified person who owned a vessel on June 17, 1995, that met the requirements in paragraphs (k)(5)(i) and (ii) of this section, but whose vessel was unable to meet requirements of paragraph (k)(5)(iii) of this section because of unavoidable circumstances (i.e., the vessel was lost damaged, or otherwise unable to participate in the license limitation crab fisheries) may receive a license if the qualified person is able to demonstrate that:
+(v) A qualified person who owned a vessel on June 17, 1995, that met the requirements in paragraphs (k)(5)(i) and (ii) of this section, but whose vessel was unable to meet requirements of paragraph (k)(5)(iii) of this section because of unavoidable circumstances (*i.e.*, the vessel was lost damaged, or otherwise unable to participate in the license limitation crab fisheries) may receive a license if the qualified person is able to demonstrate that:
 
 (A) The owner of the vessel at the time of the unavoidable circumstance held a specific intent to conduct fishing for license limitation crab species with that vessel during a specific time period in a specific area;
 
@@ -667,7 +667,7 @@
 
 (B) Cannot be used to conduct directed fishing for license limitation groundfish or to conduct directed fishing for crab species on a vessel that has an LOA greater than the MLOA designated on the license.
 
-(iv) A qualified person who owned a vessel on June 17, 1995, that made a documented harvest of license limitation groundfish, or crab species if applicable, between January 1, 1988, and February 9, 1992, but whose vessel was unable to meet all the criteria in paragraph (k)(4) of this section for a groundfish license or paragraph (k)(5) of this section for a crab species license because of an unavoidable circumstance (i.e., the vessel was lost, damaged, or otherwise unable to participate in the license limitation groundfish or crab fisheries) may receive a license if the qualified person is able to demonstrate that:
+(iv) A qualified person who owned a vessel on June 17, 1995, that made a documented harvest of license limitation groundfish, or crab species if applicable, between January 1, 1988, and February 9, 1992, but whose vessel was unable to meet all the criteria in paragraph (k)(4) of this section for a groundfish license or paragraph (k)(5) of this section for a crab species license because of an unavoidable circumstance (*i.e.*, the vessel was lost, damaged, or otherwise unable to participate in the license limitation groundfish or crab fisheries) may receive a license if the qualified person is able to demonstrate that:
 
 (A) The owner of the vessel at the time of the unavoidable circumstance held a specific intent to conduct directed fishing for license limitation groundfish or crab species with that vessel during a specific time period in a specific area.
 

@@ -2,7 +2,7 @@
 
 Framework measures described below for each specific fishery are valid for all management areas, except where specifically noted in this section.
 
-(a) *Pelagic measures* - (1) *Introduction.* Adjustments in management measures may be made through rulemaking if new information demonstrates that there are biological, social, or economic concerns in the fishery. The following framework process authorizes the implementation of measures that may affect the operation of the fisheries, gear, harvest guidelines, or changes in catch and/or effort.
+(a) *Pelagic measures*—(1) *Introduction.* Adjustments in management measures may be made through rulemaking if new information demonstrates that there are biological, social, or economic concerns in the fishery. The following framework process authorizes the implementation of measures that may affect the operation of the fisheries, gear, harvest guidelines, or changes in catch and/or effort.
 
 (2) *Annual report.* By June 30 of each year, the Council-appointed pelagics monitoring team will prepare an annual report on the fisheries in the management area. The report shall contain, among other things, recommendations for Council action and an assessment of the urgency and effects of such action(s).
 
@@ -14,7 +14,7 @@ Framework measures described below for each specific fishery are valid for all m
 
 (ii) The Council will publicize, including by Federal Register notice, and solicit public comment on, any proposed new management measure. After a Council meeting at which the measure is discussed, the Council will consider recommendations and prepare a Federal Register notice summarizing the Council's deliberations, rationale, and analysis for the preferred action, and the time and place for any subsequent Council meeting(s) to consider the new measure. At subsequent public meeting(s), the Council will consider public comments and other information received to make a recommendation to the Regional Administrator about any new measure. NMFS may implement the Council's recommendation by rulemaking if approved by the Regional Administrator.
 
-(b) *Crustacean measures* - (1) *Introduction.* New management measures may be added through rulemaking if new information demonstrates that there are biological, social, or economic concerns in Permit Areas 1, 2, or 3. The following framework process authorizes the implementation of measures that may affect the operation of the fisheries, gear, harvest guidelines, or changes in catch and/or effort.
+(b) *Crustacean measures*—(1) *Introduction.* New management measures may be added through rulemaking if new information demonstrates that there are biological, social, or economic concerns in Permit Areas 1, 2, or 3. The following framework process authorizes the implementation of measures that may affect the operation of the fisheries, gear, harvest guidelines, or changes in catch and/or effort.
 
 (2) *Annual report.* By June 30 of each year, the Council-appointed team will prepare an annual report on the fisheries in the management area. The report shall contain, among other things, recommendations for Council action and an assessment of the urgency and effects of such action(s).
 
@@ -26,7 +26,7 @@ Framework measures described below for each specific fishery are valid for all m
 
 (ii) The Council will publicize, including by a Federal Register document, and solicit public comment on, any proposed new management measure. After a Council meeting at which the measure is discussed, the Council will consider recommendations and prepare a Federal Register document summarizing the Council's deliberations, rationale, and analysis for the preferred action, and the time and place for any subsequent Council meeting(s) to consider the new measure. At subsequent public meeting(s), the Council will consider public comments and other information received to make a recommendation to the Regional Administrator about any new measure. NMFS may implement the Council's recommendation by rulemaking if approved by the Regional Administrator.
 
-(c) *Bottomfish measures* - (1) *Annual reports.* By June 30 of each year, a Council-appointed bottomfish monitoring team will prepare an annual report on the fishery by area covering the following topics:
+(c) *Bottomfish measures*—(1) *Annual reports.* By June 30 of each year, a Council-appointed bottomfish monitoring team will prepare an annual report on the fishery by area covering the following topics:
 
 (i) Fishery performance data.
 
@@ -36,7 +36,7 @@ Framework measures described below for each specific fishery are valid for all m
 
 (iv) Enforcement activities and problems.
 
-(v) Administrative actions (*e.g.,* data collection and reporting, permits).
+(v) Administrative actions (e.g., data collection and reporting, permits).
 
 (vi) State and territorial management actions.
 
@@ -104,7 +104,7 @@ Framework measures described below for each specific fishery are valid for all m
 
 (5) *Five-year review.* The Council will conduct a comprehensive review on the effectiveness of the Mau Zone limited access program 5 years following implementation of the program. The Council will consider the extent to which the FEP objectives have been met and verify that the target number of vessels established for the fishery is appropriate for current fishing activity levels, catch rates, and biological condition of the stocks. The Council may establish a new target number based on the 5-year review.
 
-(d) *Precious coral measures* - (1) *Introduction.* Established management measures may be revised and new management measures may be established and/or revised through rulemaking if new information demonstrates that there are biological, social, or economic concerns in a precious coral permit area. The following framework process authorizes the implementation of measures that may affect the operation of the fisheries, gear, quotas, season, or levels of catch and/or in effort.
+(d) *Precious coral measures*—(1) *Introduction.* Established management measures may be revised and new management measures may be established and/or revised through rulemaking if new information demonstrates that there are biological, social, or economic concerns in a precious coral permit area. The following framework process authorizes the implementation of measures that may affect the operation of the fisheries, gear, quotas, season, or levels of catch and/or in effort.
 
 (2) *Annual report.* By June 30 of each year, the Council-appointed precious coral team will prepare an annual report on the fisheries in the management area. The report will contain, among other things, recommendations for Council action and an assessment of the urgency and effects of such action(s).
 
@@ -116,7 +116,7 @@ Framework measures described below for each specific fishery are valid for all m
 
 (ii) The Council will publicize, including by a Federal Register document, and solicit public comment on, any proposed new management measure. After a Council meeting at which the measure is discussed, the Council will consider recommendations and prepare a Federal Register document summarizing the Council's deliberations, rationale, and analysis for the preferred action and the time and place for any subsequent Council meeting(s) to consider the new measure. At a subsequent public meeting, the Council will consider public comments and other information received before making a recommendation to the Regional Administrator about any new measure. If approved by the Regional Administrator, NMFS may implement the Council's recommendation by rulemaking.
 
-(e) *Coral reef ecosystem measures* - (1) *Procedure for established measures.* (i) Established measures are regulations for which the impacts have been evaluated in Council or NMFS documents in the context of current conditions.
+(e) *Coral reef ecosystem measures*—(1) *Procedure for established measures.* (i) Established measures are regulations for which the impacts have been evaluated in Council or NMFS documents in the context of current conditions.
 
 (ii) The Council may recommend to the Regional Administrator that established measures be modified, removed, or reinstituted. Such recommendation shall include supporting rationale and analysis, and shall be made after advance public notice, public discussion and consideration of public comment. NMFS may implement the Council's recommendation by rulemaking if approved by the Regional Administrator.
 

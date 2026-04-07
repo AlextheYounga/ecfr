@@ -10,7 +10,7 @@ The appeal shall:
 
 (d) Request review of the determination or ruling, specifying each and every reason why the appellant believes the determination or ruling should be reversed;
 
-(e) Indicate whether the appellant desires to have an oral hearing or, instead, to have the case decided solely on the basis of the written record (i.e., the appeal, the General Counsel's or Chief Postal Inspector's or his or her designee's reply reply, and any documents submitted by the parties pursuant to an order of the presiding officer); and
+(e) Indicate whether the appellant desires to have an oral hearing or, instead, to have the case decided solely on the basis of the written record (*i.e.*, the appeal, the General Counsel's or Chief Postal Inspector's or his or her designee's reply reply, and any documents submitted by the parties pursuant to an order of the presiding officer); and
 
 (f) Bear the signature, typed or printed name, title, business address, and telephone number of any attorney at law representing the appellant in bringing the appeal, and of each individual appellant or, if the appellant is a partnership, corporation, limited liability company, or unincorporated association, of the managing partner, chief executive officer, chief operating officer, or other officer authorized to bind the organization.
 

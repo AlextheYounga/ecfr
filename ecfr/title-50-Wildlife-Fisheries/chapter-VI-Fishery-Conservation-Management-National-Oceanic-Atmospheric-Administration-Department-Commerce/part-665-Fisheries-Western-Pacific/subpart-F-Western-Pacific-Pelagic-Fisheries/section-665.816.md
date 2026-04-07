@@ -8,7 +8,7 @@
 
 (i) Ownership of a vessel that was used to fish in the EEZ around American Samoa, or
 
-(ii) Evidence of work on a fishing trip during which longline gear was used to harvest western Pacific pelagic MUS in the EEZ around American Samoa. If the applicant does not possess the necessary documentation of evidence of work on a fishing trip based on records available only from NMFS or the Government of American Samoa (*e.g.,* creel survey record or logbook), the applicant may issue a request to PIRO to obtain such records from the appropriate agencies, if available. The applicant should provide sufficient information on the fishing trip to allow PIRO to retrieve the records.
+(ii) Evidence of work on a fishing trip during which longline gear was used to harvest western Pacific pelagic MUS in the EEZ around American Samoa. If the applicant does not possess the necessary documentation of evidence of work on a fishing trip based on records available only from NMFS or the Government of American Samoa (e.g., creel survey record or logbook), the applicant may issue a request to PIRO to obtain such records from the appropriate agencies, if available. The applicant should provide sufficient information on the fishing trip to allow PIRO to retrieve the records.
 
 (2) Family means those people related by blood, marriage, and formal or informal adoption.
 

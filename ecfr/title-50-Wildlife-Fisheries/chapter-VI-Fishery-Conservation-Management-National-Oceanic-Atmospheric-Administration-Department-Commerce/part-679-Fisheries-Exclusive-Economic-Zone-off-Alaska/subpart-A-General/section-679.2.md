@@ -12,7 +12,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *ADF&G* means the State of Alaska Department of Fish and Game.
 
-*ADF&G fish ticket number* means a nine-digit number designated by one alphabet letter (i.e., G = groundfish), two numbers that identify the year (i.e., 98), followed by six numbers.
+*ADF&G fish ticket number* means a nine-digit number designated by one alphabet letter (*i.e.*, G = groundfish), two numbers that identify the year (*i.e.*, 98), followed by six numbers.
 
 *ADF&G processor code* means State of Alaska Department of Fish & Game (ADF&G) Intent to operate processor license number (example: F12345).
 
@@ -310,7 +310,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (viii) Has no metallic component except for connectors (e.g., hammerlocks or swivels) or a net-sounder device aft of the fishing circle and forward of any mesh greater than 5.5 inches (14.0 cm) stretched measure;
 
-(ix) May have small mesh within 32 ft (9.8 m) of the center of the headrope as needed for attaching instrumentation (*e.g.,* net-sounder device); and
+(ix) May have small mesh within 32 ft (9.8 m) of the center of the headrope as needed for attaching instrumentation (e.g., net-sounder device); and
 
 (x) May have weights on the wing tips.
 
@@ -854,7 +854,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Net weight (IFQ or CDQ halibut only).* Net weight of IFQ or CDQ halibut means the weight of a halibut that is gutted, head off, and washed or ice and slime deducted.
 
-*Non-allocated or nonspecified species* means those fish species, other than prohibited species, for which TAC has not been specified (*e.g.,* prowfish and lingcod).
+*Non-allocated or nonspecified species* means those fish species, other than prohibited species, for which TAC has not been specified (e.g., prowfish and lingcod).
 
 *Non-IFQ groundfish* means groundfish, other than IFQ sablefish.
 

@@ -12,11 +12,11 @@
 
 (4) *Daily at-sea scale tests.* To verify that the scale meets the maximum permissible errors specified in this paragraph, each scale used to weigh fish must be tested at least one time during each calendar day when use of the scale is required. The tests must be performed in an accurate and timely manner.
 
-(i) *Flow or Belt scales* - (A) *Maximum permissible errors.* The maximum permissible errors for the daily at-sea scale test is plus or minus 3 percent of the known weight of the test material.
+(i) *Flow or Belt scales*—(A) *Maximum permissible errors.* The maximum permissible errors for the daily at-sea scale test is plus or minus 3 percent of the known weight of the test material.
 
 (B) *Test Procedure.* A test must be conducted by weighing no less than 400 kg (882 lb) of test material, supplied by the scale manufacturer or approved by a NMFS-authorized scale inspector, on the scale under test. The test material may be run across the scale multiple times in order to total 400 kg; however, no single run of test material across the scale may weigh less than 40 kg (88.2 lb). The known weight of test material must be determined at the time of each scale test by weighing it on a platform scale approved for use under 50 CFR 679.28(b)(7).
 
-(ii) *Platform scales required for observer sampling or to determine known weight of test material on mothership and catcher/processor vessels* - (A) *Maximum permissible errors.* The maximum permissible errors for the daily at-sea scale test for platform scales is plus or minus 0.5 percent of the weight tested.
+(ii) *Platform scales required for observer sampling or to determine known weight of test material on mothership and catcher/processor vessels*—(A) *Maximum permissible errors.* The maximum permissible errors for the daily at-sea scale test for platform scales is plus or minus 0.5 percent of the weight tested.
 
 (B) *Test Procedure.* A platform scale used for observer sampling must be tested at 10, 25, and 50 kg (or 20, 50, and 100 lb if the scale is denominated in pounds) using approved test weights. Any combination of test weights that will allow the scale to be tested at 10 kg, 25 kg, and 50 kg may be used. A platform scale used to weigh fish must be tested at a weight equal to the largest amount of fish that will be weighed on the scale in one weighing.
 
@@ -88,7 +88,7 @@
 
 (7) *Video monitoring for scales used by the vessel crew to weigh catch.* Mothership or Catcher/Processor vessels required to weigh fish under the regulations in this section must provide and maintain a NMFS-approved video monitoring system as specified in paragraph (e) of this section.
 
-(c) *Scales used to weigh fish at IFQ first receivers - performance and technical requirements.* Scale requirements in this paragraph are in addition to those requirements set forth by the State in which the scale is located, and nothing in this paragraph may be construed to reduce or supersede the authority of the State to regulate, test, or approve scales within the State. Scales used to weigh fish that are also required to be approved by the State must meet the following requirements:
+(c) *Scales used to weigh fish at IFQ first receivers—performance and technical requirements.* Scale requirements in this paragraph are in addition to those requirements set forth by the State in which the scale is located, and nothing in this paragraph may be construed to reduce or supersede the authority of the State to regulate, test, or approve scales within the State. Scales used to weigh fish that are also required to be approved by the State must meet the following requirements:
 
 (1) *Verification of approval.* The scale must display a valid sticker indicating that the scale is currently approved in accordance with the laws of the state where the scale is located.
 
@@ -145,7 +145,7 @@
 
 (d) *Electronic fish tickets.* First receivers are required to meet the hardware and software requirements below.
 
-(1) *Hardware and software requirements.* A personal computer system, tablet, mobile device, or other device that has software (*e.g.* web browser) capable of submitting information over the internet, such that submission to Pacific States Marine Fisheries Commission can be executed effectively.
+(1) *Hardware and software requirements.* A personal computer system, tablet, mobile device, or other device that has software (e.g., web browser) capable of submitting information over the internet, such that submission to Pacific States Marine Fisheries Commission can be executed effectively.
 
 (2) *Internet access.* The first receiver is responsible for maintaining internet access sufficient to access the web-based interface and submit completed electronic fish ticket forms.
 
@@ -153,7 +153,7 @@
 
 (4) *Improving data quality.* Vessel owners and operators, first receivers, or shoreside processor owners, or managers may contact NMFS to request assistance in improving data quality and resolving issues. Requests may be submitted to: Attn: Electronic Fish Ticket Monitoring, National Marine Fisheries Service, West Coast Region, Sustainable Fisheries Division, 7600 Sand Point Way, NE., Seattle, WA 98115.
 
-(e) *Video monitoring systems used monitor at-sea scales* - (1) *Performance and technical requirements for video monitoring systems for the MS and C/P Coop Programs.* A video monitoring system used to monitor at-sea scales must meet the system requirements and system inspections, set forth in 50 CFR 679.28(e)(1) through (4) and be issued a Video Monitoring Inspection Report verifying that the video system meets all applicable requirements for use in the Alaska Pollock fishery. Any change to the system must meet the requirements specified at 50 CFR 679.28(e)(7) and be approved by the Alaska Regional Administrator in writing before any changes are made.
+(e) *Video monitoring systems used monitor at-sea scales*—(1) *Performance and technical requirements for video monitoring systems for the MS and C/P Coop Programs.* A video monitoring system used to monitor at-sea scales must meet the system requirements and system inspections, set forth in 50 CFR 679.28(e)(1) through (4) and be issued a Video Monitoring Inspection Report verifying that the video system meets all applicable requirements for use in the Alaska Pollock fishery. Any change to the system must meet the requirements specified at 50 CFR 679.28(e)(7) and be approved by the Alaska Regional Administrator in writing before any changes are made.
 
 (i) MS or C/P vessels required to weigh fish at sea under the regulations in this section must:
 

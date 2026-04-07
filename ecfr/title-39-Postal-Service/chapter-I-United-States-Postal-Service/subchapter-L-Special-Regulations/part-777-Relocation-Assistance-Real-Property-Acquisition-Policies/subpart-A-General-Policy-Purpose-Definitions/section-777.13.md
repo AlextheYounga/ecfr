@@ -36,7 +36,7 @@
 
 (3) Contain a heating system capable of sustaining a healthful temperature of approximately 70 degrees except in those areas where local climatic conditions do not require such a system.
 
-(4) Be adequate in size with respect to the number of rooms and areas of living space needed to accommodate the displaced persons. There shall be a separate, well-lighted and ventilated bathroom that provides privacy to the user and contains a bathtub or shower stall, sink, and toilet, all in good working order and properly connected to appropriate sources of water and to a sewage drainage system. In the case of a housekeeping unit - as opposed to, for example, a room in a boarding house - there shall be a kitchen area that contains a fully usable sink, properly connected to potable hot and cold water and to a sewage draining system, and adequate space and utility service connections for a stove and a refrigerator.
+(4) Be adequate in size with respect to the number of rooms and areas of living space needed to accommodate the displaced persons. There shall be a separate, well-lighted and ventilated bathroom that provides privacy to the user and contains a bathtub or shower stall, sink, and toilet, all in good working order and properly connected to appropriate sources of water and to a sewage drainage system. In the case of a housekeeping unit—as opposed to, for example, a room in a boarding house—there shall be a kitchen area that contains a fully usable sink, properly connected to potable hot and cold water and to a sewage draining system, and adequate space and utility service connections for a stove and a refrigerator.
 
 (5) Contain unobstructed egress to safe, open space at ground level.
 
@@ -78,7 +78,7 @@
 
 (g) *Displacement Dwelling.* The dwelling acquired by the Postal Service from which a displaced person is required to move.
 
-(h) *Dwelling.* The place of permanent or customary and usual residence of a person including a single family house; a single family unit in a two-family, multi-family, or multi-purpose property; a unit of a condominium or cooperative housing project; a non-housekeeping unit (i.e. room in a boarding house); a mobile home; or any other residential unit.
+(h) *Dwelling.* The place of permanent or customary and usual residence of a person including a single family house; a single family unit in a two-family, multi-family, or multi-purpose property; a unit of a condominium or cooperative housing project; a non-housekeeping unit (*i.e.*, room in a boarding house); a mobile home; or any other residential unit.
 
 (i) *Family.* Two or more individuals who are related by blood, adoption, marriage, or legal guardianship who live together as a family unit. If the Postal Service considers that circumstances warrant, others who live together as a family unit may be treated as if they are a family for the purpose of determining assistance under these regulations.
 
