@@ -4,7 +4,7 @@ In accordance with the prohibitions set forth in § 2556.710, VISTAs may partici
 
 (a) Occurs only while on authorized leave or while otherwise off duty;
 
-(b) Does not include attempting to represent, or representing the views of VISTAs or the VISTA program on any public issue;
+(b) Does not include attempting to represent, or representing, the views of VISTAs or the VISTA program on any public issue;
 
 (c) Could not be reasonably understood by the community as being identified with the VISTA program, the project, or other elements of VISTA service; and
 

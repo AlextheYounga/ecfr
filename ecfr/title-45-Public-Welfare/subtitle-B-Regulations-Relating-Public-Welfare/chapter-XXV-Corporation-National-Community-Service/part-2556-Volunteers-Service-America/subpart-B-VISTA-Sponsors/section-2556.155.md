@@ -12,11 +12,11 @@
 
 (4) Suspension and termination policies and procedures.
 
-(c) The sponsor retains the responsibility for compliance with a Memorandum of Agreement; the applicable regulations in this Part; and all applicable policies, procedures, and guidance issued by CNCS regarding the VISTA program.
+(c) The sponsor retains the responsibility for compliance with a Memorandum of Agreement; the applicable regulations in this Part; and all applicable policies, procedures, and guidance issued by AmeriCorps regarding the VISTA program.
 
-(d) A sponsor shall not request or receive any compensation from a subrecipient for services performed by a VISTA.
+(d) A sponsor may not request or receive any compensation from a subrecipient for services performed by a VISTA.
 
-(e) A sponsor shall not receive payment from, or on behalf of, the subrecipient for costs of the VISTA assistance, except in two limited circumstances:
+(e) A sponsor may not receive payment from, or on behalf of, the subrecipient for costs of the VISTA assistance, except in two limited circumstances:
 
 (1) For reasonable and actual costs incurred by the sponsor directly related to the subrecipient's participation in a VISTA project; and
 

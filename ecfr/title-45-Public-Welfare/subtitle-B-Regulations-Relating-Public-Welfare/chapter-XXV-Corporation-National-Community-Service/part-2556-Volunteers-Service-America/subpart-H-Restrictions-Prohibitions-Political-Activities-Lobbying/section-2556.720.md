@@ -14,13 +14,13 @@
 
 (6) Serve as a delegate, alternate, or proxy to a political party convention.
 
-(b) A VISTA may participate in a political organization as long as such participation:
+(b) A VISTA may participate in a political organization as long as such participation complies with the restrictions set out in paragraphs (b)(1) through (6) of § 2556.715.
 
-(1) Does not interfere with the performance of, or availability to perform, his or her assigned VISTA project duties;
+(1) Does not interfere with the performance of, or availability to perform, their assigned VISTA project duties;
 
 (2) Does not interfere with the provision of service in the VISTA program;
 
-(3) Is not conducted in a manner involving the use of VISTA assistance, resources or funds;
+(3) Does not involve any use of VISTA assistance, resources or funds;
 
 (4) Would not result in the identification of the VISTA as being a participant in or otherwise associated with the VISTA program;
 

@@ -8,6 +8,6 @@
 
 (3) Monitor on a continuing basis the activity of VISTAs for compliance with this subpart; and
 
-(4) Report all violations, or questionable situations, immediately to the appropriate CNCS State Office.
+(4) Report all violations or questionable situations immediately to the appropriate AmeriCorps Region Office.
 
-(b) Failure of a sponsor to comply with the requirements of this subpart, or a violation of the requirements contained in this subpart by the sponsor or subrecipient, sponsor or subrecipient's covered employees, agents, or VISTAs, may be deemed to be a material failure to comply with terms or conditions of the VISTA program. In such a case, the sponsor shall be subject to procedures related to the denial or reduction, or suspension or termination, of such assistance, as provided in §§ 2556.125, 2556.130, and 2556.140.
+(b) Failure of a sponsor to comply with the requirements of this subpart, or a violation of the requirements contained in this subpart by the sponsor or subrecipient, sponsor or subrecipient's covered employees, agents, or VISTAs, may be deemed a material failure to comply with terms or conditions of the VISTA program. In such a case, the sponsor is subject to procedures related to the denial or reduction, or suspension or termination, of such assistance, as provided in §§ 2556.125, 2556.130, and 2556.140.

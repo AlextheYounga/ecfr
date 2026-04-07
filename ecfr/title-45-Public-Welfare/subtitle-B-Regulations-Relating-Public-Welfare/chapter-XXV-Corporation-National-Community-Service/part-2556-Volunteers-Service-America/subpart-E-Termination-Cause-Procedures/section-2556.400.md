@@ -2,11 +2,11 @@
 
 (a) Termination for cause is discharge of a VISTA from the VISTA program due to a deficiency, or deficiencies, in conduct or performance.
 
-(b) CNCS may terminate for cause a VISTA for any of the following reasons:
+(b) AmeriCorps may terminate a VISTA for cause for any of the following reasons:
 
 (1) Conviction of any criminal offense under Federal, State, or local statute or ordinance;
 
-(2) Violation of any provision of the Domestic Service Volunteer Act of 1973, as amended, or any CNCS or VISTA program policy, regulation, or instruction;
+(2) Violation of any provision of the Domestic Service Volunteer Act of 1973, as amended, or any AmeriCorps or VISTA program policy, regulation, or instruction;
 
 (3) Failure, refusal, or inability to perform prescribed project duties as outlined in the project plan, assignment description, or as directed by the sponsor to which the VISTA is assigned;
 
@@ -14,6 +14,6 @@
 
 (5) Intentional false statement, misrepresentation, omission, fraud, or deception in seeking to obtain selection as a VISTA in the VISTA program;
 
-(6) Any conduct on the part of the VISTA which substantially diminishes his or her effectiveness as a VISTA; or
+(6) Any conduct on the part of the VISTA which substantially diminishes their effectiveness as a VISTA; or
 
 (7) Unsatisfactory performance of an assignment.

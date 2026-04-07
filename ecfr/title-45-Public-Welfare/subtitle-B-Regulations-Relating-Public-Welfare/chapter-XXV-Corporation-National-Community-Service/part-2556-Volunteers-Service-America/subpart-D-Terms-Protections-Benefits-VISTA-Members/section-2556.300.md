@@ -12,10 +12,10 @@
 
 (5) Title II of the Social Security Act—42 U.S.C. 401 *et seq.*
 
-(b) A VISTA is not considered a federal employee for any purposes other than those set forth in paragraph (a) of this section.
+(b) A VISTA is not considered a Federal employee for any purposes other than those set forth in paragraph (a) of this section.
 
-(c) A VISTA is not covered by Federal or state unemployment compensation related to their enrollment or service in the VISTA program. A VISTA's service is not considered employment for purposes of eligibility for, or receipt of, federal, state, or any other unemployment compensation.
+(c) A VISTA is not covered by Federal or State unemployment compensation related to their enrollment or service in the VISTA program. A VISTA's service is not considered employment for purposes of eligibility for, or receipt of, Federal, State, or any other unemployment compensation.
 
-(d) Monetary allowances, such as living allowances that VISTAs receive during VISTA service are not considered wages. Monetary allowances, such as living allowances, that VISTAs receive during VISTA service are considered income for such purposes as Federal income tax and Social Security.
+(d) Monetary allowances, such as living allowances that VISTAs receive during VISTA service, are not considered wages. Monetary allowances, such as living allowances, that VISTAs receive during VISTA service are considered income for such purposes as Federal income tax and Social Security.
 
-(e) A VISTA is not, under any circumstances, considered an employee of the sponsor or subrecipient to which he or she is assigned to serve. No VISTA is in an employment relationship with the sponsor or subrecipient to which he or she is assigned. The sponsor is not authorized to make contributions to any state unemployment compensation fund on a VISTA's behalf.
+(e) A VISTA is not, under any circumstances, considered an employee of the sponsor or subrecipient to which they are assigned to serve. No VISTA is in an employment relationship with the sponsor or subrecipient to which they are assigned. The sponsor is not authorized to make contributions to any State unemployment compensation fund on a VISTA's behalf.
