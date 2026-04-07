@@ -1,14 +1,12 @@
 ##### § 710.26 Conduct of hearings.
 
-Link to an amendment published at 89 FR 59597, July 23, 2024.
-
-(a) In all hearings conducted under this part, the individual shall have the right to be represented by a person of his/her own choosing, at the individual's own expense. The individual is responsible for producing witnesses in his/her own behalf, including requesting the issuance of subpoenas, if necessary, or presenting testimonial, documentary, or physical evidence before the Administrative Judge to support the individual's defense to the derogatory information contained in the notification letter. With the exception of procedural or scheduling matters, the Administrative Judge is prohibited from initiating or otherwise engaging in *ex parte* discussions about the case during the pendency of proceedings under this part.
+(a) In all hearings conducted under this part, the individual shall have the right to be represented by a person of their own choosing, at the individual's own expense. The individual is responsible for producing witnesses in their own behalf, including requesting the issuance of subpoenas, if necessary, or presenting testimonial, documentary, or physical evidence before the Administrative Judge to support the individual's defense to the derogatory information contained in the notification letter. With the exception of procedural or scheduling matters, the Administrative Judge is prohibited from initiating or otherwise engaging in *ex parte* discussions about the case during the pendency of proceedings under this part.
 
 (b) Unless the Administrative Judge finds good cause for deferring issuance of a decision, in the event that the individual unduly delays the hearing, such as by failure to meet deadlines set by the Administrative Judge, the record shall be closed, and an initial decision shall be made by the Manager on the basis of the record in the case per § 710.22(a)(3).
 
 (c) Hearings shall be open only to DOE Counsel, duly authorized representatives of DOE, the individual and the individual's counsel or other representatives, and such other persons as may be authorized by the Administrative Judge. Unless otherwise ordered by the Administrative Judge, witnesses shall testify in the presence of the individual but not in the presence of other witnesses.
 
-(d) DOE Counsel shall assist the Administrative Judge in establishing a complete administrative hearing record in the proceeding and bringing out a full and true disclosure of all facts, both favorable and unfavorable, having a bearing on the issues before the Administrative Judge. The individual shall be afforded the opportunity of presenting testimonial, documentary, and physical evidence, including testimony by the individual in the individual's own behalf. The proponent of a witness shall conduct the direct examination of that witness. All witnesses shall be subject to cross-examination, if possible. Whenever reasonably possible, testimony shall be given in person.
+(d) DOE Counsel shall assist the Administrative Judge in establishing a complete administrative hearing record in the proceeding and bringing out a full and true disclosure of all facts, both favorable and unfavorable, having a bearing on the issues before the Administrative Judge. The individual shall be afforded the opportunity of presenting testimonial, documentary, and physical evidence, including testimony by the individual in the individual's own behalf. All witnesses shall be subject to cross-examination, if possible.
 
 (e) The Administrative Judge may ask the witnesses any questions which the Administrative Judge deems appropriate to assure the fullest possible disclosure of relevant and material facts.
 
@@ -59,3 +57,5 @@ Link to an amendment published at 89 FR 59597, July 23, 2024.
 (q) A written transcript of the entire hearing shall be made and, except for portions containing classified matter, a copy of such transcript shall be furnished to the individual without cost.
 
 (r) Whenever information is made a part of the record under the exceptions authorized by paragraphs (l) or (o) of this section, the record shall contain certificates evidencing that the determinations required therein have been made.
+
+\[81 FR 71335, Oct. 17, 2016, as amended at 89 FR 59597, July 23, 2024\]

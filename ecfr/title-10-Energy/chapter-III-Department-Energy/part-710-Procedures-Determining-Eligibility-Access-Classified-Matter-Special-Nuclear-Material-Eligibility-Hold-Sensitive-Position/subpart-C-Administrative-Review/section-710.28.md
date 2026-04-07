@@ -1,7 +1,5 @@
 ##### § 710.28 Action on the Administrative Judge's decision.
 
-Link to an amendment published at 89 FR 59597, July 23, 2024.
-
 (a) Within 10 calendar days of receipt of the decision and the administrative record, unless an extension of time is granted by the Director, the Manager shall:
 
 (1) Notify the individual in writing of the Administrative Judge's decision;
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 59597, July 23, 2024.
 
 (3) Advise the individual in writing of the appeal procedures available to the Manager and the Director in paragraph (c) of this section if the decision is favorable to the individual; and
 
-(4) Provide the individual and/or his/her counsel or other representative a copy of the Administrative Judge's decision and the administrative record.
+(4) Provide the individual and/or their counsel or other representative a copy of the Administrative Judge's decision and the administrative record.
 
 (b) If the Administrative Judge's decision is unfavorable to the individual:
 
@@ -42,4 +40,4 @@ Link to an amendment published at 89 FR 59597, July 23, 2024.
 
 (e) The party filing a request for review by the Appeal Panel shall include with the request a statement identifying the issues upon which the appeal is based. A copy of the request and statement shall be served on the other party, who may file a response with the Appeal Panel within 20 calendar days of receipt of the statement.
 
-\[81 FR 71335, Oct. 17, 2016, as amended at 88 FR 41292, June 26, 2023\]
+\[81 FR 71335, Oct. 17, 2016, as amended at 88 FR 41292, June 26, 2023; 89 FR 59597, July 23, 2024\]

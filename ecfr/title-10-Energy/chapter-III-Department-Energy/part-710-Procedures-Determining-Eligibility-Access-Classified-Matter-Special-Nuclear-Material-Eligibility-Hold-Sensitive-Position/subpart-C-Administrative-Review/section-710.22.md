@@ -1,7 +1,5 @@
 ##### § 710.22 Initial decision process.
 
-Link to an amendment published at 89 FR 59596, July 23, 2024.
-
 (a) The Manager shall make an initial decision as to the individual's access authorization eligibility based on the existing information in the case if:
 
 (1) The individual fails to respond to the notification letter by filing a timely written request for a hearing before an Administrative Judge or fails to respond to the notification letter after requesting an extension of time to do so;
@@ -20,4 +18,6 @@ Link to an amendment published at 89 FR 59596, July 23, 2024.
 
 (3) That the Director may, for good cause shown, at the written request of the individual, extend the time for filing a written request for a review of the case by the Appeal Panel; and
 
-(4) That if the written request for a review of the Manager's initial decision by the Appeal Panel is not filed within 30 calendar days of the individual's receipt of the Manager's letter, the Manager's initial decision in the case shall be final and not subject to further review or appeal.
+(4) That if the written request for a review of the Manager's initial decision by the Appeal Panel is not filed within 30 calendar days of the individual's receipt of the Manager's letter, or by the date to which the Director has granted an extension, the Manager's initial decision in the case shall be final and not subject to further review or appeal.
+
+\[81 FR 71335, Oct. 17, 2016, as amended at 89 FR 59596, July 23, 2024\]
