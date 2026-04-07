@@ -1,5 +1,7 @@
 ##### § 1.446-3 Notional principal contracts.
 
+Link to an amendment published at 85 FR 56839, Sept. 14, 2020.
+
 (a) *Table of contents.* This paragraph (a) lists captioned paragraphs contained in § 1.446-3.
 
 § 1.446-3 Notional principal contracts.
