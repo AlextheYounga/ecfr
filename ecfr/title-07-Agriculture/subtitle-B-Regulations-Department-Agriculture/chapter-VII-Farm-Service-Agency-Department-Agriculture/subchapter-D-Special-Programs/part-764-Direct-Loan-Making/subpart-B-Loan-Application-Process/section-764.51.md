@@ -46,13 +46,13 @@
 
 (16) For CL only, and if the applicant wishes to request consideration for priority funding, plans to transition to organic or sustainable agriculture when the funds requested will be used to facilitate the transition.
 
-(c) For an ML request, all of the following criteria must be met:
+(c) For an ML for OL purposes request, all of the following criteria must be met:
 
 (1) The loan requested for OL purposes is:
 
 (i) To pay annual or term operating expenses, and
 
-(ii) $50,000 or less and the applicant's total outstanding Agency OL debt at the time of loan closing will be $35,000 or less,
+(ii) $50,000 or less and the applicant's total outstanding Agency OL debt at the time of loan closing will be $50,000 or less,
 
 (2) The applicant must submit the following:
 

@@ -82,7 +82,7 @@
 
 (h) Failed acreage is acreage that was planted with the proper equipment during the planting period but failed as a result of an eligible cause of loss, as determined by CCC.
 
-(i) To be approved by CCC as failed acreage the acreage must have been reported as failed acreage before disposition of the crop, and the acreage must have been planted under normal conditions but failed as the result of a natural disaster and not a management decision. Producers who file a failed acreage report must have the request acted on by the county committee. The county committee maywill deny the acreage report if it is not satisfied with the documentation provided.
+(i) To be approved by CCC as failed acreage the acreage must have been reported as failed acreage before disposition of the crop, and the acreage must have been planted under normal conditions but failed as the result of a natural disaster and not a management decision. Producers who file a failed acreage report must have the request acted on by the county committee. The county committee may will deny the acreage report if it is not satisfied with the documentation provided.
 
 (j) To receive failed acreage credit the producer must show all of the following:
 
