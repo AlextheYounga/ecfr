@@ -1,3 +1,0 @@
-##### § 202.252 Telecommunications service.
-
-The term *telecommunications service* means the provision of voice and data communications services regardless of format or mode of delivery, including communications services delivered over cable, Internet Protocol, wireless, fiber, or other transmission mechanisms, as well as arrangements for network interconnection, transport, messaging, routing, or international voice, text, and data roaming.

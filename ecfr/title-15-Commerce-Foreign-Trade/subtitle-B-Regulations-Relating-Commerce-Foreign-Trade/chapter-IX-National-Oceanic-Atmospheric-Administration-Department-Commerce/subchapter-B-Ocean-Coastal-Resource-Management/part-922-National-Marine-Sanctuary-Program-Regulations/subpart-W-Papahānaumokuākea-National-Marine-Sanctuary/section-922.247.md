@@ -1,3 +1,0 @@
-##### § 922.247 Sunken military craft.
-
-Sunken military craft are administered by the respective Secretary concerned pursuant to the Sunken Military Craft Act (Pub. L. 108-375, Title XIV, sections 1401 to 1408; 10 U.S.C. 113 note). The Director will enter into a Memorandum of Agreement regarding collaboration with other Federal agencies charged with implementing the Sunken Military Craft Act that may address aspects of managing and protecting sunken military craft. The Director will request approval from the Secretary concerned for any terms and conditions of ONMS permits that may involve sunken military craft.

@@ -1,3 +1,0 @@
-##### § 202.303 Prohibited human \`omic data and human biospecimen transactions.
-
-Except as otherwise authorized pursuant to this part, no U.S. person, on or after the effective date, may knowingly engage in any covered data transaction with a country of concern or covered person that involves access by that country of concern or covered person to bulk U.S. sensitive personal data that involves bulk human \`omic data, or to human biospecimens from which bulk human \`omic data could be derived.

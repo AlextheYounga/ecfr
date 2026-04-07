@@ -1,8 +1,8 @@
 ##### § 648.370 Habitat Management Areas.
 
-Unless otherwise specified, no fishing vessel or person on a fishing vessel may fish with bottom-tending mobile gear in the areas defined in this section. Copies of charts depicting these areas are available from the Regional Administrator upon request. 
+Unless otherwise specified, no fishing vessel or person on a fishing vessel may fish with bottom-tending mobile gear in the areas defined in this section. Copies of charts depicting these areas are available from the Regional Administrator upon request.
 
-(a) *Eastern Maine Habitat Management Area.* The Eastern Maine HMA is bounded on the northwest by the outer limit of Maine state waters, and bounded on all other sides by straight lines connecting the following points in the order stated: 
+(a) *Eastern Maine Habitat Management Area.* The Eastern Maine HMA is bounded on the northwest by the outer limit of Maine state waters, and bounded on all other sides by straight lines connecting the following points in the order stated:
 
 Eastern Maine HMA
 | Point                                                                              | N latitude  | W longitude |
@@ -13,7 +13,7 @@ Eastern Maine HMA
 | EMH4 1                                                                             | 43°56.62′ N | 68°38.12′ W |
 | 1 Points 1 and 4 are intended to fall along the outer limit of Maine state waters. |             |             |
 
-(b) *Jeffreys Bank Habitat Management Area.* The Jeffreys Bank HMA is defined by straight lines connecting the following points in the order stated: 
+(b) *Jeffreys Bank Habitat Management Area.* The Jeffreys Bank HMA is defined by straight lines connecting the following points in the order stated:
 
 Jeffreys Bank HMA
 | Point | N latitude | W longitude |
@@ -24,7 +24,7 @@ Jeffreys Bank HMA
 | JBH4  | 43°31′ N   | 68°55′ W    |
 | JBH1  | 43°31′ N   | 68°37′ W    |
 
-(c) *Cashes Ledge Habitat Management Area.* The Cashes Ledge HMA is defined by straight lines connecting the following points in the order stated: 
+(c) *Cashes Ledge Habitat Management Area.* The Cashes Ledge HMA is defined by straight lines connecting the following points in the order stated:
 
 Cashes Ledge HMA
 | Point | N latitude | W longitude |
@@ -35,7 +35,7 @@ Cashes Ledge HMA
 | CLH4  | 42°45.0′ N | 69°00.0′ W  |
 | CLH1  | 43°01.0′ N | 69°00.0′ W  |
 
-(d) *Fippennies Ledge Habitat Management Area.* The Fippennies Ledge HMA is defined by straight lines connecting the following points in the order stated: 
+(d) *Fippennies Ledge Habitat Management Area.* The Fippennies Ledge HMA is defined by straight lines connecting the following points in the order stated:
 
 Fippennies Ledge HMA
 | Point | N latitude | W longitude |
@@ -46,7 +46,7 @@ Fippennies Ledge HMA
 | FLH4  | 42°50.0′ N | 69°21.0′ W  |
 | FLH1  | 42°50.0′ N | 69°17.0′ W  |
 
-(e) *Ammen Rock Habitat Management Area.* (1) The Ammen Rock HMA is defined by straight lines connecting the following points in the order stated: 
+(e) *Ammen Rock Habitat Management Area.* (1) The Ammen Rock HMA is defined by straight lines connecting the following points in the order stated:
 
 Ammen Rock HMA
 | Point | N latitude | W longitude |
@@ -57,9 +57,9 @@ Ammen Rock HMA
 | ARH4  | 42°55.5′ N | 68°59.0′ W  |
 | ARH1  | 42°55.5′ N | 68°57.0′ W  |
 
-(2) No fishing vessel, including private and for-hire recreational fishing vessels, may fish in the Ammen Rock HMA, except for vessels fishing exclusively with lobster traps, as defined in § 697.2. 
+(2) No fishing vessel, including private and for-hire recreational fishing vessels, may fish in the Ammen Rock HMA, except for vessels fishing exclusively with lobster traps, as defined in § 697.2.
 
-(f) *Western Gulf of Maine Habitat Management Area*—(1) *Coordinates.* The Western GOM HMA is defined by the straight lines connecting the following points in the order stated: 
+(f) *Western Gulf of Maine Habitat Management Area*—(1) *Coordinates.* The Western GOM HMA is defined by the straight lines connecting the following points in the order stated:
 
 Table 6 to Paragraph (f)(1)—Western Gulf of Maine HMA
 | Point | N latitude | W longitude |
@@ -70,7 +70,7 @@ Table 6 to Paragraph (f)(1)—Western Gulf of Maine HMA
 | WGMH4 | 43°15′ N   | 70°00′ W    |
 | WGMH1 | 43°15′ N   | 70°15′ W    |
 
-(2) *Western Gulf of Maine Shrimp Exemption Area.* Vessels fishing with shrimp trawls under the Small Mesh Northern Shrimp Fishery Exemption specified at § 648.80(a)(5) may fish within the Western Gulf of Maine HMA Shrimp Exemption Area which is defined by the straight lines connecting the following points in the order stated: 
+(2) *Western Gulf of Maine Shrimp Exemption Area.* Vessels fishing with shrimp trawls under the Small Mesh Northern Shrimp Fishery Exemption specified at § 648.80(a)(5) may fish within the Western Gulf of Maine HMA Shrimp Exemption Area which is defined by the straight lines connecting the following points in the order stated:
 
 Western Gulf of Maine Shrimp Exemption Area
 | Point | N latitude | W longitude |
@@ -85,7 +85,7 @@ Western Gulf of Maine Shrimp Exemption Area
 | SEA8  | 43°15′ N   | 70°15′ W    |
 | SEA1  | 43°15′ N   | 70° W       |
 
-(g) *Closed Area II Habitat Closure Area.* The Closed Area II Habitat Closure Area is defined by the straight lines, except where otherwise noted, connecting the following points in the order stated: 
+(g) *Closed Area II Habitat Closure Area.* The Closed Area II Habitat Closure Area is defined by the straight lines, except where otherwise noted, connecting the following points in the order stated:
 
 Closed Area II Habitat Closure Area
 | Point                                                                                             | N latitude | W longitude | Notes |
@@ -101,7 +101,7 @@ Closed Area II Habitat Closure Area
 | 2 From Point CIIH2 to Point CIIH3 along the U.S.-Canada Maritime Boundary.                        |            |             |       |
 | 3 Point CIIH3 represents the intersection of 42°00′ N lat. and the U.S.-Canada maritime Boundary. |            |             |       |
 
-(h) *Great South Channel Habitat Management Area.* (1) *Coordinates.* The Great South Channel HMA is defined by the straight lines connecting the following points in the order stated: 
+(h) *Great South Channel Habitat Management Area.* (1) *Coordinates.* The Great South Channel HMA is defined by the straight lines connecting the following points in the order stated:
 
 Great South Channel HMA
 | Point | N latitude | W longitude |
@@ -113,21 +113,21 @@ Great South Channel HMA
 | GSCH5 | 41°30.2′ N | 69°49.3′ W  |
 | GSCH1 | 41°30.3′ N | 69°31.0′ W  |
 
-(2) *Atlantic Surfclam and Mussel Dredge Exemption Areas.* (i) *Dredge Exemption Area Requirements.* A vessel may fish in one or more of the Dredge Exemption Areas below, provided the area is open and the vessel meets the following requirements: 
+(2) *Atlantic Surfclam and Mussel Dredge Exemption Areas.* (i) *Dredge Exemption Area Requirements.* A vessel may fish in one or more of the Dredge Exemption Areas below, provided the area is open and the vessel meets the following requirements:
 
-(A) Holds a federal Atlantic surfclam vessel permit. 
+(A) Holds a federal Atlantic surfclam vessel permit.
 
-(B) Has been issued a Letter of Authorization to fish in the Great South Channel HMA from the Regional Administrator. 
+(B) Has been issued a Letter of Authorization to fish in the Great South Channel HMA from the Regional Administrator.
 
-(C) Has a NMFS-approved VMS unit capable of automatically transmitting a signal indicating the vessel's accurate position at least once every 5 minutes while in or near the Great South Channel HMA. 
+(C) Has a NMFS-approved VMS unit capable of automatically transmitting a signal indicating the vessel's accurate position at least once every 5 minutes while in or near the Great South Channel HMA.
 
-(D) Declares each trip into the HMA through the VMS and fishes exclusively inside HMA dredge exemption areas on such trips. 
+(D) Declares each trip into the HMA through the VMS and fishes exclusively inside HMA dredge exemption areas on such trips.
 
-(E) When fishing for surfclams in an HMA exemption area, uses only hydraulic clam dredge gear. 
+(E) When fishing for surfclams in an HMA exemption area, uses only hydraulic clam dredge gear.
 
-(F) When fishing for blue mussels in an HMA exemption area, any dredge on board the vessel does not exceed 8 ft (2.4 m), measured at the widest point in the bail of the dredge, and the vessel does not possess, or land any species of fish other than blue mussels. 
+(F) When fishing for blue mussels in an HMA exemption area, any dredge on board the vessel does not exceed 8 ft (2.4 m), measured at the widest point in the bail of the dredge, and the vessel does not possess, or land any species of fish other than blue mussels.
 
-(ii) *McBlair Dredge Exemption Area.* (A) The McBlair Dredge Exemption Area is defined by the following points connected in the order listed by straight lines: 
+(ii) *McBlair Dredge Exemption Area.* (A) The McBlair Dredge Exemption Area is defined by the following points connected in the order listed by straight lines:
 
 McBlair Dredge Exemption Area
 | Point | Longitude    | Latitude     |
@@ -138,9 +138,9 @@ McBlair Dredge Exemption Area
 | 4     | 69°49.187′ W | 41°19.34′ N  |
 | 1     | 69°49.255′ W | 41°25.878′ N |
 
-(B) The McBlair Dredge Exemption Area is open year-round. 
+(B) The McBlair Dredge Exemption Area is open year-round.
 
-(iii) *Old South Dredge Exemption Area.* (A) The Old South Dredge Exemption Area is defined by the following points connected in the order listed by straight lines: 
+(iii) *Old South Dredge Exemption Area.* (A) The Old South Dredge Exemption Area is defined by the following points connected in the order listed by straight lines:
 
 Old South Dredge Exemption Area
 | Point | Longitude    | Latitude     |
@@ -156,9 +156,9 @@ Old South Dredge Exemption Area
 | 9     | 69°47′ W     | 41°12.5′ N   |
 | 1     | 69°47′ W     | 41°15′ N     |
 
-(B) The Old South Dredge Exemption Area is open from May 1-October 31, and closed to all mobile bottom-tending gear November 1-April 30. 
+(B) The Old South Dredge Exemption Area is open from May 1-October 31, and closed to all mobile bottom-tending gear November 1-April 30.
 
-(iv) *Fishing Rip Dredge Exemption Area.* (A) The Fishing Rip Dredge Exemption Area is defined by the following points connected in the order listed by straight lines: 
+(iv) *Fishing Rip Dredge Exemption Area.* (A) The Fishing Rip Dredge Exemption Area is defined by the following points connected in the order listed by straight lines:
 
 Fishing Rip Dredge Exemption Area
 | Point | Longitude    | Latitude     |
@@ -173,12 +173,12 @@ Fishing Rip Dredge Exemption Area
 | 8     | 69°31.193′ W | 41°7.356′ N  |
 | 1     | 69°28.829′ W | 41°10.963′ N |
 
-(B) The Fishing Rip Dredge Exemption Area is open year-round. 
+(B) The Fishing Rip Dredge Exemption Area is open year-round.
 
-(i) *Transiting.* Unless otherwise restricted, a vessel may transit the habitat management areas described in this section provided that its gear is stowed and not available for immediate use as defined in § 648.2. 
+(i) *Transiting.* Unless otherwise restricted, a vessel may transit the habitat management areas described in this section provided that its gear is stowed and not available for immediate use as defined in § 648.2.
 
-(j) *Other habitat protection measures.* The Inshore Gulf of Maine/Georges Bank Restricted Roller Gear Area described in § 648.80(a)(3)(vii) is considered a habitat protection measure and the restrictions outlined in that section apply to all bottom trawl gear. 
+(j) *Other habitat protection measures.* The Inshore Gulf of Maine/Georges Bank Restricted Roller Gear Area described in § 648.80(a)(3)(vii) is considered a habitat protection measure and the restrictions outlined in that section apply to all bottom trawl gear.
 
-(k) *Review of habitat management measures.* The New England Fishery Management Council will develop a strategic process to evaluate the boundaries, scope, characteristics, and timing of habitat and spawning protection areas to facilitate review of these areas at 10-year intervals. 
+(k) *Review of habitat management measures.* The New England Fishery Management Council will develop a strategic process to evaluate the boundaries, scope, characteristics, and timing of habitat and spawning protection areas to facilitate review of these areas at 10-year intervals.
 
 \[83 FR 15275, Apr. 9, 2018, as amended at 85 FR 29876, May 19, 2020; 88 FR 17402, Mar. 23, 2023\]

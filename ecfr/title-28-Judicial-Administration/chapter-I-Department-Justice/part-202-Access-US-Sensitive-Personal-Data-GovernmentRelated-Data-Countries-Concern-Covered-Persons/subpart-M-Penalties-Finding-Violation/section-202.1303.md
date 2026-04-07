@@ -1,3 +1,0 @@
-##### § 202.1303 Penalty imposition.
-
-If, after considering any written response to the pre-penalty notice and any relevant facts, the Department of Justice determines that there was a violation by the alleged violator named in the pre-penalty notice and that a civil monetary penalty is appropriate, the Department of Justice may issue a penalty notice to the violator containing a determination of the violation and the imposition of the monetary penalty. The Department shall provide the violator with any relevant, non-classified information that forms the basis of the penalty. The issuance of the penalty notice shall constitute final agency action. The violator has the right to seek judicial review of that final agency action in Federal district court.

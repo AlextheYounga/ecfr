@@ -1,3 +1,0 @@
-##### § 202.240 Personal financial data.
-
-The term *personal financial data* means data about an individual's credit, charge, or debit card, or bank account, including purchases and payment history; data in a bank, credit, or other financial statement, including assets, liabilities, debts, or trades in a securities portfolio; or data in a credit report or in a “consumer report” (as defined in 15 U.S.C. 1681a(d)).
