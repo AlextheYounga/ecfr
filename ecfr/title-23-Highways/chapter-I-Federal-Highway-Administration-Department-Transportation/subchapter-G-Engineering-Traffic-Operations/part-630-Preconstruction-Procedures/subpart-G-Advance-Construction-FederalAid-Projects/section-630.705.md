@@ -1,11 +1,13 @@
 ##### § 630.705 Procedures.
 
-(a) An advance construction project shall meet the same requirements and be processed in the same manner as a regular Federal-aid project, except, 
+Link to an amendment published at 90 FR 40737, Aug. 21, 2025.
 
-(1) The FHWA authorization does not constitute any commitment of Federal funds on the project, and 
+(a) An advance construction project shall meet the same requirements and be processed in the same manner as a regular Federal-aid project, except,
 
-(2) The FHWA shall not reimburse the State until the project is converted under § 630.709. 
+(1) The FHWA authorization does not constitute any commitment of Federal funds on the project, and
 
-(b) Project numbers shall be identified by the letters “AC” preceding the regular project number prefix. 
+(2) The FHWA shall not reimburse the State until the project is converted under § 630.709.
+
+(b) Project numbers shall be identified by the letters “AC” preceding the regular project number prefix.
 
 \[60 FR 36993, July 19, 1995, as amended at 68 FR 60033, Oct. 21, 2003\]
