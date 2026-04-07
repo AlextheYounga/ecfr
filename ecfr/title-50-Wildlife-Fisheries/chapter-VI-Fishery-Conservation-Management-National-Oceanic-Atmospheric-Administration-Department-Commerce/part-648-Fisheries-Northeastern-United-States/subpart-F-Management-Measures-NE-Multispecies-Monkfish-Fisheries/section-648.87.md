@@ -276,7 +276,7 @@ GOM Winter Flounder Stock Area
 
 (F) A description of the applicant's ability to carry out the responsibilities and duties of a sector monitoring service provider and the arrangements to be used, including whether the service provider is able to offer at-sea or electronic monitoring services;
 
-(G) Evidence of adequate insurance (copies of which shall be provided to the vessel owner, operator, or vessel manager, when requested) to cover injury, liability, and accidental death to cover at-sea monitors (including during training) and electronic monitoring staff who provide electronic monitoring services to vessels; vessel owner; and service provider. NMFS will determine the adequate level of insurance and notify potential service providers;
+(G) Evidence of holding insurance specified at § 600.748(b) and (c) of this chapter.
 
 (H) Proof of benefits and personnel services provided in accordance with the terms of each monitor's or electronic monitoring staff's contract or employment status;
 
