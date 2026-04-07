@@ -1,7 +1,5 @@
 ##### § 401.43 Regulatory program fees.
 
-Link to an amendment published at 83 FR 26355, June 7, 2018.
-
 (a) *Purpose.* The purpose of this section is to provide an adequate, stable and reliable stream of revenue to cover the cost of the Commission's regulatory program activities, an important means by which the Commission coordinates management of the shared water resources of the Basin. Activities to be covered by the fees include the review of applications for projects that are subject to review under the Delaware River Basin Compact and implementing regulations; and ongoing activities associated with such projects, including but not limited to, effluent and ambient monitoring, data analysis, hydrodynamic and water quality modeling, and coordination with state and federal agencies.
 
 (b) *Types of fees.* The following types of fees are established by this section:
@@ -50,28 +48,30 @@ Link to an amendment published at 83 FR 26355, June 7, 2018.
 
 (e) *Fee schedules.* The fees described in this section shall be as follows:
 
-Table 1 to § 401.43 - Docket Application Filing Fee
+Table 1 To § 401.43 - Docket Application Filing Fee
 
-| Project type         | Docket application fee                                                                                                                | Fee maximum                                      |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| Water Allocation     | $405 per million gallons/month of allocation, 1 not to exceed $15,190. 1 Fee is doubled for any portion to be exported from the basin | Greater of: $15,190 1 or Alternative Review Fee. |
-| Wastewater Discharge | Private projects: $1,013 1   Public projects: $506 1                                                                                  | Alternative Review Fee.                          |
-| Other                | 0.4% of project cost up to $10,000,000 plus 0.12% of project cost above $10,000,000 (if applicable), not to exceed $75,951 1          | Greater of: $75,951 1 or Alternative Review Fee. |
+| Project type         | Docket application fee                                                                                                                   | Fee maximum                                      |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| Water Allocation     | $411 per million gallons/month of allocation 1, not to exceed $15,401 1.   Fee is doubled for any portion to be exported from the basin. | Greater of: $15,401 1 or Alternative Review Fee. |
+| Wastewater Discharge | Private projects: $1,027 1   Public projects: $513 1                                                                                     | Alternative Review Fee.                          |
+| Other                | 0.4% of project cost up to $10,000,000 plus 0.12% of project cost above $10,000,000 (if applicable), not to exceed $77,003 1             | Greater of: $77,003 1 or Alternative Review Fee. |
 
 1 Subject to annual adjustment in accordance with paragraph (c) of this section.
 
 Table 2 to § 401.43 - Annual Monitoring and Coordination Fee
 
-|                      | Annual fee     | Allocation                      |
-| -------------------- | -------------- | ------------------------------- |
-| Water Allocation     | 1 $304   1 456 | <4.99 mgm.   5.00 to 49.99 mgm. |
-|                      | 1 658          | 50.00 to 499.99 mgm.            |
-|                      | 1 835          | 500.00 to 9,999.99 mgm.         |
-|                      | 1 1,013        | \>or = to 10,000 mgm.           |
-|                      | Annual fee     | Discharge design capacity       |
-| Wastewater Discharge | 1 $304   1 618 | <0.05 mgd.   0.05 to 1 mgd.     |
-|                      | 1 830          | 1 to 10 mgd.                    |
-|                      | 1 1,013        | \>10 mgd.                       |
+|                      | Annual fee | Allocation                |
+| -------------------- | ---------- | ------------------------- |
+| Water Allocation     | 1 $308     | <4.99 mgm.                |
+|                      | 1 $462     | 5.00 to 49.99 mgm.        |
+|                      | 1 $667     | 50.00 to 499.99 mgm.      |
+|                      | 1 $847     | 500.00 to 9,999.99 mgm.   |
+|                      | 1 $1,027   | \> or = to 10,000 mgm.    |
+|                      | Annual fee | Discharge design capacity |
+| Wastewater Discharge | 1 $308     | <0.05 mgd.                |
+|                      | 1 $626     | 0.05 to 1 mgd.            |
+|                      | 1 $842     | 1 to 10 mgd.              |
+|                      | 1 $1,027   | \>10 mgd.                 |
 
 1 Subject to annual adjustment in accordance with paragraph (c) of this section.
 
@@ -80,11 +80,11 @@ Table 3 to § 401.43 - Additional Fees
 | Proposed action                        | Fee                                                                                         | Fee maximum             |
 | -------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------- |
 | Emergency Approval Under 18 CFR 401.40 | $5,000                                                                                      | Alternative Review Fee. |
-| Late Filed Renewal Surcharge           | $2,000                                                                                      |                         |
+| Late Filed Renewal Surcharge           | $2,000.                                                                                     |                         |
 | Modification of a DRBC Approval        | At Executive Director's discretion, Docket Application Fee for the appropriate project type | Alternative Review Fee. |
-| Name change                            | $1,013 1                                                                                    |                         |
-| Change of Ownership                    | $1,519 1                                                                                    |                         |
+| Name change                            | $1,027 1.                                                                                   |                         |
+| Change of Ownership                    | $1,540 1                                                                                    |                         |
 
 1 Subject to annual adjustment in accordance with paragraph (c) of this section.
 
-\[81 FR 95861, Dec. 29, 2016, as amended at 82 FR 7647, Jan. 23, 2017; 82 FR 26989, June 13, 2017\]
+\[81 FR 95861, Dec. 29, 2016, as amended at 82 FR 7647, Jan. 23, 2017; 82 FR 26989, June 13, 2017; 83 FR 26355, June 7, 2018\]
