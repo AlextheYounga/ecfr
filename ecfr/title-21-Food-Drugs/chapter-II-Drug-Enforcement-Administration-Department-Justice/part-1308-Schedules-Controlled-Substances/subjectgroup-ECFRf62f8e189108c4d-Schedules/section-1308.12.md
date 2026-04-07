@@ -1,10 +1,10 @@
 ##### § 1308.12 Schedule II.
 
-(a) Schedule II shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the Controlled Substances Code Number set forth opposite it. 
+(a) Schedule II shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the Controlled Substances Code Number set forth opposite it.
 
-(b) *Substances, vegetable origin or chemical synthesis.* Unless specifically excepted or unless listed in another schedule, any of the following substances whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis: 
+(b) *Substances, vegetable origin or chemical synthesis.* Unless specifically excepted or unless listed in another schedule, any of the following substances whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
-(1) Opium and opiate, and any salt, compound, derivative, or preparation of opium or opiate excluding apomorphine, thebaine-derived butorphanol, dextrorphan, nalbuphine, naldemedine, nalmefene, naloxegol, naloxone, 6β-naltrexol, naltrexone, and samidorphan, and their respective salts, but including the following: 
+(1) Opium and opiate, and any salt, compound, derivative, or preparation of opium or opiate excluding apomorphine, thebaine-derived butorphanol, dextrorphan, nalbuphine, naldemedine, nalmefene, naloxegol, naloxone, 6β-naltrexol, naltrexone, and samidorphan, and their respective salts, but including the following:
 
 | (i) Codeine                  | 9050 |
 | (ii) Dihydroetorphine        | 9334 |
@@ -26,21 +26,21 @@
 | (xviii) Thebaine             | 9333 |
 | (xix) Tincture of opium      | 9630 |
 
-(2) Any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of the substances referred to in paragraph (b) (1) of this section, except that these substances shall not include the isoquinoline alkaloids of opium. 
+(2) Any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of the substances referred to in paragraph (b) (1) of this section, except that these substances shall not include the isoquinoline alkaloids of opium.
 
-(3) Opium poppy and poppy straw. 
+(3) Opium poppy and poppy straw.
 
-(4) Coca leaves (9040) and any salt, compound, derivative or preparation of coca leaves (including cocaine (9041) and ecgonine (9180) and their salts, isomers, derivatives and salts of isomers and derivatives), and any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of these substances, except that the substances shall not include: 
+(4) Coca leaves (9040) and any salt, compound, derivative or preparation of coca leaves (including cocaine (9041) and ecgonine (9180) and their salts, isomers, derivatives and salts of isomers and derivatives), and any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of these substances, except that the substances shall not include:
 
-(i) Decocainized coca leaves or extraction of coca leaves, which extractions do not contain cocaine or ecgonine; 
+(i) Decocainized coca leaves or extraction of coca leaves, which extractions do not contain cocaine or ecgonine;
 
-(ii) \[ 123I\]ioflupane; or 
+(ii) \[ 123I\]ioflupane; or
 
-(iii) \[ 18F\]FP-CIT. 
+(iii) \[ 18F\]FP-CIT.
 
-(5) Concentrate of poppy straw (the crude extract of poppy straw in either liquid, solid or powder form which contains the phenanthrene alkaloids of the opium poppy), 9670. 
+(5) Concentrate of poppy straw (the crude extract of poppy straw in either liquid, solid or powder form which contains the phenanthrene alkaloids of the opium poppy), 9670.
 
-(c) *Opiates.* Unless specifically excepted or unless in another schedule any of the following opiates, including its isomers, esters, ethers, salts and salts of isomers, esters and ethers whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation, dextrorphan and levopropoxyphene excepted: 
+(c) *Opiates.* Unless specifically excepted or unless in another schedule any of the following opiates, including its isomers, esters, ethers, salts and salts of isomers, esters and ethers whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation, dextrorphan and levopropoxyphene excepted:
 
 | (1) Alfentanil                                                                                                               | 9737 |
 | (2) Alphaprodine                                                                                                             | 9010 |
@@ -74,7 +74,7 @@
 | (29) Tapentadol                                                                                                              | 9780 |
 | (30) Thiafentanil                                                                                                            | 9729 |
 
-(d) *Stimulants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system: 
+(d) *Stimulants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system:
 
 | (1) Amphetamine, its salts, optical isomers, and salts of its optical isomers | 1100  |
 | (2) Methamphetamine, its salts, isomers, and salts of its isomers             | 1105  |
@@ -82,7 +82,7 @@
 | (4) Methylphenidate                                                           | 1724  |
 | (5) Lisdexamfetamine, its salts, isomers, and salts of its isomers            | 1205. |
 
-(e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation: 
+(e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
 | (1) Amobarbital   | 2125 |
 | (2) Glutethimide  | 2550 |
@@ -96,19 +96,19 @@
 | \[Another name for nabilone: (±)-trans-3-(1,1-dimethylheptyl)-6,6a,7,8,10,10a-hexahydro-1-hydroxy-6,6-dimethyl-9H-dibenzo\[b,d\]pyran-9-one\]                   |        |
 | (2) Dronabinol \[(-)-delta-9-trans tetrahydrocannabinol\] in an oral solution in a drug product approved for marketing by the U.S. Food and Drug Administration | (7365) |
 
-(g) *Immediate precursors.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances: 
+(g) *Immediate precursors.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances:
 
-(1) Immediate precursor to amphetamine and methamphetamine: 
+(1) Immediate precursor to amphetamine and methamphetamine:
 
 | (i) Phenylacetone                                                                               | 8501 |
 | Some trade or other names: phenyl-2-propanone; P2P; benzyl methyl ketone; methyl benzyl ketone; |      |
 
-(2) Immediate precursors to phencyclidine (PCP): 
+(2) Immediate precursors to phencyclidine (PCP):
 
 | (i) 1-phenylcyclohexylamine                    | 7460 |
 | (ii) 1-piperidinocyclohexanecarbonitrile (PCC) | 8603 |
 
-(3) Immediate precursor to fentanyl: 
+(3) Immediate precursor to fentanyl:
 
 | (i) 4-anilino-N-phenethylpiperidine (ANPP)                 | 8333 |
 | (ii) N-phenyl-N-(piperidin-4-yl)propionamide (norfentanyl) | 8366 |
