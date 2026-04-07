@@ -1,6 +1,6 @@
 ##### § 61.9 Establishment of chargeable rates.
 
-(a) Under section 1308 of the Act, we are establishing annual chargeable rates for each $100 of flood insurance coverage as follows for Pre-FIRM, A zone properties, Pre-FIRM, V-zone properties, and emergency program properties.
+(a) Under section 1308 of the Act, we are establishing annual chargeable rates for each $100 of flood insurance coverage as follows for Pre-FIRM, A zone properties, Pre-FIRM, V-zone properties, and emergency program properties. 
 
 | Type of structure                                                                                                                                                                                                                                               | A zone 1 rates per year   per $100 coverage on: | V zone 2 rates per year   per $100 coverage on: |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
@@ -14,12 +14,12 @@
 | 2 V zones are zones V1-V30, VE, and unnumbered V zones.                                                                                                                                                                                                         |                                                 |                                                 |
 | 3 Residential Condominium Building Association Policies (RCBAP) are distinguished between High Rise (those structures that have 3 or more floors and 5 or more units) and Low Rise (those structures that have either less than 3 floors or less than 5 units). |                                                 |                                                 |
 
-(b) We will charge rates for contents in pre-FIRM buildings according to the use of the building.
+(b) We will charge rates for contents in pre-FIRM buildings according to the use of the building. 
 
-(c) A-zone rates for buildings without basements or enclosures apply uniformly to all buildings throughout emergency program communities.
+(c) A-zone rates for buildings without basements or enclosures apply uniformly to all buildings throughout emergency program communities. 
 
-(d) Properties that meet the definition of Severe Repetitive Loss properties as defined in § 79.2(g) of this subchapter, and who refuse an offer of mitigation pursuant to § 79.7 of this subchapter are not eligible for the rates identified in paragraphs (a) through (c) of this section.
+(d) Properties that meet the definition of Severe Repetitive Loss properties as defined in § 79.2(g) of this subchapter, and who refuse an offer of mitigation pursuant to § 79.7 of this subchapter are not eligible for the rates identified in paragraphs (a) through (c) of this section. 
 
-(e) Properties leased from the Federal Government and located either on the river-facing side of a dike, levee, or other riverine flood control structure, or seaward of any seawall or other coastal flood control structure are not eligible for the rates identified in paragraphs (a) through (c) of this section.
+(e) Properties leased from the Federal Government and located either on the river-facing side of a dike, levee, or other riverine flood control structure, or seaward of any seawall or other coastal flood control structure are not eligible for the rates identified in paragraphs (a) through (c) of this section. 
 
 \[64 FR 13116, Mar. 17, 1999, as amended at 67 FR 8905, Feb. 27, 2002; 68 FR 15668, Apr. 1, 2003; 72 FR 61737, Oct. 31, 2007\]

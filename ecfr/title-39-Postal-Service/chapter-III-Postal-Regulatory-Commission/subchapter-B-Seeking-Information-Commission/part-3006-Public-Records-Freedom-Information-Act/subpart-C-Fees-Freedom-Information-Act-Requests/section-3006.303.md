@@ -1,4 +1,4 @@
-##### § 3006.53 Fee schedule.
+##### § 3006.303 Fee schedule.
 
 (a) Fees will be calculated as follows: 
 
@@ -12,6 +12,4 @@
 
 (5) *Additional services.* Postage, insurance, and other additional services that may be arranged for by the requester will be charged at actually incurred cost. 
 
-(b) In addition to the fee waiver provisions of § 3006.52(d), fees may be waived at the discretion of the Commission. 
-
-\[74 FR 57256, Nov. 5, 2009, as amended at 85 FR 9618, Feb. 19, 2020\]
+(b) In addition to the fee waiver provisions of § 3006.302(d), fees may be waived at the discretion of the Commission.

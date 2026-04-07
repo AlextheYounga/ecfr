@@ -1,6 +1,6 @@
 ##### § 61.6 Maximum amounts of coverage available.
 
-(a) Pursuant to section 1306 of the Act, the following are the limits of coverage available under the emergency program and under the regular program.
+(a) Pursuant to section 1306 of the Act, the following are the limits of coverage available under the emergency program and under the regular program. 
 
 Table 1 to Paragraph (a)—Maximum Amounts of Coverage Available 1
 | Occupancy                                                                                                                                                                                                                                                                                                                                                                                           | Emergency   Program | Regular Program                                     |
@@ -20,6 +20,6 @@ Table 1 to Paragraph (a)—Maximum Amounts of Coverage Available 1
 | \* In Alaska, Guam, Hawaii, and U.S. Virgin Islands, the amount available is $50,000.                                                                                                                                                                                                                                                                                                               |                     |                                                     |
 | \*\* In Alaska, Guam, Hawaii, and U.S. Virgin Islands, the amount available is $150,000.                                                                                                                                                                                                                                                                                                            |                     |                                                     |
 
-(b) Coverage and benefits payable under the SFIP pursuant to § 61.3(b) and (c) are included in, not in addition to, the coverage limits provided by the Act or stated in paragraph (a) of this section.
+(b) Coverage and benefits payable under the SFIP pursuant to § 61.3(b) and (c) are included in, not in addition to, the coverage limits provided by the Act or stated in paragraph (a) of this section. 
 
 \[85 FR 43958, July 20, 2020; 86 FR 10029, Feb. 18, 2021, as amended at 86 FR 62104, Nov. 9, 2021\]

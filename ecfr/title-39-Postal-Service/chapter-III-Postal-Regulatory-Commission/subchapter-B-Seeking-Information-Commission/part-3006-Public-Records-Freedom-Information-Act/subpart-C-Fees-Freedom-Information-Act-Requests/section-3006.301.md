@@ -1,6 +1,6 @@
-##### § 3006.51 Fees—request category.
+##### § 3006.301 Request category.
 
-(a) The level of fee charged depends on the request category. 
+(a) *Fees.* The level of fee charged depends on the request category. 
 
 (1) *Commercial use.* A request appearing to be for commercial use will be charged the full direct costs of searching for, reviewing, and duplicating the records sought. 
 
@@ -10,6 +10,4 @@
 
 (4) *Other requesters.* A request from any other person will be charged the full direct cost of searching for, reviewing, and duplicating records responsive to the request, except that the first 100 pages of duplication and the first 2 hours of search/review will be furnished without charge. 
 
-(b) *Privacy Act.* A request by an individual for the individual's own records in a system of records will be charged fees as provided under the Commission's Privacy Act regulations in part 3005 of this chapter. 
-
-\[74 FR 57256, Nov. 5, 2009, as amended at 85 FR 9617, Feb. 19, 2020\]
+(b) *Privacy Act.* A request by an individual for the individual's own records in a system of records will be charged fees as provided under the Commission's Privacy Act regulations in part 3005 of this chapter.

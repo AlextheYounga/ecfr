@@ -1,4 +1,4 @@
-##### § 3006.52 Fees—general provisions.
+##### § 3006.302 General provisions.
 
 (a) The Commission may charge search fees even if no records are found or if the records found are exempt from disclosure. 
 
@@ -12,14 +12,12 @@
 
 (d) Records will be provided without charge or at a reduced charge if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester. 
 
-(e) No requester will be charged a fee after any search or response which occurs after the applicable time limits as described in §§ 3006.43 and 3006.44, unless: 
+(e) No requester will be charged a fee after any search or response which occurs after the applicable time limits as described in §§ 3006.202 and 3006.203, unless: 
 
-(1) The Commission extends the time limit for its response due to unusual circumstances, pursuant to § 3006.45(a), and the Commission completes its response within the extension of time provided under that section; or 
+(1) The Commission extends the time limit for its response due to unusual circumstances, pursuant to § 3006.201(d), and the Commission completes its response within the extension of time provided under that section; or 
 
 (2) The Commission extends the time limit for its response due to unusual circumstances and more than 5,000 pages are necessary to respond to the request and the Commission has discussed with the requester how they could effectively limit the scope of the request or made at least three good faith attempts to do so; or 
 
 (3) A court has determined that exceptional circumstances exist and excused the Commission from responding by court order. 
 
-(f) The Commission may, however, charge fees for review, and in some cases duplication, for a partial grant of a request while it reviews records that may be exempt and may be responsive to the request, so long as the partial grant is made within the applicable time limits. 
-
-\[74 FR 57256, Nov. 5, 2009, as amended at 82 FR 12508, Mar. 6, 2017; 85 FR 9617, Feb. 19, 2020\]
+(f) The Commission may, however, charge fees for review, and in some cases duplication, for a partial grant of a request while it reviews records that may be exempt and may be responsive to the request, so long as the partial grant is made within the applicable time limits.
