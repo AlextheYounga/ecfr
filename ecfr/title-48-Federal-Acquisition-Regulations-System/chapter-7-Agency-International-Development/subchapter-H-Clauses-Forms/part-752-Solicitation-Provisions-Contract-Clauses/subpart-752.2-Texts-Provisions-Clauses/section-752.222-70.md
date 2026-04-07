@@ -1,5 +1,7 @@
 ##### 752.222-70 USAID disability policy.
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in 722.810, the contracting officer must insert the following clause in Section H of all solicitations and resulting awards.
 
 USAID Disability Policy (DEC 2004)

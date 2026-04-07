@@ -1,8 +1,6 @@
-##### § 652.207 How does a State meet the requirement for universal access to services provided under the Wagner-Peyser Act?
+##### § 652.207 How does a State meet the requirement for universal access to Employment Service services?
 
-Link to an amendment published at 88 FR 82726, Nov. 24, 2023.
-
-(a) A State has discretion in how it meets the requirement for universal access to services provided under the Wagner-Peyser Act. In exercising this discretion, a State must meet the Wagner-Peyser Act's requirements.
+(a) A State has discretion in how it meets the requirement for universal access to ES services. In exercising this discretion, a State must meet the Wagner-Peyser Act's requirements.
 
 (b) These requirements are:
 
@@ -20,4 +18,4 @@ Link to an amendment published at 88 FR 82726, Nov. 24, 2023.
 
 (4) Those labor exchange services provided under the Wagner-Peyser Act in a local area must be described in the Memorandum of Understanding (MOU) described in § 678.500 of this chapter.
 
-\[81 FR 56337, Aug. 19, 2016, as amended at 85 FR 626, Jan. 6, 2020\]
+\[81 FR 56337, Aug. 19, 2016, as amended at 85 FR 626, Jan. 6, 2020; 88 FR 82726, Nov. 24, 2023\]
