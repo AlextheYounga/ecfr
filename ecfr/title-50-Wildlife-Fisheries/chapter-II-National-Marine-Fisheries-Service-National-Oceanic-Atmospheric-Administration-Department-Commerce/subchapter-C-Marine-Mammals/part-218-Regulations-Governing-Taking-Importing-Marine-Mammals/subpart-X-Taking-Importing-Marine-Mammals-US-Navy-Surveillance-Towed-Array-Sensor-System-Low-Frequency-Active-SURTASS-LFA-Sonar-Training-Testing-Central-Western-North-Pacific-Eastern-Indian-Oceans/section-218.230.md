@@ -1,6 +1,6 @@
 ##### § 218.230 Specified activity, level of taking, and species/stocks.
 
-Regulations in this subpart apply to the U.S. Navy (Navy) for the taking of marine mammals that occurs incidental to the Navy's SURTASS LFA sonar training and testing activities under authority of the Secretary of the Navy within the central and western North Pacific and eastern Indian Oceans (SURTASS LFA Sonar Study Area) (Table 1 to § 218.230).
+Regulations in this subpart apply to the U.S. Navy (Navy) for the taking of marine mammals that occurs incidental to the Navy's SURTASS LFA sonar training and testing activities under authority of the Secretary of the Navy within the central and western North Pacific and eastern Indian Oceans (SURTASS LFA Sonar Study Area) (Table 1 to § 218.230). 
 
 Table 1 to § 218.230—Species/Stocks Proposed for Authorization by Level B Harassment for the 7-Year Period of the Proposed Rule by SURTASS LFA Sonar Training and Testing Activities
 | Species                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Stock 1                                      |

@@ -1,18 +1,18 @@
 ##### § 665.269 Annual Catch Limits (ACL).
 
-(a) *General.* The ACLs limiting the amount of precious coral that may be taken in any precious coral permit area during the fishing year are listed in paragraph (c) of this section. Only live coral is counted toward the ACL. The accounting period for each fishing year for all precious coral ACLs begins July 1 and ends June 30 of the following year.
+(a) *General.* The ACLs limiting the amount of precious coral that may be taken in any precious coral permit area during the fishing year are listed in paragraph (c) of this section. Only live coral is counted toward the ACL. The accounting period for each fishing year for all precious coral ACLs begins July 1 and ends June 30 of the following year. 
 
-(b) *Reserves and reserve release.* The ACL for exploratory area X-P-H will be held in reserve for harvest by vessels of the United States in the following manner:
+(b) *Reserves and reserve release.* The ACL for exploratory area X-P-H will be held in reserve for harvest by vessels of the United States in the following manner: 
 
-(1) At the start of the fishing year, the reserve for the Hawaii exploratory areas will equal the ACL minus the estimated domestic annual harvest for that year.
+(1) At the start of the fishing year, the reserve for the Hawaii exploratory areas will equal the ACL minus the estimated domestic annual harvest for that year. 
 
-(2) As soon as practicable after December 31 each year, the Regional Administrator will determine the amount harvested by vessels of the United States between July 1 and December 31 of the year that just ended on December 31.
+(2) As soon as practicable after December 31 each year, the Regional Administrator will determine the amount harvested by vessels of the United States between July 1 and December 31 of the year that just ended on December 31. 
 
-(3) NMFS will release to TALFF an amount of Hawaii precious coral for each exploratory area equal to the ACL minus two times the amount harvested by vessels of the United States in that July 1-December 31 period.
+(3) NMFS will release to TALFF an amount of Hawaii precious coral for each exploratory area equal to the ACL minus two times the amount harvested by vessels of the United States in that July 1-December 31 period. 
 
-(4) NMFS will publish in the Federal Register a notification of the Regional Administrator's determination and a summary of the information on which it is based as soon as practicable after the determination is made.
+(4) NMFS will publish in the Federal Register a notification of the Regional Administrator's determination and a summary of the information on which it is based as soon as practicable after the determination is made. 
 
-(c) *Precious coral.* In accordance with § 665.4, the ACLs for MHI precious coral permit areas for each fishing year are as follows:
+(c) *Precious coral.* In accordance with § 665.4, the ACLs for MHI precious coral permit areas for each fishing year are as follows: 
 
 Table 1 to Paragraph (c)
 | Type of coral bed | Area and coral group               | 2022-23 ACL (lb) | 2023-24 ACL (lb) | 2024-25 ACL (lb) |

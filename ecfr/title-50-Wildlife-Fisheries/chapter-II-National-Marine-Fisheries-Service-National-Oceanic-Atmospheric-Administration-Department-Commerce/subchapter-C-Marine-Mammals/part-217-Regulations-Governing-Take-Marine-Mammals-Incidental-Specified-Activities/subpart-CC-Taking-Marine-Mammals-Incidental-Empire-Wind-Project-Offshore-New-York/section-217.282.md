@@ -1,14 +1,14 @@
 ##### § 217.282 Permissible methods of taking.
 
-Under the LOA, issued pursuant to §§ 216.106 and 217.286, LOA Holder, and those persons it authorizes or funds to conduct activities on its behalf, may incidentally, but not intentionally, take marine mammals within the vicinity of BOEM Lease Area OCS-A 0512 Commercial Lease of Submerged Lands for Renewable Energy Development, along export cable routes, and at the two sea-to-shore transition points located at the South Brooklyn Marine Terminal, in Brooklyn, NY (Empire Wind 1), and Long Island, NY (Empire Wind 2), in the following ways, provided LOA Holder is in complete compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA:
+Under the LOA, issued pursuant to §§ 216.106 and 217.286, LOA Holder, and those persons it authorizes or funds to conduct activities on its behalf, may incidentally, but not intentionally, take marine mammals within the vicinity of BOEM Lease Area OCS-A 0512 Commercial Lease of Submerged Lands for Renewable Energy Development, along export cable routes, and at the two sea-to-shore transition points located at the South Brooklyn Marine Terminal, in Brooklyn, NY (Empire Wind 1), and Long Island, NY (Empire Wind 2), in the following ways, provided LOA Holder is in complete compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA: 
 
-(a) By Level B harassment associated with the acoustic disturbance of marine mammals by impact pile driving (WTG and OSS foundation installation), impact and vibratory pile driving during cable landfall and marina activities, and HRG site characterization surveys;
+(a) By Level B harassment associated with the acoustic disturbance of marine mammals by impact pile driving (WTG and OSS foundation installation), impact and vibratory pile driving during cable landfall and marina activities, and HRG site characterization surveys; 
 
-(b) By Level A harassment associated with the acoustic disturbance of marine mammals by impact pile driving of WTG and OSS foundations;
+(b) By Level A harassment associated with the acoustic disturbance of marine mammals by impact pile driving of WTG and OSS foundations; 
 
-(c) Take by mortality (death) or serious injury of any marine mammal species is not authorized; and
+(c) Take by mortality (death) or serious injury of any marine mammal species is not authorized; and 
 
-(d) The incidental take of marine mammals by the activities listed in paragraphs (a) and (b) of this section is limited to the following species:
+(d) The incidental take of marine mammals by the activities listed in paragraphs (a) and (b) of this section is limited to the following species: 
 
 Table 1 to Paragraph (d)
 | Marine mammal species        | Scientific name            | Stock                             |

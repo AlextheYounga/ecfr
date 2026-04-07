@@ -1,8 +1,8 @@
 ##### § 622.74 Area closures to protect Gulf corals.
 
-For the purposes of this section, fishing gear is deployed if any part of the gear is in contact with the water.
+For the purposes of this section, fishing gear is deployed if any part of the gear is in contact with the water. 
 
-(a) *Florida Middle Grounds HAPC.* Deployment of a bottom longline, bottom trawl, dredge, pot, or trap is prohibited year-round in the area bounded by rhumb lines connecting the following points in order:
+(a) *Florida Middle Grounds HAPC.* Deployment of a bottom longline, bottom trawl, dredge, pot, or trap is prohibited year-round in the area bounded by rhumb lines connecting the following points in order: 
 
 Table 1 to Paragraph (a)
 | Point | North lat. | West long. |
@@ -14,11 +14,11 @@ Table 1 to Paragraph (a)
 | E     | 28°26.600′ | 84°24.800′ |
 | A     | 28°42.500′ | 84°24.800′ |
 
-(b) *Tortugas marine reserves HAPC.* Fishing for any species and bottom anchoring by fishing vessels are prohibited year-round in the areas of the HAPC.
+(b) *Tortugas marine reserves HAPC.* Fishing for any species and bottom anchoring by fishing vessels are prohibited year-round in the areas of the HAPC. 
 
-(1) *EEZ portion of Tortugas North HAPC.* The area is bounded by rhumb lines connecting the following points in order: From point A at 24°40.000′ N lat., 83°06.000′ W long. to point B at 24°46.000′ N lat., 83°06.000′ W long. to point C at 24°46.000′ N lat., 83°00.000′ W long.; then along the line denoting the seaward limit of Florida state waters, as shown on the current edition of NOAA chart 11434, to point A at 24°40.000′ N lat., 83°06.000′ W long.
+(1) *EEZ portion of Tortugas North HAPC.* The area is bounded by rhumb lines connecting the following points in order: From point A at 24°40.000′ N lat., 83°06.000′ W long. to point B at 24°46.000′ N lat., 83°06.000′ W long. to point C at 24°46.000′ N lat., 83°00.000′ W long.; then along the line denoting the seaward limit of Florida state waters, as shown on the current edition of NOAA chart 11434, to point A at 24°40.000′ N lat., 83°06.000′ W long. 
 
-(2) *Tortugas South HAPC.* The area is bounded by rhumb lines connecting the following points in order:
+(2) *Tortugas South HAPC.* The area is bounded by rhumb lines connecting the following points in order: 
 
 Table 2 to Paragraph (b)(2)
 | Point | North lat. | West long. |
@@ -29,7 +29,7 @@ Table 2 to Paragraph (b)(2)
 | D     | 24°18.000′ | 83°09.000′ |
 | A     | 24°33.000′ | 83°09.000′ |
 
-(c) *Pulley Ridge South HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order:
+(c) *Pulley Ridge South HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order: 
 
 Table 3 to Paragraph (c)
 | Point | North lat. | West long. |
@@ -41,7 +41,7 @@ Table 3 to Paragraph (c)
 | E     | 24°43.917′ | 83°47.250′ |
 | A     | 24°58.300′ | 83°38.550′ |
 
-(d) *Pulley Ridge South Portion A HAPC.* Deployment of a bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order:
+(d) *Pulley Ridge South Portion A HAPC.* Deployment of a bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order: 
 
 Table 4 to Paragraph (d)
 | Point | North lat. | West long. |
@@ -54,7 +54,7 @@ Table 4 to Paragraph (d)
 | F     | 24°43.917′ | 83°47.250′ |
 | A     | 24°40.000′ | 83°41.366′ |
 
-(e) *West Florida Wall HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order:
+(e) *West Florida Wall HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order: 
 
 Table 5 to Paragraph (e)
 | Point | North lat. | West long. |
@@ -67,7 +67,7 @@ Table 5 to Paragraph (e)
 | F     | 26°25.100′ | 84°47.980′ |
 | A     | 26°28.835′ | 84°47.955′ |
 
-(f) *Alabama Alps Reef HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order:
+(f) *Alabama Alps Reef HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order: 
 
 Table 6 to Paragraph (f)
 | Point | North lat. | West long. |
@@ -78,7 +78,7 @@ Table 6 to Paragraph (f)
 | D     | 29°14.140′ | 88°20.533′ |
 | A     | 29°16.160′ | 88°20.525′ |
 
-(g) *L & W Pinnacles and Scamp Reef HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order:
+(g) *L & W Pinnacles and Scamp Reef HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order: 
 
 Table 7 to Paragraph (g)
 | Point | North lat. | West long. |
@@ -96,7 +96,7 @@ Table 7 to Paragraph (g)
 | K     | 29°19.269′ | 87°45.525′ |
 | A     | 29°18.595′ | 87°48.757′ |
 
-(h) *Mississippi Canyon 118 HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order:
+(h) *Mississippi Canyon 118 HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order: 
 
 Table 8 to Paragraph (h)
 | Point | North lat. | West long. |
@@ -108,7 +108,7 @@ Table 8 to Paragraph (h)
 | E     | 28°48.962′ | 88°30.727′ |
 | A     | 28°53.183′ | 88°30.789′ |
 
-(i) *Roughtongue Reef HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order:
+(i) *Roughtongue Reef HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order: 
 
 Table 9 to Paragraph (i)
 | Point | North lat. | West long. |
@@ -119,7 +119,7 @@ Table 9 to Paragraph (i)
 | D     | 29°24.981′ | 87°37.510′ |
 | A     | 29°27.596′ | 87°37.527′ |
 
-(j) *Viosca Knoll 826 HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order:
+(j) *Viosca Knoll 826 HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC bounded by rhumb lines connecting the following points in order: 
 
 Table 10 to Paragraph (j)
 | Point | North lat. | West long. |
@@ -130,7 +130,7 @@ Table 10 to Paragraph (j)
 | D     | 29°08.017′ | 88°03.532′ |
 | A     | 29°10.920′ | 88°03.509′ |
 
-(k) *Viosca Knoll 862/906 HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC. This prohibition does not apply to a fishing vessel issued a Gulf royal red shrimp endorsement, as specified in § 622.50(c), while the vessel is fishing for royal red shrimp. The HAPC is bounded by rhumb lines connecting the following points in order:
+(k) *Viosca Knoll 862/906 HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the area of the HAPC. This prohibition does not apply to a fishing vessel issued a Gulf royal red shrimp endorsement, as specified in § 622.50(c), while the vessel is fishing for royal red shrimp. The HAPC is bounded by rhumb lines connecting the following points in order: 
 
 Table 11 to Paragraph (k)
 | Point | North lat. | West long. |
@@ -146,7 +146,7 @@ Table 11 to Paragraph (k)
 | I     | 29°07.676′ | 88°25.045′ |
 | A     | 29°07.640′ | 88°23.608′ |
 
-(l) *McGrail Bank HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order:
+(l) *McGrail Bank HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order: 
 
 Table 12 to Paragraph (l)
 | Point | North lat. | West long. |
@@ -157,7 +157,7 @@ Table 12 to Paragraph (l)
 | D     | 27°55.925′ | 92°37.320′ |
 | A     | 27°59.100′ | 92°37.320′ |
 
-(m) *AT 047 HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order:
+(m) *AT 047 HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order: 
 
 Table 13 to Paragraph (m)
 | Point | North lat. | West long. |
@@ -168,7 +168,7 @@ Table 13 to Paragraph (m)
 | D     | 27°51.814′ | 89°49.336′ |
 | A     | 27°54.426′ | 89°49.404′ |
 
-(n) *AT 357 HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order:
+(n) *AT 357 HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order: 
 
 Table 14 to Paragraph (n)
 | Point | North lat. | West long. |
@@ -179,7 +179,7 @@ Table 14 to Paragraph (n)
 | D     | 27°33.646' | 89°43.004' |
 | A     | 27°36.259' | 89°43.068' |
 
-(o) *Green Canyon 852 HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order:
+(o) *Green Canyon 852 HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order: 
 
 Table 15 to Paragraph (o)
 | Point | North lat. | West long. |
@@ -190,7 +190,7 @@ Table 15 to Paragraph (o)
 | D     | 27°08.376′ | 91°10.567′ |
 | A     | 27°08.354′ | 91°08.929′ |
 
-(p) *West Flower Garden Bank HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order:
+(p) *West Flower Garden Bank HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order: 
 
 Table 16 to Paragraph (p)
 | Point | North lat. | West long. |
@@ -201,7 +201,7 @@ Table 16 to Paragraph (p)
 | D     | 27°49.050′ | 93°53.160′ |
 | A     | 27°55.380′ | 93°53.160′ |
 
-(q) *East Flower Garden Bank HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order:
+(q) *East Flower Garden Bank HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order: 
 
 Table 17 to Paragraph (q)
 | Point | North lat. | West long. |
@@ -212,7 +212,7 @@ Table 17 to Paragraph (q)
 | D     | 27°52.608′ | 93°38.970′ |
 | A     | 27°59.240′ | 93°38.970′ |
 
-(r) *Stetson Bank HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order:
+(r) *Stetson Bank HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order: 
 
 Table 18 to Paragraph (r)
 | Point | North lat. | West long. |
@@ -223,7 +223,7 @@ Table 18 to Paragraph (r)
 | D     | 28°09.310′ | 94°18.608′ |
 | A     | 28°10.638′ | 94°18.608′ |
 
-(s) *Harte Bank HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order:
+(s) *Harte Bank HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order: 
 
 Table 19 to Paragraph (s)
 | Point | North lat. | West long. |
@@ -234,7 +234,7 @@ Table 19 to Paragraph (s)
 | D     | 26°38.043′ | 96°36.636′ |
 | A     | 26°40.826′ | 96°36.590′ |
 
-(t) *Southern Bank HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order:
+(t) *Southern Bank HAPC.* Deployment of a bottom longline, bottom trawl, buoy gear, dredge, pot, or trap, and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which is bounded by rhumb lines connecting the following points in order: 
 
 Table 20 to Paragraph (t)
 | Point | North lat. | West long. |

@@ -1,10 +1,10 @@
 ##### § 14.91 When do I need an import/export license?
 
-(a) The Endangered Species Act (16 U.S.C. 1538(d)(1)) makes it unlawful for any person to engage in business as an importer or exporter of certain fish or wildlife without first having obtained permission from the Secretary. For the purposes of this subchapter, engage in business means to import or export wildlife for commercial purposes.
+(a) The Endangered Species Act (16 U.S.C. 1538(d)(1)) makes it unlawful for any person to engage in business as an importer or exporter of certain fish or wildlife without first having obtained permission from the Secretary. For the purposes of this subchapter, engage in business means to import or export wildlife for commercial purposes. 
 
-(b) Except as provided in § 14.92, if you engage in the business of importing or exporting wildlife for commercial purposes (see § 14.4), you must obtain an import/export license prior to importing or exporting your wildlife shipment.
+(b) Except as provided in § 14.92, if you engage in the business of importing or exporting wildlife for commercial purposes (see § 14.4), you must obtain an import/export license prior to importing or exporting your wildlife shipment. 
 
-(c) The following table includes some examples of when an import/export license is required:
+(c) The following table includes some examples of when an import/export license is required: 
 
 | If I import into the United States or export from the United States                                                                                                                             | . . . do I need an import/export   license? |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |

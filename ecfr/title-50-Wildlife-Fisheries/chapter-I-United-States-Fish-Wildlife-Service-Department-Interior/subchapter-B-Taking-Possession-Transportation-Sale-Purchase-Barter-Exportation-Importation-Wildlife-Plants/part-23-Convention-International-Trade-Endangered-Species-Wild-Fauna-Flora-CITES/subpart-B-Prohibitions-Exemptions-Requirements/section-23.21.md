@@ -1,16 +1,16 @@
 ##### § 23.21 What happens if a country enters a reservation for a species?
 
-(a) *Purpose.* CITES is not subject to general reservations. Articles XV, XVI, and XXIII of the Treaty allow a Party to enter a specific reservation on a species listed in Appendix I, II, or III, or on parts, products, or derivatives of a species listed in Appendix III.
+(a) *Purpose.* CITES is not subject to general reservations. Articles XV, XVI, and XXIII of the Treaty allow a Party to enter a specific reservation on a species listed in Appendix I, II, or III, or on parts, products, or derivatives of a species listed in Appendix III. 
 
-(b) *General provision.* A Party can enter a reservation in one of the following ways:
+(b) *General provision.* A Party can enter a reservation in one of the following ways: 
 
-(1) A Party must provide written notification to the Depositary Government (Switzerland) on a specific new or amended listing in the Appendices within 90 days after the CoP that adopted the listing, or at any time for Appendix-III species.
+(1) A Party must provide written notification to the Depositary Government (Switzerland) on a specific new or amended listing in the Appendices within 90 days after the CoP that adopted the listing, or at any time for Appendix-III species. 
 
-(2) A country must provide written notification on a specific species listing when the country ratifies, accepts, approves, or accedes to CITES.
+(2) A country must provide written notification on a specific species listing when the country ratifies, accepts, approves, or accedes to CITES. 
 
-(c) *Requesting the United States take a reservation.* You may submit information relevant to the issue of whether the United States should take a reservation on a species listing to the U.S. Management Authority. The request must be submitted within 30 calendar days after the last day of the CoP where a new or amended listing of a species in Appendix I or II occurs, or at any time for a species (or its parts, products, or derivatives) listed in Appendix III.
+(c) *Requesting the United States take a reservation.* You may submit information relevant to the issue of whether the United States should take a reservation on a species listing to the U.S. Management Authority. The request must be submitted within 30 calendar days after the last day of the CoP where a new or amended listing of a species in Appendix I or II occurs, or at any time for a species (or its parts, products, or derivatives) listed in Appendix III. 
 
-(d) *Required CITES documents.* Except as provided in paragraph (d)(2) of this section, Parties treat a reserving Party as if it were a non-Party for trade in the species concerned (including parts, products, and derivatives, as appropriate). The following table indicates when CITES documents must accompany a shipment and which Appendix should appear on the face of the document:
+(d) *Required CITES documents.* Except as provided in paragraph (d)(2) of this section, Parties treat a reserving Party as if it were a non-Party for trade in the species concerned (including parts, products, and derivatives, as appropriate). The following table indicates when CITES documents must accompany a shipment and which Appendix should appear on the face of the document: 
 
 | If                                                                                                                                                                                                                                                                                                                                            | Then                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |

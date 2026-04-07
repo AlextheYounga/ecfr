@@ -1,22 +1,22 @@
 ##### § 300.64 Fishing by U.S. treaty Indian tribes.
 
-(a) Halibut fishing in subarea 2A-1 by members of U.S. treaty Indian tribes located in the State of Washington is governed by this section.
+(a) Halibut fishing in subarea 2A-1 by members of U.S. treaty Indian tribes located in the State of Washington is governed by this section. 
 
-(b) Commercial fishing for halibut by treaty Indians is permitted only in subarea 2A-1 with hook-and-line gear in conformance with the season and quota established annually by the Commission.
+(b) Commercial fishing for halibut by treaty Indians is permitted only in subarea 2A-1 with hook-and-line gear in conformance with the season and quota established annually by the Commission. 
 
-(c) Commercial fishing periods and management measures to implement paragraph (b) of this section will be established by treaty Indian tribal regulations.
+(c) Commercial fishing periods and management measures to implement paragraph (b) of this section will be established by treaty Indian tribal regulations. 
 
-(d) Commercial fishing for halibut by treaty Indians shall comply with the Commission's management measures governing size limits, careful release of halibut, logs, receipt and possession, and fishing gear (published pursuant to § 300.62), except that the 72-hour fishing restriction preceding the opening of a halibut fishing period shall not apply to treaty Indian fishing.
+(d) Commercial fishing for halibut by treaty Indians shall comply with the Commission's management measures governing size limits, careful release of halibut, logs, receipt and possession, and fishing gear (published pursuant to § 300.62), except that the 72-hour fishing restriction preceding the opening of a halibut fishing period shall not apply to treaty Indian fishing. 
 
-(e) Ceremonial and subsistence fishing for halibut by treaty Indians in subarea 2A-1 is permitted with hook-and-line gear from January 1 to December 31.
+(e) Ceremonial and subsistence fishing for halibut by treaty Indians in subarea 2A-1 is permitted with hook-and-line gear from January 1 to December 31. 
 
-(f) No size or bag limits shall apply to the ceremonial and subsistence fishery, except that when commercial halibut fishing is prohibited pursuant to paragraph (b) of this section, treaty Indians may take and retain not more than two halibut per person per day.
+(f) No size or bag limits shall apply to the ceremonial and subsistence fishery, except that when commercial halibut fishing is prohibited pursuant to paragraph (b) of this section, treaty Indians may take and retain not more than two halibut per person per day. 
 
-(g) Halibut taken for ceremonial and subsistence purposes shall not be offered for sale or sold.
+(g) Halibut taken for ceremonial and subsistence purposes shall not be offered for sale or sold. 
 
-(h) Any member of a U.S. treaty Indian tribe who is engaged in commercial or ceremonial and subsistence fishing under this section must have on his or her person a valid treaty Indian identification card issued pursuant to 25 CFR part 249, subpart A, and must comply with the treaty Indian vessel and gear identification requirements of Final Decision No. 1 and subsequent orders in *United States* v. *Washington* 384 F. Supp. 312 (W.D. Wash., 1974).
+(h) Any member of a U.S. treaty Indian tribe who is engaged in commercial or ceremonial and subsistence fishing under this section must have on his or her person a valid treaty Indian identification card issued pursuant to 25 CFR part 249, subpart A, and must comply with the treaty Indian vessel and gear identification requirements of Final Decision No. 1 and subsequent orders in *United States* v. *Washington* 384 F. Supp. 312 (W.D. Wash., 1974). 
 
-(i) Table 1 to this paragraph (i) sets forth the fishing areas of each of the 13 treaty Indian tribes fishing pursuant to this section. Within subarea 2A-1, boundaries of a tribe's fishing area may be revised as ordered by a Federal court.
+(i) Table 1 to this paragraph (i) sets forth the fishing areas of each of the 13 treaty Indian tribes fishing pursuant to this section. Within subarea 2A-1, boundaries of a tribe's fishing area may be revised as ordered by a Federal court. 
 
 Table 1 to Paragraph (i)
 | Tribe                 | Boundaries                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

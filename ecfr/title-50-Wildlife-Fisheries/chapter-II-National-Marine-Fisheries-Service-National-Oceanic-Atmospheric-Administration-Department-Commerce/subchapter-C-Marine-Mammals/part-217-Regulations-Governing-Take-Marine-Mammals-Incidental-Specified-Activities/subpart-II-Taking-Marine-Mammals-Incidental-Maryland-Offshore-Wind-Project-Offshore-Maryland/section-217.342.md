@@ -1,14 +1,14 @@
 ##### § 217.342 Permissible methods of taking.
 
-Under the LOA, issued pursuant to §§ 216.106 of this chapter and 217.346, the LOA Holder, and those persons it authorizes or funds to conduct activities on its behalf, may incidentally, but not intentionally, take marine mammals within the vicinity of BOEM Lease Area OCS-A 0490 Commercial Lease of Submerged Lands for Renewable Energy Development and associated cable corridor, provided the LOA Holder is in complete compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA:
+Under the LOA, issued pursuant to §§ 216.106 of this chapter and 217.346, the LOA Holder, and those persons it authorizes or funds to conduct activities on its behalf, may incidentally, but not intentionally, take marine mammals within the vicinity of BOEM Lease Area OCS-A 0490 Commercial Lease of Submerged Lands for Renewable Energy Development and associated cable corridor, provided the LOA Holder is in complete compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA: 
 
-(a) By Level B harassment associated with the acoustic disturbance of marine mammals by impact pile driving (WTG, OSS, and Met tower foundation installation) and HRG site characterization surveys.
+(a) By Level B harassment associated with the acoustic disturbance of marine mammals by impact pile driving (WTG, OSS, and Met tower foundation installation) and HRG site characterization surveys. 
 
-(b) By Level A harassment associated with auditory injury of marine mammals by impact pile driving of WTG foundations.
+(b) By Level A harassment associated with auditory injury of marine mammals by impact pile driving of WTG foundations. 
 
-(c) Take by mortality or serious injury of any marine mammal species is not authorized.
+(c) Take by mortality or serious injury of any marine mammal species is not authorized. 
 
-(d) The incidental take of marine mammals by the activities listed in paragraphs (a) and (b) of this section is limited to the following species.
+(d) The incidental take of marine mammals by the activities listed in paragraphs (a) and (b) of this section is limited to the following species. 
 
 Table 1 to Paragraph (d)
 | Marine mammal species       | Scientific name            | Stock                                                          |

@@ -1,6 +1,6 @@
 ##### § 80.60 What is the relationship between the Basic Hunter Education and Safety subprogram and the Enhanced Hunter Education and Safety program?
 
-The relationship between the Basic Hunter Education and Safety subprogram (Basic Hunter Education) and the Enhanced Hunter Education and Safety program (Enhanced Hunter Education) is in table 1 to § 80.60:
+The relationship between the Basic Hunter Education and Safety subprogram (Basic Hunter Education) and the Enhanced Hunter Education and Safety program (Enhanced Hunter Education) is in table 1 to § 80.60: 
 
 Table 1 to § 80.60
 

@@ -1,8 +1,8 @@
 ##### § 697.18 Lobster management areas.
 
-The following lobster management areas are established for purposes of implementing the management measures specified in this part. (A copy of a chart showing the American lobster EEZ management areas is available upon request to the Office of the Regional Administrator, NMFS, 55 Great Republic Drive, Gloucester, MA 01930.)
+The following lobster management areas are established for purposes of implementing the management measures specified in this part. (A copy of a chart showing the American lobster EEZ management areas is available upon request to the Office of the Regional Administrator, NMFS, 55 Great Republic Drive, Gloucester, MA 01930.) 
 
-(a) *EEZ Nearshore Management Area 1.* EEZ Nearshore Management Area 1 includes state and federal waters nearshore in the Gulf of Maine that are bounded on the west and north by the coastlines of Massachusetts (including the southwestern extent of the Cape Cod Canal), New Hampshire, and Maine, bounded on the east by the U.S.-Canada Maritime Boundary, and bounded on the southeast by the following points connected in the order listed by straight lines:
+(a) *EEZ Nearshore Management Area 1.* EEZ Nearshore Management Area 1 includes state and federal waters nearshore in the Gulf of Maine that are bounded on the west and north by the coastlines of Massachusetts (including the southwestern extent of the Cape Cod Canal), New Hampshire, and Maine, bounded on the east by the U.S.-Canada Maritime Boundary, and bounded on the southeast by the following points connected in the order listed by straight lines: 
 
 Table 1 to Paragraph (a)
 | Point                                                                 | Latitude    | Longitude   | Notes |
@@ -19,7 +19,7 @@ Table 1 to Paragraph (a)
 | J                                                                     | 42°03.4′ N  | 70°14.2′ W  |       |
 | (1) Point A is intended to fall on the U.S./Canada Maritime Boundary. |             |             |       |
 
-(b) *EEZ Nearshore Management Area 2.* EEZ Nearshore Management Area 2 includes state and federal waters nearshore in Southern New England that are bounded on the north by the coastlines of Massachusetts (including the northeastern extent of the Cape Cod Canal) and Rhode Island, and bounded on all other sides by the following points connected in the order listed by straight lines:
+(b) *EEZ Nearshore Management Area 2.* EEZ Nearshore Management Area 2 includes state and federal waters nearshore in Southern New England that are bounded on the north by the coastlines of Massachusetts (including the northeastern extent of the Cape Cod Canal) and Rhode Island, and bounded on all other sides by the following points connected in the order listed by straight lines: 
 
 Table 2 to Paragraph (b)
 | Point                                                                                                                                                                      | Latitude   | Longitude   | Notes |
@@ -37,7 +37,7 @@ Table 2 to Paragraph (b)
 | K                                                                                                                                                                          | 41°18.5′ N | 71°54.5′ W  | (1)   |
 | (1) From Point K, the EEZ Nearshore Management Area 2 follows the maritime boundary between Connecticut and Rhode Island to the coastal Connecticut/Rhode Island boundary. |            |             |       |
 
-(c) *Area 2/3 Overlap.* The Area 2/3 Overlap is defined by the area, comprised entirely of Federal waters, bounded by straight lines connecting the following points, in the order stated:
+(c) *Area 2/3 Overlap.* The Area 2/3 Overlap is defined by the area, comprised entirely of Federal waters, bounded by straight lines connecting the following points, in the order stated: 
 
 Table 3 to Paragraph (c)
 | Point | Latitude   | Longitude  |
@@ -48,7 +48,7 @@ Table 3 to Paragraph (c)
 | D     | 40°45.5′ N | 71°34′ W   |
 | A     | 41°10′ N   | 69°06.5′ W |
 
-(d) *EEZ Offshore Management Area 3.* EEZ Offshore Management Area 3 is defined by the area, comprised entirely of Federal waters, bounded by straight lines connecting the following points, in the order stated:
+(d) *EEZ Offshore Management Area 3.* EEZ Offshore Management Area 3 is defined by the area, comprised entirely of Federal waters, bounded by straight lines connecting the following points, in the order stated: 
 
 Table 4 to Paragraph (d)
 | Point                                                                                                      | Latitude    | Longitude  | Notes   |
@@ -74,7 +74,7 @@ Table 4 to Paragraph (d)
 | (1) Point A is intended to fall on the U.S.-Canada Maritime Boundary                                       |             |            |         |
 | (2) From Point R back to Point A along the outer limit of the US EEZ and the U.S.-Canada Maritime Boundary |             |            |         |
 
-(e) *EEZ Nearshore Management Area 4.* EEZ Nearshore Management Area 4 includes state and federal waters nearshore in the northern Mid-Atlantic, bounded on the west and north by the coastlines of New Jersey and New York (crossing the East River at 74° W), and bounded on all other sides by the following points connected in the order listed by straight lines, unless otherwise noted:
+(e) *EEZ Nearshore Management Area 4.* EEZ Nearshore Management Area 4 includes state and federal waters nearshore in the northern Mid-Atlantic, bounded on the west and north by the coastlines of New Jersey and New York (crossing the East River at 74° W), and bounded on all other sides by the following points connected in the order listed by straight lines, unless otherwise noted: 
 
 Table 5 to Paragraph (e)
 | Point                                                               | Latitude    | Longitude  | Notes   |
@@ -92,7 +92,7 @@ Table 5 to Paragraph (e)
 | (2) From Point B to Point C following the Three Nautical Mile line. |             |            |         |
 | (3) Point C is intended to fall along the Three Nautical Mile line. |             |            |         |
 
-(f) *EEZ Nearshore Management Area 5.* EEZ Nearshore Management Area 5 includes state and Federal waters nearshore in the southern Mid-Atlantic, bounded on the west by the coastline of the United states, and bounded on all other sides by the following points connected in the order listed by straight lines:
+(f) *EEZ Nearshore Management Area 5.* EEZ Nearshore Management Area 5 includes state and Federal waters nearshore in the southern Mid-Atlantic, bounded on the west by the coastline of the United states, and bounded on all other sides by the following points connected in the order listed by straight lines: 
 
 Table 6 to Paragraph (f)
 | Point | Latitude   | Longitude  |
@@ -106,7 +106,7 @@ Table 6 to Paragraph (f)
 | G     | 35°14.5′ N | 75°19.3′ W |
 | H     | 35°14.5′ N | 75°31.5′ W |
 
-(g) *Area 3/5 Overlap.* The Area 3/5 Overlap includes state and Federal waters in the southern Mid-Atlantic bounded by the following points connected in the order listed by straight lines:
+(g) *Area 3/5 Overlap.* The Area 3/5 Overlap includes state and Federal waters in the southern Mid-Atlantic bounded by the following points connected in the order listed by straight lines: 
 
 Table 7 to Paragraph (g)
 | Point | Latitude   | Longitude  |
@@ -125,7 +125,7 @@ Table 7 to Paragraph (g)
 | L     | 38°39.5′ N | 73°40′ W   |
 | A     | 39°50′ N   | 73°01′ W   |
 
-(h) *Nearshore Management Area 6.* The Nearshore Management Area 6 includes New York and Connecticut state waters, bounded by the Long Island Sound coastlines of both states (including the East River until 74° W, and the northern extent of the Harlem River), and bounded on the east by the following points connected in the order listed by straight lines:
+(h) *Nearshore Management Area 6.* The Nearshore Management Area 6 includes New York and Connecticut state waters, bounded by the Long Island Sound coastlines of both states (including the East River until 74° W, and the northern extent of the Harlem River), and bounded on the east by the following points connected in the order listed by straight lines: 
 
 Table 8 to Paragraph (h)
 | Point                                                                                                                                                                  | Latitude    | Longitude   | Notes  |
@@ -140,7 +140,7 @@ Table 8 to Paragraph (h)
 | (3) Point C is intended to fall along the Three Nautical Mile line.                                                                                                    |             |             |        |
 | (4) From Point E, the Nearshore Management Area 6 follows the maritime boundary between Connecticut and Rhode Island to the coastal Connecticut/Rhode Island boundary. |             |             |        |
 
-(i) *EEZ Nearshore Outer Cape Lobster Management Area.* EEZ Nearshore Outer Cape Lobster Management Area includes state and Federal waters off Cape Cod, bounded by the following points connected in the order listed by straight lines, unless otherwise noted:
+(i) *EEZ Nearshore Outer Cape Lobster Management Area.* EEZ Nearshore Outer Cape Lobster Management Area includes state and Federal waters off Cape Cod, bounded by the following points connected in the order listed by straight lines, unless otherwise noted: 
 
 Table 9 to Paragraph (i)
 | Point                                                                       | Latitude    | Longitude   | Notes |
@@ -156,6 +156,6 @@ Table 9 to Paragraph (i)
 | I                                                                           | 41°40′ N    | 70°05′ W    | (1)   |
 | (1) From Point I back to Point A following the outer coastline of Cape Cod. |             |             |       |
 
-(j) *Area management.* NMFS may, consistent with § 697.25, implement management measures necessary for each management area, in order to end overfishing and rebuild stocks of American lobster.
+(j) *Area management.* NMFS may, consistent with § 697.25, implement management measures necessary for each management area, in order to end overfishing and rebuild stocks of American lobster. 
 
 \[88 FR 67677, Oct. 2, 2023\]

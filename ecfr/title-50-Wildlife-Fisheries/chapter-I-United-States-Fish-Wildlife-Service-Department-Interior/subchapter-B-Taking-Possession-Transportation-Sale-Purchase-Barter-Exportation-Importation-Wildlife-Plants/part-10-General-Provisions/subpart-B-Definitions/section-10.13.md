@@ -1,20 +1,20 @@
 ##### § 10.13 List of Birds Protected by the Migratory Bird Treaty Act.
 
-(a) *Legal authority for this list.* The legal authorities for this list are the Migratory Bird Treaty Act (MBTA; 16 U.S.C. 703-712), the Fish and Wildlife Improvement Act of 1978 (16 U.S.C. 742l), and the Fish and Wildlife Act of 1956 (16 U.S.C. 742a-742j). The MBTA implements Conventions between the United States and four neighboring countries for the protection of migratory birds, as follows:
+(a) *Legal authority for this list.* The legal authorities for this list are the Migratory Bird Treaty Act (MBTA; 16 U.S.C. 703-712), the Fish and Wildlife Improvement Act of 1978 (16 U.S.C. 742l), and the Fish and Wildlife Act of 1956 (16 U.S.C. 742a-742j). The MBTA implements Conventions between the United States and four neighboring countries for the protection of migratory birds, as follows: 
 
-(1) *Canada:* Convention between the United States and Great Britain \[on behalf of Canada\] for the Protection of Migratory Birds, August 16, 1916, 39 Stat. 1702 (T.S. No. 628), as amended;
+(1) *Canada:* Convention between the United States and Great Britain \[on behalf of Canada\] for the Protection of Migratory Birds, August 16, 1916, 39 Stat. 1702 (T.S. No. 628), as amended; 
 
-(2) *Mexico:* Convention between the United States and Mexico for the Protection of Migratory Birds and Game Mammals, February 7, 1936, 50 Stat. 1311 (T.S. No. 912), as amended;
+(2) *Mexico:* Convention between the United States and Mexico for the Protection of Migratory Birds and Game Mammals, February 7, 1936, 50 Stat. 1311 (T.S. No. 912), as amended; 
 
-(3) *Japan:* Convention between the Government of the United States of America and the Government of Japan for the Protection of Migratory Birds and Birds in Danger of Extinction, and Their Environment, March 4, 1972, 25 U.S.T. 3329 (T.I.A.S. No. 7990); and
+(3) *Japan:* Convention between the Government of the United States of America and the Government of Japan for the Protection of Migratory Birds and Birds in Danger of Extinction, and Their Environment, March 4, 1972, 25 U.S.T. 3329 (T.I.A.S. No. 7990); and 
 
-(4) *Russia:* Convention between the United States of America and the Union of Soviet Socialist Republics Concerning the Conservation of Migratory Birds and Their Environment, November 19, 1976, 20 U.S.T. 4647 (T.I.A.S. No. 9073).
+(4) *Russia:* Convention between the United States of America and the Union of Soviet Socialist Republics Concerning the Conservation of Migratory Birds and Their Environment, November 19, 1976, 20 U.S.T. 4647 (T.I.A.S. No. 9073). 
 
-(b) *Purpose of this list.* The purpose is to inform the public of the species protected by regulations that enforce the terms of the MBTA. These regulations, found in parts 10, 20, and 21 of this chapter, cover most aspects of the taking, possession, transportation, sale, purchase, barter, exportation, and importation of migratory birds.
+(b) *Purpose of this list.* The purpose is to inform the public of the species protected by regulations that enforce the terms of the MBTA. These regulations, found in parts 10, 20, and 21 of this chapter, cover most aspects of the taking, possession, transportation, sale, purchase, barter, exportation, and importation of migratory birds. 
 
-(c) *What species are protected by the Migratory Bird Treaty Act?* Species protected as migratory birds are listed in two formats to suit the varying needs of the user: Alphabetically in paragraph (c)(1) of this section and taxonomically in paragraph (c)(2) of this section. Taxonomy and nomenclature generally follow the 7th edition of the American Ornithologists' Union's (AOU, now recognized as American Ornithological Society (AOS)) *Checklist of North American birds* (1998, as amended through 2021). For species not treated by the AOS *Checklist,* we generally follow *Clements Checklist of Birds of the World* (Clements et al. 2007, as updated through 2021).
+(c) *What species are protected by the Migratory Bird Treaty Act?* Species protected as migratory birds are listed in two formats to suit the varying needs of the user: Alphabetically in paragraph (c)(1) of this section and taxonomically in paragraph (c)(2) of this section. Taxonomy and nomenclature generally follow the 7th edition of the American Ornithologists' Union's (AOU, now recognized as American Ornithological Society (AOS)) *Checklist of North American birds* (1998, as amended through 2021). For species not treated by the AOS *Checklist,* we generally follow *Clements Checklist of Birds of the World* (Clements et al. 2007, as updated through 2021). 
 
-(1) *Alphabetical listing.* The table lists species alphabetically by common (English) group names, with the scientific name of each species following the common name.
+(1) *Alphabetical listing.* The table lists species alphabetically by common (English) group names, with the scientific name of each species following the common name. 
 
 Table 1 to Paragraph (c)(1)—Alphabetical Listing of Birds Protected by the Migratory Bird Treaty Act
 | Common name group    | Species common name               | Species scientific name            |
@@ -1126,7 +1126,7 @@ Table 1 to Paragraph (c)(1)—Alphabetical Listing of Birds Protected by the Mig
 | Yellowthroat         | Common Yellowthroat               | Geothlypis trichas.                |
 |                      | Gray-crowned Yellowthroat         | Geothlypis poliocephala.           |
 
-(2) *Taxonomic listing.* The table lists species in phylogenetic sequence by scientific name, with the common (English) name following the scientific name. To help clarify species relationships, we also provide the higher-level taxonomic categories of Order, Family, and Subfamily.
+(2) *Taxonomic listing.* The table lists species in phylogenetic sequence by scientific name, with the common (English) name following the scientific name. To help clarify species relationships, we also provide the higher-level taxonomic categories of Order, Family, and Subfamily. 
 
 Table 2 to Paragraph (c)(2)—Taxonomic Listing of Birds Protected by the Migratory Bird Treaty Act
 | Species scientific name             | Species common name                |
