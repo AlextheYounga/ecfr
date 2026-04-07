@@ -44,7 +44,7 @@ $0.00
 
 (3) Republication fee (§ 1.221(a))
 
-$320.00 
+320.00 
 
 (e) For filing an application for patent term adjustment under § 1.705
 
