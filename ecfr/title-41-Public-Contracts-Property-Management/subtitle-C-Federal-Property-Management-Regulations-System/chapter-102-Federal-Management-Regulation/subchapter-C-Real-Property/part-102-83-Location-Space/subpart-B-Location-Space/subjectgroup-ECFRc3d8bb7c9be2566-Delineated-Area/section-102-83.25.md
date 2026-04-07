@@ -1,3 +1,0 @@
-##### § 102-83.25 Who is responsible for identifying the delineated area within which a Federal agency wishes to locate specific activities?
-
-Each Federal agency is responsible for identifying the delineated area within which it wishes to locate specific activities, consistent with its mission and program requirements, and in accordance with all applicable laws, regulations, and Executive Orders.

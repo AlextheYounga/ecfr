@@ -1,7 +1,5 @@
 ##### 752.7003 Documentation for payment.
 
-Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
-
 The following clause is required in all USAID direct contracts, excluding fixed price contracts:
 
 Documentation for Payment (NOV 1998)
@@ -13,7 +11,6 @@ Documentation for Payment (NOV 1998)
 Total Expenditures
 
 \[Document Number: XXX-X-XX-XXXX-XX\]
-
 | Line item No. | Description                             | Amt. vouchered to date | Amt. vouchered this period |
 | ------------- | --------------------------------------- | ---------------------- | -------------------------- |
 | 001           | Product/Service Desc. for Line Item 001 | $XXXX.XX               | $ XXXX.XX                  |
@@ -32,4 +29,4 @@ BY: TITLE: DATE:
 
 (d) The Contractor agrees that all approvals of the Mission Director and the Contracting Officer which are required by the provisions of this contract shall be preserved and made available as part of the Contractor's records which are required to be presented and made available by the clause of this contract entitled “Audit and Records—Negotiation”.
 
-\[53 FR 6829, Mar. 3, 1988, as amended at 64 FR 5009, Feb. 2, 1999; 79 FR 74988, 75001, Dec. 16, 2014\]
+(End of clause) \[53 FR 6829, Mar. 3, 1988, as amended at 64 FR 5009, Feb. 2, 1999; 79 FR 74988, 75001, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024\]
