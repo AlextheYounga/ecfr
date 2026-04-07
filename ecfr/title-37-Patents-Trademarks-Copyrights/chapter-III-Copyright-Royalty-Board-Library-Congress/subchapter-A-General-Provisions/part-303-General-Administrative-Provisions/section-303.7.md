@@ -1,14 +1,14 @@
-##### § 350.7 Time.
+##### § 303.7 Time.
 
 (a) *Computation.* To compute the due date for filing and delivering any document or performing any other act directed by an order of the Copyright Royalty Judges or the rules of the Copyright Royalty Board:
 
 (1) Exclude the day of the act, event, or default that begins the period.
 
-(2) Exclude intermediate Saturdays, Sundays, and federal holidays when the period is less than 11 days, unless computation of the due date is stated in calendar days.
+(2) Exclude intermediate Saturdays, Sundays, and Federal holidays when the period is less than 11 days, unless computation of the due date is stated in calendar days.
 
-(3) Include the last day of the period, unless it is a Saturday, Sunday, federal holiday, or a day on which the weather or other conditions render the Copyright Royalty Board's office inaccessible.
+(3) Include the last day of the period, unless it is a Saturday, Sunday, Federal holiday, or a day on which the weather or other conditions render the Copyright Royalty Board's office inaccessible.
 
-(4) As used in this rule, “federal holiday” means the date designated for the observance of New Year's Day, Inauguration Day, Birthday of Martin Luther King, Jr., George Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans Day, Thanksgiving Day, Christmas Day, and any other day declared a federal holiday by the President or the Congress.
+(4) As used in this rule, “Federal holiday” means the date designated for the observance of New Year's Day, Inauguration Day, Birthday of Martin Luther King, Jr., George Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans Day, Thanksgiving Day, Christmas Day, and any other day declared a Federal holiday by the President or the Congress.
 
 (5) Except as otherwise described in this Chapter or in an order by the Copyright Royalty Judges, the Copyright Royalty Board will consider documents to be timely filed only if:
 
@@ -35,5 +35,3 @@
 (5) The justification for the amount of additional time being sought; and
 
 (6) The attempts that have been made to obtain consent from the other parties to the proceeding and the position of the other parties on the motion.
-
-\[82 FR 18572, Apr. 20, 2017\]
