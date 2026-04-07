@@ -1,5 +1,7 @@
 ##### § 1108.7 Arbitration procedures.
 
+Link to an amendment published at 88 FR 729, Jan. 4, 2023.
+
 (a) *Initiation.* With the exception of rate dispute arbitration proceedings, the Board shall initiate the arbitration process within 40 days after submission of a written complaint or joint notice filed under § 1108.5(e). In arbitrations involving rate disputes, the Board shall initiate the arbitration process within 10 days after the Board issues a decision determining that the rail carrier has market dominance.
 
 (b) *Arbitration evidentiary phase timetable.* Whether the parties select a single arbitrator or a panel of three arbitrators, the lead or single arbitrator shall establish all rules deemed necessary for each arbitration proceeding, including with regard to discovery, the submission of evidence, and the treatment of confidential information, subject to the requirement that this evidentiary phase shall be completed within 90 days from the date on which the arbitration process is initiated, unless a party requests an extension, and the arbitrator or panel of arbitrators, as applicable, grants such extension request.

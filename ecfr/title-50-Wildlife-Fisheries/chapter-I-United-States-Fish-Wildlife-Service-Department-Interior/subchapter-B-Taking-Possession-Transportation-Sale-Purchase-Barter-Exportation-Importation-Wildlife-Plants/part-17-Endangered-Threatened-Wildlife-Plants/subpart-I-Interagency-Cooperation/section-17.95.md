@@ -20363,7 +20363,7 @@ Note:
 
 The map provided is for informational purposes only.
 
-![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 87 FR 73678, Dec. 1, 2022.
+![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (f) *Clams and Snails.*
 
@@ -25145,7 +25145,75 @@ Note:
 
 Map follows:
 
-![](/graphics/ec01jn91.152.gif)Within these Critical Habitat areas, the known biological constituent elements essential to the conservation of this species are colonies of the larval foodplant, *Astragalus trichopodus leucopsis.*Quino Checkerspot Butterfly (*Euphydryas editha quino*)
+![](/graphics/ec01jn91.152.gif)Within these Critical Habitat areas, the known biological constituent elements essential to the conservation of this species are colonies of the larval foodplant, *Astragalus trichopodus leucopsis.*Puerto Rican Harlequin Butterfly (*Atlantea tulita*)
+
+(1) Critical habitat units are depicted for Isabela, Quebradillas, Camuy, Arecibo, Florida, Ciales, Utuado, Maricao, Yauco, Sabana Grande, and San Germán municipalities, Puerto Rico, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Puerto Rican harlequin butterfly consist of the following components:
+
+(i) *Forest habitat types in the Northern Karst region in Puerto Rico:* Mature secondary moist limestone evergreen and semi-deciduous forest, or young secondary moist limestone evergreen and semi-deciduous forest, or both forest types, in subtropical moist forest or subtropical wet forest life zones.
+
+(ii) *Forest habitat types in the West-central Volcanic-serpentine region in Puerto Rico:* Mature secondary dry and moist serpentine semi-deciduous forest, or young secondary dry and moist serpentine semi-deciduous forest, or both forest types, in subtropical moist forest or subtropical wet forest life zones.
+
+(iii) *Components of forest habitat types:* The forest habitat types described in paragraphs (2)(i) and (ii) of this entry contain:
+
+(A) Forest area greater than 1 acre that is within 1 kilometer of a water source (stream, pond, puddle, etc.) and other forested area;
+
+(B) Canopy cover between 50 to 85 percent and average canopy height ranging from 4 to 8 meters (13.1 to 26.2 feet); and
+
+(C) Prickly bush (*Oplonia spinosa*) covering more than 30 percent of the understory.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on January 3, 2023.
+
+(4) Data layers defining map units were created by delineating habitats that contain at least one or more of the physical or biological features defined in paragraph (2) of this entry. We used the digital landcover layer created by the Puerto Rico GAP Analysis Project over a U.S. Department of Agriculture 2007 digital orthophoto mosaic. The resulting critical habitat unit was then mapped using State Plane North American Datum 83 coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/office/caribbean-ecological-services* at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2020-0083, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+Figure 1 to Puerto Rican Harlequin Butterfly (*Atlantea tulita*) paragraph (5) ![](/graphics/er01de22.001.gif)
+
+(6) Unit 1: IQC; Isabela, Quebradillas, and Camuy Municipalities, Puerto Rico.
+
+(i) Unit 1 consists of 1,675.7 acres (678.1 hectares) located along the northern coastal cliff among the municipalities of Isabela, Quebradillas, and Camuy (IQC), 23 kilometers (15 miles) west of Arecibo. The critical habitat is bounded on the east by the community La Yeguada and Membrillo in Camuy, on the west by the community Villa Pesquera and Pueblo in Isabela, on the north by the Atlantic Ocean, and on the south by urban developments, State road PR-2, the Royal Isabela Golf Course, and some deforested areas utilized for agricultural practices such as cattle grazing. All but 5 acres (2 hectares) of Unit 1 are in private ownership.
+
+(ii) Map of Units 1 and 2 follows:
+
+Figure 2 to Puerto Rican Harlequin Butterfly (*Atlantea tulita*) paragraph (6)(ii) ![](/graphics/er01de22.002.gif)
+
+(7) Unit 2: Guajataca; Isabela and Quebradillas Municipalities, Puerto Rico.
+
+(i) Unit 2 consists of 3,839 acres (1,553.6 hectares) south of PR 2, between the municipalities Isabela and Quebradillas, 25 kilometers (15.6 miles) southwest of Arecibo. The critical habitat is bounded on the east by the San Antonio ward in Quebradillas, on the west by PR 446 at Galateo Ward in Isabela, on the north by Llanadas Ward in Isabela and Cacao Ward in Quebradillas, and on the south by Montañas de Guarionex, between Planas Ward in Isabela and Charcas Ward in Quebradillas. In Unit 2, 583.5 acres (236.1 hectares) are public land, the Guajataca Commonwealth Forest, managed by the Puerto Rico Department of Natural and Environmental Resources for conservation. Private land in Unit 2 is 3,255.5 acres (1,317.5 hectares) that is a mosaic of agricultural land, roads, rural developments, and forest.
+
+(ii) Map of Unit 2 is set forth at paragraph (6)(ii) of this entry.
+
+(8) Unit 3: Río Abajo; Arecibo and Utuado Municipalities, Puerto Rico.
+
+(i) Unit 3 consists of 5,939.2 acres (2,403.6 hectares) located 14.5 kilometers (9 miles) south of Arecibo. The critical habitat is bound on the east by the Río Grande de Arecibo, on the west by Santa Rosa Ward in Utuado, on the north by Hato Viejo Ward in Arecibo, and on the south by Caguana and Sabana Grande Wards in Utuado. The Río Abajo Commonwealth Forest, managed for conservation by the Puerto Rico Department of Natural and Environmental Resources, occupies 77 percent (4,544.4 acres (1,839.1 hectares)) of the unit. The other 23 percent (1,394.8 acres (564.5 hectares)) is privately owned and is a mosaic of highways, roads, agriculture, and rural development.
+
+(ii) Map of Units 3 and 4 follows:
+
+Figure 3 to Puerto Rican Harlequin Butterfly (*Atlantea tulita*) paragraph (8)(ii) ![](/graphics/er01de22.003.gif)
+
+(9) Unit 4: Río Encantado; Arecibo, Florida, Ciales, and Utuado Municipalities, Puerto Rico.
+
+(i) Unit 4 consists of 12,775.6 acres (5,170.1 hectares) located among the municipalities of Arecibo, Florida, Ciales, and Utuado, 17 kilometers (10.5 miles) southeast of Arecibo. The critical habitat is bound on the east by Hato Viejo Ward in Ciales, on the west by the Río Grande de Arecibo, on the north by Arrozales Ward in Arecibo and Pueblo Ward in Florida, and on the south by PR 146 along Limón Ward in Utuado and Frontón Ward in Ciales. Thirteen percent of the critical habitat (204.8 acres (82.9 hectares)) is managed by Para La Naturaleza or by the Puerto Rico Department of Natural and Environmental Resources for conservation. The other 87 percent (12,570.8 acres (5,087.2 hectares)) consists of private lands, some of which are agricultural fields, roads, and rural developments, but a majority of which is mature native forest.
+
+(ii) Map of Unit 4 is set forth at paragraph (8)(ii) of this entry.
+
+(10) Unit 5: Maricao; Maricao, Sabana Grande, and San Germán Municipalities, Puerto Rico.
+
+(i) Unit 5 consists of 10,854.6 acres (4,392.7 hectares) on the west end of the Cordillerra Central, among the municipalities of Maricao, San Germán, and Sabana Grande, 16.1 kilometers (10 miles) southeast of Mayagüez. The critical habitat is bound on the east by Tabonuco Ward in Sabana Grande, on the west by Rosario Ward in San Germán, on the north by Pueblo Ward in Maricao, and on the south by Guamá and Santana Wards in San Germán. The Maricao Commonwealth Forest, managed for conservation by the Puerto Rico Department of Natural and Environmental Resources, occupies 72 percent (7,883.1 acres (3,190.2 hectares)) of the unit. The other 28 percent (2,971.5 acres (1,202.5 hectares)) is private land consisting of a mosaic of agriculture, rural developments, and forest.
+
+(ii) Map of Units 5 and 6 follows:
+
+Figure 4 to Puerto Rican Harlequin Butterfly (*Atlantea tulita*) paragraph (10)(ii) ![](/graphics/er01de22.004.gif)
+
+(11) Unit 6: Susúa; Sabana Grande and Yauco Municipalities, Puerto Rico.
+
+(i) Unit 6 consists of 6,181.9 acres (2,501.8 hectares) between the municipalities of Sabana Grande and Yauco, 33.6 kilometers (21 miles) northwest of Ponce. The critical habitat is bound on the east by the PR 371 in Almacigo Alto and Collores Wards in Yauco, on the west by Pueblo Ward in Sabana Grande, on the north by Frailes Ward in Yauco, and on the south by PR 368 in Susúa Ward in Sabana Grande. The Susúa Commonwealth Forest, managed by the Puerto Rico Department of Natural and Environmental Resources for conservation, occupies 51 percent (3,171.5 acres (1,283.5 hectares)) of the critical habitat in this unit. The other 49 percent (3,010.4 acres (1,218.3 hectares)) is on private lands that are a mosaic of agriculture, rural developments, and forest.
+
+(ii) Map of Unit 6 is set forth at paragraph (10)(ii) of this entry.
+
+Quino Checkerspot Butterfly (*Euphydryas editha quino*)
 
 (1) Critical habitat units are depicted for Riverside and San Diego Counties, California, on the maps below.
 
