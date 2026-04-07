@@ -2,7 +2,7 @@
 
 In addition to the application required by § 1000.23, the Tribe/Consortium must submit to OSG documentation that shows all of the following:
 
-(a) *Successful completion of a planning phase and a planning report.* The requirements for both of these are described in § 1000.19 and § 1000.20. A Consortium's planning activities satisfy this requirement for all its member Tribes for the purpose of the Consortium meeting this requirement;
+(a) *Successful completion of a planning phase and a planning report.* The requirements for both of these are described in §§ 1000.19 and 1000.20. A Consortium's planning activities satisfy this requirement for all its member Tribes for the purpose of the Consortium meeting this requirement;
 
 (b) *A request for participation in self-governance by a Tribal resolution and/or a final official action by the Tribal governing body.* For a Consortium, the governing body of each Tribe must authorize its participation by a Tribal resolution and/or a final official action by the Tribal governing body that specifies the scope of the Consortium's authority to act on behalf of the Tribe.
 

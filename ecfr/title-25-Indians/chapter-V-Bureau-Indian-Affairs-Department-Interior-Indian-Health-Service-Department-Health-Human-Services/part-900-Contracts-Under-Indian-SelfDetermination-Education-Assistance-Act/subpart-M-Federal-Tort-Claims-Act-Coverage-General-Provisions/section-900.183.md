@@ -4,7 +4,7 @@ Yes. There are claims against self-determination contractors which are not cover
 
 (a) *What claims are expressly barred by FTCA and therefore may not be made against the United States, an Indian tribe or tribal organization?* Any claim under 28 U.S.C. 2680, including claims arising out of assault, battery, false imprisonment, false arrest, malicious prosecution, abuse of process, libel, slander, misrepresentation, deceit, or interference with contract rights, unless otherwise authorized by 28 U.S.C. 2680(h).
 
-(b) *What claims may not be pursued under FTCA?* (1) Except as provided in § 900.181(a)(1) and § 900.189, claims against subcontractors arising out of the performance of subcontracts with a self-determination contractor;
+(b) *What claims may not be pursued under FTCA?* (1) Except as provided in §§ 900.181(a)(1) and 900.189, claims against subcontractors arising out of the performance of subcontracts with a self-determination contractor;
 
 (2) Claims for on-the-job injuries which are covered by workmen's compensation;
 

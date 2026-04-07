@@ -8,9 +8,7 @@
 
 (d) Controls must be established and procedures implemented to audit of each of the following operational areas:
 
-(1) *Bingo.*
-
-(i) At the end of each month, verify the accuracy of the ending balance in the bingo control log by reconciling it with the bingo paper inventory. Investigate and document any variance noted.
+(1) *Bingo.* (i) At the end of each month, verify the accuracy of the ending balance in the bingo control log by reconciling it with the bingo paper inventory. Investigate and document any variance noted.
 
 (ii) Daily, reconcile supporting records and documents to summarized paperwork or electronic records (*e.g.* total sales and payouts per shift and/or day).
 
@@ -20,9 +18,7 @@
 
 (v) At least monthly, take a random sample, foot the vouchers redeemed and trace the totals to the totals recorded in the voucher system and to the amount recorded in the applicable cashier's accountability document.
 
-(2) *Pull tabs.*
-
-(i) Daily, verify the total amount of winning pull tabs redeemed each day.
+(2) *Pull tabs.* (i) Daily, verify the total amount of winning pull tabs redeemed each day.
 
 (ii) At the end of each month, verify the accuracy of the ending balance in the pull tab control log by reconciling the pull tabs on hand. Investigate and document any variance noted.
 
@@ -30,17 +26,13 @@
 
 (iv) At least monthly, review statistical reports for any deviations exceeding a specified threshold, as defined by the TGRA. Investigate and document any large and unusual fluctuations noted.
 
-(3) *Card games.*
-
-(i) Daily, reconcile the amount indicated on the progressive sign/meter to the cash counted or received by the cage and the payouts made for each promotional progressive pot and pool. This reconciliation must be sufficiently documented, including substantiation of differences and adjustments.
+(3) *Card games.* (i) Daily, reconcile the amount indicated on the progressive sign/meter to the cash counted or received by the cage and the payouts made for each promotional progressive pot and pool. This reconciliation must be sufficiently documented, including substantiation of differences and adjustments.
 
 (ii) At least monthly, review all payouts for the promotional progressive pots, pools, or other promotions to verify payout accuracy and proper accounting treatment and that they are conducted in accordance with conditions provided to the patrons.
 
 (iii) At the conclusion of each contest/tournament, reconcile all contest/tournament entry and payout forms to the dollar amounts recorded in the appropriate accountability document.
 
-(4) *Gaming promotions and player tracking.*
-
-(i) At least monthly, review promotional payments, drawings, and giveaway programs to verify payout accuracy and proper accounting treatment in accordance with the rules provided to patrons.
+(4) *Gaming promotions and player tracking.* (i) At least monthly, review promotional payments, drawings, and giveaway programs to verify payout accuracy and proper accounting treatment in accordance with the rules provided to patrons.
 
 (ii) At least monthly, for computerized player tracking systems, perform the following procedures:
 
@@ -54,15 +46,11 @@
 
 (5) *Complimentary services or items.* At least monthly, review the reports required in § 543.13(d). These reports must be made available to those entities authorized by the TGRA or by tribal law or ordinance.
 
-(6) *Patron deposit accounts.*
-
-(i) At least weekly, reconcile patron deposit account liability (deposits ±adjustments−withdrawals = total account balance) to the system record.
+(6) *Patron deposit accounts.* (i) At least weekly, reconcile patron deposit account liability (deposits ±adjustments−withdrawals = total account balance) to the system record.
 
 (ii) At least weekly, review manual increases and decreases to/from player deposit accounts to ensure proper adjustments were authorized.
 
-(7) *Lines of credit.*
-
-(i) At least three (3) times per year, an agent independent of the cage, credit, and collection functions must perform the following review:
+(7) *Lines of credit.* (i) At least three (3) times per year, an agent independent of the cage, credit, and collection functions must perform the following review:
 
 (A) Select a sample of line of credit accounts;
 
@@ -76,9 +64,7 @@
 
 (ii) At least monthly, perform an evaluation of the collection percentage of credit issued to identify unusual trends.
 
-(8) *Drop and count.*
-
-(i) At least quarterly, unannounced currency counter and currency counter interface (if applicable) tests must be performed, and the test results documented and maintained. All denominations of currency and all types of cash out tickets counted by the currency counter must be tested. This test may be performed by internal audit or the TGRA. The result of these tests must be documented and signed by the agent(s) performing the test.
+(8) *Drop and count.* (i) At least quarterly, unannounced currency counter and currency counter interface (if applicable) tests must be performed, and the test results documented and maintained. All denominations of currency and all types of cash out tickets counted by the currency counter must be tested. This test may be performed by internal audit or the TGRA. The result of these tests must be documented and signed by the agent(s) performing the test.
 
 (ii) At least quarterly, unannounced weigh scale and weigh scale interface (if applicable) tests must be performed, and the test results documented and maintained. This test may be performed by internal audit or the TGRA. The result of these tests must be documented and signed by the agent(s) performing the test.
 
@@ -92,9 +78,7 @@
 
 (iv) At least quarterly, an inventory of all controlled keys must be performed and reconciled to records of keys made, issued, and destroyed. Investigations must be performed for all keys unaccounted for, and the investigation documented.
 
-(9) *Cage, vault, cash, and cash equivalents.*
-
-(i) At least monthly, the cage accountability must be reconciled to the general ledger.
+(9) *Cage, vault, cash, and cash equivalents.* (i) At least monthly, the cage accountability must be reconciled to the general ledger.
 
 (ii) At least monthly, trace the amount of cage deposits to the amounts indicated in the bank statements.
 
@@ -114,8 +98,6 @@
 
 (viii) Daily, reconcile all parts of forms used to document increases/decreases to the total cage inventory, investigate any variances noted, and document the results of such investigations.
 
-(10) *Inventory.*
-
-(i) At least monthly, verify receipt, issuance, and use of controlled inventory, including, but not limited to, bingo cards, pull tabs, playing cards, keys, pre-numbered and/or multi-part forms.
+(10) *Inventory.* (i) At least monthly, verify receipt, issuance, and use of controlled inventory, including, but not limited to, bingo cards, pull tabs, playing cards, keys, pre-numbered and/or multi-part forms.
 
 (ii) Periodically perform minimum bankroll calculations to ensure that the gaming operation maintains cash in an amount sufficient to satisfy the gaming operation's obligations.

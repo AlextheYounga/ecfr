@@ -86,9 +86,7 @@
 
 (2) The tribe must submit two copies of the agreed-upon procedures report to the Commission within 120 days of the gaming operation's fiscal year end in conjunction with the submission of the annual financial audit report required pursuant to 25 CFR part 571.
 
-(3) *Review of internal audit.*
-
-(i) The CPA must determine compliance by the gaming operation with the internal audit requirements in this paragraph (d) by:
+(3) *Review of internal audit.* (i) The CPA must determine compliance by the gaming operation with the internal audit requirements in this paragraph (d) by:
 
 (A) Completing the internal audit checklist;
 
