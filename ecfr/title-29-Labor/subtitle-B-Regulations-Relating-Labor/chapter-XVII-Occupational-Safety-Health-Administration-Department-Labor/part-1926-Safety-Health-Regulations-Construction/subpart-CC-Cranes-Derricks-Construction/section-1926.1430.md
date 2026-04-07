@@ -6,9 +6,9 @@ The employer must provide training as follows:
 
 (b) *Signal persons.* The employer must train each employee who will be assigned to work as a signal persons who does not meet the requirements of § 1926.1428(c) in the areas addressed in that paragraph.
 
-(c) *Operators* - (1) The employer must train each operator in accordance with § 1926.1427(a) and (b), on the safe operation of the equipment the operator will be using.
+(c) *Operators.* (1) The employer must train each operator in accordance with § 1926.1427(a) and (b), on the safe operation of the equipment the operator will be using.
 
-(2). The employer must train each operator covered under the exception of § 1926.1427(a)(2) on the safe operation of the equipment the operator will be using.
+(2) The employer must train each operator covered under the exception of § 1926.1427(a)(2) on the safe operation of the equipment the operator will be using.
 
 (3) The employer must train each operator of the equipment covered by this subpart in the following practices:
 

@@ -12,9 +12,9 @@
 
 (2) “Gross Proceeds” as used in this section means all fees and payments, including those made in kind, received from any source before, during or after the License Period that are derived from the use of sound recordings subject to protection under title 17, United States Code, during the License Period pursuant to 17 U.S.C. 112(e) for the sole purpose of facilitating a transmission to the public of a performance of a sound recording under the limitation on exclusive rights specified in 17 U.S.C. 114(d)(1)(C)(iv). The attribution of Gross Proceeds to recordings subject to protection under title 17, United States Code, may be made on the basis of:
 
-(i) For classical programs, the proportion that the playing time of classical recordings subject to protection under title 17, United States Code, bears to the total playing time of all classical recordings in the program; and
+(i) For classical programs, the proportion that the playing time of classical recordings subject to protection under title 17, United States Code, bears to the total playing time of all classical recordings subject to protection under title 17, United States Code in the program; and
 
-(ii) For all other programs, the proportion that the number of recordings subject to protection under title 17, United States Code, bears to the total number of all recordings in the program.
+(ii) For all other programs, the proportion that the number of recordings subject to protection under title 17, United States Code, bears to the total number of all recordings subject to protection under title 17, United States Code in the program.
 
 (b) *Minimum fee.* Each Licensee shall pay a minimum fee of $20,000 for each calendar year of the License Period in which it makes Ephemeral Recordings for use to facilitate transmissions under the limitation on exclusive rights specified by 17 U.S.C. 114(d)(1)(C)(iv), whether or not it does so for all or any part of the year. These minimum fees shall be nonrefundable, but shall be fully creditable to royalty payments due under paragraph (a) of this section for the same calendar year (but not any subsequent calendar year).
 

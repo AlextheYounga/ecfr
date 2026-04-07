@@ -72,7 +72,7 @@
 
 (3) May not be less than 40 percent.
 
-(g) *Loss recoupment limit.* The amount of shared losses for which an eligible ACO is liable may not exceed 15 percent of its updated benchmark as determined under under § 425.601, § 425.602 or § 425.603.
+(g) *Loss recoupment limit.* The amount of shared losses for which an eligible ACO is liable may not exceed 15 percent of its updated benchmark as determined under § 425.601, § 425.602 or § 425.603.
 
 (h) *Notification of savings and losses.* (1) CMS notifies an ACO in writing regarding whether the ACO qualifies for a shared savings payment, and if so, the amount of the payment due.
 
