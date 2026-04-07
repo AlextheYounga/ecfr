@@ -1,0 +1,3 @@
+##### § 404.344 Your relationship by marriage to the insured.
+
+You may be eligible for benefits if you are related to the insured person as a wife, husband, widow, or widower. To decide your relationship to the insured, we look first to State laws. The State laws that we use are discussed in § 404.345. If your relationship cannot be established under State law, you may still be eligible for benefits if your relationship as the insured's wife, husband, widow, or widower is based upon a *deemed valid marriage* as described in § 404.346.

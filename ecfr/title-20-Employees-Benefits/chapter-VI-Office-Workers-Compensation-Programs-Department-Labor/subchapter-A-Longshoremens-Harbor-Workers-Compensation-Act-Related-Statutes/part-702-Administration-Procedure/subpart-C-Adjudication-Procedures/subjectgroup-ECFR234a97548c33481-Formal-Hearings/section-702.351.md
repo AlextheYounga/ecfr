@@ -1,0 +1,3 @@
+##### § 702.351 Withdrawal of controversion of issues set for formal hearing; effect.
+
+Whenever a party withdraws his controversion of the issues set for a formal hearing, the administrative law judge shall halt the proceedings upon receipt from said party of a signed statement to that effect and forthwith notify the district director who shall then proceed to dispose of the case as provided for in § 702.315.

@@ -1,0 +1,3 @@
+##### § 725.411 Initial adjudication in Trust Fund cases.
+
+Notwithstanding the requirements of § 725.410 of this part, if the district director concludes that the results of the complete pulmonary evaluation support a finding of eligibility, and that there is no operator responsible for the payment of benefits, the district director shall issue a proposed decision and order in accordance with § 725.418 of this part.
