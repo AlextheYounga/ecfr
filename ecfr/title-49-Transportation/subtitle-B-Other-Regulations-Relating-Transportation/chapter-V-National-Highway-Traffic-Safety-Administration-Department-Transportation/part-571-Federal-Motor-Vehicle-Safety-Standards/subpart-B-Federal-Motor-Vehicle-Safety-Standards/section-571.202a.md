@@ -72,7 +72,7 @@ S4.3.1 *Injury criteria.* When tested in accordance with S5.3 of this section, d
 
 (a) *Angular rotation.* Limit posterior angular rotation between the head and torso of the 50th percentile male Hybrid III test dummy specified in 49 CFR part 572, subpart E, fitted with sensors to measure rotation between the head and torso, to 12 degrees for the dummy in all outboard designated seating positions;
 
-(b) *Head injury criteria.* Limit the maximum HIC15 value to 500. HIC15 is calculated as follows -
+(b) *Head injury criteria.* Limit the maximum HIC15 value to 500. HIC15 is calculated as follows—
 
 For any two points in time, t1 and t2, during the event which are separated by not more than a 15 millisecond time interval and where t1 is less than t2, the head injury criterion (HIC15) is determined using the resultant head acceleration at the center of gravity of the dummy head, a r, expressed as a multiple of g (the acceleration of gravity) and is calculated using the expression:
 
@@ -96,7 +96,7 @@ S4.7 Information in owner's manual.
 
 S4.7.1 The owner's manual for each vehicle must emphasize that all occupants, including the driver, should not operate a vehicle or sit in a vehicle's seat until the head restraints are placed in their proper positions in order to minimize the risk of neck injury in the event of a crash.
 
-S4.7.2 The owner's manual for each vehicle must -
+S4.7.2 The owner's manual for each vehicle must—
 
 (a) Include an accurate description of the vehicle's head restraint system in an easily understandable format. The owner's manual must clearly identify which seats are equipped with head restraints;
 
@@ -140,7 +140,7 @@ S5.2.4.1 Procedure using a 165 mm sphere.
 
 Demonstrate compliance with S4.2.4.1 of this section in accordance with the procedures of S5.2.4.1 (a) through (c) of this section, with the head restraint adjusted to its lowest height position and any backset position, except as allowed by S4.4.
 
-(a) The area of measurement is anywhere on the anterior surface of the head restraint or seat with a height greater than 540 mm and within the following distances from the centerline of the seat -
+(a) The area of measurement is anywhere on the anterior surface of the head restraint or seat with a height greater than 540 mm and within the following distances from the centerline of the seat—
 
 (1) 127 mm for seats required to have 254 mm minimum head restraint width; and
 
@@ -154,7 +154,7 @@ S5.2.4.2 Procedure using a 25 mm cylinder.
 
 Demonstrate compliance with S4.2.4.2 of this section in accordance with the procedures of S5.2.4.2 (a) through (c) of this section, with the head restraint adjusted to its lowest height position and any backset position, except as allowed by S4.4.
 
-(a) The area of measurement is between the anterior surface of the head restraint and seat with a height greater than 540 mm and within the following distances from the centerline of the seat -
+(a) The area of measurement is between the anterior surface of the head restraint and seat with a height greater than 540 mm and within the following distances from the centerline of the seat—
 
 (1) 127 mm for seats required to have 254 mm minimum head restraint width; and
 
@@ -178,15 +178,15 @@ S5.2.5 *Procedures for energy absorption.* Demonstrate compliance with S4.2.5 of
 
 S5.2.6 *Procedures for height retention.* Demonstrate compliance with S4.2.6 of this section in accordance with S5.2.6(a) through (e) of this section. For head restraints that move with respect to the seat when occupant loading is applied to the seat back, S5.2.6(a) through (e) may be performed with the head restraint fixed in a position corresponding to the position when the seat is unoccupied.
 
-(a) Adjust the adjustable head restraint so that its top is at any of the following height positions at any backset position -
+(a) Adjust the adjustable head restraint so that its top is at any of the following height positions at any backset position—
 
-(1) For front outboard designated seating positions -
+(1) For front outboard designated seating positions—
 
 (i) The highest position; and
 
 (ii) Not less than, but closest to 800 mm; and
 
-(2) For rear outboard designated seating positions equipped with head restraints -
+(2) For rear outboard designated seating positions equipped with head restraints—
 
 (i) The highest position; and
 
@@ -204,7 +204,7 @@ S5.2.6 *Procedures for height retention.* Demonstrate compliance with S4.2.6 of 
 
 S5.2.7 *Procedures for backset retention, displacement, and strength.* Demonstrate compliance with S4.2.7 of this section in accordance with S5.2.7(a) and (b) of this section. The load vectors that generate moment on the head restraint are initially contained in a vertical plane parallel to the vehicle longitudinal centerline.
 
-(a)*Backset retention and displacement.* For head restraints that move with respect to the seat when occupant loading is applied to the seat back, S5.2.7(a)(1) through (8) may be performed with the head restraint fixed in a position corresponding to the position when the seat is unoccupied. This fixation is applied to the member(s) that first transmit(s) the seat back loading from the occupant to the head restraint.
+(a) *Backset retention and displacement.* For head restraints that move with respect to the seat when occupant loading is applied to the seat back, S5.2.7(a)(1) through (8) may be performed with the head restraint fixed in a position corresponding to the position when the seat is unoccupied. This fixation is applied to the member(s) that first transmit(s) the seat back loading from the occupant to the head restraint.
 
 (1) Adjust the head restraint so that its top is at a height closest to and not less than:
 
@@ -262,7 +262,7 @@ S5.3.10 Calculate the HIC15 from the output of instrumentation placed in the hea
 
 S5.4 Procedures for folding or retracting head restraints for unoccupied rear outboard designated seating positions.
 
-(a) Demonstrate compliance with S4.4 (a) of this section, using a 5th percentile female Hybrid III test dummy specified in 49 CFR part 572, subpart O, in accordance with the following procedure -
+(a) Demonstrate compliance with S4.4 (a) of this section, using a 5th percentile female Hybrid III test dummy specified in 49 CFR part 572, subpart O, in accordance with the following procedure—
 
 (1) Position the test dummy in the seat such that the dummy's midsaggital plane is aligned within the 15 mm of the head restraint centerline and is parallel to a vertical plane parallel to the vehicle longitudinal centerline.
 
