@@ -1,8 +1,6 @@
-##### § 648.25 Atlantic Mackerel, squid, and butterfish framework adjustments to management measures.
+##### § 648.25 Mackerel, squid, and butterfish framework adjustments to management measures.
 
-Link to an amendment published at 85 FR 47116, Aug. 4, 2020.
-
-(a) *Within season management action.* The MAFMC may, at any time, initiate action to add or adjust management measures within the Atlantic Mackerel, Squid, and Butterfish FMP if it finds that action is necessary to meet or be consistent with the goals and objectives of the FMP.
+(a) *Within season management action.* The MAFMC may, at any time, initiate action to add or adjust management measures within the Mackerel, Squid, and Butterfish FMP if it finds that action is necessary to meet or be consistent with the goals and objectives of the FMP. However, any changes to Atlantic chub mackerel measures contained in this part 648 must be made through an amendment to the FMP and cannot be conducted through a framework adjustment.
 
 (1) *Adjustment process.* The MAFMC shall develop and analyze appropriate management actions over the span of at least two MAFMC meetings. The MAFMC must provide the public with advance notice of the availability of the recommendation(s), appropriate justification(s) and economic and biological analyses, and the opportunity to comment on the proposed adjustment(s) at the first meeting and prior to and at the second MAFMC meeting. The MAFMC's recommendations on adjustments or additions to management measures must come from one or more of the following categories:
 
@@ -80,4 +78,4 @@ Link to an amendment published at 85 FR 47116, Aug. 4, 2020.
 
 (b) \[Reserved\]
 
-\[76 FR 60620, Sept. 29, 2011, as amended at 76 FR 68656, Nov. 7, 2011; 76 FR 81848, Dec. 29, 2011; 79 FR 10048, Feb. 24, 2014; 80 FR 37194, June 30, 2015; 81 FR 90250, Dec. 14, 2016; 83 FR 64268, Dec. 14, 2018\]
+\[76 FR 60620, Sept. 29, 2011, as amended at 76 FR 68656, Nov. 7, 2011; 76 FR 81848, Dec. 29, 2011; 79 FR 10048, Feb. 24, 2014; 80 FR 37194, June 30, 2015; 81 FR 90250, Dec. 14, 2016; 83 FR 64268, Dec. 14, 2018; 85 FR 47116, Aug. 4, 2020\]

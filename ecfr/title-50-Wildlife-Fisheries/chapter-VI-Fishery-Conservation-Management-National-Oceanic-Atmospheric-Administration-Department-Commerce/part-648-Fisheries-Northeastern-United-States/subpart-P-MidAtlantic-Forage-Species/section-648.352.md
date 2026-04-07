@@ -1,6 +1,4 @@
-##### § 648.352 Mid-Atlantic forage species and Atlantic chub mackerel framework measures.
-
-Link to an amendment published at 85 FR 47117, Aug. 4, 2020.
+##### § 648.352 Mid-Atlantic forage species framework measures.
 
 (a) *General.* The MAFMC may, at any time, initiate action to add or revise management measures if it finds that action is necessary to meet or be consistent with the goals and objectives of the Atlantic Mackerel, Squid, and Butterfish FMP; the Atlantic Surfclam and Ocean Quahog FMP; the Summer Flounder, Scup, and Black Sea Bass FMP; the Atlantic Bluefish FMP; the Spiny Dogfish FMP; and Tilefish FMPs.
 
