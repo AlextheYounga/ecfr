@@ -1,0 +1,33 @@
+##### § 202.212 Covered personal identifiers.
+
+(a) *Definition.* The term *covered personal identifiers* means any listed identifier:
+
+(1) In combination with any other listed identifier; or
+
+(2) In combination with other data that is disclosed by a transacting party pursuant to the transaction such that the listed identifier is linked or linkable to other listed identifiers or to other sensitive personal data.
+
+(b) *Exclusion.* The term *covered personal identifiers* excludes:
+
+(1) Demographic or contact data that is linked only to other demographic or contact data (such as first and last name, birthplace, ZIP code, residential street or postal address, phone number, and email address and similar public account identifiers); and
+
+(2) A network-based identifier, account-authentication data, or call-detail data that is linked only to other network-based identifier, account-authentication data, or call-detail data as necessary for the provision of telecommunications, networking, or similar service.
+
+(c) *Examples of listed identifiers in combination with other listed identifiers*—(1) *Example 1.* A standalone listed identifier in isolation (*i.e.,* that is not linked to another listed identifier, sensitive personal data, or other data that is disclosed by a transacting party pursuant to the transaction such that the listed identifier is linked or linkable to other listed identifiers or to other sensitive personal data)—such as a Social Security Number or account username—would not constitute a covered personal identifier.
+
+(2) *Example 2.* A listed identifier linked to another listed identifier—such as a first and last name linked to a Social Security number, a driver's license number linked to a passport number, a device Media Access Control (“MAC”) address linked to a residential address, an account username linked to a first and last name, or a mobile advertising ID linked to an email address—would constitute covered personal identifiers.
+
+(3) *Example 3.* Demographic or contact data linked only to other demographic or contact data—such as a first and last name linked to a residential street address, an email address linked to a first and last name, or a customer loyalty membership record linking a first and last name to a phone number—would not constitute covered personal identifiers.
+
+(4) *Example 4.* Demographic or contact data linked to other demographic or contact data and to another listed identifier—such as a first and last name linked to an email address and to an IP address—would constitute covered personal identifiers.
+
+(5) *Example 5.* Account usernames linked to passwords as part of a sale of a dataset would constitute covered personal identifiers. Those pieces of account-authentication data are not linked as a necessary part of the provision of telecommunications, networking, or similar services. This combination would constitute covered personal identifiers.
+
+(d) *Examples of a listed identifier in combination with other data disclosed by a transacting party*—(1) *Example 1.* A foreign person who is a covered person asks a U.S. company for a list of Media Access Control (“MAC”) addresses from devices that have connected to the wireless network of a U.S. fast-food restaurant located in a particular government building. The U.S. company then sells the list of MAC addresses, without any other listed identifiers or sensitive personal data, to the covered person. The disclosed MAC addresses, when paired with the other data disclosed by the covered person—that the devices “have connected to the wireless network of a U.S. fast-food restaurant located in a particular government building”—makes it so that the MAC addresses are linked or linkable to other sensitive personal data, in this case precise geolocation data of the location of the fast-food restaurant that the national security-related individuals frequent with their devices. This combination of data therefore meets the definition of covered personal identifiers.
+
+(2) *Example 2.* A U.S. company sells to a country of concern a list of residential addresses that the company describes (whether in a heading on the list or separately to the country of concern as part of the transaction) as “addresses of members of a country of concern's opposition political party in New York City” or as “addresses of active-duty military officers who live in Howard County, Maryland” without any other listed identifiers or sensitive personal data. The data disclosed by the U.S. company's description, when paired with the disclosed addresses, makes the addresses linked or linkable to other listed identifiers or to other sensitive personal data of the U.S. individuals associated with them. This combination of data therefore meets the definition of covered personal identifiers.
+
+(3) *Example 3.* A covered person asks a U.S. company for a bulk list of birth dates for “any American who visited a Starbucks in Washington, DC, in December 2023.” The U.S. company then sells the list of birth dates, without any other listed identifiers or sensitive personal data, to the covered person. The other data disclosed by the covered person—“any American who visited a Starbucks in Washington, DC, in December 2023”—does not make the birth dates linked or linkable to other listed identifiers or to other sensitive personal data. This combination of data therefore does not meet the definition of covered personal identifiers.
+
+(4) *Example 4.* Same as Example 3, but the covered person asks the U.S. company for a bulk list of names (rather than birth dates) for “any American who visited a Starbucks in Washington, DC in December 2023.” The other data disclosed by the covered person—“any American who visited a Starbucks in Washington, DC, in December 2023”—does not make the list of names, without more, linked or linkable to other listed identifiers or to other sensitive personal data. This combination of data therefore does not meet the definition of covered personal identifiers.
+
+(5) *Example 5.* A U.S. company sells to a covered person a list of residential addresses that the company describes (in a heading in the list or to the covered person as part of the transaction) as “households of Americans who watched more than 50% of episodes” of a specific popular TV show, without any other listed identifiers or sensitive personal data. The other data disclosed by the U.S. company—“Americans who watched more than 50% of episodes” of a specific popular TV show—does not increase the extent to which the addresses are linked or linkable to other listed identifiers or to other sensitive personal data. This combination of data therefore does not meet the definition of covered personal identifiers.

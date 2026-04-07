@@ -1,0 +1,3 @@
+##### § 202.204 Biometric identifiers.
+
+The term *biometric identifiers* means measurable physical characteristics or behaviors used to recognize or verify the identity of an individual, including facial images, voice prints and patterns, retina and iris scans, palm prints and fingerprints, gait, and keyboard usage patterns that are enrolled in a biometric system and the templates created by the system.

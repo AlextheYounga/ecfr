@@ -1,0 +1,3 @@
+##### § 202.1304 Administrative collection and litigation.
+
+In the event that the violator does not pay the penalty imposed pursuant to this part or make payment arrangements acceptable to the Department of Justice, the Department of Justice may refer the matter to the Department of the Treasury for administrative collection measures or take appropriate action to recover the penalty in any civil suit in Federal district court.

@@ -1,255 +1,257 @@
 ##### § 490.105 Establishment of performance targets.
 
-(a) *In general.* State DOTs shall establish performance targets for all measures specified in paragraph (c) of this section for the respective target scope identified in paragraph (d) of this section with the requirements specified in paragraph (e) of this section. The MPOs shall establish performance targets for all measures specified in paragraph (c) of this section for respective target scope identified in paragraph (d) of this section with the requirements specified in paragraph (f) of this section. 
+Link to an amendment published at 90 FR 16466, Apr. 18, 2025.
 
-(b) *Highway Safety Improvement Program measures.* State DOTs and MPOs shall establish performance targets for the Highway Safety Improvement Program (HSIP) measures in accordance with § 490.209. 
+(a) *In general.* State DOTs shall establish performance targets for all measures specified in paragraph (c) of this section for the respective target scope identified in paragraph (d) of this section with the requirements specified in paragraph (e) of this section. The MPOs shall establish performance targets for all measures specified in paragraph (c) of this section for respective target scope identified in paragraph (d) of this section with the requirements specified in paragraph (f) of this section.
 
-(c) *Applicable measures.* State DOTs and MPOs that include, within their respective geographic boundaries, any portion of the applicable transportation network or area shall establish performance targets for the performance measures identified in 23 CFR sections— 
+(b) *Highway Safety Improvement Program measures.* State DOTs and MPOs shall establish performance targets for the Highway Safety Improvement Program (HSIP) measures in accordance with § 490.209.
 
-(1) 490.307(a)(1) and (2) for the condition of pavements on the Interstate System; 
+(c) *Applicable measures.* State DOTs and MPOs that include, within their respective geographic boundaries, any portion of the applicable transportation network or area shall establish performance targets for the performance measures identified in 23 CFR sections—
 
-(2) 490.307(a)(3) and (4) for the condition of pavements on the NHS (excluding the Interstate); 
+(1) 490.307(a)(1) and (2) for the condition of pavements on the Interstate System;
 
-(3) 490.407(c)(1) and (2) for the condition of bridges on the NHS; 
+(2) 490.307(a)(3) and (4) for the condition of pavements on the NHS (excluding the Interstate);
 
-(4) 490.507(a)(1) and (2) for the NHS Travel Time Reliability; 
+(3) 490.407(c)(1) and (2) for the condition of bridges on the NHS;
 
-(5) 490.507(b) for greenhouse gas (GHG) emissions on the NHS; 
+(4) 490.507(a)(1) and (2) for the NHS Travel Time Reliability;
 
-(6) 490.607 for the freight movement on the Interstate System; 
+(5) 490.507(b) for greenhouse gas (GHG) emissions on the NHS;
 
-(7) 490.707(a) and (b) for traffic congestion; and 
+(6) 490.607 for the freight movement on the Interstate System;
 
-(8) 490.807 for on-road mobile source emissions. 
+(7) 490.707(a) and (b) for traffic congestion; and
 
-(d) *Target scope.* Targets established by State DOTs and MPOs shall, regardless of ownership, represent the transportation network or geographic area, including bridges that cross State borders, that are applicable to the measures as specified in paragraphs (d)(1), (2), and (4) of this section. 
+(8) 490.807 for on-road mobile source emissions.
 
-(1) State DOTs and MPOs shall establish statewide and metropolitan planning area wide targets, respectively, that represent the condition/performance of the transportation network or geographic area that are applicable to the measures, as specified in 23 CFR sections— 
+(d) *Target scope.* Targets established by State DOTs and MPOs shall, regardless of ownership, represent the transportation network or geographic area, including bridges that cross State borders, that are applicable to the measures as specified in paragraphs (d)(1), (2), and (4) of this section.
 
-(i) 490.303 for the condition of pavements on the Interstate System measures specified in § 490.307(a)(1) and (2); 
+(1) State DOTs and MPOs shall establish statewide and metropolitan planning area wide targets, respectively, that represent the condition/performance of the transportation network or geographic area that are applicable to the measures, as specified in 23 CFR sections—
 
-(ii) 490.303 for the condition of pavements on the NHS (excluding the Interstate) measures specified in § 490.307(a)(3) and (4); 
+(i) 490.303 for the condition of pavements on the Interstate System measures specified in § 490.307(a)(1) and (2);
 
-(iii) 490.403 for the condition of bridges on the NHS measures specified in § 490.407(c)(1) and (2); 
+(ii) 490.303 for the condition of pavements on the NHS (excluding the Interstate) measures specified in § 490.307(a)(3) and (4);
 
-(iv) 490.503(a)(1) for the Travel Time Reliability measures specified in § 490.507(a)(1) and (2); 
+(iii) 490.403 for the condition of bridges on the NHS measures specified in § 490.407(c)(1) and (2);
 
-(v) 490.503(a)(2) for the GHG measure specified in § 490.507(b); 
+(iv) 490.503(a)(1) for the Travel Time Reliability measures specified in § 490.507(a)(1) and (2);
 
-(vi) 490.603 for the Freight Reliability measure specified in § 490.607; and 
+(v) 490.503(a)(2) for the GHG measure specified in § 490.507(b);
 
-(vii) 490.803 for the Total Emissions Reduction measure identified in § 490.807. 
+(vi) 490.603 for the Freight Reliability measure specified in § 490.607; and
 
-(2) State DOTs and MPOs shall establish a single urbanized area target that represents the performance of the transportation network in each applicable area for the CMAQ Traffic Congestion measures, as specified in § 490.703. 
+(vii) 490.803 for the Total Emissions Reduction measure identified in § 490.807.
 
-(3) For the purpose of target establishment in this section and reporting targets and progress evaluation in § 490.107, State DOTs shall describe the urbanized area boundaries within the State boundary in the Baseline Performance Period Report required by § 490.107(b)(1). 
+(2) State DOTs and MPOs shall establish a single urbanized area target that represents the performance of the transportation network in each applicable area for the CMAQ Traffic Congestion measures, as specified in § 490.703.
 
-(4) MPOs shall establish a joint target for the GHG measure specified in § 490.507(b), for each urbanized area that meets the criteria specified in paragraph (f)(10) of this section. The joint target shall represent the performance of the transportation network specified in § 490.503(a)(2). 
+(3) For the purpose of target establishment in this section and reporting targets and progress evaluation in § 490.107, State DOTs shall describe the urbanized area boundaries within the State boundary in the Baseline Performance Period Report required by § 490.107(b)(1).
 
-(e) *Establishment.* State DOTs shall establish targets for each of the performance measures identified in paragraph (c) of this section for respective target scope identified in paragraph (d) of this section as follows: 
+(4) MPOs shall establish a joint target for the GHG measure specified in § 490.507(b), for each urbanized area that meets the criteria specified in paragraph (f)(10) of this section. The joint target shall represent the performance of the transportation network specified in § 490.503(a)(2).
 
-(1) *Schedule.* State DOTs shall establish targets not later than the dates provided in paragraphs (e)(1)(i) and (e)(1)(ii) of this section, and for each performance period thereafter, in a manner that allows for the time needed to meet the requirements specified in this section and so that the final targets are submitted to FHWA by the due date provided in § 490.107(b). 
+(e) *Establishment.* State DOTs shall establish targets for each of the performance measures identified in paragraph (c) of this section for respective target scope identified in paragraph (d) of this section as follows:
 
-(i) State DOTs shall establish initial targets not later than May 20, 2018, except as provided in paragraph (e)(1)(ii) of this section. 
+(1) *Schedule.* State DOTs shall establish targets not later than the dates provided in paragraphs (e)(1)(i) and (e)(1)(ii) of this section, and for each performance period thereafter, in a manner that allows for the time needed to meet the requirements specified in this section and so that the final targets are submitted to FHWA by the due date provided in § 490.107(b).
 
-(ii) State DOTs shall establish initial targets for the GHG measure identified in § 490.507(b) not later than February 1, 2024. 
+(i) State DOTs shall establish initial targets not later than May 20, 2018, except as provided in paragraph (e)(1)(ii) of this section.
 
-(2) *Coordination.* State DOTs shall coordinate with relevant MPOs on the selection of targets in accordance with 23 U.S.C. 135(d)(2)(B)(i)(II) to ensure consistency, to the maximum extent practicable. 
+(ii) State DOTs shall establish initial targets for the GHG measure identified in § 490.507(b) not later than February 1, 2024.
 
-(3) *Additional targets for urbanized and non-urbanized areas.* In addition to statewide targets, described in paragraph (d)(1) of this section, State DOTs may, as appropriate, for each statewide target establish additional targets for portions of the State. 
+(2) *Coordination.* State DOTs shall coordinate with relevant MPOs on the selection of targets in accordance with 23 U.S.C. 135(d)(2)(B)(i)(II) to ensure consistency, to the maximum extent practicable.
 
-(i) State DOTs shall describe in the Baseline Performance Period Report required by § 490.107(b)(1) the boundaries used to establish each additional target. 
+(3) *Additional targets for urbanized and non-urbanized areas.* In addition to statewide targets, described in paragraph (d)(1) of this section, State DOTs may, as appropriate, for each statewide target establish additional targets for portions of the State.
 
-(ii) State DOTs may select any number and combination of urbanized area boundaries and may also select a non-urbanized area boundary for the establishment of additional targets. 
+(i) State DOTs shall describe in the Baseline Performance Period Report required by § 490.107(b)(1) the boundaries used to establish each additional target.
 
-(iii) The boundaries used by the State DOT for additional targets shall be contained within the geographic boundary of the State. 
+(ii) State DOTs may select any number and combination of urbanized area boundaries and may also select a non-urbanized area boundary for the establishment of additional targets.
 
-(iv) State DOTs shall evaluate separately the progress of each additional target and report that progress as required under § 490.107(b)(2)(ii)(B) and (b)(3)(ii)(B). 
+(iii) The boundaries used by the State DOT for additional targets shall be contained within the geographic boundary of the State.
 
-(v) Additional targets for urbanized areas and the non-urbanized area are not applicable to the CMAQ Traffic Congestion measures and the Total Emissions Reduction measure in paragraphs (c)(7) and (8) of this section, respectively. 
+(iv) State DOTs shall evaluate separately the progress of each additional target and report that progress as required under § 490.107(b)(2)(ii)(B) and (b)(3)(ii)(B).
 
-(4) *Time horizon for targets.* State DOTs shall establish targets for a performance period as follows: 
+(v) Additional targets for urbanized areas and the non-urbanized area are not applicable to the CMAQ Traffic Congestion measures and the Total Emissions Reduction measure in paragraphs (c)(7) and (8) of this section, respectively.
 
-(i) The performance period will begin on: 
+(4) *Time horizon for targets.* State DOTs shall establish targets for a performance period as follows:
 
-(A) January 1st of the year in which the Baseline Performance Period Report is due to FHWA and will extend for a duration of 4 years for the measures in paragraphs (c)(1) through (7) of this section; and 
+(i) The performance period will begin on:
 
-(B) October 1st of the year prior to which the Baseline Performance Report is due to FHWA and will extend for a duration of 4 years for the measure in paragraph (c)(8) of this section. 
+(A) January 1st of the year in which the Baseline Performance Period Report is due to FHWA and will extend for a duration of 4 years for the measures in paragraphs (c)(1) through (7) of this section; and
 
-(C) For the GHG measure in § 490.105(c)(5), the performance period will begin on January 1, 2022 and will extend for a duration of 4-years. Subsequent performance periods will begin as described in paragraph (4)(i)(A) of this section. 
+(B) October 1st of the year prior to which the Baseline Performance Report is due to FHWA and will extend for a duration of 4 years for the measure in paragraph (c)(8) of this section.
 
-(ii) The midpoint of a performance period will occur 2 years after the beginning of a performance period described in paragraph (e)(4)(i) of this section. 
+(C) For the GHG measure in § 490.105(c)(5), the performance period will begin on January 1, 2022 and will extend for a duration of 4-years. Subsequent performance periods will begin as described in paragraph (4)(i)(A) of this section.
 
-(iii) Except as provided in paragraphs (e)(7) and (e)(8)(v), and (e)(10)(i) of this section, State DOTs shall establish 2-year targets that reflect the anticipated condition/performance level at the midpoint of each performance period for the measures in paragraphs (c)(1) through (7) of this section, and the anticipated cumulative emissions reduction to be reported for the first 2 years of a performance period by applicable criteria pollutant and precursor for the measure in paragraph (c)(8) of this section. 
+(ii) The midpoint of a performance period will occur 2 years after the beginning of a performance period described in paragraph (e)(4)(i) of this section.
 
-(iv) State DOTs shall establish 4-year targets that reflect the anticipated condition/performance level at the end of each performance period for the measures in paragraphs (c)(1) through (7) of this section, and the anticipated cumulative emissions reduction to be reported for the entire performance period by applicable criteria pollutant and precursor for the measure in paragraph (c)(8) of this section. 
+(iii) Except as provided in paragraphs (e)(7) and (e)(8)(v), and (e)(10)(i) of this section, State DOTs shall establish 2-year targets that reflect the anticipated condition/performance level at the midpoint of each performance period for the measures in paragraphs (c)(1) through (7) of this section, and the anticipated cumulative emissions reduction to be reported for the first 2 years of a performance period by applicable criteria pollutant and precursor for the measure in paragraph (c)(8) of this section.
 
-(5) *Reporting.* State DOTs shall report 2-year targets, 4-year targets, the basis for each established target, progress made toward the achievement of targets, and other requirements to FHWA in accordance with § 490.107. State DOTs shall provide relevant MPO(s) targets to FHWA, upon request, each time the relevant MPOs establish or adjust MPO targets, as described in paragraph (f) of this section. 
+(iv) State DOTs shall establish 4-year targets that reflect the anticipated condition/performance level at the end of each performance period for the measures in paragraphs (c)(1) through (7) of this section, and the anticipated cumulative emissions reduction to be reported for the entire performance period by applicable criteria pollutant and precursor for the measure in paragraph (c)(8) of this section.
 
-(6) *Target adjustment.* State DOTs may adjust an established 4-year target in the Mid Performance Period Progress Report, as described in § 490.107(b)(2). State DOTs shall coordinate with relevant MPOs when adjusting their 4-year target(s). Any adjustments made to 4-year targets established for the CMAQ Traffic Congestion measures in paragraph (c)(7) of this section shall be agreed upon and made collectively by all State DOTs and MPOs that include any portion of the NHS in the respective urbanized area applicable to the measures. 
+(5) *Reporting.* State DOTs shall report 2-year targets, 4-year targets, the basis for each established target, progress made toward the achievement of targets, and other requirements to FHWA in accordance with § 490.107. State DOTs shall provide relevant MPO(s) targets to FHWA, upon request, each time the relevant MPOs establish or adjust MPO targets, as described in paragraph (f) of this section.
 
-(7) *Phase-in of new requirements for Interstate System pavement condition measures and the non-Interstate NHS Travel Time Reliability measures.* The following requirements apply only to the first performance period and to the measures in §§ 490.307(a)(1) and (2) and 490.507(a)(2): 
+(6) *Target adjustment.* State DOTs may adjust an established 4-year target in the Mid Performance Period Progress Report, as described in § 490.107(b)(2). State DOTs shall coordinate with relevant MPOs when adjusting their 4-year target(s). Any adjustments made to 4-year targets established for the CMAQ Traffic Congestion measures in paragraph (c)(7) of this section shall be agreed upon and made collectively by all State DOTs and MPOs that include any portion of the NHS in the respective urbanized area applicable to the measures.
 
-(i) State DOTs shall establish their 4-year targets, required under paragraph (e)(4)(iv) of this section, and report these targets in their Baseline Performance Period Report, required under § 490.107(b)(1); 
+(7) *Phase-in of new requirements for Interstate System pavement condition measures and the non-Interstate NHS Travel Time Reliability measures.* The following requirements apply only to the first performance period and to the measures in §§ 490.307(a)(1) and (2) and 490.507(a)(2):
 
-(ii) State DOTs shall not report 2-year targets, described in paragraph (e)(4)(iii) of this section, and baseline condition/performance in their Baseline Performance Period Report; and 
+(i) State DOTs shall establish their 4-year targets, required under paragraph (e)(4)(iv) of this section, and report these targets in their Baseline Performance Period Report, required under § 490.107(b)(1);
 
-(iii) State DOTs shall use the 2-year condition/performance in their Mid Performance Period Progress Report, described in § 490.107(b)(2)(ii)(A) as the baseline condition/performance. State DOTs may also adjust their 4-year targets, as appropriate. 
+(ii) State DOTs shall not report 2-year targets, described in paragraph (e)(4)(iii) of this section, and baseline condition/performance in their Baseline Performance Period Report; and
 
-(8) *Urbanized area specific targets.* The following requirements apply to establishing targets for the CMAQ Traffic Congestion measures in paragraph (c)(7) of this section, as their target scope provided in paragraph (d)(2) of this section: 
+(iii) State DOTs shall use the 2-year condition/performance in their Mid Performance Period Progress Report, described in § 490.107(b)(2)(ii)(A) as the baseline condition/performance. State DOTs may also adjust their 4-year targets, as appropriate.
 
-(i) For the performance period that begins on January 1, 2018, State DOTs, with mainline highways on the NHS that cross any part of an urbanized area with a population more than 1 million within its geographic State boundary and that urbanized area contains any part of a nonattainment or maintenance area for any one of the criteria pollutants, as specified in § 490.703, shall establish targets for the CMAQ Traffic Congestion measures specified in § 490.707(a) and (b). 
+(8) *Urbanized area specific targets.* The following requirements apply to establishing targets for the CMAQ Traffic Congestion measures in paragraph (c)(7) of this section, as their target scope provided in paragraph (d)(2) of this section:
 
-(ii) Beginning with the performance period that begins on January 1, 2022, and all subsequent performance periods thereafter, State DOTs, with mainline highways on the NHS that cross any part of an urbanized area with a population more than 200,000 within its geographic State boundary and that urbanized area contains any part of a nonattainment or maintenance area for any one of the criteria pollutants, as specified in § 490.703, shall establish targets for the CMAQ Traffic Congestion measures specified in § 490.707(a) and (b). 
+(i) For the performance period that begins on January 1, 2018, State DOTs, with mainline highways on the NHS that cross any part of an urbanized area with a population more than 1 million within its geographic State boundary and that urbanized area contains any part of a nonattainment or maintenance area for any one of the criteria pollutants, as specified in § 490.703, shall establish targets for the CMAQ Traffic Congestion measures specified in § 490.707(a) and (b).
 
-(iii) If required to establish targets for the CMAQ Traffic Congestion measures, as described in paragraphs (e)(8)(i) and/or (ii) of this section, State DOTs shall comply with the following: 
+(ii) Beginning with the performance period that begins on January 1, 2022, and all subsequent performance periods thereafter, State DOTs, with mainline highways on the NHS that cross any part of an urbanized area with a population more than 200,000 within its geographic State boundary and that urbanized area contains any part of a nonattainment or maintenance area for any one of the criteria pollutants, as specified in § 490.703, shall establish targets for the CMAQ Traffic Congestion measures specified in § 490.707(a) and (b).
 
-(A) For each urbanized area, only one 2-year target and one 4-year target for the entire urbanized area shall be established regardless of roadway ownership. 
+(iii) If required to establish targets for the CMAQ Traffic Congestion measures, as described in paragraphs (e)(8)(i) and/or (ii) of this section, State DOTs shall comply with the following:
 
-(B) For each urbanized area, all State DOTs and MPOs that contain, within their respective boundaries, any portion of the NHS network in that urbanized area shall agree on one 2-year and one 4-year target for that urbanized area. In accordance with paragraphs (e)(5) and (f)(9) of this section, the targets reported by the State DOTs and MPOs for that urbanized area shall be identical. 
+(A) For each urbanized area, only one 2-year target and one 4-year target for the entire urbanized area shall be established regardless of roadway ownership.
 
-(C) Except as provided in paragraphs (e)(8)(iii)(F) and (e)(8)(v) of this section, State DOTs shall meet all reporting requirements in § 490.107 for the entire performance period even if there is a change of population, NHS designation, or nonattainment/maintenance area designation during that performance period. 
+(B) For each urbanized area, all State DOTs and MPOs that contain, within their respective boundaries, any portion of the NHS network in that urbanized area shall agree on one 2-year and one 4-year target for that urbanized area. In accordance with paragraphs (e)(5) and (f)(9) of this section, the targets reported by the State DOTs and MPOs for that urbanized area shall be identical.
 
-(D) The 1 million and 200,000 population thresholds, in paragraphs (e)(8)(i) and (ii) of this section, shall be determined based on the most recent annual population estimates published by the U.S. Census available 1 year before when the State DOT Baseline Performance Period Report is due to FHWA. 
+(C) Except as provided in paragraphs (e)(8)(iii)(F) and (e)(8)(v) of this section, State DOTs shall meet all reporting requirements in § 490.107 for the entire performance period even if there is a change of population, NHS designation, or nonattainment/maintenance area designation during that performance period.
 
-(E) NHS designations and urbanized areas, in paragraphs (e)(8)(i) and (ii) of this section, shall be determined from the data, contained in HPMS, 1 year before when the State DOT Baseline Performance Period Report is due to FHWA. 
+(D) The 1 million and 200,000 population thresholds, in paragraphs (e)(8)(i) and (ii) of this section, shall be determined based on the most recent annual population estimates published by the U.S. Census available 1 year before when the State DOT Baseline Performance Period Report is due to FHWA.
 
-(F) The designation of nonattainment or maintenance areas, in paragraphs (e)(8)(i) and (ii) of this section, shall be determined based on the effective date of U.S. EPA's designation under the NAAQS in 40 CFR part 81, as of the date 1 year before the State DOT Baseline Performance Period Report is due to FHWA. The nonattainment and maintenance areas shall be revised if, on the date 1 year before the State DOT Mid Performance Period Progress Report in § 490.107(b)(2)(ii) is due to FHWA, the area is no longer in nonattainment or maintenance for a criteria pollutant included in § 490.703. 
+(E) NHS designations and urbanized areas, in paragraphs (e)(8)(i) and (ii) of this section, shall be determined from the data, contained in HPMS, 1 year before when the State DOT Baseline Performance Period Report is due to FHWA.
 
-(iv) If a State DOT does not meet the criteria specified in paragraph (e)(8)(i) or (ii) of this section 1 year before when the State DOT Baseline Performance Period Report is due to FHWA, then that State DOT is not required to establish targets for the CMAQ Traffic Congestion measures for that performance period. 
+(F) The designation of nonattainment or maintenance areas, in paragraphs (e)(8)(i) and (ii) of this section, shall be determined based on the effective date of U.S. EPA's designation under the NAAQS in 40 CFR part 81, as of the date 1 year before the State DOT Baseline Performance Period Report is due to FHWA. The nonattainment and maintenance areas shall be revised if, on the date 1 year before the State DOT Mid Performance Period Progress Report in § 490.107(b)(2)(ii) is due to FHWA, the area is no longer in nonattainment or maintenance for a criteria pollutant included in § 490.703.
 
-(v) If the urbanized area, in paragraph (e)(8)(i) or (ii) of this section, does not contain any part of a nonattainment or maintenance area for the applicable criteria pollutants, as specified in § 490.703, 1 year before the State DOT Mid Performance Period Progress Report is due to FHWA, as described in paragraph (e)(8)(iii)(F) of this section, then that State DOT is not required to meet the requirements in § 490.107 for the CMAQ Traffic Congestion measures for that urbanized area for the remainder of that performance period. 
+(iv) If a State DOT does not meet the criteria specified in paragraph (e)(8)(i) or (ii) of this section 1 year before when the State DOT Baseline Performance Period Report is due to FHWA, then that State DOT is not required to establish targets for the CMAQ Traffic Congestion measures for that performance period.
 
-(vi) The following requirements apply only the Peak Hour Excessive Delay (PHED) measure in § 490.707(a) to assess CMAQ Traffic Congestion in to the first performance period: 
+(v) If the urbanized area, in paragraph (e)(8)(i) or (ii) of this section, does not contain any part of a nonattainment or maintenance area for the applicable criteria pollutants, as specified in § 490.703, 1 year before the State DOT Mid Performance Period Progress Report is due to FHWA, as described in paragraph (e)(8)(iii)(F) of this section, then that State DOT is not required to meet the requirements in § 490.107 for the CMAQ Traffic Congestion measures for that urbanized area for the remainder of that performance period.
 
-(A) State DOTs shall establish their 4-year targets, required under paragraph (e)(4)(iv) of this section, and report these targets in their Baseline Performance Period Report, required under § 490.107(b)(1). 
+(vi) The following requirements apply only the Peak Hour Excessive Delay (PHED) measure in § 490.707(a) to assess CMAQ Traffic Congestion in to the first performance period:
 
-(B) State DOTs shall not report 2-year targets, described in paragraph (e)(4)(ii) of this section, and baseline condition/performance in their Baseline Performance Period Report. 
+(A) State DOTs shall establish their 4-year targets, required under paragraph (e)(4)(iv) of this section, and report these targets in their Baseline Performance Period Report, required under § 490.107(b)(1).
 
-(C) State DOTs shall use the 2-year condition/performance in their Mid Performance Period Progress Report, described in § 490.107(b)(2)(ii)(A) as the baseline condition/performance. The established baseline condition/performance shall be collectively developed and agreed upon with relevant MPOs. 
+(B) State DOTs shall not report 2-year targets, described in paragraph (e)(4)(ii) of this section, and baseline condition/performance in their Baseline Performance Period Report.
 
-(D) State DOTs may, as appropriate, adjust their 4-year target(s) in their Mid Performance Period Progress Report, described in § 490.107(b)(2)(ii)(A). Adjusted 4-year target(s) shall be developed and collectively agreed upon with relevant MPO(s), as described in paragraph (e)(6) of this section. 
+(C) State DOTs shall use the 2-year condition/performance in their Mid Performance Period Progress Report, described in § 490.107(b)(2)(ii)(A) as the baseline condition/performance. The established baseline condition/performance shall be collectively developed and agreed upon with relevant MPOs.
 
-(E) State DOTs shall annually report metrics for all mainline highways on the NHS for all applicable urbanized area(s) throughout the performance period, as required in § 490.711(f). 
+(D) State DOTs may, as appropriate, adjust their 4-year target(s) in their Mid Performance Period Progress Report, described in § 490.107(b)(2)(ii)(A). Adjusted 4-year target(s) shall be developed and collectively agreed upon with relevant MPO(s), as described in paragraph (e)(6) of this section.
 
-(9) *Targets for Total Emissions Reduction measure.* The following requirements apply to establishing targets for the measures specified in paragraph (c)(8) of this section: 
+(E) State DOTs shall annually report metrics for all mainline highways on the NHS for all applicable urbanized area(s) throughout the performance period, as required in § 490.711(f).
 
-(i) The State DOTs shall establish statewide targets for the Total Emissions Reduction measure for all nonattainment and maintenance areas for all applicable criteria pollutants and precursors specified in § 490.803. 
+(9) *Targets for Total Emissions Reduction measure.* The following requirements apply to establishing targets for the measures specified in paragraph (c)(8) of this section:
 
-(ii) For all nonattainment and maintenance areas within the State geographic boundary, the State DOT shall establish separate statewide targets for each of the applicable criteria pollutants and precursors specified in § 490.803. 
+(i) The State DOTs shall establish statewide targets for the Total Emissions Reduction measure for all nonattainment and maintenance areas for all applicable criteria pollutants and precursors specified in § 490.803.
 
-(iii) The established targets, as specified in paragraph (e)(4) of this section, shall reflect the anticipated cumulative emissions reduction to be reported in the CMAQ Public Access System required in § 490.809(a). 
+(ii) For all nonattainment and maintenance areas within the State geographic boundary, the State DOT shall establish separate statewide targets for each of the applicable criteria pollutants and precursors specified in § 490.803.
 
-(iv) In addition to the statewide targets in paragraph (e)(9)(i) of this section, State DOTs may, as appropriate, establish additional targets for any number and combination of nonattainment and maintenance areas by applicable criteria pollutant within the geographic boundary of the State. If a State DOT establishes additional targets for nonattainment and maintenance areas, it shall report the targets in the Baseline Performance Period Report required by § 490.107(b)(1). State DOTs shall evaluate separately the progress of each of these additional targets and report that progress as required under § 490.107(b)(2)(ii)(B) and (b)(3)(ii)(B). 
+(iii) The established targets, as specified in paragraph (e)(4) of this section, shall reflect the anticipated cumulative emissions reduction to be reported in the CMAQ Public Access System required in § 490.809(a).
 
-(v) The designation of nonattainment or maintenance areas shall be determined based on the effective date of U.S. EPA's designation under the NAAQS in 40 CFR part 81, as of the date 1 year before the State DOT Baseline Performance Period Report is due to FHWA. The nonattainment and maintenance areas shall be revised if, on the date 1 year before the State DOT Mid Performance Period Progress Report in § 490.107(b)(2)(ii) is due to FHWA, the area is no longer in nonattainment or maintenance for a criteria pollutant included in § 490.803. 
+(iv) In addition to the statewide targets in paragraph (e)(9)(i) of this section, State DOTs may, as appropriate, establish additional targets for any number and combination of nonattainment and maintenance areas by applicable criteria pollutant within the geographic boundary of the State. If a State DOT establishes additional targets for nonattainment and maintenance areas, it shall report the targets in the Baseline Performance Period Report required by § 490.107(b)(1). State DOTs shall evaluate separately the progress of each of these additional targets and report that progress as required under § 490.107(b)(2)(ii)(B) and (b)(3)(ii)(B).
 
-(vi) Except as provided in paragraphs (e)(9)(vii) and (viii) of this section, the State DOT shall meet all reporting requirements in § 490.107 for the entire performance period even if there is a change of nonattainment or maintenance area during that performance period. 
+(v) The designation of nonattainment or maintenance areas shall be determined based on the effective date of U.S. EPA's designation under the NAAQS in 40 CFR part 81, as of the date 1 year before the State DOT Baseline Performance Period Report is due to FHWA. The nonattainment and maintenance areas shall be revised if, on the date 1 year before the State DOT Mid Performance Period Progress Report in § 490.107(b)(2)(ii) is due to FHWA, the area is no longer in nonattainment or maintenance for a criteria pollutant included in § 490.803.
 
-(vii) If a State geographic boundary does not contain any part of nonattainment or maintenance areas for applicable criteria pollutants and precursors, as specified in § 490.803, 1 year before the State DOT Baseline Performance Period Report is due to FHWA, then that State DOT is not required to establish targets for Total Emissions Reduction measures for that performance period. 
+(vi) Except as provided in paragraphs (e)(9)(vii) and (viii) of this section, the State DOT shall meet all reporting requirements in § 490.107 for the entire performance period even if there is a change of nonattainment or maintenance area during that performance period.
 
-(viii) If the State geographic boundary, in paragraph (e)(9)(ii) of this section, does not contain any part of the nonattainment or maintenance area for an applicable criteria pollutant or precursor, as specified in § 490.803, 1 year before the State DOT Mid Performance Period Progress Report is due to FHWA as described in paragraph (e)(9)(v) of this section, then that State DOT is not required to meet the requirements in § 490.107 for the Total Emissions Reduction measure for that applicable criteria pollutant or precursor for the remainder of that performance period. 
+(vii) If a State geographic boundary does not contain any part of nonattainment or maintenance areas for applicable criteria pollutants and precursors, as specified in § 490.803, 1 year before the State DOT Baseline Performance Period Report is due to FHWA, then that State DOT is not required to establish targets for Total Emissions Reduction measures for that performance period.
 
-(10) *Targets for the GHG measure.* Targets established for the GHG measure in paragraph (c)(5) of this section shall be declining targets for reducing tailpipe CO2 emissions on the NHS. 
+(viii) If the State geographic boundary, in paragraph (e)(9)(ii) of this section, does not contain any part of the nonattainment or maintenance area for an applicable criteria pollutant or precursor, as specified in § 490.803, 1 year before the State DOT Mid Performance Period Progress Report is due to FHWA as described in paragraph (e)(9)(v) of this section, then that State DOT is not required to meet the requirements in § 490.107 for the Total Emissions Reduction measure for that applicable criteria pollutant or precursor for the remainder of that performance period.
 
-(i) The following requirements apply only to the targets established for the State Initial GHG Report, described in § 490.107(d), and 2026 Full Performance Period Progress Report, described in § 490.107(b)(3), for the measure in § 490.507(b): 
+(10) *Targets for the GHG measure.* Targets established for the GHG measure in paragraph (c)(5) of this section shall be declining targets for reducing tailpipe CO2 emissions on the NHS.
 
-(A) State DOTs are exempt from the required 2-year target described in paragraph (e)(4)(iii) of this section. 
+(i) The following requirements apply only to the targets established for the State Initial GHG Report, described in § 490.107(d), and 2026 Full Performance Period Progress Report, described in § 490.107(b)(3), for the measure in § 490.507(b):
 
-(B) State DOTs shall establish a 4-year target, required under paragraph (e)(4)(iv) of this section, and report this target in their 2024 State Initial GHG Report, required under § 490.107(d). 
+(A) State DOTs are exempt from the required 2-year target described in paragraph (e)(4)(iii) of this section.
 
-(C) The performance for the reference year shall be used as the baseline performance. 
+(B) State DOTs shall establish a 4-year target, required under paragraph (e)(4)(iv) of this section, and report this target in their 2024 State Initial GHG Report, required under § 490.107(d).
 
-(f) *MPO establishment.* The MPOs shall establish targets for each of the performance measures identified in paragraph (c) of this section for the respective target scope identified in paragraph (d) of this section as follows: 
+(C) The performance for the reference year shall be used as the baseline performance.
 
-(1) *Schedule.* The MPOs shall establish targets no later than 180 days after the respective State DOT(s) establishes their targets, as provided in paragraph (e)(1) of this section. 
+(f) *MPO establishment.* The MPOs shall establish targets for each of the performance measures identified in paragraph (c) of this section for the respective target scope identified in paragraph (d) of this section as follows:
 
-(i) The MPOs shall establish 4-year targets, described in paragraph (e)(4)(iv) of this section, for all applicable measures, described in paragraphs (c) and (d) of this section. For the GHG measure described in (c)(5) of this section, the targets established shall be declining targets for reducing tailpipe CO2 emissions on the NHS. 
+(1) *Schedule.* The MPOs shall establish targets no later than 180 days after the respective State DOT(s) establishes their targets, as provided in paragraph (e)(1) of this section.
 
-(ii) Except as provided in paragraph (f)(5)(vi) of this section, the MPOs shall establish 2-year targets, described in paragraph (e)(4)(iii) of this section for the CMAQ Traffic Congestion and Total Emissions Reduction measures, described in paragraphs (c) and (d) of this section as their applicability criteria described in paragraphs (f)(5)(i) and (ii) and (f)(6)(iii) of this section, respectively. 
+(i) The MPOs shall establish 4-year targets, described in paragraph (e)(4)(iv) of this section, for all applicable measures, described in paragraphs (c) and (d) of this section. For the GHG measure described in (c)(5) of this section, the targets established shall be declining targets for reducing tailpipe CO2 emissions on the NHS.
 
-(iii) If an MPO does not meet the criteria described in paragraph (f)(5)(i), (f)(5)(ii), or (f)(6)(iii) of this section, the MPO is not required to establish 2-year target(s) for the corresponding measure(s). 
+(ii) Except as provided in paragraph (f)(5)(vi) of this section, the MPOs shall establish 2-year targets, described in paragraph (e)(4)(iii) of this section for the CMAQ Traffic Congestion and Total Emissions Reduction measures, described in paragraphs (c) and (d) of this section as their applicability criteria described in paragraphs (f)(5)(i) and (ii) and (f)(6)(iii) of this section, respectively.
 
-(2) *Coordination.* The MPOs shall coordinate with relevant State DOT(s) on the selection of targets in accordance with 23 U.S.C. 134(h)(2)(B)(i)(II) to ensure consistency, to the maximum extent practicable. 
+(iii) If an MPO does not meet the criteria described in paragraph (f)(5)(i), (f)(5)(ii), or (f)(6)(iii) of this section, the MPO is not required to establish 2-year target(s) for the corresponding measure(s).
 
-(3) *Target establishment options.* For each performance measure identified in paragraph (c) of this section, except the CMAQ Traffic Congestion measures in paragraph (f)(5) of this section, MPOs meeting the criteria under paragraph (f)(6)(iii) of this section for Total Emissions Reduction measure, the MPOs shall establish targets for the metropolitan planning area by either: 
+(2) *Coordination.* The MPOs shall coordinate with relevant State DOT(s) on the selection of targets in accordance with 23 U.S.C. 134(h)(2)(B)(i)(II) to ensure consistency, to the maximum extent practicable.
 
-(i) Agreeing to plan and program projects so that they contribute toward the accomplishment of the relevant State DOT target for that performance measure; or 
+(3) *Target establishment options.* For each performance measure identified in paragraph (c) of this section, except the CMAQ Traffic Congestion measures in paragraph (f)(5) of this section, MPOs meeting the criteria under paragraph (f)(6)(iii) of this section for Total Emissions Reduction measure, the MPOs shall establish targets for the metropolitan planning area by either:
 
-(ii) Committing to a quantifiable target for that performance measure for their metropolitan planning area. 
+(i) Agreeing to plan and program projects so that they contribute toward the accomplishment of the relevant State DOT target for that performance measure; or
 
-(4) *MPOs serving a multistate planning area.* Except as provided in the CMAQ Traffic Congestion measures in paragraph (f)(5) of this section, and MPOs meeting the criteria under paragraph (f)(6)(iii) of this section, for Total Emissions Reduction measure, MPOs with planning areas extending across State boundaries shall follow these requirements for each performance measure identified in paragraph (c) of this section: 
+(ii) Committing to a quantifiable target for that performance measure for their metropolitan planning area.
 
-(i) For each measure, MPOs may choose different target establishment options, provided in paragraph (f)(3) of this section, for the portion of the planning area within each State. 
+(4) *MPOs serving a multistate planning area.* Except as provided in the CMAQ Traffic Congestion measures in paragraph (f)(5) of this section, and MPOs meeting the criteria under paragraph (f)(6)(iii) of this section, for Total Emissions Reduction measure, MPOs with planning areas extending across State boundaries shall follow these requirements for each performance measure identified in paragraph (c) of this section:
 
-(ii) If MPOs choose the option to agree to plan and program projects to contribute toward State DOT targets, in accordance with paragraph (f)(3)(i) of this section, for a measure, then they shall plan and program projects in support of State DOT targets for the portion of the planning area within each State. 
+(i) For each measure, MPOs may choose different target establishment options, provided in paragraph (f)(3) of this section, for the portion of the planning area within each State.
 
-(5) *Urbanized area specific targets.* The following requirements apply to establishing targets for the CMAQ Traffic Congestion measures in paragraph (c)(7) of this section, as their target scope provided in paragraph (d)(2) of this section: 
+(ii) If MPOs choose the option to agree to plan and program projects to contribute toward State DOT targets, in accordance with paragraph (f)(3)(i) of this section, for a measure, then they shall plan and program projects in support of State DOT targets for the portion of the planning area within each State.
 
-(i) For the performance period that begins on January 1, 2018, MPOs shall establish targets for the CMAQ Traffic Congestion measures specified in § 490.707(a) and (b) when mainline highways on the NHS within their metropolitan planning area boundary cross any part of an urbanized area with a population more than 1 million, and that portion of their metropolitan planning area boundary also contains any portion of a nonattainment or maintenance area for any one of the criteria pollutants, as specified in § 490.703. If an MPO with mainline highways on the NHS within their metropolitan planning area boundary cross any part of an urbanized area with a population more than 1 million and that urbanized area contains any part of a nonattainment or maintenance area, for any one of the criteria pollutant as specified in § 490.703, outside of its metropolitan planning area boundary, then that MPO should coordinate with relevant State DOT(s) and MPO(s) in the target establishment process for the CMAQ Traffic Congestion measures specified in § 490.707. 
+(5) *Urbanized area specific targets.* The following requirements apply to establishing targets for the CMAQ Traffic Congestion measures in paragraph (c)(7) of this section, as their target scope provided in paragraph (d)(2) of this section:
 
-(ii) Beginning with the performance period that begins on January 1, 2022, and all subsequent performance periods thereafter, MPOs shall establish targets for the CMAQ Traffic Congestion measures specified in § 490.707(a) and (b) when mainline highways on the NHS within their metropolitan planning area boundary cross any part of an urbanized area with a population more than 200,000, and that portion of their metropolitan planning area boundary also contains any portion of a nonattainment or maintenance area for any one of the criteria pollutants, as specified in § 490.703. If an MPO with mainline highways on the NHS within their metropolitan planning area boundary cross any part of an urbanized area with a population more than 200,000 and that urbanized area contains any part of a nonattainment or maintenance area, for any one of the criteria pollutant as specified in § 490.703, outside of its metropolitan planning area boundary, then that MPO should coordinate with relevant State DOT(s) and MPO(s) in the target establishment process for the CMAQ Traffic Congestion measures specified in § 490.707. 
+(i) For the performance period that begins on January 1, 2018, MPOs shall establish targets for the CMAQ Traffic Congestion measures specified in § 490.707(a) and (b) when mainline highways on the NHS within their metropolitan planning area boundary cross any part of an urbanized area with a population more than 1 million, and that portion of their metropolitan planning area boundary also contains any portion of a nonattainment or maintenance area for any one of the criteria pollutants, as specified in § 490.703. If an MPO with mainline highways on the NHS within their metropolitan planning area boundary cross any part of an urbanized area with a population more than 1 million and that urbanized area contains any part of a nonattainment or maintenance area, for any one of the criteria pollutant as specified in § 490.703, outside of its metropolitan planning area boundary, then that MPO should coordinate with relevant State DOT(s) and MPO(s) in the target establishment process for the CMAQ Traffic Congestion measures specified in § 490.707.
 
-(iii) If required to establish a target for the CMAQ Traffic Congestion measures, as described in paragraphs (f)(5)(i) and/or (ii) of this section, MPOs shall comply with the following: 
+(ii) Beginning with the performance period that begins on January 1, 2022, and all subsequent performance periods thereafter, MPOs shall establish targets for the CMAQ Traffic Congestion measures specified in § 490.707(a) and (b) when mainline highways on the NHS within their metropolitan planning area boundary cross any part of an urbanized area with a population more than 200,000, and that portion of their metropolitan planning area boundary also contains any portion of a nonattainment or maintenance area for any one of the criteria pollutants, as specified in § 490.703. If an MPO with mainline highways on the NHS within their metropolitan planning area boundary cross any part of an urbanized area with a population more than 200,000 and that urbanized area contains any part of a nonattainment or maintenance area, for any one of the criteria pollutant as specified in § 490.703, outside of its metropolitan planning area boundary, then that MPO should coordinate with relevant State DOT(s) and MPO(s) in the target establishment process for the CMAQ Traffic Congestion measures specified in § 490.707.
 
-(A) For each urbanized area, only one 2-year target and one 4-year target for the entire urbanized area shall be established regardless of roadway ownership. 
+(iii) If required to establish a target for the CMAQ Traffic Congestion measures, as described in paragraphs (f)(5)(i) and/or (ii) of this section, MPOs shall comply with the following:
 
-(B) For each urbanized area, all State DOTs and MPOs that contain, within their respective boundaries, any portion of the NHS network in that urbanized area shall agree on one 2-year and one 4-year target for that urbanized area. The targets reported, in accordance with paragraphs (e)(5) and (f)(9) of this section, by the State DOTs and MPOs for that urbanized area shall be identical. 
+(A) For each urbanized area, only one 2-year target and one 4-year target for the entire urbanized area shall be established regardless of roadway ownership.
 
-(C) Except as provided in paragraphs (f)(5)(iii)(F) and (f)(5)(v) of this section, MPOs shall meet all reporting requirements in § 490.107(c) for the entire performance period even if there is a change of population, NHS designation, or nonattainment/maintenance area during that performance period. 
+(B) For each urbanized area, all State DOTs and MPOs that contain, within their respective boundaries, any portion of the NHS network in that urbanized area shall agree on one 2-year and one 4-year target for that urbanized area. The targets reported, in accordance with paragraphs (e)(5) and (f)(9) of this section, by the State DOTs and MPOs for that urbanized area shall be identical.
 
-(D) The 1 million and 200,000 population thresholds, in paragraph (f)(5)(i) and (ii) of this section, shall be determined based on the most recent annual population estimates published by the U.S. Census available 1 year before the State DOT Baseline Performance Period Report is due to FHWA. 
+(C) Except as provided in paragraphs (f)(5)(iii)(F) and (f)(5)(v) of this section, MPOs shall meet all reporting requirements in § 490.107(c) for the entire performance period even if there is a change of population, NHS designation, or nonattainment/maintenance area during that performance period.
 
-(E) NHS designations and urbanized areas, in paragraphs (f)(5)(i) and (ii) of this section, shall be determined from the data, contained in HPMS, 1 year before State DOT Baseline Performance Period Report is due to FHWA. 
+(D) The 1 million and 200,000 population thresholds, in paragraph (f)(5)(i) and (ii) of this section, shall be determined based on the most recent annual population estimates published by the U.S. Census available 1 year before the State DOT Baseline Performance Period Report is due to FHWA.
 
-(F) The designation of nonattainment or maintenance areas, in paragraph (f)(5)(i) and (ii) of this section, shall be determined based on the effective date of U.S. EPA's designation under the NAAQS in 40 CFR part 81, as of the date 1 year before the State DOT Baseline Performance Period Report is due to FHWA. The nonattainment and maintenance areas shall be revised if, on the date 1 year before the State DOT Mid Performance Period Progress Report in § 490.107(b)(2)(ii) is due to FHWA, the area is no longer in nonattainment or maintenance for a criteria pollutant included in § 490.703. 
+(E) NHS designations and urbanized areas, in paragraphs (f)(5)(i) and (ii) of this section, shall be determined from the data, contained in HPMS, 1 year before State DOT Baseline Performance Period Report is due to FHWA.
 
-(iv) If an MPO does not meet the criteria specified in paragraph (f)(5)(i) or (ii) of this section at the time that is 1 year before when the State DOT Baseline Performance Period Report is due to FHWA, then that MPO is not required to establish targets for the CMAQ Traffic Congestion measure for that performance period. 
+(F) The designation of nonattainment or maintenance areas, in paragraph (f)(5)(i) and (ii) of this section, shall be determined based on the effective date of U.S. EPA's designation under the NAAQS in 40 CFR part 81, as of the date 1 year before the State DOT Baseline Performance Period Report is due to FHWA. The nonattainment and maintenance areas shall be revised if, on the date 1 year before the State DOT Mid Performance Period Progress Report in § 490.107(b)(2)(ii) is due to FHWA, the area is no longer in nonattainment or maintenance for a criteria pollutant included in § 490.703.
 
-(v) If the portion of the metropolitan planning area boundary within the urbanized area, in paragraph (f)(5)(i) or (ii) of this section, does not contain any part of a nonattainment or maintenance area for the applicable criteria pollutants, as specified in § 490.703, at the time that is 1 year before when the State DOT Mid Performance Period Progress Report is due to FHWA, as described in paragraph (f)(5)(iii)(F) of this section, then that MPO is not required to meet the requirements in § 490.107 for the CMAQ Traffic Congestion measures for that urbanized area for the remainder of that performance period. 
+(iv) If an MPO does not meet the criteria specified in paragraph (f)(5)(i) or (ii) of this section at the time that is 1 year before when the State DOT Baseline Performance Period Report is due to FHWA, then that MPO is not required to establish targets for the CMAQ Traffic Congestion measure for that performance period.
 
-(vi) The following requirements apply only to the first performance period and the PHED measure to assess traffic congestion in § 490.707(a): 
+(v) If the portion of the metropolitan planning area boundary within the urbanized area, in paragraph (f)(5)(i) or (ii) of this section, does not contain any part of a nonattainment or maintenance area for the applicable criteria pollutants, as specified in § 490.703, at the time that is 1 year before when the State DOT Mid Performance Period Progress Report is due to FHWA, as described in paragraph (f)(5)(iii)(F) of this section, then that MPO is not required to meet the requirements in § 490.107 for the CMAQ Traffic Congestion measures for that urbanized area for the remainder of that performance period.
 
-(A) The MPOs shall not report 2-year targets, described in paragraph (f)(5)(iii)(A) of this section; 
+(vi) The following requirements apply only to the first performance period and the PHED measure to assess traffic congestion in § 490.707(a):
 
-(B) The MPOs shall use the 2-year condition/performance in the State DOT Mid Performance Period Progress Report, described in § 490.107(b)(2)(ii)(A) as baseline condition/performance. The established baseline condition/performance shall be agreed upon and made collectively with relevant State DOTs; and 
+(A) The MPOs shall not report 2-year targets, described in paragraph (f)(5)(iii)(A) of this section;
 
-(C) The MPOs may, as appropriate, adjust their 4-year target(s). Adjusted 4-year target(s) shall be collectively developed and agreed upon with all relevant State DOT(s), as described in paragraph (f)(8) of this section. 
+(B) The MPOs shall use the 2-year condition/performance in the State DOT Mid Performance Period Progress Report, described in § 490.107(b)(2)(ii)(A) as baseline condition/performance. The established baseline condition/performance shall be agreed upon and made collectively with relevant State DOTs; and
 
-(6) *Targets for the Total Emissions Reduction measure.* The following requirements apply to establishing targets for the measure in paragraph (c)(8) of this section: 
+(C) The MPOs may, as appropriate, adjust their 4-year target(s). Adjusted 4-year target(s) shall be collectively developed and agreed upon with all relevant State DOT(s), as described in paragraph (f)(8) of this section.
 
-(i) The MPO shall establish targets for each of the applicable criteria pollutants and precursors, specified in § 490.803, for which it is in nonattainment or maintenance, within its metropolitan planning area boundary. 
+(6) *Targets for the Total Emissions Reduction measure.* The following requirements apply to establishing targets for the measure in paragraph (c)(8) of this section:
 
-(ii) The established targets, as specified in paragraph (e)(4) of this section, shall reflect the anticipated cumulative emissions reduction to be reported in the CMAQ Public Access System required in § 490.809(a). 
+(i) The MPO shall establish targets for each of the applicable criteria pollutants and precursors, specified in § 490.803, for which it is in nonattainment or maintenance, within its metropolitan planning area boundary.
 
-(iii) If any part of a designated nonattainment and maintenance area within the metropolitan planning area overlaps the boundary of an urbanized area with a population more than 1 million in population, as of 1 year before the State DOT Baseline Performance Period Report is due to FHWA, then that MPO shall establish both 2-year and 4-year targets for their metropolitan planning area. The population threshold shall be determined based on the most recent annual population estimates published by the U.S. Census available 1 year before the State DOT Baseline Performance Period Report is due to FHWA. 
+(ii) The established targets, as specified in paragraph (e)(4) of this section, shall reflect the anticipated cumulative emissions reduction to be reported in the CMAQ Public Access System required in § 490.809(a).
 
-(iv) For the nonattainment and maintenance areas within the metropolitan planning area that do not meet the criteria in paragraph (f)(6)(iii) of this section, MPOs shall establish 4-year targets for their metropolitan planning area, as described in paragraph (f)(3) of this section. 
+(iii) If any part of a designated nonattainment and maintenance area within the metropolitan planning area overlaps the boundary of an urbanized area with a population more than 1 million in population, as of 1 year before the State DOT Baseline Performance Period Report is due to FHWA, then that MPO shall establish both 2-year and 4-year targets for their metropolitan planning area. The population threshold shall be determined based on the most recent annual population estimates published by the U.S. Census available 1 year before the State DOT Baseline Performance Period Report is due to FHWA.
 
-(v) The designation of nonattainment or maintenance areas shall be determined based on the effective date of U.S. EPA's designation under the NAAQS in 40 CFR part 81, as of the date 1 year before the State DOT Baseline Performance Period Report is due to FHWA. The nonattainment and maintenance areas shall be revised if, on the date 1 year before the State DOT Mid Performance Period Progress Report in § 490.107(b)(2)(ii) is due to FHWA, the area is no longer in nonattainment or maintenance for a criteria pollutant included in § 490.803. 
+(iv) For the nonattainment and maintenance areas within the metropolitan planning area that do not meet the criteria in paragraph (f)(6)(iii) of this section, MPOs shall establish 4-year targets for their metropolitan planning area, as described in paragraph (f)(3) of this section.
 
-(vi) Except as provided in paragraphs (f)(6)(v) and (viii) of this section, MPOs shall meet all reporting requirements in § 490.107(c) for the entire performance period even if there is a change of nonattainment or maintenance area or population during that performance period. 
+(v) The designation of nonattainment or maintenance areas shall be determined based on the effective date of U.S. EPA's designation under the NAAQS in 40 CFR part 81, as of the date 1 year before the State DOT Baseline Performance Period Report is due to FHWA. The nonattainment and maintenance areas shall be revised if, on the date 1 year before the State DOT Mid Performance Period Progress Report in § 490.107(b)(2)(ii) is due to FHWA, the area is no longer in nonattainment or maintenance for a criteria pollutant included in § 490.803.
 
-(vii) If a metropolitan planning area boundary does not contain any part of nonattainment or maintenance areas for applicable criteria pollutants 1 year before when the State DOT Baseline Performance Period Report is due to FHWA, then that MPO is not required to establish targets for the Total Emissions Reduction measure for that performance period. 
+(vi) Except as provided in paragraphs (f)(6)(v) and (viii) of this section, MPOs shall meet all reporting requirements in § 490.107(c) for the entire performance period even if there is a change of nonattainment or maintenance area or population during that performance period.
 
-(viii) If the metropolitan planning area boundary, in paragraph (f)(6)(i) of this section, does not contain any part of a nonattainment or maintenance area for the applicable criteria pollutants, as specified in § 490.803, 1 year before the State DOT Mid Performance Period Progress Report is due to FHWA, as described in paragraph (f)(6)(v) of this section, then that MPO is not required to meet the requirements in § 490.107 for the Total Emissions Reduction measure for that applicable criteria pollutant or precursor for the remainder of that performance period. 
+(vii) If a metropolitan planning area boundary does not contain any part of nonattainment or maintenance areas for applicable criteria pollutants 1 year before when the State DOT Baseline Performance Period Report is due to FHWA, then that MPO is not required to establish targets for the Total Emissions Reduction measure for that performance period.
 
-(7) *MPO response to State DOT target adjustment.* For the established targets in paragraph (f)(3) of this section, if the State DOT adjusts a 4-year target in the State DOT's Mid Performance Period Progress Report and if, for that respective target, the MPO established a target by supporting the State DOT target as allowed under paragraph (f)(3)(i) of this section, then the MPO shall, within 180 days, report to the State DOT whether it will either: 
+(viii) If the metropolitan planning area boundary, in paragraph (f)(6)(i) of this section, does not contain any part of a nonattainment or maintenance area for the applicable criteria pollutants, as specified in § 490.803, 1 year before the State DOT Mid Performance Period Progress Report is due to FHWA, as described in paragraph (f)(6)(v) of this section, then that MPO is not required to meet the requirements in § 490.107 for the Total Emissions Reduction measure for that applicable criteria pollutant or precursor for the remainder of that performance period.
 
-(i) Agree to plan a program of projects so that they contribute to the adjusted State DOT target for that performance measure; or 
+(7) *MPO response to State DOT target adjustment.* For the established targets in paragraph (f)(3) of this section, if the State DOT adjusts a 4-year target in the State DOT's Mid Performance Period Progress Report and if, for that respective target, the MPO established a target by supporting the State DOT target as allowed under paragraph (f)(3)(i) of this section, then the MPO shall, within 180 days, report to the State DOT whether it will either:
 
-(ii) Commit to a new quantifiable target for that performance measure for its metropolitan planning area. 
+(i) Agree to plan a program of projects so that they contribute to the adjusted State DOT target for that performance measure; or
 
-(8) *Target adjustment.* If the MPO establishes its target by committing to a quantifiable target, described in paragraph (f)(3)(ii) of this section or establishes target(s) for the Total Emissions Reduction measure required in paragraph (f)(6)(iii) of this section, then the MPOs may adjust its target(s) in a manner that is collectively developed, documented, and mutually agreed upon by the State DOT and MPO. Any adjustments made to 4-year targets, established for CMAQ Traffic Congestion measures in paragraph (f)(5)(i) or (ii) of this section, shall be collectively developed and agreed upon by all State DOTs and MPOs that include any portion of the NHS in the respective urbanized area applicable to the measure. 
+(ii) Commit to a new quantifiable target for that performance measure for its metropolitan planning area.
 
-(9) *Reporting.* The MPOs shall report targets and progress toward the achievement of their targets as specified in § 490.107(c). After the MPOs establish or adjust their targets, the relevant State DOT(s) must be able to provide these targets to FHWA upon request. 
+(8) *Target adjustment.* If the MPO establishes its target by committing to a quantifiable target, described in paragraph (f)(3)(ii) of this section or establishes target(s) for the Total Emissions Reduction measure required in paragraph (f)(6)(iii) of this section, then the MPOs may adjust its target(s) in a manner that is collectively developed, documented, and mutually agreed upon by the State DOT and MPO. Any adjustments made to 4-year targets, established for CMAQ Traffic Congestion measures in paragraph (f)(5)(i) or (ii) of this section, shall be collectively developed and agreed upon by all State DOTs and MPOs that include any portion of the NHS in the respective urbanized area applicable to the measure.
 
-(10) *Joint Targets for the GHG Measure.* Where an urbanized area contains mainline highways on the NHS, and any portion of that urbanized area is overlapped by the metropolitan planning area boundaries of two or more MPOs, those MPOs shall collectively establish a single joint 4-year target for that urbanized area, described in paragraph (e)(4)(iv) of this section. The target established shall be a declining target for reducing tailpipe CO2 emissions on the NHS. This joint target is in addition to the targets for the metropolitan planning area required in paragraph (f)(1)(i) of this section. 
+(9) *Reporting.* The MPOs shall report targets and progress toward the achievement of their targets as specified in § 490.107(c). After the MPOs establish or adjust their targets, the relevant State DOT(s) must be able to provide these targets to FHWA upon request.
 
-(i) The NHS designations and urbanized area data shall be from the data contained in HPMS 1 year before the State DOT Baseline Performance Period Report is due to FHWA. 
+(10) *Joint Targets for the GHG Measure.* Where an urbanized area contains mainline highways on the NHS, and any portion of that urbanized area is overlapped by the metropolitan planning area boundaries of two or more MPOs, those MPOs shall collectively establish a single joint 4-year target for that urbanized area, described in paragraph (e)(4)(iv) of this section. The target established shall be a declining target for reducing tailpipe CO2 emissions on the NHS. This joint target is in addition to the targets for the metropolitan planning area required in paragraph (f)(1)(i) of this section.
 
-(ii) Only one target shall be established for the entirety of each applicable urbanized area regardless of roadway ownership. In accordance with paragraph (f)(9) of this section, each MPO shall report the same joint target for the urbanized area. 
+(i) The NHS designations and urbanized area data shall be from the data contained in HPMS 1 year before the State DOT Baseline Performance Period Report is due to FHWA.
 
-(iii) The target established for each urbanized area shall represent a quantifiable target for that urbanized area. 
+(ii) Only one target shall be established for the entirety of each applicable urbanized area regardless of roadway ownership. In accordance with paragraph (f)(9) of this section, each MPO shall report the same joint target for the urbanized area.
+
+(iii) The target established for each urbanized area shall represent a quantifiable target for that urbanized area.
 
 \[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018; 88 FR 85390, Dec. 7, 2023\]

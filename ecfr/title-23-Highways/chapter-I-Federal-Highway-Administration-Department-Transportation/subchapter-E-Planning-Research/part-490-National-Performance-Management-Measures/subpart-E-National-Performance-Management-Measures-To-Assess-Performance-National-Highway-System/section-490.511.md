@@ -1,44 +1,46 @@
 ##### § 490.511 Calculation of National Highway System performance metrics.
 
-(a) Two performance metrics are required for the NHS Performance measures specified in § 490.507. These are: 
+Link to an amendment published at 90 FR 16466, Apr. 18, 2025.
 
-(1) Level of Travel Time Reliability (LOTTR) for the Travel Time Reliability measures in § 490.507(a) (referred to as the LOTTR metric). 
+(a) Two performance metrics are required for the NHS Performance measures specified in § 490.507. These are:
 
-(2) Annual Total Tailpipe CO2 Emissions on the NHS for the GHG measure in § 490.507(b) (referred to as the GHG metric). 
+(1) Level of Travel Time Reliability (LOTTR) for the Travel Time Reliability measures in § 490.507(a) (referred to as the LOTTR metric).
 
-(b) The State DOT shall calculate the LOTTR metrics for each NHS reporting segment in accordance with the following: 
+(2) Annual Total Tailpipe CO2 Emissions on the NHS for the GHG measure in § 490.507(b) (referred to as the GHG metric).
 
-(1) Data sets shall be created from the travel time data set to be used to calculate the LOTTR metrics. This data set shall include, for each reporting segment, a ranked list of average travel times for all traffic (“all vehicles” in NPMRDS nomenclature), to the nearest second, for 15 minute periods of a population that: 
+(b) The State DOT shall calculate the LOTTR metrics for each NHS reporting segment in accordance with the following:
 
-(i) Includes travel times occurring between the hours of 6 a.m. and 10 a.m. for every weekday (Monday-Friday) from January 1st through December 31st of the same year; 
+(1) Data sets shall be created from the travel time data set to be used to calculate the LOTTR metrics. This data set shall include, for each reporting segment, a ranked list of average travel times for all traffic (“all vehicles” in NPMRDS nomenclature), to the nearest second, for 15 minute periods of a population that:
 
-(ii) Includes travel times occurring between the hours of 10 a.m. and 4 p.m. for every weekday (Monday-Friday) from January 1st through December 31st of the same year; 
+(i) Includes travel times occurring between the hours of 6 a.m. and 10 a.m. for every weekday (Monday-Friday) from January 1st through December 31st of the same year;
 
-(iii) Includes travel times occurring between the hours of 4 p.m. and 8 p.m. for every weekday (Monday-Friday) from January 1st through December 31st of the same year; and 
+(ii) Includes travel times occurring between the hours of 10 a.m. and 4 p.m. for every weekday (Monday-Friday) from January 1st through December 31st of the same year;
 
-(iv) Includes travel times occurring between the hours of 6: a.m. and 8: p.m. for every weekend day (Saturday-Sunday) from January 1st through December 31st of the same year. 
+(iii) Includes travel times occurring between the hours of 4 p.m. and 8 p.m. for every weekday (Monday-Friday) from January 1st through December 31st of the same year; and
 
-(2) The Normal Travel Time (50th percentile) shall be determined from each data set defined under paragraph (b)(1) of this section as the time in which 50 percent of the times in the data set are shorter in duration and 50 percent are longer in duration. The 80th percentile travel time shall be determined for each data set defined under paragraph (b)(1) of this section as the time in which 80 percent of the times in the data set are shorter in duration and 20 percent are longer in duration. Both the Normal and 80th percentile travel times can be determined by plotting the data on a travel time cumulative probability distribution graph or using the percentile functions available in spreadsheet and other analytical tools. 
+(iv) Includes travel times occurring between the hours of 6: a.m. and 8: p.m. for every weekend day (Saturday-Sunday) from January 1st through December 31st of the same year.
 
-(3) Four LOTTR metrics shall be calculated for each reporting segment; one for each data set defined under paragraph (b)(1) of this section as the 80th percentile travel time divided by the 50th percentile travel time and rounded to the nearest hundredth. 
+(2) The Normal Travel Time (50th percentile) shall be determined from each data set defined under paragraph (b)(1) of this section as the time in which 50 percent of the times in the data set are shorter in duration and 50 percent are longer in duration. The 80th percentile travel time shall be determined for each data set defined under paragraph (b)(1) of this section as the time in which 80 percent of the times in the data set are shorter in duration and 20 percent are longer in duration. Both the Normal and 80th percentile travel times can be determined by plotting the data on a travel time cumulative probability distribution graph or using the percentile functions available in spreadsheet and other analytical tools.
 
-(c) Tailpipe CO2 emissions on the NHS for a given year shall be computed in million metric tons (mmt) and rounded to the nearest hundredth as follows: 
+(3) Four LOTTR metrics shall be calculated for each reporting segment; one for each data set defined under paragraph (b)(1) of this section as the 80th percentile travel time divided by the 50th percentile travel time and rounded to the nearest hundredth.
+
+(c) Tailpipe CO2 emissions on the NHS for a given year shall be computed in million metric tons (mmt) and rounded to the nearest hundredth as follows:
 
 ![](/graphics/er07de23.000.gif)Where: (Tailpipe CO2 Emissions on NHS)CY = Total tailpipe CO2 emissions on the NHS in a calendar year (expressed in mmt, and rounded to the nearest hundredth); T = the total number of on-road fuel types; *t* = an on-road fuel type; (Fuel Consumed)t *=* the quantity of total annual fuel consumed for on-road fuel type ”*t”* (to the nearest thousand gallons); (CO2 Factor)t *=* is the amount of CO2 released per unit of fuel consumed for on-road fuel type “*t”;*NHS VMT = annual total vehicle-miles traveled on NHS (to the nearest one million vehicle-miles); and Total VMT = annual total vehicle-miles traveled on all public roads (to the nearest one million vehicle-miles).
 
-(d) For the GHG measure specified in § 490.507(b), MPOs are granted additional flexibility in how they calculate the GHG metric, described in § 490.511(a)(2). MPOs may use the MPO share of the State's VMT as a proxy for the MPO share of CO2 emissions in the State, VMT estimates along with MOVES 1 emissions factors, FHWA's Energy and Emissions Reduction Policy Analysis Tool (EERPAT) model, or other method the MPO can demonstrate has valid and useful results for CO2 measurement. 
+(d) For the GHG measure specified in § 490.507(b), MPOs are granted additional flexibility in how they calculate the GHG metric, described in § 490.511(a)(2). MPOs may use the MPO share of the State's VMT as a proxy for the MPO share of CO2 emissions in the State, VMT estimates along with MOVES 1 emissions factors, FHWA's Energy and Emissions Reduction Policy Analysis Tool (EERPAT) model, or other method the MPO can demonstrate has valid and useful results for CO2 measurement.
 
-(e) Starting in 2018 and annually thereafter, State DOTs shall report the LOTTR metrics, defined in paragraph (b) of this section, in accordance with HPMS Field Manual by June 15th of each year for the previous year's measures. 
+(e) Starting in 2018 and annually thereafter, State DOTs shall report the LOTTR metrics, defined in paragraph (b) of this section, in accordance with HPMS Field Manual by June 15th of each year for the previous year's measures.
 
-(1) Metrics are reported to HPMS by reporting segment. All reporting segments where the NPMRDS is used shall be referenced by NPMRDS TMC(s) or HPMS section(s). If a State DOT elects to use, in part or in whole, the equivalent data set, all reporting segment shall be referenced by HPMS section(s); and 
+(1) Metrics are reported to HPMS by reporting segment. All reporting segments where the NPMRDS is used shall be referenced by NPMRDS TMC(s) or HPMS section(s). If a State DOT elects to use, in part or in whole, the equivalent data set, all reporting segment shall be referenced by HPMS section(s); and
 
-(2) The LOTTR metric (to the nearest hundredths) for each of the four time periods identified in paragraphs (b)(1)(i) through (iv) of this section: the corresponding 80th percentile travel times (to the nearest second), the corresponding Normal (50th percentile) Travel Times (to the nearest second), and directional AADTs. If a State DOT does not elect to use FHWA supplied occupancy factor, as provided in § 490.507(d), that State DOT shall report vehicle occupancy factor (to the nearest tenth) to HPMS. 
+(2) The LOTTR metric (to the nearest hundredths) for each of the four time periods identified in paragraphs (b)(1)(i) through (iv) of this section: the corresponding 80th percentile travel times (to the nearest second), the corresponding Normal (50th percentile) Travel Times (to the nearest second), and directional AADTs. If a State DOT does not elect to use FHWA supplied occupancy factor, as provided in § 490.507(d), that State DOT shall report vehicle occupancy factor (to the nearest tenth) to HPMS.
 
-(f) Tailpipe CO2 emissions generated by on-road sources travelling on the NHS (the GHG metric), and generated by on-road sources travelling on all roadways (the step in the calculation prior to computing the GHG metric) shall be calculated as specified in paragraph (c) of this section. The calculations shall be reported in the State Biennial Performance Reports, as required in § 490.107, and shall address the following time periods. 
+(f) Tailpipe CO2 emissions generated by on-road sources travelling on the NHS (the GHG metric), and generated by on-road sources travelling on all roadways (the step in the calculation prior to computing the GHG metric) shall be calculated as specified in paragraph (c) of this section. The calculations shall be reported in the State Biennial Performance Reports, as required in § 490.107, and shall address the following time periods.
 
-(1) The reference year, as required in § 490.107(b)(1)(ii)(H); and 
+(1) The reference year, as required in § 490.107(b)(1)(ii)(H); and
 
-(2) The calendar year preceding the reporting year, as required in § 490.107(b)(1)(ii)(H), (b)(2)(ii)(J) and (b)(3)(ii)(I). 
+(2) The calendar year preceding the reporting year, as required in § 490.107(b)(1)(ii)(H), (b)(2)(ii)(J) and (b)(3)(ii)(I).
 
 1 MOVES (Motor Vehicle Emission Simulator) is EPA's emission modeling system that estimates emissions for mobile sources at the national, county, and project level for criteria air pollutants, GHGs, and air toxics. See *https://www.epa.gov/moves*. The EMFAC model is used in California for emissions analysis.
 
