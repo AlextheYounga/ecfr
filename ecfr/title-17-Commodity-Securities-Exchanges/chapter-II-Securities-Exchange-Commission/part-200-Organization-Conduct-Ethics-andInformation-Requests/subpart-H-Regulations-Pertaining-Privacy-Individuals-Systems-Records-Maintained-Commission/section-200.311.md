@@ -1,5 +1,5 @@
 ##### § 200.311 Inspector General exemptions.
 
-(a) Pursuant to, and limited by 5 U.S.C. 552a(j)(2), the system of records maintained by the Office of Inspector General of the Commission that contains investigative files is exempt from the provisions of 5 U.S.C. 552a, except sections (b), (c)(1) and (2), (e)(4)(A) through (F), (e)(6), (e)(7), (e)(9), (e)(10), and (e)(11), and (i), and §§ 200.303 through 200.309, insofar as the system contains information pertaining to criminal law enforcement investigations.
+(a) Pursuant to, and limited by 5 U.S.C. 552a(j)(2), the system of records maintained by the Office of Inspector General of the Commission that contains investigative files is exempt from the provisions of 5 U.S.C. 552a, except sections (b), (c)(1) and (2), (e)(4)(A) through (F), (e)(6), (e)(7), (e)(9), (e)(10), and (e)(11), and (i), and §§ 200.303 through 200.309, insofar as the system contains information pertaining to criminal law enforcement investigations. 
 
 (b) Pursuant to, and limited by 5 U.S.C. 552a(k)(2), the system of records maintained by the Office of Inspector General of the Commission that contains investigative files is exempt from 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(4)(G), (e)(4)(H), (e)(4)(I), and (f) and §§ 200.303 through 200.309, insofar as it contains investigatory materials compiled for law enforcement purposes.

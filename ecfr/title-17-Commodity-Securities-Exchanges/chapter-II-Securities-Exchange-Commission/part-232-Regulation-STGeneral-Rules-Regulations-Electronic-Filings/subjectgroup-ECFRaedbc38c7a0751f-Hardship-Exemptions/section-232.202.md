@@ -1,38 +1,38 @@
 ##### § 232.202 Continuing hardship exemption.
 
-(a) An electronic filer may apply in writing for a continuing hardship exemption if all or part of a filing, group of filings or submission, other than a Form ID (§§ 239.63, 249.446, 269.7, and 274.402 of this chapter), a Form D (§ 239.500 of this chapter), or an Asset Data File (§ 232.11), otherwise to be filed or submitted in electronic format cannot be so filed or submitted, as applicable, without undue burden or expense. Such written application shall be made at least ten business days before the required due date of the filing(s) or submission(s) or the proposed filing or submission date, as appropriate, or within such shorter period as may be permitted. The written application shall contain the information set forth in paragraph (b) of this section.
+(a) An electronic filer may apply in writing for a continuing hardship exemption if all or part of a filing, group of filings or submission, other than a Form ID (§§ 239.63, 249.446, 269.7, and 274.402 of this chapter), a Form D (§ 239.500 of this chapter), or an Asset Data File (§ 232.11), otherwise to be filed or submitted in electronic format cannot be so filed or submitted, as applicable, without undue burden or expense. Such written application shall be made at least ten business days before the required due date of the filing(s) or submission(s) or the proposed filing or submission date, as appropriate, or within such shorter period as may be permitted. The written application shall contain the information set forth in paragraph (b) of this section. 
 
-(1) The application shall not be deemed granted until the applicant is notified by the Commission or the staff.
+(1) The application shall not be deemed granted until the applicant is notified by the Commission or the staff. 
 
-(2) If the Commission, or the staff acting pursuant to delegated authority, denies the application for a continuing hardship exemption, the electronic filer shall file or submit the required document or Interactive Data File in electronic format, as applicable, on the required due date or the proposed filing or submission date, or such other date as may be permitted.
+(2) If the Commission, or the staff acting pursuant to delegated authority, denies the application for a continuing hardship exemption, the electronic filer shall file or submit the required document or Interactive Data File in electronic format, as applicable, on the required due date or the proposed filing or submission date, or such other date as may be permitted. 
 
-(3) If the Commission, or the staff acting pursuant to delegated authority, determines that the grant of the exemption is appropriate and consistent with the public interest and the protection of investors and so notifies the applicant, the electronic filer shall follow the procedures set forth in paragraph (c) of this section.
+(3) If the Commission, or the staff acting pursuant to delegated authority, determines that the grant of the exemption is appropriate and consistent with the public interest and the protection of investors and so notifies the applicant, the electronic filer shall follow the procedures set forth in paragraph (c) of this section. 
 
-(b) The request for the continuing hardship exemption shall include, but not be limited to, the following:
+(b) The request for the continuing hardship exemption shall include, but not be limited to, the following: 
 
-(1) The reason(s) that the necessary hardware and software is not available without unreasonable burden and expense;
+(1) The reason(s) that the necessary hardware and software is not available without unreasonable burden and expense; 
 
-(2) The burden and expense involved to employ alternative means to make the electronic submission; and/or
+(2) The burden and expense involved to employ alternative means to make the electronic submission; and/or 
 
-(3) The reasons for not submitting electronically the document, group of documents or Interactive Data File, as well as the justification for the requested time period.
+(3) The reasons for not submitting electronically the document, group of documents or Interactive Data File, as well as the justification for the requested time period. 
 
-(c) If the request is granted with respect to:
+(c) If the request is granted with respect to: 
 
-(1) Electronic filing of a document or group of documents, not electronic submission of an Interactive Data File, then the electronic filer shall submit the document or group of documents for which the continuing hardship exemption is granted in paper format on the required due date specified in the applicable form, rule or regulation, or the proposed filing date, as appropriate and the following legend shall be placed in capital letters at the top of the cover page of the paper format document(s):
+(1) Electronic filing of a document or group of documents, not electronic submission of an Interactive Data File, then the electronic filer shall submit the document or group of documents for which the continuing hardship exemption is granted in paper format on the required due date specified in the applicable form, rule or regulation, or the proposed filing date, as appropriate and the following legend shall be placed in capital letters at the top of the cover page of the paper format document(s): 
 
 IN ACCORDANCE WITH RULE 202 OF REGULATION S-T, THIS (specify document) IS BEING FILED IN PAPER PURSUANT TO A CONTINUING HARDSHIP EXEMPTION.
 
-(2) Electronic submission of an Interactive Data File, then the electronic filer shall substitute for the Interactive Data File exhibit a document that sets forth one of the following legends, as appropriate:
+(2) Electronic submission of an Interactive Data File, then the electronic filer shall substitute for the Interactive Data File exhibit a document that sets forth one of the following legends, as appropriate: 
 
 IN ACCORDANCE WITH A CONTINUING HARDSHIP EXEMPTION OBTAINED UNDER RULE 202 OF REGULATION S-T, THE DATE BY WHICH THE INTERACTIVE DATA FILE IS REQUIRED TO BE SUBMITTED HAS BEEN EXTENDED TO (specify date); or IN ACCORDANCE WITH A CONTINUING HARDSHIP EXEMPTION OBTAINED UNDER RULE 202 OF REGULATION S-T, THE INTERACTIVE DATA FILE IS NOT REQUIRED TO BE SUBMITTED.
 
-(d) If a continuing hardship exemption is granted for a limited period of time for:
+(d) If a continuing hardship exemption is granted for a limited period of time for: 
 
-(1) Electronic filing of a document or group of documents, not electronic submission of an Interactive Data File, then the grant may be conditioned upon the filing of the document or group of documents that is the subject of the exemption in electronic format upon the expiration of the period for which the exemption is granted. The electronic format version shall contain the following statement in capital letters at the top of the first page of the document:
+(1) Electronic filing of a document or group of documents, not electronic submission of an Interactive Data File, then the grant may be conditioned upon the filing of the document or group of documents that is the subject of the exemption in electronic format upon the expiration of the period for which the exemption is granted. The electronic format version shall contain the following statement in capital letters at the top of the first page of the document: 
 
 THIS DOCUMENT IS A COPY OF THE (specify document) FILED ON (date) PURSUANT TO A RULE 202(d) CONTINUING HARDSHIP EXEMPTION.
 
-(2) Electronic submission of an Interactive Data File, then the grant may be conditioned upon the electronic submission of the Interactive Data File that is the subject of the exemption upon the expiration of the period for which the exemption is granted.
+(2) Electronic submission of an Interactive Data File, then the grant may be conditioned upon the electronic submission of the Interactive Data File that is the subject of the exemption upon the expiration of the period for which the exemption is granted. 
 
 Note 1 to § 232.202:
 
