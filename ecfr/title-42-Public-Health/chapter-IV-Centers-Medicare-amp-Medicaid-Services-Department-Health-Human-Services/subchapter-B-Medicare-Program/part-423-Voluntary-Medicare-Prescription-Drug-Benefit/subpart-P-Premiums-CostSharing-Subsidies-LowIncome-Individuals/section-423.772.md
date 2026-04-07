@@ -10,7 +10,7 @@ For purposes of this subpart, the following definitions apply:
 
 *Federal poverty line (FPL)* has the meaning given that term in section 673(2) of the Community Services Block Grant Act (42 USC 9902(2)), including any revision required by that section.
 
-*Full-benefit dual eligible individual* means an individual who, for any month -
+*Full-benefit dual eligible individual* means an individual who, for any month—
 
 (1) Has coverage for the month under a prescription drug plan under Part D of title XVIII, or under an MA-PD plan under Part C of title XVIII; and
 
@@ -36,13 +36,13 @@ For purposes of this subpart, the following definitions apply:
 
 *Other subsidy eligible individuals* means those individuals meeting the eligibility requirements under § 423.773(d).
 
-Personal representative for purposes of this subpart means -
+Personal representative for purposes of this subpart means—
 
 (1) An individual who is authorized to act on behalf of the applicant;
 
 (2) If the applicant is incapacitated; or incompetent, someone acting responsibly on their behalf, or
 
-(3)An individual of the applicant's choice who is requested by the applicant to act as his or her representative in the application process.
+(3) An individual of the applicant's choice who is requested by the applicant to act as his or her representative in the application process.
 
 *Resources* means liquid resources of the applicant (and, if married, his or her spouse who is living in the same household), such as checking and savings accounts, stocks, bonds, and other resources that can be readily converted to cash within 20 days, that are not excluded from resources in section 1613 of the Act, and real estate that is not the applicant's primary residence or the land on which the primary residence is located. It exempts the value of any life insurance policy.
 
