@@ -22,11 +22,11 @@
 
 (iii) The placing or execution of any order to purchase or sell any security;
 
-(iv) The performance or rate of return of any or all managed accounts or securities recommendations: *Provided, however:*
+(iv) Predecessor performance (as defined in § 275.206(4)-1(e)(12) of this chapter) and the performance or rate of return of any or all managed accounts, portfolios (as defined in § 275.206(4)-1(e)(11) of this chapter), or securities recommendations; Provided, however:
 
-(A) That the investment adviser shall not be required to keep any unsolicited market letters and other similar communications of general public distribution not prepared by or for the investment adviser, and
+(A) That the investment adviser shall not be required to keep any unsolicited market letters and other similar communications of general public distribution not prepared by or for the investment adviser; and
 
-(B) That if the investment adviser sends any notice, circular or other advertisement offering any report, analysis, publication or other investment advisory service to more than 10 persons, the investment adviser shall not be required to keep a record of the names and addresses of the persons to whom it was sent; except that if such notice, circular or advertisement is distributed to persons named on any list, the investment adviser shall retain with the copy of such notice, circular or advertisement a memorandum describing the list and the source thereof
+(B) That if the investment adviser sends any notice, circular, or other advertisement (as defined in § 275.206(4)-1(e)(1) of this chapter) offering any report, analysis, publication or other investment advisory service to more than ten persons, the investment adviser shall not be required to keep a record of the names and addresses of the persons to whom it was sent; except that if such notice, circular, or advertisement is distributed to persons named on any list, the investment adviser shall retain with the copy of such notice, circular, or advertisement a memorandum describing the list and the source thereof.
 
 (8) A list or other record of all accounts in which the investment adviser is vested with any discretionary power with respect to the funds, securities or transactions of any client.
 
@@ -34,7 +34,19 @@
 
 (10) All written agreements (or copies thereof) entered into by the investment adviser with any client or otherwise relating to the business of such investment adviser as such.
 
-(11) A copy of each notice, circular, advertisement, newspaper article, investment letter, bulletin or other communication that the investment adviser circulates or distributes, directly or indirectly, to 10 or more persons (other than persons connected with such investment adviser), and if such notice, circular, advertisement, newspaper article, investment letter, bulletin or other communication recommends the purchase or sale of a specific security and does not state the reasons for such recommendation, a memorandum of the investment adviser indicating the reasons therefor.
+(11)(i) A copy of each
+
+(A) Advertisement (as defined in § 275.206(4)-1(e)(1) of this chapter) that the investment adviser disseminates, directly or indirectly, except:
+
+(*1*) For oral advertisements, the adviser may instead retain a copy of any written or recorded materials used by the adviser in connection with the oral advertisement; and
+
+(*2*) For compensated oral testimonials and endorsements (as defined in § 275.206(4)-1(e)(17) and (5) of this chapter), the adviser may instead make and keep a record of the disclosures provided to clients or investors pursuant to § 275.206(4)-1(b)(1) of this chapter; and
+
+(B) Notice, circular, newspaper article, investment letter, bulletin, or other communication that the investment adviser disseminates, directly or indirectly, to ten or more persons (other than persons associated with such investment adviser); and
+
+(C) If such notice, circular, advertisement, newspaper article, investment letter, bulletin, or other communication recommends the purchase or sale of a specific security and does not state the reasons for such recommendation, a memorandum of the investment adviser indicating the reasons therefor; and
+
+(ii) A copy of any questionnaire or survey used in the preparation of a third-party rating included or appearing in any advertisement in the event the adviser obtains a copy of the questionnaire or survey.
 
 (12)(i) A copy of the investment adviser's code of ethics adopted and implemented pursuant to § 275.204A-1 that is in effect, or at any time within the past five years was in effect;
 
@@ -54,9 +66,13 @@
 
 (iii) A memorandum describing any legal or disciplinary event listed in Item 9 of Part 2A or Item 3 of Part 2B (Disciplinary Information) and presumed to be material, if the event involved the investment adviser or any of its supervised persons and is not disclosed in the brochure or brochure supplement described in paragraph (a)(14)(i) of this section. The memorandum must explain the investment adviser's determination that the presumption of materiality is overcome, and must discuss the factors described in Item 9 of Part 2A of Form ADV or Item 3 of Part 2B of Form ADV.
 
-(15) All written acknowledgments of receipt obtained from clients pursuant to § 275.206(4)-3(a)(2)(iii)(B) and copies of the disclosure documents delivered to clients by solicitors pursuant to § 275.206(4)-3.
+(15)(i) If not included in the advertisement, a record of the disclosures provided to clients or investors pursuant to § 275.206(4)-1(b)(1)(ii) and (iii) of this chapter;
 
-(16) All accounts, books, internal working papers, and any other records or documents that are necessary to form the basis for or demonstrate the calculation of the performance or rate of return of any or all managed accounts or securities recommendations in any notice, circular, advertisement, newspaper article, investment letter, bulletin or other communication that the investment adviser circulates or distributes, directly or indirectly, to any person (other than persons connected with such investment adviser); *provided, however,* that, with respect to the performance of managed accounts, the retention of all account statements, if they reflect all debits, credits, and other transactions in a client's account for the period of the statement, and all worksheets necessary to demonstrate the calculation of the performance or rate of return of all managed accounts shall be deemed to satisfy the requirements of this paragraph.
+(ii) Documentation substantiating the adviser's reasonable basis for believing that a testimonial or endorsement (as defined in § 275.206(4)-1(e)(17) and (5) of this chapter) complies with § 275.206(4)-1 and that the third-party rating (as defined in § 275.206(4)-1(e)(18) of this chapter) complies with § 275.206(4)-1(c)(1) of this chapter.
+
+(iii) A record of the names of all persons who are an investment adviser's partners, officers, directors, or employees, or a person that controls, is controlled by, or is under common control with the investment adviser, or is a partner, officer, director or employee of such a person pursuant to § 275.206(4)-1(b)(4)(ii) of this chapter.
+
+(16) All accounts, books, internal working papers, and any other records or documents that are necessary to form the basis for or demonstrate the calculation of any performance or rate of return of any or all managed accounts, portfolios (as defined in § 275.206(4)-1(e)(11) of this chapter), or securities recommendations presented in any notice, circular, advertisement (as defined in § 275.206(4)-1(e)(1) of this chapter), newspaper article, investment letter, bulletin, or other communication that the investment adviser disseminates, directly or indirectly, to any person (other than persons associated with such investment adviser), including copies of all information provided or offered pursuant to § 275.206(4)-1(d)(6) of this chapter; provided, however, that, with respect to the performance of managed accounts, the retention of all account statements, if they reflect all debits, credits, and other transactions in a client's or investor's account for the period of the statement, and all worksheets necessary to demonstrate the calculation of the performance or rate of return of all managed accounts shall be deemed to satisfy the requirements of this paragraph.
 
 (17)(i) A copy of the investment adviser's policies and procedures formulated pursuant to § 275.206(4)-7(a) of this chapter that are in effect, or at any time within the past five years were in effect;
 
@@ -87,6 +103,8 @@
 (iii) An investment adviser is only required to make and keep current the records referred to in paragraphs (a)(18)(i)(A) and (C) of this section if it provides investment advisory services to a government entity or a government entity is an investor in any covered investment pool to which the investment adviser provides investment advisory services.
 
 (iv) For purposes of this section, the terms “contribution,” “covered associate,” “covered investment pool,” “government entity,” “official,” “payment,” “regulated person,” and “solicit” have the same meanings as set forth in § 275.206(4)-5.
+
+(19) A record of who the “intended audience” is pursuant to § 275.206(4)-1(d)(6) and(e)(10)(ii)(B) of this chapter.
 
 (b) If an investment adviser subject to paragraph (a) of this section has custody or possession of securities or funds of any client, the records required to be made and kept under paragraph (a) of this section shall include:
 
