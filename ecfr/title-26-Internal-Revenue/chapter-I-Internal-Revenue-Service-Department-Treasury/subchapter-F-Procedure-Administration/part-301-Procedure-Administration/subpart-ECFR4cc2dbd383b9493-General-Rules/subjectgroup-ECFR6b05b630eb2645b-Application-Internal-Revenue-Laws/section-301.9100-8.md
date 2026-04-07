@@ -1,6 +1,6 @@
 ##### § 301.9100-8 Time and manner of making certain elections under the Technical and Miscellaneous Revenue Act of 1988.
 
-(a) *Miscellaneous elections*—(1) *Elections to which this paragraph applies.* This paragraph applies to the elections set forth below provided under the Technical and Miscellaneous Revenue Act of 1988, 102 Stat. 3342 (the Act). General rules regarding the time for making the elections are provided in paragraph (a)(2) of this section. General rules regarding the manner for making the elections are provided in paragraph (a)(3) of this section. Special rules regarding the time and manner for making certain elections are contained in paragraphs (a) through (i) of this section. In this paragraph (a)(1), a cross-reference to a special rule applicable to an election is shown in brackets at the end of the description of the “Availability of Election.” Paragraph (j) of this section lists certain elections provided under the Act that are not addressed in this section. Paragraph (k) of this section provides that additional information with respect to elections may be required by future regulations or revenue procedures. 
+(a) *Miscellaneous elections*—(1) *Elections to which this paragraph applies.* This paragraph applies to the elections set forth below provided under the Technical and Miscellaneous Revenue Act of 1988, 102 Stat. 3342 (the Act). General rules regarding the time for making the elections are provided in paragraph (a)(2) of this section. General rules regarding the manner for making the elections are provided in paragraph (a)(3) of this section. Special rules regarding the time and manner for making certain elections are contained in paragraphs (a) through (i) of this section. In this paragraph (a)(1), a cross-reference to a special rule applicable to an election is shown in brackets at the end of the description of the “Availability of Election.” Paragraph (j) of this section lists certain elections provided under the Act that are not addressed in this section. Paragraph (k) of this section provides that additional information with respect to elections may be required by future regulations or revenue procedures.
 
 | Section of act            | Section of code                  | Description of election                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Availability of election                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,164 +49,164 @@
 | 6277                      | 382, 383                         | Election by a loss corporation that otherwise qualifies for the exception of section 621(f)(5) of the 1986 Act not to apply that exception. That exception provides for the inapplicability, in certain situations, of the amendments to sections 382 and 383 of the Code made by the 1986 Act (relating to limitation of corporate attributes after an ownership change). That exception applies with respect to a loss corporation's ownership change resulting from a reorganization described in section 368(a)(1)(G) of the Code or from an exchange of debt for stock in a title 11 or similar case if a petition was filed with the court before August 14, 1986 | Available for ownership changes described in section 621(f)(5) of the 1986 Act, if a petition was filed with the court before August 14, 1986. The election is to be made by filing a statement with the District Director with whom the loss corporation would file its Federal income tax return. The statement must identify the election as an election under section 6277 of the Act and must (1) contain the taxpayer's name, address, and employee identification number, (2) identify the transaction to which the election relates, (3) represent that the conditions for making the election have been satisfied, and (4) be signed by a person authorized to sign the Federal income tax return of the loss corporation.                                                     |
 | 8007(a)(1)                | 3127                             | Election to be exempted from the taxes imposed by sections 3101 and 3111 of the Code                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | An individual employer and an employee, both of whom are members of a recognized religious sect or a division thereof described in section 1402(g)(1) of the Code and adherents of established tenets or teachings of such sect or division, may, if both qualify and make elections, obtain exemptions from the taxes imposed by sections 3101 and 3111. \[See paragraph (i) of this section.\]                                                                                                                                                                                                                                                                                                                                                                                        |
 
-(2) *Time for making elections*—(i) *In general.* Except as otherwise provided in this section, the elections described in paragraph (a)(1) of this section must be made by the later of— 
+(2) *Time for making elections*—(i) *In general.* Except as otherwise provided in this section, the elections described in paragraph (a)(1) of this section must be made by the later of—
 
-(A) The due date (taking into account any extensions of time to file obtained by the taxpayer) of the tax return for the first taxable year for which the election is effective, or 
+(A) The due date (taking into account any extensions of time to file obtained by the taxpayer) of the tax return for the first taxable year for which the election is effective, or
 
-(B) January 22, 1990 (in which case the election generally must be made by amended return). 
+(B) January 22, 1990 (in which case the election generally must be made by amended return).
 
-(ii) *No extension of time for payment.* Payments of tax due must be made in accordance with chapter 62 of the Code. 
+(ii) *No extension of time for payment.* Payments of tax due must be made in accordance with chapter 62 of the Code.
 
-(3) *Manner of making elections.* Except as otherwise provided in this section, the elections described in paragraph (a)(1) of this section must be made by attaching a statement to the tax return for the first taxable year for which the election is to be effective. If such tax return is filed prior to the making of the election, the statement must be attached to an amended tax return of the first taxable year for which the election is to be effective. Except as otherwise provided in the return or in the instructions accompanying the return for the taxable year, the statement must— 
+(3) *Manner of making elections.* Except as otherwise provided in this section, the elections described in paragraph (a)(1) of this section must be made by attaching a statement to the tax return for the first taxable year for which the election is to be effective. If such tax return is filed prior to the making of the election, the statement must be attached to an amended tax return of the first taxable year for which the election is to be effective. Except as otherwise provided in the return or in the instructions accompanying the return for the taxable year, the statement must—
 
-(i) Contain the name, address and taxpayer identification number of the electing taxpayer; 
+(i) Contain the name, address and taxpayer identification number of the electing taxpayer;
 
-(ii) Identify the election; 
+(ii) Identify the election;
 
-(iii) Indicate the section of the Code (or, if the provision is not codified, the section of the Act) under which the election is made; 
+(iii) Indicate the section of the Code (or, if the provision is not codified, the section of the Act) under which the election is made;
 
-(iv) Specify, as applicable, the period for which the election is being made and the property or other items to which the election is to apply; and 
+(iv) Specify, as applicable, the period for which the election is being made and the property or other items to which the election is to apply; and
 
-(v) Provide any information required by the relevant statutory provisions and any information requested in applicable forms and instructions, such as the information necessary to show that the taxpayer is entitled to make the election. 
+(v) Provide any information required by the relevant statutory provisions and any information requested in applicable forms and instructions, such as the information necessary to show that the taxpayer is entitled to make the election.
 
 Notwithstanding the foregoing, an amended return need not be filed for an election made prior to October 23, 1989, if the taxpayer made the election in a reasonable manner.
 
-(4) *Revocation*—(i) *Irrevocable elections.* The elections described in this section that are made under the following sections of the Act are irrevocable: 1002(a)(11)(A) (Code section 168(b)(2)), 1002(a)(23)(B), 1002(l)(1)(A) (Code section 42(b)(2)(A)(ii)), 1002 (l)(2)(B) (Code section 42(f)(1)), 1005(c)(11), 1008(c)(4)(A) (Code section 460(b)(3)), 1014(c)(1), 1014(c)(2), 1014(d)(3)(B) and 1014(d)(4) (Code section 643(g)(2)), 2004(m)(5), 4004(a) (Code section 42(j)(5)(B)), 5033(a)(2) (Code section 2056A(d)), 6006(a) (Code section 1(i)(7)), 6026(a) (Code section 263A(h)), 6026(b)(1) (Code section 263A(d)(1)), 6152(a) and 6152(c)(3) (Code section 2056(b)(7)(C)(ii)), 6152(b) and 6152(c)(3) (Code section 2523(f)(6)(B)), 6152(c)(2) (Code sections 2056(b)(7)(C)(ii) and 2523(f)(6)(B)), and 6180(b)(1) (Code section 142(i)(2)). 
+(4) *Revocation*—(i) *Irrevocable elections.* The elections described in this section that are made under the following sections of the Act are irrevocable: 1002(a)(11)(A) (Code section 168(b)(2)), 1002(a)(23)(B), 1002(l)(1)(A) (Code section 42(b)(2)(A)(ii)), 1002 (l)(2)(B) (Code section 42(f)(1)), 1005(c)(11), 1008(c)(4)(A) (Code section 460(b)(3)), 1014(c)(1), 1014(c)(2), 1014(d)(3)(B) and 1014(d)(4) (Code section 643(g)(2)), 2004(m)(5), 4004(a) (Code section 42(j)(5)(B)), 5033(a)(2) (Code section 2056A(d)), 6006(a) (Code section 1(i)(7)), 6026(a) (Code section 263A(h)), 6026(b)(1) (Code section 263A(d)(1)), 6152(a) and 6152(c)(3) (Code section 2056(b)(7)(C)(ii)), 6152(b) and 6152(c)(3) (Code section 2523(f)(6)(B)), 6152(c)(2) (Code sections 2056(b)(7)(C)(ii) and 2523(f)(6)(B)), and 6180(b)(1) (Code section 142(i)(2)).
 
-(ii) *Elections revocable with the consent of the Commissioner.* The elections described in this section that are made under the following sections of the Act are revocable only with the consent of the Commissioner: 1006(d)(15), 1006(j)(1)(C), 1006(t)(18)(B), 1009(d) (Code section 165(l)), 1010(f)(1) (Code section 831(b)(2)(A)), 1010(f)(2) (Code section 835(a)), 1012(d)(4) (Code section 865(f)), 1012(d)(6) (Code section 865(g)(3)), 1012(d)(8) (Code section 865(h)(2)), 1012(l)(2) (Code section 245(a)(10)), 1012(n)(3), 1012(bb)(4) (Code section 904(g)(10)), 2004(j)(1), 5031(a) (Code section 7520(a)), 6026(c) (Code section 263A(d)(3)(B)), and 6277. 
+(ii) *Elections revocable with the consent of the Commissioner.* The elections described in this section that are made under the following sections of the Act are revocable only with the consent of the Commissioner: 1006(d)(15), 1006(j)(1)(C), 1006(t)(18)(B), 1009(d) (Code section 165(l)), 1010(f)(1) (Code section 831(b)(2)(A)), 1010(f)(2) (Code section 835(a)), 1012(d)(4) (Code section 865(f)), 1012(d)(6) (Code section 865(g)(3)), 1012(d)(8) (Code section 865(h)(2)), 1012(l)(2) (Code section 245(a)(10)), 1012(n)(3), 1012(bb)(4) (Code section 904(g)(10)), 2004(j)(1), 5031(a) (Code section 7520(a)), 6026(c) (Code section 263A(d)(3)(B)), and 6277.
 
-(iii) *Freely revocable elections.* The election described in this section that is made under section 6011 of the Act is revocable without the consent of the Commissioner. (See section 121(c) of the Code and § 1.121-4 of the regulations.) 
+(iii) *Freely revocable elections.* The election described in this section that is made under section 6011 of the Act is revocable without the consent of the Commissioner. (See section 121(c) of the Code and § 1.121-4 of the regulations.)
 
-(b) *Elections with respect to the low-income housing credit.* The elections under sections 42(d)(3)(B), 42(f)(1), 42(g)(3)(B)(i), 42(i)(2)(B), and 42(j)(5)(B) of the Code generally must be made for the taxable year in which the building is placed in service, or the succeeding taxable year if the section 42(f)(1) election is made to defer the start of the credit period, and must be made in the certification required to be filed pursuant to section 42(l) (1) and (2), as amended by the Act. The election under section 42(j)(5)(B) of the Code must be made by the later of the due date of the certification or January 22, 1990. The election under section 42(b)(2)(A)(ii) must be made in accordance with the requirements of Notice 89-1, 1989-2 I.R.B. 10. 
+(b) *Elections with respect to the low-income housing credit.* The elections under sections 42(d)(3)(B), 42(f)(1), 42(g)(3)(B)(i), 42(i)(2)(B), and 42(j)(5)(B) of the Code generally must be made for the taxable year in which the building is placed in service, or the succeeding taxable year if the section 42(f)(1) election is made to defer the start of the credit period, and must be made in the certification required to be filed pursuant to section 42(l) (1) and (2), as amended by the Act. The election under section 42(j)(5)(B) of the Code must be made by the later of the due date of the certification or January 22, 1990. The election under section 42(b)(2)(A)(ii) must be made in accordance with the requirements of Notice 89-1, 1989-2 I.R.B. 10.
 
-(c) *Election to treat certain carryovers of disallowed investment interest expense as passive activity deductions.* The requirements of paragraphs (a) (2) and (3) of this section do not apply to an election under section 1005(c)(11) of the Act. Instead, the election must be made at the time and in the manner prescribed in Notice 89-36, 1989-13 I.R.B. 6. Thus, the election must be made before the filing deadline specified in Notice 89-36 by amending previously filed returns to reflect any change in the computation of tax liability that results from the election. 
+(c) *Election to treat certain carryovers of disallowed investment interest expense as passive activity deductions.* The requirements of paragraphs (a) (2) and (3) of this section do not apply to an election under section 1005(c)(11) of the Act. Instead, the election must be made at the time and in the manner prescribed in Notice 89-36, 1989-13 I.R.B. 6. Thus, the election must be made before the filing deadline specified in Notice 89-36 by amending previously filed returns to reflect any change in the computation of tax liability that results from the election.
 
-(d) *Election with respect to the treatment of reasonably estimated losses in an insolvent or bankrupt financial institution*—(1) *In general.* This paragraph (d) applies to an election under section 905(a) of the 1986 Act, and to an election under section 1009(d) of the Act, both relating to section 165(l) of the Code. If— 
+(d) *Election with respect to the treatment of reasonably estimated losses in an insolvent or bankrupt financial institution*—(1) *In general.* This paragraph (d) applies to an election under section 905(a) of the 1986 Act, and to an election under section 1009(d) of the Act, both relating to section 165(l) of the Code. If—
 
-(i) As of the close of the taxable year, it can reasonably be estimated that there is a loss on a deposit (within the meaning of section 165(l)(4)) of a qualified individual (as defined in section 165(l)(2)) in a qualified financial institution (as defined in section 165(l)(3)), and 
+(i) As of the close of the taxable year, it can reasonably be estimated that there is a loss on a deposit (within the meaning of section 165(l)(4)) of a qualified individual (as defined in section 165(l)(2)) in a qualified financial institution (as defined in section 165(l)(3)), and
 
-(ii) Such loss is on account of the bankruptcy or insolvency of such institution, then the qualified individual may elect under either section 165(l)(1) or (5) (but not both), to treat the amount (subject to the applicable limitations if under section 165(l)(5)) so estimated for that taxable year as a loss described in either section 165(c)(3), relating to casualty losses, or section 165(c)(2), relating to transactions entered into for profit, and incurred during the taxable year. 
+(ii) Such loss is on account of the bankruptcy or insolvency of such institution, then the qualified individual may elect under either section 165(l)(1) or (5) (but not both), to treat the amount (subject to the applicable limitations if under section 165(l)(5)) so estimated for that taxable year as a loss described in either section 165(c)(3), relating to casualty losses, or section 165(c)(2), relating to transactions entered into for profit, and incurred during the taxable year.
 
 The election will apply to all losses of the qualified individual on deposits in the institution with respect to which an election is made. For additional information and examples of the application of the election rules, see Notice 89-28, 1989-12 I.R.B. 72.
 
-This paragraph (d) includes the procedural and the principal substantive rules first issued in Notice 89-28. For specific rules relating to an election under section 165(1)(5), see paragraph (d)(2) of this section. 
+This paragraph (d) includes the procedural and the principal substantive rules first issued in Notice 89-28. For specific rules relating to an election under section 165(1)(5), see paragraph (d)(2) of this section.
 
-(2) *Specific rules relating to the section 165(1)(5) election*—(i) *Applicability.* An election under section 165(1)(5) of the Code may be made only if no part of the taxpayer's deposits in the financial institution is federally insured. Generally, this requirement will be met only in cases in which none of the deposits in the financial institution are federally insured. 
+(2) *Specific rules relating to the section 165(1)(5) election*—(i) *Applicability.* An election under section 165(1)(5) of the Code may be made only if no part of the taxpayer's deposits in the financial institution is federally insured. Generally, this requirement will be met only in cases in which none of the deposits in the financial institution are federally insured.
 
-(ii) *Dollar limitations.* An election under section 165(1)(5) of the Code is limited to $20,000 ($10,000 in the case of a separate return by a married individual) in aggregate losses on deposits in any one financial institution. The applicable dollar limit must be reduced by the amount of any insurance proceeds that can reasonably be expected to be received under any state law. 
+(ii) *Dollar limitations.* An election under section 165(1)(5) of the Code is limited to $20,000 ($10,000 in the case of a separate return by a married individual) in aggregate losses on deposits in any one financial institution. The applicable dollar limit must be reduced by the amount of any insurance proceeds that can reasonably be expected to be received under any state law.
 
-(3) *Time and manner of determining loss and making the election*—(i) *Year of election and determination of loss.* A qualified individual may make an election under section 165(1) of the Code either for the first taxable year in which a reasonable estimate of the loss can be made or for a later taxable year that is prior to the taxable year in which the loss is sustained. The amount of the loss is determined by the difference between a taxpayer's basis in the deposits and the amount that is reasonably estimated to be recovered, taking into account all facts and circumstances reasonably available to the taxpayer as of the date the election is made. A reasonable estimate might be based, for example, on the percentage of total deposits likely to be recovered by the depositors according to a determination made by the regulatory authority or trustee having responsibility over the institution. In addition, the taxpayer's basis in the deposits must be reduced to the extent that a loss is claimed. 
+(3) *Time and manner of determining loss and making the election*—(i) *Year of election and determination of loss.* A qualified individual may make an election under section 165(1) of the Code either for the first taxable year in which a reasonable estimate of the loss can be made or for a later taxable year that is prior to the taxable year in which the loss is sustained. The amount of the loss is determined by the difference between a taxpayer's basis in the deposits and the amount that is reasonably estimated to be recovered, taking into account all facts and circumstances reasonably available to the taxpayer as of the date the election is made. A reasonable estimate might be based, for example, on the percentage of total deposits likely to be recovered by the depositors according to a determination made by the regulatory authority or trustee having responsibility over the institution. In addition, the taxpayer's basis in the deposits must be reduced to the extent that a loss is claimed.
 
-(ii) *Time and manner of making election.* A qualified individual may make an election under section 165(1) of the Code on— 
+(ii) *Time and manner of making election.* A qualified individual may make an election under section 165(1) of the Code on—
 
-(A) The income tax return for the taxable year with respect to which the taxpayer made a reasonable estimate of the loss; 
+(A) The income tax return for the taxable year with respect to which the taxpayer made a reasonable estimate of the loss;
 
-(B) An amended income tax return for a taxable year described in paragraph (d)(3)(ii)(A) of this section, if the period prescribed for filing a claim for refund or credit for that taxable year has not yet expired; or, if applicable, 
+(B) An amended income tax return for a taxable year described in paragraph (d)(3)(ii)(A) of this section, if the period prescribed for filing a claim for refund or credit for that taxable year has not yet expired; or, if applicable,
 
-(C) An amended income tax return for a taxable year (beginning after December 31, 1981) described in paragraph (d)(3)(ii)(A) of this section, whether or not the claim for refund or credit is barred by another provision of law, but only if the amended return is properly filed on or before November 9, 1989. 
+(C) An amended income tax return for a taxable year (beginning after December 31, 1981) described in paragraph (d)(3)(ii)(A) of this section, whether or not the claim for refund or credit is barred by another provision of law, but only if the amended return is properly filed on or before November 9, 1989.
 
-(iii) *Information to include with election.* The election should include any information requested in the applicable forms and instructions (e.g., Form 4684, Casualties and Thefts). If the applicable form(s) and instructions do not make reference to or request information concerning this election, the taxpayer should, on an appropriate line or space clearly indicate the name of the financial institution, include the following language: “Insolvent Financial Institution Election,” and include the calculation of the reasonably estimated loss claimed. 
+(iii) *Information to include with election.* The election should include any information requested in the applicable forms and instructions (e.g., Form 4684, Casualties and Thefts). If the applicable form(s) and instructions do not make reference to or request information concerning this election, the taxpayer should, on an appropriate line or space clearly indicate the name of the financial institution, include the following language: “Insolvent Financial Institution Election,” and include the calculation of the reasonably estimated loss claimed.
 
-(4) *Revocability of the election*—(i) *In general.* If a taxpayer desires to revoke an election under section 165(l) of the Code, the taxpayer must request, in writing, the consent of the Secretary setting forth the pertinent facts surrounding the election and the reasons for requesting a revocation. 
+(4) *Revocability of the election*—(i) *In general.* If a taxpayer desires to revoke an election under section 165(l) of the Code, the taxpayer must request, in writing, the consent of the Secretary setting forth the pertinent facts surrounding the election and the reasons for requesting a revocation.
 
-(ii) *Exception.* With respect to an election made under section 165(l)(1) of the Code prior to November 9, 1989, a qualified individual may revoke such election without securing the prior consent of the Secretary but only if the taxpayer makes an election under section 165(l)(5) by November 9, 1989, in the manner prescribed in paragraph (d)(3) of this section. 
+(ii) *Exception.* With respect to an election made under section 165(l)(1) of the Code prior to November 9, 1989, a qualified individual may revoke such election without securing the prior consent of the Secretary but only if the taxpayer makes an election under section 165(l)(5) by November 9, 1989, in the manner prescribed in paragraph (d)(3) of this section.
 
-(5) *Effective date.* Paragraph (d) of this section is generally effective for elections made under section 165(1) of the Code on or after November 10, 1988. However, an election filed prior to February 24, 1989, that is made in any reasonable manner will be effective. 
+(5) *Effective date.* Paragraph (d) of this section is generally effective for elections made under section 165(1) of the Code on or after November 10, 1988. However, an election filed prior to February 24, 1989, that is made in any reasonable manner will be effective.
 
-(e) *Election to treat a survivor annuity payable to a surviving spouse as a nondeductible terminable interest.* Where the time for making the election under section 2056(b)(7)(C)(ii) of the Code to treat the survivor annuity as nondeductible otherwise expires before November 11, 1990, the election may be made before November 11, 1990, by filing with the Service Center where the original return was filed supplemental information under § 20.6081-1(c) of the Estate Tax Regulations containing: 
+(e) *Election to treat a survivor annuity payable to a surviving spouse as a nondeductible terminable interest.* Where the time for making the election under section 2056(b)(7)(C)(ii) of the Code to treat the survivor annuity as nondeductible otherwise expires before November 11, 1990, the election may be made before November 11, 1990, by filing with the Service Center where the original return was filed supplemental information under § 20.6081-1(c) of the Estate Tax Regulations containing:
 
-(1) A statement that the election under section 2056(b)(7)(C)(ii) of the Code is being made; 
+(1) A statement that the election under section 2056(b)(7)(C)(ii) of the Code is being made;
 
-(2) The applicable revised schedules; 
+(2) The applicable revised schedules;
 
-(3) A recomputation of the tax due; and 
+(3) A recomputation of the tax due; and
 
-(4) Payment of any additional tax due. 
+(4) Payment of any additional tax due.
 
-(f) *Election to treat a joint and survivor annuity in which the donee spouse has a survivor interest as a nondeductible terminable interest.* Where the time for making the election under section 2523(f)(6)(B) of the Code to treat the interest as nondeductible otherwise expires before November 11, 1990, the election may be made before November 11, 1990, by filing with the appropriate Service Center an original return (or an amended return if an original return was filed) containing: 
+(f) *Election to treat a joint and survivor annuity in which the donee spouse has a survivor interest as a nondeductible terminable interest.* Where the time for making the election under section 2523(f)(6)(B) of the Code to treat the interest as nondeductible otherwise expires before November 11, 1990, the election may be made before November 11, 1990, by filing with the appropriate Service Center an original return (or an amended return if an original return was filed) containing:
 
-(1) A statement that the election under section 2523(f)(6)(B) is being made; 
+(1) A statement that the election under section 2523(f)(6)(B) is being made;
 
-(2) A recomputation of the tax due; and 
+(2) A recomputation of the tax due; and
 
-(3) Payment of any additional tax due. 
+(3) Payment of any additional tax due.
 
-(g) *Election to treat survivor's annuity payable to the surviving spouse as qualified terminable interest property deductible under sections 2056(b)(7)(C) or 2523(f)(6) of the Code in the case of a return filed prior to November 11, 1988.* (1) In the case of an estate tax election under section 2056(b)(7)(C) the election is made by filing with the Service Center where the estate tax return was filed supplemental information under § 20.6081-1(c) of the Estate Tax Regulations (and timely claim for refund under section 6511 of the Code, if applicable) containing: 
+(g) *Election to treat survivor's annuity payable to the surviving spouse as qualified terminable interest property deductible under sections 2056(b)(7)(C) or 2523(f)(6) of the Code in the case of a return filed prior to November 11, 1988.* (1) In the case of an estate tax election under section 2056(b)(7)(C) the election is made by filing with the Service Center where the estate tax return was filed supplemental information under § 20.6081-1(c) of the Estate Tax Regulations (and timely claim for refund under section 6511 of the Code, if applicable) containing:
 
-(i) A statement that the election under section 6152(c)(2) of the Technical and Miscellaneous Revenue Act of 1988 is being made; 
+(i) A statement that the election under section 6152(c)(2) of the Technical and Miscellaneous Revenue Act of 1988 is being made;
 
-(ii) The applicable revised schedules; and 
+(ii) The applicable revised schedules; and
 
-(iii) A recomputation of the estate's tax liability showing the amount of any refund due. 
+(iii) A recomputation of the estate's tax liability showing the amount of any refund due.
 
-(2) In the case of a gift tax election under section 2523(f)(6) of the Code, the election is made by filing with the Service Center where the original return was filed an amended return (and timely claim for refund under section 6511, if applicable) containing: 
+(2) In the case of a gift tax election under section 2523(f)(6) of the Code, the election is made by filing with the Service Center where the original return was filed an amended return (and timely claim for refund under section 6511, if applicable) containing:
 
-(i) A statement that the election under section 6152(c)(2) of the Technical and Miscellaneous Revenue Act of 1988 is being made; 
+(i) A statement that the election under section 6152(c)(2) of the Technical and Miscellaneous Revenue Act of 1988 is being made;
 
-(ii) The applicable revised schedules; and 
+(ii) The applicable revised schedules; and
 
-(iii) A recomputation of the gift tax liability showing the amount of any refund due. 
+(iii) A recomputation of the gift tax liability showing the amount of any refund due.
 
-(h) *Elections with respect to certain nongovernmentally owned rail facilities*—(1) *In general.* This paragraph applies to the election under section 6180(b)(1) of the Act (Code section 142(i)(2)) not to claim a deduction under section 167 or 168 of the Code or any credit with respect to certain bond-financed property. An electing owner that is not a governmental unit must make the election at the time the loan agreement with the issuer of the bond is executed. The election must be signed by the owner and include— 
+(h) *Elections with respect to certain nongovernmentally owned rail facilities*—(1) *In general.* This paragraph applies to the election under section 6180(b)(1) of the Act (Code section 142(i)(2)) not to claim a deduction under section 167 or 168 of the Code or any credit with respect to certain bond-financed property. An electing owner that is not a governmental unit must make the election at the time the loan agreement with the issuer of the bond is executed. The election must be signed by the owner and include—
 
-(i) A description of the property with respect to which the election is being made; 
+(i) A description of the property with respect to which the election is being made;
 
-(ii) The name, address, and taxpayer identification number of the issuing authority; 
+(ii) The name, address, and taxpayer identification number of the issuing authority;
 
-(iii) The name, address, and taxpayer identification number of the electing owner; and 
+(iii) The name, address, and taxpayer identification number of the electing owner; and
 
-(iv) The date and face amount of the issue used to provide the property. 
+(iv) The date and face amount of the issue used to provide the property.
 
-(2) *Other requirements.* The electing owner must provide a copy of the election to the issuing authority and to any person purchasing the facilities during the period the bonds are outstanding or within 6 years after the last bond that is part of the issue is retired. The electing owner, purchaser, and all successors in interest to the electing owner or purchaser must each retain the original election document or a copy thereof in its records until 6 years after the later of the date the last bond that is part of the issue is retired or the date such owner, purchaser or successor in interest ceases to own the facilities. The issuer must retain a copy of the election until 6 years after the date the last bond that is part of the issue is retired. In addition, while the facilities are nongovernmentally owned, any publicly recorded document with respect to the facilities must state that neither the electing owner, nor any person purchasing the facilities during the period the bonds are outstanding or within 6 years after the date the last bond that is part of the issue is retired, nor any successor in interest to the electing owner or such purchaser, may claim any deduction under section 167 or 168 of the Code or any credit with respect to the facilities. 
+(2) *Other requirements.* The electing owner must provide a copy of the election to the issuing authority and to any person purchasing the facilities during the period the bonds are outstanding or within 6 years after the last bond that is part of the issue is retired. The electing owner, purchaser, and all successors in interest to the electing owner or purchaser must each retain the original election document or a copy thereof in its records until 6 years after the later of the date the last bond that is part of the issue is retired or the date such owner, purchaser or successor in interest ceases to own the facilities. The issuer must retain a copy of the election until 6 years after the date the last bond that is part of the issue is retired. In addition, while the facilities are nongovernmentally owned, any publicly recorded document with respect to the facilities must state that neither the electing owner, nor any person purchasing the facilities during the period the bonds are outstanding or within 6 years after the date the last bond that is part of the issue is retired, nor any successor in interest to the electing owner or such purchaser, may claim any deduction under section 167 or 168 of the Code or any credit with respect to the facilities.
 
-(3) *Election is binding on purchasers and successors.* The election is binding at all times on any person purchasing the facilities during the period the bonds are outstanding or within 6 years after the date the last bond that is part of the issue is retired and on all successors in interest to the electing owner and such purchaser. 
+(3) *Election is binding on purchasers and successors.* The election is binding at all times on any person purchasing the facilities during the period the bonds are outstanding or within 6 years after the date the last bond that is part of the issue is retired and on all successors in interest to the electing owner and such purchaser.
 
-(i) *Election under section 3127 of the Code to be exempted from the taxes imposed by sections 3111 and 3101*—(1) *Application for exemption.* To be exempt from the taxes imposed under section 3111 and 3101 of the Code with regard to wages paid after December 31, 1988, an individual who is an employer and his or her employee must each file an application on the prescribed form with the Internal Revenue Service office designated in the instructions relating to the application for exemption. 
+(i) *Election under section 3127 of the Code to be exempted from the taxes imposed by sections 3111 and 3101*—(1) *Application for exemption.* To be exempt from the taxes imposed under section 3111 and 3101 of the Code with regard to wages paid after December 31, 1988, an individual who is an employer and his or her employee must each file an application on the prescribed form with the Internal Revenue Service office designated in the instructions relating to the application for exemption.
 
-(2) *Approval of application for exemption.* The application for exemption by the individual employer or the employee will be approved only if: 
+(2) *Approval of application for exemption.* The application for exemption by the individual employer or the employee will be approved only if:
 
-(i) The application contains or is accompanied by the evidence described in section 1402(g)(1)(A) of the Code and a waiver described in section 1402(g)(1)(B); 
+(i) The application contains or is accompanied by the evidence described in section 1402(g)(1)(A) of the Code and a waiver described in section 1402(g)(1)(B);
 
-(ii) The Secretary of Health and Human Services makes the findings described in section 1402(g)(1) (C), (D), and (E) with respect to the religious sect or division described in section 1402(g)(1) of which the individual employer and employee are members; and 
+(ii) The Secretary of Health and Human Services makes the findings described in section 1402(g)(1) (C), (D), and (E) with respect to the religious sect or division described in section 1402(g)(1) of which the individual employer and employee are members; and
 
-(iii) No benefit or other payment referred to in section 1402(g)(1)(B) became payable (or, but for sections 203 or 222(b) of the Social Security Act, would have become payable) to the employee filing the application at or before the time of the filing. 
+(iii) No benefit or other payment referred to in section 1402(g)(1)(B) became payable (or, but for sections 203 or 222(b) of the Social Security Act, would have become payable) to the employee filing the application at or before the time of the filing.
 
-(3) *Effective period of exemption.* The election provided in paragraph (h)(1) of this section will apply with respect to wages paid by such individual employer during the period commencing with the first day of the first calendar quarter, after the quarter in which such application is filed, throughout which such individual employer or employee meets the applicable requirements specified in paragraphs (h)(2) and (h)(3). 
+(3) *Effective period of exemption.* The election provided in paragraph (h)(1) of this section will apply with respect to wages paid by such individual employer during the period commencing with the first day of the first calendar quarter, after the quarter in which such application is filed, throughout which such individual employer or employee meets the applicable requirements specified in paragraphs (h)(2) and (h)(3).
 
-(4) *Termination of election.* The exemption granted under section 3127 of the Code will end on the last day of the calendar quarter preceding the first calendar quarter thereafter in which: 
+(4) *Termination of election.* The exemption granted under section 3127 of the Code will end on the last day of the calendar quarter preceding the first calendar quarter thereafter in which:
 
-(i) Such individual employer or the employee involved ceases to meet the applicable requirements of paragraphs (h)(2) and (h)(3), or 
+(i) Such individual employer or the employee involved ceases to meet the applicable requirements of paragraphs (h)(2) and (h)(3), or
 
-(ii) The sect or division thereof of which such individual employer or employee is a member is found by the Secretary of Health and Human Services to have failed to meet the requirements of section 3127(b)(2). 
+(ii) The sect or division thereof of which such individual employer or employee is a member is found by the Secretary of Health and Human Services to have failed to meet the requirements of section 3127(b)(2).
 
-(5) *Both the individual employer and employee must qualify and elect.* The exemption from the taxes imposed under sections 3101 and 3111 of the Code is applicable only if both the individual employer and the employee qualify and make the election under the provisions of section 3127. 
+(5) *Both the individual employer and employee must qualify and elect.* The exemption from the taxes imposed under sections 3101 and 3111 of the Code is applicable only if both the individual employer and the employee qualify and make the election under the provisions of section 3127.
 
-(j) *Certain elections not addressed in this section.* Elections under the Act that are not addressed in this section include: 
+(j) *Certain elections not addressed in this section.* Elections under the Act that are not addressed in this section include:
 
-(1) An election relating to the effective date of certain source rules under section 861(a) of the Code (section 1012(g)(1) of the Act); 
+(1) An election relating to the effective date of certain source rules under section 861(a) of the Code (section 1012(g)(1) of the Act);
 
-(2) An election relating to transitional rules for interest allocation under 864(e) of the Code (section 1012(h)(7) of the Act); 
+(2) An election relating to transitional rules for interest allocation under 864(e) of the Code (section 1012(h)(7) of the Act);
 
-(3) An election relating to the chain deficit rules under section 952(c)(1)(C) of the Code (section 1012(i)(25) of the Act); 
+(3) An election relating to the chain deficit rules under section 952(c)(1)(C) of the Code (section 1012(i)(25) of the Act);
 
-(4) An election relating to the definition of a passive foreign investment company in section 1296 of the Code (section 1012(p)(27) of the Act); 
+(4) An election relating to the definition of a passive foreign investment company in section 1296 of the Code (section 1012(p)(27) of the Act);
 
-(5) An election by a shareholder of a qualified electing fund under section 1291(d)(2)(B) of the Code (section 1012(p)(28) of the Act); 
+(5) An election by a shareholder of a qualified electing fund under section 1291(d)(2)(B) of the Code (section 1012(p)(28) of the Act);
 
-(6) An election to be treated as a qualified electing fund under section 1295 of the Code (section 6127 of the Act); 
+(6) An election to be treated as a qualified electing fund under section 1295 of the Code (section 6127 of the Act);
 
-(7) An election relating to treatment of an insurance branch as a separate corporation under section 964(d) of the Code (section 6129 of the Act); 
+(7) An election relating to treatment of an insurance branch as a separate corporation under section 964(d) of the Code (section 6129 of the Act);
 
-(8) An election relating to certain regulated futures contracts and nonequity options under section 988(c)(1)(D) of the Code (section 6130(b) of the Act); 
+(8) An election relating to certain regulated futures contracts and nonequity options under section 988(c)(1)(D) of the Code (section 6130(b) of the Act);
 
-(9) An election relating to certain qualified funds under section 988(c)(1)(E) of the Code (section 6130(b) of the Act); 
+(9) An election relating to certain qualified funds under section 988(c)(1)(E) of the Code (section 6130(b) of the Act);
 
-(10) An election under section 952(c)(1)(B) of the Code to apply section 953(a) without regard to the same country exception (section 6131(a) of the Act); 
+(10) An election under section 952(c)(1)(B) of the Code to apply section 953(a) without regard to the same country exception (section 6131(a) of the Act);
 
-(11) An election relating to treatment of a foreign insurance company as a domestic corporation under section 953(d) of the Code (section 6135 of the Act). 
+(11) An election relating to treatment of a foreign insurance company as a domestic corporation under section 953(d) of the Code (section 6135 of the Act).
 
 Guidance concerning the elections described in this paragraph (j) will generally be provided in regulations to be issued under the relevant Code sections. With respect to certain elections described in this paragraph (j), preliminary guidance has been published. See Notice 88-125, 1988-52 I.R.B. 4, for guidance with respect to the election described in paragraph (j)(6) of this section, relating to the qualified electing fund election. See Notice 88-124, 1988-51 I.R.B. 6, for guidance with respect to the elections described in paragraph (j) (8) and (9) of this section, relating to section 988(c)(1) (D) and (E) of the Code.
 
-(k) *Additional information required.* Later regulations or revenue procedures issued under provisions of the Code or Act covered by this section may require the furnishing of information in addition to that which was furnished with the statement of election described in this section. In that event, the later regulations or revenue procedures will provide guidance with respect to the furnishing of additional information. 
+(k) *Additional information required.* Later regulations or revenue procedures issued under provisions of the Code or Act covered by this section may require the furnishing of information in addition to that which was furnished with the statement of election described in this section. In that event, the later regulations or revenue procedures will provide guidance with respect to the furnishing of additional information.
 
 \[T.D. 8267, 54 FR 38980, Sept. 22, 1989; 54 FR 41243, 41364, Oct. 6, 1989. Redesignated and amended by T.D. 8435, 57 FR 43895, 43896, Sept. 23, 1992; 57 FR 47373, Oct. 15, 1992\]

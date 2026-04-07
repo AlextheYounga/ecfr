@@ -1,12 +1,12 @@
 ##### § 301.6316-3 Allocation of tax attributable to foreign currency.
 
-(a) *Adjusted gross income ratio.* The portion of the tax which is attributable to amounts received in nonconvertible foreign currency shall, for purposes of applying § 301.6316-1 to the currency of each foreign country, be the amount by which: 
+(a) *Adjusted gross income ratio.* The portion of the tax which is attributable to amounts received in nonconvertible foreign currency shall, for purposes of applying § 301.6316-1 to the currency of each foreign country, be the amount by which:
 
-(1) The amount which bears the same ratio to the entire tax for the taxable year as (i) the taxpayer's adjusted gross income received in that currency bears to (ii) the adjusted gross income determined under section 62 by taking into account the entire gross income and all deductions allowable under that section without distinction as to amounts received in foreign currency, exceeds 
+(1) The amount which bears the same ratio to the entire tax for the taxable year as (i) the taxpayer's adjusted gross income received in that currency bears to (ii) the adjusted gross income determined under section 62 by taking into account the entire gross income and all deductions allowable under that section without distinction as to amounts received in foreign currency, exceeds
 
-(2) The total of the allowable credits against tax, and payments on account of tax, which are properly allocable to the amount of that currency included in gross income. 
+(2) The total of the allowable credits against tax, and payments on account of tax, which are properly allocable to the amount of that currency included in gross income.
 
-(b) *Example.* (1) For the calendar year 1955 Mr. Jones and his wife filed a joint return on which the adjusted gross income is as follows, after amounts received in foreign currency had been properly translated into United States dollars for tax computation purposes: 
+(b) *Example.* (1) For the calendar year 1955 Mr. Jones and his wife filed a joint return on which the adjusted gross income is as follows, after amounts received in foreign currency had been properly translated into United States dollars for tax computation purposes:
 
 | Fulbright grant received by Mr. Jones in nonconvertible foreign currency | $8,000 |
 | Dividends received by Mr. Jones entitled to dividends-received credit    | 500    |
@@ -14,7 +14,7 @@
 | Net profit from business carried on by Mrs. Jones                        | 2,500  |
 | Total adjusted gross income                                              | 14,000 |
 
-(2) The following amounts are allowable as properly deductible from adjusted gross income, no determination being made as to whether or not any part of them is properly allocable to the Fulbright grant: 
+(2) The following amounts are allowable as properly deductible from adjusted gross income, no determination being made as to whether or not any part of them is properly allocable to the Fulbright grant:
 
 | Deduction for personal exemptions | $3,000 |
 | Charitable contributions          | 500    |
@@ -22,7 +22,7 @@
 | Taxes                             | 300    |
 | Total allowable deductions        | 4,200  |
 
-(3) For the taxable year the following amounts are allowable as credits against the tax, or as payments on account of the tax: 
+(3) For the taxable year the following amounts are allowable as credits against the tax, or as payments on account of the tax:
 
 | Foreign tax credit for foreign taxes paid on Fulbright grant                     | $300.00  |          |
 | Dividends-received credit                                                        | 20.00    |          |
@@ -32,7 +32,7 @@
 | Foreign currency                                                                 | 893.88   | 1,320.20 |
 | Total allowable credits and payments                                             | 1,945.00 |          |
 
-(4) The portion of the tax which is attributable to amounts received in nonconvertible foreign currency is $33.49, determined as follows: 
+(4) The portion of the tax which is attributable to amounts received in nonconvertible foreign currency is $33.49, determined as follows:
 
 | Adjusted gross income                                                                                                                   | $14,000.00 |          |
 | Less: Allowable deductions                                                                                                              | 4,200.00   |          |
