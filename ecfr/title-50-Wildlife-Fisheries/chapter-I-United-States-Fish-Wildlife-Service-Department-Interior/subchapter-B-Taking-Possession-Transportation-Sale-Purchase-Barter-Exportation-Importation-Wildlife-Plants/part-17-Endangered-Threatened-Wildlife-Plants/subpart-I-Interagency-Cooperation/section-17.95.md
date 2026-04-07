@@ -1152,7 +1152,13 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.020.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+![](/graphics/ec01jn91.020.gif)Gray Wolf (Canis Lupus)
+
+*Michigan.* Isle Royale National Park.
+
+*Minnesota.* Areas of land, water, and airspace in Beltrami, Cook, Itasca, Koochiching, Lake, Lake of the Woods, Roseau, and St. Louis Counties, with boundaries (4th and 5th Principal meridians) identical to those of zones 1, 2, and 3, as delineated in 50 CFR 17.40(d)(l).
+
+Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (b) *Birds.*
 
