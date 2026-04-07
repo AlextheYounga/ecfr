@@ -14,7 +14,7 @@ This section applies to the marine events listed in the Table to § 100.501. The
 
 (b) *Marine event patrol.* The Coast Guard will assign a marine event patrol, as described in § 100.40, to each regulated event listed in the table. Additionally, a PATCOM will be assigned to oversee the patrol. The marine event patrol and PATCOM may be contacted on VHF-FM Channel 16. The PATCOM may terminate the event, or the operation of any vessel participating in the marine event, at any time if deemed necessary for the protection of life or property. Only designated marine event participants and their vessels and official patrol vessels are authorized to enter the regulated area.
 
-(c) *Special local regulations.* (1) *Controls on vessel movement.* The PATCOM or designated marine event patrol may forbid and control the movement of all vessels in the regulated area(s). When hailed or signaled by an official patrol vessel, a vessel in these areas shall immediately comply with the directions given. Failure to do so may result in expulsion from the area, citation for failure to comply, or both.
+(c) *Special local regulations* - (1) *Controls on vessel movement.* The PATCOM or designated marine event patrol may forbid and control the movement of all vessels in the regulated area(s). When hailed or signaled by an official patrol vessel, a vessel in these areas shall immediately comply with the directions given. Failure to do so may result in expulsion from the area, citation for failure to comply, or both.
 
 (2) *Directions, instructions, and minimum speed necessary.* The operator of any vessel in the regulated area shall:
 

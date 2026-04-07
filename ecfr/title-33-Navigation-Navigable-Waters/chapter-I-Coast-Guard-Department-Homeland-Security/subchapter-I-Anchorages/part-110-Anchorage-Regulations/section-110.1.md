@@ -2,7 +2,7 @@
 
 (a) The areas described in subpart A of this part are designated as special anchorage areas for the purposes of rule 30 (33 CFR 83.30) and rule 35 (33 CFR 83.35) of the Inland Navigation Rules, 33 CFR Chapter I, Subchapter E. Vessels of less than 20 meters in length; and barges, canal boats, scows, or other nondescript craft, are not required to sound signals required by rule 35 of the Inland Navigation Rules. Vessels of less than 20 meters are not required to exhibit anchor lights or shapes required by rule 30 of the Inland Navigation Rules.
 
-(b) The anchorage grounds for vessels described in Subpart B of this part are established, and the rules and regulations in relation thereto adopted, pursuant to the authority contained in section 7 of the act of March 4, 1915, as amended (38 Stat. 1053; 33 U.S.C. 471).
+(b) The anchorage grounds for vessels described in subpart B of this part are established, and the rules and regulations in relation thereto adopted, pursuant to the authority contained in section 7 of the act of March 4, 1915, as amended (38 Stat. 1053; 33 U.S.C. 471).
 
 (c) All bearings in the part are referred to true meridian.
 
