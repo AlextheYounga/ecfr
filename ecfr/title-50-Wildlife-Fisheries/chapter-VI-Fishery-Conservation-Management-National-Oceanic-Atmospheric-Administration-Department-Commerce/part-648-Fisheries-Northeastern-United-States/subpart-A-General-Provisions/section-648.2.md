@@ -150,9 +150,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 (3) For the NE multispecies, monkfish and skate fisheries, from May 1 through April 30 of the following year.
 
-(4) For the golden tilefish fishery, from November 1 through October 31 of the following year.
-
-(5) For all other fisheries in this part, from January 1 through December 31.
+(4) For all other fisheries in this part, from January 1 through December 31.
 
 *Fixed gear,* for the purposes of the Atlantic herring fishery, means weirs or stop seines.
 
