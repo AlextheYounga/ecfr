@@ -1,32 +1,32 @@
 ##### § 28.120 Survival craft.
 
-(a) Except as provided in paragraphs (b) through (h) of this section and 28.305, each vessel must carry the survival craft specified in table 28.120(a), table 28.120(b), or table 28.120(c), as appropriate for the vessel, in an aggregate capacity to accommodate the total number of individuals on board. 
+(a) Except as provided in paragraphs (b) through (h) of this section and 28.305, each vessel must carry the survival craft specified in table 28.120(a), table 28.120(b), or table 28.120(c), as appropriate for the vessel, in an aggregate capacity to accommodate the total number of individuals on board.
 
-(b) The requirements of this section do not apply to vessels less than 10.97 meters (36 feet) in length with 3 or fewer individuals on board which operate within 12 miles of the coastline. 
+(b) The requirements of this section do not apply to vessels less than 10.97 meters (36 feet) in length with 3 or fewer individuals on board which operate within 12 miles of the coastline.
 
-(c) A buoyant apparatus may be substituted instead of the requirements in this section for vessels 10.97 meters (36 feet) or more in length with 3 or fewer individuals on board which operate within 12 miles of the coastline. 
+(c) A buoyant apparatus may be substituted instead of the requirements in this section for vessels 10.97 meters (36 feet) or more in length with 3 or fewer individuals on board which operate within 12 miles of the coastline.
 
-(d) Each survival craft installed on board a vessel before September 15, 1991, may continue to be used to meet the requirements of this section provided the survival craft is— 
+(d) Each survival craft installed on board a vessel before September 15, 1991, may continue to be used to meet the requirements of this section provided the survival craft is—
 
-(1) Of the same type as required in tables 28.120(a), 28.120(b), or 28.120(c), as appropriate for the vessel type; and 
+(1) Of the same type as required in tables 28.120(a), 28.120(b), or 28.120(c), as appropriate for the vessel type; and
 
-(2) Maintained in good and serviceable condition. 
+(2) Maintained in good and serviceable condition.
 
-(e) Each inflatable liferaft installed on board a vessel before September 15, 1991, may continue to be used to meet the requirements for an approved inflatable liferaft, provided the existing liferaft is— 
+(e) Each inflatable liferaft installed on board a vessel before September 15, 1991, may continue to be used to meet the requirements for an approved inflatable liferaft, provided the existing liferaft is—
 
-(1) Maintained in good and serviceable condition as required by table 28.140; and 
+(1) Maintained in good and serviceable condition as required by table 28.140; and
 
-(2) Equipped with the equipment pack required by tables 28.120(a), 28.120(b), or 28.120(c), as appropriate for the vessel type. Where no equipment pack is specified in tables 28.120(a), 28.120(b), or 28.120(c), a coastal service pack is the minimum required. 
+(2) Equipped with the equipment pack required by tables 28.120(a), 28.120(b), or 28.120(c), as appropriate for the vessel type. Where no equipment pack is specified in tables 28.120(a), 28.120(b), or 28.120(c), a coastal service pack is the minimum required.
 
-(f) A lifeboat may be substituted for any survival craft required by this section, provided it is arranged and equipped in accordance with part 199 of this chapter. 
+(f) A lifeboat may be substituted for any survival craft required by this section, provided it is arranged and equipped in accordance with part 199 of this chapter.
 
-(g) The capacity of an auxiliary craft carried on board a vessel that is integral to and necessary for normal fishing operations will satisfy the requirements of this section for survival craft, except for an inflatable liferaft, provided the craft is readily accessible during an emergency and is capable of safely holding all individuals on board the vessel. If the auxiliary craft is equipped with a Coast Guard required capacity plate, the boat must not be loaded so as to exceed the rated capacity. 
+(g) The capacity of an auxiliary craft carried on board a vessel that is integral to and necessary for normal fishing operations will satisfy the requirements of this section for survival craft, except for an inflatable liferaft, provided the craft is readily accessible during an emergency and is capable of safely holding all individuals on board the vessel. If the auxiliary craft is equipped with a Coast Guard required capacity plate, the boat must not be loaded so as to exceed the rated capacity.
 
-(h) A vessel less than 10.97 meters (36 feet) in length that meets the flotation provisions of 33 CFR part 183 is exempt from the requirement for survival craft in paragraph (a) of this section for operation on— 
+(h) A vessel less than 10.97 meters (36 feet) in length that meets the flotation provisions of 33 CFR part 183 is exempt from the requirement for survival craft in paragraph (a) of this section for operation on—
 
-(1) Any waters within 12 miles of the coastline. 
+(1) Any waters within 12 miles of the coastline.
 
-(2) Rivers. 
+(2) Rivers.
 
 Table 28.120(a)—Survival Craft for Documented Vessels
 | Area                                                                                                                                                                                                                                                                                                                                                                               | Vessel type                                | Survival craft required                     |

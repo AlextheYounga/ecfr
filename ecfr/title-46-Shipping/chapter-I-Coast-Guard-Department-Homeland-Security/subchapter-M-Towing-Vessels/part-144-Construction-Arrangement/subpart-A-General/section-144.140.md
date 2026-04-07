@@ -1,6 +1,6 @@
 ##### § 144.140 Qualifications.
 
-Use the following table to determine the individual or entity that may conduct a verification of compliance with design standards required by § 144.135. 
+Use the following table to determine the individual or entity that may conduct a verification of compliance with design standards required by § 144.135.
 
 Table 144.140
 | Verification of compliance with design standards may be performed by—                                                                                            | Provided that—                                                                                                                                                                   |

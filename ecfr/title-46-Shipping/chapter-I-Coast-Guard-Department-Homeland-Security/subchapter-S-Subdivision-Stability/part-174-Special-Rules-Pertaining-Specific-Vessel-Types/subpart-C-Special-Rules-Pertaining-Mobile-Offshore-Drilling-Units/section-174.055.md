@@ -1,20 +1,20 @@
 ##### § 174.055 Calculation of wind heeling moment (Hm).
 
-(a) The wind heeling moment (Hm) of a unit in a given normal operating condition or severe storm condition is the sum of the individual wind heeling moments (H) calculated for each of the exposed surfaces on the unit; *i.e.*, Hm=Σ H. 
+(a) The wind heeling moment (Hm) of a unit in a given normal operating condition or severe storm condition is the sum of the individual wind heeling moments (H) calculated for each of the exposed surfaces on the unit; *i.e.*, Hm=Σ H.
 
-(b) Each wind heeling moment (H) must be calculated using the equation: 
+(b) Each wind heeling moment (H) must be calculated using the equation:
 
 H = k(v) 2(Ch)(Cs)(A)(h) where— (1) H = wind heeling moment for an exposed surface on the unit in foot-pounds (kilogram-meters); (2) k = 0.00338 lb./(ft. 2-knots 2) (0.0623 (kg-sec 2)/m 4); (3) v = wind velocity of— (i) 70 knots (36 meters per second) for normal operating conditions. (ii) 100 knots (51.5 meters per second) for severe storm conditions. (iii) 50 knots (25.8 meters per second) for damage conditions. (4) A = projected area in square feet (square meters) of an exposed surface on the unit; (5) Ch = height coefficient for “A” from Table 174.055(a); (6) Cs = shape coefficient for “A” from Table 174.055(b); and (7) h = the vertical distance in feet (meters) from the center of lateral resistance of the underwater hull to the center of wind pressure on “A”.
 
-(c) When calculating “A” in the equation described in paragraph (b) of this section— 
+(c) When calculating “A” in the equation described in paragraph (b) of this section—
 
-(1) The projected area of each column or leg; if the unit has columns or legs, must not include shielding allowances; 
+(1) The projected area of each column or leg; if the unit has columns or legs, must not include shielding allowances;
 
-(2) Each area exposed as a result of heel must be included; 
+(2) Each area exposed as a result of heel must be included;
 
-(3) The projected area of a cluster of deck houses may be used instead of the projected area of each individual deck house in the cluster; and 
+(3) The projected area of a cluster of deck houses may be used instead of the projected area of each individual deck house in the cluster; and
 
-(4) The projected area of open truss work may be calculated by taking 30% of the projected areas of both the front and back sides of the open truss work rather than by determining the projected area of each structural member of the truss work. 
+(4) The projected area of open truss work may be calculated by taking 30% of the projected areas of both the front and back sides of the open truss work rather than by determining the projected area of each structural member of the truss work.
 
 Table 174.055(a)—Ch Values
 | Feet                                                                                                                                                                                                                                                                                   | Meters | Ch.       |

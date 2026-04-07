@@ -1,8 +1,8 @@
 ##### § 69.29 OMB control numbers assigned under the Paperwork Reduction Act.
 
-(a) *Purpose.* This section collects and displays the control numbers assigned to information collection and record keeping requirements in this part by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 *et seq.*). The Coast Guard intends that this part comply with 44 U.S.C. 3507(f), which requires that agencies display the current control number assigned by the Director of OMB for each approved agency information collection requirement. 
+(a) *Purpose.* This section collects and displays the control numbers assigned to information collection and record keeping requirements in this part by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 *et seq.*). The Coast Guard intends that this part comply with 44 U.S.C. 3507(f), which requires that agencies display the current control number assigned by the Director of OMB for each approved agency information collection requirement.
 
-(b) *Display*— 
+(b) *Display*—
 
 | Section of 46 CFR part 69 | Currently assigned OMB control No. |
 | ------------------------- | ---------------------------------- |

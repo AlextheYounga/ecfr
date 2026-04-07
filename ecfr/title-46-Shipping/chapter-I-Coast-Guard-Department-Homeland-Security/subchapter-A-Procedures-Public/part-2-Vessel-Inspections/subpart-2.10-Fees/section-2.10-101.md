@@ -1,14 +1,14 @@
 ##### § 2.10-101 Annual vessel inspection fee.
 
-(a)(1) Unless otherwise provided by this subpart, each vessel required to have a Certificate of Inspection is subject to the annual vessel inspection fee listed in table 2.10-101 for its vessel category. 
+(a)(1) Unless otherwise provided by this subpart, each vessel required to have a Certificate of Inspection is subject to the annual vessel inspection fee listed in table 2.10-101 for its vessel category.
 
-(2) A vessel certificated for more than one service must pay only the higher of the two applicable fees in table 2.10-101 of this section. 
+(2) A vessel certificated for more than one service must pay only the higher of the two applicable fees in table 2.10-101 of this section.
 
-(b) The vessel owner or operator must pay the annual vessel inspection fee each year on or before the vessel's user fee anniversary date, unless the fee has been prepaid under § 2.10-105 of this subpart. 
+(b) The vessel owner or operator must pay the annual vessel inspection fee each year on or before the vessel's user fee anniversary date, unless the fee has been prepaid under § 2.10-105 of this subpart.
 
-(c) Payment of the annual vessel inspection fee entitles a vessel to all inspection services related to compliance with its Certificate of Inspection, including but not limited to the inspection for renewal of the Certificate of Inspection, reinspections (annual and periodic inspections), hull (drydock) inspections, deficiency inspections, damage surveys, repair and modification inspections, change in vessel service inspections, permit to proceed inspections, drydock extension inspections, and all inspections required for the issuance of international certificates. 
+(c) Payment of the annual vessel inspection fee entitles a vessel to all inspection services related to compliance with its Certificate of Inspection, including but not limited to the inspection for renewal of the Certificate of Inspection, reinspections (annual and periodic inspections), hull (drydock) inspections, deficiency inspections, damage surveys, repair and modification inspections, change in vessel service inspections, permit to proceed inspections, drydock extension inspections, and all inspections required for the issuance of international certificates.
 
-(d) Entitlement to inspection services for the current year remains with the vessel if it is sold. The entitlement to inspection services may not be transferred to any other vessel. 
+(d) Entitlement to inspection services for the current year remains with the vessel if it is sold. The entitlement to inspection services may not be transferred to any other vessel.
 
 Table 2.10-101—Annual Vessel Inspection Fees for U.S. and Foreign Vessels Requiring a Certificate of Inspection
 | Any inspected vessel not listed in this table                                                                                                                                                                                                     | $1,030 |

@@ -1,6 +1,6 @@
 ##### § 169.567 Portable fire extinguishers.
 
-(a) The minimum number of portable fire extinguishers required on each vessel is determined by the Officer in Charge, Marine Inspection, in accordance with table 1 to § 169.567(a) and other provisions of this subpart. 
+(a) The minimum number of portable fire extinguishers required on each vessel is determined by the Officer in Charge, Marine Inspection, in accordance with table 1 to § 169.567(a) and other provisions of this subpart.
 
 Table 1 to § 169.567(a)—Required Portable Fire Extinguishers
 | Space                                                         | Portable fire extinguishers |
@@ -12,14 +12,14 @@ Table 1 to § 169.567(a)—Required Portable Fire Extinguishers
 | Spare Units                                                   | 2-A                         |
 |                                                               | 40-B:C                      |
 
-(b) Table 1 to § 169.567(a) indicates the minimum required classification for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table. 
+(b) Table 1 to § 169.567(a) indicates the minimum required classification for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.
 
-(c) All portable fire extinguishers installed on vessels must be of an approved type. 
+(c) All portable fire extinguishers installed on vessels must be of an approved type.
 
-(d) Portable fire extinguishers must be stowed in a location convenient to the space protected. 
+(d) Portable fire extinguishers must be stowed in a location convenient to the space protected.
 
-(e) Portable fire extinguishers must be installed and located to the satisfaction of the Officer in Charge, Marine Inspection. 
+(e) Portable fire extinguishers must be installed and located to the satisfaction of the Officer in Charge, Marine Inspection.
 
-(f) Portable fire extinguishers which are required to be protected from freezing must not be located where freezing temperatures may be expected. 
+(f) Portable fire extinguishers which are required to be protected from freezing must not be located where freezing temperatures may be expected.
 
 \[CGD 83-005, 51 FR 897, Jan. 9, 1986; 51 FR 3785, Jan. 30, 1986, as amended by USCG-2014-0688, 79 FR 58287, Sept. 29, 2014; USCG-2012-0196, 81 FR 48295, July 22, 2016; USCG-2020-0519, 89 FR 76706, Sept. 18, 2024\]

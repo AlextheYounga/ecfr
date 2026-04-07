@@ -1,26 +1,26 @@
 ##### § 160.048-1 Incorporation by reference.
 
-(a) *Specifications and Standards.* This subpart makes reference to the following documents: 
+(a) *Specifications and Standards.* This subpart makes reference to the following documents:
 
-(1) Military specification: 
+(1) Military specification:
 
 MIL-B-2766—Batt, Fibrous Glass, Lifesaving Equipment.
 
-(2) Federal Specifications: 
+(2) Federal Specifications:
 
 CCC-C-700G—Cloth, Coated, Vinyl, Coated (Artificial Leather). CCC-C-426D—Cloth, Cotton Drill. L-P-375C—Plastic Film, Flexible, Vinyl Chloride.
 
-(3) Federal standard: 
+(3) Federal standard:
 
 No. 751—Stitches, Seams, and Stitchings.
 
-(4) Coast Guard specification: 
+(4) Coast Guard specification:
 
 164.003—Kapok, Processed.
 
-(b) *Plan.* The following plan, of the issue in effect on the date kapok or fibrous glass buoyant cushions are manufactured, form a part of this subpart: 
+(b) *Plan.* The following plan, of the issue in effect on the date kapok or fibrous glass buoyant cushions are manufactured, form a part of this subpart:
 
-(1) Coast Guard Dwg. No. 160.048-1. 
+(1) Coast Guard Dwg. No. 160.048-1.
 
 (c) *Copies on File.* Copies of the specifications and plan referred to in this section shall be kept on file by the manufacturer, together with the approved plans and certificate of approval. The Coast Guard specification and plan may be obtained upon request from Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509, or recognized laboratory. The Federal Specifications and the Federal Standard may be purchased from the Business Service Center, General Services Administration, Washington; DC 20407. The Military Specification may be obtained from the Military Specifications and Standards, Standardization Documents Order Desk, Building 4D, 700 Robbins Avenue, Philadelphia, PA 19111-5094, *https://assist.daps.dla.mil/quicksearch/.*
 

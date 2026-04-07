@@ -1,6 +1,6 @@
 ##### § 38.01-5 Certificate of inspection—TB/ALL.
 
-(a) The certificate of inspection shall be endorsed for the carriage of liquefied flammable gases as follows: 
+(a) The certificate of inspection shall be endorsed for the carriage of liquefied flammable gases as follows:
 
 Inspected and approved for the carriage of liquefied flammable gases (1) at a pressure not to exceed \_\_\_ p.s.i., and (2) at temperatures not less than \_\_ °F.
 

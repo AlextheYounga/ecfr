@@ -1,12 +1,12 @@
 ##### § 193.50-10 Location.
 
-(a) Approved portable fire extinguishers and semi-portable fire extinguishing systems must be installed in accordance with Table 193.50-10(a) of this section. The location of the equipment must be to the satisfaction of the Officer in Charge, Marine Inspection (OCMI). Nothing in this paragraph must be construed as limiting the OCMI from requiring such additional equipment as he or she deems necessary for the proper protection of the vessel. 
+(a) Approved portable fire extinguishers and semi-portable fire extinguishing systems must be installed in accordance with Table 193.50-10(a) of this section. The location of the equipment must be to the satisfaction of the Officer in Charge, Marine Inspection (OCMI). Nothing in this paragraph must be construed as limiting the OCMI from requiring such additional equipment as he or she deems necessary for the proper protection of the vessel.
 
-(b) Table 193.50-10(a) indicates the minimum required classification for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table. 
+(b) Table 193.50-10(a) indicates the minimum required classification for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.
 
-(c) Semi-portable fire extinguishing systems must be located in the open so as to be readily seen. 
+(c) Semi-portable fire extinguishing systems must be located in the open so as to be readily seen.
 
-(d) If portable fire extinguishers are not located in the open or behind glass so that they may be readily seen, they may be placed in enclosures together with the firehose, provided such enclosures are marked as required by § 196.37-15 of this subchapter. 
+(d) If portable fire extinguishers are not located in the open or behind glass so that they may be readily seen, they may be placed in enclosures together with the firehose, provided such enclosures are marked as required by § 196.37-15 of this subchapter.
 
 Table 193.50-10(a)—Carriage of Portable Fire Extinguisher and Semi-Portable Fire Extinguishing Systems
 | Space                                                                                                                                                                                             | Minimum required rating | Quantity and location                                                                                                  |
@@ -52,8 +52,8 @@ Table 193.50-10(a)—Carriage of Portable Fire Extinguisher and Semi-Portable Fi
 | 6 Not required on vessels of fewer than 300 GT if fuel has a flash-point higher than 110 °F.                                                                                                      |                         |                                                                                                                        |
 | 7 Not required on vessels of fewer than 300 GT.                                                                                                                                                   |                         |                                                                                                                        |
 
-(e) Portable fire extinguishers and their stations must be numbered in accordance with § 196.37-15 of this subchapter. 
+(e) Portable fire extinguishers and their stations must be numbered in accordance with § 196.37-15 of this subchapter.
 
-(f) Portable or semi-portable extinguishers, which are required on their nameplates to be protected from freezing, must not be located where freezing temperatures may be expected. 
+(f) Portable or semi-portable extinguishers, which are required on their nameplates to be protected from freezing, must not be located where freezing temperatures may be expected.
 
 \[USCG-2012-0196, 81 FR 48302, July 22, 2016\]

@@ -1,14 +1,14 @@
 ##### § 111.05-23 Location of ground indicators.
 
-Ground indicators must: 
+Ground indicators must:
 
-(a) Be at the vessel's ship's service generator distribution switchboard for the normal power, normal lighting, and emergency lighting systems; 
+(a) Be at the vessel's ship's service generator distribution switchboard for the normal power, normal lighting, and emergency lighting systems;
 
-(b) Be at the propulsion switchboard for propulsion systems; and 
+(b) Be at the propulsion switchboard for propulsion systems; and
 
-(c) Be readily accessible. 
+(c) Be readily accessible.
 
-(d) Be provided (at the distribution switchboard or at another location, such as a centralized monitoring position for the circuit affected) for each feeder circuit that is isolated from the main source by a transformer or other device. 
+(d) Be provided (at the distribution switchboard or at another location, such as a centralized monitoring position for the circuit affected) for each feeder circuit that is isolated from the main source by a transformer or other device.
 
 Note to paragraph (d):
 

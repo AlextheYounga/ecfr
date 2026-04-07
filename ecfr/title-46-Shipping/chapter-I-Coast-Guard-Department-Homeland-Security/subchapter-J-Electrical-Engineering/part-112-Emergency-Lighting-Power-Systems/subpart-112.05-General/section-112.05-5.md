@@ -1,6 +1,6 @@
 ##### § 112.05-5 Emergency power source.
 
-(a) The emergency power source must meet Table 1 to 112.05-5 and have the capacity to supply all loads, at a unity (1.0) service factor, that are simultaneously connected to it, except a load on a bus-tie to the main switchboard or non-required loads that are connected in accordance with § 112.05-1(c). 
+(a) The emergency power source must meet Table 1 to 112.05-5 and have the capacity to supply all loads, at a unity (1.0) service factor, that are simultaneously connected to it, except a load on a bus-tie to the main switchboard or non-required loads that are connected in accordance with § 112.05-1(c).
 
 Table 1 to § 112.05-5(a)
 | Size of vessel and service                                                                                                                                                              | Type of emergency power source or lighting                                                                                                                                                        | Period of operation and minimum capacity of emergency power |
@@ -16,20 +16,20 @@ Table 1 to § 112.05-5(a)
 | 3 The emergency lighting requirements of § 112.15-1 (b), (c), (f), and (g) must be met.                                                                                                 |                                                                                                                                                                                                   |                                                             |
 | 4 Requirements of Subpart 112.39 must be met by the relay-controlled, battery-operated lanterns.                                                                                        |                                                                                                                                                                                                   |                                                             |
 
-(b) The emergency power source must be independent of the ship's service lighting and powerplant and propulsion plant, except for the compressed air starting means allowed in § 112.50-7(c)(3)(i). A stop control for an emergency generator must be only in the space that has the emergency generator, except a remote mechanical reach rod is permitted for the fuel oil shut-off valve to an independent fuel oil tank located in the space. 
+(b) The emergency power source must be independent of the ship's service lighting and powerplant and propulsion plant, except for the compressed air starting means allowed in § 112.50-7(c)(3)(i). A stop control for an emergency generator must be only in the space that has the emergency generator, except a remote mechanical reach rod is permitted for the fuel oil shut-off valve to an independent fuel oil tank located in the space.
 
-(c) The complete emergency installation must function at full rated power when the vessel is upright or inclined to the maximum angle of heel that results from the assumed damage defined in 33 CFR part 155 or in subchapter S of this chapter for the specific vessel type or 22.5 degrees, whichever is greater; when the trim of the ship is 10 degrees, either in the fore or aft direction, or is in any combination of angles within those limits. 
+(c) The complete emergency installation must function at full rated power when the vessel is upright or inclined to the maximum angle of heel that results from the assumed damage defined in 33 CFR part 155 or in subchapter S of this chapter for the specific vessel type or 22.5 degrees, whichever is greater; when the trim of the ship is 10 degrees, either in the fore or aft direction, or is in any combination of angles within those limits.
 
-(d) The emergency power source, its associated transforming equipment, and the emergency switchboard must be located aft of the collision bulkhead, outside of the machinery casing, and above the uppermost continuous deck. Each compartment containing this equipment must be readily accessible from the open deck and must not contain machinery not associated with, or equipment not in support of, the normal operation of the emergency power source. Equipment in support of the normal operation of the emergency power source includes, but is not limited to, ventilation fans, CO2 bottles, space heaters, and internal communication devices, such as sound powered phones. 
+(d) The emergency power source, its associated transforming equipment, and the emergency switchboard must be located aft of the collision bulkhead, outside of the machinery casing, and above the uppermost continuous deck. Each compartment containing this equipment must be readily accessible from the open deck and must not contain machinery not associated with, or equipment not in support of, the normal operation of the emergency power source. Equipment in support of the normal operation of the emergency power source includes, but is not limited to, ventilation fans, CO2 bottles, space heaters, and internal communication devices, such as sound powered phones.
 
-(e) No compartment that has an emergency power source or its vital components may adjoin a Category A machinery space or those spaces containing the main source of electrical power and its vital components. 
+(e) No compartment that has an emergency power source or its vital components may adjoin a Category A machinery space or those spaces containing the main source of electrical power and its vital components.
 
-(f) Except for a cable for connecting equipment in the engineroom or boilerroom, no cable supplied from the emergency switchboard may penetrate the boundaries of the engineroom, boilerroom, uptakes, or casings of these spaces. These cables must be kept clear of the bulkheads and decks forming these boundaries. No emergency circuit in an engineroom or a boilerroom may supply equipment in any other space. 
+(f) Except for a cable for connecting equipment in the engineroom or boilerroom, no cable supplied from the emergency switchboard may penetrate the boundaries of the engineroom, boilerroom, uptakes, or casings of these spaces. These cables must be kept clear of the bulkheads and decks forming these boundaries. No emergency circuit in an engineroom or a boilerroom may supply equipment in any other space.
 
-(g) The emergency switchboard must be as near as practicable to the emergency power source but not in the same space as a battery emergency power source. 
+(g) The emergency switchboard must be as near as practicable to the emergency power source but not in the same space as a battery emergency power source.
 
-(h) If the emergency power source is a generator, the emergency switchboard must be in the same space as the emergency power source. 
+(h) If the emergency power source is a generator, the emergency switchboard must be in the same space as the emergency power source.
 
-(i) The prime mover of an emergency generator must be either a diesel engine or a gas turbine. 
+(i) The prime mover of an emergency generator must be either a diesel engine or a gas turbine.
 
 \[CGD 74-125A, 47 FR 15267, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 28286, June 4, 1996; 62 FR 23910, May 1, 1997; USCG-2020-0075, 88 FR 16368, Mar. 16, 2023\]

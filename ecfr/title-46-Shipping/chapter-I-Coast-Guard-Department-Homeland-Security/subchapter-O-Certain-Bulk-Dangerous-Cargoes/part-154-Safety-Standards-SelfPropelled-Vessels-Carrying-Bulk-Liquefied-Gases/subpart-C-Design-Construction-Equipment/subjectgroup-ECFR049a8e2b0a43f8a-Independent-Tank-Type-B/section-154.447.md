@@ -1,6 +1,6 @@
 ##### § 154.447 Allowable stress.
 
-(a) An independent tank type B designed from bodies of revolution must have allowable stresses 3 determined by the following formulae: 
+(a) An independent tank type B designed from bodies of revolution must have allowable stresses 3 determined by the following formulae:
 
 3 See Appendix B for stress analyses definitions.
 
@@ -19,6 +19,6 @@ Table 2—Values for Stress Factors
 | C               | 3.0                                            | 3.0                     | 3.0                   |
 | D               | 1.5                                            | 1.5                     | 1.5                   |
 
-(b) An independent tank type B designed from plane surfaces must have allowable stresses specially approved by the Commandant (CG-ENG). 
+(b) An independent tank type B designed from plane surfaces must have allowable stresses specially approved by the Commandant (CG-ENG).
 
 \[CGD 74-289, 44 FR 26009, May 3, 1979, as amended by CGD 82-063b, 48 FR 4782, Feb. 3, 1983\]

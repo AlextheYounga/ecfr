@@ -1,10 +1,10 @@
 ##### § 172.180 Extent of damage.
 
-For the purpose of § 172.170— 
+For the purpose of § 172.170—
 
-(a) Design calculations must include both side and bottom damage, applied separately; and 
+(a) Design calculations must include both side and bottom damage, applied separately; and
 
-(b) Damage must consist of the penetrations having the dimensions given in Table 172.180 except that, if the most disabling penetrations would be less than the penetrations given in Table 172.180, the smaller penetration must be assumed. 
+(b) Damage must consist of the penetrations having the dimensions given in Table 172.180 except that, if the most disabling penetrations would be less than the penetrations given in Table 172.180, the smaller penetration must be assumed.
 
 Table 172.180—Extent of Damage
 | **Collision Penetration**                                                                                                                                           |                                                                   |

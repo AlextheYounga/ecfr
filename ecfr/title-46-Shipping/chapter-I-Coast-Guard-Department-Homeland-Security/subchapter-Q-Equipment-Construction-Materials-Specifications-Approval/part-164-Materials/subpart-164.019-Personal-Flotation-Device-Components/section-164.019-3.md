@@ -1,20 +1,20 @@
 ##### § 164.019-3 Definitions.
 
-*Acceptance* means certification by the Coast Guard that a component is suitable for use in the manufacture of Coast Guard-approved PFDs. 
+*Acceptance* means certification by the Coast Guard that a component is suitable for use in the manufacture of Coast Guard-approved PFDs.
 
-*Commandant* means the Chief of the Lifesaving and Fire Safety Division, Office of Engineering and Design Standards, U.S. Coast Guard. Address: Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509; telephone 202-372-1392. 
+*Commandant* means the Chief of the Lifesaving and Fire Safety Division, Office of Engineering and Design Standards, U.S. Coast Guard. Address: Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509; telephone 202-372-1392.
 
-*Component manufacturer* means either a component manufacturer or supplier seeking acceptance of a component, or a component manufacturer or supplier who has obtained acceptance of a component. 
+*Component manufacturer* means either a component manufacturer or supplier seeking acceptance of a component, or a component manufacturer or supplier who has obtained acceptance of a component.
 
-*Inspector* means a Coast Guard marine inspector, authorized representative of the Coast Guard, or a recognized laboratory representative. 
+*Inspector* means a Coast Guard marine inspector, authorized representative of the Coast Guard, or a recognized laboratory representative.
 
-*Non-standard component* means a PFD component which is equivalent in performance to a standard component. 
+*Non-standard component* means a PFD component which is equivalent in performance to a standard component.
 
-*PFD Type* means the performance type designation as indicated in 33 CFR part 175 and this subchapter. 
+*PFD Type* means the performance type designation as indicated in 33 CFR part 175 and this subchapter.
 
-*Standard component* means a PFD component which complies in all respects with the material, construction, and performance requirements of a subpart of this part or part 160 of this chapter. 
+*Standard component* means a PFD component which complies in all respects with the material, construction, and performance requirements of a subpart of this part or part 160 of this chapter.
 
-*Use Code* means an alphanumeric code assigned by the Commandant (CG-ENG-4) to a PFD component to designate the PFD Type(s) in which it may be used. Assigned Use Codes are listed in table 164.019-3. 
+*Use Code* means an alphanumeric code assigned by the Commandant (CG-ENG-4) to a PFD component to designate the PFD Type(s) in which it may be used. Assigned Use Codes are listed in table 164.019-3.
 
 Table 164.019-3
 | Use code | PFD type acceptable for use                       |

@@ -1,28 +1,28 @@
 ##### § 62.35-50 Tabulated monitoring and safety control requirements for specific systems.
 
-The minimum instrumentation, alarms, and safety controls required for specific types of systems are listed in table 1 to § 62.35-50. The ABS Marine Vessel Rules (incorporated by reference; see § 62.05-2) required for engineering systems are also listed in table 1 to § 62.35-50. 
+The minimum instrumentation, alarms, and safety controls required for specific types of systems are listed in table 1 to § 62.35-50. The ABS Marine Vessel Rules (incorporated by reference; see § 62.05-2) required for engineering systems are also listed in table 1 to § 62.35-50.
 
-(a) Safety limit controls must be provided in navigating bridge primary propulsion control systems. See § 62.35-5(c). 
+(a) Safety limit controls must be provided in navigating bridge primary propulsion control systems. See § 62.35-5(c).
 
-(b) Safety trip controls and alarms must be provided for all main boilers, regardless of mode of operation. See § 62.35-20(a). 
+(b) Safety trip controls and alarms must be provided for all main boilers, regardless of mode of operation. See § 62.35-20(a).
 
-(c) Loss of forced lubrication safety trip controls must be provided for main propulsion turbines and main propulsion diesel engines. 
+(c) Loss of forced lubrication safety trip controls must be provided for main propulsion turbines and main propulsion diesel engines.
 
-(d) Override of overspeed and loss of forced lubrication pressure safety trip controls must not be provided for main propulsion or generator steam or gas turbines, or diesel engines. See § 62.35-5(e)(2). 
+(d) Override of overspeed and loss of forced lubrication pressure safety trip controls must not be provided for main propulsion or generator steam or gas turbines, or diesel engines. See § 62.35-5(e)(2).
 
-(e) Transfer interlocks must be provided for main propulsion systems capable of remote and local control. 
+(e) Transfer interlocks must be provided for main propulsion systems capable of remote and local control.
 
-(f) Semiconductor controlled rectifiers must have current limit controls. 
+(f) Semiconductor controlled rectifiers must have current limit controls.
 
-(g) Interlocks must be provided to prevent the starting of engines or turbines while the jacking or turning gear, if installed, is engaged. See § 62.25-5(a). 
+(g) Interlocks must be provided to prevent the starting of engines or turbines while the jacking or turning gear, if installed, is engaged. See § 62.25-5(a).
 
-(h) Main and remote-control stations, including the navigational bridge, must provide visual and audible alarms in the event of a fire in the main machinery space. 
+(h) Main and remote-control stations, including the navigational bridge, must provide visual and audible alarms in the event of a fire in the main machinery space.
 
-(i) Minimally attended and periodically unattended machinery plants must be provided with a personnel alarm that annunciates on the bridge if not acknowledged by the watch engineer. See § 62.50-20(b)(1). 
+(i) Minimally attended and periodically unattended machinery plants must be provided with a personnel alarm that annunciates on the bridge if not acknowledged by the watch engineer. See § 62.50-20(b)(1).
 
-(j) All automatic controls and alarms must be failsafe to the least critical consequence for the particular system. See § 62.30-1. 
+(j) All automatic controls and alarms must be failsafe to the least critical consequence for the particular system. See § 62.30-1.
 
-(k) The operating or tripped status of vital auxiliary boilers must be indicated at the ECC. See part 63 of this subchapter. 
+(k) The operating or tripped status of vital auxiliary boilers must be indicated at the ECC. See part 63 of this subchapter.
 
 Table 1 to § 62.35-50—Minimum System Monitoring and Safety Control Requirements for Specific Systems
 | System                                                    | Service                                                 | Instrumentation                                         | Alarm                                                   | Safety control                                       | See also   paragraph |

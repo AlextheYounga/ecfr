@@ -1,8 +1,8 @@
 ##### § 78.17-10 Loudspeaker system.
 
-(a) Where fitted, the complete loudspeaker system shall be tested at least once every week. This test shall be made by an officer of the vessel. 
+(a) Where fitted, the complete loudspeaker system shall be tested at least once every week. This test shall be made by an officer of the vessel.
 
-(b) The date of the test and the condition of the equipment shall be noted in the official logbook. 
+(b) The date of the test and the condition of the equipment shall be noted in the official logbook.
 
 Cross Reference:
 

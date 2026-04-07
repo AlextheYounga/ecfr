@@ -1,8 +1,8 @@
 ##### § 96.01-3 Incorporation by reference.
 
-(a) Certain materials are incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a). To enforce any edition other than the one listed in paragraph (b) of this section, notice of the change must be published in the Federal Register and the material made available to the public. All approved material is on file at the Office of the Federal Register, Washington, DC 20408, and at the Coast Guard Headquarters. Contact Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509. The material is also available from the address indicated in paragraph (b). 
+(a) Certain materials are incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a). To enforce any edition other than the one listed in paragraph (b) of this section, notice of the change must be published in the Federal Register and the material made available to the public. All approved material is on file at the Office of the Federal Register, Washington, DC 20408, and at the Coast Guard Headquarters. Contact Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509. The material is also available from the address indicated in paragraph (b).
 
-(b) The material approved for incorporation by reference in this part, and the sections affected is: 
+(b) The material approved for incorporation by reference in this part, and the sections affected is:
 
 American Society for Testing and Materials (ASTM) 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959. ASTM F 1014-92, Standard Specification for Flashlights on Vessels—96.35-5Note:
 

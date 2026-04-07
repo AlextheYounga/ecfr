@@ -1,45 +1,45 @@
 ##### § 154.467 Submission of insulation information.
 
-The following insulation information must be submitted for special approval by the Commandant (CG-ENG): 
+The following insulation information must be submitted for special approval by the Commandant (CG-ENG):
 
-(a) Compatibility with the cargo. 
+(a) Compatibility with the cargo.
 
-(b) Solubility in the cargo. 
+(b) Solubility in the cargo.
 
-(c) Absorption of the cargo. 
+(c) Absorption of the cargo.
 
-(d) Shrinkage. 
+(d) Shrinkage.
 
-(e) Aging. 
+(e) Aging.
 
-(f) Closed cell content. 
+(f) Closed cell content.
 
-(g) Density. 
+(g) Density.
 
-(h) Mechanical properties. 
+(h) Mechanical properties.
 
-(i) Thermal expansion. 
+(i) Thermal expansion.
 
-(j) Abrasion. 
+(j) Abrasion.
 
-(k) Cohesion. 
+(k) Cohesion.
 
-(l) Thermal conductivity. 
+(l) Thermal conductivity.
 
-(m) Resistance to vibrations. 
+(m) Resistance to vibrations.
 
-(n) Resistance to fire and flame spread. 
+(n) Resistance to fire and flame spread.
 
-(o) The manufacturing and installation details of the insulation including: 
+(o) The manufacturing and installation details of the insulation including:
 
-(1) Fabrication; 
+(1) Fabrication;
 
-(2) Storage; 
+(2) Storage;
 
-(3) Handling; 
+(3) Handling;
 
-(4) Erection; and 
+(4) Erection; and
 
-(5) Quality control. 
+(5) Quality control.
 
 \[CGD 74-289, 44 FR 26009, May 3, 1979, as amended by CGD 82-063b, 48 FR 4782, Feb. 3, 1983\]

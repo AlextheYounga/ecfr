@@ -1,12 +1,12 @@
 ##### § 67.133 Wrecked vessels.
 
-(a) A vessel owner requesting a determination that the vessel is wrecked within the meaning of 46 U.S.C. 12107 must submit the following to the Director, National Vessel Documentation Center: 
+(a) A vessel owner requesting a determination that the vessel is wrecked within the meaning of 46 U.S.C. 12107 must submit the following to the Director, National Vessel Documentation Center:
 
-(1) Competent and persuasive evidence of the occasion and location of the casualty. Coast Guard situation or investigation reports are acceptable as casualty evidence. Other competent and persuasive evidence may be accepted in the discretion of the Director, National Vessel Documentation Center. 
+(1) Competent and persuasive evidence of the occasion and location of the casualty. Coast Guard situation or investigation reports are acceptable as casualty evidence. Other competent and persuasive evidence may be accepted in the discretion of the Director, National Vessel Documentation Center.
 
-(2) A writing setting forth the physical location of the vessel, containing a guarantee that the requesting party assumes full responsibility for all costs, liabilities, and other expenses that arise in conjunction with the services performed by the board of appraisers, and stating that at the time of documentation the vessel will be owned by a citizen of the United States. 
+(2) A writing setting forth the physical location of the vessel, containing a guarantee that the requesting party assumes full responsibility for all costs, liabilities, and other expenses that arise in conjunction with the services performed by the board of appraisers, and stating that at the time of documentation the vessel will be owned by a citizen of the United States.
 
-(b) In addition to other submissions required by this part, a vessel owner applying for a Certificate of Documentation for a vessel accorded privileges by the Wrecked Vessel Statute 46 U.S.C. 12107 must include a copy of the determination of the Director, National Vessel Documentation Center that the vessel qualifies for documentation under the statute. 
+(b) In addition to other submissions required by this part, a vessel owner applying for a Certificate of Documentation for a vessel accorded privileges by the Wrecked Vessel Statute 46 U.S.C. 12107 must include a copy of the determination of the Director, National Vessel Documentation Center that the vessel qualifies for documentation under the statute.
 
 Note:
 

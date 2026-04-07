@@ -4,12 +4,12 @@
 
 (b) ASTM International, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959, telephone: 610-832-9500, fax: 610-832-9555, *http://www.astm.org.*
 
-(1) ASTM D 323-08, “Standard Test Method for Vapor Pressure of Petroleum Products (Reid Method),” approved December 15, 2008, incorporation by reference approved for § 105.5. 
+(1) ASTM D 323-08, “Standard Test Method for Vapor Pressure of Petroleum Products (Reid Method),” approved December 15, 2008, incorporation by reference approved for § 105.5.
 
-(2) \[Reserved\] 
+(2) \[Reserved\]
 
 (c) UL (formerly Underwriters Laboratories, Inc.), 12 Laboratory Drive, Research Triangle Park, NC 27709-3995, 919-549-1400, *http://www.ul.com.*
 
-(1) UL 19, Standard for Safety—Lined Fire Hose and Hose Assemblies, Twelfth edition, approved November 30, 2001, incorporation by reference approved for § 105.14(d). 
+(1) UL 19, Standard for Safety—Lined Fire Hose and Hose Assemblies, Twelfth edition, approved November 30, 2001, incorporation by reference approved for § 105.14(d).
 
 (2) \[Reserved\]

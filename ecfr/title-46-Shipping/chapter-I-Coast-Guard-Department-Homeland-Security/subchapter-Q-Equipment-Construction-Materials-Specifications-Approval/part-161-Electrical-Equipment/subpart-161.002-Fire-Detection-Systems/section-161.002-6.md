@@ -1,24 +1,24 @@
 ##### § 161.002-6 Testing requirements.
 
-(a) Devices must be tested and listed for fire service by an accepted independent laboratory, as accepted in accordance with § 159.010 of this subchapter, or by a NRTL as set forth in 29 CFR 1910.7. 
+(a) Devices must be tested and listed for fire service by an accepted independent laboratory, as accepted in accordance with § 159.010 of this subchapter, or by a NRTL as set forth in 29 CFR 1910.7.
 
-(b) Each fire detection device must comply with the following standards (incorporated by reference, see § 161.002-1) as appropriate: 
+(b) Each fire detection device must comply with the following standards (incorporated by reference, see § 161.002-1) as appropriate:
 
-(1) Control units—UL 864; 
+(1) Control units—UL 864;
 
-(2) Heat detectors—UL 521; 
+(2) Heat detectors—UL 521;
 
-(3) Smoke detectors—UL 268; 
+(3) Smoke detectors—UL 268;
 
-(4) Flame detectors—ANSI/FM 3260; 
+(4) Flame detectors—ANSI/FM 3260;
 
-(5) Audible alarms—UL 464 or UL 1480; 
+(5) Audible alarms—UL 464 or UL 1480;
 
-(6) Visual alarms—UL 1971; and 
+(6) Visual alarms—UL 1971; and
 
-(7) Manual Signaling Boxes—UL 38. 
+(7) Manual Signaling Boxes—UL 38.
 
-(c) All devices must be tested by an accepted independent laboratory, as defined in § 159.010 of this subchapter, to meet the marine environment testing requirements in Table 161.002-6(c) of this section. The test parameters are found in IEC 60092-504 (incorporated by reference, see § 161.002-1). 
+(c) All devices must be tested by an accepted independent laboratory, as defined in § 159.010 of this subchapter, to meet the marine environment testing requirements in Table 161.002-6(c) of this section. The test parameters are found in IEC 60092-504 (incorporated by reference, see § 161.002-1).
 
 Table 161.002-6(c)—Marine Environmental Testing Requirements
 | IEC 60092-504 Environmental type test                                                               | Category 1 | Category 2 | Category 3 |
@@ -48,6 +48,6 @@ Table 161.002-6(c)—Marine Environmental Testing Requirements
 | 20(b)—Conducted emission (bridge and deck zone)                                                     |            | X          | X          |
 | 1 This test only needs to be completed if the device is in a location with moving mechanical parts. |            |            |            |
 
-(d) All fire detection system control units and remote annunciators must have enclosure protection as outlined in part 5 of IEC 60092-504 (incorporated by reference, see § 161.002-1) if the requirements exceed those of 46 CFR 111.01-9. Otherwise, 46 CFR 111.01-9 must be complied with. 
+(d) All fire detection system control units and remote annunciators must have enclosure protection as outlined in part 5 of IEC 60092-504 (incorporated by reference, see § 161.002-1) if the requirements exceed those of 46 CFR 111.01-9. Otherwise, 46 CFR 111.01-9 must be complied with.
 
 \[USCG-2012-0196, 81 FR 48275, July 22, 2016\]

@@ -1,24 +1,24 @@
 ##### § 62.20-3 Plans for information.
 
-(a) One copy of the following plans must be submitted to the Officer in Charge, Marine Inspection, for use in the evaluation of automated systems provided to replace specific personnel or to reduce overall crew requirements: 
+(a) One copy of the following plans must be submitted to the Officer in Charge, Marine Inspection, for use in the evaluation of automated systems provided to replace specific personnel or to reduce overall crew requirements:
 
-(1) Proposed manning, crew organization and utilization, including routine maintenance, all operational evolutions, and emergencies. 
+(1) Proposed manning, crew organization and utilization, including routine maintenance, all operational evolutions, and emergencies.
 
-(2) A planned maintenance program for all vital systems. 
+(2) A planned maintenance program for all vital systems.
 
-(b) One copy of a qualitative failure analysis must be submitted in accordance with § 50.20-5 of this subchapter for the following: 
+(b) One copy of a qualitative failure analysis must be submitted in accordance with § 50.20-5 of this subchapter for the following:
 
-(1) Propulsion controls. 
+(1) Propulsion controls.
 
-(2) Microprocessor-based system hardware. 
+(2) Microprocessor-based system hardware.
 
-(3) Safety controls. 
+(3) Safety controls.
 
-(4) Automated electric power management. 
+(4) Automated electric power management.
 
-(5) Automation required to be independent that is not physically separate. 
+(5) Automation required to be independent that is not physically separate.
 
-(6) Any other automation that, in the judgment of the Commandant, potentially constitutes a safety hazard to the vessel or personnel in case of failure. 
+(6) Any other automation that, in the judgment of the Commandant, potentially constitutes a safety hazard to the vessel or personnel in case of failure.
 
 Note 1 to paragraph (b):
 

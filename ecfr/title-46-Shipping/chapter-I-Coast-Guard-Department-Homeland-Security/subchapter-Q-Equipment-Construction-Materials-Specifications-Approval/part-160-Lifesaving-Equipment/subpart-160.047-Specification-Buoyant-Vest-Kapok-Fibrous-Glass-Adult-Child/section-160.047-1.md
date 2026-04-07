@@ -1,32 +1,32 @@
 ##### § 160.047-1 Incorporation by reference.
 
-(a) *Specifications and Standards.* This subpart makes reference to the following documents: 
+(a) *Specifications and Standards.* This subpart makes reference to the following documents:
 
-(1) Federal Specification: 
+(1) Federal Specification:
 
 L-P-375C—Plastic Film, Flexible, Vinyl Chloride.
 
-(2) Military specifications: 
+(2) Military specifications:
 
 MIL-W-530—Webbing, Textile, Cotton, General Purpose, Natural or in Colors. MIL-B-2766—Batt, Fibrous Glass, Lifesaving Equipment.
 
-(3) Federal Standards: 
+(3) Federal Standards:
 
 No. 191—Textile Test Methods. 751A—Stitches, Seams, and Stitchings.
 
-(4) Coast Guard specification: 
+(4) Coast Guard specification:
 
 164.003—Kapok, Processed.
 
-(b) *Plans.* The following plans, of the issue in effect on the date buoyant vests are manufactured, form a part of this subpart: 
+(b) *Plans.* The following plans, of the issue in effect on the date buoyant vests are manufactured, form a part of this subpart:
 
 Dwg. No. 160.047-1: Sheet 1, Rev. 2—Cutting Pattern and General Arrangement, Models AK-1, and AF-1. Sheet 2, Rev. 2—Cutting Pattern and General Arrangement, Models CKM-1 and CFM-1. Sheet 3, Rev. 2—Cutting Pattern and General Arrangement, Models CKS-1 and CFS-1. Sheet 4, Rev. 1—Pad Patterns.
 
-(c) *Copies on file.* The manufacturer shall keep a copy of each specification and plan required by this section on file together with the certificate of approval. Plans and specifications may be obtained as follows: 
+(c) *Copies on file.* The manufacturer shall keep a copy of each specification and plan required by this section on file together with the certificate of approval. Plans and specifications may be obtained as follows:
 
-(1) The Coast Guard plans and specifications may be obtained from the Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509 or a recognized laboratory listed in § 160.047-6b. 
+(1) The Coast Guard plans and specifications may be obtained from the Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509 or a recognized laboratory listed in § 160.047-6b.
 
-(2) The Federal Specifications and Standard may be purchased from the Business Service Center, General Services Administration, Washington, DC 20407; 
+(2) The Federal Specifications and Standard may be purchased from the Business Service Center, General Services Administration, Washington, DC 20407;
 
 (3) The military specifications may be obtained from the Military Specifications and Standards, Standardization Documents Order Desk, Building 4D, 700 Robbins Avenue, Philadelphia, PA 19111-5094, *https://assist.daps.dla.mil/quicksearch/.*
 

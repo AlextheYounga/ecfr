@@ -1,10 +1,10 @@
 ##### § 154.412 Cargo tank corrosion allowance.
 
-A cargo tank must be designed with a corrosion allowance if the cargo tank: 
+A cargo tank must be designed with a corrosion allowance if the cargo tank:
 
-(a) is located in a space that does not have inert gas or dry air; or 
+(a) is located in a space that does not have inert gas or dry air; or
 
-(b) carries a cargo that corrodes the tank material. 
+(b) carries a cargo that corrodes the tank material.
 
 Note:
 

@@ -1,22 +1,22 @@
 ##### § 171.068 Special considerations for Type I subdivision for vessels on short international voyages.
 
-(a) The calculations done to demonstrate compliance with § 171.065 for a vessel that makes short international voyages and is permitted under § 75.10-10 of this chapter to carry a number of persons on board in excess of the lifeboat capacity must— 
+(a) The calculations done to demonstrate compliance with § 171.065 for a vessel that makes short international voyages and is permitted under § 75.10-10 of this chapter to carry a number of persons on board in excess of the lifeboat capacity must—
 
-(1) Assume the uniform average permeabilities given in Table 171.068 in lieu of those in Table 171.066; and 
+(1) Assume the uniform average permeabilities given in Table 171.068 in lieu of those in Table 171.066; and
 
-(2) Use a factor of subdivision (FS) that is the smaller of the following: 
+(2) Use a factor of subdivision (FS) that is the smaller of the following:
 
-(i) The value from Table 171.065(a). 
+(i) The value from Table 171.065(a).
 
-(ii) 0.50. 
+(ii) 0.50.
 
-(b) For a vessel less than 300 feet (91 meters) in length, the Commanding Officer, Marine Safety Center may approve the separation of main transverse watertight bulkheads greater than that permitted by paragraph (a) of this section if— 
+(b) For a vessel less than 300 feet (91 meters) in length, the Commanding Officer, Marine Safety Center may approve the separation of main transverse watertight bulkheads greater than that permitted by paragraph (a) of this section if—
 
-(1) The shorter separation is impracticable; and 
+(1) The shorter separation is impracticable; and
 
-(2) The separation is the smallest that is practicable. 
+(2) The separation is the smallest that is practicable.
 
-(c) In the case of ships less than 180 feet (55 meters) in length, the Commanding Officer, Marine Safety Center may approve a further relaxation in the bulkhead spacing. However, in no case may the separation be large enough to prevent the vessel from complying with the flooding requirements for Type II subdivision in § 171.070. 
+(c) In the case of ships less than 180 feet (55 meters) in length, the Commanding Officer, Marine Safety Center may approve a further relaxation in the bulkhead spacing. However, in no case may the separation be large enough to prevent the vessel from complying with the flooding requirements for Type II subdivision in § 171.070.
 
 Table 171.068—Table of Uniform Average Permeabilities
 | Location                                                                                                                                                                                                                                                                                                                                                                            | Uniform average permeability |

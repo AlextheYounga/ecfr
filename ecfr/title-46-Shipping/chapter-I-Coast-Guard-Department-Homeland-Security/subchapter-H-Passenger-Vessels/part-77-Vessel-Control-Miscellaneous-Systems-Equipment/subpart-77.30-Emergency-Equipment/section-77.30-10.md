@@ -1,6 +1,6 @@
 ##### § 77.30-10 Stowage.
 
-(a) The equipment set forth in table 77.30-10(a), together with such other items as the master may deem necessary, shall be stowed in convenient, accessible locations for use in case of emergency. 
+(a) The equipment set forth in table 77.30-10(a), together with such other items as the master may deem necessary, shall be stowed in convenient, accessible locations for use in case of emergency.
 
 Table 77.30-10(a)
 | Service                                                                                                                                                                                                                                                                 | Number of passenger staterooms | Self-contained breathing apparatus | Self-contained breathing apparatus for refrigeration 1 | Flame safety lamps |
@@ -16,8 +16,8 @@ Table 77.30-10(a)
 |                                                                                                                                                                                                                                                                         | Over 100                       | 2                                  | 1                                                      | 1                  |
 | 1 Required only on vessels equipped with any refrigeration unit using ammonia to refrigerate any space with a volume of more than 20 cubic feet or with any refrigeration unit using fluorocarbons to refrigerate any space with a volume of more than 1000 cubic feet. |                                |                                    |                                                        |                    |
 
-(b) If a separate self-contained breathing apparatus is maintained for protection against gas leaking from a refrigeration unit, it must be stowed convenient to, but outside of, the spaces containing the refrigeration equipment. 
+(b) If a separate self-contained breathing apparatus is maintained for protection against gas leaking from a refrigeration unit, it must be stowed convenient to, but outside of, the spaces containing the refrigeration equipment.
 
-(c) Half of the remaining equipment set forth in table 77.30-10(a) shall be stowed in or near the pilothouse together with a fire axe and the hand portable fire extinguishers required by table 76.50-10(a) for that location. The other half of the equipment shall be stowed in a convenient accessible location, remote from the pilothouse, and preferably adjacent to the main entrance to the machinery space. Where only one of an item is required, it shall be stowed in the pilothouse. 
+(c) Half of the remaining equipment set forth in table 77.30-10(a) shall be stowed in or near the pilothouse together with a fire axe and the hand portable fire extinguishers required by table 76.50-10(a) for that location. The other half of the equipment shall be stowed in a convenient accessible location, remote from the pilothouse, and preferably adjacent to the main entrance to the machinery space. Where only one of an item is required, it shall be stowed in the pilothouse.
 
 \[CGFR 65-50, 30 FR 16953, Dec. 30, 1965, as amended by CGD 86-036, 57 FR 48324, Oct. 23, 1992\]

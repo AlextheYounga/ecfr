@@ -1,6 +1,6 @@
 ##### § 144.135 Verification of compliance with design standards.
 
-Verification of compliance with the construction and arrangement design standards of this part must be performed according to the following table: 
+Verification of compliance with the construction and arrangement design standards of this part must be performed according to the following table:
 
 Table 144.135—Verification of Compliance With Design Standards
 | If the vessel is—                                                                                                                  | Then the applicable requirements must be met—           |

@@ -1,6 +1,6 @@
 ##### § 111.60-7 Demand loads.
 
-Generator, feeder, and bus-tie cables must be selected on the basis of a computed load of not less than the demand load given in Table 111.60-7. 
+Generator, feeder, and bus-tie cables must be selected on the basis of a computed load of not less than the demand load given in Table 111.60-7.
 
 Table 1 to § 111.60-7—Demand Loads
 | Type of circuit                                                               | Demand load                                                                                                                                                                                                                                                                                                        |

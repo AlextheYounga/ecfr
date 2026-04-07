@@ -1,6 +1,6 @@
 ##### § 199.610 Exemptions for vessels in specified services.
 
-(a) *All vessels.* Vessels operating in coastwise, Great Lakes, lakes, bays and sounds, and rivers services are exempt from requirements in subparts A through E of this part as specified in table 199.610(a) of this section. 
+(a) *All vessels.* Vessels operating in coastwise, Great Lakes, lakes, bays and sounds, and rivers services are exempt from requirements in subparts A through E of this part as specified in table 199.610(a) of this section.
 
 Table 199.610(a)—Exemptions for All Vessels in Specified Services
 | Section or paragraph in this part                                                                                                                             | Service    |
@@ -34,7 +34,7 @@ Table 199.610(a)—Exemptions for All Vessels in Specified Services
 | 9 Exempt if the vessel is a cargo vessel under 300 tons gross tonnage and operates on a route no more than 3 nautical miles from shore.                       |            |
 | 10 Exempt if the vessel operates on a route no more than 3 nautical miles from shore.                                                                         |            |
 
-(b) *Passenger vessels.* In addition to the exemptions in paragraph (a) of this section, passenger vessels operating in coastwise; Great Lakes; lakes, bays, and sounds; and rivers service are exempt from requirements in subparts A through E of this part as specified in table 199.610(b) of this section. 
+(b) *Passenger vessels.* In addition to the exemptions in paragraph (a) of this section, passenger vessels operating in coastwise; Great Lakes; lakes, bays, and sounds; and rivers service are exempt from requirements in subparts A through E of this part as specified in table 199.610(b) of this section.
 
 Table 199.610(b)—Exemptions for Passenger Vessels in Specified Services
 | Section or paragraph in this part                                                                                                                       | Service    |
@@ -46,7 +46,7 @@ Table 199.610(b)—Exemptions for Passenger Vessels in Specified Services
 | **Note:**                                                                                                                                               |            |
 | 1 Exempt if the length of vessel is under 60 meters (197 feet) and there are self-igniting lights attached to at least one-half the required lifebuoys. |            |
 
-(c) *Cargo vessels.* In addition to the exemptions in paragraph (a) of this section, cargo vessels are exempt from requirements in subparts A through E of this part as specified in table 199.610(c) of this section. 
+(c) *Cargo vessels.* In addition to the exemptions in paragraph (a) of this section, cargo vessels are exempt from requirements in subparts A through E of this part as specified in table 199.610(c) of this section.
 
 Table 199.610(c)—Exemptions for Cargo Vessels in Specified Services
 | Section or paragraph in this part                                                                                     | Service    |

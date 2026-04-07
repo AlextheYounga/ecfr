@@ -1,6 +1,6 @@
 ##### § 28.150 Emergency Position Indicating Radio Beacons (EPIRBs).
 
-Each vessel must be equipped with an emergency position indicating radio beacon (EPIRB) as required by 46 CFR part 25, subpart 25.26. 
+Each vessel must be equipped with an emergency position indicating radio beacon (EPIRB) as required by 46 CFR part 25, subpart 25.26.
 
 Note:
 

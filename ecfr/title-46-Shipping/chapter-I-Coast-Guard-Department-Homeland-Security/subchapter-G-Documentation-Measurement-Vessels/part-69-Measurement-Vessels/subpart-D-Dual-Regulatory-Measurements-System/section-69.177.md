@@ -1,14 +1,14 @@
 ##### § 69.177 Markings.
 
-(a) *Tonnage mark.* (1) All vessels with a second deck that are measured under this subpart must have, on each side of the vessel, a tonnage mark, and an inverted triangle identifying the tonnage mark, as described and located under this section. (See the figure in § 69.183(a).) Vessels with only one deck are not assigned markings under this section. 
+(a) *Tonnage mark.* (1) All vessels with a second deck that are measured under this subpart must have, on each side of the vessel, a tonnage mark, and an inverted triangle identifying the tonnage mark, as described and located under this section. (See the figure in § 69.183(a).) Vessels with only one deck are not assigned markings under this section.
 
-(2) The tonnage mark is a horizontal line 15 inches long and one inch wide. The tonnage mark must be designated by a welded bead or other permanent mark 15 inches long placed along the top edge of the tonnage mark. 
+(2) The tonnage mark is a horizontal line 15 inches long and one inch wide. The tonnage mark must be designated by a welded bead or other permanent mark 15 inches long placed along the top edge of the tonnage mark.
 
-(3) Above the tonnage mark is placed an inverted equilateral triangle, each side of which is 12 inches long and one inch wide, with its apex touching the upper edge of the center of the tonnage mark. 
+(3) Above the tonnage mark is placed an inverted equilateral triangle, each side of which is 12 inches long and one inch wide, with its apex touching the upper edge of the center of the tonnage mark.
 
-(4) If the vessel has a load line mark, the longitudinal location of the center of the tonnage mark must be between 21 inches and six feet six inches aft of the vertical centerline of the load line ring. (See the figures in § 69.183 (b) and (c).) If the vessel does not have a load line mark, the center of the tonnage mark must be located amidships. 
+(4) If the vessel has a load line mark, the longitudinal location of the center of the tonnage mark must be between 21 inches and six feet six inches aft of the vertical centerline of the load line ring. (See the figures in § 69.183 (b) and (c).) If the vessel does not have a load line mark, the center of the tonnage mark must be located amidships.
 
-(5) Except as under paragraph (a)(6) of this section, the upper edge of the tonnage mark must be located below the line of the second deck at the distance indicated in Table 69.177(a)(5). (See the figure in § 69.183(b).) 
+(5) Except as under paragraph (a)(6) of this section, the upper edge of the tonnage mark must be located below the line of the second deck at the distance indicated in Table 69.177(a)(5). (See the figure in § 69.183(b).)
 
 Table 69.177(a)(5)—Minimum Distance in Inches Between the Tonnage Mark and the Line of the Second Deck
 | L (in feet)                                                                                                                                                                                                                                                           | L divided by D |
@@ -87,24 +87,24 @@ Table 69.177(a)(5)—Minimum Distance in Inches Between the Tonnage Mark and the
 | s = 25.2 + 0.48 (27.9−25.2) = 26.50                        |                |                    |                |
 | a = r−0.17 (r−s) = 31.79−0.17 (31.79−26.50) = 30.89 inches |                |                    |                |
 
-(6) For the following vessels with a load line mark, the upper edge of the tonnage mark must be located at the level of the uppermost part of the load line grid: 
+(6) For the following vessels with a load line mark, the upper edge of the tonnage mark must be located at the level of the uppermost part of the load line grid:
 
-(i) Vessels assigned only one gross and one net register tonnage under § 69.175(c). 
+(i) Vessels assigned only one gross and one net register tonnage under § 69.175(c).
 
-(ii) Vessels for which a load line assigning authority certifies that the vessel's load line mark was located as though the second deck were the freeboard deck. 
+(ii) Vessels for which a load line assigning authority certifies that the vessel's load line mark was located as though the second deck were the freeboard deck.
 
-(b) *Line for fresh and tropical waters.* (1) Except as under paragraph (b)(4) of this section, a horizontal line for fresh and tropical waters may be assigned at the vessel owner's request. 
+(b) *Line for fresh and tropical waters.* (1) Except as under paragraph (b)(4) of this section, a horizontal line for fresh and tropical waters may be assigned at the vessel owner's request.
 
-(2) The line must be nine inches long and one inch wide and located above and to the left of the tonnage mark at a distance equal to one forty-eighth of the distance from the top of the flat keel to the tonnage mark. The tonnage mark and the line for fresh and tropical waters must be connected by a vertical line one inch wide. (See the figure in § 69.183(a).) 
+(2) The line must be nine inches long and one inch wide and located above and to the left of the tonnage mark at a distance equal to one forty-eighth of the distance from the top of the flat keel to the tonnage mark. The tonnage mark and the line for fresh and tropical waters must be connected by a vertical line one inch wide. (See the figure in § 69.183(a).)
 
-(3) The line for fresh and tropical waters must be designated by a welded bead or other permanent mark nine inches long placed along the upper edge of the line. 
+(3) The line for fresh and tropical waters must be designated by a welded bead or other permanent mark nine inches long placed along the upper edge of the line.
 
-(4) For vessels with a load line mark, if the load line assigning authority certifies that the load line mark was located as though the second deck were the freeboard deck, a line for fresh and tropical waters must not be placed on the vessel. 
+(4) For vessels with a load line mark, if the load line assigning authority certifies that the load line mark was located as though the second deck were the freeboard deck, a line for fresh and tropical waters must not be placed on the vessel.
 
-(c) *Freeboard deck mark.* A vessel assigned two gross and two net register tonnages which has more than one deck and no load line mark assigned must have a mark on each side of the vessel with the same dimensions and location as the freeboard deck line mark under § 42.13-20 of this chapter, except that the mark must be located directly above the tonnage mark. 
+(c) *Freeboard deck mark.* A vessel assigned two gross and two net register tonnages which has more than one deck and no load line mark assigned must have a mark on each side of the vessel with the same dimensions and location as the freeboard deck line mark under § 42.13-20 of this chapter, except that the mark must be located directly above the tonnage mark.
 
-(d) *The line of the second deck.* The line of the second deck must not be marked on the side of the vessel, except in the case of a freeboard deck line mark placed at the location of the second deck if the second deck is the actual freeboard deck for purposes of a vessel's load line assignment. 
+(d) *The line of the second deck.* The line of the second deck must not be marked on the side of the vessel, except in the case of a freeboard deck line mark placed at the location of the second deck if the second deck is the actual freeboard deck for purposes of a vessel's load line assignment.
 
-(e) *Color of markings.* All markings under this section must be maintained in either a light color on a dark background or a dark color on a light background. 
+(e) *Color of markings.* All markings under this section must be maintained in either a light color on a dark background or a dark color on a light background.
 
 \[CGD 87-015b, 54 FR 37657, Sept. 12, 1989, as amended by USCG-2011-0522, 81 FR 18731, Mar. 31, 2016\]

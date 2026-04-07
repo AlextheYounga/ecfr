@@ -1,6 +1,6 @@
 ##### § 924.17 MIRE fundamental data elements.
 
-The MIRE fundamental data elements shall be collected on all public roads, as listed in Tables 1, 2, and 3 of this section. For the purpose of MIRE fundamental data elements applicability, the term open to public travel is consistent with 23 CFR 460.2(c). 
+The MIRE fundamental data elements shall be collected on all public roads, as listed in Tables 1, 2, and 3 of this section. For the purpose of MIRE fundamental data elements applicability, the term open to public travel is consistent with 23 CFR 460.2(c).
 
 Table 1—MIRE Fundamental Data Elements for Non-Local (Based on Functional Classification) Paved Roads
 | MIRE name (MIRE No.) 1                                                                                                                                                                                                                                                   |

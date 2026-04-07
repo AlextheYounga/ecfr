@@ -1,21 +1,21 @@
 ##### § 67.165 Deposit of Certificate of Documentation.
 
-(a) *Option for deposit in lieu of renewal of endorsement.* In lieu of renewing the endorsement(s) in accordance with § 67.163, the owner of a vessel which is exempt from the requirement for documentation under paragraph (c) of § 67.9 may deposit the vessel's outstanding Certificate of Documentation with the National Vessel Documentation Center. 
+(a) *Option for deposit in lieu of renewal of endorsement.* In lieu of renewing the endorsement(s) in accordance with § 67.163, the owner of a vessel which is exempt from the requirement for documentation under paragraph (c) of § 67.9 may deposit the vessel's outstanding Certificate of Documentation with the National Vessel Documentation Center.
 
-(b) *Reporting requirement.* The owner of a vessel whose Certificate is on deposit in accordance with paragraph (a) of this section must make a written report to the National Vessel Documentation Center when: 
+(b) *Reporting requirement.* The owner of a vessel whose Certificate is on deposit in accordance with paragraph (a) of this section must make a written report to the National Vessel Documentation Center when:
 
-(1) Exchange of the Certificate is required upon the occurrence of one or more of the events described in § 67.167 (b), (c), or (d); or 
+(1) Exchange of the Certificate is required upon the occurrence of one or more of the events described in § 67.167 (b), (c), or (d); or
 
-(2) The vessel is subject to deletion from the roll of actively documented vessels upon the occurrence of one or more of the events described in § 67.171(a)(1) through (8). 
+(2) The vessel is subject to deletion from the roll of actively documented vessels upon the occurrence of one or more of the events described in § 67.171(a)(1) through (8).
 
-(c) *Validity of document on deposit.* A Certificate of Documentation placed on deposit in accordance with paragraph (a) of this section is valid for the purposes of: 
+(c) *Validity of document on deposit.* A Certificate of Documentation placed on deposit in accordance with paragraph (a) of this section is valid for the purposes of:
 
-(1) 46 U.S.C. chapter 125; 
+(1) 46 U.S.C. chapter 125;
 
-(2) 46 U.S.C. chapter 313; 
+(2) 46 U.S.C. chapter 313;
 
-(3) 46 U.S.C. 56101, 56102 and 57109; and 
+(3) 46 U.S.C. 56101, 56102 and 57109; and
 
-(4) 46 U.S.C. 56301. 
+(4) 46 U.S.C. 56301.
 
 \[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993; 58 FR 65131, Dec. 13, 1993, as amended by CGD 95-014, 60 FR 31604, June 15, 1995; USCG-2016-0531, 82 FR 43864, Sept. 20, 2017\]

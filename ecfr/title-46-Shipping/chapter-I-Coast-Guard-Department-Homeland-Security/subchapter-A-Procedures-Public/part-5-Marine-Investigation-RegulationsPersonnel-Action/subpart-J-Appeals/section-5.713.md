@@ -1,8 +1,8 @@
 ##### § 5.713 Appeals to the National Transportation Safety Board.
 
-(a) The rules of procedure for appeals to the National Transportation Safety Board from decisions of the Commandant, U.S. Coast Guard, affirming orders of suspension or revocation of credentials or endorsements are in 49 CFR part 825. These rules give the party adversely affected by the Commandant's decision 10 days after service upon him or his attorney of the Commandant's decision to file a notice of appeal with the Board. 
+(a) The rules of procedure for appeals to the National Transportation Safety Board from decisions of the Commandant, U.S. Coast Guard, affirming orders of suspension or revocation of credentials or endorsements are in 49 CFR part 825. These rules give the party adversely affected by the Commandant's decision 10 days after service upon him or his attorney of the Commandant's decision to file a notice of appeal with the Board.
 
-(b) In all cases under this part which are appealed to the National Transportation Safety Board under 49 CFR part 825, the Chief Counsel of the Coast Guard is designated as the representative of the Commandant for service of notices and appearances. Communications should be addressed to Suspension and Revocation National Center of Expertise (S&R NCOE): by mail to U.S. Coast Guard National Maritime Center, S&R National Center of Expertise, 100 Forbes Drive, Martinsburg, WV 25404-7213 or electronically to *SR-NCOE@uscg.mil*. 
+(b) In all cases under this part which are appealed to the National Transportation Safety Board under 49 CFR part 825, the Chief Counsel of the Coast Guard is designated as the representative of the Commandant for service of notices and appearances. Communications should be addressed to Suspension and Revocation National Center of Expertise (S&R NCOE): by mail to U.S. Coast Guard National Maritime Center, S&R National Center of Expertise, 100 Forbes Drive, Martinsburg, WV 25404-7213 or electronically to *SR-NCOE@uscg.mil*.
 
 (c) In cases before the National Transportation Safety Board the Chief Counsel of the Coast Guard may be represented by others designated *of counsel.*
 

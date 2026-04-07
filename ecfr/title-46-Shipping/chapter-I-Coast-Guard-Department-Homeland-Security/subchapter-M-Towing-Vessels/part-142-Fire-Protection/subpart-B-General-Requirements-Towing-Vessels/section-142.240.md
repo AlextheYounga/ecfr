@@ -1,30 +1,30 @@
 ##### § 142.240 Inspection, testing, maintenance, and records.
 
-(a) *Inspection and testing.* All portable fire extinguishers, semi-portable fire-extinguishing systems, fire-detection systems, and fixed fire-extinguishing systems, including ventilation, machinery shutdowns, and fixed fire-extinguishing system pressure-operated dampers on board the vessel, must be inspected or tested at least once every 12 months, as prescribed in paragraphs (a)(1) through (8) of this section, or more frequently if otherwise required by the TSMS applicable to the vessel. 
+(a) *Inspection and testing.* All portable fire extinguishers, semi-portable fire-extinguishing systems, fire-detection systems, and fixed fire-extinguishing systems, including ventilation, machinery shutdowns, and fixed fire-extinguishing system pressure-operated dampers on board the vessel, must be inspected or tested at least once every 12 months, as prescribed in paragraphs (a)(1) through (8) of this section, or more frequently if otherwise required by the TSMS applicable to the vessel.
 
-(1) Portable and semi-portable fire extinguishers must be inspected, maintained, and tested in accordance with the inspection, maintenance procedures, and hydrostatic pressure tests required by Chapters 7 and 8 of NFPA 10, Standard for Portable Fire Extinguishers (incorporated by reference, see § 136.112 of this subchapter), with the frequency specified by NFPA 10 and as amended here: 
+(1) Portable and semi-portable fire extinguishers must be inspected, maintained, and tested in accordance with the inspection, maintenance procedures, and hydrostatic pressure tests required by Chapters 7 and 8 of NFPA 10, Standard for Portable Fire Extinguishers (incorporated by reference, see § 136.112 of this subchapter), with the frequency specified by NFPA 10 and as amended here:
 
-(i) Certification or licensing by a state or local jurisdiction as a fire extinguisher servicing agency will be accepted by the Coast Guard as meeting the personnel certification requirements of NFPA 10 for annual maintenance and recharging of extinguishers. 
+(i) Certification or licensing by a state or local jurisdiction as a fire extinguisher servicing agency will be accepted by the Coast Guard as meeting the personnel certification requirements of NFPA 10 for annual maintenance and recharging of extinguishers.
 
-(ii) Monthly inspections required by NFPA 10 may be conducted by the owner, operator, person-in-charge, or a designated member of the crew. 
+(ii) Monthly inspections required by NFPA 10 may be conducted by the owner, operator, person-in-charge, or a designated member of the crew.
 
-(iii) Non-rechargeable or non-refillable extinguishers must be inspected and maintained in accordance with NFPA 10; however, the annual maintenance need not be conducted by a certified person and can be conducted by the owner, operator, person-in-charge, or a designated member of the crew. 
+(iii) Non-rechargeable or non-refillable extinguishers must be inspected and maintained in accordance with NFPA 10; however, the annual maintenance need not be conducted by a certified person and can be conducted by the owner, operator, person-in-charge, or a designated member of the crew.
 
-(iv) The owner or managing operator must provide satisfactory evidence of the required servicing to the marine inspector or TPO, as applicable. If any of the equipment or records have not been properly maintained, a qualified servicing facility must perform the required inspections, maintenance procedures, and hydrostatic pressure tests. A tag issued by a qualified servicing organization, and attached to each extinguisher, may be accepted as evidence that the necessary maintenance procedures have been conducted. 
+(iv) The owner or managing operator must provide satisfactory evidence of the required servicing to the marine inspector or TPO, as applicable. If any of the equipment or records have not been properly maintained, a qualified servicing facility must perform the required inspections, maintenance procedures, and hydrostatic pressure tests. A tag issued by a qualified servicing organization, and attached to each extinguisher, may be accepted as evidence that the necessary maintenance procedures have been conducted.
 
-(2) Fixed fire-extinguishing systems must be inspected and tested, as required by table 142.240 of this section, in addition to the tests required by §§ 147.60 and 147.65 of subchapter N of this chapter. 
+(2) Fixed fire-extinguishing systems must be inspected and tested, as required by table 142.240 of this section, in addition to the tests required by §§ 147.60 and 147.65 of subchapter N of this chapter.
 
-(3) Flexible connections and discharge hoses on all semi-portable extinguishers and fixed extinguishing systems must be inspected and tested in accordance with § 147.65 of this chapter. 
+(3) Flexible connections and discharge hoses on all semi-portable extinguishers and fixed extinguishing systems must be inspected and tested in accordance with § 147.65 of this chapter.
 
-(4) All cylinders containing compressed gas must be tested and marked in accordance with § 147.60 of this chapter. 
+(4) All cylinders containing compressed gas must be tested and marked in accordance with § 147.60 of this chapter.
 
-(5) All piping, controls, valves, and alarms must be inspected; and the operation of controls, alarms, ventilation shutdowns, and pressure-operated dampers for each fixed fire-extinguishing system and detecting system must be tested, to determine that the system is operating properly. 
+(5) All piping, controls, valves, and alarms must be inspected; and the operation of controls, alarms, ventilation shutdowns, and pressure-operated dampers for each fixed fire-extinguishing system and detecting system must be tested, to determine that the system is operating properly.
 
-(6) The fire main system must be charged, and sufficient pressure must be verified at the most remote and highest outlets. 
+(6) The fire main system must be charged, and sufficient pressure must be verified at the most remote and highest outlets.
 
-(7) All fire hoses must be inspected for excessive wear, and subjected to a test pressure equivalent to the maximum service pressure. All fire hoses which are defective and incapable of repair must be destroyed. 
+(7) All fire hoses must be inspected for excessive wear, and subjected to a test pressure equivalent to the maximum service pressure. All fire hoses which are defective and incapable of repair must be destroyed.
 
-(8) All smoke- and fire-detection systems, including detectors and alarms, must be tested. 
+(8) All smoke- and fire-detection systems, including detectors and alarms, must be tested.
 
 Table 142.240—Table 142.240 to paragraph (a)—Fixed fire-extinguishing systems
 | Type system                       | Test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -37,14 +37,14 @@ Table 142.240—Table 142.240 to paragraph (a)—Fixed fire-extinguishing system
 | Inert gas                         | Recharge or replace if cylinder pressure loss exceeds 5 percent, adjusted for temperature. Test time delays, alarms, and ventilation shutdowns with carbon dioxide, nitrogen, or other nonflammable gas as stated in the system manufacturer's instruction manual. Inspect hoses and nozzles to ensure they are clear.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Water mist                        | Test and inspect system in accordance with the maintenance instructions in the system manufacturer's design, installation, operation, and maintenance manual.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-(b) *Maintenance.* In addition to the requirements in paragraph (a) of this section, all fire-suppression and detection equipment and systems on board a towing vessel must be maintained in accordance with the attached nameplate, manufacturer's approved design manual, or as otherwise provided in any TSMS applicable to the vessel. 
+(b) *Maintenance.* In addition to the requirements in paragraph (a) of this section, all fire-suppression and detection equipment and systems on board a towing vessel must be maintained in accordance with the attached nameplate, manufacturer's approved design manual, or as otherwise provided in any TSMS applicable to the vessel.
 
-(c) *Records.* (1) The records of inspections and tests of fire-detection systems and fixed fire-extinguishing systems must be recorded in the TVR, official logbook, or in accordance with any TSMS applicable to the vessel. The following minimum information is required: 
+(c) *Records.* (1) The records of inspections and tests of fire-detection systems and fixed fire-extinguishing systems must be recorded in the TVR, official logbook, or in accordance with any TSMS applicable to the vessel. The following minimum information is required:
 
-(i) The dates when inspections and tests were performed, the number and any other identification of each unit inspected and tested, the results of the inspections and tests, and the name of the crewmember, surveyor or auditor and any others conducting the inspections and tests, must be included. 
+(i) The dates when inspections and tests were performed, the number and any other identification of each unit inspected and tested, the results of the inspections and tests, and the name of the crewmember, surveyor or auditor and any others conducting the inspections and tests, must be included.
 
-(ii) Receipts and other records generated by these inspections and tests must be retained for at least 1 year and made available upon request. 
+(ii) Receipts and other records generated by these inspections and tests must be retained for at least 1 year and made available upon request.
 
-(2) The records of inspections and tests of portable fire extinguishers and semi-portable fire-extinguishing systems may be recorded in accordance with paragraph (c)(1) of this section, or on a tag attached to each unit by a qualified servicing organization. 
+(2) The records of inspections and tests of portable fire extinguishers and semi-portable fire-extinguishing systems may be recorded in accordance with paragraph (c)(1) of this section, or on a tag attached to each unit by a qualified servicing organization.
 
 \[USCG-2006-24412, 81 FR 40101, June 20, 2016, as amended by USCG-2017-1060, 83 FR 8181, Feb. 26, 2018\]

@@ -1,18 +1,18 @@
 ##### § 28.140 Operational readiness, maintenance, and inspection of lifesaving equipment.
 
-(a) The master or individual in charge of a vessel must ensure that each item of lifesaving equipment must be in good working order, ready for immediate use, and readily accessible before the vessel leaves port and at all times when the vessel is operated. 
+(a) The master or individual in charge of a vessel must ensure that each item of lifesaving equipment must be in good working order, ready for immediate use, and readily accessible before the vessel leaves port and at all times when the vessel is operated.
 
-(b) Each item of lifesaving equipment, including unapproved equipment, must be maintained and inspected in accordance with: 
+(b) Each item of lifesaving equipment, including unapproved equipment, must be maintained and inspected in accordance with:
 
-(1) Table 28.140 in this section; 
+(1) Table 28.140 in this section;
 
-(2) The servicing procedure under the subpart of this chapter applicable to the item's approval; and 
+(2) The servicing procedure under the subpart of this chapter applicable to the item's approval; and
 
-(3) The manufacturer's guidelines. 
+(3) The manufacturer's guidelines.
 
-(c) An inflatable liferaft or inflatable buoyant apparatus must be serviced no later than the month and year on its servicing sticker affixed under 46 CFR 160.151-57(n), and whenever the container is damaged or the container straps or seals are broken. It must be serviced at a facility specifically approved by the Commandant for the particular brand. 
+(c) An inflatable liferaft or inflatable buoyant apparatus must be serviced no later than the month and year on its servicing sticker affixed under 46 CFR 160.151-57(n), and whenever the container is damaged or the container straps or seals are broken. It must be serviced at a facility specifically approved by the Commandant for the particular brand.
 
-(d) An escape route from a space where an individual may be employed or an accommodation space must not be obstructed. 
+(d) An escape route from a space where an individual may be employed or an accommodation space must not be obstructed.
 
 Table 28.140—Scheduled Maintenance and Inspection of Lifesaving Equipment
 | Item                                                                                                                                                                                   | Interval | Regulation                             |
