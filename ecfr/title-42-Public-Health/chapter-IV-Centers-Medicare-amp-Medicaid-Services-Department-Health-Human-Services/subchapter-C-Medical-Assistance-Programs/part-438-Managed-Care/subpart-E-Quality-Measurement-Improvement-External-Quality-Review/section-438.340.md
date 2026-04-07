@@ -8,9 +8,7 @@
 
 (2) The State's goals and objectives for continuous quality improvement which must be measurable and take into consideration the health status of all populations in the State served by the MCO, PIHP, PAHP, and PCCM entity described in § 438.310(c)(2).
 
-(3) A description of -
-
-(i) The quality metrics and performance targets to be used in measuring the performance and improvement of each MCO, PIHP, PAHP, and PCCM entity described in § 438.310(c)(2) with which the State contracts, including but not limited to, the performance measures reported in accordance with § 438.330(c). The State must identify which quality measures and performance outcomes the State will publish at least annually on the website required under § 438.10(c)(3); and,
+(3) A description of—
 
 (i) The quality metrics and performance targets to be used in measuring the performance and improvement of each MCO, PIHP, PAHP, and PCCM entity described in § 438.310(c)(2) with which the State contracts, including but not limited to, the performance measures reported in accordance with § 438.330(c). The State must identify which quality measures and performance outcomes the State will publish at least annually on the website required under § 438.10(c)(3); and,
 
