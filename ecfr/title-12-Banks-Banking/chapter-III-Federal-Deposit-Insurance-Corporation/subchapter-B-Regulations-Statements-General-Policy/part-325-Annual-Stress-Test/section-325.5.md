@@ -1,4 +1,4 @@
-##### § 325.205 Methodologies and practices.
+##### § 325.5 Methodologies and practices.
 
 (a) *Potential impact on capital.* In conducting a stress test under this subpart, during each quarter of the planning horizon, each covered bank must estimate the following for each scenario required to be used:
 
@@ -11,3 +11,5 @@
 (2) The board of directors, or a committee thereof, of a covered bank must approve and review the policies and procedures of the stress testing processes as frequently as economic conditions or the condition of the covered bank may warrant, but no less than annually. The board of directors and senior management of the covered bank must receive a summary of the results of the stress test.
 
 (3) The board of directors and senior management of each covered bank must consider the results of the stress tests in the normal course of business, including but not limited to, the covered bank's capital planning, assessment of capital adequacy, and risk management practices.
+
+\[77 FR 62424, Oct. 15, 2012. Redesignated and amended at 83 FR 17740, Apr. 24, 2018\]

@@ -1,4 +1,4 @@
-##### § 325.204 Annual stress tests required.
+##### § 325.4 Annual stress tests required.
 
 (a) *General requirements* - (1) *$10 billion to $50 billion covered bank.* Prior to January 1, 2016, a $10 billion to $50 billion covered bank must conduct a stress test on or before March 31 of each calendar year based on financial data as of September 30 of the preceding calendar year. Beginning January 1, 2016, a $10 billion to $50 billion covered bank must conduct a stress test on or before July 31 of each calendar year based on financial data as of December 31 of the preceding calendar year.
 
@@ -8,4 +8,4 @@
 
 (c) *Significant trading activities.* The Corporation may require a covered bank with significant trading activities, as determined by the Corporation, to include trading and counterparty components in its adverse and severely adverse scenarios. The trading and counterparty position data used in these components will be as of a date between October 1 and December 1 (for the stress test cycle beginning October 1, 2014) or between January 1 and March 1 (for the stress test cycle beginning January 1, 2016, and all stress test cycles thereafter) of that calendar year selected by the Corporation and communicated to the covered bank no later than December 1 (for the stress test cycle beginning October 1, 2014) or March 1 (for the stress test cycle beginning January 1, 2016, and all stress test cycles thereafter) of the calendar year.
 
-\[79 FR 69368, Nov. 21, 2014\]
+\[79 FR 69368, Nov. 21, 2014. Redesignated at 83 FR 17740, Apr. 24, 2018\]

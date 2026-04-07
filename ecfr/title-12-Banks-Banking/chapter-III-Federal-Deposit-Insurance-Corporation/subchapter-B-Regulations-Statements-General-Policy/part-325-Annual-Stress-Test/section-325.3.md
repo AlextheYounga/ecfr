@@ -1,4 +1,4 @@
-##### § 325.203 Applicability.
+##### § 325.3 Applicability.
 
 (a) *First stress test for covered banks subject to stress testing requirements as of October 15, 2012.* (1) A $10 billion to $50 billion covered bank as of October 15, 2012 must conduct its first stress test under this subpart using financial statement data as of September 30, 2013, and report the results of its stress test on or before March 31, 2014.
 
@@ -20,4 +20,4 @@
 
 (2) A covered bank that elects to conduct its stress test under paragraph (d)(1) of this section will remain subject to the same timeline requirements of its parent company until otherwise approved by the FDIC.
 
-\[77 FR 62424, Oct. 15, 2012, as amended at 79 FR 69368, Nov. 21, 2014\]
+\[77 FR 62424, Oct. 15, 2012, as amended at 79 FR 69368, Nov. 21, 2014. Redesignated at 83 FR 17740, Apr. 24, 2018\]

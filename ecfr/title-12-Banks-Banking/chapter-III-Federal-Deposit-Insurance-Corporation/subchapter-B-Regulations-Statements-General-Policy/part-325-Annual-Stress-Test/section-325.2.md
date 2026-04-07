@@ -1,4 +1,4 @@
-##### § 325.202 Definitions.
+##### § 325.2 Definitions.
 
 *For purposes of this subpart* -
 
@@ -36,4 +36,4 @@
 
 (2) Beginning October 1, 2015, the period beginning January 1 of a calendar year and ending on December 31 of that year.
 
-\[77 FR 62424, Oct. 15, 2012, as amended at 79 FR 69368, Nov. 21, 2014\]
+\[77 FR 62424, Oct. 15, 2012, as amended at 79 FR 69368, Nov. 21, 2014. Redesignated at 83 FR 17740, Apr. 24, 2018\]

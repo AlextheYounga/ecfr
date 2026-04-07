@@ -1,4 +1,4 @@
-##### § 325.201 Authority, purpose, and reservation of authority.
+##### § 325.1 Authority, purpose, and reservation of authority.
 
 (a) *Authority.* This subpart is issued by the Federal Deposit Insurance Corporation (the “Corporation” or “FDIC”) under 12 U.S.C. 5365(i)(2), 12 U.S.C. 5412(b)(2)(B), 12 U.S.C. 1818, 12 U.S.C. 1819(a)(Tenth), 12 U.S.C. 1831o, and 12 U.S.C. 1831p-1.
 
@@ -14,6 +14,8 @@
 
 (4) Factors considered: Any exercise of authority under this section by the Corporation will be in writing and will consider the activities, level of complexity, risk profile, scope of operations, and the regulatory capital of the covered bank, in addition to any other relevant factors.
 
-(5) Notice and comment procedures: In exercising its authority to require different or additional stress tests and different or additional scenarios (including components for the scenarios) under paragraph (c)(2) of this section, the Corporation will apply notice and response procedures in the same manner and to the same extent as the notice and response procedures in 12 CFR 325.6, as appropriate.
+(5) Notice and comment procedures: In exercising its authority to require different or additional stress tests and different or additional scenarios (including components for the scenarios) under paragraph (c)(2) of this section, the Corporation will apply notice and response procedures in the same manner and to the same extent as the notice and response procedures in 12 CFR 324.5, as appropriate.
 
 (6) Nothing in this subpart limits the authority of the Corporation under any other provision of law or regulation to take supervisory or enforcement action, including action to address unsafe and unsound practices or conditions, or violations of law or regulation.
+
+\[77 FR 62424, Oct. 15, 2012. Redesignated and amended at 83 FR 17740, Apr. 24, 2018\]

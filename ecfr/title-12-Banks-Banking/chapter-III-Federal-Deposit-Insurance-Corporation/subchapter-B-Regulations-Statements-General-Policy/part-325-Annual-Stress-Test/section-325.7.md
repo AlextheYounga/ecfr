@@ -1,4 +1,4 @@
-##### § 325.207 Publication of stress test results.
+##### § 325.7 Publication of stress test results.
 
 *(a) Publication date* - (1) *$10 billion to $50 billion covered bank.* (i) Prior to January 1, 2016, a $10 billion to $50 billion covered bank must publish a summary of the results of its annual stress test in the period starting June 15 and ending June 30 (for the stress test cycle beginning October 1, 2014).
 
@@ -28,4 +28,4 @@
 
 (2) The disclosure of regulatory capital ratios and any other capital ratios specified by the Corporation under this section must include the beginning value, ending value, and minimum value of each ratio over the planning horizon.
 
-\[77 FR 62424, Oct. 15, 2012, as amended at 79 FR 69369, Nov. 21, 2014\]
+\[77 FR 62424, Oct. 15, 2012, as amended at 79 FR 69369, Nov. 21, 2014. Redesignated at 83 FR 17740, Apr. 24, 2018\]
