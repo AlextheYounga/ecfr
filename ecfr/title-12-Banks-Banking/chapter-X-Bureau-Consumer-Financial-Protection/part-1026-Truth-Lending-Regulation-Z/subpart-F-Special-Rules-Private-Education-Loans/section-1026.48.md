@@ -8,7 +8,7 @@
 
 (c) *Consumer's right to accept.* (1) The consumer has the right to accept the terms of a private education loan at any time within 30 calendar days following the date on which the consumer receives the disclosures required under § 1026.47(b).
 
-(2) Except for changes permitted under paragraphs (c)(3) and (c)(4), the rate and terms of the private education loan that are required to be disclosed under §§ 1026.47(b) and (c) may not be changed by the creditor prior to the earlier of:
+(2) Except for changes permitted under paragraphs (c)(3) and (c)(4), the rate and terms of the private education loan that are required to be disclosed under § 1026.47(b) and (c) may not be changed by the creditor prior to the earlier of:
 
 (i) The date of disbursement of the loan; or
 
@@ -34,4 +34,4 @@
 
 (e) *Self-certification form.* For a private education loan intended to be used for the postsecondary educational expenses of a student while the student is attending an institution of higher education, the creditor shall obtain from the consumer or the institution of higher education the form developed by the Secretary of Education under section 155 of the Higher Education Act of 1965, signed by the consumer, in written or electronic form, before consummating the private education loan.
 
-(f) *Provision of information by preferred lenders.* A creditor that has a preferred lender arrangement with a covered educational institution shall provide to the covered educational institution the information required under §§ 1026.47(a)(1) through (5), for each type of private education loan that the lender plans to offer to consumers for students attending the covered educational institution for the period beginning July 1 of the current year and ending June 30 of the following year. The creditor shall provide the information annually by the later of the 1st day of April, or within 30 days after entering into, or learning the creditor is a party to, a preferred lender arrangement.
+(f) *Provision of information by preferred lenders.* A creditor that has a preferred lender arrangement with a covered educational institution shall provide to the covered educational institution the information required under § 1026.47(a)(1) through (5), for each type of private education loan that the lender plans to offer to consumers for students attending the covered educational institution for the period beginning July 1 of the current year and ending June 30 of the following year. The creditor shall provide the information annually by the later of the 1st day of April, or within 30 days after entering into, or learning the creditor is a party to, a preferred lender arrangement.

@@ -4,7 +4,7 @@
 
 (b) *Form of disclosures.* The creditor shall make the disclosures required by this subpart clearly and conspicuously in writing, in a form that the consumer may keep. The disclosures required by this subpart may be provided to the consumer in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (15 U.S.C. 7001 *et seq.*).
 
-(c) *Timing of disclosure* - (1) *Disclosures for high-cost mortgages.* The creditor shall furnish the disclosures required by § 1026.32 at least three business days prior to consummation or account opening of a high-cost mortgage as defined in § 1026.32(a).
+(c) *Timing of disclosure*—(1) *Disclosures for high-cost mortgages.* The creditor shall furnish the disclosures required by § 1026.32 at least three business days prior to consummation or account opening of a high-cost mortgage as defined in § 1026.32(a).
 
 (i) *Change in terms.* After complying with this paragraph (c)(1) and prior to consummation or account opening, if the creditor changes any term that makes the disclosures inaccurate, new disclosures shall be provided in accordance with the requirements of this subpart.
 
@@ -22,7 +22,7 @@
 
 (ii) The first transaction under an open-end credit plan.
 
-(d) *Basis of disclosures and use of estimates* - (1) *Legal Obligation.* Disclosures shall reflect the terms of the legal obligation between the parties.
+(d) *Basis of disclosures and use of estimates*—(1) *Legal obligation.* Disclosures shall reflect the terms of the legal obligation between the parties.
 
 (2) *Estimates.* If any information necessary for an accurate disclosure is unknown to the creditor, the creditor shall make the disclosure based on the best information reasonably available at the time the disclosure is provided, and shall state clearly that the disclosure is an estimate.
 

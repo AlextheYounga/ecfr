@@ -20,7 +20,7 @@
 
 (2) A catalog or other multiple-page advertisement or an electronic advertisement (such as an advertisement appearing on an Internet Web site) complies with this paragraph if the table or schedule of terms includes all appropriate disclosures for a representative scale of amounts up to the level of the more commonly sold higher-priced property or services offered.
 
-(d) *Additional requirements for home-equity plans* - (1) *Advertisement of terms that require additional disclosures.* If any of the terms required to be disclosed under § 1026.6(a)(1) or (a)(2) or the payment terms of the plan are set forth, affirmatively or negatively, in an advertisement for a home-equity plan subject to the requirements of § 1026.40, the advertisement also shall clearly and conspicuously set forth the following:
+(d) *Additional requirements for home-equity plans*—(1) *Advertisement of terms that require additional disclosures.* If any of the terms required to be disclosed under § 1026.6(a)(1) or (a)(2) or the payment terms of the plan are set forth, affirmatively or negatively, in an advertisement for a home-equity plan subject to the requirements of § 1026.40, the advertisement also shall clearly and conspicuously set forth the following:
 
 (i) Any loan fee that is a percentage of the credit limit under the plan and an estimate of any other fees imposed for opening the plan, stated as a single dollar amount or a reasonable range.
 
@@ -68,17 +68,17 @@
 
 (A) The period of time during which the promotional rate or promotional payment will apply;
 
-(B) In the case of a promotional rate, any annual percentage rate that will apply under the plan. If such rate is variable, the annual percentage rate must be disclosed in accordance with the accuracy standards in §§ 1026.40 or 1026.16(b)(1)(ii) as applicable; and
+(B) In the case of a promotional rate, any annual percentage rate that will apply under the plan. If such rate is variable, the annual percentage rate must be disclosed in accordance with the accuracy standards in § 1026.40 or § 1026.16(b)(1)(ii) as applicable; and
 
 (C) In the case of a promotional payment, the amounts and time periods of any payments that will apply under the plan. In variable-rate transactions, payments that will be determined based on application of an index and margin shall be disclosed based on a reasonably current index and margin.
 
 (iii) *Envelope excluded.* The requirements in paragraph (d)(6)(ii) of this section do not apply to an envelope in which an application or solicitation is mailed, or to a banner advertisement or pop-up advertisement linked to an application or solicitation provided electronically.
 
-(e) *Alternative disclosures - television or radio advertisements.* An advertisement made through television or radio stating any of the terms requiring additional disclosures under paragraphs (b)(1) or (d)(1) of this section may alternatively comply with paragraphs (b)(1) or (d)(1) of this section by stating the information required by paragraphs (b)(1)(ii) or (d)(1)(ii) of this section, as applicable, and listing a toll-free telephone number, or any telephone number that allows a consumer to reverse the phone charges when calling for information, along with a reference that such number may be used by consumers to obtain the additional cost information.
+(e) *Alternative disclosures—television or radio advertisements.* An advertisement made through television or radio stating any of the terms requiring additional disclosures under paragraphs (b)(1) or (d)(1) of this section may alternatively comply with paragraphs (b)(1) or (d)(1) of this section by stating the information required by paragraphs (b)(1)(ii) or (d)(1)(ii) of this section, as applicable, and listing a toll-free telephone number, or any telephone number that allows a consumer to reverse the phone charges when calling for information, along with a reference that such number may be used by consumers to obtain the additional cost information.
 
 (f) *Misleading terms.* An advertisement may not refer to an annual percentage rate as “fixed,” or use a similar term, unless the advertisement also specifies a time period that the rate will be fixed and the rate will not increase during that period, or if no such time period is provided, the rate will not increase while the plan is open.
 
-(g) *Promotional rates and fees* - (1) *Scope.* The requirements of this paragraph apply to any advertisement of an open-end (not home-secured) plan, including promotional materials accompanying applications or solicitations subject to § 1026.60(c) or accompanying applications or solicitations subject to § 1026.60(e).
+(g) *Promotional rates and fees*—(1) *Scope.* The requirements of this paragraph apply to any advertisement of an open-end (not home-secured) plan, including promotional materials accompanying applications or solicitations subject to § 1026.60(c) or accompanying applications or solicitations subject to § 1026.60(e).
 
 (2) *Definitions.* (i) *Promotional rate* means any annual percentage rate applicable to one or more balances or transactions on an open-end (not home-secured) plan for a specified period of time that is lower than the annual percentage rate that will be in effect at the end of that period on such balances or transactions.
 
@@ -102,7 +102,7 @@
 
 (5) *Envelope excluded.* The requirements in paragraph (g)(4) of this section do not apply to an envelope or other enclosure in which an application or solicitation is mailed, or to a banner advertisement or pop-up advertisement, linked to an application or solicitation provided electronically.
 
-(h) *Deferred interest or similar offers* - (1) *Scope.* The requirements of this paragraph apply to any advertisement of an open-end credit plan not subject to § 1026.40, including promotional materials accompanying applications or solicitations subject to § 1026.60(c) or accompanying applications or solicitations subject to § 1026.60(e).
+(h) *Deferred interest or similar offers*—(1) *Scope.* The requirements of this paragraph apply to any advertisement of an open-end credit plan not subject to § 1026.40, including promotional materials accompanying applications or solicitations subject to § 1026.60(c) or accompanying applications or solicitations subject to § 1026.60(e).
 
 (2) *Definitions.* “Deferred interest” means finance charges, accrued on balances or transactions, that a consumer is not obligated to pay or that will be waived or refunded to a consumer if those balances or transactions are paid in full by a specified date. The maximum period from the date the consumer becomes obligated for the balance or transaction until the specified date by which the consumer must pay the balance or transaction in full in order to avoid finance charges, or receive a waiver or refund of finance charges, is the “deferred interest period.” “Deferred interest” does not include any finance charges the consumer avoids paying in connection with any recurring grace period.
 
