@@ -10,7 +10,7 @@
 
 (3) A reconciliation of regulatory capital elements as they relate to its balance sheet in any audited consolidated financial statements.
 
-Table 1 to Paragraph (b)(3) - Capital Structure
+Table 1 to Paragraph (b)(3)—Capital Structure
 
 |                          |                                                                                                                                                                                                   |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,7 +35,7 @@ Table 1 to Paragraph (b)(3) - Capital Structure
 |                          | (1) Tier 2 capital elements, including tier 2 capital instruments; and                                                                                                                            |
 |                          | (2) Regulatory adjustments and deductions made to adjusted total capital.                                                                                                                         |
 
-Table 2 to Paragraph (b)(3) - Capital Adequacy
+Table 2 to Paragraph (b)(3)—Capital Adequacy
 
 |                          |                                                                                                                                          |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@ Table 2 to Paragraph (b)(3) - Capital Adequacy
 |                          | (e) Common equity tier 1, tier 1, and adjusted total risk-based capital ratios.                                                          |
 |                          | (f) Total standardized risk-weighted assets.                                                                                             |
 
-Table 3 to Paragraph (b)(3) - Capital Buffers
+Table 3 to Paragraph (b)(3)—Capital Buffers
 
 |                          |                                                                                                                                                                                                                                                                                  |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -81,7 +81,7 @@ Table 3 to Paragraph (b)(3) - Capital Buffers
 
 (c) For each separate risk area described in Tables 4 through 9, the Enterprise must, as a general qualitative disclosure requirement, describe its risk management objectives and policies, including: Strategies and processes; the structure and organization of the relevant risk management function; the scope and nature of risk reporting and/or measurement systems; policies for hedging and/or mitigating risk and strategies and processes for monitoring the continuing effectiveness of hedges and/or mitigants.
 
-Table 4 to Paragraph (c) 1 - Credit Risk: General Disclosures
+Table 4 to Paragraph (c) 1—Credit Risk: General Disclosures
 
 |                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -119,7 +119,7 @@ Table 4 to Paragraph (c) 1 - Credit Risk: General Disclosures
 
 5 The reconciliation should include the following: A description of the allowance; the opening balance of the allowance; charge-offs taken against the allowance during the period; amounts provided (or reversed) for estimated expected credit losses during the period; any other adjustments (for example, exchange rate differences, business combinations, acquisitions, and disposals of subsidiaries), including transfers between allowances; and the closing balance of the allowance. Charge-offs and recoveries that have been recorded directly to the income statement should be disclosed separately.
 
-Table 5 to Paragraph (c) - General Disclosure for Counterparty Credit Risk-Related Exposures
+Table 5 to Paragraph (c)—General Disclosure for Counterparty Credit Risk-Related Exposures
 
 |                          |                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -135,7 +135,7 @@ Table 5 to Paragraph (c) - General Disclosure for Counterparty Credit Risk-Relat
 
 2 This may include interest rate derivative contracts, foreign exchange derivative contracts, equity derivative contracts, credit derivatives, commodity or other derivative contracts, repo-style transactions, and eligible margin loans.
 
-Table 6 to Paragraph (c) - Credit Risk Mitigation 12
+Table 6 to Paragraph (c)—Credit Risk Mitigation 12
 
 |                          |                                                                                                                                                                                    |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -151,7 +151,7 @@ Table 6 to Paragraph (c) - Credit Risk Mitigation 12
 
 2 Credit derivatives that are treated, for the purposes of this subpart, as synthetic securitization exposures should be excluded from the credit risk mitigation disclosures and included within those relating to securitization (Table 7 of this section).
 
-Table 7 to Paragraph (c) - CRT and Securitization
+Table 7 to Paragraph (c)—CRT and Securitization
 
 |                          |                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -176,7 +176,7 @@ Table 7 to Paragraph (c) - CRT and Securitization
 |                          | (6) How exposures intended to be securitized are valued and whether they are recorded under subpart D of this part; and                                                                                                                                                                                                                |
 |                          | (7) Policies for recognizing liabilities on the balance sheet for arrangements that could require the Enterprise to provide financial support for securitized assets.                                                                                                                                                                  |
 |                          | (d) An explanation of significant changes to any quantitative information since the last reporting period.                                                                                                                                                                                                                             |
-| Quantitative Disclosures | (e) The total outstanding exposures securitized by the Enterprise in securitizations that meet the operational criteria provided in § 1240.41 (categorized into traditional and synthetic securitizations), by exposure type, separately for securitizations of third-party exposures for which the bank acts only as sponsor. 4       |
+| Quantitative Disclosures | (e) The total outstanding exposures securitized by the Enterprise in securitizations that meet the operational criteria provided in § 1240.41 (categorized into traditional and synthetic securitizations), by exposure type, separately for securitizations of third-party exposures for which the Enterprise acts only as sponsor. 4 |
 |                          | (f) For exposures securitized by the Enterprise in securitizations that meet the operational criteria in § 1240.41:                                                                                                                                                                                                                    |
 |                          | (1) Amount of securitized assets that are past due categorized by exposure type; and                                                                                                                                                                                                                                                   |
 |                          | (2) Losses recognized by the Enterprise during the current period categorized by exposure type. 5                                                                                                                                                                                                                                      |
@@ -201,9 +201,9 @@ Table 7 to Paragraph (c) - CRT and Securitization
 
 4 “Exposures securitized” include underlying exposures originated by the Enterprise, whether generated by them or purchased, and recognized in the balance sheet, from third parties, and third-party exposures included in sponsored transactions. Securitization transactions (including underlying exposures originally on the Enterprise's balance sheet and underlying exposures acquired by the Enterprise from third-party entities) in which the originating Enterprise does not retain any securitization exposure should be shown separately but need only be reported for the year of inception. Enterprises are required to disclose exposures regardless of whether there is a capital charge under this part.
 
-5 For example, charge-offs/allowances (if the assets remain on the Enterprise's balance sheet) or credit-related write-off of interest-only strips and other retained residual interests, as well as recognition of liabilities for probable future financial support required of the bank with respect to securitized assets.
+5 For example, charge-offs/allowances (if the assets remain on the Enterprise's balance sheet) or credit-related write-off of interest-only strips and other retained residual interests, as well as recognition of liabilities for probable future financial support required of the Enterprise with respect to securitized assets.
 
-Table 8 to Paragraph (c) - Equities
+Table 8 to Paragraph (c)—Equities
 
 |                          |                                                                                                                                                                                                                                                                                             |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -222,14 +222,14 @@ Table 8 to Paragraph (c) - Equities
 
 1 This disclosure must include a breakdown of equities that are subject to the 0 percent, 20 percent, 100 percent, 300 percent, 400 percent, and 600 percent risk weights, as applicable.
 
-Table 9 to Paragraph (c) - Interest Rate Risk for Non-Trading Activities
+Table 9 to Paragraph (c)—Interest Rate Risk for Non-Trading Activities
 
 |                          |                                                                                                                                                                                                                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Qualitative disclosures  | (a) The general qualitative disclosure requirement, including the nature of interest rate risk for non-trading activities and key assumptions, including assumptions regarding loan prepayments and frequency of measurement of interest rate risk for non-trading activities. |
 | Quantitative disclosures | (b) The increase (decline) in earnings or economic value (or relevant measure used by management) for upward and downward rate shocks according to management's method for measuring interest rate risk for non-trading activities, categorized by currency (as appropriate).  |
 
-Table 10 to Paragraph (c) - Operational Risk
+Table 10 to Paragraph (c)—Operational Risk
 
 |                         |                                                                                                                                                                    |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -237,7 +237,7 @@ Table 10 to Paragraph (c) - Operational Risk
 |                         | (b) Description of the AMA, when applicable, including a discussion of relevant internal and external factors considered in the Enterprise's measurement approach. |
 |                         | (c) A description of the use of insurance for the purpose of mitigating operational risk.                                                                          |
 
-Table 11 to Paragraph (c) - Tier 1 Leverage Ratio
+Table 11 to Paragraph (c)—Tier 1 Leverage Ratio
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Dollar amounts in thousands |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
@@ -279,4 +279,4 @@ Table 11 to Paragraph (c) - Tier 1 Leverage Ratio
 | Tier 1 leverage ratio                                                                                                                                                                                                                                                                                                                                                                                                                           |                             |
 | 22 Tier 1 leverage ratio                                                                                                                                                                                                                                                                                                                                                                                                                        | (in percent)                |
 
-\[87 FR 33429, June 2, 2022\]
+\[87 FR 33429, June 2, 2022, as amended at 87 FR 37979, June 27, 2023\]
