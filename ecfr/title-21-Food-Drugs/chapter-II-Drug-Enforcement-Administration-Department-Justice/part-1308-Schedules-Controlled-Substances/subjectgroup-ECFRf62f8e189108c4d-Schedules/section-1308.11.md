@@ -579,6 +579,10 @@ Meaning an extract containing one or more cannabinoids that has been derived fro
 
 7085 
 
+(86) N-ethylpentylone (Other names: ephylone, 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)pentan-1-one)
+
+7543 
+
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
 (1) gamma-hydroxybutyric acid (some other names include GHB; gamma-hydroxybutyrate; 4-hydroxybutyrate; 4-hydroxybutanoic acid; sodium oxybate; sodium oxybutyrate)
@@ -713,11 +717,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (ii) This definition includes, but is not limited to, the following substances: (A)-(B) \[Reserved\]
 
-(31)-(35) \[Reserved\] 
-
-(36) N-Ethylpentylone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: ephylone, 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)-pentan-1-one)
-
-(7543) 
+(31)-(36) \[Reserved\] 
 
 (37) ethyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (trivial name: 5F-EDMB-PINACA)
 
