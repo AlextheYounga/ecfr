@@ -2,25 +2,25 @@
 
 Link to an amendment published at 89 FR 92006, Nov. 20, 2024.
 
-(a) Issue fee for issuing each original patent, except a design or plant patent, or for issuing each reissue patent: 
+(a) Issue fee for issuing each original patent, except a design or plant patent, or for issuing each reissue patent:
 
 Table 1 to Paragraph (a)
 | By a micro entity (§ 1.29)            | $258.00  |
 | By a small entity (§ 1.27(a))         | 516.00   |
 | By other than a small or micro entity | 1,290.00 |
 
-(b)(1) Issue fee for issuing an original design patent: 
+(b)(1) Issue fee for issuing an original design patent:
 
 Table 2 to Paragraph (b)(1)
 | By a micro entity (§ 1.29)            | $260.00  |
 | By a small entity (§ 1.27(a))         | 520.00   |
 | By other than a small or micro entity | 1,300.00 |
 
-(2) \[Reserved\] 
+(2) \[Reserved\]
 
-(3) Issue fee for issuing an international design application designating the United States, where the issue fee is paid through the International Bureau (Hague Agreement Rule 12(3)(c)) as an alternative to paying the issue fee under paragraph (b)(1) of this section: The amount established in Swiss currency pursuant to Hague Agreement Rule 28 as of the date of mailing of the notice of allowance (§ 1.311). 
+(3) Issue fee for issuing an international design application designating the United States, where the issue fee is paid through the International Bureau (Hague Agreement Rule 12(3)(c)) as an alternative to paying the issue fee under paragraph (b)(1) of this section: The amount established in Swiss currency pursuant to Hague Agreement Rule 28 as of the date of mailing of the notice of allowance (§ 1.311).
 
-(c) Issue fee for issuing an original plant patent: 
+(c) Issue fee for issuing an original plant patent:
 
 Table 3 to Paragraph (c)
 |                                       |         |
