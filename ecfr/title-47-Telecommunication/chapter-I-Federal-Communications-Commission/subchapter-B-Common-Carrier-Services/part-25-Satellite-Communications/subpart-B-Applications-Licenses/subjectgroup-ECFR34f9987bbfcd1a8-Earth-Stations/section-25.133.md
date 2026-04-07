@@ -24,6 +24,6 @@
 
 (c) \[Reserved\]
 
-(d) Each receiving earth station licensed or registered pursuant to § 25.131 must be constructed and placed into service within 6 months after coordination has been completed. Each licensee or registrant must file with the Commission a certification that the facility is completed and operating as provided in paragraph (b) of this section, with the exception of certification of antenna patterns.
+(d) Each receiving earth station licensed or registered pursuant to § 25.115(b) must be constructed and placed into service within 6 months after coordination has been completed. Each licensee or registrant must file with the Commission a certification that the facility is completed and operating as provided in paragraph (b) of this section, with the exception of certification of antenna patterns.
 
-\[56 FR 24016, May 28, 1991, as amended at 58 FR 68059, Dec. 23, 1993; 59 FR 53327, Oct. 21, 1994; 65 FR 59142, Oct. 4, 2000; 70 FR 32254, June 2, 2005; 78 FR 8421, Feb. 6, 2013; 79 FR 8318, Feb. 12, 2014; 81 FR 55330, Aug. 18, 2016\]
+\[56 FR 24016, May 28, 1991, as amended at 58 FR 68059, Dec. 23, 1993; 59 FR 53327, Oct. 21, 1994; 65 FR 59142, Oct. 4, 2000; 70 FR 32254, June 2, 2005; 78 FR 8421, Feb. 6, 2013; 79 FR 8318, Feb. 12, 2014; 81 FR 55330, Aug. 18, 2016; 84 FR 53654, Oct. 8, 2019\]

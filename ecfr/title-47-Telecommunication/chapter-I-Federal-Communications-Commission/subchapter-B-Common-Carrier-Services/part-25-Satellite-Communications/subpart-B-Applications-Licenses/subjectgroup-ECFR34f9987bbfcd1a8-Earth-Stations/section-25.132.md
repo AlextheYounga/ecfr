@@ -20,7 +20,7 @@
 
 (c) The tests specified in paragraph (b) of this section are normally performed at the manufacturer's facility; but for those antennas that are very large and only assembled on-site, on-site measurements may be used for product qualification data. If on-site data is to be used for qualification, the test frequencies and number of patterns should follow, where possible, the recommendations in paragraph (b) of this section, and the test data is to be submitted in the same manner as described in paragraph (a) of this section.
 
-(d) For each new or modified transmitting antenna over 3 meters in diameter, except antennas subject to measurement under § 25.138(d), the following on-site verification measurements must be completed at one frequency on an available transponder in each frequency band of interest and submitted to the Commission.
+(d) For each new or modified transmitting antenna over 3 meters in diameter, the following on-site verification measurements must be completed at one frequency on an available transponder in each frequency band of interest and submitted to the Commission.
 
 (1) Co-polarized patterns in the elevation plane, plus and minus 7 degrees, in the transmit band.
 
@@ -34,4 +34,4 @@
 
 (g) Records of the results of the tests required by this section must be maintained at the antenna site or the earth station operator's control center and be available for inspection.
 
-\[58 FR 13419, Mar. 11, 1993, as amended at 69 FR 5710, Feb. 6, 2004; 70 FR 32253, June 2, 2005; 72 FR 50028, Aug. 29, 2007; 74 FR 47102, Sept. 15, 2009; 74 FR 57098, Nov. 4, 2009; 78 FR 14926, Mar. 8, 2013; 79 FR 8318, Feb. 12, 2014; 81 FR 55330, Aug. 18, 2016\]
+\[58 FR 13419, Mar. 11, 1993, as amended at 69 FR 5710, Feb. 6, 2004; 70 FR 32253, June 2, 2005; 72 FR 50028, Aug. 29, 2007; 74 FR 47102, Sept. 15, 2009; 74 FR 57098, Nov. 4, 2009; 78 FR 14926, Mar. 8, 2013; 79 FR 8318, Feb. 12, 2014; 81 FR 55330, Aug. 18, 2016; 84 FR 53654, Oct. 8, 2019\]
