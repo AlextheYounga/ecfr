@@ -68,13 +68,13 @@ As used in this part—
 
 *DMU locomotive* means a diesel-powered multiple unit operated locomotive with one or more propelling motors designed to carry passenger traffic.
 
-*Excessive noise report* means a report by a locomotive cab occupant that the locomotive is producing an unusual level of noise that significantly interferes with normal cab communications or that is a concern with respect to hearing conservation.
-
 *Electronic air brake* means a brake system controlled by a computer which provides the means for control of the locomotive brakes or train brakes or both.
+
+*Event recorder* means a device, designed to resist tampering, that monitors and records data, as detailed in § 229.135(b), over the most recent 48 hours of operation of the electrical system of the locomotive on which the device is installed. However, a device, designed to resist tampering, that monitors and records the specified data only when the locomotive is in motion meets this definition if the device was installed prior to November 5, 1993 and if it records the specified data for the last eight hours the locomotive was in motion.
 
 *Event recorder memory module* means that portion of an event recorder used to retain the recorded data as described in §§ 229.135(b) and 229.136(a) through (c).
 
-*Event recorder memory module* means that portion of the event recorder used to retain the recorded data as detailed in § 229.135(b).
+*Excessive noise report* means a report by a locomotive cab occupant that the locomotive is producing an unusual level of noise that significantly interferes with normal cab communications or that is a concern with respect to hearing conservation.
 
 *FRA* means the Federal Railroad Administration.
 

@@ -1,4 +1,4 @@
-##### § 520.1372 Methimazole.
+##### § 520.1375 Methimazole tablets.
 
 (a) *Specifications.* Each tablet contains 2.5 or 5 milligrams (mg) methimazole.
 
@@ -10,4 +10,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-\[74 FR 27707, June 11, 2009\]
+\[74 FR 27707, June 11, 2009. Redesignated and amended at 89 FR 95103, Dec. 2, 2024\]

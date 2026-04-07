@@ -1,8 +1,8 @@
 ##### § 661.37 What are the funding limitations on an individual TTF bridge project?
 
-The following funding provisions apply in administration of the TTFBP:
+The following funding provisions apply in administration of the TTFBP: 
 
-(a) There are no funding limitations on an individual TTF bridge application, but the PE estimated cost will be based on the following fee scale:
+(a) There are no funding limitations on an individual TTF bridge application, but the PE estimated cost will be based on the following fee scale: 
 
 *Estimated Construction Cost:*
 
