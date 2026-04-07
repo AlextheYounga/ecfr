@@ -160,7 +160,7 @@
 
 (i) In the GOA may be used only by an eligible community resident of that community.
 
-(ii) In the Aleutian Islands subarea may be used by any person who has received an approved Application for Eligibility as described in paragraph (d) of this section prior to March 17, 2019 and only by an eligible community resident of Adak, AK, after March 17, 2019.
+(ii) In the Aleutian Islands subarea may be used by any person who has received an approved Application for Eligibility as described in paragraph (d) of this section prior to February 28, 2028 and only by an eligible community resident of Adak, AK, after February 28, 2028.
 
 (7) A CQE may transfer QS:
 
