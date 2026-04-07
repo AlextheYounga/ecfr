@@ -12,9 +12,7 @@
 
 (5) The State minimum wage.
 
-(b) *AEWR determinations.*
-
-(1) Except for occupations governed by the procedures in §§ 655.200 through 655.235, the OFLC Administrator will determine the AEWRs as follows:
+(b) *AEWR determinations.* (1) Except for occupations governed by the procedures in §§ 655.200 through 655.235, the OFLC Administrator will determine the AEWRs as follows:
 
 (i) For occupations included in the Department of Agriculture's (USDA) Farm Labor Survey (FLS) field and livestock workers (combined) category:
 

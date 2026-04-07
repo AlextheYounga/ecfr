@@ -3,7 +3,6 @@
 Statutory time limits vary depending on the mode and the service involved and may involve freight charges. The following tables list the time limits:
 
 (a) Time Limits on Actions Taken by the Federal Government Against TSPs
-
 | Mode                                         | Freight charges                | Reparations                    | Loss and damage                                                                                   |
 | -------------------------------------------- | ------------------------------ | ------------------------------ | ------------------------------------------------------------------------------------------------- |
 | (1) Rail                                     | 3 years   49 U.S.C. 11705      | 3 years   49 U.S.C. 11705      | 6 years.   28 U.S.C. 2415.                                                                        |
@@ -15,7 +14,6 @@ Statutory time limits vary depending on the mode and the service involved and ma
 | (7) International Air                        | 6 years   28 U.S.C. 2415       |                                | 2 years.   49 U.S.C. 40105.                                                                       |
 
 (b) Time Limits on Actions Taken by the Federal Government Against TSPs Exempt From Regulation
-
 | Mode    | Freight                  | Reparations | Loss and damage            |
 | ------- | ------------------------ | ----------- | -------------------------- |
 | (1) All | 6 years   28 U.S.C. 2415 |             | 6 years.   28 U.S.C. 2415. |
