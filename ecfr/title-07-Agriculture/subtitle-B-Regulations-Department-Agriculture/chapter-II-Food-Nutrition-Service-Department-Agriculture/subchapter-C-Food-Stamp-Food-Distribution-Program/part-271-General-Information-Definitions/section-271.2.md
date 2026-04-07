@@ -1,6 +1,6 @@
 ##### § 271.2 Definitions.
 
-Link to an amendment published at 81 FR 89839, Dec. 13, 2016.Link to an amendment published at 81 FR 90698, Dec. 15, 2016.Link to an amendment published at 82 FR 2034, Feb. 11, 2017.
+Link to an amendment published at 82 FR 2034, Jan. 6, 2017.
 
 *Access device* means any card, plate, code, account number, or other means of access that can be used alone, or in conjunction with another access device, to obtain payments, allotments, benefits, money, goods, or other things of value, or that can be used to initiate a transfer of funds under the Food and Nutrition Act of 2008, as amended.
 
@@ -100,6 +100,16 @@ Link to an amendment published at 81 FR 89839, Dec. 13, 2016.Link to an amendmen
 
 *Federal fiscal year* means a period of 12 calendar months beginning with each October 1 and ending with September 30 of the following calendar year.
 
+*Firm.* (1) *Firm* means:
+
+(i) A retail food store that is authorized to accept or redeem SNAP benefits;
+
+(ii) A retail food store that is not authorized to accept or redeem SNAP benefits; or
+
+(iii) An entity that does not meet the definition of a retail food store.
+
+(2) For purposes of the regulations in this subchapter and SNAP policies, the terms firm, entity, retailer, and store are used interchangeably.
+
 *Firm's practice* means the usual manner in which personnel of a firm or store accept food coupons as shown by the actions of the personnel at the time of the investigation.
 
 *FNS* means the Food and Nutrition Service of the U.S. Department of Agriculture.
@@ -126,7 +136,7 @@ Link to an amendment published at 81 FR 89839, Dec. 13, 2016.Link to an amendmen
 
 *House-to-house trade route* means any retail food business operated from a truck, bus, pushcart, or other mobile vehicle.
 
-*Identification (ID) card* means a card which identifies the bearer as eligible to receive and use food coupons.
+*Identification (ID) card* means a card for the purposes of 7 CFR 278.2(j).
 
 *Immigration and Naturalization Service (INS)* means the Immigration and Naturalization Service, U.S. Department of Justice.
 
@@ -196,7 +206,7 @@ Link to an amendment published at 81 FR 89839, Dec. 13, 2016.Link to an amendmen
 
 *Retail food store* means:
 
-(1) An establishment or house-to-house trade route that sells food for home preparation and consumption normally displayed in a public area, and either offers for sale, on a continuous basis, a variety of foods in sufficient quantities in each of the four categories of staple foods including perishable foods in at least two such categories (Criterion A) as set forth in § 278.1(b)(1) of this chapter, or has more than 50 percent of its total gross retail sales in staple foods (Criterion B) as set forth in § 278.1(b)(1) of this chapter as determined by visual inspection, marketing structure, business licenses, accessibility of food items offered for sale, purchase and sales records, counting of stockkeeping units, or other inventory or accounting recordkeeping methods that are customary or reasonable in the retail food industry as set forth in § 278.1(b)(1) of this chapter. Entities that have more than 50 percent of their total gross retail sales in hot and/or cold prepared, ready-to-eat foods that are intended for immediate consumption either for carry-out or on-premises consumption, and require no additional preparation, are not eligible for FSP participation as retail food stores under § 278.1(b)(1) of this chapter.
+(1) An establishment or house-to-house trade route that sells food for home preparation and consumption normally displayed in a public area, and either offers for sale qualifying staple food items on a continuous basis, evidenced by having no fewer than seven different varieties of food items in each of the four staple food categories with a minimum depth of stock of three stocking units for each qualifying staple variety, including at least one variety of perishable foods in at least three such categories, (Criterion A) as set forth in § 278.1(b)(1) of this chapter, or has more than 50 percent of its total gross retail sales in staple foods (Criterion B) as set forth in § 278.1(b)(1) of this chapter as determined by visual inspection, marketing structure, business licenses, accessibility of food items offered for sale, purchase and sales records, counting of stockkeeping units, or other accounting recordkeeping methods that are customary or reasonable in the retail food industry as set forth in § 278.1(b)(1) of this chapter. Entities that have more than 50 percent of their total gross retail sales in: Food cooked or heated on-site by the retailer before or after purchase; and hot and/or cold prepared foods not intended for home preparation and consumption, including prepared foods that are consumed on the premises or sold for carry-out are not eligible for SNAP participation as retail food stores under § 278.1(b)(1) of this chapter. Establishments that include separate businesses that operate under one roof and share the following commonalities: Ownership, sale of similar foods, and shared inventory, are considered to be a single firm when determining eligibility to participate in SNAP as retail food stores.
 
 (2) Public or private communal dining facilities and meal delivery services; private nonprofit drug addict or alcoholic treatment and rehabilitation programs; publicly operated community mental health centers which conduct residential programs for drug addicts and/or alcoholics; public or private nonprofit group living arrangements; public or private nonprofit shelters for battered women and children; public or private nonprofit establishments, approved by an appropriate State or local agency, that feed homeless persons; or a restaurant that contracts with an appropriate State agency to provide meals at concessional (low or reduced) prices to homeless SNAP households;
 
@@ -226,7 +236,7 @@ Link to an amendment published at 81 FR 89839, Dec. 13, 2016.Link to an amendmen
 
 *SSA processed/demonstration case* means a case that is participating or has been denied based upon processing by SSA personnel or is participating or has been denied/terminated based upon the rules of a demonstration project with significantly different certification rules (as identified by FNS).
 
-*Staple food* means those food items intended for home preparation and consumption in each of the following food categories: meat, poultry, or fish; bread or cereals; vegetables or fruits; and dairy products. Commercially processed foods and prepared mixtures with multiple ingredients shall only be counted in one staple food category. For example, foods such as cold pizza, macaroni and cheese, multi-ingredient soup, or frozen dinners, shall only be counted as one staple food item and will normally be included in the staple food category of the main ingredient as determined by FNS. Hot foods are not eligible for purchase with SNAP benefits and, therefore, do not qualify as staple foods for the purpose of determining eligibility under § 278.1(b)(1) of this chapter. Accessory food items including, but not limited to, coffee, tea, cocoa, carbonated and uncarbonated drinks, candy, condiments, and spices shall not be considered staple foods for the purpose of determining eligibility of any firm. However, accessory foods that are offered for sale in authorized retail food stores are eligible food items which may be purchased with SNAP benefits.
+*Staple food* means those food items intended for home preparation and consumption in each of the following four categories: Meat, poultry, or fish; bread or cereals; vegetables or fruits; and dairy products. The meat, poultry, or fish staple food category also includes up to three types of plant-based protein sources (*i.e.,* nuts/seeds, beans, and peas) as well as varieties of plant-based meat analogues (e.g., tofu). The dairy products staple food category also includes varieties of plant-based dairy alternative staple food items such as, but not limited to, almond milk and soy yogurt. Hot foods are not eligible for purchase with SNAP benefits and, therefore, do not qualify as staple foods for the purpose of determining eligibility under § 278.1(b)(1) of this chapter. Commercially processed foods and prepared mixtures with multiple ingredients that do not represent a single staple food category shall only be counted in one staple food category. For example, foods such as cold pizza, macaroni and cheese, multi-ingredient soup, or frozen dinners, shall only be counted as one staple food item and will be included in the staple food category of the main ingredient as determined by FNS. Accessory food items include foods that are generally considered snack foods or desserts such as, but not limited to, chips, ice cream, crackers, cupcakes, cookies, popcorn, pastries, and candy, and other food items that complement or supplement meals, such as, but not limited to, coffee, tea, cocoa, carbonated and uncarbonated drinks, condiments, spices, salt, and sugar. Items shall not be classified as accessory food exclusively based on packaging size but rather based on the aforementioned definition and as determined by FNS. A food product containing an accessory food item as its main ingredient shall be considered an accessory food item. Accessory food items shall not be considered staple foods for purposes of determining the eligibility of any firm.
 
 *State* means any one of the fifty States, the District of Columbia, Guam, the Virgin Islands of the United States, and the reservation of an Indian tribe whose ITO meets the requirements of the Food and Nutrition Act of 2008 for participation as a State agency.
 

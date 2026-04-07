@@ -34,9 +34,7 @@
 
 (ii) Contract number and order number.
 
-(iii) For supplies and services, contract item number and description, quantity, and unit price or estimated cost or fee.
-
-(iv) Delivery or performance schedule.
+(iii) For supplies and services, line item number, subline item number (if applicable), description, quantity, and unit price or estimated cost and fee (as applicable). The corresponding line item number and subline item number from the base contract shall also be included.
 
 (v) Place of delivery or performance (including consignee).
 

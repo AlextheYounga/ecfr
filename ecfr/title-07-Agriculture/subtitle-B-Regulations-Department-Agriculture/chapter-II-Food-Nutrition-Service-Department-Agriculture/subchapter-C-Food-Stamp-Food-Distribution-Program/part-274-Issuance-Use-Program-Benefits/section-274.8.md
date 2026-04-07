@@ -1,7 +1,5 @@
 ##### § 274.8 Functional and technical EBT system requirements.
 
-Link to an amendment published at 81 FR 89840, Dec. 13, 2016.
-
 (a) *Functional requirements.* The State agency shall ensure that the EBT system is capable of performing the following functional requirements prior to implementation:
 
 (1) *Authorizing household benefits.* (i) Issuing and replacing EBT cards to eligible households;
@@ -150,11 +148,13 @@ Link to an amendment published at 81 FR 89840, Dec. 13, 2016.
 
 (5) *Minimum card requirements.* (i) The address of the office where a card can be returned if found or no longer in use should be printed on the card.
 
-(ii) FNS reserves the right to require State agencies to place a Department logo on the EBT card and/or sleeves or jackets.
+(ii) State agencies that implement the photo EBT card option in accordance with paragraph (f) of this section must print on the EBT cards the text “Any user with valid PIN can use SNAP benefits on card and need not be pictured.” or similar alternative text approved by FNS.
 
-(iii) EBT cards and/or sleeves or jackets shall not contain the name of any State or local official. EBT informational materials shall not indicate association with any political party or other political affiliation.
+(iii) FNS reserves the right to require State agencies to place a Department logo on the EBT card and/or sleeves or jackets.
 
-(iv) State agencies may require the use of a photograph of one or more household members on the card. If the State agency does require the EBT cards to contain a photo, it must establish procedures to ensure that all appropriate household members or authorized representatives are able to access benefits from the account as necessary.
+(iv) EBT cards and/or sleeves or jackets shall not contain the name of any State or local official. EBT informational materials shall not indicate association with any political party or other political affiliation.
+
+(v) State agencies may require the use of a photograph of one or more household members on the card. If the State agency does require the EBT cards to contain a photo, it must establish procedures to ensure that all appropriate household members or authorized representatives are able to access benefits from the account as necessary.
 
 (6) *POS terminals.* POS terminals shall meet the following requirements:
 
@@ -246,4 +246,136 @@ Link to an amendment published at 81 FR 89840, Dec. 13, 2016.
 
 (ii) In States that elect not to give retailers the option described in this paragraph, all store-and-forward transactions with insufficient funds will be denied in full.
 
-\[75 FR 18381, Apr. 12, 2010, as amended at 79 FR 11, Jan. 2, 2014\]
+(f) *State agency requirements for photo EBT card implementation* - (1) Minimum requirements. Prior to implementation, State agencies must be performing sufficiently well in program administration to be eligible to implement the photo EBT card option.
+
+Prior to implementation, State agencies must demonstrate to FNS successful administration of SNAP based on SNAP performance standards. Successful program administration will take into account at a minimum the metrics related to program access, the State's payment error rate, the State's Case and Procedural Error Rate, application processing timeliness, including both the 7-day expedited processing and the 30-day processing standards, timeliness of recertification actions, and other metrics, as determined by the Secretary, that may be relevant to the State agency's implementation of photo EBT cards.
+
+(2) *Function of issuance.* The photo EBT card option is a function of issuance and not a condition of eligibility. Any implementation of the option to place a photo on the EBT card must not impact the certification of households. An application will be considered complete with or without a photo and a case shall be certified regardless of the status of a photo in accordance with timeframes established under 7 CFR 273.2. If a State agency chooses to implement a voluntary photo EBT card policy, issuance shall not be impacted. If a State agency chooses to implement a mandatory photo EBT card policy, a State agency may not deny or terminate a household because a household member who is exempted by paragraph (f)(4) of this section does not comply with the requirement to place a photo on the EBT card.
+
+(3) *Mandatory vs. voluntary.* (i) State agencies shall have the option to implement a photo on EBT cards on a mandatory or voluntary basis. Regardless of whether the photo is mandatory or voluntary, the certification process must not be altered in order to facilitate photos, and clients must be informed that certification will not be impacted by whether or not a photo is on the card.
+
+(ii) Under mandatory implementation, State agencies must exempt certain clients, as stated in paragraph (f)(4) of this section. State agencies must establish which member(s) of the household would be required to be photographed and the procedures that allow eligible nonexempt household members who do not agree to the photo to come into compliance at a later time.
+
+(iii) Under voluntary implementation, clients must be clearly informed of the voluntary nature of the option. All applicant members of households, whether or not they are in an exempted category, must opt in to have a photo on their EBT card. States shall not require a photo be taken if the State is implementing a voluntary option.
+
+(4) *Exemptions.* Under a mandatory implementation, the State agency must exempt, at a minimum, the elderly, the disabled, children under 18, homeless households, and victims of domestic violence. A victim of domestic violence shall be able to self-attest and cannot be required to submit documentation to prove domestic violence. The ability to self-attest must be applied equally regardless of if the victim is a female or male. Non-applicants cannot have a photo taken for an EBT card whether or not they desire to have their photo taken. A State agency may establish additional exempted categories.
+
+(5) *Serving clients with hardship.* State agencies must have sufficient capacity to issue photo EBT cards and a process or procedure in place to address, on a case-by-case basis, household hardship situations as determined by the State agency so that such household benefits are not unduly withheld. Examples of hardship conditions include, but are not limited to: Illness, transportation difficulties, care of a household member, hardships due to residency in a rural area, prolonged severe weather, or work or training hours which prevent the household from being available during the hours that photos are taken in-office. These are households that do not already fall under the mandatory exemptions or other exemptions established by the State under paragraph (f)(4) of this section .
+
+(6) *Issuance of photo EBT card.* (i) States can require households to come in to be photographed, but cannot do so for the purposes of certification. The amount of time provided to households to come in and be photographed needs to be sufficient and reasonable and be documented in the Implementation Plan as required in paragraph (f)(14) of this section.
+
+(ii) Regardless of whether the State's photo EBT card policy is voluntary or mandatory, if a household meets expedited criteria, the State must issue the EBT card without a photo and provide the full benefit allotment to the entire household without delay. The State agency may require a nonexempt head of household member to comply at the next recertification.
+
+(iii) Card issuance procedures for new SNAP households must ensure adherence to application processing standards as required at 7 CFR 273.2(g) and (i) and benefit issuance standards at § 274.2(b).
+
+(iv) State agencies shall not store photos that are collected in conjunction with its photo EBT card policy but are not placed on an EBT card.
+
+(v) The process for issuing and activating photo EBT cards must not disrupt, inhibit or delay access to benefits nor cause a gap in access for ongoing benefits for eligible households.
+
+(vi) Any card issued as part of the implementation of the photo EBT card option may not count against the household with respect to card replacement fees or the card replacement threshold defined in § 274.6(b).
+
+(7) *Prorating household benefits when photo EBT cards are mandatory.* For multi-person households, State agencies shall not withhold benefits for an entire household because nonexempt household members do not comply with the photo EBT card policy. If benefits of the nonexempt household member(s) are to be withheld, a prorated share of benefits shall be issued to the household member(s) that are in compliance with or are exempt from the photo requirement. For example, if there are four household members and one household member is not in compliance with the photo requirement, 3-4 of the household's monthly benefit allotment must be issued, and 1-4 of the benefit allotment must be held in abeyance and allowed to accrue until the household member complies. For a single person household, the State agency would hold all the benefits in abeyance until the household complies.
+
+(8) *Benefits held for noncompliance.* Benefits held for noncompliance with the photo EBT card requirement must be withheld from issuance in accordance with paragraph (f)(7) of this section. Benefits withheld for noncompliance shall not remain authorized for perpetuity, and States must treat such benefits in accordance with the same timeframe used for handling expungements under § 274.2(h)(2). If the noncompliant member comes into compliance, the non-expired benefits must be issued within two business days of when the State agency obtains the client photo. Any action to withhold benefits from issuance is subject to fair hearings in accordance with 7 CFR 273.15.
+
+(9) *Household and authorized representative card usage.* The State agency must establish procedures to ensure that all appropriate household members and authorized representatives (including individuals permitted by the household to purchase food or meals on their behalf, as provided for in 7 CFR 273.2(n)(3) and § 274.7(a)), can access SNAP benefits for the household regardless of who is pictured on the card or if there is no picture. States shall not require households to notify or provide the State information regarding individuals making purchases permitted by the household on an ad-hoc basis.
+
+(10) *Client and staff training.* State agencies must ensure staff and clients are properly trained on photo EBT card requirements. At a minimum, this training shall include: Whether the State option is voluntary or mandatory, who must comply with the photo requirement, which household members are exempt, and that all appropriate household members and authorized representatives (including individuals permitted by the household to purchase food or meals on its behalf) are able to use the card regardless of who is pictured on the card or if there is no picture.
+
+(i) All staff and client training materials must clearly describe the following statutory and regulatory requirements:
+
+(A) Retailers must allow all appropriate household members and authorized representatives (including individuals permitted by the household to purchase food or meals on its behalf), regardless of whether they are pictured on the card, to utilize the card without having to submit additional verification of identity as long as the transaction is secured by the use of the PIN;
+
+(B) EBT cards with or without a photo are valid in any State; and
+
+(C) Retailers must treat all SNAP clients in the same manner as non-SNAP clients;
+
+(ii) State agencies may not specifically reference which categories of individuals are exempt from the photo EBT requirement in any materials to retailers.
+
+(11) *Retailer education and responsibility.* State agencies must conduct sufficient education of retailers if photos are used on cards. The State agency must clearly inform all retailers in the State and contiguous areas of implementation. State agency communications with retailers must clearly state:
+
+(i) All household members and authorized representatives (including individuals permitted by the household to purchase food or meals on its behalf) are entitled to use the EBT card regardless of the picture on the card if the EBT card is presented with the valid PIN;
+
+(ii) Retailers must treat all SNAP clients in the same manner as non-SNAP clients in accordance with 7 CFR 278.2(b);
+
+(iii) Retailers must not prohibit individuals who have a EBT card and valid PIN, including but not limited to authorized representatives (including individuals permitted by the household to purchase food or meals on its behalf), from using an EBT card because they are not pictured on the card or there is no picture on the card;
+
+(iv) EBT cards from any State are valid with or without a photo.
+
+(12) *Interoperability.* Interoperability of EBT cards will remain the same regardless of whether or not there is a photo and regardless of which State issued the card. State agencies must conduct sufficient education of clients and retailers, including retailers in contiguous areas, to inform them that the photo EBT cards remain interoperable and authorized retailers must accept EBT cards from all States as long as the user has a valid PIN.
+
+(13) *Advance Planning Document.* Appropriate implementation and administration of the photo EBT card consistent with all applicable requirements is an allowable State administrative cost that FNS shall reimburse at 50 percent in accordance with 7 CFR part 277. Increased costs related to placing photos on the EBT card, whether contractual or produced from other sources, require an Implementation Advance Planning Document Update.
+
+(14) *Implementation Plan.* (i) State agencies must submit an Implementation Plan for approval prior to implementation that delineates how the State agency will operationalize the photo EBT option. FNS shall review the plan and issue an approval, request modifications prior to granting approval or issue an approval subject to conditions. In cases where FNS finds that the steps outlined in the Implementation Plan are not sufficient for a successful implementation, FNS may deny the Implementation Plan or issue an approval subject to conditions, such as requiring the State agency to implement a successful pilot in a selected region of the State before a statewide implementation. Should a State be required to implement a pilot before statewide implementation, that requirement would be documented in the State's Implementation Plan approval, along with any information the State must report to FNS before expansion approval would be provided by FNS.
+
+(ii) State agencies must demonstrate successful administration of SNAP based on SNAP performance standards as established in paragraph (f)(1) of this section. State agencies shall not issue EBT cards with photos before the State's Implementation Plan is approved and the State agency has also received FNS authorization to proceed to issue photo EBT cards.
+
+(iii) The Implementation Plan shall include but not be limited to:
+
+(A) A description of card issuance procedures;
+
+(B) The text required at paragraph (b)(5)(ii) of this section;
+
+(C) A detailed description of how client protections and ability to use SNAP benefits will be preserved;
+
+(D) Specific information about exempted recipients, the State agency's exemption criteria, and how it will address the needs of household members with hardships;
+
+(E) A description of how the State agency will obtain photographs for the EBT card;
+
+(F) The procedures for opting into a voluntary photo EBT card policy and how the State agency will document that a household voluntarily chose to have a photo on its EBT card;
+
+(G) Training materials and training plans for State agency staff;
+
+(H) A description of any planned stakeholder assistance with implementation;
+
+(I) Communication plans for informing clients, retailers and other stakeholders of the State agency's photo EBT card policy, including copies of letters and other materials communicating the policy to clients, retailers, and other stakeholders. Communication plans must describe compliance with language requirements at 7 CFR 272.4(b);
+
+(J) A timeline for the implementation; and
+
+(K) Draft memoranda of understanding if the State agency plans to share SNAP client data in accordance with 7 CFR 272.1(c) for purposes of implementing its photo EBT card option. The memoranda of understanding must state how any information collected will be securely stored and that the information can only be shared for the purpose of SNAP in accordance with 7 CFR 272.1(c).
+
+(iv) The Implementation Plan shall also address the anticipated timetable with specific action steps for the State agency and contractors, if any, that may be involved regarding implementation of the photo EBT card option, the State agency's capacity to issue photo EBT cards, and the logistics that shall allow for activation of the photo EBT card simultaneously or followed by deactivation of the active non-photo EBT card. This shall also include the description of the capacity at the facility where the photo EBT cards will be produced, both for transition and ongoing production, and confirmation that the State agency and any contractor will continue to meet regulatory time requirements for all EBT card issuances and replacements, including for expedited households. The Implementation Plan must also include indicators related to the photo EBT card implementation that the State will collect and analyze for the post implementation evaluation required by paragraph (f)(16) of this section in addition to the State's approach for continued oversight, which may include activities as such as the use of test shoppers.
+
+(v) The State agency shall provide all applicable proposed written policy for staff to implement the photo EBT card option to FNS for review. State agencies shall include copies of all materials that will be used to inform clients, retailers and other stakeholders regarding photo EBT card implementation. In addition, the State agencies shall provide a detailed description of how the notifications, communication, policies, and procedures regarding the implementation of any new photo EBT card option will comply with applicable civil rights laws specified at 7 CFR 272.4(b)and 272.6(a).
+
+(vi) The State agency's Implementation Plan shall also include: (A) An education component for retailers and clients to ensure all eligible household members and authorized representatives (including individuals permitted by the household to purchase food or meals on their behalf) are able to use the EBT card, and understand the timeframes associated with the implementation and rollout.
+
+(B) A description of the resources that will be in place to handle comments, questions and complaints from clients, retailers, and external stakeholders, and
+
+(C) A description of procedures to address unexpected events related to the photo EBT card option.
+
+(vii) Upon approval of the Implementation Plan by FNS, the State may proceed with tasks described in the Implementation Plan, as modified by the approval, but may not proceed to issuing actual cards until it receives FNS authorization to do so. FNS may also require the State to implement in a phased manner, which may include criteria as determined by the Secretary.
+
+(15) *Authorization to issue photo EBT cards.* States agencies shall not be permitted to issue EBT cards with photos until FNS provides an explicit authorization to issue photo EBT cards. After an Implementation Plan is approved, FNS will review the State agency's actions at an appropriate time interval to ensure that the process and steps outlined by the State agency in the Implementation Plan are fulfilled. In cases where the State agency has not acted consistently with the process and steps outlined in its photo EBT card Implementation Plan, FNS may deny authorization for the State agency to issue EBT cards with photos until the State agency has done so successfully.
+
+(16) *Post implementation assessment and evaluation.* State agencies must submit to FNS a post-implementation assessment that provides FNS with a report of the results of its implementation, including any issues that arose and how they were resolved, the degree to which State agency staff, clients and retailers properly understood and implemented the new provisions.
+
+(i) This report shall be delivered to FNS within 120 days of implementation. This report shall cover the first 90 days of implementation. The Department also reserves the right to conduct its own review of the State agency's implementation. The State agency's post-implementation report shall include at a minimum:
+
+(A) A survey of clients conducted by an independent evaluator to demonstrate the clients' clear understanding of the State agency's photo EBT policy;
+
+(B) A survey of retailers conducted by an independent evaluator that demonstrates evidence that at least 80 percent of retailers, including smaller independent retailers, demonstrate a full understanding of the policies related to the photo EBT card, which may include the use of test shoppers;
+
+(C) The amount and percent of benefits held for noncompliance if mandatory;
+
+(D) The number and percent of households with photo EBT cards;
+
+(E) The number of households affected by withholding for noncompliance, if mandatory;
+
+(F) The number and percent of households exempt from the photo EBT card requirement if mandatory;
+
+(G) The number and percent of exempted households who opted for photo EBT cards if mandatory;
+
+(H) The number and scope of complaints related to the implementation of the policy;
+
+(I) The State agency's Case and Procedural Error Rate; and
+
+(J) SNAP performance metrics as established in paragraph (f)(1) of this section and other SNAP performance metrics that may have been adversely affected by the implementation of the State agency's photo EBT card option, as determined by the Secretary.
+
+(ii) \[Reserved\]
+
+(17) *Ongoing monitoring.* FNS will continue to monitor and evaluate the operation of the option. State agencies shall provide FNS additional information upon request or as may be required by other guidelines established by the Secretary to conduct such evaluations.
+
+(18) *Modifying implementation of photo EBT card option.* If any review or evaluation of a State's operations, including photo EBT operation implementation, finds deficiencies, FNS may require a corrective action plan consistent with 7 CFR 275.16 to reduce or eliminate deficiencies. If a State does not take appropriate actions to address the deficiencies, FNS would consider possible actions such as requiring an updated photo EBT Implementation Plan, suspension of the photo EBT policy and/or withholding funds in accordance with 7 CFR 276.4.
+
+\[75 FR 18381, Apr. 12, 2010, as amended at 79 FR 11, Jan. 2, 2014; 81 FR 89840, Dec. 13, 2016\]

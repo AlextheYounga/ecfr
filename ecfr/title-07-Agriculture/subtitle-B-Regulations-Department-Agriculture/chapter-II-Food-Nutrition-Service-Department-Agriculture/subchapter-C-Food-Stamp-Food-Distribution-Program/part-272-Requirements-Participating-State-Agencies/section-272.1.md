@@ -1,7 +1,5 @@
 ##### § 272.1 General terms and conditions.
 
-Link to an amendment published at 81 FR 89839, Dec. 13, 2016.
-
 (a) *Coupons do not reduce benefits.* The coupon allotment provided any eligible household shall not be considered income or resources for any purpose under any Federal, State, or local laws including, but not limited to, laws on taxation, welfare, and public assistance programs. No participating State or political subdivision shall decrease any assistance otherwise provided an individual or individuals because of the receipt of a coupon allotment.
 
 (b) *No sales taxes on food stamp purchases.* (1) A State shall not participate in the Food Stamp Program if State or local sales taxes or other taxes or fees, including but not limited to excise taxes, are collected within the State on purchases made with food stamp coupons. “Purchases made with food coupons” for purposes of this provision shall refer to purchases of “eligible foods” as defined in § 271.2. Where the total value of groceries being bought by the recipient is larger than the amount of coupons being presented by the recipient, only the portion of the sale made in exchange for food stamps must be exempt from taxation in order for a State to satisfy the requirements of this provision. Although a food stamp recipient may use a combination of cash and food stamps in making a food purchase, only the dollar amount represented by the food coupons needs to be exempt from taxation.
@@ -200,7 +198,7 @@ Link to an amendment published at 81 FR 89839, Dec. 13, 2016.
 
 (29) *Amendment 190.* State agencies shall implement these regulations no later than January 1, 1982. The rules are effective November 9, 1981.
 
-(30) *Amendment 191.* Areas subject to the photo ID card requirement must have issued photo ID cards (or cards annotated to indicate that the card is valid without a photograph, in accordance with § 273.10(g)(4)(ii)(C)) to all participating households, and shall require presentation of photo ID cards (or the annotated cards) at issuance points as a precondition of issuing coupons to households, no later than the first of the month that is 12 months after the publication of final regulations. Any areas that become subject to the photo ID card requirement at a later date shall also come into full compliance no later than the first of the month that occurs 12 months after FNS notifies the State agency that the area is subject to the requirement.
+(30) \[Reserved\]
 
 (31) *Amendment 169.* The provisions of Amendment 169 shall be effective March 30, 1981. These provisions shall apply to the period beginning October 1, 1980, except that the provisions of § 277.4(b)(2) shall apply to the period October 1, 1978 through October 1, 1980. No State shall be subject to sanctions based upon quality control error rates for any period prior to October 1, 1980. No State shall receive enhanced funding based upon quality control data for a period prior to the date upon which its quality control system was in operation.
 
@@ -242,9 +240,7 @@ Link to an amendment published at 81 FR 89839, Dec. 13, 2016.
 
 (46) *Amendment 225.* The State agency shall obtain FNS approval for the exclusion of energy assistance provided under any State or local program, in accordance with the criteria set forth in §§ 273.8(e)(14) and 273.9(c)(11), within six months of the date of publication of the final rule. State or local energy assistance which is not approved during this six month period shall cease to be excluded at the end of the period. The new provisions concerning restoration of lost benefits in § 273.17 (a) and (e) shall be implemented no later than 120 days following publication of the final rule.
 
-(47) *Amendment 227.* (i) In accordance with § 276.2(b)(3) (iii), FNS will hold State agencies strictly liable for losses by issuance agents where reconciliation shows noncompliance with photographic identification (photo ID) card requirements beginning with the fiscal quarter that begins January 1, 1983.
-
-(ii) State agencies shall include provisions establishing the liability to the State agency of an issuing agent for the issuance losses covered in § 274.1(b)(6) in the next contract or agreement between the State agency and the issuing agent that is entered into or renewed after publication of this rule. Not later than one year following such publication, all contracts or agreements shall contain the required provision establishing the liability. However, failure of State agencies to include this language in contracts will not absolve the State agencies of the liability referred to in paragraph (g)(47)(i) of this section.
+(47) \[Reserved\]
 
 (48) *Amendment 228.* FNS will consider requests for waivers to monthly reporting requirements beginning November 5, 1982.
 
