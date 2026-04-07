@@ -40,10 +40,6 @@
 
 (4) To receive necessary care in all care settings, up to and including placement in a long-term care facility when the PACE organization can no longer provide the services necessary to maintain the participant safely in the community.
 
-(3) To have reasonable and timely access to specialists as indicated by the participant's health condition and consistent with current clinical practice guidelines.
-
-(4) To receive necessary care in all care settings, up to and including placement in a long-term care facility when the PACE organization can no longer provide the services necessary to maintain the participant safely in the community.
-
 (5) To disenroll from the program at any time and have such disenrollment be effective the first day of the month following the date the PACE organization receives the participant's notice of voluntary disenrollment as set forth in § 460.162(a).
 
 (d) *Access to emergency services.* Each participant has the right to access emergency health care services when and where the need arises without prior authorization by the PACE interdisciplinary team.

@@ -1,3 +1,3 @@
-##### § 551.306 Person.
+##### § 551.306 Entity.
 
-The term *person* means an individual or entity.
+The term *entity* means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization.
