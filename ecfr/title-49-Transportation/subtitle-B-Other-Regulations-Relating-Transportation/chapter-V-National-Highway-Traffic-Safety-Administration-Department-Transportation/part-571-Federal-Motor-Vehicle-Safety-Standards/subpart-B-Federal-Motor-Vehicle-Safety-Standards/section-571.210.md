@@ -1,5 +1,7 @@
 ##### § 571.210 Standard No. 210; Seat belt assembly anchorages.
 
+Link to an amendment published at 89 FR 76271, Sept. 17, 2024.
+
 S1. *Purpose and scope.* This standard establishes requirements for seat belt assembly anchorages to insure their proper location for effective occupant restraint and to reduce the likelihood of their failure.
 
 S2. *Application.* This standard applies to passenger cars, multipurpose passenger vehicles, trucks, buses, and school buses.
