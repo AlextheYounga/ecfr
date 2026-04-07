@@ -14,7 +14,7 @@ For purposes of this subpart, unless explicitly stated to the contrary:
 
 (f) *Institution* includes: (1) Any Federal credit union as that term is defined in section 101(1) of the Act (12 U.S.C. 1752(1)); and
 
-(2) Any insured state credit union as that term is defined in section 101(7) of the FCUA (12 U.S.C. 1752(7)).
+(2) Any insured state-chartered credit union as that term is defined in section 101(7) of the FCUA (12 U.S.C. 1752(7)).
 
 (g) *Institution-affiliated party* means any institution-affiliated party as that term is defined in section 206(r) of the Act (12 U.S.C. 1786(r)).
 

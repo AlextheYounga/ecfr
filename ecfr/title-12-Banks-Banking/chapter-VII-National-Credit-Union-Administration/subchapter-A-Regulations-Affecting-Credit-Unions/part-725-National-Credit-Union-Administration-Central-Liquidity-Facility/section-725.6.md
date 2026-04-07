@@ -8,4 +8,4 @@
 
 (d)(1) If membership is terminated under any provision of this section, the terminated member's stock shall be redeemed upon termination. In such event, the Facility may retain any amount owed to the Facility by the member.
 
-(2) When a member natural person credit union withdraws from membership in a central credit union which is an Agent or a member of an Agent group, the stock subscription of the Agent, or in the case of an Agent group, the stock subscription of the Agent group representative, will be adjusted after the waiting period which would apply under paragraph (a) or (b) of this section if the withdrawing credit union were a member of the Facility.
+(2) When a member natural person credit union withdraws from membership in a corporate credit union which is an Agent or a member of an Agent group, the stock subscription of the Agent, or in the case of an Agent group, the stock subscription of the Agent group representative, will be adjusted after the waiting period which would apply under paragraph (a) or (b) of this section if the withdrawing credit union were a member of the Facility.

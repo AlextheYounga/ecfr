@@ -8,7 +8,7 @@
 
 (2) With respect to loans, NCUA will also require a Qualifying Credit Union to develop and submit a narrative describing how the Qualifying Credit Union intends to use the money obtained from the Fund to enhance the products or services it provides to its membership and how those enhanced products or services support the membership and community served by the Qualifying Credit Union.
 
-(3) In addition to those items required in this section, a Qualifying Credit Union that is a non-federally insured state-chartered credit union must also include the following:
+(3) In addition to those items required in this section, a Qualifying Credit Union that is a noninsured credit union must also include the following:
 
 (i) A copy of its most recent external audit report;
 

@@ -220,7 +220,7 @@ shall not be more favorable than the rates, terms and conditions for comparable 
 
 (7) *Assumption of real estate loans by nonmembers.* A Federal credit union may permit a nonmember to assume a member's mortgage loan in conjunction with the nonmember's purchase of the member's principal residence, provided that the nonmember assumes only the remaining unpaid balance of the loan, the terms of the loan remain unchanged, and there is no extension of the original maturity date specified in the loan agreement with the member. An assumption is impermissible if the original loan was made with the intent of having a nonmember assume the loan.
 
-(h) *Third-party servicing of indirect vehicle loans.* (1) A federally-insured credit union must not acquire any vehicle loan, or any interest in a vehicle loan, serviced by a third-party servicer if the aggregate amount of vehicle loans and interests in vehicle loans serviced by that third-party servicer and its affiliates would exceed:
+(h) *Third-party servicing of indirect vehicle loans.* (1) A federally insured credit union must not acquire any vehicle loan, or any interest in a vehicle loan, serviced by a third-party servicer if the aggregate amount of vehicle loans and interests in vehicle loans serviced by that third-party servicer and its affiliates would exceed:
 
 (i) 50 percent of the credit union's net worth during the initial thirty months of that third-party servicing relationship; or
 

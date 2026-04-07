@@ -14,7 +14,7 @@ For purposes of this part, the following terms shall have the meanings assigned 
 
 *Program* means the Community Development Revolving Loan Fund Program under which NCUA makes loans and technical assistance grants available to credit unions.
 
-*Qualifying Credit Union* means a credit union that may be, or has agreed to be, examined by NCUA, with a current low-income designation pursuant to § 701.34(a)(1) or § 741.204 of this chapter or, in the case of a non-federally insured, state-chartered credit union, a low-income designation from a state regulator, made under appropriate state standards with the concurrence of NCUA. Services to low-income members must include, at a minimum, offering share accounts and loans.
+*Qualifying Credit Union* means a credit union that may be, or has agreed to be, examined by NCUA, with a current low-income designation pursuant to § 701.34(a)(1) or § 741.204 of this chapter or, in the case of a noninsured credit union, a low-income designation from a state regulator, made under appropriate state standards with the concurrence of NCUA. Services to low-income members must include, at a minimum, offering share accounts and loans.
 
 *Technical Assistance Grant* means an award of money from the Fund to a Participating Credit Union that does not have to be repaid.
 
