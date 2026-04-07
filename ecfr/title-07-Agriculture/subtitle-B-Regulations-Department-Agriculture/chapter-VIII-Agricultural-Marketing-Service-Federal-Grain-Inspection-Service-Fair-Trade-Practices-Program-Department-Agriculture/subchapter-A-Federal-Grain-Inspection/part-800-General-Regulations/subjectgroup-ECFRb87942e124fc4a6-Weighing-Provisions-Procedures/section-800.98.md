@@ -2,7 +2,7 @@
 
 (a) *General.* The weighing of bulk or sacked grain loaded aboard, or being loaded aboard, or unloaded from two or more carriers as a combined lot shall be conducted according to this section and the instructions.
 
-(b) *Weighing procedure* - (1) *Single lot weighing.* (i) Single lots of grain that are to be weighed as a combined lot may be weighed at multiple locations, provided that:
+(b) *Weighing procedure*—(1) *Single lot weighing.* (i) Single lots of grain that are to be weighed as a combined lot may be weighed at multiple locations, provided that:
 
 (A) The lots are contained in the same type of carrier; and
 
@@ -14,7 +14,7 @@
 
 (3) *Grain uniform in quality.* An applicant may request that grain be weighed and certificated as a combined lot whether or not the grain is uniform in quality for the purpose of inspection under the Act.
 
-(c) *Certification procedures* - (1) *General.* Each certificate for a combined-lot Class X or Class Y weighing service shall show the identification for the “Combined lot” or, at the request of the applicant, the identification of each carrier in the combined lot. The identification and any seal information for the carriers may be shown on the reverse side of the weight certificate, provided the statement “See reverse side” is shown on the face of the certificate in the space provided for remarks.
+(c) *Certification procedures*—(1) *General.* Each certificate for a combined-lot Class X or Class Y weighing service shall show the identification for the “Combined lot” or, at the request of the applicant, the identification of each carrier in the combined lot. The identification and any seal information for the carriers may be shown on the reverse side of the weight certificate, provided the statement “See reverse side” is shown on the face of the certificate in the space provided for remarks.
 
 (2) *Recertification.* If a request for a combined-lot Class X or Class Y weighing service is filed after the grain in the single lots has been weighed and certified, the combined-lot weighing certificate must show the following:
 
@@ -26,7 +26,7 @@
 
 (iv) A statement showing the weight of the grain in the combined lot;
 
-(v) A completed statement showing the identification of any superseded certificate as follows: “This combined-lot certificate supersedes certificate Nos. \_\_\_, dated \_\_\_\_;\_\_; and
+(v) A completed statement showing the identification of any superseded certificate as follows: “This combined-lot certificate supersedes certificate Nos. \_\_\_, dated \_\_\_\_\_\_; and
 
 (vi) If at any time of issuing the combined-lot weight certificate, the superseded certificates are not in the custody of the agency or field office, the statement “The superseded certificates identified herein have not been surrendered” must be shown clearly in the space provided for remarks beneath the statement identifying the superseded certificates. If the superseded certificates are in the custody of the agency or field office, the superseded certificates must be clearly marked “Void.”
 

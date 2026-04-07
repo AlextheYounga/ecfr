@@ -1,3 +1,0 @@
-##### § 200.22 Contract.
-
-*Contract* means a legal instrument by which a non-Federal entity purchases property or services needed to carry out the project or program under a Federal award. The term as used in this part does not include a legal instrument, even if the non-Federal entity considers it a contract, when the substance of the transaction meets the definition of a Federal award or subaward (see § 200.92 Subaward).
