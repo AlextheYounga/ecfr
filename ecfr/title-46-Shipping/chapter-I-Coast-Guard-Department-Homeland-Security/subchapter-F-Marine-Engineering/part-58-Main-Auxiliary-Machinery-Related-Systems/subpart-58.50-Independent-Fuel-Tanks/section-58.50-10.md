@@ -2,29 +2,23 @@
 
 (a) *Construction.* (1) Tanks may be of either cylindrical or rectangular form.
 
-(2) The materials used and the minimum thickness allowed in the construction of independent fuel tanks shall be as indicated in Table 58.50-10(a), except that consideration will be given to other materials which provide equivalent safety as indicated in § 58.50-15.
+(2) The materials used and the minimum thickness allowed in the construction of independent fuel tanks shall be as indicated in Table 1 to § 58.50-10(a), except that consideration will be given to other materials which provide equivalent safety as indicated in § 58.50-15.
 
 (3) Tanks with flanged-up top edges, that may trap and hold moisture, shall not be used.
 
-Table 58.50-10(a)
-
-| Material        | ASTM specification (all incorporated by reference; see 46 CFR 58.03-1) | Thickness in inches and gage numbers 1 vs. tank capacities for - |
-| --------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Aluminum 5      | B 209, Alloy 5086 6                                                    | 0.250 (USSG 3)                                                   |
-| Nickel-copper   | B 127, Hot rolled sheet or plate                                       | 0.037 (USSG 20). 3                                               |
-| Steel or iron 4 | 0.0747 (MfgStd 14)                                                     | 0.1046 (MfgStd 12)                                               |
-
-1 Gauges used are U.S. standard “USSG” for aluminum and nickel-copper and “MfgStd” for steel or iron.
-
-2 Tanks over 400 gallons shall be designed with a factor of safety of four on the ultimate strength of the material used with design head of not less than 4 feet of liquid above the top of the tank.
-
-3 Nickel-copper not less than 0.031 inch (USSG 22) may be used for tanks up to 30-gallon capacity.
-
-4 For diesel tanks the steel or iron shall not be galvanized on the interior.
-
-5 Anodic to most common metals. Avoid dissimilar metal contact with tank body.
-
-6 And other alloys acceptable to the Commandant.
+Table 1 to § 58.50-10(a)
+| Material                                                                                                                                                                                                 | ASTM specification   (all incorporated by reference; see 46 CFR 58.03-1) | Thickness in inches and gage numbers 1 vs. tank capacities for— |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| Aluminum 5                                                                                                                                                                                               | B 209, Alloy 5086 6                                                      | 0.250 (USSG 3)                                                  |
+| Nickel-copper                                                                                                                                                                                            | B 127, Hot rolled sheet or plate                                         | 0.037 (USSG 20) 3                                               |
+| Steel or iron 4                                                                                                                                                                                          |                                                                          | 0.0747 (MfgStd 14)                                              |
+| **Notes:**                                                                                                                                                                                               |                                                                          |                                                                 |
+| 1 Gauges used are U.S. standard “USSG” for aluminum and nickel-copper and “MfgStd” for steel or iron.                                                                                                    |                                                                          |                                                                 |
+| 2 Tanks over 400 gallons shall be designed with a factor of safety of four on the ultimate strength of the material used with a design head of not less than 4 feet of liquid above the top of the tank. |                                                                          |                                                                 |
+| 3 Nickel-copper not less than 0.031 inch (USSG 22) may be used for tanks up to a 30-gallon capacity.                                                                                                     |                                                                          |                                                                 |
+| 4 For diesel tanks the steel or iron shall not be galvanized on the interior.                                                                                                                            |                                                                          |                                                                 |
+| 5 Anodic to most common metals. Avoid dissimilar metal contact with tank body.                                                                                                                           |                                                                          |                                                                 |
+| 6 And other alloys acceptable to the Commandant.                                                                                                                                                         |                                                                          |                                                                 |
 
 (4) Openings for fill and vent pipes must be on the topmost surface of a tank. There must be no openings in the bottom, sides, or ends of a tank except as follows:
 
@@ -60,4 +54,4 @@ Table 58.50-10(a)
 
 (3) All tanks not vented to atmosphere shall be constructed and tested in accordance with part 54 of this subchapter.
 
-\[CGFR 68-82, 33 FR 18878, Dec. 18, 1968, as amended by CGFR 69-127, 35 FR 9980, June 17, 1970; CGFR 72-59R, 37 FR 6190, Mar. 25, 1972; USCG-1999-5151, 64 FR 67180, Dec. 1, 1999; USCG-2003-16630, 73 FR 65188, Oct. 31, 2008\]
+\[CGFR 68-82, 33 FR 18878, Dec. 18, 1968, as amended by CGFR 69-127, 35 FR 9980, June 17, 1970; CGFR 72-59R, 37 FR 6190, Mar. 25, 1972; USCG-1999-5151, 64 FR 67180, Dec. 1, 1999; USCG-2003-16630, 73 FR 65188, Oct. 31, 2008; USCG-2016-0498, 82 FR 35090, July 28, 2017\]
