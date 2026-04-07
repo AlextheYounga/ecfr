@@ -1,5 +1,7 @@
 ##### § 810.204 Grades and grade requirements for Six-rowed Malting barley and Six-rowed Blue Malting barley.
 
+Link to an amendment published at 81 FR 20543, May 3, 2017.
+
 | Grade      | Minimum limits of - | Maximum limits of - |
 | ---------- | ------------------- | ------------------- |
 | U.S. No. 1 | 47.0                | 95.0                |

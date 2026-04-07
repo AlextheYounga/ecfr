@@ -2,11 +2,11 @@
 
 (a) *Basic requirement.* You must use OSHA 300, 300-A, and 301 forms, or equivalent forms, for recordable injuries and illnesses. The OSHA 300 form is called the Log of Work-Related Injuries and Illnesses, the 300-A is the Summary of Work-Related Injuries and Illnesses, and the OSHA 301 form is called the Injury and Illness Incident Report.
 
-(b) *Implementation* - (1) *What do I need to do to complete the OSHA 300 Log?* You must enter information about your business at the top of the OSHA 300 Log, enter a one or two line description for each recordable injury or illness, and summarize this information on the OSHA 300-A at the end of the year.
+(b) *Implementation*—(1) *What do I need to do to complete the OSHA 300 Log?* You must enter information about your business at the top of the OSHA 300 Log, enter a one or two line description for each recordable injury or illness, and summarize this information on the OSHA 300-A at the end of the year.
 
 (2) *What do I need to do to complete the OSHA 301 Incident Report?* You must complete an OSHA 301 Incident Report form, or an equivalent form, for each recordable injury or illness entered on the OSHA 300 Log.
 
-(3) *How quickly must each injury or illness be recorded?* You must enter each and every recordable injury or illness on the OSHA 300 Log and on a 301 Incident Report within seven (7) calendar days of receiving information that the recordable injury or illness occurred. A failure to record within seven days does not extinguish your continuing obligation to make a record of the injury or illness and to maintain accurate records of all recordable injuries and illnesses in accordance with the requirements of this part. This obligation continues throughout the entire record retention period described in § 1904.33. See §§ 1904.4(a); 1904.32(a)(1); 1904.33(b)(1); and 1904.40(a).
+(3) *How quickly must each injury or illness be recorded?* You must enter each recordable injury or illness on the OSHA 300 Log and 301 Incident Report within seven (7) calendar days of receiving information that a recordable injury or illness has occurred.
 
 (4) *What is an equivalent form?* An equivalent form is one that has the same information, is as readable and understandable, and is completed using the same instructions as the OSHA form it replaces. Many employers use an insurance form instead of the OSHA 301 Incident Report, or supplement an insurance form by adding any additional information required by OSHA.
 
@@ -40,4 +40,4 @@
 
 (iii) to a public health authority or law enforcement agency for uses and disclosures for which consent, an authorization, or opportunity to agree or object is not required under Department of Health and Human Services Standards for Privacy of Individually Identifiable Health Information, 45 CFR 164.512.
 
-\[66 FR 6122, Jan. 19, 2001, as amended at 66 FR 52034, Oct. 12, 2001; 67 FR 77170, Dec. 17, 2002; 68 FR 38607, June 30, 2003; 81 FR 91809, Dec. 19, 2016\]
+\[66 FR 6122, Jan. 19, 2001, as amended at 66 FR 52034, Oct. 12, 2001; 67 FR 77170, Dec. 17, 2002; 68 FR 38607, June 30, 2003; 81 FR 91809, Dec. 19, 2016; 82 FR 20548, May 3, 2017\]

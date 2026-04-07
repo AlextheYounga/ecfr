@@ -1,5 +1,7 @@
 ##### § 810.205 Grades and grade requirements for Two-rowed Malting barley.
 
+Link to an amendment published at 81 FR 20544, May 3, 2017.
+
 | Grade      | Minimum limits of - | Maximum limits of - |
 | ---------- | ------------------- | ------------------- |
 | U.S. No. 1 | 50.0                | 97.0                |
