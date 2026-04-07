@@ -8,9 +8,9 @@
 
 (i) Abstain totally from alcohol or drugs for a period of time; and
 
-(ii) Be subject to testing for alcohol or drugs at least twice per day at a testing location, by continuous transdermal alcohol monitoring via an electronic monitoring device or by an alternative method approved by NHTSA.
+(ii) Be subject to testing for alcohol or drugs at least twice per day at a testing location, by continuous transdermal alcohol monitoring via an electronic monitoring device, by drug patch, by urinalysis, by ignition interlock monitoring (provided the interlock is able to require tests twice a day without vehicle operation), by other types of electronic monitoring, or by an alternative method approved by NHTSA.
 
-*Alcohol* means wine, beer and distilled spirits.
+*Alcohol* means wine, beer, and distilled spirits.
 
 *Average impaired driving fatality rate* means the number of fatalities in motor vehicle crashes involving a driver with a blood alcohol concentration of at least 0.08 percent for every 100,000,000 vehicle miles traveled, based on the most recently reported three calendar years of final data from the FARS.
 
@@ -22,9 +22,9 @@
 
 *Drugs* means controlled substances, as that term is defined under section 102(6) of the Controlled Substances Act, 21 U.S.C. 802(6).
 
-*High-visibility enforcement efforts* means participation in national impaired driving law enforcement campaigns organized by NHTSA, participation in impaired driving law enforcement campaigns organized by the State, or the use of sobriety checkpoints and/or saturation patrols conducted in a highly visible manner and supported by publicity through paid or earned media.
-
 *High-range State* means a State that has an average impaired driving fatality rate of 0.60 or higher.
+
+*High-visibility enforcement efforts* means participation in national impaired driving law enforcement campaigns organized by NHTSA, participation in impaired driving law enforcement campaigns organized by the State, or the use of sobriety checkpoints and/or saturation patrols conducted in a highly visible manner and supported by publicity through paid or earned media.
 
 *Low-range State* means a State that has an average impaired driving fatality rate of 0.30 or lower.
 
@@ -40,7 +40,7 @@
 
 (c) *Eligibility determination.* A State is eligible to apply for a grant under this section as a low-range State, a mid-range State or a high-range State, in accordance with paragraph (d), (e), or (f) of this section, as applicable. Independent of qualification on the basis of range, a State may also qualify for separate grants under this section as a State with an alcohol-ignition interlock law, as provided in paragraph (g) of this section, or as a State with a 24-7 sobriety program, as provided in paragraph (h) of this section.
 
-(d) *Qualification criteria for a low-range State.* To qualify for an Impaired Driving Countermeasures Grant in a fiscal year, a low-range State (as determined by NHTSA) shall submit as part of its HSP the assurances in Part 3 of Appendix B that -
+(d) *Qualification criteria for a low-range State.* To qualify for an Impaired Driving Countermeasures Grant in a fiscal year, a low-range State (as determined by NHTSA) shall submit as part of its HSP the assurances in part 3 of Appendix B that -
 
 (1) The State shall use the funds awarded under 23 U.S.C. 405(d)(1) only for the implementation and enforcement of programs authorized in paragraph (j) of this section; and
 
@@ -70,13 +70,13 @@
 
 (i) Review that addresses in each plan area any related recommendations from the assessment of the State's impaired driving program;
 
-(ii) Detailed project list for spending grant funds on impaired driving activities listed in paragraph (j)(4) of this section that must include high-visibility enforcement efforts, at the level of detail required under § 1300.11(d); and
+(ii) Planned activities, in detail, for spending grant funds on impaired driving activities listed in paragraph (j)(4) of this section that must include high-visibility enforcement efforts, at the level of detail required under § 1300.11(d); and
 
 (iii) Description of how the spending supports the State's impaired driving program and achievement of its performance targets, at the level of detail required under § 1300.11(d).
 
 (2) *Previously submitted plans.* If a high-range State has received a grant for a previously submitted Statewide impaired driving plan under paragraph (f)(1) of this section, in order to receive a grant, the State may submit the assurances required in paragraph (d) of this section, and provide updates to its Statewide impaired driving plan that meet the requirements of paragraphs (e)(1)(i) through (iii) of this section and updates to its assessment review and spending plan that meet the requirements of paragraphs (f)(1)(i) through (iii) of this section.
 
-(g) *Grants to States with Alcohol-Ignition Interlock Laws.* (1) To qualify for a grant, a State shall submit as part of its HSP legal citation(s), in accordance with part 4 of appendix B, to State statute demonstrating that the State has enacted and is enforcing a statute that requires all individuals convicted of driving under the influence of alcohol or of driving while intoxicated to drive only motor vehicles with alcohol-ignition interlocks for an authorized period of not less than 6 months.
+(g) *Grants to States with Alcohol-Ignition Interlock Laws.* (1) To qualify for an alcohol-ignition interlock law grant, a State shall submit as part of its HSP legal citation(s), in accordance with part 4 of appendix B, to State statute demonstrating that the State has enacted and is enforcing a statute that requires all individuals convicted of driving under the influence of alcohol or of driving while intoxicated to drive only motor vehicles with alcohol-ignition interlocks for an authorized period of not less than 6 months.
 
 (2) *Permitted exceptions.* A State statute providing for the following exceptions, and no others, shall not be deemed out of compliance with the requirements of paragraph (g)(1) of this section:
 
@@ -86,23 +86,23 @@
 
 (iii) A State-certified ignition interlock provider is not available within 100 miles of the individual's residence.
 
-(h) *Grants to States with a 24-7 Sobriety Program.* To qualify for a grant, a State shall submit the following as part of its HSP, in accordance with part 5 of appendix B:
+(h) *Grants to States with a 24-7 Sobriety Program.* To qualify for a 24-7 Sobriety program grant, a State shall submit the following as part of its HSP, in accordance with part 5 of appendix B:
 
 (1) Legal citation(s) to State statute demonstrating that the State has enacted and is enforcing a statute that requires all individuals convicted of driving under the influence of alcohol or of driving while intoxicated to receive a restriction on driving privileges, unless an exception in paragraph (g)(2) of this section applies, for a period of not less than 30 days; and
 
 (2) Legal citation(s) to State statute or submission of State program information that authorizes a Statewide 24-7 sobriety program.
 
-(i) *Award.* (1) The amount available for grants under paragraphs (d)-(f) of this section shall be determined based on the total amount of eligible States for these grants and after deduction of the amounts necessary to fund grants under 23 U.S.C. 405(d)(6).
+(i) *Award.* (1) The amount available for grants under paragraphs (d) through (f) of this section shall be determined based on the total amount of eligible States for these grants and after deduction of the amounts necessary to fund grants under 23 U.S.C. 405(d)(6).
 
 (2) The amount available for grants under 23 U.S.C. 405(d)(6)(A) shall not exceed 12 percent of the total amount made available to States under 23 U.S.C. 405(d) for the fiscal year.
 
 (3) The amount available for grants under 23 U.S.C. 405(d)(6)(B) shall not exceed 3 percent of the total amount made available to States under 23 U.S.C. 405(d) for the fiscal year.
 
-(j) *Use of grant funds* - (1) *Eligible uses.* Except as provided in paragraphs (j)(2)-(5) of this section, a State may use grant funds awarded under 23 U.S.C. 405(d) only for the following programs:
+(j) *Use of grant funds* - (1) *Eligible uses.* Except as provided in paragraphs (j)(2) through (5) of this section, a State may use grant funds awarded under 23 U.S.C. 405(d) only for the following programs:
 
 (i) High-visibility enforcement efforts;
 
-(ii) Hiring a full-time or part-time impaired driving coordinator of the State's activities to address the enforcement and adjudication of laws regarding driving while impaired by alcohol;
+(ii) Hiring a full-time or part-time impaired driving coordinator of the State's activities to address the enforcement and adjudication of laws regarding driving while impaired by alcohol, drugs or the combination of alcohol and drugs;
 
 (iii) Court support of high-visibility enforcement efforts, training and education of criminal justice professionals (including law enforcement, prosecutors, judges, and probation officers) to assist such professionals in handling impaired driving cases, hiring traffic safety resource prosecutors, hiring judicial outreach liaisons, and establishing driving while intoxicated courts;
 

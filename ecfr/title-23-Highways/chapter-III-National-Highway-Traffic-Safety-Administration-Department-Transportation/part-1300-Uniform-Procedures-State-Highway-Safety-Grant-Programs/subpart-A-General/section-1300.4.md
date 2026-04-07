@@ -40,6 +40,6 @@
 
 (10) Track and maintain current knowledge of changes in State statutes or regulations that could affect State qualification for highway safety grants or transfer programs;
 
-(11) Coordinate the HSP and highway safety data collection and information systems activities with other federally and non-federally supported programs relating to or affecting highway safety, including the State strategic highway safety plan as defined in 23 U.S.C. 148(a); and
+(11) Coordinate the HSP and highway safety data collection and information systems activities with other federally and non-federally supported programs relating to or affecting highway safety, including the State SHSP as defined in 23 U.S.C. 148(a); and
 
 (12) Administer Federal grant funds in accordance with Federal and State requirements, including 2 CFR parts 200 and 1201.

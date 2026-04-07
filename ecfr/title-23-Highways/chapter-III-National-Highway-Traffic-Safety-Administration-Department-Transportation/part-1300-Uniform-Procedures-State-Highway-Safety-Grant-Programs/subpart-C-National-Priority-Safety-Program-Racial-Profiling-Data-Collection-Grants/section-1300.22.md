@@ -30,18 +30,18 @@
 
 (ii) Includes a list of all recommendations from its most recent highway safety data and traffic records system assessment;
 
-(iii) Identifies which recommendations described in paragraph (b)(2)(ii) of this section the State intends to address in the fiscal year, the projects in the HSP that implement each recommendation, and the performance measures to be used to demonstrate quantifiable and measurable progress; and
+(iii) Identifies which recommendations identified under paragraph (b)(2)(ii) of this section the State intends to address in the fiscal year, the countermeasure strategies and planned activities, at the level of detail required under § 1300.11(d), that implement each recommendation, and the performance measures to be used to demonstrate quantifiable and measurable progress; and
 
-(iv) Identifies which recommendations described in paragraph (b)(2)(ii) of this section the State does not intend to address in the fiscal year and explains the reason for not implementing the recommendations.
+(iv) Identifies which recommendations identified under paragraph (b)(2)(ii) of this section the State does not intend to address in the fiscal year and explains the reason for not implementing the recommendations.
 
 (3) *Quantitative improvement.* The State shall demonstrate quantitative improvement in the data attribute of accuracy, completeness, timeliness, uniformity, accessibility or integration of a core database by providing -
 
 (i) A written description of the performance measures that clearly identifies which performance attribute for which core database the State is relying on to demonstrate progress using the methodology set forth in the “Model Performance Measures for State Traffic Records Systems” (DOT HS 811 441), as updated; and
 
-(ii) Supporting documentation covering a contiguous 12 month performance period starting no earlier than April 1 of the calendar year prior to the application due date that demonstrates quantitative improvement when compared to the comparable 12 month baseline period.
+(ii) Supporting documentation covering a contiguous 12-month performance period starting no earlier than April 1 of the calendar year prior to the application due date, that demonstrates quantitative improvement when compared to the comparable 12-month baseline period.
 
 (4) *State highway safety data and traffic records system assessment.* The State shall identify the date of the assessment of the State's highway safety data and traffic records system that was conducted or updated within the five years prior to the application due date and that complies with the procedures and methodologies outlined in NHTSA's “Traffic Records Highway Safety Program Advisory” (DOT HS 811 644), as updated.
 
 (c) *Requirement for maintenance of effort.* The State shall submit the assurance in part 2 of appendix B that the lead State agency responsible for State traffic safety information system improvements programs shall maintain its aggregate expenditures for State traffic safety information system improvements programs at or above the average level of such expenditures in fiscal years 2014 and 2015.
 
-(d) *Use of grant funds.* A State may use grant funds awarded under 23 U.S.C. 405(c) to make quantifiable, measureable progress improvements in the accuracy, completeness, timeliness, uniformity, accessibility or integration of data in a core highway safety database.
+(d) *Use of grant funds.* A State may use grant funds awarded under 23 U.S.C. 405(c) to make quantifiable, measurable progress improvements in the accuracy, completeness, timeliness, uniformity, accessibility or integration of data in a core highway safety database.

@@ -6,7 +6,7 @@
 
 (i) When the Administrator determines that a State is not implementing an approved highway safety program, the Administrator shall issue to the State an advance notice, advising the State that the Administrator expects to withhold funds from apportionment or reduce the State's apportionment under Section 402. The Administrator shall state the amount of the expected withholding or reduction.
 
-(ii) The State may, within 30 days after its receipt of the advance notice, submit documentation demonstrating that it is implementing an approved highway safety program. Documentation shall be submitted to the NHTSA Administrator, 1200 New Jersey Avenue SE., Washington, DC 20590.
+(ii) The State may, within 30 days after its receipt of the advance notice, submit documentation demonstrating that it is implementing an approved highway safety program. Documentation shall be submitted to the NHTSA Administrator, 1200 New Jersey Avenue SE, Washington, DC 20590.
 
 (b) *Apportionment of withheld funds.* (1) If the Administrator concludes that a State has begun implementing an approved highway safety program, the Administrator shall promptly apportion to the State the funds withheld from its apportionment, but not later than July 31 of the fiscal year for which the funds were withheld.
 

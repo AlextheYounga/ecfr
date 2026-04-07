@@ -8,15 +8,15 @@ As used in this part -
 
 *Contract authority* means the statutory language that authorizes an agency to incur an obligation without the need for a prior appropriation or further action from Congress and which, when exercised, creates a binding obligation on the United States for which Congress must make subsequent liquidating appropriations.
 
-*Countermeasure strategy* means a proven effective countermeasure proposed or implemented with grant funds under 23 U.S.C. Chapter 4 and Section 1906 to address identified problems and meet performance targets. Examples include high visibility occupant protection enforcement, DUI courts, or alcohol screening and brief intervention programs.
+*Countermeasure strategy* means a proven effective or innovative countermeasure proposed or implemented with grant funds under 23 U.S.C. Chapter 4 or Section 1906 to address identified problems and meet performance targets. Examples of proven effective countermeasures include high-visibility occupant protection enforcement, DUI courts, or alcohol screening and brief intervention programs.
 
 *Data-driven* means informed by a systematic review and analysis of quality data sources when making decisions related to planning, target establishment, resource allocation and implementation.
 
 *Evidence-based* means based on approaches that are proven effective with consistent results when making decisions related to countermeasure strategies and projects.
 
-*Fatality Analysis Reporting System (FARS)* means the nationwide census providing public yearly data regarding fatal injuries suffered in motor vehicle traffic crashes, as published by NHTSA.
+*Fatality Analysis Reporting System (FARS)* means the nationwide census providing yearly public data regarding fatal injuries suffered in motor vehicle traffic crashes, as published by NHTSA.
 
-*Fatality rate* means the ratio of the number of fatalities (as defined in this section) to the number of vehicle miles traveled (VMT) (expressed in 100 million VMT) in a calendar year, based on the data reported by the FARS database.
+*Fatality rate* means the ratio of the number of fatalities (as defined in this section) to the number of vehicle miles traveled (VMT) (expressed in 100 million VMT) in a calendar year, based on the data reported in the FARS database.
 
 *Final FARS* means the FARS data that replace the annual report file and contain additional cases or updates that became available after the annual report file was released.
 
@@ -28,9 +28,9 @@ As used in this part -
 
 *Governor's Representative for Highway Safety* means the official appointed by the Governor to implement the State's highway safety program or, for the application of this part to Indian Country as provided in 23 U.S.C. 402(h), an official of the Bureau of Indian Affairs or other Department of Interior official who is duly designated by the Secretary of the Interior to implement the Indian highway safety program.
 
-*Highway Safety Plan (HSP)* means the document that the State submits each fiscal year as its application for highway safety grants, which describes the State's performance targets, the strategies and projects the State plans to implement, and the resources from all sources the State plans to use to achieve its highway safety performance targets.
+*Highway Safety Plan (HSP)* means the document that the State submits each fiscal year as its application for highway safety grants (and amends as necessary), which describes the State's performance targets, the countermeasure strategies and activities the State plans to implement, the resources from all sources the State plans to use to achieve its highway safety performance targets.
 
-*Highway safety program* means the planning, strategies and performance measures, and general oversight and management of highway safety strategies and projects by the State either directly or through sub-recipients to address highway safety problems in the State, as defined in the annual Highway Safety Plan and any amendments.
+*Highway safety program* means the planning, strategies and performance measures, and general oversight and management of highway safety strategies and projects by the State either directly or through subrecipients to address highway safety problems in the State, as defined in the annual Highway Safety Plan and any amendments.
 
 *NHTSA* means the National Highway Traffic Safety Administration.
 
@@ -44,13 +44,13 @@ As used in this part -
 
 *Problem identification* means the data collection and analysis process for identifying areas of the State, types of crashes, or types of populations (e.g., high-risk populations) that present specific safety challenges to efforts to improve a specific program area.
 
-*Program area* means any of the national priority safety program areas identified in 23 U.S.C. 405 or a program area identified by a State in the highway safety plan as encompassing a major highway safety problem in the State and for which documented effective countermeasure strategies have been identified or projected by analysis to be effective.
+*Program area* means any of the national priority safety program areas identified in 23 U.S.C. 405 or a program area identified by a State in the Highway Safety Plan as encompassing a major highway safety problem in the State and for which documented effective countermeasure strategies have been identified or projected by analysis to be effective.
 
-*Project* means a specific undertaking or activity proposed or implemented with grant funds under 23 U.S.C. Chapter 4 and Section 1906 and that addresses countermeasure strategies identified in the HSP.
+*Project* means a discrete effort involving identified subrecipients or contractors to be implemented with grant funds under 23 U.S.C. Chapter 4 or Section 1906 and that addresses countermeasure strategies identified in the Highway Safety Plan.
 
 *Project agreement* means a written agreement at the State level or between the State and a subrecipient or contractor under which the State agrees to perform a project or to provide Federal funds in exchange for the subrecipient's or contractor's performance of a project that supports the highway safety program.
 
-*Project number* means a unique identifier assigned to each project agreement in the Highway Safety Plan.
+*Project agreement number* means a unique State-generated identifier assigned to each project agreement.
 
 *Public road* means any road under the jurisdiction of and maintained by a public authority and open to public travel.
 
