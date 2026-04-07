@@ -20,7 +20,7 @@
 
 (iii) If a license did purport to cover the transfer, such license had been obtained by misrepresentation of a third party or withholding of material facts or was otherwise fraudulently obtained.
 
-Note to paragraph (*d*) of § 542.202:
+Note to paragraph (d) of § 542.202:
 
 The filing of a report in accordance with the provisions of paragraph (d)(3) of this section shall not be deemed evidence that the terms of paragraphs (d)(1) and (2) of this section have been satisfied.
 

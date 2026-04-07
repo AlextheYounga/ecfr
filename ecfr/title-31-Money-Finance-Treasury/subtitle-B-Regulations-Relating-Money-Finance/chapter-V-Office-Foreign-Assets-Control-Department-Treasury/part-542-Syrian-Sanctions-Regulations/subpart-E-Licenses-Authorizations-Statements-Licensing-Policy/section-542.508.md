@@ -12,7 +12,7 @@ Receipts of payment of professional fees and reimbursement of incurred expenses 
 
 (3) Any individual or entity, other than the person on whose behalf the legal services authorized pursuant to § 542.507(a) are to be provided, whose property and interests in property are blocked pursuant to any part of this chapter or any Executive order.
 
-Note to paragraph (*b*) of § 542.508:
+Note to paragraph (b) of § 542.508:
 
 This paragraph authorizes the blocked person on whose behalf the legal services authorized pursuant to § 542.507(a) are to be provided to make payments for authorized legal services using funds originating outside the United States that were not previously blocked. Nothing in this paragraph authorizes payments for legal services using funds in which any other person whose property and interests in property are blocked pursuant to § 542.201(a), any other part of this chapter, or any Executive order holds an interest.
 
