@@ -1,150 +1,150 @@
 ##### § 679.81 Rockfish Program annual harvester privileges.
 
-(a) *Sector and LLP license allocations of rockfish primary species*—(1) *General.* Each calendar year, the Regional Administrator will determine the tonnage of rockfish primary species that will be assigned to participants in a rockfish cooperative. This amount will be assigned to rockfish cooperatives as described in paragraph (b) of this section. 
+(a) *Sector and LLP license allocations of rockfish primary species*—(1) *General.* Each calendar year, the Regional Administrator will determine the tonnage of rockfish primary species that will be assigned to participants in a rockfish cooperative. This amount will be assigned to rockfish cooperatives as described in paragraph (b) of this section.
 
-(2) *Calculation.* (i) The amount of rockfish primary species “s” allocated to the Rockfish Program is calculated by deducting the incidental catch allowance the Regional Administrator determines is required on an annual basis in other non-target fisheries from the TAC. The remaining TAC for that rockfish primary species (TACs) is assigned for use by the rockfish entry level longline fishery and rockfish cooperatives. 
+(2) *Calculation.* (i) The amount of rockfish primary species “s” allocated to the Rockfish Program is calculated by deducting the incidental catch allowance the Regional Administrator determines is required on an annual basis in other non-target fisheries from the TAC. The remaining TAC for that rockfish primary species (TACs) is assigned for use by the rockfish entry level longline fishery and rockfish cooperatives.
 
-(ii) The allocation of TACs for each rockfish primary species to the rockfish entry level longline fishery is established in Table 28e to this part. 
+(ii) The allocation of TACs for each rockfish primary species to the rockfish entry level longline fishery is established in Table 28e to this part.
 
-(iii) The allocation of TACs to rockfish cooperatives is equal to the amount remaining after allocation to the rockfish entry level longline fishery (cooperative TACs). 
+(iii) The allocation of TACs to rockfish cooperatives is equal to the amount remaining after allocation to the rockfish entry level longline fishery (cooperative TACs).
 
-(b) *Allocations of rockfish primary species CQ to rockfish cooperatives*—(1) *Rockfish primary species TAC*s*assigned to the catcher/processor and catcher vessel sector.* Cooperative TACs assigned for a rockfish primary species will be divided between the catcher/processor sector and the catcher vessel sector. Each sector will receive a percentage of cooperative TACs for each rockfish primary species equal to the sum of the rockfish QS units assigned to all LLP licenses that receive rockfish QS in that sector divided by the rockfish QS pool for that rockfish primary species. Expressed algebraically for each rockfish primary species “s” in paragraphs (b)(1)(i) and (ii) of this section: 
+(b) *Allocations of rockfish primary species CQ to rockfish cooperatives*—(1) *Rockfish primary species TAC*s*assigned to the catcher/processor and catcher vessel sector.* Cooperative TACs assigned for a rockfish primary species will be divided between the catcher/processor sector and the catcher vessel sector. Each sector will receive a percentage of cooperative TACs for each rockfish primary species equal to the sum of the rockfish QS units assigned to all LLP licenses that receive rockfish QS in that sector divided by the rockfish QS pool for that rockfish primary species. Expressed algebraically for each rockfish primary species “s” in paragraphs (b)(1)(i) and (ii) of this section:
 
-(i) Catcher/Processor Sector TACs = \[(Cooperative TACs) × (Rockfish QS Units in the Catcher/Processor Sectors/Rockfish QS Pools)\]. 
+(i) Catcher/Processor Sector TACs = \[(Cooperative TACs) × (Rockfish QS Units in the Catcher/Processor Sectors/Rockfish QS Pools)\].
 
-(ii) Catcher Vessel Sector TACs = \[(Cooperative TACs) × (Rockfish QS Units in the Catcher Vessel Sectors/Rockfish QS Pools)\]. 
+(ii) Catcher Vessel Sector TACs = \[(Cooperative TACs) × (Rockfish QS Units in the Catcher Vessel Sectors/Rockfish QS Pools)\].
 
-(2) *Allocations of rockfish primary species to rockfish cooperatives.* TAC is assigned to each rockfish cooperative based on the rockfish QS assigned to that fishery in each sector according to the following procedures: 
+(2) *Allocations of rockfish primary species to rockfish cooperatives.* TAC is assigned to each rockfish cooperative based on the rockfish QS assigned to that fishery in each sector according to the following procedures:
 
-(i) *Catcher vessel sector rockfish cooperatives.* The amount of TACs for each rockfish primary species assigned to a catcher vessel rockfish cooperative is equal to the amount of rockfish QS units assigned to that rockfish cooperative divided by the total rockfish QS assigned to rockfish cooperatives in the catcher vessel sector multiplied by the catcher vessel TACs. Once TACs for a rockfish primary species is assigned to a catcher vessel rockfish cooperative, it is issued as CQ specific to that rockfish cooperative. The amount of CQ for each rockfish primary species that is assigned to a rockfish cooperative is expressed algebraically as follows: 
+(i) *Catcher vessel sector rockfish cooperatives.* The amount of TACs for each rockfish primary species assigned to a catcher vessel rockfish cooperative is equal to the amount of rockfish QS units assigned to that rockfish cooperative divided by the total rockfish QS assigned to rockfish cooperatives in the catcher vessel sector multiplied by the catcher vessel TACs. Once TACs for a rockfish primary species is assigned to a catcher vessel rockfish cooperative, it is issued as CQ specific to that rockfish cooperative. The amount of CQ for each rockfish primary species that is assigned to a rockfish cooperative is expressed algebraically as follows:
 
 CQs = \[(Catcher Vessel Sector TACs) × (Rockfish QS assigned to that rockfish cooperatives/Rockfish QS Units assigned to all rockfish cooperatives in the Catcher Vessel Sectors)\].
 
-(ii) *Catcher/processor sector rockfish cooperatives.* The amount of TACs for each rockfish primary species assigned to a catcher/processor rockfish cooperative is equal to the amount of rockfish QS units assigned to that rockfish cooperative divided by the sum of the rockfish QS units assigned to rockfish cooperatives in the catcher/processor sector multiplied by the catcher/processor TACs. Once TAC for a rockfish primary species is assigned to a catcher/processor rockfish cooperative, it is issued as CQ specific to that rockfish cooperative. 
+(ii) *Catcher/processor sector rockfish cooperatives.* The amount of TACs for each rockfish primary species assigned to a catcher/processor rockfish cooperative is equal to the amount of rockfish QS units assigned to that rockfish cooperative divided by the sum of the rockfish QS units assigned to rockfish cooperatives in the catcher/processor sector multiplied by the catcher/processor TACs. Once TAC for a rockfish primary species is assigned to a catcher/processor rockfish cooperative, it is issued as CQ specific to that rockfish cooperative.
 
-The amount of CQ for each rockfish primary species that is assigned to a rockfish cooperative is expressed algebraically as follows: 
+The amount of CQ for each rockfish primary species that is assigned to a rockfish cooperative is expressed algebraically as follows:
 
 CQ = \[(Catcher/Processor Sector TACs) × (Rockfish QS Units assigned to that rockfish cooperative/Rockfish QS Units assigned to all rockfish cooperatives in the Catcher/Processor Sector)\].
 
-(c) *Allocations of rockfish secondary species CQ to rockfish cooperatives*—(1) *General.* Each calendar year, the Regional Administrator will determine the tonnage of rockfish secondary species that may be assigned to the rockfish cooperatives as rockfish CQ. This amount will be assigned to the rockfish cooperatives in the catcher/processor sector and the catcher vessel sector. 
+(c) *Allocations of rockfish secondary species CQ to rockfish cooperatives*—(1) *General.* Each calendar year, the Regional Administrator will determine the tonnage of rockfish secondary species that may be assigned to the rockfish cooperatives as rockfish CQ. This amount will be assigned to the rockfish cooperatives in the catcher/processor sector and the catcher vessel sector.
 
-(2) *Amount of rockfish secondary species tonnage assigned.* The amount of rockfish secondary species tonnage that may be assigned to the catcher/processor sector and the catcher vessel sector is specified in Table 28c to this part. 
+(2) *Amount of rockfish secondary species tonnage assigned.* The amount of rockfish secondary species tonnage that may be assigned to the catcher/processor sector and the catcher vessel sector is specified in Table 28c to this part.
 
-(3) *Assignment of rockfish secondary species.* Rockfish secondary species will be assigned only to rockfish cooperatives. 
+(3) *Assignment of rockfish secondary species.* Rockfish secondary species will be assigned only to rockfish cooperatives.
 
-(4) *Determining the amount of rockfish secondary species CQ assigned to a rockfish cooperative.* The amount of CQ for each rockfish secondary species that is assigned to each rockfish cooperative is determined according to the following procedures: 
+(4) *Determining the amount of rockfish secondary species CQ assigned to a rockfish cooperative.* The amount of CQ for each rockfish secondary species that is assigned to each rockfish cooperative is determined according to the following procedures:
 
-(i) *CQ assigned to rockfish cooperatives in the catcher/processor sector.* The CQ for a rockfish secondary species that is assigned to a catcher/processor rockfish cooperative is equal to the amount of that rockfish secondary species allocated to the catcher/processor sector in the Rockfish Program as specified in Table 28c to this part, multiplied by the sum of the rockfish QS units for all rockfish primary species assigned to that catcher/processor rockfish cooperative divided by the sum of the rockfish QS units assigned to rockfish cooperatives for all rockfish primary species in the catcher/processor sector. Expressed algebraically in the following equation: 
+(i) *CQ assigned to rockfish cooperatives in the catcher/processor sector.* The CQ for a rockfish secondary species that is assigned to a catcher/processor rockfish cooperative is equal to the amount of that rockfish secondary species allocated to the catcher/processor sector in the Rockfish Program as specified in Table 28c to this part, multiplied by the sum of the rockfish QS units for all rockfish primary species assigned to that catcher/processor rockfish cooperative divided by the sum of the rockfish QS units assigned to rockfish cooperatives for all rockfish primary species in the catcher/processor sector. Expressed algebraically in the following equation:
 
 CQ for that Secondary Species = Amount of that rockfish secondary species allocated to the catcher/processor sector in the Rockfish Program × (Σ Rockfish QS units for all rockfish primary species assigned to that rockfish cooperative/Σ Rockfish QS units for all rockfish primary species assigned to all rockfish cooperatives in the catcher/processor sector).
 
-(ii) *CQ assigned to rockfish cooperatives in the catcher vessel sector.* The CQ for a rockfish secondary species that is assigned to a catcher vessel rockfish cooperative is equal to the amount of that rockfish secondary species allocated to the catcher vessel sector in the Rockfish Program as specified in Table 28c to this part, multiplied by the sum of the rockfish QS units for all rockfish primary species assigned to that catcher vessel rockfish cooperative divided by the sum of the rockfish QS units assigned to rockfish cooperatives for all rockfish primary species in the catcher vessel sector. Expressed algebraically in the following equation: 
+(ii) *CQ assigned to rockfish cooperatives in the catcher vessel sector.* The CQ for a rockfish secondary species that is assigned to a catcher vessel rockfish cooperative is equal to the amount of that rockfish secondary species allocated to the catcher vessel sector in the Rockfish Program as specified in Table 28c to this part, multiplied by the sum of the rockfish QS units for all rockfish primary species assigned to that catcher vessel rockfish cooperative divided by the sum of the rockfish QS units assigned to rockfish cooperatives for all rockfish primary species in the catcher vessel sector. Expressed algebraically in the following equation:
 
 CQ for that Secondary Species = Amount of that rockfish secondary species allocated to the catcher vessel sector in the Rockfish Program × (Σ Rockfish QS units for all rockfish primary species assigned to that rockfish cooperative/Σ Rockfish QS units assigned to all rockfish cooperatives for all rockfish primary species in the catcher vessel sector).
 
-(d) *Allocations of rockfish halibut PSC CQ to rockfish cooperatives*—(1) *General.* Each calendar year, the Regional Administrator will determine the tonnage of rockfish halibut PSC that will be assigned to the Rockfish Program. This amount will be allocated appropriately to the catcher/processor sector and the catcher vessel sector. The tonnage of rockfish halibut PSC assigned to a sector will be further assigned as CQ only to rockfish cooperative(s) within that sector. 
+(d) *Allocations of rockfish halibut PSC CQ to rockfish cooperatives*—(1) *General.* Each calendar year, the Regional Administrator will determine the tonnage of rockfish halibut PSC that will be assigned to the Rockfish Program. This amount will be allocated appropriately to the catcher/processor sector and the catcher vessel sector. The tonnage of rockfish halibut PSC assigned to a sector will be further assigned as CQ only to rockfish cooperative(s) within that sector.
 
-(2) *Amount of halibut PSC that may be assigned.* (i) The amount of halibut PSC that may be assigned to the catcher vessel and catcher/processor sectors is specified in Table 28d to this part. 
+(2) *Amount of halibut PSC that may be assigned.* (i) The amount of halibut PSC that may be assigned to the catcher vessel and catcher/processor sectors is specified in Table 28d to this part.
 
-(ii) The amount of halibut PSC that is not assigned to the catcher vessel and catcher/processor sectors as specified in Table 28d to this part will not be assigned for use as halibut PSC or as halibut IFQ. 
+(ii) The amount of halibut PSC that is not assigned to the catcher vessel and catcher/processor sectors as specified in Table 28d to this part will not be assigned for use as halibut PSC or as halibut IFQ.
 
-(3) *Use of rockfish halibut PSC by a rockfish eligible harvester.* (i) Rockfish halibut PSC assigned to a sector will be assigned only to rockfish cooperatives within that sector. 
+(3) *Use of rockfish halibut PSC by a rockfish eligible harvester.* (i) Rockfish halibut PSC assigned to a sector will be assigned only to rockfish cooperatives within that sector.
 
-(ii) Rockfish halibut PSC specified in Table 28d is not assigned to rockfish opt-out vessels. 
+(ii) Rockfish halibut PSC specified in Table 28d is not assigned to rockfish opt-out vessels.
 
-(iii) Rockfish halibut PSC specified in Table 28d is not assigned to the rockfish entry level longline fishery. 
+(iii) Rockfish halibut PSC specified in Table 28d is not assigned to the rockfish entry level longline fishery.
 
-(4) *Determining the amount of rockfish halibut PSC CQ assigned to a rockfish cooperative.* The amount of rockfish halibut PSC CQ that is assigned to each rockfish cooperative is determined according to the following procedures: 
+(4) *Determining the amount of rockfish halibut PSC CQ assigned to a rockfish cooperative.* The amount of rockfish halibut PSC CQ that is assigned to each rockfish cooperative is determined according to the following procedures:
 
-(i) *CQ assigned to rockfish cooperatives in the catcher/processor sector.* The CQ for halibut PSC that is assigned to a catcher/processor rockfish cooperative is equal to the amount of halibut PSC allocated to the catcher/processor sector in the Rockfish Program as specified in Table 28d to this part, multiplied by the sum of the rockfish QS units for all rockfish primary species assigned to that catcher/processor rockfish cooperative divided by the sum of the rockfish QS units assigned to rockfish cooperatives for all rockfish primary species in the catcher/processor sector. This is expressed algebraically in the following equation: 
+(i) *CQ assigned to rockfish cooperatives in the catcher/processor sector.* The CQ for halibut PSC that is assigned to a catcher/processor rockfish cooperative is equal to the amount of halibut PSC allocated to the catcher/processor sector in the Rockfish Program as specified in Table 28d to this part, multiplied by the sum of the rockfish QS units for all rockfish primary species assigned to that catcher/processor rockfish cooperative divided by the sum of the rockfish QS units assigned to rockfish cooperatives for all rockfish primary species in the catcher/processor sector. This is expressed algebraically in the following equation:
 
 CQ for rockfish halibut PSC = Amount halibut PSC allocated to the catcher/processor sector in the Rockfish Program × (Σ Rockfish QS units assigned to that rockfish cooperative/Σ Rockfish QS units assigned to all rockfish cooperatives in the catcher/processor sector).
 
-(ii) *CQ assigned to rockfish cooperatives in the catcher vessel sector.* The CQ for halibut PSC that is assigned to a catcher vessel rockfish cooperative is equal to the amount of halibut PSC allocated to the catcher vessel sector in the Rockfish Program as specified in Table 28d to this part, multiplied by the sum of the rockfish QS units for all rockfish primary species assigned to that catcher vessel rockfish cooperative divided by the sum of the rockfish QS units assigned to rockfish cooperatives for all rockfish primary species in the catcher vessel sector. This is expressed algebraically in the following equation: 
+(ii) *CQ assigned to rockfish cooperatives in the catcher vessel sector.* The CQ for halibut PSC that is assigned to a catcher vessel rockfish cooperative is equal to the amount of halibut PSC allocated to the catcher vessel sector in the Rockfish Program as specified in Table 28d to this part, multiplied by the sum of the rockfish QS units for all rockfish primary species assigned to that catcher vessel rockfish cooperative divided by the sum of the rockfish QS units assigned to rockfish cooperatives for all rockfish primary species in the catcher vessel sector. This is expressed algebraically in the following equation:
 
 CQ for rockfish halibut PSC = Amount halibut PSC allocated to the catcher vessel sector in the Rockfish Program × (Σ Rockfish QS units assigned to that rockfish cooperative/Σ Rockfish QS units assigned to all rockfish cooperatives in the catcher vessel sector).
 
-(e) *Assigning rockfish QS to a rockfish cooperative*—(1) *General.* Each calendar year, a person that is participating in the Rockfish Program may assign an LLP license and the rockfish QS assigned to that LLP license to a Rockfish cooperative. A rockfish eligible harvester assigns rockfish QS to a rockfish cooperative on a complete application for CQ that is approved by NMFS and that meets the requirements of paragraph (f) of this section. 
+(e) *Assigning rockfish QS to a rockfish cooperative*—(1) *General.* Each calendar year, a person that is participating in the Rockfish Program may assign an LLP license and the rockfish QS assigned to that LLP license to a Rockfish cooperative. A rockfish eligible harvester assigns rockfish QS to a rockfish cooperative on a complete application for CQ that is approved by NMFS and that meets the requirements of paragraph (f) of this section.
 
-(i) An LLP license and rockfish QS may be assigned to a catcher vessel cooperative if that rockfish QS is derived from legal rockfish landings assigned to the catcher vessel sector. 
+(i) An LLP license and rockfish QS may be assigned to a catcher vessel cooperative if that rockfish QS is derived from legal rockfish landings assigned to the catcher vessel sector.
 
-(ii) An LLP license and rockfish QS may be assigned to a catcher/processor cooperative if that rockfish QS is derived from rockfish legal landings assigned to the catcher/processor sector. 
+(ii) An LLP license and rockfish QS may be assigned to a catcher/processor cooperative if that rockfish QS is derived from rockfish legal landings assigned to the catcher/processor sector.
 
-(2) *Catcher/Processor opt-out.* Each calendar year, a person holding an LLP license assigned rockfish QS in the catcher/processor sector may opt-out of participating in a rockfish cooperative. NMFS will presume a person has opted-out of participating in a rockfish cooperative if that person and LLP license with rockfish QS is not named on a timely submitted Annual Application for Cooperative Fishing Quota. A person may not assign an LLP license assigned rockfish QS in the catcher/processor sector to both a rockfish cooperative and opt-out of participating in a rockfish cooperative. 
+(2) *Catcher/Processor opt-out.* Each calendar year, a person holding an LLP license assigned rockfish QS in the catcher/processor sector may opt-out of participating in a rockfish cooperative. NMFS will presume a person has opted-out of participating in a rockfish cooperative if that person and LLP license with rockfish QS is not named on a timely submitted Annual Application for Cooperative Fishing Quota. A person may not assign an LLP license assigned rockfish QS in the catcher/processor sector to both a rockfish cooperative and opt-out of participating in a rockfish cooperative.
 
-(f) *Annual Application for the Rockfish Program*—(1) *Application for Rockfish Cooperative Fishing Quota (CQ).* If a designated rockfish cooperative representative submits a complete and timely application that is approved by NMFS, the cooperative will receive a CQ permit. The CQ permit will list the amount of CQ, by rockfish primary species, rockfish secondary species, and halibut PSC held by the rockfish cooperative, the members of the rockfish cooperative, LLP licenses assigned to that rockfish cooperative, and the vessels that are authorized to harvest fish under that CQ permit. This application may only be submitted to NMFS using the methods described on the application. 
+(f) *Annual Application for the Rockfish Program*—(1) *Application for Rockfish Cooperative Fishing Quota (CQ).* If a designated rockfish cooperative representative submits a complete and timely application that is approved by NMFS, the cooperative will receive a CQ permit. The CQ permit will list the amount of CQ, by rockfish primary species, rockfish secondary species, and halibut PSC held by the rockfish cooperative, the members of the rockfish cooperative, LLP licenses assigned to that rockfish cooperative, and the vessels that are authorized to harvest fish under that CQ permit. This application may only be submitted to NMFS using the methods described on the application.
 
-(2) *Application forms.* Application forms are available on the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov,* or by contacting NMFS at (800) 304-4846, Option 2. 
+(2) *Application forms.* Application forms are available on the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov,* or by contacting NMFS at (800) 304-4846, Option 2.
 
-(3) *Deadline.* (i) A completed application must be received by NMFS no later than 1700 hours, A.l.t., on March 15, 2012, for the first year of the program and March 1 for all subsequent years, or if sent by U.S. mail, the application must be postmarked by that time. For applications delivered by hand delivery or carrier only, the receiving date of signature by NMFS staff is the date the application was received. If the application is submitted by facsimile, the receiving date of the application is the date stamped received by NMFS. 
+(3) *Deadline.* (i) A completed application must be received by NMFS no later than 1700 hours, A.l.t., on March 15, 2012, for the first year of the program and March 1 for all subsequent years, or if sent by U.S. mail, the application must be postmarked by that time. For applications delivered by hand delivery or carrier only, the receiving date of signature by NMFS staff is the date the application was received. If the application is submitted by facsimile, the receiving date of the application is the date stamped received by NMFS.
 
-(ii) Objective written evidence of timely application will be considered as proof of a timely application. 
+(ii) Objective written evidence of timely application will be considered as proof of a timely application.
 
-(4) *Contents of the Application.* A completed application must contain the information specified on the Application for Rockfish Cooperative Fishing Quota identifying the rockfish cooperative, members of the cooperative, and processor associate of a catcher vessel rockfish cooperative, with all applicable fields accurately filled-in and all required documentation attached. The initial application must contain all documents specified in paragraph (f)(4)(i) of this section. Subsequent applications will only be required to resubmit documents specified at paragraph (f)(4)(i) of this section if the information they contain has changed. 
+(4) *Contents of the Application.* A completed application must contain the information specified on the Application for Rockfish Cooperative Fishing Quota identifying the rockfish cooperative, members of the cooperative, and processor associate of a catcher vessel rockfish cooperative, with all applicable fields accurately filled-in and all required documentation attached. The initial application must contain all documents specified in paragraph (f)(4)(i) of this section. Subsequent applications will only be required to resubmit documents specified at paragraph (f)(4)(i) of this section if the information they contain has changed.
 
-(i) *Additional documentation.* For the cooperative application to be considered complete, the following documents must be attached to the initial application: 
+(i) *Additional documentation.* For the cooperative application to be considered complete, the following documents must be attached to the initial application:
 
-(A) A copy of the business license issued by the state in which the rockfish cooperative is registered as a business entity; 
+(A) A copy of the business license issued by the state in which the rockfish cooperative is registered as a business entity;
 
-(B) A copy of the articles of incorporation or partnership agreement of the rockfish cooperative; 
+(B) A copy of the articles of incorporation or partnership agreement of the rockfish cooperative;
 
-(C) Provide the names of all persons, to the individual level, holding an ownership interest in the LLP license and the percentage ownership each person and individual holds in the LLP license; 
+(C) Provide the names of all persons, to the individual level, holding an ownership interest in the LLP license and the percentage ownership each person and individual holds in the LLP license;
 
-(D) A copy of the rockfish cooperative agreement signed by the members of the rockfish cooperative (if different from the articles of incorporation or partnership agreement of the rockfish cooperative) that includes terms that specify that: 
+(D) A copy of the rockfish cooperative agreement signed by the members of the rockfish cooperative (if different from the articles of incorporation or partnership agreement of the rockfish cooperative) that includes terms that specify that:
 
-(*1*) Rockfish QS holders affiliated with rockfish processors cannot participate in price setting negotiations except as permitted by general antitrust law; 
+(*1*) Rockfish QS holders affiliated with rockfish processors cannot participate in price setting negotiations except as permitted by general antitrust law;
 
-(*2*) The rockfish cooperative must establish a monitoring program sufficient to ensure compliance with the Rockfish Program; 
+(*2*) The rockfish cooperative must establish a monitoring program sufficient to ensure compliance with the Rockfish Program;
 
-(*3*) \[Reserved\] 
+(*3*) \[Reserved\]
 
-(*4*) Terms and conditions to specify the obligations of rockfish QS holders who are members of the rockfish cooperative to ensure the full payment of rockfish cost recovery fees that may be due. 
+(*4*) Terms and conditions to specify the obligations of rockfish QS holders who are members of the rockfish cooperative to ensure the full payment of rockfish cost recovery fees that may be due.
 
-(ii) *Applicant signature and certification.* The applicant, including the processor associate of the rockfish cooperative, must sign and date the application certifying that all information is true, correct, and complete to the best of his or her knowledge and belief. If the application is completed by a designated representative, then explicit authorization signed by the applicant must accompany the application. 
+(ii) *Applicant signature and certification.* The applicant, including the processor associate of the rockfish cooperative, must sign and date the application certifying that all information is true, correct, and complete to the best of his or her knowledge and belief. If the application is completed by a designated representative, then explicit authorization signed by the applicant must accompany the application.
 
-(5) *Issuance of CQ.* NMFS will not issue a CQ permit if an application is not complete and approved by NMFS. Issuance by NMFS of a CQ permit is not a determination that the rockfish cooperative is formed or is operating in compliance with antitrust law. 
+(5) *Issuance of CQ.* NMFS will not issue a CQ permit if an application is not complete and approved by NMFS. Issuance by NMFS of a CQ permit is not a determination that the rockfish cooperative is formed or is operating in compliance with antitrust law.
 
-(6) *LLP licenses and rockfish QS not designated on a timely and complete application for rockfish CQ.* NMFS will prohibit any LLP licenses with rockfish QS assigned to that LLP license from fishing in the directed rockfish primary fisheries in the Central GOA for a calendar year if that LLP license is not designated on a timely and complete application for CQ for that calendar year that is approved by NMFS. Rockfish sideboard provisions described in § 679.82 shall apply to that LLP license, as applicable. 
+(6) *LLP licenses and rockfish QS not designated on a timely and complete application for rockfish CQ.* NMFS will prohibit any LLP licenses with rockfish QS assigned to that LLP license from fishing in the directed rockfish primary fisheries in the Central GOA for a calendar year if that LLP license is not designated on a timely and complete application for CQ for that calendar year that is approved by NMFS. Rockfish sideboard provisions described in § 679.82 shall apply to that LLP license, as applicable.
 
-(g) *Application for inter-cooperative transfer of cooperative quota (CQ)*—(1) *Completed application.* NMFS will process an application for inter-cooperative transfer of CQ provided that an electronic online transfer application is completed by the transferor and transferee, with all applicable fields accurately filled-in. 
+(g) *Application for inter-cooperative transfer of cooperative quota (CQ)*—(1) *Completed application.* NMFS will process an application for inter-cooperative transfer of CQ provided that an electronic online transfer application is completed by the transferor and transferee, with all applicable fields accurately filled-in.
 
-(2) *Certification of transferor.* (i) The transferor's designated representative must log into NMFS' online system and create a transfer request as indicated on the computer screen. By using the transferor's NMFS ID and password, and submitting the transfer request, the designated representative certifies that all information is true, correct, and complete. 
+(2) *Certification of transferor.* (i) The transferor's designated representative must log into NMFS' online system and create a transfer request as indicated on the computer screen. By using the transferor's NMFS ID and password, and submitting the transfer request, the designated representative certifies that all information is true, correct, and complete.
 
-(ii) The transferee's designated representative must log into the online system and accept the transfer request. By using the transferee's NMFS ID and password, the designated representative certifies that all information is true, correct, and complete. 
+(ii) The transferee's designated representative must log into the online system and accept the transfer request. By using the transferee's NMFS ID and password, the designated representative certifies that all information is true, correct, and complete.
 
-(h) *Maximum retainable amount (MRA) limits*—(1) *Rockfish cooperative.* A vessel assigned to a rockfish cooperative and fishing under a CQ permit may harvest groundfish species not allocated as CQ up to the amounts of the MRAs for those species as established in Table 30 to this part. 
+(h) *Maximum retainable amount (MRA) limits*—(1) *Rockfish cooperative.* A vessel assigned to a rockfish cooperative and fishing under a CQ permit may harvest groundfish species not allocated as CQ up to the amounts of the MRAs for those species as established in Table 30 to this part.
 
-(2) *Opt-out vessels.* A rockfish eligible harvester who opted-out of participating in a rockfish cooperative is subject to MRAs for rockfish primary species and rockfish secondary species as established in Table 10 to this part. 
+(2) *Opt-out vessels.* A rockfish eligible harvester who opted-out of participating in a rockfish cooperative is subject to MRAs for rockfish primary species and rockfish secondary species as established in Table 10 to this part.
 
-(3) *Rockfish entry level longline fishery.* A person directed fishing in the rockfish entry level longline fishery may harvest groundfish species other than rockfish primary species up to amounts of the MRAs for those species as established in Table 10 to this part. 
+(3) *Rockfish entry level longline fishery.* A person directed fishing in the rockfish entry level longline fishery may harvest groundfish species other than rockfish primary species up to amounts of the MRAs for those species as established in Table 10 to this part.
 
 (4) *Maximum retainable amount (MRA) calculation and limits—catcher vessels.* (i) The MRA for groundfish species not allocated as CQ (incidental catch species) for vessels fishing under the authority of a CQ permit is calculated as a proportion of the total allocated rockfish primary species and rockfish secondary species on board the vessel in round weight equivalents using the retainable percentage in Table 30 to this part; except that—
 
-(ii) Once the amount of shortraker rockfish harvested in the catcher vessel sector is equal to 9.72 percent of the shortraker rockfish TAC in the Central GOA regulatory area, then shortraker rockfish may not be retained by any participant in the catcher vessel sector while fishing under the authority of a CQ permit. 
+(ii) Once the amount of shortraker rockfish harvested in the catcher vessel sector is equal to 9.72 percent of the shortraker rockfish TAC in the Central GOA regulatory area, then shortraker rockfish may not be retained by any participant in the catcher vessel sector while fishing under the authority of a CQ permit.
 
-(5) *Maximum retainable amount (MRA) calculation and limits—catcher/processor vessels.* The MRA for groundfish species not allocated as CQ (incidental catch species) for vessels fishing under the authority of a CQ permit is calculated as a proportion of the total allocated rockfish primary species and rockfish secondary species on board the vessel in round weight equivalents using the retainable percentage in Table 30 to this part as determined under § 679.20(e)(3)(iv). 
+(5) *Maximum retainable amount (MRA) calculation and limits—catcher/processor vessels.* The MRA for groundfish species not allocated as CQ (incidental catch species) for vessels fishing under the authority of a CQ permit is calculated as a proportion of the total allocated rockfish primary species and rockfish secondary species on board the vessel in round weight equivalents using the retainable percentage in Table 30 to this part as determined under § 679.20(e)(3)(iv).
 
-(i) *Rockfish cooperative*—(1) *General.* This section governs the formation and operation of rockfish cooperatives. The regulations in this section apply only to rockfish cooperatives that have formed for the purpose of fishing with CQ issued annually by NMFS. 
+(i) *Rockfish cooperative*—(1) *General.* This section governs the formation and operation of rockfish cooperatives. The regulations in this section apply only to rockfish cooperatives that have formed for the purpose of fishing with CQ issued annually by NMFS.
 
-(i) Members of rockfish cooperatives should consult legal counsel before commencing any activity if the members are uncertain about the legality under the antitrust laws of the rockfish cooperative's proposed conduct. 
+(i) Members of rockfish cooperatives should consult legal counsel before commencing any activity if the members are uncertain about the legality under the antitrust laws of the rockfish cooperative's proposed conduct.
 
-(ii) Membership in a rockfish cooperative is voluntary. No person may be required to join a rockfish cooperative. 
+(ii) Membership in a rockfish cooperative is voluntary. No person may be required to join a rockfish cooperative.
 
-(iii) Members may leave a rockfish cooperative, but any CQ contributed by the rockfish QS held by that member remains assigned to that rockfish cooperative for the remainder of the calendar year. 
+(iii) Members may leave a rockfish cooperative, but any CQ contributed by the rockfish QS held by that member remains assigned to that rockfish cooperative for the remainder of the calendar year.
 
-(iv) An LLP license or vessel that has been assigned to a rockfish cooperative and that leaves the rockfish cooperative continues to be subject to the sideboard provisions established for that rockfish cooperative under § 679.82(d) and (e), as applicable, for that calendar year. 
+(iv) An LLP license or vessel that has been assigned to a rockfish cooperative and that leaves the rockfish cooperative continues to be subject to the sideboard provisions established for that rockfish cooperative under § 679.82(d) and (e), as applicable, for that calendar year.
 
-(v) If a person becomes the holder of an LLP license that had been previously assigned to a rockfish cooperative, then that person may join that rockfish cooperative upon receipt of that LLP license, but may not assign that LLP license to another rockfish cooperative during that calendar year. 
+(v) If a person becomes the holder of an LLP license that had been previously assigned to a rockfish cooperative, then that person may join that rockfish cooperative upon receipt of that LLP license, but may not assign that LLP license to another rockfish cooperative during that calendar year.
 
-(2) *Legal and organizational requirements.* A rockfish cooperative must meet the following legal and organizational requirements before it is eligible to receive CQ: 
+(2) *Legal and organizational requirements.* A rockfish cooperative must meet the following legal and organizational requirements before it is eligible to receive CQ:
 
-(i) Each rockfish cooperative must be formed as a partnership, corporation, or other legal business entity that is registered under the laws of one of the 50 states or the District of Columbia; 
+(i) Each rockfish cooperative must be formed as a partnership, corporation, or other legal business entity that is registered under the laws of one of the 50 states or the District of Columbia;
 
-(ii) Each rockfish cooperative must appoint an individual as designated representative to act on the rockfish cooperative's behalf and serve as contact point for NMFS for questions regarding the operation of the rockfish cooperative. The designated representative must be an individual, and may be a member of the rockfish cooperative, or some other individual designated by the rockfish cooperative; 
+(ii) Each rockfish cooperative must appoint an individual as designated representative to act on the rockfish cooperative's behalf and serve as contact point for NMFS for questions regarding the operation of the rockfish cooperative. The designated representative must be an individual, and may be a member of the rockfish cooperative, or some other individual designated by the rockfish cooperative;
 
-(iii) Each rockfish cooperative must submit a complete and timely application for CQ. 
+(iii) Each rockfish cooperative must submit a complete and timely application for CQ.
 
-(3) *General requirements.* The following table describes the requirements to form a rockfish cooperative in the catcher vessel or catcher/processor sector. 
+(3) *General requirements.* The following table describes the requirements to form a rockfish cooperative in the catcher vessel or catcher/processor sector.
 
 | Requirement                                                                                                                                                                                      | Catcher vessel sector                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Catcher/processor sector                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -173,48 +173,48 @@ CQ for rockfish halibut PSC = Amount halibut PSC allocated to the catcher vessel
 | (xxiii) If my vessel is checked-out and fishing in a directed flatfish fishery in the Central GOA and I catch groundfish and halibut PSC, does that count against the rockfish cooperative's CQ? | No. If you are fishing in a directed flatfish fishery and checked-out of the Rockfish Program fisheries, you are not fishing under the authority of a CQ permit. Groundfish harvests would not be debited against the rockfish cooperative's CQ permit. In this case, any catch of halibut would be attributed to the halibut PSC limit for that directed target fishery and gear type and any applicable sideboard limit.                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                              |
 | (xxiv) Can my rockfish cooperative negotiate prices for me?                                                                                                                                      | The rockfish cooperatives formed under the Rockfish Program are intended to conduct and coordinate harvest activities for their members. Rockfish cooperatives formed under the Rockfish Program are subject to existing antitrust laws. Collective price negotiation by a rockfish cooperative must be conducted in accordance with existing antitrust laws.                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                              |
 
-(4) *Additional requirements*—(i) *Restrictions on fishing CQ assigned to a rockfish cooperative.* A person fishing CQ assigned to a rockfish cooperative must maintain a copy of the CQ permit onboard any vessel that is being used to harvest any rockfish primary species, or rockfish secondary species, or that uses any rockfish halibut PSC CQ. 
+(4) *Additional requirements*—(i) *Restrictions on fishing CQ assigned to a rockfish cooperative.* A person fishing CQ assigned to a rockfish cooperative must maintain a copy of the CQ permit onboard any vessel that is being used to harvest any rockfish primary species, or rockfish secondary species, or that uses any rockfish halibut PSC CQ.
 
-(ii) *Transfer of CQ between rockfish cooperatives.* Rockfish cooperatives may transfer CQ during a calendar year with the following restrictions: 
+(ii) *Transfer of CQ between rockfish cooperatives.* Rockfish cooperatives may transfer CQ during a calendar year with the following restrictions:
 
-(A) A rockfish cooperative may only transfer CQ to another rockfish cooperative; 
+(A) A rockfish cooperative may only transfer CQ to another rockfish cooperative;
 
-(B) A rockfish cooperative may only receive CQ from another rockfish cooperative; 
+(B) A rockfish cooperative may only receive CQ from another rockfish cooperative;
 
-(C) A rockfish cooperative may transfer or receive rockfish CQ only if that cooperative has been assigned at least two LLP licenses with rockfish QS assigned to those LLP licenses; 
+(C) A rockfish cooperative may transfer or receive rockfish CQ only if that cooperative has been assigned at least two LLP licenses with rockfish QS assigned to those LLP licenses;
 
-(D) A rockfish cooperative in the catcher vessel sector may not transfer any CQ to a rockfish cooperative in the catcher/processor sector; 
+(D) A rockfish cooperative in the catcher vessel sector may not transfer any CQ to a rockfish cooperative in the catcher/processor sector;
 
-(E) A rockfish cooperative in the catcher/processor sector may not transfer any rougheye rockfish CQ or shortraker rockfish CQ to a rockfish cooperative in the catcher vessel sector. 
+(E) A rockfish cooperative in the catcher/processor sector may not transfer any rougheye rockfish CQ or shortraker rockfish CQ to a rockfish cooperative in the catcher vessel sector.
 
-(F) A rockfish cooperative receiving rockfish primary species CQ by transfer must assign that rockfish primary species CQ to a member(s) of the rockfish cooperative for the purposes of applying the use caps established under § 679.82(a). NMFS will not approve a transfer if that member would exceed the use cap as a result of the transfer. Rockfish secondary species or halibut PSC CQ is not assigned to a specific member of a rockfish cooperative; 
+(F) A rockfish cooperative receiving rockfish primary species CQ by transfer must assign that rockfish primary species CQ to a member(s) of the rockfish cooperative for the purposes of applying the use caps established under § 679.82(a). NMFS will not approve a transfer if that member would exceed the use cap as a result of the transfer. Rockfish secondary species or halibut PSC CQ is not assigned to a specific member of a rockfish cooperative;
 
-(G) A rockfish cooperative in the catcher/processor sector may not transfer any sideboard limit assigned to it; and 
+(G) A rockfish cooperative in the catcher/processor sector may not transfer any sideboard limit assigned to it; and
 
-(H) After November 15 of the year for which the CQ permit is issued, or upon approval of a rockfish cooperative termination of fishing declaration described in § 679.4(n)(2): 
+(H) After November 15 of the year for which the CQ permit is issued, or upon approval of a rockfish cooperative termination of fishing declaration described in § 679.4(n)(2):
 
-(*1*) A cooperative may only use rockfish primary species and rockfish secondary species CQ for transfer; 
+(*1*) A cooperative may only use rockfish primary species and rockfish secondary species CQ for transfer;
 
-(*2*) A cooperative may not transfer halibut PSC CQ; 
+(*2*) A cooperative may not transfer halibut PSC CQ;
 
-(5) *Use of CQ.* (i) A rockfish cooperative in the catcher vessel sector may not use a rockfish primary species CQ in excess of the amounts specified in § 679.82(a). 
+(5) *Use of CQ.* (i) A rockfish cooperative in the catcher vessel sector may not use a rockfish primary species CQ in excess of the amounts specified in § 679.82(a).
 
-(ii) For purposes of CQ use cap calculation, the total amount of CQ held or used by a person is equal to all tons of CQ derived from the rockfish QS held by that person and assigned to the rockfish cooperative and all tons of CQ assigned to that person by the rockfish cooperative from approved transfers. 
+(ii) For purposes of CQ use cap calculation, the total amount of CQ held or used by a person is equal to all tons of CQ derived from the rockfish QS held by that person and assigned to the rockfish cooperative and all tons of CQ assigned to that person by the rockfish cooperative from approved transfers.
 
-(iii) The amount of rockfish QS held by a person, and CQ derived from that rockfish QS is calculated using the individual and collective use cap rule established in § 679.82(a). 
+(iii) The amount of rockfish QS held by a person, and CQ derived from that rockfish QS is calculated using the individual and collective use cap rule established in § 679.82(a).
 
-(6) *Successors-in-interest.* If a member of a rockfish cooperative dies (in the case of an individual) or dissolves (in the case of a business entity), the LLP license(s) and associated rockfish QS held by that person will be transferred to the legal successor-in-interest under the procedures described in § 679.4(k)(6)(iv)(A). However, the CQ derived from that rockfish QS and assigned to the rockfish cooperative for that year from that person remains under the control of the rockfish cooperative for the duration of that calendar year. Each rockfish cooperative is free to establish its own internal procedures for admitting a successor-in-interest during the fishing season to reflect the transfer of an LLP license and associated rockfish QS. 
+(6) *Successors-in-interest.* If a member of a rockfish cooperative dies (in the case of an individual) or dissolves (in the case of a business entity), the LLP license(s) and associated rockfish QS held by that person will be transferred to the legal successor-in-interest under the procedures described in § 679.4(k)(6)(iv)(A). However, the CQ derived from that rockfish QS and assigned to the rockfish cooperative for that year from that person remains under the control of the rockfish cooperative for the duration of that calendar year. Each rockfish cooperative is free to establish its own internal procedures for admitting a successor-in-interest during the fishing season to reflect the transfer of an LLP license and associated rockfish QS.
 
-(j) *Reallocations.* Annual reallocation of Central Gulf of Alaska rockfish species— 
+(j) *Reallocations.* Annual reallocation of Central Gulf of Alaska rockfish species—
 
-(1) *Pacific cod.* After the Rockfish Program fisheries close on November 15, the Regional Administrator may reallocate any unused amount of Pacific cod from the Rockfish Program to other sectors through notification in the Federal Register consistent with regulations at § 679.20(a)(12)(ii). 
+(1) *Pacific cod.* After the Rockfish Program fisheries close on November 15, the Regional Administrator may reallocate any unused amount of Pacific cod from the Rockfish Program to other sectors through notification in the Federal Register consistent with regulations at § 679.20(a)(12)(ii).
 
-(2) *Rockfish ICAs*—(i) *General.* The Regional Administrator may reallocate a portion of a Central GOA rockfish ICAs to rockfish cooperatives if the amounts assigned to the Central GOA rockfish ICAs are projected not to be harvested or used. The timing of a reallocation will be at the discretion of the Regional Administrator. 
+(2) *Rockfish ICAs*—(i) *General.* The Regional Administrator may reallocate a portion of a Central GOA rockfish ICAs to rockfish cooperatives if the amounts assigned to the Central GOA rockfish ICAs are projected not to be harvested or used. The timing of a reallocation will be at the discretion of the Regional Administrator.
 
-(ii) *Reallocation of Central Gulf of Alaska rockfish ICA species.* If, during a fishing year, the Regional Administrator determines that a reallocation of a portion of the ICAs of Central Gulf of Alaska rockfish species to rockfish cooperatives is appropriate, the Regional Administrator will issue a revised CQ permit to reallocate that amount of Central Gulf of Alaska rockfish species to rockfish cooperatives according to the following: 
+(ii) *Reallocation of Central Gulf of Alaska rockfish ICA species.* If, during a fishing year, the Regional Administrator determines that a reallocation of a portion of the ICAs of Central Gulf of Alaska rockfish species to rockfish cooperatives is appropriate, the Regional Administrator will issue a revised CQ permit to reallocate that amount of Central Gulf of Alaska rockfish species to rockfish cooperatives according to the following:
 
-(A) Catcher vessel rockfish cooperatives will be given priority for reallocation; and 
+(A) Catcher vessel rockfish cooperatives will be given priority for reallocation; and
 
-(B) The amount of additional CQ issued to each rockfish cooperative = Amount of Central Gulf of Alaska rockfish species available for reallocation to rockfish cooperatives × (Amount of CQ for that Central Gulf of Alaska rockfish species initially assigned to that rockfish cooperative/Σ CQ for that Central Gulf of Alaska rockfish species initially assigned to all rockfish cooperatives in the respective sector). 
+(B) The amount of additional CQ issued to each rockfish cooperative = Amount of Central Gulf of Alaska rockfish species available for reallocation to rockfish cooperatives × (Amount of CQ for that Central Gulf of Alaska rockfish species initially assigned to that rockfish cooperative/Σ CQ for that Central Gulf of Alaska rockfish species initially assigned to all rockfish cooperatives in the respective sector).
 
 \[76 FR 81277, Dec. 27, 2011; 77 FR 2478, Jan. 18, 2012, as amended at 80 FR 80703, Dec. 28, 2015; 86 FR 11904, Mar. 1, 2021; 89 FR 66637, Aug. 16, 2024\]
