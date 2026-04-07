@@ -1,1 +1,0 @@
-##### 3401.670 Nomination and appointment of contracting officer's representatives (CORs).

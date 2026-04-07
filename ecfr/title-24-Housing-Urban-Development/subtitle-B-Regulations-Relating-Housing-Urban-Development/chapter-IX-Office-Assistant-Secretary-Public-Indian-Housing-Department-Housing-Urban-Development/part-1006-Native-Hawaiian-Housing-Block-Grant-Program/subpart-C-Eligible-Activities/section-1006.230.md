@@ -30,7 +30,7 @@ Up to such amount as HUD may authorize, or such other limit as may be specified 
 
 (c) *Public information.* The provision of information and other resources to residents and citizen organizations participating in the planning, implementation, or assessment of projects being assisted with NHHBG funds.
 
-(d) *Indirect costs.* Indirect costs may be charged to the NHHBG Program under a cost allocation plan prepared in accordance with 2 CFR part 200, subpart E .
+(d) *Indirect costs.* Indirect costs may be charged to the NHHBG Program under a cost allocation plan prepared in accordance with 2 CFR part 200, subpart E.
 
 (e) *Preparation of the housing plan and reports.* Preparation of the housing plan under § 1006.101 and performance reports under § 1006.410. Preparation includes the costs of public hearings, consultations, and publication.
 

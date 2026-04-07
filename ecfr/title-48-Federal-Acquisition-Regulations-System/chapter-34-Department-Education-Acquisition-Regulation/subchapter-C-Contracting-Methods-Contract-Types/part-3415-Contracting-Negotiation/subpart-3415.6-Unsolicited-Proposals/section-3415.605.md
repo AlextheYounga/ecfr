@@ -2,7 +2,7 @@
 
 (d) Each unsolicited proposal must contain the following certification:
 
-Unsolicited Proposal Certification by Offeror
+UNSOLICITED PROPOSAL CERTIFICATION BY OFFEROR
 
 This is to certify, to the best of my knowledge and belief, that—
 

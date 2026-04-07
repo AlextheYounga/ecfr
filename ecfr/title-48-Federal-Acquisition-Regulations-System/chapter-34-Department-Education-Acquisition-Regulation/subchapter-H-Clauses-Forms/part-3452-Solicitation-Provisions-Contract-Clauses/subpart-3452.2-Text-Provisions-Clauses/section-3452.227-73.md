@@ -2,7 +2,7 @@
 
 As prescribed in 3427.409, insert the following clause in all contracts of third party vendors who require access to Government-furnished information including other contractors' technical data, proprietary information, or software:
 
-Limitations on The Use Or Disclosure of Government-Furnished Information Marked With Restrictive Legends (MAR 2011)
+Limitations on the Use or Disclosure of Government-Furnished Information Marked With Restrictive Legends (MAR 2011)
 
 (a) For contracts under which data are to be produced, furnished, or acquired, the terms *limited rights* and *restricted rights* are defined in the rights in data—general clause (FAR 52.227-14).
 

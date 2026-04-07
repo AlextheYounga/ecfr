@@ -1,1 +1,0 @@
-##### 3432.705 Contract clauses.
