@@ -1,12 +1,12 @@
 ##### § 591.209 What is a price index?
 
-(a) The price index is the COLA area price divided by the DC area price and multiplied by 100. 
+(a) The price index is the COLA area price divided by the DC area price and multiplied by 100.
 
-(b) Example: 
+(b) Example:
 
 COLA Area Average Price for Item A = $1.233 DC Area Average Price for Item A = $1.164
 
-Computation: 
+Computation:
 
 $1.233/$1.164 = 1.0592783 1.0592783 × 100 = 105.92783.
 

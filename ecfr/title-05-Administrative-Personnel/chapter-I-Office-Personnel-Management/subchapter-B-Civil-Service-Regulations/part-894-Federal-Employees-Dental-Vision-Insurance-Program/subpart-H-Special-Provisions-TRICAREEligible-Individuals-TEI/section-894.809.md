@@ -4,14 +4,14 @@
 
 (b) The following order of precedence governs which *TEI family member* may self-certify as the *enrollee:*
 
-(1) An unremarried surviving spouse of a retiree or Medal of Honor recipient, if any, is the *TEI certifying family member* who may enroll and cover surviving *TEI child*(ren) of the retiree. 
+(1) An unremarried surviving spouse of a retiree or Medal of Honor recipient, if any, is the *TEI certifying family member* who may enroll and cover surviving *TEI child*(ren) of the retiree.
 
-(2) If there is no unremarried surviving spouse of a retiree or Medal of Honor recipient, the surviving *TEI child* of a retiree who accepts responsibility to self-certify as the *enrollee* is the *TEI certifying family member* who may enroll and cover other surviving child(ren) who are *TEI family member(s)* of the deceased retiree. 
+(2) If there is no unremarried surviving spouse of a retiree or Medal of Honor recipient, the surviving *TEI child* of a retiree who accepts responsibility to self-certify as the *enrollee* is the *TEI certifying family member* who may enroll and cover other surviving child(ren) who are *TEI family member(s)* of the deceased retiree.
 
 (3) The *TEI family member* who is a *spouse* is the *TEI certifying family member* who may enroll and cover other *TEI family member(s).*
 
 (4) If there is no spouse, the *TEI family member* who accepts responsibility to self-certify as the *enrollee* is the *TEI certifying family member* who may enroll and cover other *TEI family member(s).*
 
-(c) In the event that the *TEI family member* or *TEI certifying family member* is a minor child or a disabled adult dependent, a legal guardian may exercise the *TEI's* rights on his or her behalf. 
+(c) In the event that the *TEI family member* or *TEI certifying family member* is a minor child or a disabled adult dependent, a legal guardian may exercise the *TEI's* rights on his or her behalf.
 
 (d) Accepting responsibility to self-certify as the *enrollee* means that you accept the *Administrator's* authority to make reconsideration decisions under § 894.104 and OPM's authority to correct enrollments under § 894.105.

@@ -1,6 +1,6 @@
 ##### § 294.401 References.
 
-The table below provides assistance in locating other OPM regulations in title 5 of the Code of Federal Regulations that have provisions on the disclosure of records: 
+The table below provides assistance in locating other OPM regulations in title 5 of the Code of Federal Regulations that have provisions on the disclosure of records:
 
 | Type of information                      | Location                   |
 | ---------------------------------------- | -------------------------- |

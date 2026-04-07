@@ -1,8 +1,8 @@
 ##### § 891.202 Change of election.
 
-(a) When used in this section, “month” includes the 4-week period for which a retired employee (other than a survivor) receives compensation. 
+(a) When used in this section, “month” includes the 4-week period for which a retired employee (other than a survivor) receives compensation.
 
-(b) A retired employee shall change his election in accordance with the following table: 
+(b) A retired employee shall change his election in accordance with the following table:
 
 Table of Required Changes
 | Event requiring change                                                                                                                                                                                                                                                                                                     | Type of election to which requirement applies                                   | Change required                                                                                            | Effective date of change                                                                                                                                                                                        |
@@ -12,7 +12,7 @@ Table of Required Changes
 | (3) Termination of subscription to a private health benefits plan for all persons covered by the election 1                                                                                                                                                                                                                | Election for self alone or for self and family for private health benefits plan | Change to not participating (optional change may be made in accordance with paragraph (c) of this section) | Do.                                                                                                                                                                                                             |
 | 1 If the termination is immediately succeeded by a similar subscription in another private health benefits plan a change of election is not required, but the retired employee shall file a certificate of the new carrier that he is a subscriber. A form for the certificate may be obtained from the retirement office. |                                                                                 |                                                                                                            |                                                                                                                                                                                                                 |
 
-(c) An annuitant may change his or her election in accordance with the following table by notifying his or her retirement system at any time: 
+(c) An annuitant may change his or her election in accordance with the following table by notifying his or her retirement system at any time:
 
 Table of Optional Changes
 | Change permitted                                                                             | Type of election from which changing                                                   | Effective date of change                                                                                                                                                                                                                                                                                        |

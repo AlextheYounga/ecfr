@@ -1,10 +1,10 @@
 ##### § 842.202 Definitions.
 
-In this subpart— 
+In this subpart—
 
-*Commuting area* has the same meaning given that term in § 351.203 of this chapter. 
+*Commuting area* has the same meaning given that term in § 351.203 of this chapter.
 
-*Minimum retirement age* means an age based on an individual's year of birth, as follows: 
+*Minimum retirement age* means an age based on an individual's year of birth, as follows:
 
 | Year of Birth  | Minimum Retirement Age  |
 | -------------- | ----------------------- |

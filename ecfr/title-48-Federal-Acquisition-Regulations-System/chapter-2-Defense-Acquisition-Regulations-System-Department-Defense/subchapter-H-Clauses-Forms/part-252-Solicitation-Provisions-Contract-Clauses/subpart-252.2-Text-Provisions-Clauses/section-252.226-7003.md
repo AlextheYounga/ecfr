@@ -1,12 +1,14 @@
-##### 252.223-7004 Drug-free work force.
+##### 252.226-7003 Drug-Free Work Force.
 
-As prescribed in 223.570-2, use the following clause:
+As prescribed in 226.570-2, use the following clause:
 
-Drug-Free Work Force (SEP 1988)
+Drug-Free Work Force (Aug 2024)
 
-(a) *Definitions.* (1) *Employee in a sensitive position,* as used in this clause, means an employee who has been granted access to classified information; or employees in other positions that the Contractor determines involve national security, health or safety, or functions other than the foregoing requiring a high degree of trust and confidence.
+(a) *Definitions.* As used in this clause—
 
-(2) *Illegal drugs,* as used in this clause, means controlled substances included in Schedules I and II, as defined by section 802(6) of title 21 of the United States Code, the possession of which is unlawful under chapter 13 of that title. The term “illegal drugs” does not mean the use of a controlled substance pursuant to a valid prescription or other uses authorized by law.
+*Employee in a sensitive position* means an employee who has been granted access to classified information; or employees in other positions that the Contractor determines involve national security, health or safety, or functions other than the foregoing requiring a high degree of trust and confidence.
+
+*Illegal drugs* means controlled substances included in Schedules I and II, as defined by section 802(6) of title 21 of the United States Code, the possession of which is unlawful under chapter 13 of that title. The term “illegal drugs” does not mean the use of a controlled substance pursuant to a valid prescription or other uses authorized by law.
 
 (b) The Contractor agrees to institute and maintain a program for achieving the objective of a drug-free work force. While this clause defines criteria for such a program, contractors are encouraged to implement alternative approaches comparable to the criteria in paragraph (c) that are designed to achieve the objectives of this clause.
 
@@ -40,4 +42,4 @@ Drug-Free Work Force (SEP 1988)
 
 (e) The provisions of this clause pertaining to drug testing program shall not apply to the extent they are inconsistent with state or local law, or with an existing collective bargaining agreement; provided that with respect to the latter, the Contractor agrees that those issues that are in conflict will be a subject of negotiation at the next collective bargaining session.
 
-(End of clause) \[57 FR 32737, July 23, 1992, as amended at 70 FR 73151, Dec. 9, 2005\]
+(End of clause) \[89 FR 66284, Aug. 15, 2024\]

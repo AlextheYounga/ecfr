@@ -1,10 +1,10 @@
 ##### § 250.302 Survey requirements.
 
-(a) Each executive agency must conduct an annual survey of its employees to assess topics outlined in the National Defense Authorization Act for Fiscal Year 2004, Public Law 108-136, sec. 1128, codified at 5 U.S.C. 7101. 
+(a) Each executive agency must conduct an annual survey of its employees to assess topics outlined in the National Defense Authorization Act for Fiscal Year 2004, Public Law 108-136, sec. 1128, codified at 5 U.S.C. 7101.
 
-(1) Each executive agency may include additional survey questions unique to the agency in addition to the employee survey questions prescribed by OPM under paragraph (a)(2) of this section. 
+(1) Each executive agency may include additional survey questions unique to the agency in addition to the employee survey questions prescribed by OPM under paragraph (a)(2) of this section.
 
-(2) The 16 prescribed survey questions are listed in the following table: 
+(2) The 16 prescribed survey questions are listed in the following table:
 
 | **(i) Leadership and Management practices that contribute to agency performance** |                                                                                                                  |
 |                                                                                   | My work unit has the job-relevant skills necessary to accomplish organizational goals.                           |

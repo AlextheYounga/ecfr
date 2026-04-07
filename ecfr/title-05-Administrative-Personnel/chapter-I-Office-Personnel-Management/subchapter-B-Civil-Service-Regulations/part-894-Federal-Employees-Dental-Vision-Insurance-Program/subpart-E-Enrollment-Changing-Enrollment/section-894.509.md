@@ -2,7 +2,7 @@
 
 (a) Marriage; except for a *TEI* who is an unremarried survivor, widow or widower; *TEI former spouse;* and *TEI child(ren);*
 
-(b) *Acquiring an eligible child* or *TEI child;* or 
+(b) *Acquiring an eligible child* or *TEI child;* or
 
 (c) Loss of other dental or vision coverage by an eligible *family member* or *TEI family member.*
 

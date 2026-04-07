@@ -1,6 +1,6 @@
 ##### § 532.221 Industries included in regular nonappropriated fund surveys.
 
-(a) The lead agency must include the following North American Industry Classification System (NAICS) codes in all regular nonappropriated fund wage surveys: 
+(a) The lead agency must include the following North American Industry Classification System (NAICS) codes in all regular nonappropriated fund wage surveys:
 
 | 2022 NAICS codes | 2022 NAICS industry titles                                                           |
 | ---------------- | ------------------------------------------------------------------------------------ |
@@ -32,8 +32,8 @@
 | 7224             | Drinking places (alcoholic beverages).                                               |
 | 7225             | Restaurants and other eating places.                                                 |
 
-(b) A lead agency may add other industry classes from within the wholesale, retail, and service industry divisions in an area where these industries account for significant proportions of local private employment of the kinds and levels found in local NAF employment. 
+(b) A lead agency may add other industry classes from within the wholesale, retail, and service industry divisions in an area where these industries account for significant proportions of local private employment of the kinds and levels found in local NAF employment.
 
-(c) Additional industries shall be defined in terms of entire industry classes (fourth digit breakdown). 
+(c) Additional industries shall be defined in terms of entire industry classes (fourth digit breakdown).
 
 \[55 FR 46143, Nov. 1, 1990, as amended at 71 FR 35374, June 20, 2006; 73 FR 45853, Aug. 7, 2008; 78 FR 58153, Sept. 23, 2013; 84 FR 36813, July 30, 2019; 89 FR 4540, Jan. 24, 2024\]

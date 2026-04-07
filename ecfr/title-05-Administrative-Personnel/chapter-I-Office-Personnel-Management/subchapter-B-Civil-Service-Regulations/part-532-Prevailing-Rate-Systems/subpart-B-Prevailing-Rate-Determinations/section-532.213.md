@@ -1,6 +1,6 @@
 ##### § 532.213 Industries included in regular appropriated fund wage surveys.
 
-(a) The lead agency must include the industries in the following North American Industry Classification System (NAICS) codes in all regular appropriated fund wage surveys: 
+(a) The lead agency must include the industries in the following North American Industry Classification System (NAICS) codes in all regular appropriated fund wage surveys:
 
 | 2022 NAICS codes             | 2022 NAICS industry titles                                                                                                                                         |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -21,8 +21,8 @@
 | 423                          | Merchant wholesalers, durable goods.                                                                                                                               |
 | 424                          | Merchant wholesalers, nondurable goods.                                                                                                                            |
 
-(b) A lead agency may add other industry classes to a regular survey in an area where these industries account for significant proportions of local private employment of the kinds and levels found in local Federal employment. 
+(b) A lead agency may add other industry classes to a regular survey in an area where these industries account for significant proportions of local private employment of the kinds and levels found in local Federal employment.
 
-(c) Specifically excluded from all wage surveys for regular wage schedules are food service and laundry establishments and industries having peculiar employment conditions that directly affect the wage rates paid and that are the basis for special wage surveys. 
+(c) Specifically excluded from all wage surveys for regular wage schedules are food service and laundry establishments and industries having peculiar employment conditions that directly affect the wage rates paid and that are the basis for special wage surveys.
 
 \[55 FR 46142, Nov. 1, 1990, as amended at 71 FR 35373, June 20, 2006; 73 FR 45853, Aug. 7, 2008; 78 FR 58153, Sept. 23, 2013; 84 FR 36813, July 30, 2019; 89 FR 4540, Jan. 24, 2024\]

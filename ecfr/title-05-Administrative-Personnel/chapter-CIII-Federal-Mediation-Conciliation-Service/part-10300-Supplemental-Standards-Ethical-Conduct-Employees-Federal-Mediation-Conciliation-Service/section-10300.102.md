@@ -1,14 +1,14 @@
 ##### § 10300.102 Definitions.
 
-For purposes of this part: 
+For purposes of this part:
 
-*Outside employment or activity* means any form of non-Federal employment or business relationship, compensated or uncompensated, involving the provision of personal services by the employee. It includes, but is not limited to: 
+*Outside employment or activity* means any form of non-Federal employment or business relationship, compensated or uncompensated, involving the provision of personal services by the employee. It includes, but is not limited to:
 
-(1) Personal services as an officer, director, employee, agent, attorney, consultant, contractor, general partner, trustee, teacher, professor, speaker, or writer. 
+(1) Personal services as an officer, director, employee, agent, attorney, consultant, contractor, general partner, trustee, teacher, professor, speaker, or writer.
 
-(2) Active participation, including voluntary participation as defined in 5 CFR 2635.502(b)(1)(v), with a prohibited source. 
+(2) Active participation, including voluntary participation as defined in 5 CFR 2635.502(b)(1)(v), with a prohibited source.
 
-(3) It does not include participation in the activities of a nonprofit charitable, religious, professional, social, fraternal, educational, recreational, public service, or civic organization, unless such activities are for compensation other than reimbursement of expenses; such activities involve the provision of professional services or advice; or the organization's activities are devoted substantially to matters relating to the employee's official duties as defined in 5 CFR 2635.807(a)(2)(i)(B) through (E). 
+(3) It does not include participation in the activities of a nonprofit charitable, religious, professional, social, fraternal, educational, recreational, public service, or civic organization, unless such activities are for compensation other than reimbursement of expenses; such activities involve the provision of professional services or advice; or the organization's activities are devoted substantially to matters relating to the employee's official duties as defined in 5 CFR 2635.807(a)(2)(i)(B) through (E).
 
 Note 1 to § 10300.102.
 
