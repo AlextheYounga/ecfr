@@ -2,7 +2,7 @@
 
 (a) This subpart sets forth the procedures for the original classification of a generic type of device that was in commercial distribution before May 28, 1976. Such a device will be classified by regulation into either class I (general controls), class II (special controls) or class III (premarket approval), depending upon the level of regulatory control required to provide reasonable assurance of the safety and effectiveness of the device (§ 860.3(c)). This subpart does not apply to a device that is classified into class III by statute under section 513(f)(1) of the Federal Food, Drug, and Cosmetic Act because the Food and Drug Administration has determined that the device is not “substantially equivalent” to any device subject to this subpart or under section 520(*l*)(1) of the Federal Food, Drug, and Cosmetic Act because the device was regarded previously as a new drug. In classifying a *preamendments* device to which this section applies, the Food and Drug Administration will follow the procedures described in paragraphs (b) through (g) of this section.
 
-(b) The Commissioner refers the device to the appropriate classification panel organized and operated in accordance with section 513 (b) and (c) of the act and part 14 of this chapter.
+(b) The Commissioner refers the device to the appropriate classification panel organized and operated in accordance with section 513 (b) and (c) of the Federal Food, Drug, and Cosmetic Act and part 14 of this chapter.
 
 (c) In order to make recommendations to the Commissioner on the class of regulatory control (class I, class II, or class III) appropriate for the device, the panel reviews the device for safety and effectiveness. In so doing, the panel:
 
@@ -32,7 +32,7 @@
 
 (g) The Commissioner reviews the comments and issues a final regulation classifying the device and other devices of that generic type. The regulation will:
 
-(1) If classifying the device into class I, prescribe which, if any, of the requirements of sections 510, 519, and 520(f) of the act will not apply to the device and state the reasons for making the requirements inapplicable, in accordance with § 860.95;
+(1) If classifying the device into class I, prescribe which, if any, of the requirements of sections 510, 519, and 520(f) of the Federal Food, Drug, and Cosmetic Act will not apply to the device and state the reasons for making the requirements inapplicable, in accordance with § 860.95;
 
 (2) If classifying the device into class II, establish the special controls for the device and prescribe whether the premarket notification requirement will apply to the device; and
 
