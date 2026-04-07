@@ -2,7 +2,7 @@
 
 Your donation responsibilities as a holding agency begin when you determine that property is to be declared excess. You must then:
 
-(a) Let GSA know if you have a donee in mind for foreign gift items or airport property, as provided for in § 102-37.525 and § 102-42.95(h) of this chapter;
+(a) Let GSA know if you have a donee in mind for foreign gift items or airport property, as provided for in §§ 102-37.525 and 102-42.95(h) of this chapter;
 
 (b) Cooperate with all entities authorized to participate in the donation program and their authorized representatives in locating, screening, and inspecting excess or surplus property for possible donation;
 

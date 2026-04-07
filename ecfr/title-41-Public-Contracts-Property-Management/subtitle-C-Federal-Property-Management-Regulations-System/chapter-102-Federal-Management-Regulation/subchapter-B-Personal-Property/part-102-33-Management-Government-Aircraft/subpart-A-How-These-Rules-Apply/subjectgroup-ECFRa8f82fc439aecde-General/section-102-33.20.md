@@ -8,7 +8,7 @@ The following definitions apply to this part:
 
 *Aircraft part* means an individual component or an assembly of components that is used on aircraft.
 
-*Armed Forces* mean the Army, Navy, Air Force, Marine Corps, and Coast Guard, including their regular and Reserve components and members serving without component status. For purposes of this Part, the National Guard is also included in the Armed Forces.
+*Armed Forces* mean the Army, Navy, Air Force, Marine Corps, and Coast Guard, including their regular and Reserve components and members serving without component status. For purposes of this part, the National Guard is also included in the Armed Forces.
 
 *Aviation life support equipment (ALSE)* means equipment that protects flight crewmembers and others aboard an aircraft, assisting their safe escape, survival, and recovery during an accident or other emergency.
 
@@ -36,7 +36,7 @@ The following definitions apply to this part:
 
 *Federal Acquisition Service (FAS)* means a component of GSA. FAS is organized by geographical regions. The FAS Property Management Division in GSA's Pacific Rim Region, 450 Golden Gate Ave., San Francisco, CA 94102-3434, has responsibility for disposing of excess and surplus aircraft.
 
-*Federal aircraft* means manned or unmanned aircraft that an executive agency owns (*i.e.,* holds title to) or borrows for any length of time. Federal aircraft include -
+*Federal aircraft* means manned or unmanned aircraft that an executive agency owns (*i.e.,* holds title to) or borrows for any length of time. Federal aircraft include—
 
 (1) Bailed aircraft: Federal aircraft that is owned by one executive agency, but is in the custody of and operated by another executive agency under an agreement that may or may not include cost-reimbursement. Bailments are executive agency to executive agency agreements and involve only aircraft, not services;
 
@@ -48,7 +48,9 @@ The following definitions apply to this part:
 
 (5) Owned aircraft: An aircraft for which title or rights of title are vested in an executive agency.
 
-Note to definition of Federal aircraft: When an executive agency loans or bails an aircraft that meets the criteria for Federal aircraft, the loaned or bailed aircraft is still considered a Federal aircraft in the owning agency's inventory, except when DOD is the owning agency of a bailed aircraft. In that case, the aircraft is recorded in the inventory of the bailee.
+Note to definition of Federal aircraft:
+
+When an executive agency loans or bails an aircraft that meets the criteria for Federal aircraft, the loaned or bailed aircraft is still considered a Federal aircraft in the owning agency's inventory, except when DOD is the owning agency of a bailed aircraft. In that case, the aircraft is recorded in the inventory of the bailee.
 
 *Federal Aviation Interactive Reporting System (FAIRS)* is a management information system operated by GSA to collect, maintain, analyze, and report information on Federal aircraft inventories and cost and usage of Federal aircraft and CAS aircraft (and related services) (see §§ 102-33.395 through 102-33.440).
 
@@ -56,11 +58,11 @@ Note to definition of Federal aircraft: When an executive agency loans or bails 
 
 *Full service contract* means a contractual agreement through which an executive agency acquires an aircraft and related aviation services (*e.g.,* pilot, crew, maintenance, catering) for exclusive use. Aircraft hired under full service contracts are commercial aviation services (CAS), not Federal aircraft, regardless of the length of the contract.
 
-*Government aircraft* means manned or unmanned aircraft operated for the exclusive use of an executive agency. Government aircraft include -
+*Government aircraft* means manned or unmanned aircraft operated for the exclusive use of an executive agency. Government aircraft include—
 
 (1) Federal aircraft (see definition for “Federal aircraft” in this section); and
 
-(2) Aircraft hired as commercial aviation services (CAS). CAS include -
+(2) Aircraft hired as commercial aviation services (CAS). CAS include—
 
 (i) Leased aircraft for exclusive use for an agreed upon period of time (The acquiring executive agency operates and maintains the aircraft);
 
@@ -86,9 +88,9 @@ Note to definition of Federal aircraft: When an executive agency loans or bails 
 
 *Non-operational aircraft* means a Federal aircraft that is not safe for flight and, in the owning executive agency's determination, cannot economically be made safe for flight. This definition refers to the aircraft's flight capability, not its mission-support equipment capability. An aircraft that is temporarily out of service for maintenance or repair and can economically be made safe for flight is considered an operational aircraft.
 
-*Official Government business* in relation to Government aircraft -
+*Official Government business* in relation to Government aircraft—
 
-(1) Includes, but is not limited to -
+(1) Includes, but is not limited to—
 
 (i) Carrying crewmembers, qualified non-crewmembers, and cargo directly required for or associated with performing Governmental functions (including travel-related Governmental functions);
 
@@ -96,7 +98,7 @@ Note to definition of Federal aircraft: When an executive agency loans or bails 
 
 (iii) Training pilots and other aviation personnel.
 
-(2) Does not include -
+(2) Does not include—
 
 (i) Using Government aircraft for personal or political purposes, except for required use travel and space available travel as defined in OMB Circular A-126; or
 
@@ -112,7 +114,7 @@ Note to definition of Federal aircraft: When an executive agency loans or bails 
 
 *Production approval holder (PAH)* means the person or company who holds a Production Certificate (PC), Approved Production Inspection System (APIS), Parts Manufacturer Approval (PMA), or Technical Standards Orders Authorization (TSOA), issued under provisions of 14 CFR part 21, Certification Procedures for Products and Parts, and who controls the design, manufacture, and quality of a specific aircraft part.
 
-*Qualified non-crewmember* means an individual, other than a member of the crew, aboard an aircraft -
+*Qualified non-crewmember* means an individual, other than a member of the crew, aboard an aircraft—
 
 (1) Operated by an United States Government agency in the intelligence community; or
 
@@ -124,7 +126,7 @@ Note to definition of Federal aircraft: When an executive agency loans or bails 
 
 *Required use travel* means use of a Government aircraft for the travel of an executive agency officer or employee where the use of the Government aircraft is required because of bona fide communications or security need of the agency or exceptional scheduling requirements. Required use travel must be approved as described in OMB Circular A-126.
 
-*Risk analysis and management* means a systematic process for -
+*Risk analysis and management* means a systematic process for—
 
 (1) Identifying risks and hazards associated with alternative courses of action involved in an aviation operation;
 

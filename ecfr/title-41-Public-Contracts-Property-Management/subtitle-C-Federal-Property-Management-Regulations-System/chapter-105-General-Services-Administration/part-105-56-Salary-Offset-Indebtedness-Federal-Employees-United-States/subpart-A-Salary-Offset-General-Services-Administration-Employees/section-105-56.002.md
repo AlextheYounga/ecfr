@@ -12,4 +12,4 @@ This subpart does not apply to the following:
 
 (e) Any adjustment to collect a debt amounting to $50 or less, if, at the time of the adjustment, or as soon after as possible, the employee is given written notice of the nature and amount of the adjustment and a point of contact for contesting the adjustment.
 
-(f) Debts or claims arising from the accrual of unpaid Health Benefits Insurance (HBI) premiums as the result of an employee's election to continue health insurance coverage during periods of leave without pay (LWOP), or when pay is insufficient to cover premiums. Debt collection procedures for unpaid HBI are covered under 5 CFR part 890, Subpart E.
+(f) Debts or claims arising from the accrual of unpaid Health Benefits Insurance (HBI) premiums as the result of an employee's election to continue health insurance coverage during periods of leave without pay (LWOP), or when pay is insufficient to cover premiums. Debt collection procedures for unpaid HBI are covered under 5 CFR part 890, subpart E.
