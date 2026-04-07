@@ -10,7 +10,7 @@
 
 (e) During the review process, we may request additional information if we determine that the information provided is not sufficient to complete the review and approval process. If you fail to provide the requested information, BOEM may disapprove your COP.
 
-(f) Upon completion of our technical and environmental reviews and other reviews required by Federal law (*e.g.,* CZMA), BOEM may approve, disapprove, or approve with modifications your COP.
+(f) Upon completion of our technical and environmental reviews and other reviews required by Federal law (e.g., CZMA), BOEM may approve, disapprove, or approve with modifications your COP.
 
 (1) If we approve your COP, we will specify terms and conditions to be incorporated into your COP. You must certify compliance with certain of those terms and conditions, as required under 30 CFR 285.633(a); and
 

@@ -30,7 +30,7 @@
 
 (14) Status of quality-control records at various stages of fabrication.
 
-(b) For any floating facilities, the CVA or project engineer must ensure that any requirements of the U.S. Coast Guard for structural integrity and stability (*e.g.,* verification of center of gravity) have been met. The CVA or project engineer must also consider:
+(b) For any floating facilities, the CVA or project engineer must ensure that any requirements of the U.S. Coast Guard for structural integrity and stability (e.g., verification of center of gravity) have been met. The CVA or project engineer must also consider:
 
 (1) Foundations, foundation pilings and templates, and anchoring systems; and
 

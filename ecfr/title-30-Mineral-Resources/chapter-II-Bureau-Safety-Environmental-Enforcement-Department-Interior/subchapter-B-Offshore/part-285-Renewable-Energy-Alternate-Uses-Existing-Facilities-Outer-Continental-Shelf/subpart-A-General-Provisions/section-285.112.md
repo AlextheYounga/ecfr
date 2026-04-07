@@ -66,7 +66,7 @@ Terms used in this part have the meanings as defined in this section: P>*Affecte
 
 *Significant archaeological resource* means an archaeological resource that meets the criteria of significance for eligibility for listing in the National Register of Historic Places, as defined in 36 CFR 60.4, or its successor.
 
-*Site assessment activities* mean those initial activities conducted to characterize a site on the OCS, such as resource assessment surveys (*e.g.,* meteorological and oceanographic) or technology testing, involving the installation of bottom-founded facilities.
+*Site assessment activities* mean those initial activities conducted to characterize a site on the OCS, such as resource assessment surveys (e.g., meteorological and oceanographic) or technology testing, involving the installation of bottom-founded facilities.
 
 *We, us,* and *our* refer to the Bureau of Safety and Environmental Enforcement of the Department of the Interior, or its possessive, depending on the context.
 

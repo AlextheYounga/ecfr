@@ -24,7 +24,7 @@ If you are required to use a CVA:
 
 (9) Other pertinent parameters of the proposed design.
 
-(c) For any floating facility, the CVA must ensure that any requirements of the U.S. Coast Guard for structural integrity and stability (*e.g.,* verification of center of gravity), have been met. The CVA must also consider:
+(c) For any floating facility, the CVA must ensure that any requirements of the U.S. Coast Guard for structural integrity and stability (e.g., verification of center of gravity), have been met. The CVA must also consider:
 
 (1) Foundations, foundation pilings and templates, and anchoring systems; and
 
