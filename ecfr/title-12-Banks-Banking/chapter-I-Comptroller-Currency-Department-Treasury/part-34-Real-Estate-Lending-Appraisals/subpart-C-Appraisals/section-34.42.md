@@ -10,7 +10,7 @@
 
 (e) *Commercial real estate transaction* means a real estate-related financial transaction that is not secured by a single 1-to-4 family residential property.
 
-(f) Complex appraisal for a residential real estate transaction means one in which the property to be appraised, the form of ownership, or market conditions are atypical.
+(f) *Complex appraisal for a residential real estate transaction* means one in which the property to be appraised, the form of ownership, or market conditions are atypical.
 
 (g) *Federally related transaction* means any real estate-related financial transaction entered into on or after August 9, 1990, that:
 
@@ -40,7 +40,7 @@
 
 (3) The use of real property or interests in property as security for a loan or investment, including mortgage-backed securities.
 
-(k) Residential real estate transaction means a real estate-related financial transaction that is secured by a single 1-to-4 family residential property.
+(k) *Residential real estate transaction* means a real estate-related financial transaction that is secured by a single 1-to-4 family residential property.
 
 (l) *State certified appraiser* means any individual who has satisfied the requirements for certification in a State or territory whose criteria for certification as a real estate appraiser currently meet the minimum criteria for certification issued by the Appraiser Qualifications Board of the Appraisal Foundation. No individual shall be a State certified appraiser unless such individual has achieved a passing grade upon a suitable examination administered by a State or territory that is consistent with and equivalent to the Uniform State Certification Examination issued or endorsed by the Appraiser Qualifications Board of the Appraisal Foundation. In addition, the Appraisal Subcommittee must not have issued a finding that the policies, practices, or procedures of the State or territory are inconsistent with title XI of FIRREA. The OCC may, from time to time, impose additional qualification criteria for certified appraisers performing appraisals in connection with federally related transactions within its jurisdiction.
 
