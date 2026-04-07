@@ -1,4 +1,4 @@
-##### § 8.1 Transparency.
+##### § 8.2 Transparency.
 
 Link to an amendment published at 89 FR 45554, May 22, 2024.
 
@@ -22,6 +22,4 @@ Figure 1 to Paragraph (a)(1)—\[Fixed or Mobile\] Broadband Consumer Disclosure
 
 (b) Broadband internet access service is a mass-market retail service by wire or radio that provides the capability to transmit data to and receive data from all or substantially all internet endpoints, including any capabilities that are incidental to and enable the operation of the communications service, but excluding dial-up internet access service. This term also encompasses any service that the Commission finds to be providing a functional equivalent of the service described in the previous sentence or that is used to evade the protections set forth in this part. For purposes of paragraphs (a)(1) through (6) of this section, “mass-market” services exclude service offerings customized for the customer through individually negotiated agreements even when the services are supported by federal universal service support.
 
-(c) A network management practice is reasonable if it is appropriate and tailored to achieving a legitimate network management purpose, taking into account the particular network architecture and technology of the broadband internet access service.
-
-\[83 FR 7922, Feb. 22, 2018, as amended at 87 FR 76978, Dec. 16, 2022; 88 FR 52043, Aug. 7, 2023; 88 FR 63859, Sept. 18, 2023; 88 FR 73535, Oct. 26, 2023\]
+\[83 FR 7922, Feb. 22, 2018, as amended at 87 FR 76978, Dec. 16, 2022; 88 FR 52043, Aug. 7, 2023; 88 FR 63859, Sept. 18, 2023; 88 FR 73535, Oct. 26, 2023. Redesignated and amended at 89 FR 45554, May 22, 2024\]
