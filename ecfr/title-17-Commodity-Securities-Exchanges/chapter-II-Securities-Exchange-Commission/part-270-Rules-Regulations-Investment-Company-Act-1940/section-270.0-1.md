@@ -1,6 +1,6 @@
 ##### § 270.0-1 Definition of terms used in this part.
 
-(a) As used in the rules and regulations prescribed by the Commission pursuant to the Investment Company Act of 1940, unless the context otherwise requires:
+(a) As used in the rules and regulations prescribed by the Commission pursuant to the Investment Company Act of 1940, unless the context otherwise requires:*Commission*
 
 (1) The term *Commission* means the Securities and Exchange Commission.
 

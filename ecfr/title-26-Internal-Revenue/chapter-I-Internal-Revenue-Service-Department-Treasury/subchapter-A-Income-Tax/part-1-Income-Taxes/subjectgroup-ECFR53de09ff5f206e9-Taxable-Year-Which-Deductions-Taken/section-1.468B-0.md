@@ -1,346 +1,346 @@
 ##### § 1.468B-0 Table of contents.
 
-This section lists the table of contents for §§ 1.468B-1 through 1.468B-9. 
+This section lists the table of contents for §§ 1.468B-1 through 1.468B-9.
 
 § 1.468B-1 Qualified settlement funds.
 
-(a) In general. 
+(a) In general.
 
-(b) Coordination with other entity classifications. 
+(b) Coordination with other entity classifications.
 
-(c) Requirements. 
+(c) Requirements.
 
-(d) Definitions. 
+(d) Definitions.
 
-(1) Transferor. 
+(1) Transferor.
 
-(2) Related person. 
+(2) Related person.
 
-(e) Governmental order or approval requirement. 
+(e) Governmental order or approval requirement.
 
-(1) In general. 
+(1) In general.
 
-(2) Arbitration panels. 
+(2) Arbitration panels.
 
-(f) Resolve or satisfy requirement. 
+(f) Resolve or satisfy requirement.
 
-(1) Liabilities to provide property or services. 
+(1) Liabilities to provide property or services.
 
-(2) CERCLA liabilities. 
+(2) CERCLA liabilities.
 
-(g) Excluded liabilities. 
+(g) Excluded liabilities.
 
-(h) Segregation requirement. 
+(h) Segregation requirement.
 
-(1) In general. 
+(1) In general.
 
-(2) Classification of fund established to resolve or satisfy allowable and non-allowable claims. 
+(2) Classification of fund established to resolve or satisfy allowable and non-allowable claims.
 
-(i) \[Reserved\] 
+(i) \[Reserved\]
 
-(j) Classification of fund prior to satisfaction of requirements in paragraph (c) of this section. 
+(j) Classification of fund prior to satisfaction of requirements in paragraph (c) of this section.
 
-(1) In general. 
+(1) In general.
 
-(2) Relation-back rule. 
+(2) Relation-back rule.
 
-(i) In general. 
+(i) In general.
 
-(ii) Relation-back election. 
+(ii) Relation-back election.
 
-(k) Election to treat a qualified settlement fund as a subpart E trust. 
+(k) Election to treat a qualified settlement fund as a subpart E trust.
 
-(1) In general. 
+(1) In general.
 
-(2) Manner of making grantor trust election. 
+(2) Manner of making grantor trust election.
 
-(i) In general. 
+(i) In general.
 
-(ii) Requirements for election statement. 
+(ii) Requirements for election statement.
 
-(3) Effect of making the election. 
+(3) Effect of making the election.
 
-(l) Examples. 
+(l) Examples.
 
 § 1.468B-2 Taxation of qualified settlement funds and related administrative requirements.
 
-(a) In general. 
+(a) In general.
 
-(b) Modified gross income. 
+(b) Modified gross income.
 
-(c) Partnership interests held by a qualified settlement fund on February 14, 1992. 
+(c) Partnership interests held by a qualified settlement fund on February 14, 1992.
 
-(1) In general. 
+(1) In general.
 
-(2) Limitation on changes in partnership agreements and capital contributions. 
+(2) Limitation on changes in partnership agreements and capital contributions.
 
-(d) Distributions to transferors and claimants. 
+(d) Distributions to transferors and claimants.
 
-(e) Basis of property transferred to a qualified settlement fund. 
+(e) Basis of property transferred to a qualified settlement fund.
 
-(f) Distribution of property. 
+(f) Distribution of property.
 
-(g) Other taxes. 
+(g) Other taxes.
 
-(h) Denial of credits against tax. 
+(h) Denial of credits against tax.
 
-(i) \[Reserved\] 
+(i) \[Reserved\]
 
-(j) Taxable year and accounting method. 
+(j) Taxable year and accounting method.
 
-(k) Treatment as corporation for purposes of subtitle F. 
+(k) Treatment as corporation for purposes of subtitle F.
 
-(l) Information reporting withholding requirements. 
+(l) Information reporting withholding requirements.
 
-(1) Payments to a qualified settlement fund. 
+(1) Payments to a qualified settlement fund.
 
-(2) Payments and distributions by a qualified settlement fund. 
+(2) Payments and distributions by a qualified settlement fund.
 
-(i) In general. 
+(i) In general.
 
-(ii) Special rules. 
+(ii) Special rules.
 
-(m) Request for prompt assessment. 
+(m) Request for prompt assessment.
 
-(n) Examples. 
+(n) Examples.
 
 § 1.468B-3 Rules applicable to the transferor.
 
-(a) Transfer of property. 
+(a) Transfer of property.
 
-(1) In general. 
+(1) In general.
 
-(2) Anti-abuse rule. 
+(2) Anti-abuse rule.
 
-(b) Qualified appraisal requirement for transfers of certain property. 
+(b) Qualified appraisal requirement for transfers of certain property.
 
-(1) In general. 
+(1) In general.
 
-(2) Provision of copies. 
+(2) Provision of copies.
 
-(3) Qualified appraisal. 
+(3) Qualified appraisal.
 
-(4) Information included in a qualified appraisal. 
+(4) Information included in a qualified appraisal.
 
-(5) Effect of signature of the qualified appraiser. 
+(5) Effect of signature of the qualified appraiser.
 
-(c) Economic performance. 
+(c) Economic performance.
 
-(1) In general. 
+(1) In general.
 
-(2) Right to a refund or reversion. 
+(2) Right to a refund or reversion.
 
-(i) In general. 
+(i) In general.
 
-(ii) Right extinguished. 
+(ii) Right extinguished.
 
-(3) Obligations of a transferor. 
+(3) Obligations of a transferor.
 
-(d) Payment of insurance amounts. 
+(d) Payment of insurance amounts.
 
-(e) Statement to the qualified settlement fund and the Internal Revenue Service. 
+(e) Statement to the qualified settlement fund and the Internal Revenue Service.
 
-(1) In general. 
+(1) In general.
 
-(2) Required statement. 
+(2) Required statement.
 
-(i) In general. 
+(i) In general.
 
-(ii) Combined statements. 
+(ii) Combined statements.
 
-(f) Distributions to transferors. 
+(f) Distributions to transferors.
 
-(1) In general. 
+(1) In general.
 
-(2) Deemed distributions. 
+(2) Deemed distributions.
 
-(i) Other liabilities. 
+(i) Other liabilities.
 
-(ii) Constructive receipt. 
+(ii) Constructive receipt.
 
-(3) Tax benefit rule. 
+(3) Tax benefit rule.
 
-(g) Example. 
+(g) Example.
 
 § 1.468B-4 Taxability of distributions to claimants. § 1.468B-5 Effective dates and transition rules applicable to qualified settlement funds.
 
-(a) In general. 
+(a) In general.
 
-(b) Taxation of certain pre-1996 fund income. 
+(b) Taxation of certain pre-1996 fund income.
 
-(1) Reasonable method. 
+(1) Reasonable method.
 
-(i) In general. 
+(i) In general.
 
-(ii) Qualified settlement funds established after February 14, 1992, but before January 1, 1993. 
+(ii) Qualified settlement funds established after February 14, 1992, but before January 1, 1993.
 
-(iii) Use of cash method of accounting. 
+(iii) Use of cash method of accounting.
 
-(iv) Unreasonable position. 
+(iv) Unreasonable position.
 
-(v) Waiver of penalties. 
+(v) Waiver of penalties.
 
-(2) Election to apply qualified settlement fund rules. 
+(2) Election to apply qualified settlement fund rules.
 
-(i) In general. 
+(i) In general.
 
-(ii) Election statement. 
+(ii) Election statement.
 
-(iii) Due date of returns and amended returns. 
+(iii) Due date of returns and amended returns.
 
-(iv) Computation of interest and waiver of penalties. 
+(iv) Computation of interest and waiver of penalties.
 
-(c) Grantor trust elections under § 1.468B-1(k). 
+(c) Grantor trust elections under § 1.468B-1(k).
 
-(1) In general. 
+(1) In general.
 
-(2) Transition rules. 
+(2) Transition rules.
 
-(3) Qualified settlement funds established by the U.S. government on or before February 3, 2006. 
+(3) Qualified settlement funds established by the U.S. government on or before February 3, 2006.
 
 § 1.468B-6 Escrow accounts, trusts, and other funds used during deferred exchanges of like-kind property under section 1031(a)(3).
 
-(a) Scope. 
+(a) Scope.
 
-(b) Definitions. 
+(b) Definitions.
 
-(1) In general. 
+(1) In general.
 
-(2) Exchange funds. 
+(2) Exchange funds.
 
-(3) Exchange facilitator. 
+(3) Exchange facilitator.
 
-(4) Transactional expenses. 
+(4) Transactional expenses.
 
-(i) In general. 
+(i) In general.
 
-(ii) Special rule for certain fees for exchange facilitator services. 
+(ii) Special rule for certain fees for exchange facilitator services.
 
-(c) Taxation of exchange funds. 
+(c) Taxation of exchange funds.
 
-(1) Exchange funds generally treated as loaned to an exchange facilitator. 
+(1) Exchange funds generally treated as loaned to an exchange facilitator.
 
-(2) Exchange funds not treated as loaned to an exchange facilitator. 
+(2) Exchange funds not treated as loaned to an exchange facilitator.
 
-(i) Scope. 
+(i) Scope.
 
-(ii) Earnings attributable to the taxpayer's exchange funds. 
+(ii) Earnings attributable to the taxpayer's exchange funds.
 
-(A) Separately identified account. 
+(A) Separately identified account.
 
-(B) Allocation of earnings in commingled accounts. 
+(B) Allocation of earnings in commingled accounts.
 
-(C) Transactional expenses. 
+(C) Transactional expenses.
 
-(iii) Treatment of the taxpayer. 
+(iii) Treatment of the taxpayer.
 
-(d) Information reporting requirements. 
+(d) Information reporting requirements.
 
-(e) Examples. 
+(e) Examples.
 
-(f) Effective/applicability dates. 
+(f) Effective/applicability dates.
 
-(1) In general. 
+(1) In general.
 
-(2) Transition rule. 
+(2) Transition rule.
 
 § 1.468B-7 Pre-closing escrows.
 
-(a) Scope. 
+(a) Scope.
 
-(b) Definitions. 
+(b) Definitions.
 
-(c) Taxation of pre-closing escrows. 
+(c) Taxation of pre-closing escrows.
 
-(d) Reporting obligations of the administrator. 
+(d) Reporting obligations of the administrator.
 
-(e) Examples. 
+(e) Examples.
 
-(f) Effective dates. 
+(f) Effective dates.
 
-(1) In general. 
+(1) In general.
 
-(2) Transition rule. 
+(2) Transition rule.
 
 § 1.468B-8 Contingent-at-closing escrows. \[Reserved\] § 1.468B-9 Disputed ownership funds.
 
-(a) Scope. 
+(a) Scope.
 
-(b) Definitions. 
+(b) Definitions.
 
-(c) Taxation of a disputed ownership fund. 
+(c) Taxation of a disputed ownership fund.
 
-(1) In general. 
+(1) In general.
 
-(2) Exceptions. 
+(2) Exceptions.
 
-(3) Property received by the disputed ownership fund. 
+(3) Property received by the disputed ownership fund.
 
-(i) Generally excluded from income. 
+(i) Generally excluded from income.
 
-(ii) Basis and holding period. 
+(ii) Basis and holding period.
 
-(4) Property distributed by the disputed ownership fund. 
+(4) Property distributed by the disputed ownership fund.
 
-(i) Computing gain or loss. 
+(i) Computing gain or loss.
 
-(ii) Denial of deduction. 
+(ii) Denial of deduction.
 
-(5) Taxable year and accounting method. 
+(5) Taxable year and accounting method.
 
-(6) Unused carryovers. 
+(6) Unused carryovers.
 
-(d) Rules applicable to transferors that are not transferor-claimants. 
+(d) Rules applicable to transferors that are not transferor-claimants.
 
-(1) Transfer of property. 
+(1) Transfer of property.
 
-(2) Economic performance. 
+(2) Economic performance.
 
-(i) In general. 
+(i) In general.
 
-(ii) Obligations of the transferor. 
+(ii) Obligations of the transferor.
 
-(3) Distributions to transferors. 
+(3) Distributions to transferors.
 
-(i) In general. 
+(i) In general.
 
-(ii) Exception. 
+(ii) Exception.
 
-(iii) Deemed distributions. 
+(iii) Deemed distributions.
 
-(e) Rules applicable to transferor-claimants. 
+(e) Rules applicable to transferor-claimants.
 
-(1) Transfer of property. 
+(1) Transfer of property.
 
-(2) Economic performance. 
+(2) Economic performance.
 
-(i) In general. 
+(i) In general.
 
-(ii) Obligations of the transferor-claimant. 
+(ii) Obligations of the transferor-claimant.
 
-(3) Distributions to transferor-claimants. 
+(3) Distributions to transferor-claimants.
 
-(i) In general. 
+(i) In general.
 
-(ii) Deemed distributions. 
+(ii) Deemed distributions.
 
-(f) Distributions to claimants other than transferor-claimants. 
+(f) Distributions to claimants other than transferor-claimants.
 
-(g) Statement to the disputed ownership fund and the Internal Revenue Service with respect to transfers of property other than cash. 
+(g) Statement to the disputed ownership fund and the Internal Revenue Service with respect to transfers of property other than cash.
 
-(1) In general. 
+(1) In general.
 
-(2) Combined statements. 
+(2) Combined statements.
 
-(3) Information required on the statement. 
+(3) Information required on the statement.
 
-(h) Examples. 
+(h) Examples.
 
-(i) \[Reserved\] 
+(i) \[Reserved\]
 
-(j) Effective dates. 
+(j) Effective dates.
 
-(1) In general. 
+(1) In general.
 
 (2) Transition rule.
 

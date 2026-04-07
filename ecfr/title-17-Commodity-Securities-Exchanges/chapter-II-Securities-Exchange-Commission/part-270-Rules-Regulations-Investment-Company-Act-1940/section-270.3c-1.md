@@ -1,6 +1,6 @@
 ##### § 270.3c-1 Definition of beneficial ownership for certain 3(c)(1) funds.
 
-(a) As used in this section:
+(a) As used in this section:*Covered Company*
 
 (1) The term *Covered Company* means a company that is an investment company, a Section 3(c)(1) Company or a Section 3(c)(7) Company.
 

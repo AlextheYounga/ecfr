@@ -1,6 +1,6 @@
 ##### § 270.30e-1 Reports to stockholders of management companies.
 
-(a) Every registered management company shall transmit to each stockholder of record, at least semi-annually, a report containing the information required to be included in such reports by the company's registration statement form under the 1940 Act, except that the initial report of a newly registered company shall be made as of a date not later than the close of the fiscal year or half-year occurring on or after the date on which the company's notification of registration under the 1940 Act is filed with the Commission.
+(a) Every registered management company shall transmit to each stockholder of record, at least semi-annually, a report containing the information required to be included in such reports by the company's registration statement form under the 1940 Act, except that the initial report of a newly registered company shall be made as of a date not later than the close of the fiscal year or half-year occurring on or after the date on which the company's notification of registration under the 1940 Act is filed with the Commission.*Instruction 1 to paragraph (c).*
 
 (b)(1) To satisfy its obligations under section 30(e) of the 1940 Act, an open-end management investment company registered on Form N-1A (§§ 239.15A and 274.11A of this chapter) also must:
 

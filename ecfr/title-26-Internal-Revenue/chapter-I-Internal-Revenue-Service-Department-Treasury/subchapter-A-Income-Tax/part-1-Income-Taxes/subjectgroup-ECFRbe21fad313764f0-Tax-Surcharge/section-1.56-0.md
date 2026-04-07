@@ -1,262 +1,262 @@
 ##### § 1.56-0 Table of contents to § 1.56-1, adjustment for book income of corporations.
 
-(a) Computation of the book income adjustment. 
+(a) Computation of the book income adjustment.
 
-(1) In general. 
+(1) In general.
 
-(2) Taxpayers subject to the book income adjustment. 
+(2) Taxpayers subject to the book income adjustment.
 
-(3) Consolidated returns. 
+(3) Consolidated returns.
 
-(4) Examples. 
+(4) Examples.
 
-(b) Adjusted net book income. 
+(b) Adjusted net book income.
 
-(1) In general. 
+(1) In general.
 
-(2) Net book income. 
+(2) Net book income.
 
-(i) In general. 
+(i) In general.
 
-(ii) Measures of net book income. 
+(ii) Measures of net book income.
 
-(iii) Tax-free transactions and tax-free income. 
+(iii) Tax-free transactions and tax-free income.
 
-(iv) Treatment of dividends and other amounts. 
+(iv) Treatment of dividends and other amounts.
 
-(3) Additional rules for consolidated groups. 
+(3) Additional rules for consolidated groups.
 
-(i) consolidated adjusted net book income. 
+(i) consolidated adjusted net book income.
 
-(ii) Consolidated net book income. 
+(ii) Consolidated net book income.
 
-(iii) Consolidated pre-adjustment alternative minimum taxable income. 
+(iii) Consolidated pre-adjustment alternative minimum taxable income.
 
-(iv) Cross references. 
+(iv) Cross references.
 
-(4) Computation of adjusted net book income when taxable year and financial accounting year differ. 
+(4) Computation of adjusted net book income when taxable year and financial accounting year differ.
 
-(i) In general. 
+(i) In general.
 
-(ii) Estimating adjusted net book income. 
+(ii) Estimating adjusted net book income.
 
-(iii) Election to compute adjusted net book income based on the financial statement for the year ending within the taxable year. 
+(iii) Election to compute adjusted net book income based on the financial statement for the year ending within the taxable year.
 
-(A) In general. 
+(A) In general.
 
-(B) Time of making election. 
+(B) Time of making election.
 
-(C) Eligibility to make and manner of making election. 
+(C) Eligibility to make and manner of making election.
 
-(D) Election or revocation of election made on an amended return. 
+(D) Election or revocation of election made on an amended return.
 
-(iv) Quarterly statement filed with the Securities and Exchange Commission (SEC). 
+(iv) Quarterly statement filed with the Securities and Exchange Commission (SEC).
 
-(5) Computation of net book income using current earnings and profits. 
+(5) Computation of net book income using current earnings and profits.
 
-(i) In general. 
+(i) In general.
 
-(ii) Current earnings and profits of a consolidated group. 
+(ii) Current earnings and profits of a consolidated group.
 
-(6) Additional rules for computation of net book income of a foreign corporate taxpayer. 
+(6) Additional rules for computation of net book income of a foreign corporate taxpayer.
 
-(i) Adjusted net book income of a foreign taxpayer. 
+(i) Adjusted net book income of a foreign taxpayer.
 
-(ii) Effectively connected net book income of a foreign taxpayer. 
+(ii) Effectively connected net book income of a foreign taxpayer.
 
-(A) In general. 
+(A) In general.
 
-(B) Certain exempt amounts. 
+(B) Certain exempt amounts.
 
-(iii) Computation of net book income of a foreign taxpayer using current earnings and profits. 
+(iii) Computation of net book income of a foreign taxpayer using current earnings and profits.
 
-(7) Examples. 
+(7) Examples.
 
-(c) Applicable financial statement. 
+(c) Applicable financial statement.
 
-(1) In general. 
+(1) In general.
 
-(i) Statement required to be filed with the Securities and Exchange Commission (SEC). 
+(i) Statement required to be filed with the Securities and Exchange Commission (SEC).
 
-(ii) Certified audited financial statement. 
+(ii) Certified audited financial statement.
 
-(iii) Financial statement provided to a government regulator. 
+(iii) Financial statement provided to a government regulator.
 
-(iv) Other financial statements. 
+(iv) Other financial statements.
 
-(v) Required use of current earnings and profits. 
+(v) Required use of current earnings and profits.
 
-(2) Election to treat net book income as equal to current earnings and profits for the taxable year. 
+(2) Election to treat net book income as equal to current earnings and profits for the taxable year.
 
-(i) In general. 
+(i) In general.
 
-(ii) Time of making election. 
+(ii) Time of making election.
 
-(iii) Eligibility to make and manner of making election. 
+(iii) Eligibility to make and manner of making election.
 
-(iv) Election by common parent of consolidated group. 
+(iv) Election by common parent of consolidated group.
 
-(v) Election or revocation of election made on an amended return. 
+(v) Election or revocation of election made on an amended return.
 
-(3) Priority among statements. 
+(3) Priority among statements.
 
-(i) In general. 
+(i) In general.
 
-(ii) Special priority rules for use of certified audited financial statements and other financial statements. 
+(ii) Special priority rules for use of certified audited financial statements and other financial statements.
 
-(iii) Priority among financial statements provided to a government regulator. 
+(iii) Priority among financial statements provided to a government regulator.
 
-(iv) Statements of equal priority. 
+(iv) Statements of equal priority.
 
-(A) In general. 
+(A) In general.
 
-(B) Exceptions to the general rule in paragraph (c)(3)(iv)(A). 
+(B) Exceptions to the general rule in paragraph (c)(3)(iv)(A).
 
-(4) Use of financial statement for a substantial non-tax purpose. 
+(4) Use of financial statement for a substantial non-tax purpose.
 
-(5) Special rules. 
+(5) Special rules.
 
-(i) Applicable financial statement of related corporations. 
+(i) Applicable financial statement of related corporations.
 
-(A) Applicable financial statement of a consolidated group. 
+(A) Applicable financial statement of a consolidated group.
 
-(B) Special rule for statements of equal priority. 
+(B) Special rule for statements of equal priority.
 
-(C) Special rule for related corporations. 
+(C) Special rule for related corporations.
 
-(D) Anti-abuse rule. 
+(D) Anti-abuse rule.
 
-(ii) Applicable financial statement of foreign corporation with a United States trade or business. 
+(ii) Applicable financial statement of foreign corporation with a United States trade or business.
 
-(A) In general. 
+(A) In general.
 
-(B) Special rules for applicable financial statement of a trade or business of a foreign taxpayer. 
+(B) Special rules for applicable financial statement of a trade or business of a foreign taxpayer.
 
-(C) Special rule for statements of equal priority. 
+(C) Special rule for statements of equal priority.
 
-(D) Anti-abuse rule. 
+(D) Anti-abuse rule.
 
-(iii) Supplement or amendment to an applicable financial statement. 
+(iii) Supplement or amendment to an applicable financial statement.
 
-(A) Excluding a restatement of net book income. 
+(A) Excluding a restatement of net book income.
 
-(B) Restatement of net book income. 
+(B) Restatement of net book income.
 
-(6) Examples. 
+(6) Examples.
 
-(d) Adjustments to net book income. 
+(d) Adjustments to net book income.
 
-(1) In general. 
+(1) In general.
 
-(2) Definitions. 
+(2) Definitions.
 
-(i) Historic practice. 
+(i) Historic practice.
 
-(ii) Accounting literature. 
+(ii) Accounting literature.
 
-(3) Adjustments for certain taxes. 
+(3) Adjustments for certain taxes.
 
-(i) In general. 
+(i) In general.
 
-(ii) Exception for certain foreign taxes. 
+(ii) Exception for certain foreign taxes.
 
-(iii) Certain valuation adjustments. 
+(iii) Certain valuation adjustments.
 
-(iv) Examples. 
+(iv) Examples.
 
-(4) Adjustments to prevent omission or duplication. 
+(4) Adjustments to prevent omission or duplication.
 
-(i) In general. 
+(i) In general.
 
-(ii) Special rule for depreciating an asset below is cost. 
+(ii) Special rule for depreciating an asset below is cost.
 
-(iii) Consolidated group using current earnings and profits. 
+(iii) Consolidated group using current earnings and profits.
 
-(iv) Restatement of a prior year's applicable financial statement. 
+(iv) Restatement of a prior year's applicable financial statement.
 
-(A) In general. 
+(A) In general.
 
-(B) Reconciliation of owner's equity in applicable financial statements. 
+(B) Reconciliation of owner's equity in applicable financial statements.
 
-(B) Use of different priority applicable financial statements in consecutive taxable years. 
+(B) Use of different priority applicable financial statements in consecutive taxable years.
 
-(D) First successor year defined. 
+(D) First successor year defined.
 
-(E) Exceptions. 
+(E) Exceptions.
 
-(v) Adjustment for items previously taxed as subpart F income. 
+(v) Adjustment for items previously taxed as subpart F income.
 
-(vi) Adjustment for pooling of interests. 
+(vi) Adjustment for pooling of interests.
 
-(vii) Adjustment for certain deferred foreign taxes. 
+(vii) Adjustment for certain deferred foreign taxes.
 
-(viii) Examples. 
+(viii) Examples.
 
-(5) Adjustments resulting from disclosure. 
+(5) Adjustments resulting from disclosure.
 
-(i) Adjustment for footnote disclosure or other supplementary information. 
+(i) Adjustment for footnote disclosure or other supplementary information.
 
-(A) In general. 
+(A) In general.
 
-(B) Disclosures not specifically authorized in the accounting literature. 
+(B) Disclosures not specifically authorized in the accounting literature.
 
-(ii) Equity adjustments. 
+(ii) Equity adjustments.
 
-(A) In general. 
+(A) In general.
 
-(B) Definition of equity adjustment. 
+(B) Definition of equity adjustment.
 
-(iii) Amount disclosed in an accountant's opinion. 
+(iii) Amount disclosed in an accountant's opinion.
 
-(iv) Accounting method changes that result in cumulative adjustments to the current year's applicable financial statement. 
+(iv) Accounting method changes that result in cumulative adjustments to the current year's applicable financial statement.
 
-(A) In general. 
+(A) In general.
 
-(B) Exception. 
+(B) Exception.
 
-(v) Examples. 
+(v) Examples.
 
-(6) Adjustments applicable to related corporations. 
+(6) Adjustments applicable to related corporations.
 
-(i) Consolidated returns. 
+(i) Consolidated returns.
 
-(A) In general. 
+(A) In general.
 
-(B) Corporations included in the consolidated Federal income tax return but excluded from the applicable financial statement. 
+(B) Corporations included in the consolidated Federal income tax return but excluded from the applicable financial statement.
 
-(C) Corporations included in the applicable financial statement but excluded from the consolidated tax return. 
+(C) Corporations included in the applicable financial statement but excluded from the consolidated tax return.
 
-(ii) Adjustment under the principles of section 482. 
+(ii) Adjustment under the principles of section 482.
 
-(iii) Adjustment for dividends received from section 936 corporations. 
+(iii) Adjustment for dividends received from section 936 corporations.
 
-(A) In general. 
+(A) In general.
 
-(B) Treatment as foreign taxes. 
+(B) Treatment as foreign taxes.
 
-(C) Treatment of taxes imposed on section 936 corporations. 
+(C) Treatment of taxes imposed on section 936 corporations.
 
-(iv) Adjustment to net book income on sale of certain investments. 
+(iv) Adjustment to net book income on sale of certain investments.
 
-(v) Examples. 
+(v) Examples.
 
-(7) Adjustments for foreign taxpayers with a United States trade or business. 
+(7) Adjustments for foreign taxpayers with a United States trade or business.
 
-(i) In general. 
+(i) In general.
 
-(ii) Example. 
+(ii) Example.
 
-(8) Adjustment for corporations subject to subchapter F. 
+(8) Adjustment for corporations subject to subchapter F.
 
-(e) Special rules. 
+(e) Special rules.
 
-(1) Cooperatives. 
+(1) Cooperatives.
 
-(2) Alaska Native Corporations. 
+(2) Alaska Native Corporations.
 
-(3) Insurance companies. 
+(3) Insurance companies.
 
-(4) Estimating the net book income adjustment for purposes of estimated tax liability. 
+(4) Estimating the net book income adjustment for purposes of estimated tax liability.
 
 (5) Effective/applicability date.
 

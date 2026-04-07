@@ -1,6 +1,6 @@
 ##### § 270.11a-3 Offers of exchange by open-end investment companies other than separate accounts.
 
-(a) For purposes of this rule:
+(a) For purposes of this rule:*Acquired security*
 
 (1) *Acquired security* means the security held by a securityholder after completing an exchange pursuant to an exchange offer;
 

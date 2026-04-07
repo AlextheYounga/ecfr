@@ -1,6 +1,6 @@
 ##### § 270.12d3-1 Exemption of acquisitions of securities issued by persons engaged in securities related businesses.
 
-(a) Notwithstanding section 12(d)(3) of the Act, a registered investment company, or any company or companies controlled by such registered investment company (“acquiring company”) may acquire any security issued by any person that, in its most recent fiscal year, derived 15 percent or less of its gross revenues from securities related activities unless the acquiring company would control such person after the acquisition.
+(a) Notwithstanding section 12(d)(3) of the Act, a registered investment company, or any company or companies controlled by such registered investment company (“acquiring company”) may acquire any security issued by any person that, in its most recent fiscal year, derived 15 percent or less of its gross revenues from securities related activities unless the acquiring company would control such person after the acquisition.*provided that:*
 
 (b) Notwithstanding section 12(d)(3) of the Act, an acquiring company may acquire any security issued by a person that, in its most recent fiscal year, derived more than 15 percent of its gross revenues from securities related activities, *provided that:*
 

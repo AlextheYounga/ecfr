@@ -1,6 +1,6 @@
 ##### § 270.11a-2 Offers of exchange by certain registered separate accounts or others the terms of which do not require prior Commission approval.
 
-(a) As used in this section:
+(a) As used in this section:*Deferred sales load*
 
 (1) *Deferred sales load* shall mean any sales load, including a contingent deferred sales load, that is deducted upon redemption or annuitization of amounts representing all or a portion of a securityholder's interest in a separate account;
 

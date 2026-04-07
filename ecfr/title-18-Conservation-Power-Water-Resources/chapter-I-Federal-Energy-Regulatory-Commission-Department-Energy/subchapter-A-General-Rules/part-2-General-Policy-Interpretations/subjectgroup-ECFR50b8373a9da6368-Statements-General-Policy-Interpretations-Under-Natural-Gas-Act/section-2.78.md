@@ -1,6 +1,6 @@
 ##### § 2.78 Utilization and conservation of natural resources—natural gas.
 
-(a)(1) The national interests in the development and utilization of natural gas resources throughout the United States will be served by recognition and implementation of the following priority-of-service categories for use during periods of curtailed deliveries by jurisdictional pipeline companies:
+(a)(1) The national interests in the development and utilization of natural gas resources throughout the United States will be served by recognition and implementation of the following priority-of-service categories for use during periods of curtailed deliveries by jurisdictional pipeline companies:*Residential.*Federal Register
 
 (i) Residential, small commercial (less than 50 Mcf on a peak day).
 

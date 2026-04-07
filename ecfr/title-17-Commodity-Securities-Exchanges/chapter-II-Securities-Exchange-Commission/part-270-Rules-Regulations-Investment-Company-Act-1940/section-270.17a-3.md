@@ -1,6 +1,6 @@
 ##### § 270.17a-3 Exemption of transactions with fully owned subsidiaries.
 
-(a) The following transactions shall be exempt from section 17(a) of the Act:
+(a) The following transactions shall be exempt from section 17(a) of the Act:*fully owned subsidiary*
 
 (1) Transactions solely between a registered investment company and one or more of its fully owned subsidiaries or solely between two or more fully owned subsidiaries of such company.
 

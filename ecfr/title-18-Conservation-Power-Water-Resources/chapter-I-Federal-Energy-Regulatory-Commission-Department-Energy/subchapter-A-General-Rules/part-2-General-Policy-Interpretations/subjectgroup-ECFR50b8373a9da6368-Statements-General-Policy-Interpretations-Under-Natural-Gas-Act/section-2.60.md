@@ -1,6 +1,6 @@
 ##### § 2.60 Facilities and activities during an emergency—accounting treatment of defense-related expenditures.
 
-The Commission, cognizant of the need of the natural gas industry for advice with respect to the applicability of the Natural Gas Act and the Commission's regulations thereunder regarding activities and operations of natural gas companies taking security measures in preparation for a possible national emergency, sets forth the following interpretation and statement of policy:
+The Commission, cognizant of the need of the natural gas industry for advice with respect to the applicability of the Natural Gas Act and the Commission's regulations thereunder regarding activities and operations of natural gas companies taking security measures in preparation for a possible national emergency, sets forth the following interpretation and statement of policy:*Facilities.*
 
 (a) *Facilities.* The definition of *auxiliary installations* in § 2.55(a) for which no certificate authority is necessary includes such defense-related facilities as (1) fallout shelters at compressor stations and other operating and maintenance camps; (2) emergency company headquarters or other similar installations; and (3) emergency communication equipment.
 

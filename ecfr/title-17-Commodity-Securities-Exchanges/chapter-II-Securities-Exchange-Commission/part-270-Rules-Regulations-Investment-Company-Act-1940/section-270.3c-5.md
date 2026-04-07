@@ -1,6 +1,6 @@
 ##### § 270.3c-5 Beneficial ownership by knowledgeable employees and certain other persons.
 
-(a) As used in this section:
+(a) As used in this section:*Affiliated Management Person*
 
 (1) The term *Affiliated Management Person* means an affiliated person, as such term is defined in section 2(a)(3) of the Act \[15 U.S.C. 80a-2(a)(3)\], that manages the investment activities of a Covered Company. For purposes of this definition, the term “investment company” as used in section 2(a)(3) of the Act includes a Covered Company.
 

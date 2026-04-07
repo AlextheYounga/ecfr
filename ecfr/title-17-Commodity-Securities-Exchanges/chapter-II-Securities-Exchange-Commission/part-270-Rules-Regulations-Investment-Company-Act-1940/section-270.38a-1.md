@@ -1,6 +1,6 @@
 ##### § 270.38a-1 Compliance procedures and practices of certain investment companies.
 
-(a) Each registered investment company and business development company (“fund”) must:
+(a) Each registered investment company and business development company (“fund”) must:*Policies and procedures.*
 
 (1) *Policies and procedures.* Adopt and implement written policies and procedures reasonably designed to prevent violation of the Federal Securities Laws by the fund, including policies and procedures that provide for the oversight of compliance by each investment adviser, principal underwriter, administrator, and transfer agent of the fund;
 

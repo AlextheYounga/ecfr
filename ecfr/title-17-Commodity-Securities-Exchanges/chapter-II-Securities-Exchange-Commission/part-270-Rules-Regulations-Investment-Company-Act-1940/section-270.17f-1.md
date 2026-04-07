@@ -1,6 +1,6 @@
 ##### § 270.17f-1 Custody of securities with members of national securities exchanges.
 
-(a) No registered management investment company shall place or maintain any of its securities or similar investments in the custody of a company which is a member of a national securities exchange as defined in the Securities Exchange Act of 1934 (whether or not such company trades in securities for its own account) except pursuant to a written contract which shall have been approved, or if executed before January 1, 1941, shall have been ratified not later than that date, by a majority of the board of directors of such investment company.
+(a) No registered management investment company shall place or maintain any of its securities or similar investments in the custody of a company which is a member of a national securities exchange as defined in the Securities Exchange Act of 1934 (whether or not such company trades in securities for its own account) except pursuant to a written contract which shall have been approved, or if executed before January 1, 1941, shall have been ratified not later than that date, by a majority of the board of directors of such investment company.*Provided,*
 
 (b) The contract shall require, and the securities and investments shall be maintained in accordance with the following:
 

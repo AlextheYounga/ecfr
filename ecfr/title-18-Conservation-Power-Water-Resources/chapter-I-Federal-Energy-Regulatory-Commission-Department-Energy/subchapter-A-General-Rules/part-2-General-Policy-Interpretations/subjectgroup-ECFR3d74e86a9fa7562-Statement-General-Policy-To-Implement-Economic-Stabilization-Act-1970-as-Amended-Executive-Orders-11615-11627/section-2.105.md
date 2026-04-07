@@ -1,6 +1,6 @@
 ##### § 2.105 Gas supply charges.
 
-An interstate natural gas pipeline that transports under part 284 of this chapter may include in its tariff a charge, not related to facilities, for standing ready to supply gas to sales customers in accordance with the following principles:
+An interstate natural gas pipeline that transports under part 284 of this chapter may include in its tariff a charge, not related to facilities, for standing ready to supply gas to sales customers in accordance with the following principles:Federal Register
 
 (a) The pipeline may not recover take-or-pay or similar charges from suppliers by any other means.
 

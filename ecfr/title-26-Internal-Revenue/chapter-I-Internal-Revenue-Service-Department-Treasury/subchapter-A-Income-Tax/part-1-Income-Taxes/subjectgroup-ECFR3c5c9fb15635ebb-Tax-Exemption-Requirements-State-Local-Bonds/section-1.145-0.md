@@ -1,26 +1,26 @@
 ##### § 1.145-0 Table of contents.
 
-This section lists the captioned paragraphs contained in §§ 1.145-1 and 1.145-2. 
+This section lists the captioned paragraphs contained in §§ 1.145-1 and 1.145-2.
 
 § 1.145-1 Qualified 501(c)(3) bonds.
 
-(a) Overview. 
+(a) Overview.
 
-(b) Scope. 
+(b) Scope.
 
-(c) Effective dates. 
+(c) Effective dates.
 
 § 1.145-2 Application of private activity bond regulations.
 
-(a) In general. 
+(a) In general.
 
-(b) Modification of private business tests. 
+(b) Modification of private business tests.
 
-(c) Exceptions. 
+(c) Exceptions.
 
-(1) Certain provisions relating to governmental programs. 
+(1) Certain provisions relating to governmental programs.
 
-(2) Costs of issuance. 
+(2) Costs of issuance.
 
 (d) Issuance costs financed by prior issue.
 

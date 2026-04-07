@@ -1,6 +1,6 @@
 ##### § 270.32a-2 Exemption for initial period from vote of security holders on independent public accountant for certain registered separate accounts.
 
-(a) A registered separate account shall be exempt from the requirement under paragraph (2) of section 32(a) of the Act that selection of an independent public accountant shall have been submitted for ratification or rejection at the next succeeding annual meeting of security owners, subject to the following conditions:
+(a) A registered separate account shall be exempt from the requirement under paragraph (2) of section 32(a) of the Act that selection of an independent public accountant shall have been submitted for ratification or rejection at the next succeeding annual meeting of security owners, subject to the following conditions:*et seq.*
 
 (1) Such registered separate account qualifies for exemption from section 14(a) of the Act pursuant to § 270.14a-2, or is exempt therefrom by order of the Commission upon application; and
 

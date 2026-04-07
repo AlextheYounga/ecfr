@@ -1,6 +1,6 @@
 ##### § 270.3c-6 Certain transfers of interests in section 3(c)(1) and section 3(c)(7) funds.
 
-(a) As used in this section:
+(a) As used in this section:*Donee*
 
 (1) The term *Donee* means a person who acquires a security of a Covered Company (or a security or other interest in a company referred to in paragraph (b)(3) of this section) as a gift or bequest or pursuant to an agreement relating to a legal separation or divorce.
 

@@ -1,6 +1,6 @@
 ##### § 270.15a-4 Temporary exemption for certain investment advisers.
 
-(a) For purposes of this section:
+(a) For purposes of this section:*Fund*
 
 (1) *Fund* means an investment company, and includes a separate series of the company.
 

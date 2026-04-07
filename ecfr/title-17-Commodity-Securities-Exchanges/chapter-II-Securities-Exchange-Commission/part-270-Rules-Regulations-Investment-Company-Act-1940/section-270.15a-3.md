@@ -1,6 +1,6 @@
 ##### § 270.15a-3 Exemption for initial period of investment adviser of certain registered separate accounts from requirement of security holder approval of investment advisory contract.
 
-(a) An investment adviser of a registered separate account shall be exempt from the requirement under section 15(a) of the Act that the initial written contract pursuant to which the investment adviser serves or acts shall have been approved by the vote of a majority of the outstanding voting securities of such registered separate account, subject to the following conditions:
+(a) An investment adviser of a registered separate account shall be exempt from the requirement under section 15(a) of the Act that the initial written contract pursuant to which the investment adviser serves or acts shall have been approved by the vote of a majority of the outstanding voting securities of such registered separate account, subject to the following conditions:*et seq.*
 
 (1) Such registered separate account qualifies for exemption from section 14(a) of the Act pursuant to § 270.14a-2, or is exempt therefrom by order of the Commission upon application; and
 

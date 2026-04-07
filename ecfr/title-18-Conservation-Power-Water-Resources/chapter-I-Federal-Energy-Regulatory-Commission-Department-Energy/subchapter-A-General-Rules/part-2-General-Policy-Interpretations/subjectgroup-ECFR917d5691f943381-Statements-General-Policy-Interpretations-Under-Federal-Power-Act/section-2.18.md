@@ -1,6 +1,6 @@
 ##### § 2.18 Phased electric rate increase filings.
 
-(a) In general, when a public utility files a phased rate increase, the Commission will determine the appropriate suspension period based on the total increase requested in all phases. If a utility files a rate increase within sixty days after filing another rate increase, the Commission will consider the filings together to be a phased rate increase request.
+(a) In general, when a public utility files a phased rate increase, the Commission will determine the appropriate suspension period based on the total increase requested in all phases. If a utility files a rate increase within sixty days after filing another rate increase, the Commission will consider the filings together to be a phased rate increase request.Federal Register
 
 (b) This policy will not be applied if the increase is phased:
 

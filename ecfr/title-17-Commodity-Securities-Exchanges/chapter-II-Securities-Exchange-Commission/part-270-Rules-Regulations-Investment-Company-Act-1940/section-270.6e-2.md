@@ -1,6 +1,6 @@
 ##### § 270.6e-2 Exemptions for certain variable life insurance separate accounts.
 
-(a) A separate account, and the investment adviser, principal underwriter and depositor of such separate account, shall, except for the exemptions provided in paragraph (b) of this section, be subject to all provisions of the Act and this part as though such separate account were a registered investment company issuing periodic payment plan certificates if:
+(a) A separate account, and the investment adviser, principal underwriter and depositor of such separate account, shall, except for the exemptions provided in paragraph (b) of this section, be subject to all provisions of the Act and this part as though such separate account were a registered investment company issuing periodic payment plan certificates if:*1*
 
 (1) Such separate account is established and maintained by a life insurance company pursuant to the insurance laws or code of:
 

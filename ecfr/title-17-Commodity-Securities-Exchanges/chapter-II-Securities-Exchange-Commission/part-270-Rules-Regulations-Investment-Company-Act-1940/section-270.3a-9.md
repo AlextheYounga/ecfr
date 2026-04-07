@@ -1,6 +1,6 @@
 ##### § 270.3a-9 Crowdfunding vehicle.
 
-(a) Notwithstanding section 3(a) of the Act, a crowdfunding vehicle will be deemed not to be an investment company if the vehicle:
+(a) Notwithstanding section 3(a) of the Act, a crowdfunding vehicle will be deemed not to be an investment company if the vehicle:*et seq.*
 
 (1) Is organized and operated for the sole purpose of directly acquiring, holding, and disposing of securities issued by a single crowdfunding issuer and raising capital in one or more offerings made in compliance with §§ 227.100 through 227.504 (Regulation Crowdfunding);
 

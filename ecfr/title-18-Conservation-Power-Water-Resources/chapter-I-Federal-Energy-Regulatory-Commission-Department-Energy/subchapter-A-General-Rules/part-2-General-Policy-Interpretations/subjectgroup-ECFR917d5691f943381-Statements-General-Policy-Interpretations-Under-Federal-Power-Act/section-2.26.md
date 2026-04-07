@@ -1,6 +1,6 @@
 ##### § 2.26 Policies concerning review of applications under section 203.
 
-(a) The Commission has adopted a Policy Statement on its policies for reviewing transactions subject to section 203. That Policy Statement can be found at 77 FERC ¶ 61,263 (1996). The Policy Statement is a complete description of the relevant guidelines. Paragraphs (b)-(e) of this section are only a brief summary of the Policy Statement.
+(a) The Commission has adopted a Policy Statement on its policies for reviewing transactions subject to section 203. That Policy Statement can be found at 77 FERC ¶ 61,263 (1996). The Policy Statement is a complete description of the relevant guidelines. Paragraphs (b)-(e) of this section are only a brief summary of the Policy Statement.*Factors Commission will generally consider.*Federal Register
 
 (b) *Factors Commission will generally consider.* In determining whether a proposed transaction subject to section 203 is consistent with the public interest, the Commission will generally consider the following factors; it may also consider other factors:
 

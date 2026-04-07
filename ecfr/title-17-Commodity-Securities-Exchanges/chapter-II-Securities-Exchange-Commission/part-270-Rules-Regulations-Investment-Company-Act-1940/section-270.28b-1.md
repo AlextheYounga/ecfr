@@ -1,6 +1,6 @@
 ##### § 270.28b-1 Investment in loans partially or wholly guaranteed under the Servicemen's Readjustment Act of 1944, as amended.
 
-(a) The term *qualified investments* as used in section 28(b) of the Investment Company Act of 1940 shall include:
+(a) The term *qualified investments* as used in section 28(b) of the Investment Company Act of 1940 shall include:2/3
 
 (1) Any loan, any portion of which is guaranteed under Title III of the Servicemen's Readjustment Act of 1944, as amended, and which is secured by a first lien on real estate: *Provided,* The amount of the loan not so guaranteed does not exceed 66 2/3 percent of the reasonable value of such real estate as determined by proper appraisal made by an appraiser designated by the Administrator of Veterans' Affairs;
 

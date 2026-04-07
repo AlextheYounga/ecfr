@@ -1,6 +1,6 @@
 ##### § 2.25 Ratemaking treatment of the cost of emissions allowances in coordination transactions.
 
-(a) *General Policy.* This Statement of Policy is adopted in furtherance of the goals of Title IV of the Clean Air Act Amendments of 1990, Pub. L. 101-549, Title IV, 104 Stat. 2399, 2584 (1990).
+(a) *General Policy.* This Statement of Policy is adopted in furtherance of the goals of Title IV of the Clean Air Act Amendments of 1990, Pub. L. 101-549, Title IV, 104 Stat. 2399, 2584 (1990).Federal Register
 
 (b) *Costing Emissions Allowances in Coordination Sales.* If a public utility's coordination rate on file with the Commission provides for recovery of variable costs on an incremental basis, the Commission will allow recovery of the incremental costs of emissions allowances associated with a coordination sale. If a coordination rate does not reflect incremental costs, the public utility should propose alternative allowance costing methods or demonstrate that the coordination rate does not produce unreasonable results. The Commission finds that the cost to replace an allowance is an appropriate basis to establish the incremental cost.
 

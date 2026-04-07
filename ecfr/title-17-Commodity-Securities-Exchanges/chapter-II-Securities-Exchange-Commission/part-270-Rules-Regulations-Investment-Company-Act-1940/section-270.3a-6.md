@@ -1,6 +1,6 @@
 ##### § 270.3a-6 Foreign banks and foreign insurance companies.
 
-(a) Notwithstanding section 3(a)(1)(A) or section 3(a)(1)(C) of the Act (15 U.S.C. 80a-3(a)(1)(A) or 80a-3(a)(1)(C)), a foreign bank or foreign insurance company shall not be considered an investment company for purposes of the Act.
+(a) Notwithstanding section 3(a)(1)(A) or section 3(a)(1)(C) of the Act (15 U.S.C. 80a-3(a)(1)(A) or 80a-3(a)(1)(C)), a foreign bank or foreign insurance company shall not be considered an investment company for purposes of the Act.*Foreign bank*
 
 (b) For purposes of this section:
 

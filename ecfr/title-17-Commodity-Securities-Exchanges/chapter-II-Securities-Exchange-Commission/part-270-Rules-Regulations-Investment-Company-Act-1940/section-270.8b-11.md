@@ -1,6 +1,6 @@
 ##### § 270.8b-11 Number of copies; signatures; binding.
 
-(a) Three complete copies of each registration statement or report, including exhibits and all other papers and documents filed as a part thereof, shall be filed with the Commission.
+(a) Three complete copies of each registration statement or report, including exhibits and all other papers and documents filed as a part thereof, shall be filed with the Commission.*Signatures.*
 
 (b) In the case of a registration statement filed on Form N-1A (§ 239.15A and § 274.11A of this chapter), Form N-2 (§ 239.14 and § 274.11a-1 of this chapter), Form N-3 (§ 239.17a and § 274.11b of this chapter), Form N-4 (§ 239.17b and § 274.11c of this chapter), or Form N-6 (§ 239.17c and § 274.11d of this chapter), three complete copies of each part of the registration statement (including, if applicable, exhibits and all other papers and documents filed as part of Part C of the registration statement) shall be filed with the Commission.
 

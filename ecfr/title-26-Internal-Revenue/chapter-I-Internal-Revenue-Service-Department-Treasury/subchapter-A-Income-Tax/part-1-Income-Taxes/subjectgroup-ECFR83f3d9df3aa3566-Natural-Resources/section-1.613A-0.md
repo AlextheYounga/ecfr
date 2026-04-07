@@ -1,170 +1,170 @@
 ##### § 1.613A-0 Limitations on percentage depletion in the case of oil and gas wells; table of contents.
 
-This section lists the paragraphs contained in §§ 1.613A-0 through 1.613A-7. 
+This section lists the paragraphs contained in §§ 1.613A-0 through 1.613A-7.
 
 § 1.613A-1 Post-1974 limitations on percentage depletion in case of oil and gas wells; general rule. § 1.613A-2 Exemption for certain domestic gas wells. § 1.613A-3 Exemption for independent producers and royalty owners.
 
-(a) General rules. 
+(a) General rules.
 
-(b) Phase-out table. 
+(b) Phase-out table.
 
-(c) Applicable percentage. 
+(c) Applicable percentage.
 
-(d) Production in excess of depletable quantity. 
+(d) Production in excess of depletable quantity.
 
-(1) Primary production. 
+(1) Primary production.
 
-(2) Secondary or tertiary production. 
+(2) Secondary or tertiary production.
 
-(3) Taxable income from the property. 
+(3) Taxable income from the property.
 
-(4) Examples. 
+(4) Examples.
 
-(e) Partnerships. 
+(e) Partnerships.
 
-(1) General rule. 
+(1) General rule.
 
-(2) Initial allocation of adjusted basis of oil or gas property among partners. 
+(2) Initial allocation of adjusted basis of oil or gas property among partners.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Allocation methods. 
+(ii) Allocation methods.
 
-(3) Adjustments by partnership to allocated adjusted bases. 
+(3) Adjustments by partnership to allocated adjusted bases.
 
-(i) Capital expenditures by partnership. 
+(i) Capital expenditures by partnership.
 
-(ii) Admission of a new partner or increase in partner's interest. 
+(ii) Admission of a new partner or increase in partner's interest.
 
-(A) In general. 
+(A) In general.
 
-(B) Allocation of basis to contributing partner. 
+(B) Allocation of basis to contributing partner.
 
-(C) Reduction of existing partners' bases. 
+(C) Reduction of existing partners' bases.
 
-(iii) Determination of aggregate of partners' adjusted bases in the property. 
+(iii) Determination of aggregate of partners' adjusted bases in the property.
 
-(A) In general. 
+(A) In general.
 
-(B) Written data. 
+(B) Written data.
 
-(C) Assumptions. 
+(C) Assumptions.
 
-(iv) Withdrawal of partner or decrease in partner's interest. 
+(iv) Withdrawal of partner or decrease in partner's interest.
 
-(A) In general. 
+(A) In general.
 
-(B) Special rule for determining a withdrawing partner's basis in the property. 
+(B) Special rule for determining a withdrawing partner's basis in the property.
 
-(v) Effective date. 
+(v) Effective date.
 
-(4) Determination of a partner's interest in partnership capital or income. 
+(4) Determination of a partner's interest in partnership capital or income.
 
-(5) Special rules on allocation of adjusted basis to partners. 
+(5) Special rules on allocation of adjusted basis to partners.
 
-(6) Miscellaneous rules. 
+(6) Miscellaneous rules.
 
-(7) Examples. 
+(7) Examples.
 
-(f) S corporations. 
+(f) S corporations.
 
-(g) Trusts and estates. 
+(g) Trusts and estates.
 
-(h) Businesses under common control; members of the same family. 
+(h) Businesses under common control; members of the same family.
 
-(1) Component members of a controlled group. 
+(1) Component members of a controlled group.
 
-(2) Aggregation of business entities under common control. 
+(2) Aggregation of business entities under common control.
 
-(3) Allocation among members of the same family. 
+(3) Allocation among members of the same family.
 
-(4) Special rules. 
+(4) Special rules.
 
-(5) Examples. 
+(5) Examples.
 
-(i) Transfer of oil or gas property. 
+(i) Transfer of oil or gas property.
 
-(1) General rule. 
+(1) General rule.
 
-(i) In general. 
+(i) In general.
 
-(ii) Examples. 
+(ii) Examples.
 
-(2) Transfers after October 11, 1990. 
+(2) Transfers after October 11, 1990.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Transfer. 
+(ii) Transfer.
 
-(iii) Transferee. 
+(iii) Transferee.
 
-(iv) Effective date. 
+(iv) Effective date.
 
-(v) Examples. 
+(v) Examples.
 
-(j) Percentage depletion with respect to bonuses and advanced royalties. 
+(j) Percentage depletion with respect to bonuses and advanced royalties.
 
-(1) Amounts received or accrued after August 16, 1986. 
+(1) Amounts received or accrued after August 16, 1986.
 
-(2) Amounts received or accrued before August 17, 1986. 
+(2) Amounts received or accrued before August 17, 1986.
 
-(k) Special rules for fiscal year taxpayers. 
+(k) Special rules for fiscal year taxpayers.
 
-(l) Information furnished by partnerships, trusts, estates, and operators. 
+(l) Information furnished by partnerships, trusts, estates, and operators.
 
 § 1.613A-4 Limitations on application of § 1.613A-3 exemption.
 
-(a) Limitation based on taxable income. 
+(a) Limitation based on taxable income.
 
-(b) Retailers excluded. 
+(b) Retailers excluded.
 
-(c) Certain refiners excluded. 
+(c) Certain refiners excluded.
 
 § 1.613A-5 Election under section 613A (c) (4). § 1.613A-6 Recordkeeping requirements.
 
-(a) Principal value of property demonstrated. 
+(a) Principal value of property demonstrated.
 
-(b) Production from secondary or tertiary processes. 
+(b) Production from secondary or tertiary processes.
 
-(c) Retention of records. 
+(c) Retention of records.
 
 § 1.613A-7 Definitions.
 
-(a) Domestic. 
+(a) Domestic.
 
-(b) Natural gas. 
+(b) Natural gas.
 
-(c) Regulated natural gas. 
+(c) Regulated natural gas.
 
-(d) Natural gas sold under fixed contract. 
+(d) Natural gas sold under fixed contract.
 
-(e) Qualified natural gas from geopressured brine. 
+(e) Qualified natural gas from geopressured brine.
 
-(f) Average daily production. 
+(f) Average daily production.
 
-(g) Crude oil. 
+(g) Crude oil.
 
-(h) Depletable oil quantity. 
+(h) Depletable oil quantity.
 
-(i) Depletable natural gas quantity. 
+(i) Depletable natural gas quantity.
 
-(j) Barrel. 
+(j) Barrel.
 
-(k) Secondary or tertiary production. 
+(k) Secondary or tertiary production.
 
-(l) Controlled group of corporations. 
+(l) Controlled group of corporations.
 
-(m) Related person. 
+(m) Related person.
 
-(n) Transfer. 
+(n) Transfer.
 
-(o) Transferee. 
+(o) Transferee.
 
-(p) Interest in proven oil or gas property. 
+(p) Interest in proven oil or gas property.
 
-(q) Amount disallowed. 
+(q) Amount disallowed.
 
-(r) Retailer. 
+(r) Retailer.
 
 (s) Refiner.
 

@@ -1,6 +1,6 @@
 ##### § 270.12b-1 Distribution of shares by registered open-end management investment company.
 
-(a)(1) Except as provided in this section, it shall be unlawful for any registered open-end management investment company (other than a company complying with the provisions of section 10(d) of the Act (15 U.S.C. 80a-10(d))) to act as a distributor of securities of which it is the issuer, except through an underwriter;
+(a)(1) Except as provided in this section, it shall be unlawful for any registered open-end management investment company (other than a company complying with the provisions of section 10(d) of the Act (15 U.S.C. 80a-10(d))) to act as a distributor of securities of which it is the issuer, except through an underwriter;*Provided,*
 
 (2) For purposes of this section, such a company will be deemed to be acting as a distributor of securities of which it is the issuer, other than through an underwriter, if it engages directly or indirectly in financing any activity which is primarily intended to result in the sale of shares issued by such company, including, but not necessarily limited to, advertising, compensation of underwriters, dealers, and sales personnel, the printing and mailing of prospectuses to other than current shareholders, and the printing and mailing of sales literature;
 

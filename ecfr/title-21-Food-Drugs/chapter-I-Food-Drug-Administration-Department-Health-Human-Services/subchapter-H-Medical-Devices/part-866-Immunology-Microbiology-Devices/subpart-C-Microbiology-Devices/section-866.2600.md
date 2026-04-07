@@ -1,9 +1,7 @@
 ##### § 866.2600 Wood's fluorescent lamp.
 
-Link to an amendment published at 90 FR 55982, Dec. 4, 2025.
+(a) *Identification.* A Wood's fluorescent lamp is a device intended for medical purposes to detect fluorescent materials (e.g., fluorescein pigment produced by certain microorganisms) as an aid in the identification of these microorganisms. The device aids in the diagnosis of disease. 
 
-(a) *Identification.* A Wood's fluorescent lamp is a device intended for medical purposes to detect fluorescent materials (e.g., fluorescein pigment produced by certain microorganisms) as an aid in the identification of these microorganisms. The device aids in the diagnosis of disease.
-
-(b) *Classification.* Class I (general controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 866.9. The device is also exempt from the good manufacturing practice requirements of the quality system regulation in part 820 of this chapter, with the exception of § 820.180, with respect to general requirements concerning records, and § 820.198, with respect to complaint files.
+(b) *Classification.* Class I (general controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 866.9. The device is also exempt from the good manufacturing practice requirements of the quality system regulation in part 820 of this chapter, with the exception of § 820.180, with respect to general requirements concerning records, and § 820.198, with respect to complaint files. 
 
 \[47 FR 50823, Nov. 9, 1982, as amended at 66 FR 38791, July 25, 2001\]

@@ -1,20 +1,20 @@
 ##### § 1.356-1 Receipt of additional consideration in connection with an exchange.
 
-(a) If in any exchange to which the provisions of section 354 or section 355 would apply except for the fact that there is received by the shareholders or security holders other property (in addition to property permitted to be received without recognition of gain by such sections) or money, then— 
+(a) If in any exchange to which the provisions of section 354 or section 355 would apply except for the fact that there is received by the shareholders or security holders other property (in addition to property permitted to be received without recognition of gain by such sections) or money, then—
 
-(1) The gain, if any, to the taxpayer shall be recognized in an amount not in excess of the sum of the money and the fair market value of the other property, but, 
+(1) The gain, if any, to the taxpayer shall be recognized in an amount not in excess of the sum of the money and the fair market value of the other property, but,
 
-(2) The loss, if any, to the taxpayer from the exchange or distribution shall not be recognized to any extent. 
+(2) The loss, if any, to the taxpayer from the exchange or distribution shall not be recognized to any extent.
 
-(b) For purposes of computing the gain, if any, recognized pursuant to section 356 and paragraph (a)(1) of this section, to the extent the terms of the exchange specify the other property or money that is received in exchange for a particular share of stock or security surrendered or a particular class of stock or securities surrendered, such terms shall control provided that such terms are economically reasonable. To the extent the terms of the exchange do not specify the other property or money that is received in exchange for a particular share of stock or security surrendered or a particular class of stock or securities surrendered, a pro rata portion of the other property and money received shall be treated as received in exchange for each share of stock and security surrendered, based on the fair market value of such surrendered share of stock or security. 
+(b) For purposes of computing the gain, if any, recognized pursuant to section 356 and paragraph (a)(1) of this section, to the extent the terms of the exchange specify the other property or money that is received in exchange for a particular share of stock or security surrendered or a particular class of stock or securities surrendered, such terms shall control provided that such terms are economically reasonable. To the extent the terms of the exchange do not specify the other property or money that is received in exchange for a particular share of stock or security surrendered or a particular class of stock or securities surrendered, a pro rata portion of the other property and money received shall be treated as received in exchange for each share of stock and security surrendered, based on the fair market value of such surrendered share of stock or security.
 
-(c) If the distribution of such other property or money by or on behalf of a corporation has the effect of the distribution of a dividend, then there shall be chargeable to each distributee (either an individual or a corporation)— 
+(c) If the distribution of such other property or money by or on behalf of a corporation has the effect of the distribution of a dividend, then there shall be chargeable to each distributee (either an individual or a corporation)—
 
-(1) As a dividend, such an amount of the gain recognized as is not in excess of the distributee's ratable share of the undistributed earnings and profits of the corporation accumulated after February 28, 1913, and 
+(1) As a dividend, such an amount of the gain recognized as is not in excess of the distributee's ratable share of the undistributed earnings and profits of the corporation accumulated after February 28, 1913, and
 
-(2) As a gain from the exchange of property, the remainder of the gain so recognized. 
+(2) As a gain from the exchange of property, the remainder of the gain so recognized.
 
-(d) The rules of this section may be illustrated by the following examples: 
+(d) The rules of this section may be illustrated by the following examples:
 
 Example 1.In an exchange to which the provisions of section 356 apply and to which section 354 would apply but for the receipt of property not permitted to be received without the recognition of gain or loss, A (either an individual or a corporation), received the following in exchange for a share of stock having an adjusted basis to A of $85:
 
@@ -36,10 +36,10 @@ Example 4.(i) *Facts.* The facts are the same as in *Example 3,* except that the
 
 (ii) *Analysis.* Under paragraph (b) of this section, because the terms of the exchange specify that J receives 10 shares of stock of Corporation Y in exchange for J's shares of Class A stock of Corporation X and $100 of cash in exchange for J's shares of Class B stock of Corporation X and such terms are economically reasonable, such terms control. J realizes a gain of $70 on the exchange of shares of Class A stock, none of which is recognized under section 356 and paragraph (a) of this section, and J realizes a gain of $10 on the exchange of shares of Class B stock of Corporation X, all of which is recognized under section 356 and paragraph (a) of this section.
 
-(e) Section 301(b)(1)(B) and section 301(d)(2) do not apply to a distribution of “other property” to a corporate shareholder if such distribution is within the provisions of section 356. 
+(e) Section 301(b)(1)(B) and section 301(d)(2) do not apply to a distribution of “other property” to a corporate shareholder if such distribution is within the provisions of section 356.
 
-(f) See § 1.301-1(j) for certain transactions that are not within the scope of section 356. 
+(f) See § 1.301-1(j) for certain transactions that are not within the scope of section 356.
 
-(g) This section applies to exchanges and distributions of stock and securities occurring on or after January 23, 2006. 
+(g) This section applies to exchanges and distributions of stock and securities occurring on or after January 23, 2006.
 
 \[T.D. 9244, 71 FR 4268, Jan. 26, 2006, as amended by T.D. 9954, 86 FR 52614, Sept. 22, 2021\]

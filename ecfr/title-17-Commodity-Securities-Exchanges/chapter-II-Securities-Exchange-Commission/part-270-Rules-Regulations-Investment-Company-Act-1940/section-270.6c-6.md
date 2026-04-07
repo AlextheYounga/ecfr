@@ -1,6 +1,6 @@
 ##### § 270.6c-6 Exemption for certain registered separate accounts and other persons.
 
-(a) As used in this section,
+(a) As used in this section,*Revenue Ruling*
 
 (1) *Revenue Ruling* shall mean Revenue Ruling 81-225, 1981-41 I.R.B. (October 13, 1981), issued by the Internal Revenue Service on September 25, 1981.
 
@@ -32,7 +32,7 @@
 
 (C) Custodial arrangements
 
-As the existing separate account; and
+As the existing separate account; and *Provided,*
 
 (v) Has
 

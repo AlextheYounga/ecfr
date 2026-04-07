@@ -1,0 +1,5 @@
+##### § 1.139E-2 Alaska Native regional or village corporations.
+
+An Alaska Native regional or village corporation, as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 *et seq.*), may choose to apply the rules in § 1.139E-1 until rules that specifically address the application of the requirements of section 139E of the Internal Revenue Code to Alaska Native regional or village corporations are published under this section. However, an Alaska Native regional or village corporation that chooses to apply the rules in § 1.139E-1 must apply all of the rules of § 1.139E-1 with respect to any general welfare benefits provided to a shareholder of the Alaska Native regional or village corporation (and the shareholder's spouse and dependents) and other Tribal Program Participants (as defined in § 1.139E-1(b)).
+
+\[TD 10040, 90 FR 58400, Dec. 16, 2025\]

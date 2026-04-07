@@ -1,6 +1,6 @@
 ##### § 270.30a-3 Controls and procedures.
 
-(a) Every registered management investment company, other than a small business investment company registered on Form N-5 (§§ 239.24 and 274.5 of this chapter), must maintain disclosure controls and procedures (as defined in paragraph (c) of this section) and internal control over financial reporting (as defined in paragraph (d) of this section).
+(a) Every registered management investment company, other than a small business investment company registered on Form N-5 (§§ 239.24 and 274.5 of this chapter), must maintain disclosure controls and procedures (as defined in paragraph (c) of this section) and internal control over financial reporting (as defined in paragraph (d) of this section).*internal control over financial reporting*
 
 (b) Each such registered management investment company's management must evaluate, with the participation of the company's principal executive and principal financial officers, or persons performing similar functions, the effectiveness of the company's disclosure controls and procedures, within the 90-day period prior to the filing date of each report on Form N-CSR (§§ 249.331 and 274.128 of this chapter).
 

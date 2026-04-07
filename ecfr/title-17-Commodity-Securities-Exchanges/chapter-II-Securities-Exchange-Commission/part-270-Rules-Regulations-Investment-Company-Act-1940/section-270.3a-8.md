@@ -1,6 +1,6 @@
 ##### § 270.3a-8 Certain research and development companies.
 
-(a) Notwithstanding sections 3(a)(1)(A) and 3(a)(1)(C) of the Act (15 U.S.C. 80a-3(a)(1)(A) and 80a-3(a)(1)(C)), an issuer will be deemed not to be an investment company if:
+(a) Notwithstanding sections 3(a)(1)(A) and 3(a)(1)(C) of the Act (15 U.S.C. 80a-3(a)(1)(A) and 80a-3(a)(1)(C)), an issuer will be deemed not to be an investment company if:*Board of directors*
 
 (1) Its research and development expenses, for the last four fiscal quarters combined, are a substantial percentage of its total expense for the same period;
 

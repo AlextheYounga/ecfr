@@ -1,6 +1,6 @@
 ##### § 2.27 Availability of North American Energy Standards Board (NAESB) Smart Grid Standards as non-mandatory guidance.
 
-The Commission informationally lists the following NAESB Business Practices Standards as non-mandatory guidance:
+The Commission informationally lists the following NAESB Business Practices Standards as non-mandatory guidance:*https://www.naesb.org/.*Federal Register
 
 (a) WEQ-016, Specifications for Common Electricity Product and Pricing Definition, (WEQ Version 004, July 31, 2023);
 
@@ -16,4 +16,4 @@ The Commission informationally lists the following NAESB Business Practices Stan
 
 (g) This section shall cease to have effect on December 5, 2026, unless the Commission determines that the cessation deadline should be extended to a date not more than 5 years in the future after offering the public an opportunity to provide input on the costs and benefits of this section and considering that input. The Commission will publish a document in the Federal Register announcing its determination and revising or removing this section accordingly.
 
-\[79 FR 56954, Sept. 24, 2014, as amended by Order 676-I, 85 FR 10585, Feb. 25, 2020; Order 899, 88 FR 74030, Oct. 30, 2023; Order 676-K, 90 FR 10796, Feb. 27, 2025; Order 914, 90 FR 48402, Oct. 21, 2025\]
+\[79 FR 56954, Sept. 24, 2014, as amended by Order 676-I, 85 FR 10585, Feb. 25, 2020; Order 899, 88 FR 74030, Oct. 30, 2023; Order 676-K, 90 FR 10796, Feb. 27, 2025; Order 914, 90 FR 48402, Oct. 21, 2025\] Link to an amendment published at 90 FR 59046, Dec. 18, 2025.

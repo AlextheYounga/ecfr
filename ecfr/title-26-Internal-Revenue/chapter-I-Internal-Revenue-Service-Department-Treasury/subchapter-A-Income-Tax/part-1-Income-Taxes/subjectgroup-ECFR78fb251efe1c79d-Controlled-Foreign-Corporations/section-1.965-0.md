@@ -1,1150 +1,1150 @@
 ##### § 1.965-0 Outline of section 965 regulations.
 
-This section lists the headings for §§ 1.965-1 through 1.965-9. 
+This section lists the headings for §§ 1.965-1 through 1.965-9.
 
 § 1.965-1 Overview, general rules, and definitions.
 
-(a) Overview. 
+(a) Overview.
 
-(1) In general. 
+(1) In general.
 
-(2) Scope. 
+(2) Scope.
 
-(b) Section 965(a) inclusion amounts. 
+(b) Section 965(a) inclusion amounts.
 
-(1) Inclusion of the pro rata share of the section 965(a) earnings amount. 
+(1) Inclusion of the pro rata share of the section 965(a) earnings amount.
 
-(2) Reduction by the allocable share of the aggregate foreign E&P deficit. 
+(2) Reduction by the allocable share of the aggregate foreign E&P deficit.
 
-(c) Section 965(c) deduction amounts. 
+(c) Section 965(c) deduction amounts.
 
-(d) Treatment of specified foreign corporation as a controlled foreign corporation. 
+(d) Treatment of specified foreign corporation as a controlled foreign corporation.
 
-(e) Special rule for certain controlled domestic partnerships. 
+(e) Special rule for certain controlled domestic partnerships.
 
-(1) In general. 
+(1) In general.
 
-(2) Definition of a controlled domestic partnership. 
+(2) Definition of a controlled domestic partnership.
 
-(f) Definitions. 
+(f) Definitions.
 
-(1) 8 percent rate amount. 
+(1) 8 percent rate amount.
 
-(2) 8 percent rate equivalent percentage. 
+(2) 8 percent rate equivalent percentage.
 
-(3) 15.5 percent rate amount. 
+(3) 15.5 percent rate amount.
 
-(4) 15.5 percent rate equivalent percentage. 
+(4) 15.5 percent rate equivalent percentage.
 
-(5) Accounts payable. 
+(5) Accounts payable.
 
-(6) Accounts receivable. 
+(6) Accounts receivable.
 
-(7) Accumulated post-1986 deferred foreign income. 
+(7) Accumulated post-1986 deferred foreign income.
 
-(8) Aggregate foreign cash position. 
+(8) Aggregate foreign cash position.
 
-(9) Aggregate foreign E&P deficit. 
+(9) Aggregate foreign E&P deficit.
 
-(10) Aggregate section 965(a) inclusion amount. 
+(10) Aggregate section 965(a) inclusion amount.
 
-(11) Allocable share. 
+(11) Allocable share.
 
-(12) Bona fide hedging transaction. 
+(12) Bona fide hedging transaction.
 
-(13) Cash-equivalent asset. 
+(13) Cash-equivalent asset.
 
-(i) In general. 
+(i) In general.
 
-(ii) Specified commodity. 
+(ii) Specified commodity.
 
-(14) Cash-equivalent asset hedging transaction. 
+(14) Cash-equivalent asset hedging transaction.
 
-(i) In general. 
+(i) In general.
 
-(ii) Aggregate hedging transactions. 
+(ii) Aggregate hedging transactions.
 
-(15) Cash measurement dates. 
+(15) Cash measurement dates.
 
-(16) Cash position. 
+(16) Cash position.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Fair market value of cash-equivalent assets. 
+(ii) Fair market value of cash-equivalent assets.
 
-(iii) Measurement of derivative financial instruments. 
+(iii) Measurement of derivative financial instruments.
 
-(iv) Translation of cash position amounts. 
+(iv) Translation of cash position amounts.
 
-(17) Deferred foreign income corporation. 
+(17) Deferred foreign income corporation.
 
-(i) In general. 
+(i) In general.
 
-(ii) Priority rule. 
+(ii) Priority rule.
 
-(18) Derivative financial instrument. 
+(18) Derivative financial instrument.
 
-(19) Domestic pass-through entity. 
+(19) Domestic pass-through entity.
 
-(20) Domestic pass-through owner. 
+(20) Domestic pass-through owner.
 
-(21) Domestic pass-through owner share. 
+(21) Domestic pass-through owner share.
 
-(22) E&P deficit foreign corporation. 
+(22) E&P deficit foreign corporation.
 
-(i) In general. 
+(i) In general.
 
-(ii) Determination of deficit in post-1986 earnings and profits. 
+(ii) Determination of deficit in post-1986 earnings and profits.
 
-(23) E&P measurement dates. 
+(23) E&P measurement dates.
 
-(24) Final cash measurement date. 
+(24) Final cash measurement date.
 
-(25) First cash measurement date. 
+(25) First cash measurement date.
 
-(26) Inclusion year. 
+(26) Inclusion year.
 
-(27) Net accounts receivable. 
+(27) Net accounts receivable.
 
-(28) Pass-through entity. 
+(28) Pass-through entity.
 
-(29) Post-1986 earnings and profits. 
+(29) Post-1986 earnings and profits.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Foreign income taxes. 
+(ii) Foreign income taxes.
 
-(iii) Deficits in earnings and profits. 
+(iii) Deficits in earnings and profits.
 
-(30) Pro rata share. 
+(30) Pro rata share.
 
-(31) Second cash measurement date. 
+(31) Second cash measurement date.
 
-(32) Section 958(a) stock. 
+(32) Section 958(a) stock.
 
-(33) Section 958(a) U.S. shareholder. 
+(33) Section 958(a) U.S. shareholder.
 
-(34) Section 958(a) U.S. shareholder inclusion year. 
+(34) Section 958(a) U.S. shareholder inclusion year.
 
-(35) Section 965 regulations. 
+(35) Section 965 regulations.
 
-(36) Section 965(a) earnings amount. 
+(36) Section 965(a) earnings amount.
 
-(37) Section 965(a) inclusion. 
+(37) Section 965(a) inclusion.
 
-(38) Section 965(a) inclusion amount. 
+(38) Section 965(a) inclusion amount.
 
-(39) Section 965(a) previously taxed earnings and profits. 
+(39) Section 965(a) previously taxed earnings and profits.
 
-(40) Section 965(b) previously taxed earnings and profits. 
+(40) Section 965(b) previously taxed earnings and profits.
 
-(41) Section 965(c) deduction. 
+(41) Section 965(c) deduction.
 
-(42) Section 965(c) deduction amount. 
+(42) Section 965(c) deduction amount.
 
-(43) Short-term obligation. 
+(43) Short-term obligation.
 
-(44) Specified E&P deficit. 
+(44) Specified E&P deficit.
 
-(45) Specified foreign corporation. 
+(45) Specified foreign corporation.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Special attribution rule. 
+(ii) Special attribution rule.
 
-(A) In general. 
+(A) In general.
 
-(B) Attribution for purposes of the ten percent standard. 
+(B) Attribution for purposes of the ten percent standard.
 
-(iii) Passive foreign investment companies. 
+(iii) Passive foreign investment companies.
 
-(46) Spot rate. 
+(46) Spot rate.
 
-(47) United States shareholder. 
+(47) United States shareholder.
 
-(g) Examples. 
+(g) Examples.
 
-(1) Example 1. 
+(1) Example 1.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(2) Example 2. 
+(2) Example 2.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(3) Example 3. 
+(3) Example 3.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(4) Example 4. 
+(4) Example 4.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(5) Example 5. 
+(5) Example 5.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(A) Determination of status as a deferred foreign income corporation. 
+(A) Determination of status as a deferred foreign income corporation.
 
-(B) Determination of status as an E&P deficit foreign corporation. 
+(B) Determination of status as an E&P deficit foreign corporation.
 
-(6) Example 6. 
+(6) Example 6.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(7) Example 7. 
+(7) Example 7.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(8) Example 8. 
+(8) Example 8.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
 § 1.965-2 Adjustments to earnings and profits and basis.
 
-(a) Scope. 
+(a) Scope.
 
-(b) Determination of and adjustments to earnings and profits of a specified foreign corporation for purposes of applying sections 902, 959, 960, and 965. 
+(b) Determination of and adjustments to earnings and profits of a specified foreign corporation for purposes of applying sections 902, 959, 960, and 965.
 
-(c) Adjustments to earnings and profits by reason of section 965(a). 
+(c) Adjustments to earnings and profits by reason of section 965(a).
 
-(d) Adjustments to earnings and profits by reason of section 965(b). 
+(d) Adjustments to earnings and profits by reason of section 965(b).
 
-(1) Adjustments to earnings and profits described in section 959(c)(2) and (c)(3) of deferred foreign income corporations. 
+(1) Adjustments to earnings and profits described in section 959(c)(2) and (c)(3) of deferred foreign income corporations.
 
-(2) Adjustments to earnings and profits described in section 959(c)(3) of E&P deficit foreign corporations. 
+(2) Adjustments to earnings and profits described in section 959(c)(3) of E&P deficit foreign corporations.
 
-(i) Increase in earnings and profits by an amount equal to the portion of the section 958(a) U.S. shareholder's pro rata share of the specified E&P deficit. 
+(i) Increase in earnings and profits by an amount equal to the portion of the section 958(a) U.S. shareholder's pro rata share of the specified E&P deficit.
 
-(A) In general. 
+(A) In general.
 
-(B) Reduction of a qualified deficit. 
+(B) Reduction of a qualified deficit.
 
-(ii) Determination of portion of a section 958(a) U.S. shareholder's pro rata share of a specified E&P deficit taken into account. 
+(ii) Determination of portion of a section 958(a) U.S. shareholder's pro rata share of a specified E&P deficit taken into account.
 
-(A) In general. 
+(A) In general.
 
-(B) Designation of portion of a section 958(a) U.S. shareholder's pro rata share of a specified E&P deficit taken into account. 
+(B) Designation of portion of a section 958(a) U.S. shareholder's pro rata share of a specified E&P deficit taken into account.
 
-(e) Adjustments to basis by reason of section 965(a). 
+(e) Adjustments to basis by reason of section 965(a).
 
-(1) General rule. 
+(1) General rule.
 
-(2) Section 962 election. 
+(2) Section 962 election.
 
-(f) Adjustments to basis by reason of section 965(b). 
+(f) Adjustments to basis by reason of section 965(b).
 
-(1) In general. 
+(1) In general.
 
-(2) Election to make adjustments to basis to account for the application of section 965(b). 
+(2) Election to make adjustments to basis to account for the application of section 965(b).
 
-(i) In general. 
+(i) In general.
 
-(ii) Basis adjustments. 
+(ii) Basis adjustments.
 
-(A) Increase in basis with respect to a deferred foreign income corporation. 
+(A) Increase in basis with respect to a deferred foreign income corporation.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Limited basis adjustment. 
+(*2*) Limited basis adjustment.
 
-(B) Reduction in basis with respect to an E&P deficit foreign corporation. 
+(B) Reduction in basis with respect to an E&P deficit foreign corporation.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Limited basis adjustment. 
+(*2*) Limited basis adjustment.
 
-(C) Section 962 election. 
+(C) Section 962 election.
 
-(iii) Rules regarding the election. 
+(iii) Rules regarding the election.
 
-(A) Consistency requirement. 
+(A) Consistency requirement.
 
-(B) Manner of making election. 
+(B) Manner of making election.
 
-(*1*) Timing. 
+(*1*) Timing.
 
-(*i*) In general. 
+(*i*) In general.
 
-(*ii*) Transition rule. 
+(*ii*) Transition rule.
 
-(*2*) Election statement. 
+(*2*) Election statement.
 
-(g) Gain reduction rule. 
+(g) Gain reduction rule.
 
-(1) Reduction in gain recognized under section 961(b)(2) by reason of distributions attributable to section 965 previously taxed earnings and profits in the inclusion year. 
+(1) Reduction in gain recognized under section 961(b)(2) by reason of distributions attributable to section 965 previously taxed earnings and profits in the inclusion year.
 
-(i) In general. 
+(i) In general.
 
-(ii) Definition of section 965 previously taxed earnings and profits. 
+(ii) Definition of section 965 previously taxed earnings and profits.
 
-(2) Reduction in basis by an amount equal to the gain reduction amount. 
+(2) Reduction in basis by an amount equal to the gain reduction amount.
 
-(h) Rules of application for specified basis adjustments. 
+(h) Rules of application for specified basis adjustments.
 
-(1) Timing of basis adjustments. 
+(1) Timing of basis adjustments.
 
-(2) Netting of basis adjustments. 
+(2) Netting of basis adjustments.
 
-(3) Gain recognition for reduction in excess of basis. 
+(3) Gain recognition for reduction in excess of basis.
 
-(4) Adjustments with respect to each share. 
+(4) Adjustments with respect to each share.
 
-(i) Section 958(a) stock. 
+(i) Section 958(a) stock.
 
-(ii) Applicable property. 
+(ii) Applicable property.
 
-(5) Stock or property for which adjustments are made. 
+(5) Stock or property for which adjustments are made.
 
-(i) In general. 
+(i) In general.
 
-(ii) Special rule for an interest in a foreign pass-through entity. 
+(ii) Special rule for an interest in a foreign pass-through entity.
 
-(i) Definitions. 
+(i) Definitions.
 
-(1) Applicable property. 
+(1) Applicable property.
 
-(2) Foreign pass-through entity. 
+(2) Foreign pass-through entity.
 
-(3) Property. 
+(3) Property.
 
-(j) Examples. 
+(j) Examples.
 
-(1) Example 1. 
+(1) Example 1.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(A) Adjustments to section 959(c) classification of earnings and profits for inclusion under section 951(a)(1)(A) without regard to section 965. 
+(A) Adjustments to section 959(c) classification of earnings and profits for inclusion under section 951(a)(1)(A) without regard to section 965.
 
-(B) Distributions between specified foreign corporations before January 1, 2018. 
+(B) Distributions between specified foreign corporations before January 1, 2018.
 
-(C) Section 965(a) inclusion amount. 
+(C) Section 965(a) inclusion amount.
 
-(*1*) CFC1 section 965(a) earnings amount. 
+(*1*) CFC1 section 965(a) earnings amount.
 
-(*2*) CFC2 section 965(a) earnings amount. 
+(*2*) CFC2 section 965(a) earnings amount.
 
-(*3*) Effect on earnings and profits described in section 959(c)(2) and (3). 
+(*3*) Effect on earnings and profits described in section 959(c)(2) and (3).
 
-(D) Distribution to United States shareholder. 
+(D) Distribution to United States shareholder.
 
-(E) Section 902 and section 960 consequences. 
+(E) Section 902 and section 960 consequences.
 
-(*1*) Distribution by and inclusions with respect to CFC2. 
+(*1*) Distribution by and inclusions with respect to CFC2.
 
-(*2*) Inclusions with respect to CFC1. 
+(*2*) Inclusions with respect to CFC1.
 
-(2) Example 2. 
+(2) Example 2.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(A) Adjustments to section 959(c) classification of earnings and profits for inclusion under section 951(a)(1)(A) without regard to section 965. 
+(A) Adjustments to section 959(c) classification of earnings and profits for inclusion under section 951(a)(1)(A) without regard to section 965.
 
-(B) Distributions between specified foreign corporations before January 1, 2018. 
+(B) Distributions between specified foreign corporations before January 1, 2018.
 
-(C) Section 965(a) inclusion amount. 
+(C) Section 965(a) inclusion amount.
 
-(*1*) CFC1 section 965(a) earnings amount. 
+(*1*) CFC1 section 965(a) earnings amount.
 
-(*2*) CFC2 section 965(a) earnings amount. 
+(*2*) CFC2 section 965(a) earnings amount.
 
-(*3*) Effect on earnings and profits described in section 959(c)(2) and (3). 
+(*3*) Effect on earnings and profits described in section 959(c)(2) and (3).
 
-(D) Distribution to United States shareholder. 
+(D) Distribution to United States shareholder.
 
-(3) Example 3. 
+(3) Example 3.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(A) Adjustments to section 959(c) classification of earnings and profits for inclusion under section 951(a)(1)(A) without regard to section 965. 
+(A) Adjustments to section 959(c) classification of earnings and profits for inclusion under section 951(a)(1)(A) without regard to section 965.
 
-(B) Distributions between specified foreign corporations before January 1, 2018. 
+(B) Distributions between specified foreign corporations before January 1, 2018.
 
-(C) Section 965(a) inclusion amount. 
+(C) Section 965(a) inclusion amount.
 
-(*1*) CFC1 section 965(a) earnings amount. 
+(*1*) CFC1 section 965(a) earnings amount.
 
-(*2*) CFC2 section 965(a) earnings amount. 
+(*2*) CFC2 section 965(a) earnings amount.
 
-(*3*) Effect on earnings and profits described in section 959(c)(2) and (3). 
+(*3*) Effect on earnings and profits described in section 959(c)(2) and (3).
 
-(D) Distribution to United States shareholder. 
+(D) Distribution to United States shareholder.
 
-(4) Example 4. 
+(4) Example 4.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(A) Adjustments to section 959(c) classification of earnings and profits for inclusion under section 951(a)(1)(A) without regard to section 965. 
+(A) Adjustments to section 959(c) classification of earnings and profits for inclusion under section 951(a)(1)(A) without regard to section 965.
 
-(B) Distributions between specified foreign corporations before January 1, 2018. 
+(B) Distributions between specified foreign corporations before January 1, 2018.
 
-(C) Section 965(a) inclusion amount. 
+(C) Section 965(a) inclusion amount.
 
-(*1*) CFC1 section 965(a) earnings amount. 
+(*1*) CFC1 section 965(a) earnings amount.
 
-(*2*) CFC2 section 965(a) earnings amount. 
+(*2*) CFC2 section 965(a) earnings amount.
 
-(*3*) Effect on earnings and profits described in section 959(c)(2) and (3). 
+(*3*) Effect on earnings and profits described in section 959(c)(2) and (3).
 
-(D) Distribution to United States shareholder. 
+(D) Distribution to United States shareholder.
 
-(*1*) Distribution that is a specified payment. 
+(*1*) Distribution that is a specified payment.
 
-(*2*) Distribution to United States shareholder. 
+(*2*) Distribution to United States shareholder.
 
-(E) Section 902 and section 960 consequences. 
+(E) Section 902 and section 960 consequences.
 
-(5) Example 5. 
+(5) Example 5.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(A) Section 965(a) inclusion amount. 
+(A) Section 965(a) inclusion amount.
 
-(*1*) CFC section 965(a) earnings amount. 
+(*1*) CFC section 965(a) earnings amount.
 
-(*2*) Effect on earnings and profits described in section 959(c)(2) and (3). 
+(*2*) Effect on earnings and profits described in section 959(c)(2) and (3).
 
-(6) Example 6. 
+(6) Example 6.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(A) Adjustments to section 959(c) classification of earnings and profits for section 1248 inclusion. 
+(A) Adjustments to section 959(c) classification of earnings and profits for section 1248 inclusion.
 
-(B) Section 965(a) inclusion amount. 
+(B) Section 965(a) inclusion amount.
 
-(C) Distributions to United States shareholders. 
+(C) Distributions to United States shareholders.
 
-(7) Example 7. 
+(7) Example 7.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(8) Example 8. 
+(8) Example 8.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(A) Application of the gain reduction rule. 
+(A) Application of the gain reduction rule.
 
-(B) Adjustments to the basis of CFC1. 
+(B) Adjustments to the basis of CFC1.
 
-(9) Example 9. 
+(9) Example 9.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(A) Application of the gain reduction rule. 
+(A) Application of the gain reduction rule.
 
-(B) Adjustments to the basis of CFC1 and CFC2. 
+(B) Adjustments to the basis of CFC1 and CFC2.
 
 § 1.965-3 Section 965(c) deductions.
 
-(a) Scope. 
+(a) Scope.
 
-(b) Rules for disregarding certain assets for determining aggregate foreign cash position. 
+(b) Rules for disregarding certain assets for determining aggregate foreign cash position.
 
-(1) Disregard of certain obligations between related specified foreign corporations. 
+(1) Disregard of certain obligations between related specified foreign corporations.
 
-(2) Disregard of other assets upon demonstration of double-counting. 
+(2) Disregard of other assets upon demonstration of double-counting.
 
-(3) Disregard of portion of cash position of noncorporate entities treated as specified foreign corporations. 
+(3) Disregard of portion of cash position of noncorporate entities treated as specified foreign corporations.
 
-(4) Examples. 
+(4) Examples.
 
-(i) Example 1. 
+(i) Example 1.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(*1*) Loan from CFC1 to CFC2. 
+(*1*) Loan from CFC1 to CFC2.
 
-(*2*) Account receivable of CFC1 held by CFC2. 
+(*2*) Account receivable of CFC1 held by CFC2.
 
-(*3*) Loan from CFC1 to CFC3. 
+(*3*) Loan from CFC1 to CFC3.
 
-(ii) Example 2. 
+(ii) Example 2.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(iii) Example 3. 
+(iii) Example 3.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(iv) Example 4. 
+(iv) Example 4.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(v) Example 5. 
+(v) Example 5.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(*1*) Treatment of PS1. 
+(*1*) Treatment of PS1.
 
-(*2*) Treatment of PS2. 
+(*2*) Treatment of PS2.
 
-(c) Determination of aggregate foreign cash position for a section 958(a) U.S. shareholder inclusion year. 
+(c) Determination of aggregate foreign cash position for a section 958(a) U.S. shareholder inclusion year.
 
-(1) Single section 958(a) U.S. shareholder inclusion year. 
+(1) Single section 958(a) U.S. shareholder inclusion year.
 
-(2) Multiple section 958(a) U.S. shareholder inclusion years. 
+(2) Multiple section 958(a) U.S. shareholder inclusion years.
 
-(i) Allocation to first section 958(a) U.S. shareholder inclusion year. 
+(i) Allocation to first section 958(a) U.S. shareholder inclusion year.
 
-(ii) Allocation to succeeding section 958(a) U.S. shareholder inclusion years. 
+(ii) Allocation to succeeding section 958(a) U.S. shareholder inclusion years.
 
-(3) Estimation of aggregate foreign cash position. 
+(3) Estimation of aggregate foreign cash position.
 
-(4) Examples. 
+(4) Examples.
 
-(i) Example 1. 
+(i) Example 1.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(ii) Example 2. 
+(ii) Example 2.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(d) Increase of income by section 965(c) deduction of an expatriated entity. 
+(d) Increase of income by section 965(c) deduction of an expatriated entity.
 
-(1) In general. 
+(1) In general.
 
-(2) Definition of expatriated entity. 
+(2) Definition of expatriated entity.
 
-(3) Definition of surrogate foreign corporation. 
+(3) Definition of surrogate foreign corporation.
 
-(e) Section 962 election. 
+(e) Section 962 election.
 
-(1) In general. 
+(1) In general.
 
-(2) Example. 
+(2) Example.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(f) Treatment of section 965(c) deduction under certain provisions of the Internal Revenue Code. 
+(f) Treatment of section 965(c) deduction under certain provisions of the Internal Revenue Code.
 
-(1) Section 63(d). 
+(1) Section 63(d).
 
-(2) Sections 705, 1367, and 1368. 
+(2) Sections 705, 1367, and 1368.
 
-(i) Adjustments to basis. 
+(i) Adjustments to basis.
 
-(ii) S corporation accumulated adjustments account. 
+(ii) S corporation accumulated adjustments account.
 
-(iii) Example. 
+(iii) Example.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(3) Section 1411. 
+(3) Section 1411.
 
-(4) Section 4940. 
+(4) Section 4940.
 
-(g) Domestic pass-through entities. 
+(g) Domestic pass-through entities.
 
 § 1.965-4 Disregard of certain transactions.
 
-(a) Scope. 
+(a) Scope.
 
-(b) Transactions undertaken with a principal purpose of changing the amount of a section 965 element. 
+(b) Transactions undertaken with a principal purpose of changing the amount of a section 965 element.
 
-(1) General rule. 
+(1) General rule.
 
-(2) Presumptions and exceptions for the application of the general rule. 
+(2) Presumptions and exceptions for the application of the general rule.
 
-(i) Overview. 
+(i) Overview.
 
-(ii) Definitions. 
+(ii) Definitions.
 
-(A) Relatedness. 
+(A) Relatedness.
 
-(B) Transfer. 
+(B) Transfer.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Indirect transfer. 
+(*2*) Indirect transfer.
 
-(iii) Cash reduction transactions. 
+(iii) Cash reduction transactions.
 
-(A) General rule. 
+(A) General rule.
 
-(B) Per se rules for certain distributions. 
+(B) Per se rules for certain distributions.
 
-(iv) E&P reduction transactions. 
+(iv) E&P reduction transactions.
 
-(A) General rule. 
+(A) General rule.
 
-(*1*) Definition of pro rata share reduction transaction. 
+(*1*) Definition of pro rata share reduction transaction.
 
-(*2*) Definition of E&P deficit transaction. 
+(*2*) Definition of E&P deficit transaction.
 
-(B) Per se rule for internal group transactions. 
+(B) Per se rule for internal group transactions.
 
-(C) Example. 
+(C) Example.
 
-(*1*) Facts. 
+(*1*) Facts.
 
-(*2*) Analysis. 
+(*2*) Analysis.
 
-(c) Disregard of certain changes in method of accounting and entity classification elections. 
+(c) Disregard of certain changes in method of accounting and entity classification elections.
 
-(1) Changes in method of accounting. 
+(1) Changes in method of accounting.
 
-(2) Entity classification elections. 
+(2) Entity classification elections.
 
-(d) Definition of a section 965 element. 
+(d) Definition of a section 965 element.
 
-(e) Rules for applying paragraphs (b) and (c) of this section. 
+(e) Rules for applying paragraphs (b) and (c) of this section.
 
-(1) Determination of whether there is a change in the amount of a section 965 element. 
+(1) Determination of whether there is a change in the amount of a section 965 element.
 
-(2) Treatment of domestic pass-through owners as United States shareholders. 
+(2) Treatment of domestic pass-through owners as United States shareholders.
 
-(3) Exception for certain incorporation transactions. 
+(3) Exception for certain incorporation transactions.
 
-(i) In general. 
+(i) In general.
 
-(ii) Aggregate foreign cash position. 
+(ii) Aggregate foreign cash position.
 
-(4) Consequences of liquidation. 
+(4) Consequences of liquidation.
 
-(i) In general. 
+(i) In general.
 
-(ii) Specified liquidation date. 
+(ii) Specified liquidation date.
 
-(f) Disregard of certain transactions occurring between E&P measurement dates. 
+(f) Disregard of certain transactions occurring between E&P measurement dates.
 
-(1) Disregard of specified payments. 
+(1) Disregard of specified payments.
 
-(2) Definition of specified payment. 
+(2) Definition of specified payment.
 
-(3) Non-application of disregard rule. 
+(3) Non-application of disregard rule.
 
-(4) Examples. 
+(4) Examples.
 
-(i) Example 1. 
+(i) Example 1.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(ii) Example 2. 
+(ii) Example 2.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(iii) Example 3. 
+(iii) Example 3.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(iv) Example 4. 
+(iv) Example 4.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(v) Example 5. 
+(v) Example 5.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(vi) Example 6. 
+(vi) Example 6.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
 § 1.965-5 Allowance of credit or deduction for foreign income taxes.
 
-(a) Scope. 
+(a) Scope.
 
-(b) Rules for foreign income taxes paid or accrued. 
+(b) Rules for foreign income taxes paid or accrued.
 
-(c) Rules for foreign income taxes treated as paid or accrued. 
+(c) Rules for foreign income taxes treated as paid or accrued.
 
-(1) Disallowed credit. 
+(1) Disallowed credit.
 
-(i) In general. 
+(i) In general.
 
-(ii) Foreign income taxes deemed paid under section 960(a)(3) (as in effect on December 21, 2017). 
+(ii) Foreign income taxes deemed paid under section 960(a)(3) (as in effect on December 21, 2017).
 
-(iii) \[Reserved\] 
+(iii) \[Reserved\]
 
-(2) Disallowed deduction. 
+(2) Disallowed deduction.
 
-(3) Coordination with section 78. 
+(3) Coordination with section 78.
 
-(i) In general. 
+(i) In general.
 
-(ii) Domestic corporation that is a domestic pass-through owner. 
+(ii) Domestic corporation that is a domestic pass-through owner.
 
-(d) Applicable percentage. 
+(d) Applicable percentage.
 
-(1) In general. 
+(1) In general.
 
-(2) No section 965(a) inclusion amount. 
+(2) No section 965(a) inclusion amount.
 
-(3) Applicable percentage for domestic pass-through owners. 
+(3) Applicable percentage for domestic pass-through owners.
 
-(4) Applicable percentage with respect to certain distributions of previously taxed earnings and profits. 
+(4) Applicable percentage with respect to certain distributions of previously taxed earnings and profits.
 
 § 1.965-6 Computation of foreign income taxes deemed paid and allocation and apportionment of deductions.
 
-(a) Scope. 
+(a) Scope.
 
-(b) Computation of foreign income taxes deemed paid. 
+(b) Computation of foreign income taxes deemed paid.
 
-(1) In general. 
+(1) In general.
 
-(2) Dividend or inclusion in excess of post-1986 undistributed earnings. 
+(2) Dividend or inclusion in excess of post-1986 undistributed earnings.
 
-(3) Treatment of adjustment under section 965(b)(4)(B). 
+(3) Treatment of adjustment under section 965(b)(4)(B).
 
-(4) Section 902 fraction. 
+(4) Section 902 fraction.
 
-(c) Allocation and apportionment of deductions. 
+(c) Allocation and apportionment of deductions.
 
-(d) Hovering deficits. 
+(d) Hovering deficits.
 
 § 1.965-7 Elections, payment, and other special rules.
 
-(a) Scope. 
+(a) Scope.
 
-(b) Section 965(h) election. 
+(b) Section 965(h) election.
 
-(1) In general. 
+(1) In general.
 
-(i) Amount of installments. 
+(i) Amount of installments.
 
-(ii) Increased installments due to a deficiency or a timely filed or amended return. 
+(ii) Increased installments due to a deficiency or a timely filed or amended return.
 
-(A) In general. 
+(A) In general.
 
-(B) Timing. 
+(B) Timing.
 
-(C) Exception for negligence, intentional disregard, or fraud. 
+(C) Exception for negligence, intentional disregard, or fraud.
 
-(iii) Due date of installments. 
+(iii) Due date of installments.
 
-(A) In general. 
+(A) In general.
 
-(B) Extension for specified individuals. 
+(B) Extension for specified individuals.
 
-(2) Manner of making election. 
+(2) Manner of making election.
 
-(i) Eligibility. 
+(i) Eligibility.
 
-(ii) Timing. 
+(ii) Timing.
 
-(iii) Election statement. 
+(iii) Election statement.
 
-(3) Acceleration of payment. 
+(3) Acceleration of payment.
 
-(i) Acceleration. 
+(i) Acceleration.
 
-(ii) Acceleration events. 
+(ii) Acceleration events.
 
-(iii) Eligible section 965(h) transferee exception. 
+(iii) Eligible section 965(h) transferee exception.
 
-(A) In general. 
+(A) In general.
 
-(*1*) Requirement to have a covered acceleration event. 
+(*1*) Requirement to have a covered acceleration event.
 
-(*2*) Requirement to enter into a transfer agreement. 
+(*2*) Requirement to enter into a transfer agreement.
 
-(B) Transfer agreement. 
+(B) Transfer agreement.
 
-(*1*) Eligibility. 
+(*1*) Eligibility.
 
-(*2*) Filing requirements. 
+(*2*) Filing requirements.
 
-(*i*) In general. 
+(*i*) In general.
 
-(*ii*) Transition rule. 
+(*ii*) Transition rule.
 
-(*3*) Signature requirement. 
+(*3*) Signature requirement.
 
-(*4*) Terms of agreement. 
+(*4*) Terms of agreement.
 
-(*5*) Consolidated groups. 
+(*5*) Consolidated groups.
 
-(*6*) Leverage ratio. 
+(*6*) Leverage ratio.
 
-(C) Consent of Commissioner. 
+(C) Consent of Commissioner.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Material misrepresentations and omissions. 
+(*2*) Material misrepresentations and omissions.
 
-(D) Effect of assumption. 
+(D) Effect of assumption.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Eligible section 965(h) transferor liability. 
+(*2*) Eligible section 965(h) transferor liability.
 
-(E) Qualifying consolidated group member transaction. 
+(E) Qualifying consolidated group member transaction.
 
-(*1*) Definition of qualifying consolidated group member transaction. 
+(*1*) Definition of qualifying consolidated group member transaction.
 
-(*2*) Definition of qualified successor. 
+(*2*) Definition of qualified successor.
 
-(*3*) Departure of multiple members of a consolidated group. 
+(*3*) Departure of multiple members of a consolidated group.
 
-(c) Section 965(i) election. 
+(c) Section 965(i) election.
 
-(1) In general. 
+(1) In general.
 
-(2) Manner of making election. 
+(2) Manner of making election.
 
-(i) Eligibility. 
+(i) Eligibility.
 
-(ii) Timing. 
+(ii) Timing.
 
-(iii) Election statement. 
+(iii) Election statement.
 
-(3) Triggering events. 
+(3) Triggering events.
 
-(i) In general. 
+(i) In general.
 
-(ii) Triggering events. 
+(ii) Triggering events.
 
-(iii) Partial transfers. 
+(iii) Partial transfers.
 
-(iv) Eligible section 965(i) transferee exception. 
+(iv) Eligible section 965(i) transferee exception.
 
-(A) In general. 
+(A) In general.
 
-(*1*) Requirement to have a covered triggering event. 
+(*1*) Requirement to have a covered triggering event.
 
-(*2*) Requirement to enter into a transfer agreement. 
+(*2*) Requirement to enter into a transfer agreement.
 
-(B) Transfer agreement. 
+(B) Transfer agreement.
 
-(*1*) Eligibility. 
+(*1*) Eligibility.
 
-(*2*) Filing requirements. 
+(*2*) Filing requirements.
 
-(*i*) In general. 
+(*i*) In general.
 
-(*ii*) Transition rule. 
+(*ii*) Transition rule.
 
-(*iii*) Death of eligible section 965(i) transferor. 
+(*iii*) Death of eligible section 965(i) transferor.
 
-(*3*) Signature requirement. 
+(*3*) Signature requirement.
 
-(*4*) Terms of agreement. 
+(*4*) Terms of agreement.
 
-(*5*) Special rule in the case of death of eligible section 965(i) transferor. 
+(*5*) Special rule in the case of death of eligible section 965(i) transferor.
 
-(*6*) Leverage ratio. 
+(*6*) Leverage ratio.
 
-(C) Consent of Commissioner. 
+(C) Consent of Commissioner.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Material misrepresentations and omissions. 
+(*2*) Material misrepresentations and omissions.
 
-(D) Effect of assumption. 
+(D) Effect of assumption.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Eligible section 965(i) transferor liability. 
+(*2*) Eligible section 965(i) transferor liability.
 
-(v) Coordination with section 965(h) election. 
+(v) Coordination with section 965(h) election.
 
-(A) In general. 
+(A) In general.
 
-(B) Timing for election. 
+(B) Timing for election.
 
-(C) Due date for installment. 
+(C) Due date for installment.
 
-(D) Limitation. 
+(D) Limitation.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Manner of obtaining consent. 
+(*2*) Manner of obtaining consent.
 
-(*i*) In general. 
+(*i*) In general.
 
-(*ii*) Transition rule. 
+(*ii*) Transition rule.
 
-(*3*) Signature requirement. 
+(*3*) Signature requirement.
 
-(*4*) Terms of agreement. 
+(*4*) Terms of agreement.
 
-(*5*) Consent of Commissioner. 
+(*5*) Consent of Commissioner.
 
-(*i*) In general. 
+(*i*) In general.
 
-(*ii*) Material misrepresentations and omissions. 
+(*ii*) Material misrepresentations and omissions.
 
-(*6*) Leverage ratio. 
+(*6*) Leverage ratio.
 
-(4) Joint and several liability. 
+(4) Joint and several liability.
 
-(5) Extension of limitation on collection. 
+(5) Extension of limitation on collection.
 
-(6) Annual reporting requirement. 
+(6) Annual reporting requirement.
 
-(i) In general. 
+(i) In general.
 
-(ii) Failure to report. 
+(ii) Failure to report.
 
-(d) Section 965(m) election and special rule for real estate investment trusts. 
+(d) Section 965(m) election and special rule for real estate investment trusts.
 
-(1) In general. 
+(1) In general.
 
-(2) Inclusion schedule for section 965(m) election. 
+(2) Inclusion schedule for section 965(m) election.
 
-(3) Manner of making election. 
+(3) Manner of making election.
 
-(i) Eligibility. 
+(i) Eligibility.
 
-(ii) Timing. 
+(ii) Timing.
 
-(iii) Election statement. 
+(iii) Election statement.
 
-(4) Coordination with section 965(h). 
+(4) Coordination with section 965(h).
 
-(5) Acceleration of inclusion. 
+(5) Acceleration of inclusion.
 
-(6) Treatment of section 965(a) inclusions of a real estate investment trust. 
+(6) Treatment of section 965(a) inclusions of a real estate investment trust.
 
-(e) Section 965(n) election. 
+(e) Section 965(n) election.
 
-(1) In general. 
+(1) In general.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Applicable amount for section 965(n) election. 
+(ii) Applicable amount for section 965(n) election.
 
-(iii) Scope of section 965(n) election. 
+(iii) Scope of section 965(n) election.
 
-(iv) \[Reserved\] 
+(iv) \[Reserved\]
 
-(2) Manner of making election. 
+(2) Manner of making election.
 
-(i) Eligibility. 
+(i) Eligibility.
 
-(ii) Timing. 
+(ii) Timing.
 
-(iii) Election statement. 
+(iii) Election statement.
 
-(f) Election to use alternative method for calculating post-1986 earnings and profits. 
+(f) Election to use alternative method for calculating post-1986 earnings and profits.
 
-(1) Effect of election for specified foreign corporations that do not have a 52-53-week taxable year. 
+(1) Effect of election for specified foreign corporations that do not have a 52-53-week taxable year.
 
-(2) Effect of election for specified foreign corporations that have a 52-53-week taxable year. 
+(2) Effect of election for specified foreign corporations that have a 52-53-week taxable year.
 
-(3) Computation of post-1986 earnings and profits using alternative method. 
+(3) Computation of post-1986 earnings and profits using alternative method.
 
-(4) Definitions. 
+(4) Definitions.
 
-(i) 52-53-week taxable year. 
+(i) 52-53-week taxable year.
 
-(ii) Annualized earnings and profits amount. 
+(ii) Annualized earnings and profits amount.
 
-(iii) Daily earnings amount. 
+(iii) Daily earnings amount.
 
-(iv) Notional measurement date. 
+(iv) Notional measurement date.
 
-(5) Manner of making election. 
+(5) Manner of making election.
 
-(i) Eligibility. 
+(i) Eligibility.
 
-(ii) Timing. 
+(ii) Timing.
 
-(iii) Election statement. 
+(iii) Election statement.
 
-(6) Examples. 
+(6) Examples.
 
-(i) Example 1. 
+(i) Example 1.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(ii) Example 2. 
+(ii) Example 2.
 
-(A) Facts. 
+(A) Facts.
 
-(B) Analysis. 
+(B) Analysis.
 
-(g) Definitions. 
+(g) Definitions.
 
-(1) Deferred net tax liability. 
+(1) Deferred net tax liability.
 
-(2) REIT section 965 amounts. 
+(2) REIT section 965 amounts.
 
-(3) Section 965(h) election. 
+(3) Section 965(h) election.
 
-(4) Section 965(h) net tax liability. 
+(4) Section 965(h) net tax liability.
 
-(5) Section 965(i) election. 
+(5) Section 965(i) election.
 
-(6) Section 965(i) net tax liability. 
+(6) Section 965(i) net tax liability.
 
-(7) Section 965(m) election. 
+(7) Section 965(m) election.
 
-(8) Section 965(n) election. 
+(8) Section 965(n) election.
 
-(9) Specified individual. 
+(9) Specified individual.
 
-(10) Total net tax liability under section 965. 
+(10) Total net tax liability under section 965.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Net income tax. 
+(ii) Net income tax.
 
-(iii) Foreign tax credits. 
+(iii) Foreign tax credits.
 
 § 1.965-8 Affiliated groups (including consolidated groups).
 
-(a) Scope. 
+(a) Scope.
 
-(b) Reduction of E&P net surplus shareholder's pro rata share of the section 965(a) earnings amount of a deferred foreign income corporation by the allocable share of the applicable share of the aggregate unused E&P deficit. 
+(b) Reduction of E&P net surplus shareholder's pro rata share of the section 965(a) earnings amount of a deferred foreign income corporation by the allocable share of the applicable share of the aggregate unused E&P deficit.
 
-(1) In general. 
+(1) In general.
 
-(2) Consolidated group as part of an affiliated group. 
+(2) Consolidated group as part of an affiliated group.
 
-(c) Designation of portion of excess aggregate foreign E&P deficit taken into account. 
+(c) Designation of portion of excess aggregate foreign E&P deficit taken into account.
 
-(1) In general. 
+(1) In general.
 
-(2) Consolidated group as part of an affiliated group. 
+(2) Consolidated group as part of an affiliated group.
 
-(d) \[Reserved\] 
+(d) \[Reserved\]
 
-(1) \[Reserved\] 
+(1) \[Reserved\]
 
-(2) Consolidated groups. 
+(2) Consolidated groups.
 
-(e) Treatment of a consolidated group as a single section 958(a) U.S. shareholder or a single person. 
+(e) Treatment of a consolidated group as a single section 958(a) U.S. shareholder or a single person.
 
-(1) In general. 
+(1) In general.
 
-(2) Limitation. 
+(2) Limitation.
 
-(3) Determination of section 965(c) deduction amount. 
+(3) Determination of section 965(c) deduction amount.
 
-(f) Definitions. 
+(f) Definitions.
 
-(1) Aggregate unused E&P deficit. 
+(1) Aggregate unused E&P deficit.
 
-(i) In general. 
+(i) In general.
 
-(ii) Reduction with respect to E&P net deficit shareholders that are not wholly owned by the affiliated group. 
+(ii) Reduction with respect to E&P net deficit shareholders that are not wholly owned by the affiliated group.
 
-(2) Allocable share. 
+(2) Allocable share.
 
-(3) Applicable share. 
+(3) Applicable share.
 
-(4) Consolidated group aggregate foreign cash position. 
+(4) Consolidated group aggregate foreign cash position.
 
-(5) E&P net deficit shareholder. 
+(5) E&P net deficit shareholder.
 
-(6) E&P net surplus shareholder. 
+(6) E&P net surplus shareholder.
 
-(7) Excess aggregate foreign E&P deficit. 
+(7) Excess aggregate foreign E&P deficit.
 
-(8) Group cash ratio. 
+(8) Group cash ratio.
 
-(9) Group ownership percentage. 
+(9) Group ownership percentage.
 
-(g) Examples. 
+(g) Examples.
 
-(1) Example 1. 
+(1) Example 1.
 
-(i) Facts. 
+(i) Facts.
 
-(A) In general. 
+(A) In general.
 
-(B) Facts relating to section 965. 
+(B) Facts relating to section 965.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(A) Section 965(a) inclusion amounts before application of section 965(b)(5). 
+(A) Section 965(a) inclusion amounts before application of section 965(b)(5).
 
-(B) Application of section 965(b)(5). 
+(B) Application of section 965(b)(5).
 
-(*1*) Determination of E&P net surplus shareholders and E&P net deficit shareholders. 
+(*1*) Determination of E&P net surplus shareholders and E&P net deficit shareholders.
 
-(*2*) Determining section 965(a) inclusion amounts under section 965(b)(5). 
+(*2*) Determining section 965(a) inclusion amounts under section 965(b)(5).
 
-(C) Aggregate foreign cash position. 
+(C) Aggregate foreign cash position.
 
-(D) Section 965(c) deduction amount. 
+(D) Section 965(c) deduction amount.
 
-(2) Example 2. 
+(2) Example 2.
 
-(i) Facts. 
+(i) Facts.
 
-(ii) Analysis. 
+(ii) Analysis.
 
-(A) Section 965(a) inclusion amount. 
+(A) Section 965(a) inclusion amount.
 
-(*1*) Single section 958(a) U.S. shareholder treatment. 
+(*1*) Single section 958(a) U.S. shareholder treatment.
 
-(*2*) Determination of inclusion amount. 
+(*2*) Determination of inclusion amount.
 
-(B) Consolidated group aggregate foreign cash position. 
+(B) Consolidated group aggregate foreign cash position.
 
-(C) Section 965(a) deduction amount. 
+(C) Section 965(a) deduction amount.
 
 § 1.965-9 Applicability dates.
 
-(a) In general. 
+(a) In general.
 
 (b) Applicability dates for rules disregarding certain transactions.
 

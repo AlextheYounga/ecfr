@@ -1,6 +1,6 @@
 ##### § 270.2a-7 Money market funds.
 
-(a) *Definitions*—(1) *Acquisition (or acquire)* means any purchase or subsequent rollover (but does not include the failure to exercise a demand feature).
+(a) *Definitions*—(1) *Acquisition (or acquire)* means any purchase or subsequent rollover (but does not include the failure to exercise a demand feature).1/2
 
 (2) *Amortized cost method of valuation* means the method of calculating an investment company's net asset value whereby portfolio securities are valued at the fund's acquisition cost as adjusted for amortization of premium or accretion of discount rather than at their value based on current market factors.
 
