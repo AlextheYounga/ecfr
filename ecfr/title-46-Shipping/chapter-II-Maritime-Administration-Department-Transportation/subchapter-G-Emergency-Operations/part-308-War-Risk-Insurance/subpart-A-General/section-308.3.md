@@ -2,9 +2,7 @@
 
 (a) Application, binder forms. A single application for War Risk Insurance shall be filed on Form MA-528, specifying the types of insurance coverages for which the applicant is applying. A single application may be submitted for several vessels, if the application identifies each vessel to be insured and the coverage(s) required, by completing appendices A and B to that form. An interim binder for war risk insurance coverage, of the types described in subparts B, C and D of this part, shall be on Form MA-942, which may be obtained from the MARAD's underwriting agent or from MARAD.
 
-(b) *Warranties* -
-
-(1) *In general.* Applications for war risk hull and protection and indemnity insurance in any eligible category of this Part 308 shall include a warranty that, at all times during the effective period of the binder and any insurance attaching thereunder, the insured vessel, regardless of its nation of registry, will comply with Department of Commerce Transportation Order T-1 (44 CFR Parts 401 and 402), or any modifications thereof so long as it remains in force and that the vessel will not be chartered, unless in accordance with the provisions of §§ 221.11 and 221.13 of this chapter, which requirement is applicable to any charter in existence at the time the applicant applies for insurance.
+(b) *Warranties* - (1) *In general.* Applications for war risk hull and protection and indemnity insurance in any eligible category of this Part 308 shall include a warranty that, at all times during the effective period of the binder and any insurance attaching thereunder, the insured vessel, regardless of its nation of registry, will comply with Department of Commerce Transportation Order T-1 (44 CFR Parts 401 and 402), or any modifications thereof so long as it remains in force and that the vessel will not be chartered, unless in accordance with the provisions of §§ 221.11 and 221.13 of this chapter, which requirement is applicable to any charter in existence at the time the applicant applies for insurance.
 
 (2) Vessels described in § 308.1(a). Applications for war risk insurance on a vessel described in § 308.1(a) shall contain the warranty that at, and from the date of issuance of the interim binder, and for and during the term of any insurance attaching thereunder, such vessel will remain eligible within its category.
 
@@ -16,9 +14,7 @@
 
 (c) *Filing applications for insurance.* All applications for insurance on a vessel shall be made to MARAD's underwriting agent and to MARAD at the address in § 308.2(d).
 
-(d) *Required submissions with* -
-
-(1) *In general.* An application for insurance on a vessel described in § 308.1(b) shall be accompanied by:
+(d) *Required submissions with* - (1) *In general.* An application for insurance on a vessel described in § 308.1(b) shall be accompanied by:
 
 (i) A contract of commitment, in the form prescribed in § 308.5. In the event the vessel is determined to be ineligible under the terms of this part 308, the applicant will be so advised and the executed contract of commitment and any official foreign government action or approval will be returned to the applicant by MARAD.
 

@@ -8,8 +8,8 @@
 
 (3) Leases and other business agreements and contracts for the development of tribal energy resources under a Tribal Energy Resource Agreement entered into with the Secretary, unless specifically excluded in the lease, other business agreement, or Tribal Energy Resource Agreement;
 
-(4) Committed State or private tracts in a federally approved unit or communitization agreement defined by or established under 43 CFR subpart 3105 or 43 CFR part 3180;
+(4) Committed State or private tracts in a federally approved unit or communitization agreement defined by or established under 43 CFR part 3100, subpart 3105, or 43 CFR part 3180; and
 
-(5) All onshore wells, tanks, compressors, and other equipment located on a Federal or Indian lease or a federally approved unit or communitized area; and
+(5) All onshore well facilities located on a Federal or Indian lease or a federally approved unit or communitized area.
 
 (b) For purposes of this subpart, the term “lease” also includes IMDA agreements.
