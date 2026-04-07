@@ -14,4 +14,4 @@ Except as otherwise provided, a claimant or his or her authorized representative
 
 (d) *Date of filing.* The filing date of a supplemental claim is determined according to § 3.155, with the exception of the intent to file rule found in § 3.155(b) which applies to initial claims.
 
-(Authority: 38 U.S.C. 501, 5103A(h), 5108)\[83 FR 172, Jan. 18, 2019\]
+(Authority: 38 U.S.C. 501, 5103A(h), 5108) \[83 FR 172, Jan. 18, 2019\]
