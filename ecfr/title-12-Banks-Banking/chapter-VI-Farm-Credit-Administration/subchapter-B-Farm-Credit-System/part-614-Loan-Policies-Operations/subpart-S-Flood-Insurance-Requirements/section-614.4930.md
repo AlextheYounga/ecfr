@@ -4,7 +4,7 @@
 
 (b) *Table funded loans.* A System institution that acquires a loan from a mortgage broker or other entity through table funding shall be considered to be making a loan for the purposes of this subpart.
 
-(c) *Private flood insurance.* - (1) *Mandatory acceptance.* A System institution must accept private flood insurance, as defined in § 614.4925, in satisfaction of the flood insurance purchase requirement in paragraph (a) of this section if the policy meets the requirements for coverage in paragraph (a) of this section.
+(c) *Private flood insurance*—(1) *Mandatory acceptance.* A System institution must accept private flood insurance, as defined in § 614.4925, in satisfaction of the flood insurance purchase requirement in paragraph (a) of this section if the policy meets the requirements for coverage in paragraph (a) of this section.
 
 (2) *Compliance aid for mandatory acceptance.* A System institution may determine that a policy meets the definition of private flood insurance in § 614.4925, without further review of the policy, if the following statement is included within the policy or as an endorsement to the policy: “This policy meets the definition of private flood insurance contained in 42 U.S.C. 4012a(b)(7) and the corresponding regulation.”
 
