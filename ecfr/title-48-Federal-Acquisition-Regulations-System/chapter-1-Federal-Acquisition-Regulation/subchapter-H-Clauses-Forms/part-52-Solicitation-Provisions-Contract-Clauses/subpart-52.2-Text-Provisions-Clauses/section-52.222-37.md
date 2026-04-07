@@ -1,5 +1,7 @@
 ##### 52.222-37 Employment Reports on Veterans.
 
+Link to an amendment published at 85 FR 27096, May 6, 2020.
+
 As prescribed in 22.1310(b), insert the following clause:
 
 Employment Reports on Veterans (FEB 2016)

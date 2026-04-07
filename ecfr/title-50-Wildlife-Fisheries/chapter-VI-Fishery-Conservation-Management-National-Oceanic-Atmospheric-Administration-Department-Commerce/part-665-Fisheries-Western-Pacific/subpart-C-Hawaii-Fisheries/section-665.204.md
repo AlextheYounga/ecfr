@@ -1,5 +1,7 @@
 ##### § 665.204 Prohibitions.
 
+Link to an amendment published at 85 FR 26624, May 5, 2020.
+
 In addition to the general prohibitions specified in § 600.725 of this chapter and § 665.15, it is unlawful for any person to do any of the following:
 
 (a) Fish for Hawaii bottomfish MUS or ECS, or seamount groundfish MUS using gear prohibited under § 665.206.
