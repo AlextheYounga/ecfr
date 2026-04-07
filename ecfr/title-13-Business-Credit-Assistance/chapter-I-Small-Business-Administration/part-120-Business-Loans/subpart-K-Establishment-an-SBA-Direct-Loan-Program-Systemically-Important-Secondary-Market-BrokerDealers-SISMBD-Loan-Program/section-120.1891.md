@@ -1,3 +1,0 @@
-##### § 120.1891 What happens if an SISMBD is ineligible to receive an SISMBD Loan or an advance?
-
-If an SISMBD that has received funds from an SISMBD Loan or an advance is found to be ineligible for the loan or any advance under the loan or is found to have knowingly breached a representation, the SISMBD must immediately repay the loan in full upon demand by SBA or SBA will exercise its rights as described in § 120.1830(g).
