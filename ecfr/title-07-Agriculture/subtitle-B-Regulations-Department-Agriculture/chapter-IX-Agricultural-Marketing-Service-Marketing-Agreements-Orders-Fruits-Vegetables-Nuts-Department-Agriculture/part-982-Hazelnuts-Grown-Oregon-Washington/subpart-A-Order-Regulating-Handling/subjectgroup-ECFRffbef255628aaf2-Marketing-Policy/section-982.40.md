@@ -1,7 +1,5 @@
 ##### § 982.40 Marketing policy and volume regulation.
 
-Link to an amendment published at 83 FR 52949, Oct. 19, 2018.
-
 (a) *General.* As provided in this section, prior to September 20 of each marketing year, the Board may hold meetings for the purpose of computing its marketing policy for that year and shall do so for the purpose of submitting any recommendations on its policy to the Secretary. The Board may designate one of its employees to compute and announce the preliminary computed free and restricted percentages.
 
 (b) *Inshell trade demand.* If the Board determines that volume regulation would tend to effectuate the declared policy of the act, it shall compute and announce an inshell trade demand for that year prior to September 20. The inshell trade demand shall equal the average of the preceding three years' trade acquisitions of inshell hazelnuts: *Provided,* That the Board may increase such average by no more than 25 percent if market conditions justify such an increase. If the trade acquisitions during any or all of these years were abnormal because of crop or marketing conditions, the Board may use a prior year or years in determining the three-year average.
@@ -18,8 +16,8 @@ Link to an amendment published at 83 FR 52949, Oct. 19, 2018.
 
 Whenever the Secretary finds, on the basis of the recommendation of the Board or other available information that, to establish the interim final and final free and restricted percentages would tend to effectuate the declared policy of the act, the Secretary shall establish such percentages.
 
-(d) *Grade and size regulations.* Prior to September 20, the Board may consider grade and size regulations in effect and may recommend modifications thereof to the Secretary.
+(d) Grade, size, and quality regulations. Prior to September 20, the Board may consider grade, size, and quality regulations in effect and may recommend modifications thereof to the Secretary.
 
 (e) *Revision of marketing policy.* At any time prior to February 15 of the marketing year, the Board may recommend to the Secretary revisions in the marketing policy for that year: *Provided,* That in no event shall any such recommendation provide for free and restricted percentages based on an inshell trade demand which is more than 125 percent of the average of the preceding three years' trade acquisitions computed pursuant to paragraph (b) of this section for that marketing year. At any time during the period December 1 through February 10 at the request of two or more handlers, who during the preceding marketing year handled at least 10 percent of all hazelnuts handled, the Board shall meet to determine whether the marketing policy should be revised.
 
-\[51 FR 29548, Aug. 19, 1986, as amended at 61 FR 17560, Apr. 22, 1996\]
+\[51 FR 29548, Aug. 19, 1986, as amended at 61 FR 17560, Apr. 22, 1996; 83 FR 52949, Oct. 19, 2018\]

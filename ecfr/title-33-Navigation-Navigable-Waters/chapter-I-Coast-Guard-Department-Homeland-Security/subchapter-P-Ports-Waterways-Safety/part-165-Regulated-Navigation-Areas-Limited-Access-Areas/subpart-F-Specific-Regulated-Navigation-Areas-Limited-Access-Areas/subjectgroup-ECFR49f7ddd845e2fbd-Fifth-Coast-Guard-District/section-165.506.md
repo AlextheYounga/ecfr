@@ -1,5 +1,7 @@
 ##### § 165.506 Safety Zones; Fireworks Displays in the Fifth Coast Guard District.
 
+Link to an amendment published at 83 FR 58188, Nov. 19, 2018.
+
 (a) *Regulations.* (1) The general regulations contained in 33 CFR 165.23 apply.
 
 (2) This section applies to the fireworks safety zones listed in the Table to § 165.506. These regulations will be enforced annually, for the duration of each fireworks event listed in the Table to § 165.506. In the case of inclement weather, the event may be conducted on the day following the date listed in the Table to § 165.506. Annual notice of the exact dates and times of the enforcement period of the regulation with respect to each safety zone, the geographical area, and other details concerning the nature of the fireworks event will be published in Local Notices to Mariners and via Broadcast Notice to Mariners over VHF-FM marine band radio.

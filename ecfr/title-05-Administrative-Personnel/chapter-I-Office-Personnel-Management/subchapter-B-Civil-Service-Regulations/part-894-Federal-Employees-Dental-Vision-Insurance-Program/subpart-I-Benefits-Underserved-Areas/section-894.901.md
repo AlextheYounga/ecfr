@@ -1,4 +1,4 @@
-##### § 894.801 Will benefits be available in underserved areas?
+##### § 894.901 Will benefits be available in underserved areas?
 
 (a) Dental and vision plans under FEDVIP will include underserved areas in their service areas and provide benefits to enrollees in underserved areas.
 

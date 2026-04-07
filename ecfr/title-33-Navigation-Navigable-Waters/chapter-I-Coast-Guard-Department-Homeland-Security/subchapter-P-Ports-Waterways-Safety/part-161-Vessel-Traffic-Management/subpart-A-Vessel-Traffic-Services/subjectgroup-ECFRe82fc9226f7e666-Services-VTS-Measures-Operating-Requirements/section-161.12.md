@@ -78,4 +78,4 @@ Notes:
 
 (8) A hazardous vessel operating condition as defined in § 161.2.
 
-\[CGD 90-020, 59 FR 36324, July 15, 1994\] Editorial Note:For Federal Register citations affecting § 161.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+\[CGD 90-020, 59 FR 36324, July 15, 1994\] Editorial Note:For Federal Register citations affecting § 161.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
