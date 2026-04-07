@@ -2,9 +2,9 @@
 
 (a) *Scope.* This section provides rules for computing the basis of a controlling corporation in the stock of a controlled corporation as the result of certain reorganizations involving the stock of the controlling corporation as described in paragraph (b) of this section. The rules of this section are in addition to rules under other provisions of the Internal Revenue Code and principles of law. See, e.g., section 1001 for the recognition of gain or loss by the controlled corporation on the exchange of property for the assets or stock of a target corporation in a reorganization described in section 368. See also sections 362(e)(1) and 362(e)(2) for further adjustments to basis that may be necessary under either or both of those sections.
 
-(b) *Triangular reorganizations* - (1) *Nomenclature.* For purposes of this section -
+(b) *Triangular reorganizations*—(1) *Nomenclature.* For purposes of this section—
 
-(i) *P* is a corporation -
+(i) *P* is a corporation—
 
 (A) That is a party to a reorganization,
 
@@ -12,7 +12,7 @@
 
 (C) Whose stock is transferred pursuant to the reorganization.
 
-(ii) *S* is a corporation -
+(ii) *S* is a corporation—
 
 (A) That is a party to the reorganization, and
 
@@ -32,9 +32,9 @@
 
 (v) *Triangular G reorganization.* A triangular G reorganization is an acquisition by S (other than by statutory merger) of substantially all of T's assets in a title 11 or similar case in exchange for P stock in a transaction that qualifies as a reorganization under section 368(a)(1)(G) by reason of the application of section 368(a)(2)(D).
 
-(c) *General rules.* Subject to the special rule provided in paragraph (d) of this section, *P*'s basis in the stock of *S* or *T,* as applicable, as a result of a triangular reorganization, is adjusted under the following rules -
+(c) *General rules.* Subject to the special rule provided in paragraph (d) of this section, *P*'s basis in the stock of *S* or *T,* as applicable, as a result of a triangular reorganization, is adjusted under the following rules—
 
-(1) *Forward triangular merger or triangular C reorganization* - (i) *In general.* In a forward triangular merger or a triangular C reorganization, *P*'s basis in its *S* stock is adjusted as if -
+(1) *Forward triangular merger or triangular C reorganization*—(i) *In general.* In a forward triangular merger or a triangular C reorganization, *P*'s basis in its *S* stock is adjusted as if—
 
 (A) *P* acquired the *T* assets acquired by *S* in the reorganization (and *P* assumed any liabilities which *S* assumed or to which the *T* assets acquired by *S* were subject) directly from *T* in a transaction in which *P*'s basis in the *T* assets was determined under section 362(b); and
 
@@ -42,19 +42,19 @@
 
 (ii) *Limitation.* If, in applying section 358, the amount of *T* liabilities assumed by *S* or to which the *T* assets acquired by *S* are subject equals or exceeds *T*'s aggregate adjusted basis in its assets, the amount of the adjustment under paragraph (c)(1)(i) of this section is zero. *P* recognizes no gain under section 357(c) as a result of a triangular reorganization.
 
-(2) *Reverse triangular merger* - (i) *In general* - (A) *Treated as a forward triangular merger.* Except as otherwise provided in this paragraph (c)(2), *P*'s basis in its *T* stock acquired in a reverse triangular merger equals its basis in its *S* stock immediately before the transaction adjusted as if *T* had merged into *S* in a forward triangular merger to which paragraph (c)(1) of this section applies.
+(2) *Reverse triangular merger*—(i) *In general*—(A) *Treated as a forward triangular merger.* Except as otherwise provided in this paragraph (c)(2), *P*'s basis in its *T* stock acquired in a reverse triangular merger equals its basis in its *S* stock immediately before the transaction adjusted as if *T* had merged into *S* in a forward triangular merger to which paragraph (c)(1) of this section applies.
 
 (B) *Allocable share.* If *P* acquires less than all of the *T* stock in the transaction, the basis adjustment described in paragraph (c)(2)(i)(A) of this section is reduced in proportion to the percentage of *T* stock not acquired in the transaction. The percentage of *T* stock not acquired in the transaction is determined by taking into account the fair market value of all classes of *T* stock.
 
 (C) *Special rule if P owns T stock before the transaction.* Solely for purposes of paragraphs (c)(2)(i)(A) and (B) of this section, if *P* owns *T* stock before the transaction, *P* may treat that stock as acquired in the transaction or not, without regard to the form of the transaction.
 
-(ii) *Reverse triangular merger that qualifies as a section 351 transfer or section 368(a)(1)(B) reorganization.* Notwithstanding paragraph (c)(2)(i) of this section, if a reorganization qualifies as both a reverse triangular merger and as a section 351 transfer or as both a reverse triangular merger and a reorganization under section 368(a)(1)(B), *P* can -
+(ii) *Reverse triangular merger that qualifies as a section 351 transfer or section 368(a)(1)(B) reorganization.* Notwithstanding paragraph (c)(2)(i) of this section, if a reorganization qualifies as both a reverse triangular merger and as a section 351 transfer or as both a reverse triangular merger and a reorganization under section 368(a)(1)(B), *P* can—
 
 (A) Determine the basis in its *T* stock as if paragraph (c)(2)(i) of this section applies; or
 
 (B) Determine the basis in the *T* stock acquired as if *P* acquired such stock from the former *T* shareholders in a transaction in which *P*'s basis in the *T* stock was determined under section 362(b).
 
-(3) *Triangular B reorganization.* In a triangular B reorganization, *P*'s basis in its *S* stock is adjusted as if -
+(3) *Triangular B reorganization.* In a triangular B reorganization, *P*'s basis in its *S* stock is adjusted as if—
 
 (i) *P* acquired the *T* stock acquired by *S* in the reorganization directly from the *T* shareholders in a transaction in which *P*'s basis in the *T* stock was determined under section 362(b); and
 
@@ -88,7 +88,7 @@ Example 3. Triangular B reorganization.(a) *Facts. T* has assets with a fair mar
 
 (b) *Basis adjustment.* Under § 1.358-6(c)(3), *P* adjusts its $5 basis in its *S* stock by treating *P* as if it acquired the *T* stock acquired by *S* in the reorganization directly from the *T* shareholders in exchange for the *P* stock in a transaction in which *P*'s basis in the *T* stock was determined under section 362(b). Under section 362(b), *P* would have an aggregate basis of $85 in the *T* stock received by *S* in the reorganization. *P* is then treated as if it transferred the *T* stock to *S* in a transaction in which *P*'s basis in the *S* stock was determined under section 358. Under section 358, *P*'s basis in its *S* stock would be increased by the $85 basis in the *T* stock deemed transferred. Consequently, *P* has a $90 basis in its *S* stock as a result of the reorganization.
 
-(d) *Special rule for consideration not provided by P* - (1) *In general.* The amount of *P*'s adjustment to basis in its *S* or *T* stock, as applicable, described in paragraph (c) of this section is decreased by the fair market value of any consideration (including *P* stock in which gain or loss is recognized, see § 1.1032-2(c)) that is exchanged in the reorganization and that is not provided by *P* pursuant to the plan of reorganization. This paragraph (d) does not apply to the amount of *T* liabilities assumed by *S* or to which the *T* assets acquired by *S* are subject under paragraph (c)(1) of this section (or deemed assumed or taken subject to by *S* under paragraph (c)(2)(i) of this section).
+(d) *Special rule for consideration not provided by P*—(1) *In general.* The amount of *P*'s adjustment to basis in its *S* or *T* stock, as applicable, described in paragraph (c) of this section is decreased by the fair market value of any consideration (including *P* stock in which gain or loss is recognized, see § 1.1032-2(c)) that is exchanged in the reorganization and that is not provided by *P* pursuant to the plan of reorganization. This paragraph (d) does not apply to the amount of *T* liabilities assumed by *S* or to which the *T* assets acquired by *S* are subject under paragraph (c)(1) of this section (or deemed assumed or taken subject to by *S* under paragraph (c)(2)(i) of this section).
 
 (2) *Limitation. P* makes no adjustment to basis under this section if the decrease required under paragraph (d)(1) of this section equals or exceeds the amount of the adjustment described in paragraph (c) of this section.
 
@@ -104,19 +104,19 @@ Example.(a) *Facts.* T has assets with an aggregate basis of $60 and fair market
 
 (e) *P stock.* The facts are the same as in paragraph (a) of this *Example,* except that in the reorganization *S* provides *P* stock with a fair market value of $30 instead of $30 of cash. *S* acquired the *P* stock in an unrelated transaction several years before the reorganization. *S* has a $20 adjusted basis in the *P* stock. The basis results are the same as in paragraph (b) of this *Example.* In addition, *S* recognizes $10 of gain on its disposition of the *P* stock in the reorganization. See § 1.1032-2(c).
 
-(e) *Cross-references* - (1) *Triangular reorganizations involving members of a consolidated group.* For rules relating to stock basis adjustments made as a result of a triangular reorganization in which P and S, or P and T, as applicable, are, or become, members of a consolidated group, see § 1.1502-30. However, if a transaction is a group structure change, stock basis adjustments are determined under § 1.1502-31 and not under § 1.1502-30, even if the transaction also qualifies as a reorganization otherwise subject to § 1.1502-30.
+(e) *Cross-references*—(1) *Triangular reorganizations involving members of a consolidated group.* For rules relating to stock basis adjustments made as a result of a triangular reorganization in which P and S, or P and T, as applicable, are, or become, members of a consolidated group, see § 1.1502-30. However, if a transaction is a group structure change, stock basis adjustments are determined under § 1.1502-31 and not under § 1.1502-30, even if the transaction also qualifies as a reorganization otherwise subject to § 1.1502-30.
 
 (2) *Triangular reorganizations involving certain foreign corporations.* For rules relating to stock basis adjustments made as a result of triangular reorganizations involving certain foreign corporations, see §§ 1.367(b)-4(b), 1.367(b)-10, and 1.367(b)-13.
 
-(f) *Effective/applicability dates* - (1) *General rule.* Paragraph (e)(1) of this section shall apply to triangular reorganizations occurring on or after September 17, 2008.
+(f) *Effective/applicability dates*—(1) *General rule.* Except as otherwise provided in this paragraph (f), this section applies to triangular reorganizations occurring on or after December 23, 1994.
 
-(2) *Special rule for reverse triangular mergers.* For a reverse triangular merger occurring before December 23, 1994, *P* may -
+(2) *Special rule for reverse triangular mergers.* For a reverse triangular merger occurring before December 23, 1994, *P* may—
 
 (i) Determine the basis in its *T* stock as if paragraph (c)(2)(i) of this section applied; or
 
 (ii) Determine the basis in its *T* stock acquired as if *P* acquired such stock from the former *T* shareholders in a transaction in which *P*'s basis in the *T* stock was determined under section 362(b).
 
-(3) *Triangular G reorganization and special rule for triangular reorganizations involving members of a consolidated group.* Paragraphs (b)(2)(v) and (e) of this section shall apply to triangular reorganizations occurring on or after September 17, 2008. However, taxpayers may apply paragraph (b)(2)(v) of this section to triangular reorganizations occurring before September 17, 2008 and on or after December 23, 1994.
+(3) *Triangular G reorganization and special rule for triangular reorganizations involving members of a consolidated group.* Paragraph (e)(1) of this section shall apply to triangular reorganizations occurring on or after September 17, 2008. However, taxpayers may apply paragraph (b)(2)(v) of this section to triangular reorganizations occurring before September 17, 2008 and on or after December 23, 1994.
 
 (4) *Triangular reorganizations involving importation property acquired in loss importation transaction or loss duplication transaction; triangular reorganizations involving certain foreign corporations.* Paragraphs (a) and (e)(2) of this section apply to triangular reorganizations occurring after October 22, 2004 unless effected to a binding agreement that was in effect prior to that date and at all times thereafter.
 

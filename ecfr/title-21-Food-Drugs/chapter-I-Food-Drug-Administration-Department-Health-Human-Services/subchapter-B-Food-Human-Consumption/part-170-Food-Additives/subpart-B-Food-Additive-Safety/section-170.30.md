@@ -14,6 +14,8 @@
 
 (f) \[Reserved\]
 
+(g) A food ingredient that is not GRAS or subject to a prior sanction requires a food additive regulation promulgated under section 409 of the act before it may be directly or indirectly added to food.
+
 (h) A food ingredient that is listed as GRAS in part 182 of this chapter or affirmed as GRAS in part 184 or part 186 of this chapter shall be regarded as GRAS only if, in addition to all the requirements in the applicable regulation, it also meets all of the following requirements:
 
 (1) It complies with any applicable food grade specifications of the Food Chemicals Codex, 2d Ed. (1972), or, if specifically indicated in the GRAS affirmation regulation, the Food Chemicals Codex, 3d Ed. (1981), which are incorporated by reference, except that any substance used as a component of articles that contact food and affirmed as GRAS in part 186 of this chapter shall comply with the specifications therein, or in the absence of such specifications, shall be of a purity suitable for its intended use. Copies may be obtained from the National Academy Press, 2101 Constitution Ave. NW., Washington, DC 20418, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*

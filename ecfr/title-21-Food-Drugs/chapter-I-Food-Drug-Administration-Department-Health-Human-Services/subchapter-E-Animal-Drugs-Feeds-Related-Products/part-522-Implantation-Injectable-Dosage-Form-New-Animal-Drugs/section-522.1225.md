@@ -10,13 +10,13 @@
 
 (c) *Related tolerances.* See § 556.345 of this chapter.
 
-(d) *Conditions of use* - (1) *Horses* - *(i) Amount.* Administer by intravenous injection 1.0 mg per pound (/lb) of body weight once daily for up to 5 days.
+(d) *Conditions of use*—(1) *Horses*—(i) *Amount.* Administer by intravenous injection 1.0 mg per pound (/lb) of body weight once daily for up to 5 days.
 
 (ii) *Indications for use.* For alleviation of inflammation and pain associated with musculoskeletal disorders in horses.
 
 (iii) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(2) *Cattle* - (i) *Amount.* Administer by subcutaneous injection 3 mg per kilogram (1.36 mg/lb) of body weight once daily for up to 3 days.
+(2) *Cattle*—(i) *Amount.* Administer by subcutaneous injection 3 mg per kilogram (1.36 mg/lb) of body weight once daily for up to 3 days.
 
 (ii) *Indications for use.* For the control of pyrexia associated with bovine respiratory disease (BRD) in beef heifers, beef steers, beef calves 2 months of age and older, beef bulls, replacement dairy heifers, and dairy bulls.
 
