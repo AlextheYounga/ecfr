@@ -1,6 +1,6 @@
 ##### § 180.494 Pyridaben; tolerance for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide pyridaben, including its metabolites and degradates, in or on the commodities as indicated in the following table. Compliance with the tolerance levels specified below for plant commodities is to be determined by measuring the insecticide pyridaben \[2-tert-butyl-5-(4-tert-butylbenzylthio)-4-chloropyridazin-3(2*H*)-one\] on the plant commodity. Compliance with the tolerance levels specified below for animal commodities is to be determined by measuring the insecticide pyridaben and its metabolites, \[2-tert-butyl-5-(4-(1-carboxy-1-methylethy 1) benzylthio)-4-chloropyridazin-3 (2*H*)one\] and \[2-tert-butyl-5-\[4(-1, l-dimethyl-2-hydroxyethyl)benzylthio-4-chloropyridazin-3(2*H*)one\] on the animal commodity.
+(a) *General.* Tolerances are established for residues of the insecticide pyridaben, including its metabolites and degradates, in or on the commodities as indicated in the following table. Compliance with the tolerance levels specified below for plant commodities is to be determined by measuring the insecticide pyridaben \[2-tert-butyl-5-(4-tert-butylbenzylthio)-4-chloropyridazin-3(2*H*)-one\] on the plant commodity. Compliance with the tolerance levels specified below for animal commodities is to be determined by measuring the insecticide pyridaben and its metabolites, \[2-tert-butyl-5-(4-(1-carboxy-1-methylethy 1) benzylthio)-4-chloropyridazin-3 (2*H*)one\] and \[2-tert-butyl-5-\[4(-1, l-dimethyl-2-hydroxyethyl)benzylthio-4-chloropyridazin-3(2*H*)one\] on the animal commodity. 
 
 | Commodity                                                            | Parts per   million |
 | -------------------------------------------------------------------- | ------------------- |
@@ -41,14 +41,14 @@
 | Star apple                                                           | 0.10                |
 | Tomato                                                               | 0.15                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(m) are established for residues of the insecticide pyridaben, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring the insecticide pyridaben \[2-tert-butyl-5-(4-tert-butylbenzylthio)-4-chloropyridazin-3(2*H*)-one\] on the following plant commodity.
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(m) are established for residues of the insecticide pyridaben, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring the insecticide pyridaben \[2-tert-butyl-5-(4-tert-butylbenzylthio)-4-chloropyridazin-3(2*H*)-one\] on the following plant commodity. 
 
 | Commodity | Parts per   million |
 | --------- | ------------------- |
 | Cranberry | 0.5                 |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[65 FR 43712, July 14, 2000, as amended at 66 FR 33199, June 21, 2001; 70 FR 55769, Sept. 23, 2005; 76 FR 56015, Sept. 15, 2010; 81 FR 70979, Oct. 14, 2016\]

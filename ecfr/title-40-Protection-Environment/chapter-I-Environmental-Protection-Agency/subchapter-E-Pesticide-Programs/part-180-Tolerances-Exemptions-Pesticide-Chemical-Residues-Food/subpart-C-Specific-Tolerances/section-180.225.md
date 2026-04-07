@@ -1,6 +1,6 @@
 ##### § 180.225 Phosphine; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of phosphine in or on the following raw agricultural commodities (RACs) resulting from post-harvest fumigation for the control of insects with phosphine gas or phosphide compounds that produce phosphine gas.
+(a) *General.* (1) Tolerances are established for residues of phosphine in or on the following raw agricultural commodities (RACs) resulting from post-harvest fumigation for the control of insects with phosphine gas or phosphide compounds that produce phosphine gas. 
 
 | Commodity                                  | Parts per million |
 | ------------------------------------------ | ----------------- |
@@ -56,30 +56,30 @@
 | Walnut                                     | 0.1               |
 | Wheat, grain                               | 0.1               |
 
-(2) Tolerances are established for residues of the fumigant in or on all RACs resulting from preharvest treatment of pest burrows in agricultural and non-crop land areas.
+(2) Tolerances are established for residues of the fumigant in or on all RACs resulting from preharvest treatment of pest burrows in agricultural and non-crop land areas. 
 
 | Commodity                                                                            | Parts per million |
 | ------------------------------------------------------------------------------------ | ----------------- |
 | All raw agricultural commodities resulting from preharvest treatment of pest burrows | 0.01              |
 
-(3) Residues resulting from fumigation of processed food:
+(3) Residues resulting from fumigation of processed food: 
 
 | Commodity      | Parts per million |
 | -------------- | ----------------- |
 | Processed food | 0.01              |
 
-(4) *Residues resulting from fumigation of animal feed*:
+(4) *Residues resulting from fumigation of animal feed*: 
 
 | Commodity   | Parts per million |
 | ----------- | ----------------- |
 | Animal feed | 0.1               |
 
-(5) To assure safe use of this pesticide, it must be used in compliance with the labeling conforming to that registered by the U.S. Environmental Protection Agency (EPA) under FIFRA. Labeling shall bear a restriction to aerate the finished food/feed for 48 hours before it is offered to the consumer, unless EPA specifically determines that a different time period is appropriate. Where appropriate, a warning shall state that under no condition should any formulation containing aluminum or magnesium phosphide be used so that it will come in contact with any processed food, except processed brewer's rice, malt, and corn grits stored in breweries for use in the manufacture of beer.
+(5) To assure safe use of this pesticide, it must be used in compliance with the labeling conforming to that registered by the U.S. Environmental Protection Agency (EPA) under FIFRA. Labeling shall bear a restriction to aerate the finished food/feed for 48 hours before it is offered to the consumer, unless EPA specifically determines that a different time period is appropriate. Where appropriate, a warning shall state that under no condition should any formulation containing aluminum or magnesium phosphide be used so that it will come in contact with any processed food, except processed brewer's rice, malt, and corn grits stored in breweries for use in the manufacture of beer. 
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertant residues.* \[Reserved\]
+(d) *Indirect or inadvertant residues.* \[Reserved\] 
 
 \[64 FR 72950, Dec. 29, 1999, as amended at 71 FR 74816, Dec. 13, 2006; 72 FR 41929, Aug. 1, 2007; 74 FR 46372, Sept. 9, 2009\]

@@ -1,6 +1,6 @@
 ##### § 180.608 Spirodiclofen; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of spirodiclofen, including its metabolites and degradates, in or on the commodities listed below. Compliance with the following tolerance levels is to be determined by measuring only spirodiclofen (3-(2,4-dichlorophenyl)-2-oxo-1-oxaspiro\[4.5\]dec-3-en-4-yl 2,2-dimethylbutanoate).
+(a) *General.* (1) Tolerances are established for residues of spirodiclofen, including its metabolites and degradates, in or on the commodities listed below. Compliance with the following tolerance levels is to be determined by measuring only spirodiclofen (3-(2,4-dichlorophenyl)-2-oxo-1-oxaspiro\[4.5\]dec-3-en-4-yl 2,2-dimethylbutanoate). 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -25,7 +25,7 @@
 | Sapodilla               | 1.0               |
 | Star apple              | 1.0               |
 
-(2) Tolerances are established for residues of spirodiclofen, including its metabolites and degradates, in or on the commodities listed below. Compliance with the following tolerance levels is to be determined by measuring only spirodiclofen (3-(2,4-dichlorophenyl)-2-oxo-1-oxaspiro\[4.5\]dec-3-en-4-yl 2,2-dimethylbutanoate) and its metabolite 3-(2,4-dichlorophenyl)-4-hydroxy-1-oxaspiro\[4,5\] dec-3-en-2-one, calculated as the stoichiometric equivalent of spirodiclofen.
+(2) Tolerances are established for residues of spirodiclofen, including its metabolites and degradates, in or on the commodities listed below. Compliance with the following tolerance levels is to be determined by measuring only spirodiclofen (3-(2,4-dichlorophenyl)-2-oxo-1-oxaspiro\[4.5\]dec-3-en-4-yl 2,2-dimethylbutanoate) and its metabolite 3-(2,4-dichlorophenyl)-4-hydroxy-1-oxaspiro\[4,5\] dec-3-en-2-one, calculated as the stoichiometric equivalent of spirodiclofen. 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -44,10 +44,10 @@
 | Sheep. meat byproducts  | 0.1               |
 | Sheep. meat             | 0.02              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[70 FR 40211, July 13, 2005, as amended at 73 FR 25539, May 7, 2008; 75 FR 24434, May 5, 2010; 77 FR 73939, Dec. 12, 2012; 79 FR 33464, June 11, 2014\]

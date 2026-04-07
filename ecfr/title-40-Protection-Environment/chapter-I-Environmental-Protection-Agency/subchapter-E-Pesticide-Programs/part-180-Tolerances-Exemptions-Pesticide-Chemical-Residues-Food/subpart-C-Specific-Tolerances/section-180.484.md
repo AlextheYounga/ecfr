@@ -1,6 +1,6 @@
 ##### § 180.484 Flutolanil; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of flutolanil, *N*-(3-(1-methylethoxy) phenyl)-2-(trifluoromethyl)benzamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only flutolanil and its metabolites converted to 2-(trifluoromethyl) benzoic acid and calculated as flutolanil, in or on the following commodities:
+(a) *General.* Tolerances are established for residues of flutolanil, *N*-(3-(1-methylethoxy) phenyl)-2-(trifluoromethyl)benzamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only flutolanil and its metabolites converted to 2-(trifluoromethyl) benzoic acid and calculated as flutolanil, in or on the following commodities: 
 
 | Commodity                           | Parts per million |
 | ----------------------------------- | ----------------- |
@@ -50,11 +50,11 @@
 | Turnip, greens                      | 0.1               |
 | Vegetable, brassica, leafy, group 5 | 0.1               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of flutolanil, *N*-(3-(1-methylethoxy)phenyl)-2-(trifluoromethyl)benzamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only flutolanil and its metabolites converted to 2-(trifluoromethyl) benzoic acid and calculated as flutolanil, in or on the following commodities.
+(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of flutolanil, *N*-(3-(1-methylethoxy)phenyl)-2-(trifluoromethyl)benzamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only flutolanil and its metabolites converted to 2-(trifluoromethyl) benzoic acid and calculated as flutolanil, in or on the following commodities. 
 
 | Commodity     | Parts per million |
 | ------------- | ----------------- |

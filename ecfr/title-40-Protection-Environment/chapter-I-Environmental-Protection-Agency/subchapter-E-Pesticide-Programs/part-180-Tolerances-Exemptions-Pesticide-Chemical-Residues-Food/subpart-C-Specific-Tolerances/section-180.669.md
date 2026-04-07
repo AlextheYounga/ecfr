@@ -1,6 +1,6 @@
 ##### § 180.669 Picoxystrobin; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide picoxystrobin, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only picoxystrobin, methyl (α*E*)-α-(methoxymethylene)-2-\[\[\[6-(trifluoromethyl)-2-pyridinyl\]oxy\]methyl\]benzeneacetate.
+(a) *General.* Tolerances are established for residues of the fungicide picoxystrobin, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only picoxystrobin, methyl (α*E*)-α-(methoxymethylene)-2-\[\[\[6-(trifluoromethyl)-2-pyridinyl\]oxy\]methyl\]benzeneacetate. 
 
 | Commodity                                                  | Parts per   million |
 | ---------------------------------------------------------- | ------------------- |
@@ -80,10 +80,10 @@
 | Wheat, bran                                                | 0.06                |
 | Wheat, germ                                                | 0.09                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[77 FR 72231, Dec. 5, 2012, as amended at 83 FR 39610, Aug. 10, 2018\]

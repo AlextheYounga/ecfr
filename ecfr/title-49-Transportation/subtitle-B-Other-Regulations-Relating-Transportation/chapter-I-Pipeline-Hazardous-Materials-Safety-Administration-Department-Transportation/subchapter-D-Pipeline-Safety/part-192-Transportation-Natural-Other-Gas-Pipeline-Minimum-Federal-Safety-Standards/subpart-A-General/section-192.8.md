@@ -1,34 +1,34 @@
 ##### § 192.8 How are onshore gathering pipelines and regulated onshore gathering pipelines determined?
 
-(a) An operator must use API RP 80 (incorporated by reference, see § 192.7), to determine if an onshore pipeline (or part of a connected series of pipelines) is an onshore gathering line. The determination is subject to the limitations listed below. After making this determination, an operator must determine if the onshore gathering line is a regulated onshore gathering line under paragraph (b) of this section. 
+(a) An operator must use API RP 80 (incorporated by reference, see § 192.7), to determine if an onshore pipeline (or part of a connected series of pipelines) is an onshore gathering line. The determination is subject to the limitations listed below. After making this determination, an operator must determine if the onshore gathering line is a regulated onshore gathering line under paragraph (b) of this section.
 
-(1) The beginning of gathering, under section 2.2(a)(1) of API RP 80, may not extend beyond the furthermost downstream point in a production operation as defined in section 2.3 of API RP 80. This furthermost downstream point does not include equipment that can be used in either production or transportation, such as separators or dehydrators, unless that equipment is involved in the processes of “production and preparation for transportation or delivery of hydrocarbon gas” within the meaning of “production operation.” 
+(1) The beginning of gathering, under section 2.2(a)(1) of API RP 80, may not extend beyond the furthermost downstream point in a production operation as defined in section 2.3 of API RP 80. This furthermost downstream point does not include equipment that can be used in either production or transportation, such as separators or dehydrators, unless that equipment is involved in the processes of “production and preparation for transportation or delivery of hydrocarbon gas” within the meaning of “production operation.”
 
-(2) The endpoint of gathering, under section 2.2(a)(1)(A) of API RP 80, may not extend beyond the first downstream natural gas processing plant, unless the operator can demonstrate, using sound engineering principles, that gathering extends to a further downstream plant. 
+(2) The endpoint of gathering, under section 2.2(a)(1)(A) of API RP 80, may not extend beyond the first downstream natural gas processing plant, unless the operator can demonstrate, using sound engineering principles, that gathering extends to a further downstream plant.
 
-(3) If the endpoint of gathering, under section 2.2(a)(1)(C) of API RP 80, is determined by the commingling of gas from separate production fields, the fields may not be more than 50 miles from each other, unless the Administrator finds a longer separation distance is justified in a particular case (see 49 CFR § 190.9). 
+(3) If the endpoint of gathering, under section 2.2(a)(1)(C) of API RP 80, is determined by the commingling of gas from separate production fields, the fields may not be more than 50 miles from each other, unless the Administrator finds a longer separation distance is justified in a particular case (see 49 CFR § 190.9).
 
-(4) The endpoint of gathering, under section 2.2(a)(1)(D) of API RP 80, may not extend beyond the furthermost downstream compressor used to increase gathering line pressure for delivery to another pipeline. 
+(4) The endpoint of gathering, under section 2.2(a)(1)(D) of API RP 80, may not extend beyond the furthermost downstream compressor used to increase gathering line pressure for delivery to another pipeline.
 
-(5) For new, replaced, relocated, or otherwise changed gas gathering pipelines installed after May 16, 2022, the endpoint of gathering under sections 2.2(a)(1)(E) and 2.2.1.2.6 of API RP 80 (incorporated by reference, *see* § 192.7)—also known as “incidental gathering”—may not be used if the pipeline terminates 10 or more miles downstream from the furthermost downstream endpoint as defined in paragraphs 2.2(a)(1)(A) through (a)(1)(D) of API RP 80 (incorporated by reference, *see* § 192.7) and this section. If an “incidental gathering” pipeline is 10 miles or more in length, the entire portion of the pipeline that is designated as an incidental gathering line under 2.2(a)(1)(E) and 2.2.1.2.6 of API RP 80 shall be classified as a transmission pipeline subject to all applicable regulations in this chapter for transmission pipelines. 
+(5) For new, replaced, relocated, or otherwise changed gas gathering pipelines installed after May 16, 2022, the endpoint of gathering under sections 2.2(a)(1)(E) and 2.2.1.2.6 of API RP 80 (incorporated by reference, *see* § 192.7)—also known as “incidental gathering”—may not be used if the pipeline terminates 10 or more miles downstream from the furthermost downstream endpoint as defined in paragraphs 2.2(a)(1)(A) through (a)(1)(D) of API RP 80 (incorporated by reference, *see* § 192.7) and this section. If an “incidental gathering” pipeline is 10 miles or more in length, the entire portion of the pipeline that is designated as an incidental gathering line under 2.2(a)(1)(E) and 2.2.1.2.6 of API RP 80 shall be classified as a transmission pipeline subject to all applicable regulations in this chapter for transmission pipelines.
 
-(b) Each operator must determine and maintain for the life of the pipeline records documenting the methodology by which it calculated the beginning and end points of each onshore gathering pipeline it operates, as described in the second column of table 1 to paragraph (c)(2) of this section, by: 
+(b) Each operator must determine and maintain for the life of the pipeline records documenting the methodology by which it calculated the beginning and end points of each onshore gathering pipeline it operates, as described in the second column of table 1 to paragraph (c)(2) of this section, by:
 
-(1) November 16, 2022, or before the pipeline is placed into operation, whichever is later; or 
+(1) November 16, 2022, or before the pipeline is placed into operation, whichever is later; or
 
-(2) An alternative deadline approved by the Pipeline and Hazardous Materials Safety Administration (PHMSA). The operator must notify PHMSA and State or local pipeline safety authorities, as applicable, no later than 90 days in advance of the deadline in paragraph (b)(1) of this section. The notification must be made in accordance with § 192.18 and must include the following information: 
+(2) An alternative deadline approved by the Pipeline and Hazardous Materials Safety Administration (PHMSA). The operator must notify PHMSA and State or local pipeline safety authorities, as applicable, no later than 90 days in advance of the deadline in paragraph (b)(1) of this section. The notification must be made in accordance with § 192.18 and must include the following information:
 
-(i) Description of the affected facilities and operating environment; 
+(i) Description of the affected facilities and operating environment;
 
-(ii) Justification for an alternative compliance deadline; and 
+(ii) Justification for an alternative compliance deadline; and
 
-(iii) Proposed alternative deadline. 
+(iii) Proposed alternative deadline.
 
-(c) For purposes of part 191 of this chapter and § 192.9, the term “regulated onshore gathering pipeline” means: 
+(c) For purposes of part 191 of this chapter and § 192.9, the term “regulated onshore gathering pipeline” means:
 
-(1) Each Type A, Type B, or Type C onshore gathering pipeline (or segment of onshore gathering pipeline) with a feature described in the second column of table 1 to paragraph (c)(2) of this section that lies in an area described in the third column; and 
+(1) Each Type A, Type B, or Type C onshore gathering pipeline (or segment of onshore gathering pipeline) with a feature described in the second column of table 1 to paragraph (c)(2) of this section that lies in an area described in the third column; and
 
-(2) As applicable, additional lengths of pipeline described in the fourth column to provide a safety buffer: 
+(2) As applicable, additional lengths of pipeline described in the fourth column to provide a safety buffer:
 
 Table 1 to Paragraph (c)(2)
 | Type | Feature                                                                                                                                                                                                                                                                                                                              | Area                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Additional safety buffer                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -40,12 +40,12 @@ Table 1 to Paragraph (c)(2)
 | C    | Outside diameter greater than or equal to 8.625 inches and any of the following:   —Metallic and the MAOP produces a hoop stress of 20 percent or more of SMYS;   —If the stress level is unknown, segment is metallic and the MAOP is more than 125 psig (862 kPa); or   —Non-metallic and the MAOP is more than 125 psig (862 kPa) | Class 1 location                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | None.                                                                                                                                                                                                                                                                                                                                                                                                              |
 | R    | —All other onshore gathering lines                                                                                                                                                                                                                                                                                                   | Class 1 and Class 2 locations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | None.                                                                                                                                                                                                                                                                                                                                                                                                              |
 
-(3) A Type R gathering line is subject to reporting requirements under part 191 of this chapter but is not a regulated onshore gathering line under this part. 
+(3) A Type R gathering line is subject to reporting requirements under part 191 of this chapter but is not a regulated onshore gathering line under this part.
 
-(4) For the purpose of identifying Type C lines in table 1 to paragraph (c)(2) of this section, if an operator has not calculated MAOP consistent with the methods at § 192.619(a) or (c)(1), the operator must either: 
+(4) For the purpose of identifying Type C lines in table 1 to paragraph (c)(2) of this section, if an operator has not calculated MAOP consistent with the methods at § 192.619(a) or (c)(1), the operator must either:
 
-(i) Calculate MAOP consistent with the methods at § 192.619(a) or (c)(1); or 
+(i) Calculate MAOP consistent with the methods at § 192.619(a) or (c)(1); or
 
-(ii) Use as a substitute for MAOP the highest operating pressure to which the segment was subjected during the preceding 5 operating years. 
+(ii) Use as a substitute for MAOP the highest operating pressure to which the segment was subjected during the preceding 5 operating years.
 
 \[Amdt. 192-102, 71 FR 13302, Mar. 15, 2006, as amended by Amdt. 192-129, 86 FR 63295, Nov. 15, 2021; Amdt. 192-131, 87 FR 26299, May 4, 2022\]

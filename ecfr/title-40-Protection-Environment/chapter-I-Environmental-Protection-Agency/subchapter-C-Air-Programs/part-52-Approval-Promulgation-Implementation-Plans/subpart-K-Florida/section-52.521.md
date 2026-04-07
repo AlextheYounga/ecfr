@@ -1,6 +1,6 @@
 ##### § 52.521 Classification of regions.
 
-The Florida plan was evaluated on the basis of the following classifications:
+The Florida plan was evaluated on the basis of the following classifications: 
 
 | Air quality control region                                                       | Pollutant |
 | -------------------------------------------------------------------------------- | --------- |

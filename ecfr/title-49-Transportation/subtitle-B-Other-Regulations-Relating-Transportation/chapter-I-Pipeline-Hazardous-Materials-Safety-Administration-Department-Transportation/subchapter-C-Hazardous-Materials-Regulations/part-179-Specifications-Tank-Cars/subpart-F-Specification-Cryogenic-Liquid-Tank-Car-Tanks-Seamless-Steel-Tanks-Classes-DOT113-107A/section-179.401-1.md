@@ -1,6 +1,6 @@
 ##### § 179.401-1 Individual specification requirements.
 
-In addition to § 179.400, the individual specification requirements for the inner tank and its appurtenances are as follows: 
+In addition to § 179.400, the individual specification requirements for the inner tank and its appurtenances are as follows:
 
 | DOT specification                                                          | 113A60W        | 113C120W        |
 | -------------------------------------------------------------------------- | -------------- | --------------- |
@@ -11,8 +11,8 @@ In addition to § 179.400, the individual specification requirements for the inn
 | Standard heat transfer rate.                                               |                |                 |
 | (Btu per day per lb. of water capacity, max.) (see § 179.400-4)            | 0.097          | 0.4121.         |
 | Bursting pressure, min. psig                                               | 240            | 300.            |
-| Minimum plate thickness shell, inches (see § 179.400-7(a))                 | 3/16           | 3/16.           |
-| Minimum head thickness, inches (see § 179.400-8 (a), (b), and (c))         | 3/16           | 3/16.           |
+| Minimum plate thickness shell, inches (see § 179.400-7(a))                 | 3⁄16           | 3⁄16.           |
+| Minimum head thickness, inches (see § 179.400-8 (a), (b), and (c))         | 3⁄16           | 3⁄16.           |
 | Test pressure, psig (see § 179.400-16)                                     | 60             | 120.            |
 | Safety vent bursting pressure, max. psig                                   | 60             | 120.            |
 | Pressure relief valve start-to-discharge pressure, psig (±3 psi)           | 30             | 75.             |

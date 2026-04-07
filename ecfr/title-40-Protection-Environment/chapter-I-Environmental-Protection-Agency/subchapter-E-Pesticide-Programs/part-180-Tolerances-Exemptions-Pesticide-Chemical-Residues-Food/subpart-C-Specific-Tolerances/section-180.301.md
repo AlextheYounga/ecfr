@@ -1,6 +1,6 @@
 ##### § 180.301 Carboxin; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the fungicide carboxin (5,6-dihydro-2-methyl-1,4-oxathiin-3-carboxanilide) and its metabolites determined as aniline and expressed as parent compound, in or on food commodities as follows:
+(a) *General.* Tolerances are established for the combined residues of the fungicide carboxin (5,6-dihydro-2-methyl-1,4-oxathiin-3-carboxanilide) and its metabolites determined as aniline and expressed as parent compound, in or on food commodities as follows: 
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -51,10 +51,10 @@
 | Wheat, grain                                    | 0.2               |
 | Wheat, straw                                    | 0.2               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[47 FR 55222, Dec. 8, 1982, as amended at 50 FR 81, Jan. 2, 1985; 62 FR 4915, Feb. 3, 1997; 63 FR 4586, Jan. 30, 1998; 64 FR 11801, Mar. 10, 1999; 66 FR 9773, Feb. 12, 2001; 66 FR 64773, Dec. 14, 2001; 67 FR 40218, June 12, 2002; 67 FR 72853, Dec. 9, 2002; 71 FR 56383, Sept. 27, 2006; 80 FR 72598, Nov. 20, 2015\]

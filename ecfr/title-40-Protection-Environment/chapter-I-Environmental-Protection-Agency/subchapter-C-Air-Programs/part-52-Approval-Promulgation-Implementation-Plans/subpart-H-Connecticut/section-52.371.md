@@ -1,6 +1,6 @@
 ##### § 52.371 Classification of regions.
 
-The Connecticut plan was evaluated on the basis of the following classifications:
+The Connecticut plan was evaluated on the basis of the following classifications: 
 
 | Air quality control region                 | Pollutant |
 | ------------------------------------------ | --------- |

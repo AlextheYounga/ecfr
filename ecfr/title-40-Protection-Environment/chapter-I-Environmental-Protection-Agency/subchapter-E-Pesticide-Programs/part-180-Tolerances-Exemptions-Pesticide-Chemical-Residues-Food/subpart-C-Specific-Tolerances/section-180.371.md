@@ -1,6 +1,6 @@
 ##### § 180.371 Thiophanate-methyl; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of thiophanate-methyl, dimethyl ((1,2-phenylene) bis (iminocarbonothioyl)) bis(carbamate), including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of thiophanate-methyl, dimethyl ((1,2-phenylene) bis (iminocarbonothioyl)) bis(carbamate), and its metabolite, methyl 2-benzimidazoyl carbamate (MBC), calculated as the stoichiometric equivalent of thiophanate-methyl, in or on the commodity.
+(a) *General.* Tolerances are established for residues of thiophanate-methyl, dimethyl ((1,2-phenylene) bis (iminocarbonothioyl)) bis(carbamate), including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of thiophanate-methyl, dimethyl ((1,2-phenylene) bis (iminocarbonothioyl)) bis(carbamate), and its metabolite, methyl 2-benzimidazoyl carbamate (MBC), calculated as the stoichiometric equivalent of thiophanate-methyl, in or on the commodity. 
 
 | Commodity                    | Parts per million |
 | ---------------------------- | ----------------- |
@@ -35,14 +35,14 @@
 | Wheat, hay                   | 0.1               |
 | Wheat, straw                 | 0.1               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* A tolerance with a regional registration is established for residues of thiophanate-methyl, dimethyl ((1,2-phenylene) bis(iminocarbonothioyl)) bis(carbamate), including its metabolites and degradates, in or on the commodity in the following table. Compliance with the tolerance level specified in this paragraph is to be determined by measuring only the sum of thiophanate-methyl, dimethyl ((1,2-phenylene) bis (iminocarbonothioyl)) bis(carbamate), and its metabolite, methyl 2-benzimidazoyl carbamate (MBC), calculated as the stoichiometric equivalent of thiophanate-methyl, in or on the commodity.
+(c) *Tolerances with regional registrations.* A tolerance with a regional registration is established for residues of thiophanate-methyl, dimethyl ((1,2-phenylene) bis(iminocarbonothioyl)) bis(carbamate), including its metabolites and degradates, in or on the commodity in the following table. Compliance with the tolerance level specified in this paragraph is to be determined by measuring only the sum of thiophanate-methyl, dimethyl ((1,2-phenylene) bis (iminocarbonothioyl)) bis(carbamate), and its metabolite, methyl 2-benzimidazoyl carbamate (MBC), calculated as the stoichiometric equivalent of thiophanate-methyl, in or on the commodity. 
 
 | Commodity    | Parts per million |
 | ------------ | ----------------- |
 | Canola, seed | 0.1               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[75 FR 60244, Sept. 29, 2010\]

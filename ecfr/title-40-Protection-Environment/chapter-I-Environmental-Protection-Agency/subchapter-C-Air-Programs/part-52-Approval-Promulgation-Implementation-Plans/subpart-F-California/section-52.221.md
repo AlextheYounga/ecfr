@@ -1,6 +1,6 @@
 ##### § 52.221 Classification of regions.
 
-The California plan was evaluated on the basis of the following classifications:
+The California plan was evaluated on the basis of the following classifications: 
 
 Table 1 to § 52.221
 | Air quality control region          | Pollutant |

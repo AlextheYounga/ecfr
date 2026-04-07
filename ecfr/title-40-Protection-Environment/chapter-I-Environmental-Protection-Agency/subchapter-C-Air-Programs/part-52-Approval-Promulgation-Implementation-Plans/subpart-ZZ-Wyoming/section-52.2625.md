@@ -1,6 +1,6 @@
 ##### § 52.2625 Compliance schedules.
 
-(a) The compliance schedules for the sources identified below are approved as meeting the requirements of Subpart N of this chapter. All regulations cited are found in the “Wyoming Air Quality Standards and Regulations, 1975.”
+(a) The compliance schedules for the sources identified below are approved as meeting the requirements of Subpart N of this chapter. All regulations cited are found in the “Wyoming Air Quality Standards and Regulations, 1975.” 
 
 Wyoming
 | Source                           | Location        | Regulations involved  | Date of adoption | Effective date | Final compliance date |

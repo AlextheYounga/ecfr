@@ -1,6 +1,6 @@
 ##### 552.215-70 Examination of Records by GSA.
 
-As prescribed in 515.209-70(a), insert the following clause: 
+As prescribed in 515.209-70(a), insert the following clause:
 
 Examination of Records by GSA (JUN 2016)
 

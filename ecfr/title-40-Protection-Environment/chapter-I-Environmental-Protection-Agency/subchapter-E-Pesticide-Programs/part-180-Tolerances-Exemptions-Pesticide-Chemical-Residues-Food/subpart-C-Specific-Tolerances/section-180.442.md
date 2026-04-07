@@ -1,10 +1,10 @@
 ##### § 180.442 Bifenthrin; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide bifenthrin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only bifenthrin, (2-methyl \[1,1′-biphenyl\]-3-yl) methyl-3-(2-chloro-3,3,3,-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylate.
+(a) *General.* (1) Tolerances are established for residues of the insecticide bifenthrin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only bifenthrin, (2-methyl \[1,1′-biphenyl\]-3-yl) methyl-3-(2-chloro-3,3,3,-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylate. 
 
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
-| Almond, hulls1                                                       | 2.0               |
+| Almond, hulls                                                        | 2.0               |
 | Apple, wet pomace                                                    | 1.5               |
 | Artichoke, globe                                                     | 1.0               |
 | Avocado                                                              | 0.5               |
@@ -82,25 +82,25 @@
 | 1 There are no U.S. registrations.                                   |                   |
 | 2 This tolerance expires on June 1, 2022.                            |                   |
 
-(2) A tolerance of 0.05 ppm is established for residues of the insecticide bifenthrin, (2-methyl\[1,1′-biphenyl\]-3-yl)methyl-3-(2-chloro-3,3,3-trifluoro-1-propenyl)-2,2-dimethylcyclopropane-carboxylate, as follows:
+(2) A tolerance of 0.05 ppm is established for residues of the insecticide bifenthrin, (2-methyl\[1,1′-biphenyl\]-3-yl)methyl-3-(2-chloro-3,3,3-trifluoro-1-propenyl)-2,2-dimethylcyclopropane-carboxylate, as follows: 
 
-(i) In or on all food/feed items (other than those covered by a higher tolerance as a result of use on growing crops) in food/feed handling establishments.
+(i) In or on all food/feed items (other than those covered by a higher tolerance as a result of use on growing crops) in food/feed handling establishments. 
 
-(ii) The insecticide may be present as a residue from application of bifenthrin in food handling establishments, including food service, manufacturing and processing establishments, such as restaurants, cafeterias, supermarkets, bakeries, breweries, dairies, meat slaughtering and packing plants, and canneries, feed handling establishments including feed manufacturing and processing establishments, in accordance with the following prescribed conditions:
+(ii) The insecticide may be present as a residue from application of bifenthrin in food handling establishments, including food service, manufacturing and processing establishments, such as restaurants, cafeterias, supermarkets, bakeries, breweries, dairies, meat slaughtering and packing plants, and canneries, feed handling establishments including feed manufacturing and processing establishments, in accordance with the following prescribed conditions: 
 
-(A) Application shall be limited to general surface and spot and/or crack and crevice treatment in food/feed handling establishments where food/feed and food/feed products are held, processed, prepared and served. General surface application may be used only when the facility is not in operation provided exposed food/feed has been covered or removed from the area being treated. Spot and/or crack and crevice application may be used while the facility is in operation provided exposed food/feed is covered or removed from the area being treated prior to application. Spray concentration shall be limited to a maximum of 0.06 percent active ingredient. Contamination of food/feed or food/feed contact surfaces shall be avoided.
+(A) Application shall be limited to general surface and spot and/or crack and crevice treatment in food/feed handling establishments where food/feed and food/feed products are held, processed, prepared and served. General surface application may be used only when the facility is not in operation provided exposed food/feed has been covered or removed from the area being treated. Spot and/or crack and crevice application may be used while the facility is in operation provided exposed food/feed is covered or removed from the area being treated prior to application. Spray concentration shall be limited to a maximum of 0.06 percent active ingredient. Contamination of food/feed or food/feed contact surfaces shall be avoided. 
 
-(B) To assure safe use of the insecticide, its label and labeling shall conform to that registered with the U.S. Environmental Protection Agency and shall be used in accordance with such label and labeling.
+(B) To assure safe use of the insecticide, its label and labeling shall conform to that registered with the U.S. Environmental Protection Agency and shall be used in accordance with such label and labeling. 
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registrations are established for residues of the insecticide bifenthrin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only bifenthrin, (2-methyl \[1,1′-biphenyl\]-3-yl) methyl-3-(2-chloro-3,3,3,-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylate.
+(c) *Tolerances with regional registrations.* Tolerances with regional registrations are established for residues of the insecticide bifenthrin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only bifenthrin, (2-methyl \[1,1′-biphenyl\]-3-yl) methyl-3-(2-chloro-3,3,3,-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylate. 
 
 | Commodity     | Parts per million |
 | ------------- | ----------------- |
 | Grass, forage | 4.0               |
 | Grass, hay    | 15                |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[62 FR 31002, June 6, 1997\] Editorial Note:For Federal Register citations affecting § 180.442, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

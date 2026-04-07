@@ -1,6 +1,6 @@
 ##### § 52.1071 Classification of regions.
 
-The Maryland plans were evaluated on the basis of the following classifications:
+The Maryland plans were evaluated on the basis of the following classifications: 
 
 | Air quality control region        | Pollutant |
 | --------------------------------- | --------- |

@@ -1,11 +1,11 @@
 ##### § 180.408 Metalaxyl; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the fungicide metalaxyl \[*N*-(2,6-dmethylphyenyl)-*N*-(methoxyacetyl) alanine methylester\] and its metabolites containing the 2,6-dimethylaniline moiety, and *N*-(2-hydroxy methyl-6-methylphenyl)-*N*-(methoxyacetyl)-alanine methyl ester, each expressed as metalaxyl equivalents, in or on the following food commodities:
+(a) *General.* Tolerances are established for the combined residues of the fungicide metalaxyl \[*N*-(2,6-dmethylphyenyl)-*N*-(methoxyacetyl) alanine methylester\] and its metabolites containing the 2,6-dimethylaniline moiety, and *N*-(2-hydroxy methyl-6-methylphenyl)-*N*-(methoxyacetyl)-alanine methyl ester, each expressed as metalaxyl equivalents, in or on the following food commodities: 
 
 Table 1 to Paragraph (a)
 | Commodity                                                                                                        | Parts per million |
 | ---------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Alfalfa, forage1                                                                                                 | 6.0               |
+| Alfalfa, forage                                                                                                  | 6.0               |
 | Alfalfa, hay                                                                                                     | 20.0              |
 | Almond                                                                                                           | 0.5               |
 | Almond, hulls                                                                                                    | 10.0              |
@@ -114,15 +114,15 @@ Table 1 to Paragraph (a)
 | Walnut                                                                                                           | 0.5               |
 | 1 There are no U.S. registrations for use of this pesticide on this commodity as of September 24, 2021.          |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration (refer to § 180.1(m)) are established for the combined residues of the fungicide metalaxyl \[*N*-(2,6-dimethylphenyl)-*N*-(methoxyacetyl) alanine methyl ester\] and its metabolites containing the 2,6-dimethylaniline moiety, and *N*-(2-hydroxy methyl-6-methyl)-*N*-(methoxyacetyl)-alanine methylester, each expressed as metalaxyl, in or on the following raw agricultural commodity:
+(c) *Tolerances with regional registrations.* Tolerances with regional registration (refer to § 180.1(m)) are established for the combined residues of the fungicide metalaxyl \[*N*-(2,6-dimethylphenyl)-*N*-(methoxyacetyl) alanine methyl ester\] and its metabolites containing the 2,6-dimethylaniline moiety, and *N*-(2-hydroxy methyl-6-methyl)-*N*-(methoxyacetyl)-alanine methylester, each expressed as metalaxyl, in or on the following raw agricultural commodity: 
 
 | Commodity | Parts per million |
 | --------- | ----------------- |
 | Papaya    | 0.1               |
 
-(d) *Indirect or inadvertent tolerances.* Tolerances are established for indirect or inadvertent residues of metalaxyl in or on the food commodities when present therein as a result of the application of metalaxyl to growing crops listed in paragraph (a) of this section and other non-food crops to read as follows:
+(d) *Indirect or inadvertent tolerances.* Tolerances are established for indirect or inadvertent residues of metalaxyl in or on the food commodities when present therein as a result of the application of metalaxyl to growing crops listed in paragraph (a) of this section and other non-food crops to read as follows: 
 
 | Commodity                                                                                | Part per million |
 | ---------------------------------------------------------------------------------------- | ---------------- |

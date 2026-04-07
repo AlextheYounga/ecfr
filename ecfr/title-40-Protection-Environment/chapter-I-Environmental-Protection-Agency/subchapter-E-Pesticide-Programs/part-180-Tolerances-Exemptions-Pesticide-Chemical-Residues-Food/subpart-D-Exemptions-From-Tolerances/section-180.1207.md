@@ -1,6 +1,6 @@
 ##### § 180.1207 N-acyl sarcosines and sodium N-acyl sarcosinates; exemption from the requirement of a tolerance.
 
-An exemption from the requirement of a tolerance is established for residues of the following substances when used as inert ingredients (surfactants) at levels not to exceed 10% in pesticide formulations containing glyphosate:
+An exemption from the requirement of a tolerance is established for residues of the following substances when used as inert ingredients (surfactants) at levels not to exceed 10% in pesticide formulations containing glyphosate: 
 
 | Name                                     | CAS Reg. No. |
 | ---------------------------------------- | ------------ |

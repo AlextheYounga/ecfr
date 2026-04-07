@@ -1,6 +1,6 @@
 ##### § 180.355 Bentazon; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of bentazon, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring for only the sum of bentazon (3-(1-methylethyl)-1*H*-2,1,3-benzothiadiazin-4(3*H*)-one 2,2-dioxide), 6-hydroxy-3-isopropyl-1*H*-2,1,3-benzothiadiazin-4(3*H*)-one 2,2-dioxide, and 8-hydroxy-3-isopropyl-1*H*-2,1,3-benzothiadiazin-4(3*H*)-one 2,2-dioxide calculated as the stoichiometric equivalent of bentazon.
+(a) *General.* (1) Tolerances are established for residues of bentazon, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring for only the sum of bentazon (3-(1-methylethyl)-1*H*-2,1,3-benzothiadiazin-4(3*H*)-one 2,2-dioxide), 6-hydroxy-3-isopropyl-1*H*-2,1,3-benzothiadiazin-4(3*H*)-one 2,2-dioxide, and 8-hydroxy-3-isopropyl-1*H*-2,1,3-benzothiadiazin-4(3*H*)-one 2,2-dioxide calculated as the stoichiometric equivalent of bentazon. 
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -32,7 +32,7 @@
 | Soybean, seed                                   | 0.05              |
 | Spearmint, tops                                 | 1.0               |
 
-(2) Tolerances are established for the combined residues of the herbicide bentazon (3-isopropyl-1*H*-2,1,3-benzothiadiazin-4(3*H*)-one-2,2-dioxide) and its metabolite 2-amino-*N*-isopropyl benzamide (AIBA) in or on the following food commodities:
+(2) Tolerances are established for the combined residues of the herbicide bentazon (3-isopropyl-1*H*-2,1,3-benzothiadiazin-4(3*H*)-one-2,2-dioxide) and its metabolite 2-amino-*N*-isopropyl benzamide (AIBA) in or on the following food commodities: 
 
 | Commodity                | Parts per million |
 | ------------------------ | ----------------- |
@@ -54,15 +54,15 @@
 | Sheep, meat byproducts   | 0.05              |
 | Sheep, meat              | 0.05              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration as defined in § 180.1(m), are established for combined residues of the herbicide, bentazon (3-isopropyl-1H-2, 1,3-benzothiadiazin-4(3H)-one-2,2-dioxide) and its 6- and 8-hydroxy metabolites in or on the following food commodities:
+(c) *Tolerances with regional registrations.* Tolerances with regional registration as defined in § 180.1(m), are established for combined residues of the herbicide, bentazon (3-isopropyl-1H-2, 1,3-benzothiadiazin-4(3H)-one-2,2-dioxide) and its 6- and 8-hydroxy metabolites in or on the following food commodities: 
 
 | Commodity      | Parts per million |
 | -------------- | ----------------- |
 | Clover, forage | 1.0               |
 | Clover, hay    | 2.0               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[42 FR 26979, May 26, 1977\] Editorial Note:For Federal Register citations affecting § 180.355, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,11 +1,11 @@
 ##### § 180.599 Acequinocyl; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of acequinocyl, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of acequinocyl \[2-(acetyloxy)-3-dodecyl-1,4-naphthalenedione\] and its metabolite, 2-dodecyl-3-hydroxy-1,4-naphthoquinone, calculated as the stoichiometric equivalent of acequinocyl, in or on the commodity.
+(a) *General.* Tolerances are established for residues of acequinocyl, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of acequinocyl \[2-(acetyloxy)-3-dodecyl-1,4-naphthalenedione\] and its metabolite, 2-dodecyl-3-hydroxy-1,4-naphthoquinone, calculated as the stoichiometric equivalent of acequinocyl, in or on the commodity. 
 
 Table 1 to Paragraph (a)
 | Commodity                                                                           | Parts per million |
 | ----------------------------------------------------------------------------------- | ----------------- |
-| Almond, hulls1                                                                      | 2.0               |
+| Almond, hulls                                                                       | 2.0               |
 | Apple, wet pomace                                                                   | 1.0               |
 | Avocado                                                                             | 0.50              |
 | Bean, dry, seed                                                                     | 0.15              |
@@ -40,10 +40,10 @@ Table 1 to Paragraph (a)
 | Vegetable, fruiting, group 8-10                                                     | 0.70              |
 | 1 There are no U.S. registrations as of January 18, 2017 for use on tea.            |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[69 FR 43533, July 21, 2004, as amended at 73 FR 17910, Apr. 2, 2008; 75 FR 70148, Nov. 17, 2010; 77 FR 25909, May 2, 2012; 81 FR 21756, Apr. 13, 2016; 82 FR 5414, Jan. 18, 2017; 83 FR 26373, June 7, 2018; 85 FR 29340, May 15, 2020; 86 FR 48510, Aug. 31, 2021\]

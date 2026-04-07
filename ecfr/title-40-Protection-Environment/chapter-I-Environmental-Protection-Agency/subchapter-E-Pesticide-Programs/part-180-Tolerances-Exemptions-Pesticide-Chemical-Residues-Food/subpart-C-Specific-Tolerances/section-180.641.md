@@ -1,10 +1,10 @@
 ##### § 180.641 Spirotetramat; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide spirotetramat, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spirotetramat (cis-3-(2,5-dimethlyphenyl)-8-methoxy-2-oxo-1-azaspiro\[4.5\]dec-3-en-4-yl-ethyl carbonate) and its metabolites cis-3-(2,5-dimethylphenyl)-4-hydroxy-8-methoxy-1-azaspiro\[4.5\]dec-3-en-2-one, cis-3-(2,5-dimethylphenyl)-3-hydroxy-8-methoxy-1-azaspiro\[4.5\]decane-2,4-dione, cis-3-(2,5-dimethylphenyl)-8-methoxy-2-oxo-1-azaspiro\[4.5\]dec-3-en-4-yl beta-D-glucopyranoside, and cis-3-(2,5-dimethylphenyl)-4-hydroxy-8-methoxy-1-azaspiro\[4.5\]decan-2-one, calculated as the stoichiometric equivalent of spirotetramat, in or on the following commodities.
+(a) *General.* (1) Tolerances are established for residues of the insecticide spirotetramat, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spirotetramat (cis-3-(2,5-dimethlyphenyl)-8-methoxy-2-oxo-1-azaspiro\[4.5\]dec-3-en-4-yl-ethyl carbonate) and its metabolites cis-3-(2,5-dimethylphenyl)-4-hydroxy-8-methoxy-1-azaspiro\[4.5\]dec-3-en-2-one, cis-3-(2,5-dimethylphenyl)-3-hydroxy-8-methoxy-1-azaspiro\[4.5\]decane-2,4-dione, cis-3-(2,5-dimethylphenyl)-8-methoxy-2-oxo-1-azaspiro\[4.5\]dec-3-en-4-yl beta-D-glucopyranoside, and cis-3-(2,5-dimethylphenyl)-4-hydroxy-8-methoxy-1-azaspiro\[4.5\]decan-2-one, calculated as the stoichiometric equivalent of spirotetramat, in or on the following commodities. 
 
 | Commodity                                                                   | Parts per million |
 | --------------------------------------------------------------------------- | ----------------- |
-| Acerola1                                                                    | 2.5               |
+| Acerola                                                                     | 2.5               |
 | Almond, hulls                                                               | 9.0               |
 | Artichoke, globe                                                            | 1.5               |
 | Asparagus 1                                                                 | 0.10              |
@@ -69,7 +69,7 @@
 | White sapote                                                                | 0.60              |
 | 1 There are no U.S. registrations for these commodities.                    |                   |
 
-(2) Tolerances are also established for residues of the insecticide spirotetramat, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spirotetramat (*cis-*3-(2,5-dimethlyphenyl)-8-methoxy-2-oxo-1-azaspiro\[4.5\]dec-3-en-4-yl-ethyl carbonate\]) and its metabolite *cis-*3-(2,5-dimethylphenyl)-4-hydroxy-8-methoxy-1-azaspiro\[4.5\]dec-3-en-2-one, calculated as the stoichiometric equivalent of spirotetramat, in or on the following commodities:
+(2) Tolerances are also established for residues of the insecticide spirotetramat, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spirotetramat (*cis-*3-(2,5-dimethlyphenyl)-8-methoxy-2-oxo-1-azaspiro\[4.5\]dec-3-en-4-yl-ethyl carbonate\]) and its metabolite *cis-*3-(2,5-dimethylphenyl)-4-hydroxy-8-methoxy-1-azaspiro\[4.5\]dec-3-en-2-one, calculated as the stoichiometric equivalent of spirotetramat, in or on the following commodities: 
 
 | Commodity                | Parts per million |
 | ------------------------ | ----------------- |
@@ -90,14 +90,14 @@
 | Sheep, meat              | 0.02              |
 | Sheep, meat byproducts   | 0.20              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registrations are established for residues of the insecticide spirotetramat, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spirotetramat (cis-3-(2,5-dimethlyphenyl)-8-methoxy-2-oxo-1-azaspiro\[4.5\]dec-3-en-4-yl-ethyl carbonate) and its metabolites cis-3-(2,5-dimethylphenyl)-4-hydroxy-8-methoxy-1-azaspiro\[4.5\]dec-3-en-2-one, cis-3-(2,5-dimethylphenyl)-3-hydroxy-8-methoxy-1-azaspiro\[4.5\]decane-2,4-dione, cis-3-(2,5-dimethylphenyl)-8-methoxy-2-oxo-1-azaspiro\[4.5\]dec-3-en-4-yl beta-D-glucopyranoside, and cis-3-(2,5-dimethylphenyl)-4-hydroxy-8-methoxy-1-azaspiro\[4.5\]decan-2-one, calculated as the stoichiometric equivalent of spirotetramat, in or on the following commodities.
+(c) *Tolerances with regional registrations.* Tolerances with regional registrations are established for residues of the insecticide spirotetramat, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spirotetramat (cis-3-(2,5-dimethlyphenyl)-8-methoxy-2-oxo-1-azaspiro\[4.5\]dec-3-en-4-yl-ethyl carbonate) and its metabolites cis-3-(2,5-dimethylphenyl)-4-hydroxy-8-methoxy-1-azaspiro\[4.5\]dec-3-en-2-one, cis-3-(2,5-dimethylphenyl)-3-hydroxy-8-methoxy-1-azaspiro\[4.5\]decane-2,4-dione, cis-3-(2,5-dimethylphenyl)-8-methoxy-2-oxo-1-azaspiro\[4.5\]dec-3-en-4-yl beta-D-glucopyranoside, and cis-3-(2,5-dimethylphenyl)-4-hydroxy-8-methoxy-1-azaspiro\[4.5\]decan-2-one, calculated as the stoichiometric equivalent of spirotetramat, in or on the following commodities. 
 
 | Commodity | Parts per million |
 | --------- | ----------------- |
 | Banana    | 4.0               |
 
-(d) *Indirect or inadvertant residues.* \[Reserved\]
+(d) *Indirect or inadvertant residues.* \[Reserved\] 
 
 \[73 FR 39256, July 9, 2008, as amended at 76 FR 28681, May 18, 2011; 77 FR 8746, Feb. 15, 2012; 77 FR 75859, Dec. 26, 2012; 78 FR 28512, May 15, 2013; 78 FR 66651, Nov. 6, 2013; 81 FR 73347, Oct. 25, 2016; 82 FR 27149, June 14, 2017\]

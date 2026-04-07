@@ -1,6 +1,6 @@
 ##### § 178.348-2 Material and thickness of material.
 
-(a) The type and thickness of material for DOT 412 specification cargo tanks must conform to § 178.345-2, but in no case may the thickness be less than that determined by the minimum thickness requirements in § 178.320(a). The following Tables I and II identify the “Specified Minimum Thickness” values to be employed in that determination. 
+(a) The type and thickness of material for DOT 412 specification cargo tanks must conform to § 178.345-2, but in no case may the thickness be less than that determined by the minimum thickness requirements in § 178.320(a). The following Tables I and II identify the “Specified Minimum Thickness” values to be employed in that determination.
 
 Table I—Specified Minimum Thickness of Heads (or Bulkheads and Baffles When Used as Tank Reinforcement) Using Mild Steel (MS), High Strength Low Alloy Steel (HSLA), Austenitic Stainless Steel (SS), or Aluminum (AL)—Expressed in Decimals of an Inch After Forming
 | Volume capacity (gallons per inch)           | 10 or less      | Over 10 to 14     | Over 14 to 18     | 18 and over |
@@ -24,6 +24,6 @@ Table II—Specified Minimum Thickness of Shell Using Mild Steel (MS), High Stre
 | Over 36 in. to 54 inches                                                                             | .144            | .187              | .227              | .270        |
 | Over 54 in. to 60 inches                                                                             | .144            | .187              | .227              | .270        |
 
-(b) \[Reserved\] 
+(b) \[Reserved\]
 
 \[Amdt. 178-89, 54 FR 25031, June 12, 1989; 54 FR 28750, July 7, 1989, as amended at 55 FR 37065, Sept. 7, 1990; 68 FR 19285, Apr. 18, 2003\]

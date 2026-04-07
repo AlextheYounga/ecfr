@@ -1,6 +1,6 @@
 ##### § 51.1303 Application of classification and attainment date provisions in CAA section 181 to areas subject to § 51.1302.
 
-(a) In accordance with CAA section 181(a)(1), each area designated nonattainment for the 2015 ozone NAAQS shall be classified by operation of law at the time of designation. The classification shall be based on the 8-hour design value for the area at the time of designation, in accordance with Table 1 of this paragraph (a). A state may request a higher or lower classification as provided in paragraphs (b) and (c) of this section. For each area classified under this section, the attainment date for the 2015 NAAQS shall be as expeditious as practicable, but not later than the date provided in Table 1 as follows:
+(a) In accordance with CAA section 181(a)(1), each area designated nonattainment for the 2015 ozone NAAQS shall be classified by operation of law at the time of designation. The classification shall be based on the 8-hour design value for the area at the time of designation, in accordance with Table 1 of this paragraph (a). A state may request a higher or lower classification as provided in paragraphs (b) and (c) of this section. For each area classified under this section, the attainment date for the 2015 NAAQS shall be as expeditious as practicable, but not later than the date provided in Table 1 as follows: 
 
 Table 1 to Paragraph (a)—Classifications and Attainment Dates for 2015 8-Hour Ozone NAAQS (0.070 ppm) for Areas Subject to § 51.1302
 | Area class            |                   | 8-hour ozone   design value   (ppm) | Primary standard   attainment date   (years after the effective date of designation for 2015 primary NAAQS) |
@@ -13,6 +13,6 @@ Table 1 to Paragraph (a)—Classifications and Attainment Dates for 2015 8-Hour 
 | Extreme               | equal to or above | 0.163                               | 20                                                                                                          |
 | \* But not including. |                   |                                     |                                                                                                             |
 
-(b) A state may request, and the Administrator must approve, a higher classification for an area for any reason in accordance with CAA section 181(b)(3).
+(b) A state may request, and the Administrator must approve, a higher classification for an area for any reason in accordance with CAA section 181(b)(3). 
 
 (c) A state may request, and the Administrator may in the Administrator's discretion approve, a higher or lower classification for an area in accordance with CAA section 181(a)(4).

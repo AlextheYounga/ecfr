@@ -1,6 +1,6 @@
 ##### 552.270-27 Integrated Agreement.
 
-As prescribed in 570.703, insert the following clause: 
+As prescribed in 570.703, insert the following clause:
 
 Integrated Agreement (SEP 1999)
 

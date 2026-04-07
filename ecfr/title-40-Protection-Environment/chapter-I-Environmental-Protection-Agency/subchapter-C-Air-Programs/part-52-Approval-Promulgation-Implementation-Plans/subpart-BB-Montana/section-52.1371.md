@@ -1,6 +1,6 @@
 ##### § 52.1371 Classification of regions.
 
-The Montana Emergency Episode Avoidance Plan was revised with an August 2, 2004 submittal by the Governor. The August 2, 2004 Emergency Episode Avoidance Plan classified the Air Quality Control Regions (AQCR) as follows:
+The Montana Emergency Episode Avoidance Plan was revised with an August 2, 2004 submittal by the Governor. The August 2, 2004 Emergency Episode Avoidance Plan classified the Air Quality Control Regions (AQCR) as follows: 
 
 | Air quality control regions (AQCR) | Pollutant |
 | ---------------------------------- | --------- |

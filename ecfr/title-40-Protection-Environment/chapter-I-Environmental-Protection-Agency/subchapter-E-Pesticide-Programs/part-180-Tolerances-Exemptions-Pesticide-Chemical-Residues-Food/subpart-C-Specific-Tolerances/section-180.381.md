@@ -1,6 +1,6 @@
 ##### § 180.381 Oxyfluorfen; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide oxyfluorfen \[2-chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene\] in or on the following food commodities:
+(a) *General.* Tolerances are established for residues of the herbicide oxyfluorfen \[2-chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene\] in or on the following food commodities: 
 
 | Commodity                | Parts per million |
 | ------------------------ | ----------------- |
@@ -53,9 +53,9 @@
 | Soybean                  | 0.05              |
 | Spearmint, tops          | 0.05              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration are established for residues of the herbicide oxyfluorfen \[2-chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene\] in or on the following food commodities:
+(c) *Tolerances with regional registrations.* Tolerances with regional registration are established for residues of the herbicide oxyfluorfen \[2-chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene\] in or on the following food commodities: 
 
 | Commodity              | Parts per million |
 | ---------------------- | ----------------- |
@@ -70,6 +70,6 @@
 | Taro, corm             | 0.05              |
 | Taro, leaves           | 0.05              |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[45 FR 85022, Dec. 24, 1980\] Editorial Note:For Federal Register citations affecting § 180.381, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

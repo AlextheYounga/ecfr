@@ -1,10 +1,10 @@
 ##### § 180.474 Tebuconazole; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of tebuconazole, alpha-\[2-(4-chlorophenyl)ethyl\]-alpha-(1,1-dimethylethyl)-1H-1,2,4-triazole-1-ethanol, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only tebuconazole \[α-\[2-(4-chlorophenyl) ethyl\]-α-(1,1-dimethylethyl)-1H-1,2,4-triazole-1-ethanol\], in or on the commodity.
+(a) *General.* (1) Tolerances are established for residues of tebuconazole, alpha-\[2-(4-chlorophenyl)ethyl\]-alpha-(1,1-dimethylethyl)-1H-1,2,4-triazole-1-ethanol, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only tebuconazole \[α-\[2-(4-chlorophenyl) ethyl\]-α-(1,1-dimethylethyl)-1H-1,2,4-triazole-1-ethanol\], in or on the commodity. 
 
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
-| Almond, hullsBrassica,1                                              | 6.0               |
+| Almond, hulls                                                        | 6.0               |
 | Apple, wet pomace                                                    | 0.1               |
 | Asparagus                                                            | 0.05              |
 | Banana                                                               | 0.05              |
@@ -71,7 +71,7 @@
 | Wheat, straw                                                         | 1.5               |
 | 1 There are no U.S. registrations.                                   |                   |
 
-(2) Tolerances are established for residues of the fungicide tebuconazole, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the sum of tebuconazole (alpha-\[2-(4-chlorophenyl)ethyl\]-alpha-(1,1-dimethylethyl)-1*H*-1,2,4-triazole-1-ethanol) and its diol metabolite (1-(4-chlorophenyl)-4,4-dimethyl-3-(1*H* -1,2,4-triazole-1-yl-methyl)-pentane-3,5-diol), calculated as the stoichiometric equivalent of tebuconzole, in or on the commodity.
+(2) Tolerances are established for residues of the fungicide tebuconazole, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the sum of tebuconazole (alpha-\[2-(4-chlorophenyl)ethyl\]-alpha-(1,1-dimethylethyl)-1*H*-1,2,4-triazole-1-ethanol) and its diol metabolite (1-(4-chlorophenyl)-4,4-dimethyl-3-(1*H* -1,2,4-triazole-1-yl-methyl)-pentane-3,5-diol), calculated as the stoichiometric equivalent of tebuconzole, in or on the commodity. 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -81,15 +81,15 @@
 | Milk                    | 0.1               |
 | Sheep, meat byproducts  | 0.2               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances are established for residues of the fungicide tebuconazole, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified below is to be determined by measuring only tebuconazole, alpha-\[2-(4-chlorophenyl)ethyl\]-alpha-(1,1-dimethylethyl)-1*H*-1,2,4-triazole-1-ethanol, in or on the commodity.
+(c) *Tolerances with regional registrations.* Tolerances are established for residues of the fungicide tebuconazole, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified below is to be determined by measuring only tebuconazole, alpha-\[2-(4-chlorophenyl)ethyl\]-alpha-(1,1-dimethylethyl)-1*H*-1,2,4-triazole-1-ethanol, in or on the commodity. 
 
 | Commodity     | Parts per million |
 | ------------- | ----------------- |
 | Turnip, roots | 0.5               |
 | Turnip, tops  | 7.0               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[59 FR 39464, Aug. 3, 1994\] Editorial Note:For Federal Register citations affecting § 180.474, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

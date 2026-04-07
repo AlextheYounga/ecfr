@@ -1,6 +1,6 @@
 ##### § 180.261 Phosmet; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide phosmet, *N*-(mercaptomethyl) phthalimide *S*-(*O,O*-dimethyl phosphorodithioate), including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of phosmet, *N*-(mercaptomethyl) phthalimide *S*-(*O,O*-dimethyl phosphorodithioate), and its oxygen analog, *N*-(mercaptomethyl) phthalimide *S*-(*O,O*-dimethyl phosphorothioate, calculated as the stoichiometric equivalent of phosmet, in or on the commodity.
+(a) *General.* Tolerances are established for residues of the insecticide phosmet, *N*-(mercaptomethyl) phthalimide *S*-(*O,O*-dimethyl phosphorodithioate), including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of phosmet, *N*-(mercaptomethyl) phthalimide *S*-(*O,O*-dimethyl phosphorodithioate), and its oxygen analog, *N*-(mercaptomethyl) phthalimide *S*-(*O,O*-dimethyl phosphorothioate, calculated as the stoichiometric equivalent of phosmet, in or on the commodity. 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -43,15 +43,15 @@
 | Sheep, meat byproducts  | 0.1               |
 | Sweet potato, roots     | 12                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration are established for residues of the insecticide phosmet, *N*-(mercaptomethyl) phthalimide *S*-(*O,O*-dimethyl phosphorodithioate), including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of phosmet, *N*-(mercaptomethyl) phthalimide *S*-(*O,O*-dimethyl phosphorodithioate), and its oxygen analog, *N*-(mercaptomethyl) phthalimide *S*-(*O,O*-dimethyl phosphorothioate, calculated as the stoichiometric equivalent of phosmet, in or on the commodity.
+(c) *Tolerances with regional registrations.* Tolerances with regional registration are established for residues of the insecticide phosmet, *N*-(mercaptomethyl) phthalimide *S*-(*O,O*-dimethyl phosphorodithioate), including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of phosmet, *N*-(mercaptomethyl) phthalimide *S*-(*O,O*-dimethyl phosphorodithioate), and its oxygen analog, *N*-(mercaptomethyl) phthalimide *S*-(*O,O*-dimethyl phosphorothioate, calculated as the stoichiometric equivalent of phosmet, in or on the commodity. 
 
 | Commodity | Parts per million |
 | --------- | ----------------- |
 | Crabapple | 20                |
 | Pistachio | 0.1               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[43 FR 46538, Oct. 10, 1978, as amended at 45 FR 8981, Feb. 11, 1980; 48 FR 37213, Aug. 17, 1983; 52 FR 48539, Dec. 23, 1987; 53 FR 657, Jan. 11, 1988; 53 FR 39090, Oct. 5, 1988; 63 FR 57075, Oct. 26, 1998; 67 FR 49616, July 31, 2002; 74 FR 46698, Sept. 11, 2009; 75 FR 60242, Sept. 29, 2010\]

@@ -1,10 +1,10 @@
 ##### § 180.448 Hexythiazox; tolerance for residues.
 
-(a) *General.* Tolerances are established for residues of hexythiazox, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only hexythiazox and its metabolites containing the (4-chlorophenyl)-4-methyl-2-oxo-3-thiazolidine moiety, calculated as the stoichiometric equivalent of hexythiazox.
+(a) *General.* Tolerances are established for residues of hexythiazox, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only hexythiazox and its metabolites containing the (4-chlorophenyl)-4-methyl-2-oxo-3-thiazolidine moiety, calculated as the stoichiometric equivalent of hexythiazox. 
 
 | Commodity                                                                 | Parts per million |
 | ------------------------------------------------------------------------- | ----------------- |
-| Almond, hulls1                                                            | 10                |
+| Almond, hulls                                                             | 10                |
 | Apple, wet pomace                                                         | 0.40              |
 | Beet, sugar, dried pulp                                                   | 0.30              |
 | Beet, sugar, root                                                         | 0.15              |
@@ -46,9 +46,9 @@
 | Tomato                                                                    | 0.50              |
 | 1 There are no U.S. registrations for this commodity as of July 20, 2020. |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registrations as defined by § 180.1(l), are established for residues of hexythiazox, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only hexythiazox and its metabolites containing the (4-chlorophenyl)-4-methyl-2-oxo-3-thiazolidine moiety, calculated as the stoichiometric equivalent of hexythiazox.
+(c) *Tolerances with regional registrations.* Tolerances with regional registrations as defined by § 180.1(l), are established for residues of hexythiazox, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only hexythiazox and its metabolites containing the (4-chlorophenyl)-4-methyl-2-oxo-3-thiazolidine moiety, calculated as the stoichiometric equivalent of hexythiazox. 
 
 | Commodity                                                               | Parts per million |
 | ----------------------------------------------------------------------- | ----------------- |
@@ -75,6 +75,6 @@
 | Wheat, hay (EPA Regions 9-12 only)                                      | 30                |
 | Wheat, straw (EPA Regions 9-12 only)                                    | 8.0               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[54 FR 17948, Apr. 26, 1989\] Editorial Note:For Federal Register citations affecting § 180.448, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

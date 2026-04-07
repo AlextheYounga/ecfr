@@ -1,6 +1,6 @@
 ##### § 180.645 Thiencarbazone-methyl; tolerances for residues.
 
-(a)(1) *General.* Tolerances are established for residues of the thiencarbazone-methyl, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only only thiencarbazone-methyl \[methyl 4-\[\[\[(4,5-dihydro-3-methoxy-4-methyl-5-oxo-1*H*-1,2,4-triazol-1-yl)-carbonyl\]amino\]sulfonyl\]-5-methyl-3-thiophenecarboxylate\] in or on the following food and feed commodities.
+(a)(1) *General.* Tolerances are established for residues of the thiencarbazone-methyl, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only only thiencarbazone-methyl \[methyl 4-\[\[\[(4,5-dihydro-3-methoxy-4-methyl-5-oxo-1*H*-1,2,4-triazol-1-yl)-carbonyl\]amino\]sulfonyl\]-5-methyl-3-thiophenecarboxylate\] in or on the following food and feed commodities. 
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -17,7 +17,7 @@
 | Wheat, hay                                      | 0.01              |
 | Wheat, straw                                    | 0.01              |
 
-(2) Tolerances are established for residues of thiencarbazone-methyl, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of thiencarbazone-methyl \[methyl 4-\[\[\[(4,5-dihydro-3-methoxy-4-methyl-5-oxo-1*H*-1,2,4-triazol-1-yl)-carbonyl\]amino\]sulfonyl\]-5-methyl-3-thiophenecarboxylate\] and its metabolite BYH 18636-MMT \[5-methoxy-4-methyl-2,4-dihydro-3*H*-1,2,4-triazol-3-one\], calculated as the stoichiometric equivalent of thiencarbazone-methyl, in or on the following food commodities of animal origin:
+(2) Tolerances are established for residues of thiencarbazone-methyl, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of thiencarbazone-methyl \[methyl 4-\[\[\[(4,5-dihydro-3-methoxy-4-methyl-5-oxo-1*H*-1,2,4-triazol-1-yl)-carbonyl\]amino\]sulfonyl\]-5-methyl-3-thiophenecarboxylate\] and its metabolite BYH 18636-MMT \[5-methoxy-4-methyl-2,4-dihydro-3*H*-1,2,4-triazol-3-one\], calculated as the stoichiometric equivalent of thiencarbazone-methyl, in or on the following food commodities of animal origin: 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -31,11 +31,11 @@
 | Sheep, meat             | 0.02              |
 | Sheep, meat byproducts  | 0.02              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for residues of thiencarbazone-methyl, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of thiencarbazone-methyl \[methyl 4-\[\[\[(4,5-dihydro-3-methoxy-4-methyl-5-oxo-1*H*-1,2,4-triazol-1-yl)-carbonyl\]amino\]sulfonyl\]-5-methyl-3-thiophenecarboxylate\] and its metabolite BYH 18636-MMT-glucoside \[2-hexopyranosyl-5-methoxy-4-methyl-2,4-dihydro-3*H*-1,2,4-triazol-3-one\], calculated as the stoichiometric equivalent of thiencarbazone-methyl, in or on the following food commodities:
+(d) *Indirect or inadvertent residues.* Tolerances are established for residues of thiencarbazone-methyl, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of thiencarbazone-methyl \[methyl 4-\[\[\[(4,5-dihydro-3-methoxy-4-methyl-5-oxo-1*H*-1,2,4-triazol-1-yl)-carbonyl\]amino\]sulfonyl\]-5-methyl-3-thiophenecarboxylate\] and its metabolite BYH 18636-MMT-glucoside \[2-hexopyranosyl-5-methoxy-4-methyl-2,4-dihydro-3*H*-1,2,4-triazol-3-one\], calculated as the stoichiometric equivalent of thiencarbazone-methyl, in or on the following food commodities: 
 
 | Commodity       | Parts per million |
 | --------------- | ----------------- |

@@ -1,54 +1,54 @@
 ##### § 178.502 Identification codes for packagings.
 
-(a) Identification codes for designating kinds of packagings consist of the following: 
+(a) Identification codes for designating kinds of packagings consist of the following:
 
-(1) A numeral indicating the kind of packaging, as follows: 
+(1) A numeral indicating the kind of packaging, as follows:
 
-(i) “1” means a drum. 
+(i) “1” means a drum.
 
-(ii) “2” means a wooden barrel. 
+(ii) “2” means a wooden barrel.
 
-(iii) “3” means a jerrican. 
+(iii) “3” means a jerrican.
 
-(iv) “4” means a box. 
+(iv) “4” means a box.
 
-(v) “5” means a bag. 
+(v) “5” means a bag.
 
-(vi) “6” means a composite packaging. 
+(vi) “6” means a composite packaging.
 
-(vii) “7” means a pressure receptacle. 
+(vii) “7” means a pressure receptacle.
 
-(2) A capital letter indicating the material of construction, as follows: 
+(2) A capital letter indicating the material of construction, as follows:
 
-(i) “A” means steel (all types and surface treatments). 
+(i) “A” means steel (all types and surface treatments).
 
-(ii) “B” means aluminum. 
+(ii) “B” means aluminum.
 
-(iii) “C” means natural wood. 
+(iii) “C” means natural wood.
 
-(iv) “D” means plywood. 
+(iv) “D” means plywood.
 
-(v) “F” means reconstituted wood. 
+(v) “F” means reconstituted wood.
 
-(vi) “G” means fiberboard. 
+(vi) “G” means fiberboard.
 
-(vii) “H” means plastic. 
+(vii) “H” means plastic.
 
-(viii) “L” means textile. 
+(viii) “L” means textile.
 
-(ix) “M” means paper, multi-wall. 
+(ix) “M” means paper, multi-wall.
 
-(x) “N” means metal (other than steel or aluminum). 
+(x) “N” means metal (other than steel or aluminum).
 
-(xi) “P” means glass, porcelain or stoneware. 
+(xi) “P” means glass, porcelain or stoneware.
 
-(3) A numeral indicating the category of packaging within the kind to which the packaging belongs. For example, for steel drums (“1A”), “1” indicates a non-removable head drum ( *i.e.*, “1A1”) and “2” indicates a removable head drum (*i.e.*, “1A2”). 
+(3) A numeral indicating the category of packaging within the kind to which the packaging belongs. For example, for steel drums (“1A”), “1” indicates a non-removable head drum ( *i.e.*, “1A1”) and “2” indicates a removable head drum (*i.e.*, “1A2”).
 
-(b) For composite packagings, two capital letters are used in sequence in the second position of the code, the first indicating the material of the inner receptacle and the second, that of the outer packaging. For example, a plastic receptacle in a steel drum is designated “6HA1”. 
+(b) For composite packagings, two capital letters are used in sequence in the second position of the code, the first indicating the material of the inner receptacle and the second, that of the outer packaging. For example, a plastic receptacle in a steel drum is designated “6HA1”.
 
-(c) For combination packagings, only the code number for the outer packaging is used. 
+(c) For combination packagings, only the code number for the outer packaging is used.
 
-(d) Identification codes are set forth in the standards for packagings in §§ 178.504 through 178.523 of this subpart. 
+(d) Identification codes are set forth in the standards for packagings in §§ 178.504 through 178.523 of this subpart.
 
 Note to § 178.502:
 

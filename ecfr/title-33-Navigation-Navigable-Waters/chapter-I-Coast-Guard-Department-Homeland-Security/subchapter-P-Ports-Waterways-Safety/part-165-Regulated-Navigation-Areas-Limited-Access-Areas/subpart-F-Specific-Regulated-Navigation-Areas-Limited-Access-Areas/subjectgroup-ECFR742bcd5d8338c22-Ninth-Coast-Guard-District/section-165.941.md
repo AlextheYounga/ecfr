@@ -1,28 +1,28 @@
 ##### § 165.941 Safety Zones; Annual Events in the Captain of the Port Detroit Zone.
 
-(a) Regulations. The following regulations apply to the safety zones listed in Table 1 to § 165.941 of this section, coordinates listed in table are North American Datum of 1983 (NAD 83). 
+(a) Regulations. The following regulations apply to the safety zones listed in Table 1 to § 165.941 of this section, coordinates listed in table are North American Datum of 1983 (NAD 83).
 
-(1) In accordance with the general regulations in § 165.23 of this part, entry into, transiting, or anchoring within any of the safety zones listed in this section is prohibited unless authorized by the Captain of the Port Detroit or a designated representative. 
+(1) In accordance with the general regulations in § 165.23 of this part, entry into, transiting, or anchoring within any of the safety zones listed in this section is prohibited unless authorized by the Captain of the Port Detroit or a designated representative.
 
-(2) These safety zones are closed to all vessel traffic, except as may be permitted by the Captain of the Port Detroit or his designated on-scene representative. 
+(2) These safety zones are closed to all vessel traffic, except as may be permitted by the Captain of the Port Detroit or his designated on-scene representative.
 
-(3) Vessel operators desiring to enter or operate within the safety zone must contact the Captain of the Port Detroit or an on-scene representative to obtain permission to do so. The Captain of the Port Detroit or an on-scene representative may be contacted via VHF Channel 16. Vessel operators given permission to enter or operate in the safety zone must comply with all directions given to them by the Captain of the Port Detroit, or an on-scene representative. 
+(3) Vessel operators desiring to enter or operate within the safety zone must contact the Captain of the Port Detroit or an on-scene representative to obtain permission to do so. The Captain of the Port Detroit or an on-scene representative may be contacted via VHF Channel 16. Vessel operators given permission to enter or operate in the safety zone must comply with all directions given to them by the Captain of the Port Detroit, or an on-scene representative.
 
-(4) The enforcement dates and times for each of the safety zones listed in Table 1 to § 165.941 are subject to change, but the duration of enforcement would remain the same or nearly the same total number of hours as stated in the table. In the event of a change, the Captain of the Port Detroit will provide notice to the public by publishing a Notice of Enforcement in the Federal Register, as well as, issuing a Broadcast Notice to Mariners. 
+(4) The enforcement dates and times for each of the safety zones listed in Table 1 to § 165.941 are subject to change, but the duration of enforcement would remain the same or nearly the same total number of hours as stated in the table. In the event of a change, the Captain of the Port Detroit will provide notice to the public by publishing a Notice of Enforcement in the Federal Register, as well as, issuing a Broadcast Notice to Mariners.
 
-(b) *Definitions.* The following definitions apply to this section: 
+(b) *Definitions.* The following definitions apply to this section:
 
-(1) Designated or on scene representative means any Coast Guard commissioned, warrant, or petty officers designated by the Captain of the Port Detroit to monitor a safety zone, permit entry into a safety zone, give legally enforceable orders to persons or vessels within a safety zone, and take other actions authorized by the Captain of the Port Detroit. 
+(1) Designated or on scene representative means any Coast Guard commissioned, warrant, or petty officers designated by the Captain of the Port Detroit to monitor a safety zone, permit entry into a safety zone, give legally enforceable orders to persons or vessels within a safety zone, and take other actions authorized by the Captain of the Port Detroit.
 
-(2) Public vessel means a vessel that is owned, chartered, or operated by the United States, or by a State or political subdivision thereof. 
+(2) Public vessel means a vessel that is owned, chartered, or operated by the United States, or by a State or political subdivision thereof.
 
-(3) Rain date refers to an alternate date and/or time in which the safety zone would be enforced in the event of inclement weather. 
+(3) Rain date refers to an alternate date and/or time in which the safety zone would be enforced in the event of inclement weather.
 
-(c) *Suspension of enforcement.* The Captain of the Port Detroit may suspend enforcement of any of these zones earlier than listed in this section. Should the Captain of the Port suspend any of these zones earlier than the listed duration in this section, he or she may make the public aware of this suspension by Broadcast Notice to Mariners and/or on-scene notice by a designated representative. 
+(c) *Suspension of enforcement.* The Captain of the Port Detroit may suspend enforcement of any of these zones earlier than listed in this section. Should the Captain of the Port suspend any of these zones earlier than the listed duration in this section, he or she may make the public aware of this suspension by Broadcast Notice to Mariners and/or on-scene notice by a designated representative.
 
-(d) *Exemption.* Public vessels, as defined in paragraph (b) of this section, are exempt from the requirements in this section. 
+(d) *Exemption.* Public vessels, as defined in paragraph (b) of this section, are exempt from the requirements in this section.
 
-(e) *Waiver.* For any vessel, the Captain of the Port Detroit or a designated representative may waive any of the requirements of this section upon finding that operational conditions or other circumstances are such that application of this section is unnecessary or impractical for the purposes of safety or security. 
+(e) *Waiver.* For any vessel, the Captain of the Port Detroit or a designated representative may waive any of the requirements of this section upon finding that operational conditions or other circumstances are such that application of this section is unnecessary or impractical for the purposes of safety or security.
 
 Table 1 to § 165.941
 

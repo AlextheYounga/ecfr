@@ -1,6 +1,6 @@
 ##### § 1505.7 Maximum acceptable surface temperatures.
 
-The maximum acceptable surface temperatures for electrically operated toys shall be as follows: 
+The maximum acceptable surface temperatures for electrically operated toys shall be as follows:
 
 | Surface type (as described—in § 1505.6 (g)(2))                                                                                                                                             | Thermal inertia type 1 | Temperatures |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- | ------------ |

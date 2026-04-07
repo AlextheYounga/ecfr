@@ -1,6 +1,6 @@
 ##### 552.238-107 Export Traffic Release (Supplies).
 
-As prescribed in 538.273(d)(31), insert the following clause: 
+As prescribed in 538.273(d)(31), insert the following clause:
 
 Export Traffic Release (Supplies) (MAY 2019)
 

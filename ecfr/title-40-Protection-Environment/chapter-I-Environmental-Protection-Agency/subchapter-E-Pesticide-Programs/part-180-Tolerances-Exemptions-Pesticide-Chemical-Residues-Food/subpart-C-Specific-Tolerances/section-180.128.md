@@ -1,6 +1,6 @@
 ##### § 180.128 Pyrethrins; tolerances for residues.
 
-(a) *General.* (1) Tolerances for residues of the insecticide pyrethrins ((1S)-2-methyl-4-oxo-3-(2Z)-2,4-pentadienylcyclopenten-1-yl (1R,3R)-2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate (pyrethrin 1), (1S)-2-methyl-4-oxo-3-(2Z)-2,4-pentadienyl-2-cyclopenten-1-yl (1R,3R)-3-\[(1E)-3-methoxy-2-methyl-3-oxo-1-propenyl\]-2,2-dimethylcyclopropane-carboxylate (pyrethrin 2), (1S)-3-(2Z)-2-butenyl-2-methyl-4-oxo-2-cyclopenten-1-yl (1R,3R)-2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate (cinerin 1), (1S)-3-(2Z)-2-butenyl-2-methyl-4-oxo-2-cyclopenten-1-yl (1R,3R)-3-\[(1E)-3-methoxy-2-methyl-3-oxo-1-propenyl\]-2,2-dimethylcyclopropanecarboxylate (cinerin 2), (1S)-2-methyl-4-oxo-3-(2Z)-2-pentenyl-2-cyclopenten-1-yl (1R, 3R)-2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate (jasmolin 1), and (1S)-2-methyl-4-oxo-3-(2Z)-pentenyl-2-cyclopenten-1-yl (1R,3R)-3-\[(1E)-3-methoxy-2-methyl-3-oxo-1-propenyl\]-2,2-dimethylcyclopropanecarboxylate (jasmolin 2)), the insecticidally active principles of Chrysanthemum cinerariaefolium, which are measured as cumulative residues of pyrethrin 1, cinerin 1, and jasmolin 1 are not to exceed the following:
+(a) *General.* (1) Tolerances for residues of the insecticide pyrethrins ((1S)-2-methyl-4-oxo-3-(2Z)-2,4-pentadienylcyclopenten-1-yl (1R,3R)-2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate (pyrethrin 1), (1S)-2-methyl-4-oxo-3-(2Z)-2,4-pentadienyl-2-cyclopenten-1-yl (1R,3R)-3-\[(1E)-3-methoxy-2-methyl-3-oxo-1-propenyl\]-2,2-dimethylcyclopropane-carboxylate (pyrethrin 2), (1S)-3-(2Z)-2-butenyl-2-methyl-4-oxo-2-cyclopenten-1-yl (1R,3R)-2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate (cinerin 1), (1S)-3-(2Z)-2-butenyl-2-methyl-4-oxo-2-cyclopenten-1-yl (1R,3R)-3-\[(1E)-3-methoxy-2-methyl-3-oxo-1-propenyl\]-2,2-dimethylcyclopropanecarboxylate (cinerin 2), (1S)-2-methyl-4-oxo-3-(2Z)-2-pentenyl-2-cyclopenten-1-yl (1R, 3R)-2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate (jasmolin 1), and (1S)-2-methyl-4-oxo-3-(2Z)-pentenyl-2-cyclopenten-1-yl (1R,3R)-3-\[(1E)-3-methoxy-2-methyl-3-oxo-1-propenyl\]-2,2-dimethylcyclopropanecarboxylate (jasmolin 2)), the insecticidally active principles of Chrysanthemum cinerariaefolium, which are measured as cumulative residues of pyrethrin 1, cinerin 1, and jasmolin 1 are not to exceed the following: 
 
 | Commodity                                          | Parts per million |
 | -------------------------------------------------- | ----------------- |
@@ -65,16 +65,16 @@
 | Walnut, postharvest                                | 1.0               |
 | Wheat, grain, postharvest                          | 3.0               |
 
-(2) A tolerance of 1.0 ppm is established for residues of the insecticide pyrethrins in or on milled fractions derived from grain, cereal when present as a result of its use in cereal grain mills and in storage areas for milled cereal grain products.
+(2) A tolerance of 1.0 ppm is established for residues of the insecticide pyrethrins in or on milled fractions derived from grain, cereal when present as a result of its use in cereal grain mills and in storage areas for milled cereal grain products. 
 
-(3) A tolerance of 1.0 ppm is established for residues of the insecticide pyrethrins in or on all food items in food handling establishments where food and food products are held, processed, prepared and/or served. Food must be removed or covered prior to use.
+(3) A tolerance of 1.0 ppm is established for residues of the insecticide pyrethrins in or on all food items in food handling establishments where food and food products are held, processed, prepared and/or served. Food must be removed or covered prior to use. 
 
-(4) Where tolerances are established on both the raw agricultural commodities and processed foods made there-from, the total residues of pyrethrins in or on the processed food shall not be greater than that permitted by the larger of the two tolerances.
+(4) Where tolerances are established on both the raw agricultural commodities and processed foods made there-from, the total residues of pyrethrins in or on the processed food shall not be greater than that permitted by the larger of the two tolerances. 
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[71 FR 74814, Dec. 13, 2006, as amended at 73 FR 5108, Jan. 29, 2008\]

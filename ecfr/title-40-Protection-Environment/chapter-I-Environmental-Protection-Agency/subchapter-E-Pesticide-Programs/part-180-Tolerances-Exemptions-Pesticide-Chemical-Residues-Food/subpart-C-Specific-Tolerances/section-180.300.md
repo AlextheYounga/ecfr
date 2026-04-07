@@ -1,6 +1,6 @@
 ##### § 180.300 Ethephon; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the plant regulator ethephon \[(2-chloroethyl) phosphonic acid\] in or on food commodities as follows:
+(a) *General.* Tolerances are established for residues of the plant regulator ethephon \[(2-chloroethyl) phosphonic acid\] in or on food commodities as follows: 
 
 | Commodity                              | Parts per million |
 | -------------------------------------- | ----------------- |
@@ -58,10 +58,10 @@
 | Wheat, shorts                          | 5.0               |
 | Wheat, straw                           | 10.0              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* A tolerance with regional registration, as defined in § 180.1(m), of 0.1 part per million is established for residues of the plant regulator ethephon \[(2-chloroethyl)phosphonic acid\] in or on the food commodity sugarcane.
+(c) *Tolerances with regional registrations.* A tolerance with regional registration, as defined in § 180.1(m), of 0.1 part per million is established for residues of the plant regulator ethephon \[(2-chloroethyl)phosphonic acid\] in or on the food commodity sugarcane. 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[65 FR 33710, May 24, 2000, as amended at 72 FR 53455, Sept. 19, 2007; 75 FR 56015, Sept. 15, 2010; 80 FR 72598, Nov. 20, 2015\]

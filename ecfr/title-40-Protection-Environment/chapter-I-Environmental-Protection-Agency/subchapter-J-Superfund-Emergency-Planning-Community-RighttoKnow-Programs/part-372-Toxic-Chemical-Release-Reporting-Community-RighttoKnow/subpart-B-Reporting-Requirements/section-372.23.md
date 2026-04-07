@@ -1,8 +1,8 @@
 ##### § 372.23 SIC and NAICS codes to which this Part applies.
 
-The requirements of this part apply to facilities in the following SIC and NAICS codes. This section contains three listings. Paragraph (a) of this section lists the SIC codes to which this part applies. Paragraph (b) of this section lists the NAICS codes that correspond to SIC codes 20 through 39 to which this part applies. Paragraph (c) of this section lists the NAICS codes that correspond to SIC codes other than SIC codes 20 through 39 to which this part applies.
+The requirements of this part apply to facilities in the following SIC and NAICS codes. This section contains three listings. Paragraph (a) of this section lists the SIC codes to which this part applies. Paragraph (b) of this section lists the NAICS codes that correspond to SIC codes 20 through 39 to which this part applies. Paragraph (c) of this section lists the NAICS codes that correspond to SIC codes other than SIC codes 20 through 39 to which this part applies. 
 
-(a) SIC codes.
+(a) SIC codes. 
 
 | Major group or industry code | Exceptions and/or limitations                                                                                        |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@ The requirements of this part apply to facilities in the following SIC and NAICS
 | 5171                         |                                                                                                                      |
 | 7389                         | Limited to facilities primarily engaged in solvent recovery services on a contract or fee basis.                     |
 
-(b) NAICS codes that correspond to SIC codes 20-39.
+(b) NAICS codes that correspond to SIC codes 20-39. 
 
 | 311—Food Manufacturing                                                                                                    | Except 311119—Exception is limited to facilities previously classified under SIC 0723, Crop Preparation Services for Market, Except Cotton Ginning.                                                                                                                                                                                                                                                                                                                                                                                                  |
 |                                                                                                                           | Except 311340—Exception is limited to facilities previously classified under SIC 5441, Candy, Nut, and Confectionery Stores.                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -65,7 +65,7 @@ The requirements of this part apply to facilities in the following SIC and NAICS
 | 541715—Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) | Limited to facilities previously classified under SIC 3764, Guided Missile and Space Vehicle Propulsion Units and Propulsion Unit Parts; and facilities previously classified under SIC 3769, Guided Missile and Space Vehicle Parts and Auxiliary Equipment, Not Elsewhere Classified.                                                                                                                                                                                                                                                              |
 | 811490—Other Personal and Household Goods Repair and Maintenance                                                          | Limited to facilities previously classified under SIC 3732, Boat Building and Repairing.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-(c) NAICS codes that correspond to SIC codes other than SIC codes 20-39.
+(c) NAICS codes that correspond to SIC codes other than SIC codes 20-39. 
 
 | 211130—Natural Gas Extraction                                  | Limited to facilities classified under SIC 1321, Natural Gas Liquids.                                                                                                                                           |
 | 212114—Surface Coal Mining                                     |                                                                                                                                                                                                                 |

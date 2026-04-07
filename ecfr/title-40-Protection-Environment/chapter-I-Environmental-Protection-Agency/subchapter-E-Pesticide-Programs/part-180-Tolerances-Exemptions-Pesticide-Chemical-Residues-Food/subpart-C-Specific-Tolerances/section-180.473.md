@@ -1,11 +1,11 @@
 ##### § 180.473 Glufosinate; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of glufosinate, including its metabolites and degradates, in or on the commodities in table 1 to paragraph (a)(1). Compliance with the tolerance levels specified in table 1 to paragraph (a)(1) is to be determined by measuring the sum of glufosinate (2-amino-4-(hydroxymethylphosphinyl)butanoic acid) and its metabolites, 2-(acetylamino)-4-(hydroxymethyl phosphinyl) butanoic acid, and 3-(hydroxymethylphosphinyl) propanoic acid, expressed as 2-amino-4-(hydroxymethylphosphinyl)butanoic acid equivalents.
+(a) *General.* (1) Tolerances are established for residues of glufosinate, including its metabolites and degradates, in or on the commodities in table 1 to paragraph (a)(1). Compliance with the tolerance levels specified in table 1 to paragraph (a)(1) is to be determined by measuring the sum of glufosinate (2-amino-4-(hydroxymethylphosphinyl)butanoic acid) and its metabolites, 2-(acetylamino)-4-(hydroxymethyl phosphinyl) butanoic acid, and 3-(hydroxymethylphosphinyl) propanoic acid, expressed as 2-amino-4-(hydroxymethylphosphinyl)butanoic acid equivalents. 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                            | Parts per   million |
 | ------------------------------------------------------------------------------------ | ------------------- |
-| Almond, hulls1                                                                       | 0.50                |
+| Almond, hulls                                                                        | 0.50                |
 | Banana 1                                                                             | 0.30                |
 | Beet, sugar, molasses                                                                | 5.0                 |
 | Beet, sugar, roots                                                                   | 0.9                 |
@@ -66,7 +66,7 @@ Table 1 to Paragraph (a)(1)
 | Tropical and subtropical, small fruit, inedible peel, subgroup 24A                   | 0.1                 |
 | Vegetable, tuberous and corm, subgroup 1C                                            | 0.8                 |
 
-(2) Tolerances are established for residues of glufosinate-P, including its metabolites and degradates, in or on the commodities in table 2 to paragraph (a)(2), as a result of applications of glufosinate-P or glufosinate-P-ammonium to those commodities. Compliance with the tolerance levels specified in table 2 to paragraph (a)(2) is to be determined by measuring the sum of glufosinate (2-amino-4-(hydroxymethylphosphinyl) butanoic acid) and its metabolites, 2-(acetylamino)-4-(hydroxymethyl phosphinyl) butanoic acid, and 3-(hydroxymethylphosphinyl) propanoic acid, expressed as 2-amino-4-(hydroxymethylphosphinyl)butanoic acid equivalents.
+(2) Tolerances are established for residues of glufosinate-P, including its metabolites and degradates, in or on the commodities in table 2 to paragraph (a)(2), as a result of applications of glufosinate-P or glufosinate-P-ammonium to those commodities. Compliance with the tolerance levels specified in table 2 to paragraph (a)(2) is to be determined by measuring the sum of glufosinate (2-amino-4-(hydroxymethylphosphinyl) butanoic acid) and its metabolites, 2-(acetylamino)-4-(hydroxymethyl phosphinyl) butanoic acid, and 3-(hydroxymethylphosphinyl) propanoic acid, expressed as 2-amino-4-(hydroxymethylphosphinyl)butanoic acid equivalents. 
 
 Table 2 to Paragraph (a)(2)
 | Commodity                                        | Parts per   million |
@@ -105,9 +105,9 @@ Table 2 to Paragraph (a)(2)
 | Soybean                                          | 2                   |
 | Soybean, hulls                                   | 10                  |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registrations are established for residues of glufosinate, including its metabolites and degradates, in or on the commodities in table 3 to paragraph (c). Compliance with the tolerance levels specified in table 3 to paragraph (c) is to be determined by measuring the sum of glufosinate, (2-amino-4-(hydroxymethylphosphinyl)butanoic acid) and its metabolites, 2-(acetylamino)-4-(hydroxymethyl phosphinyl) butanoic acid, and 3-(hydroxymethylphosphinyl) propanoic acid, expressed as 2-amino-4-(hydroxymethylphosphinyl)butanoic acid equivalents.
+(c) *Tolerances with regional registrations.* Tolerances with regional registrations are established for residues of glufosinate, including its metabolites and degradates, in or on the commodities in table 3 to paragraph (c). Compliance with the tolerance levels specified in table 3 to paragraph (c) is to be determined by measuring the sum of glufosinate, (2-amino-4-(hydroxymethylphosphinyl)butanoic acid) and its metabolites, 2-(acetylamino)-4-(hydroxymethyl phosphinyl) butanoic acid, and 3-(hydroxymethylphosphinyl) propanoic acid, expressed as 2-amino-4-(hydroxymethylphosphinyl)butanoic acid equivalents. 
 
 Table 3 to Paragraph (c)
 | Commodity     | Parts per   million |
@@ -115,7 +115,7 @@ Table 3 to Paragraph (c)
 | Grass, forage | 0.15                |
 | Grass, hay    | 0.2                 |
 
-(d) *Indirect or inadvertent residues.* (1) Tolerances are established for indirect or inadvertent residues of glufosinate, including its metabolites and degradates, in or on the commodities in table 4 to paragraph (d)(1), as a result of the application of glufosinate to crops listed in paragraph (a) of this section. Compliance with the tolerance levels specified in table 4 to paragraph (d)(1) is to be determined by measuring the sum of glufosinate (2-amino-4-(hydroxymethylphosphinyl) butanoic acid) and its metabolite, 3-(hydroxymethylphosphinyl) propanoic acid, expressed as 2-amino-4-(hydroxymethylphosphinyl)butanoic acid equivalents.
+(d) *Indirect or inadvertent residues.* (1) Tolerances are established for indirect or inadvertent residues of glufosinate, including its metabolites and degradates, in or on the commodities in table 4 to paragraph (d)(1), as a result of the application of glufosinate to crops listed in paragraph (a) of this section. Compliance with the tolerance levels specified in table 4 to paragraph (d)(1) is to be determined by measuring the sum of glufosinate (2-amino-4-(hydroxymethylphosphinyl) butanoic acid) and its metabolite, 3-(hydroxymethylphosphinyl) propanoic acid, expressed as 2-amino-4-(hydroxymethylphosphinyl)butanoic acid equivalents. 
 
 Table 4 to Paragraph (d)(1)
 | Commodity         | Parts per   million |
@@ -135,7 +135,7 @@ Table 4 to Paragraph (d)(1)
 | Wheat, hay        | 0.40                |
 | Wheat, straw      | 0.40                |
 
-(2) Tolerances are established for indirect or inadvertent residues of glufosinate-P, including its metabolites and degradates, in or on the commodities in table 5 to paragraph (d)(2), as a result of the application of glufosinate-P or glufosinate-P-ammonium to crops listed in paragraph (a)(2) of this section. Compliance with the tolerance levels specified in table 5 to paragraph (d)(2) is to be determined by measuring the sum of glufosinate (2-amino-4-(hydroxymethylphosphinyl) butanoic acid) and its metabolite, 3-(hydroxymethylphosphinyl) propanoic acid, expressed as 2-amino-4-(hydroxymethylphosphinyl)butanoic acid equivalents.”
+(2) Tolerances are established for indirect or inadvertent residues of glufosinate-P, including its metabolites and degradates, in or on the commodities in table 5 to paragraph (d)(2), as a result of the application of glufosinate-P or glufosinate-P-ammonium to crops listed in paragraph (a)(2) of this section. Compliance with the tolerance levels specified in table 5 to paragraph (d)(2) is to be determined by measuring the sum of glufosinate (2-amino-4-(hydroxymethylphosphinyl) butanoic acid) and its metabolite, 3-(hydroxymethylphosphinyl) propanoic acid, expressed as 2-amino-4-(hydroxymethylphosphinyl)butanoic acid equivalents.” 
 
 Table 5 to Paragraph (d)(2)
 | Commodity         | Parts per   million |

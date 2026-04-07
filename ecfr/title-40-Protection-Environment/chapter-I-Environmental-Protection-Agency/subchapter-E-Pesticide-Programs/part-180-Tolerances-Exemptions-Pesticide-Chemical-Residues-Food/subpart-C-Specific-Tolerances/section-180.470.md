@@ -1,6 +1,6 @@
 ##### § 180.470 Acetochlor; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of acetochlor, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only acetochlor, 2-chloro-2'-methyl-6-ethyl-*N*-ethoxymethylacetanilide, and its metabolites containing the ethyl methyl aniline (EMA) moiety and the hydroxyethyl methyl aniline (HEMA) moiety. Both parent and the named metabolites shall be determined as ethyl methyl aniline (EMA) and hydroxyethyl methyl aniline (HEMA), and calculated as the stoichiometric equivalents of acetochlor, in or on the following commodities:
+(a) *General.* Tolerances are established for residues of acetochlor, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only acetochlor, 2-chloro-2'-methyl-6-ethyl-*N*-ethoxymethylacetanilide, and its metabolites containing the ethyl methyl aniline (EMA) moiety and the hydroxyethyl methyl aniline (HEMA) moiety. Both parent and the named metabolites shall be determined as ethyl methyl aniline (EMA) and hydroxyethyl methyl aniline (HEMA), and calculated as the stoichiometric equivalents of acetochlor, in or on the following commodities: 
 
 | Commodity                                        | Parts per million |
 | ------------------------------------------------ | ----------------- |
@@ -47,11 +47,11 @@
 | Soybean, meal                                    | 1.2               |
 | Soybean, seed                                    | 1.0               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of acetochlor, including its metabolites and degradates, in or on the raw agricultural commodities in the table to this paragraph when present therein as a result of application of acetochlor to the growing crops in the table to paragraph (a) of this section. Compliance with the tolerance levels specified below is to be determined by measuring only acetochlor, 2-chloro-2'-methyl-6-ethyl-*N*-ethoxymethylacetanilide, and its metabolites containing the ethyl methyl aniline (EMA) moiety and the hydroxyethyl methyl aniline (HEMA) moiety. Both parent and the named metabolites shall be determined as ethyl methyl aniline (EMA) and hydroxyethyl methyl aniline (HEMA), and calculated as the stoichiometric equivalents of acetochlor, in or on the following commodities.
+(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of acetochlor, including its metabolites and degradates, in or on the raw agricultural commodities in the table to this paragraph when present therein as a result of application of acetochlor to the growing crops in the table to paragraph (a) of this section. Compliance with the tolerance levels specified below is to be determined by measuring only acetochlor, 2-chloro-2'-methyl-6-ethyl-*N*-ethoxymethylacetanilide, and its metabolites containing the ethyl methyl aniline (EMA) moiety and the hydroxyethyl methyl aniline (HEMA) moiety. Both parent and the named metabolites shall be determined as ethyl methyl aniline (EMA) and hydroxyethyl methyl aniline (HEMA), and calculated as the stoichiometric equivalents of acetochlor, in or on the following commodities. 
 
 | Commodity                                                                                             | Parts per million |
 | ----------------------------------------------------------------------------------------------------- | ----------------- |

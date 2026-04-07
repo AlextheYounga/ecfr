@@ -1581,7 +1581,7 @@ Kansas—2008 Lead NAAQS
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | Saline County, KS:                                                                                                                             |                                  |
 | Saline County (part)                                                                                                                           |                                  |
-| Area bounded by Schilling Rd. on the north, 1⁄4 mile west of S. Ohio St. on the east, Water Well Rd. on the south, and 9th Street on the west. |                                  |
+| Area bounded by Schilling Rd. on the north, 1/4 mile west of S. Ohio St. on the east, Water Well Rd. on the south, and 9th Street on the west. |                                  |
 | Rest of State                                                                                                                                  |                                  |
 | a Includes Indian Country located in each county or area, except as otherwise specified.                                                       |                                  |
 | 1 December 31, 2011 unless otherwise noted.                                                                                                    |                                  |

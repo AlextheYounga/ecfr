@@ -1,10 +1,10 @@
 ##### § 180.639 Flubendiamide; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of flubendiamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only flubendiamide *N*2-\[1, 1-dimethyl-2-(methylsulfonyl)ethyl\]-3-iodo-*N*1-\[2-methyl-4- \[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]phenyl\]-1,2-benzenedicarboxamide, in or on the following commodities:
+(a) *General.* (1) Tolerances are established for residues of flubendiamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only flubendiamide *N*2-\[1, 1-dimethyl-2-(methylsulfonyl)ethyl\]-3-iodo-*N*1-\[2-methyl-4- \[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]phenyl\]-1,2-benzenedicarboxamide, in or on the following commodities: 
 
 | Commodity                                                                              | Parts per million |
 | -------------------------------------------------------------------------------------- | ----------------- |
-| Almond, hulls1Brassica,                                                                | 9.0               |
+| Almond, hulls                                                                          | 9.0               |
 | Apple, wet pomace                                                                      | 5.0               |
 | Corn, field, forage                                                                    | 8.0               |
 | Corn, field, grain                                                                     | 0.03              |
@@ -27,7 +27,7 @@
 | Vegetable, leafy, except Brassica, group 4                                             | 11                |
 | 1 There are no U.S. registrations as of July 5, 2017, for use of flubendiamide on tea. |                   |
 
-(2) Tolerances are established for residues of flubendiamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only flubendiamide *N*2-\[1,1-dimethyl-2-(methylsulfonyl)ethyl\]-3-iodo-*N*1-\[2-methyl-4-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]phenyl\]-1,2-benzenedicarboxamide, in or on the following commodities:
+(2) Tolerances are established for residues of flubendiamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only flubendiamide *N*2-\[1,1-dimethyl-2-(methylsulfonyl)ethyl\]-3-iodo-*N*1-\[2-methyl-4-\[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]phenyl\]-1,2-benzenedicarboxamide, in or on the following commodities: 
 
 | Commodity                                                                | Parts per million |
 | ------------------------------------------------------------------------ | ----------------- |
@@ -83,11 +83,11 @@
 | Vegetable, legume, edible podded, subgroup 6A                            | 0.50              |
 | 1 There are no U.S. registrations for rice, grain.                       |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for residues of flubendiamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only flubendiamide N2-\[1, 1-dimethyl-2-(methylsulfonyl)ethyl\]-3-iodo-N1-\[2-methyl-4- \[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]phenyl\]-1, 2-benzenedicarboxamide, in or on the following commodities:
+(d) *Indirect or inadvertent residues.* Tolerances are established for residues of flubendiamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only flubendiamide N2-\[1, 1-dimethyl-2-(methylsulfonyl)ethyl\]-3-iodo-N1-\[2-methyl-4- \[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl\]phenyl\]-1, 2-benzenedicarboxamide, in or on the following commodities: 
 
 | Commodity             | Parts per million |
 | --------------------- | ----------------- |

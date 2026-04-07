@@ -1,6 +1,6 @@
 ##### § 52.1421 Classification of regions.
 
-The Nebraska plan was evaluated on the basis of the following classifications:
+The Nebraska plan was evaluated on the basis of the following classifications: 
 
 | Air quality control region                   | Pollutant |
 | -------------------------------------------- | --------- |

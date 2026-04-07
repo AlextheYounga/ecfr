@@ -1,6 +1,6 @@
 ##### § 180.377 Diflubenzuron; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of diflubenzuron, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only diflubenzuron (*N*-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide).
+(a) *General.* (1) Tolerances are established for residues of diflubenzuron, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only diflubenzuron (*N*-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide). 
 
 | Commodity                | Parts per million |
 | ------------------------ | ----------------- |
@@ -25,7 +25,7 @@
 | Soybean                  | 0.05              |
 | Soybean, hulls           | 0.5               |
 
-(2) Tolerances are established for residues of the insecticide diflubenzuron (N-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide), in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of diflubenzuron (N-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide), 4-chlorophenylyurea and 4-chloroaniline, calculated as the stoichiometric equivalent of diflubenzuron, in or on the commodity.
+(2) Tolerances are established for residues of the insecticide diflubenzuron (N-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide), in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of diflubenzuron (N-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide), 4-chlorophenylyurea and 4-chloroaniline, calculated as the stoichiometric equivalent of diflubenzuron, in or on the commodity. 
 
 | Commodity                                | Parts per million |
 | ---------------------------------------- | ----------------- |
@@ -63,7 +63,7 @@
 | Wheat, hay                               | 6.0               |
 | Wheat, straw                             | 3.5               |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the insecticide diflubenzuron (*N*-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6- difluorobenzamide) and its metabolites, in connection with use of the pesticide under section 18 emergency exemptions granted by EPA. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of diflubenzuron (*N*-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide), 4-chlorophenylyurea and 4-chloroaniline, calculated as the stoichiometric equivalent of diflubenzuron, in or on the commodity. The tolerances are specified in the following table, and will expire and are revoked on the dates specified.
+(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the insecticide diflubenzuron (*N*-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6- difluorobenzamide) and its metabolites, in connection with use of the pesticide under section 18 emergency exemptions granted by EPA. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of diflubenzuron (*N*-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide), 4-chlorophenylyurea and 4-chloroaniline, calculated as the stoichiometric equivalent of diflubenzuron, in or on the commodity. The tolerances are specified in the following table, and will expire and are revoked on the dates specified. 
 
 | Commodity       | Parts per million | Expiration/revocation date |
 | --------------- | ----------------- | -------------------------- |
@@ -71,7 +71,7 @@
 | Alfalfa, hay    | 6.0               | 12/31/17                   |
 | Lemon           | 0.8               | 12/31/10                   |
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration are established for residues of the insecticide diflubenzuron (N-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide), in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of diflubenzuron (N-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide), 4-chlorophenylyurea and 4-chloroaniline, calculated as the stoichiometric equivalent of diflubenzuron, in or on the commodity.
+(c) *Tolerances with regional registrations.* Tolerances with regional registration are established for residues of the insecticide diflubenzuron (N-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide), in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of diflubenzuron (N-\[\[(4-chlorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide), 4-chlorophenylyurea and 4-chloroaniline, calculated as the stoichiometric equivalent of diflubenzuron, in or on the commodity. 
 
 | Commodity       | Parts per million |
 | --------------- | ----------------- |
@@ -79,6 +79,6 @@
 | Alfalfa, hay    | 20                |
 | Alfalfa, seed   | 0.90              |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[65 FR 33699, May 24, 2000\] Editorial Note:For Federal Register citations affecting § 180.377, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,10 +1,10 @@
 ##### § 180.153 Diazinon; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide diazinon, *O*,*O*-diethyl *O*-\[6-methyl-2-(1-methylethyl)-4-pyrimidinyl\]phosphorothioate (CAS No. 333-41-5), in or on the following food commodities:
+(a) *General.* Tolerances are established for residues of the insecticide diazinon, *O*,*O*-diethyl *O*-\[6-methyl-2-(1-methylethyl)-4-pyrimidinyl\]phosphorothioate (CAS No. 333-41-5), in or on the following food commodities: 
 
 | Commodity                                                                | Parts per million |
 | ------------------------------------------------------------------------ | ----------------- |
-| Almond, hulls2                                                           | 3.0               |
+| Almond, hulls                                                            | 3.0               |
 | Apple                                                                    | 0.50              |
 | Apricot                                                                  | 0.20              |
 | Bean, lima                                                               | 0.50              |
@@ -45,9 +45,9 @@
 | 1 There are no domestic registrations for kiwifruit as of March 6, 2002. |                   |
 | 2 The expiration/revocation date for this tolerance is 9/10/2010.        |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the insecticide diazinon, *O*, *O*-diethyl *O*-\[6-methyl-2-(1-methylethyl)-4-pyrimidinyl\]-phosphorothioate (CAS No. 333-41-5), in or on the following food commodities:
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the insecticide diazinon, *O*, *O*-diethyl *O*-\[6-methyl-2-(1-methylethyl)-4-pyrimidinyl\]-phosphorothioate (CAS No. 333-41-5), in or on the following food commodities: 
 
 | Commodity           | Parts per million |
 | ------------------- | ----------------- |
@@ -66,6 +66,6 @@
 | Turnip, roots       | 0.50              |
 | Turnip, tops        | 0.75              |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[47 FR 42738, Sept. 29, 1982\] Editorial Note:For Federal Register citations affecting § 180.153, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
 ##### § 180.184 Linuron; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide linuron (3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea), including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only those linuron residues convertible to 3,4-dichloroaniline, calculated as the stoichiometric equivalent of linuron, in or on the commodity:
+(a) *General.* Tolerances are established for residues of the herbicide linuron (3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea), including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only those linuron residues convertible to 3,4-dichloroaniline, calculated as the stoichiometric equivalent of linuron, in or on the commodity: 
 
 Table 1 to Paragraph (a)
 | Commodity                                       | Parts per million |
@@ -62,13 +62,13 @@ Table 1 to Paragraph (a)
 | Soybean, seed                                   | 1.0               |
 | Soybean, vegetable                              | 1.0               |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the herbicide linuron \[3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea\], including its metabolites and degradates, in or on the commodities in the table below, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. Compliance with the tolerance levels specified below is to be determined by measuring only those linuron residues convertible to 3.4-dichloroaniline, calculated as the stoichiometric equivalent of linuron, in or on the commodity. The tolerance expires and is revoked on the date specified in the table.
+(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the herbicide linuron \[3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea\], including its metabolites and degradates, in or on the commodities in the table below, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. Compliance with the tolerance levels specified below is to be determined by measuring only those linuron residues convertible to 3.4-dichloroaniline, calculated as the stoichiometric equivalent of linuron, in or on the commodity. The tolerance expires and is revoked on the date specified in the table. 
 
 | Commodity | Parts per   million | Expiration/revocation date |
 | --------- | ------------------- | -------------------------- |
 | Lentil    | 0.1                 | 12/31/14                   |
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registrations, as defined in § 180.1(l), are established for residues of the herbicide linuron (3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea), including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only those linuron residues convertible to 3,4-dichloroaniline, calculated as the stoichiometric equivalent of linuron, in or on the commodity.
+(c) *Tolerances with regional registrations.* Tolerances with regional registrations, as defined in § 180.1(l), are established for residues of the herbicide linuron (3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea), including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only those linuron residues convertible to 3,4-dichloroaniline, calculated as the stoichiometric equivalent of linuron, in or on the commodity. 
 
 | Commodity     | Parts per million |
 | ------------- | ----------------- |
@@ -79,6 +79,6 @@ Table 1 to Paragraph (a)
 | Wheat, hay    | 0.5               |
 | Wheat, straw  | 2.0               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[64 FR 41822, Aug. 2, 1999, as amended at 72 FR 37653, July 11, 2007; 73 FR 51727, Sept. 5, 2008; 76 FR 81396, Dec. 28, 2011; 79 FR 8307, Feb. 12, 2014; 89 FR 4200, Jan. 23, 2024\]

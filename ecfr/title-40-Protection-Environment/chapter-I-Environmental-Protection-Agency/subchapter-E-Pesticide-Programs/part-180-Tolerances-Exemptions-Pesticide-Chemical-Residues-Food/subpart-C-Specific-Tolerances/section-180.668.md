@@ -1,11 +1,11 @@
 ##### § 180.668 Sulfoxaflor; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide sulfoxaflor, including its metabolites and degradates, in or on the commodities in the table. Compliance with the tolerance levels specified is to be determined by measuring only sulfoxaflor (*N*-\[methyloxido\[1-\[6-(trifluoromethyl)-3-pyridinyl\]ethyl\]-γ 4-sulfanylidene\]cyanamide).
+(a) *General.* Tolerances are established for residues of the insecticide sulfoxaflor, including its metabolites and degradates, in or on the commodities in the table. Compliance with the tolerance levels specified is to be determined by measuring only sulfoxaflor (*N*-\[methyloxido\[1-\[6-(trifluoromethyl)-3-pyridinyl\]ethyl\]-γ 4-sulfanylidene\]cyanamide). 
 
 Table 1 to Paragraph (a)
 | Commodity                                                             | Parts per million |
 | --------------------------------------------------------------------- | ----------------- |
-| Alfalfa, forageBrassica,1                                             | 7                 |
+| Alfalfa, forage                                                       | 7                 |
 | Alfalfa, hay                                                          | 20                |
 | Alfalfa, seed                                                         | 40                |
 | Alfalfa, silage                                                       | 9                 |
@@ -118,10 +118,10 @@ Table 1 to Paragraph (a)
 | Wheat, straw                                                          | 2.0               |
 | 1 There are no U.S. registrations as of June 20, 2023.                |                   |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[77 FR 59565, Sept. 28, 2012, as amended at 78 FR 38227, June 26, 2013; 80 FR 4515, Jan. 28, 2015; 82 FR 57151, Dec. 4, 2017; 84 FR 35553, July 24, 2019; 84 FR 57343, Oct. 25, 2019; 88 FR 39783, June 20, 2023\]

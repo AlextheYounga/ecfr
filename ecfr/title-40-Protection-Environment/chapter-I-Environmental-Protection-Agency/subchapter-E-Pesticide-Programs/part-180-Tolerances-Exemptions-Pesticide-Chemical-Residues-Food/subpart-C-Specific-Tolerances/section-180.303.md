@@ -1,6 +1,6 @@
 ##### § 180.303 Oxamyl; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the insecticide oxamyl, methyl *N,N*-dimethyl-*N*-\[(methylcarbamoyl)-oxy\]-1-thiooxamimidate, and its oxime metabolite methyl *N,N*-dimethyl-*N*-hydroxy-1-thiooxamimidate calculated as oxamyl in or on the following food commodities:
+(a) *General.* Tolerances are established for the combined residues of the insecticide oxamyl, methyl *N,N*-dimethyl-*N*-\[(methylcarbamoyl)-oxy\]-1-thiooxamimidate, and its oxime metabolite methyl *N,N*-dimethyl-*N*-hydroxy-1-thiooxamimidate calculated as oxamyl in or on the following food commodities: 
 
 | Commodity                                 | Parts per million |
 | ----------------------------------------- | ----------------- |
@@ -32,10 +32,10 @@
 | Vegetable, tuberous and corm, subgroup 1C | 0.1               |
 | Watermelon                                | 2.0               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[73 FR 54961, Sept. 24, 2008, as amended at 72598, Nov. 20, 2015\]

@@ -1,10 +1,10 @@
 ##### § 180.475 Difenoconazole; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of difenoconazole, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified below is to be determined by measuring only difenoconazole, 1-\[2-\[2-chloro-4-(4-chlorophenoxy)phenyl\]-4-methyl-1,3-dioxolan-2-ylmethyl\]-1H-1,2,4-triazole, in or on the following raw agricultural commodities:
+(a) *General.* (1) Tolerances are established for residues of difenoconazole, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified below is to be determined by measuring only difenoconazole, 1-\[2-\[2-chloro-4-(4-chlorophenoxy)phenyl\]-4-methyl-1,3-dioxolan-2-ylmethyl\]-1H-1,2,4-triazole, in or on the following raw agricultural commodities: 
 
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
-| Almond, hulls1Brassica,                                              | 7.0               |
+| Almond, hulls                                                        | 7.0               |
 | Apple, wet pomace                                                    | 25                |
 | Artichoke, globe                                                     | 1.5               |
 | Aspirated grain fractions                                            | 95                |
@@ -74,7 +74,7 @@
 | 1 There are no U.S. registrations for these commodities.             |                   |
 | 2 This tolerance expires on August 14, 2020.                         |                   |
 
-(2) Tolerances are established for residues of difenoconazole, including its metabolites and degradates, in the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring the sum of difenoconazole, 1-\[2-\[2-chloro-4-(4-chlorophenoxy)phenyl\]-4-methyl-1,3-dioxolan-2-ylmethyl\]-1*H*-1,2,4-triazole, and its metabolite, CGA-205375, 1-\[2-chloro-4-(4-chloro-phenoxy)phenyl\]-2-\[1,2,4\]triazol-1-yl-ethanol, calculated as the stoichiometric equivalent of difenoconazole, in the following commodities:
+(2) Tolerances are established for residues of difenoconazole, including its metabolites and degradates, in the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring the sum of difenoconazole, 1-\[2-\[2-chloro-4-(4-chlorophenoxy)phenyl\]-4-methyl-1,3-dioxolan-2-ylmethyl\]-1*H*-1,2,4-triazole, and its metabolite, CGA-205375, 1-\[2-chloro-4-(4-chloro-phenoxy)phenyl\]-2-\[1,2,4\]triazol-1-yl-ethanol, calculated as the stoichiometric equivalent of difenoconazole, in the following commodities: 
 
 | Commodity                             | Parts per million |
 | ------------------------------------- | ----------------- |
@@ -101,10 +101,10 @@
 | Sheep, meat                           | 0.05              |
 | Sheep, meat byproduct (except liver)  | 0.10              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[64 FR 36254, July 6, 1999\] Editorial Note:For Federal Register citations affecting § 180.475, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

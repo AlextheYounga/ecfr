@@ -1,6 +1,6 @@
 ##### § 180.585 Pyraflufen-ethyl; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide, pyraflufen-ethyl, including its metabolites and degradates, in the commodities in the table below. Compliance with the plant commodity tolerance levels specified in the table is to be determined by measuring only the sum of the parent pyraflufen-ethyl, ethyl 2-\[2-chloro-5-(4-chloro-5-difluoromethoxy)-1-methyl-1*H*-pyrazol-3-yl\]-4-fluorophenoxy\] acetate, and its acid metabolite, E-1, 2-chloro-5-(4-chloro-5-difluoromethoxy-1-methyl-1*H*-pyrazol-3-yl)-4-fluorophenoxyacetic acid, calculated as the stoichiometric equivalent of pyraflufen-ethyl in or on the commodity. Compliance with the livestock commodity tolerance levels specified in the table is to be determined by measuring only the sum of the parent pyraflufen-ethyl, ethyl 2-\[2-chloro-5-(4-chloro-5-difluoromethoxy)-1-methyl-1*H*-pyrazol-3-yl\]-4-fluorophenoxy\] acetate and its acid metabolites: E-1, 2-chloro-5-(4-chloro-5-difluoromethoxy-1-methyl-1*H*-pyrazol-3-yl)-4-fluorophenoxyacetic acid, and E-9, 2-chloro-5-(4-chloro-5-difluoromethoxy-1*H*-pyrazol-3-yl)-4-fluorophenoxyacetic acid, both calculated as the stoichiometric equivalent of pyraflufen-ethyl in or on the commodity.
+(a) *General.* Tolerances are established for residues of the herbicide, pyraflufen-ethyl, including its metabolites and degradates, in the commodities in the table below. Compliance with the plant commodity tolerance levels specified in the table is to be determined by measuring only the sum of the parent pyraflufen-ethyl, ethyl 2-\[2-chloro-5-(4-chloro-5-difluoromethoxy)-1-methyl-1*H*-pyrazol-3-yl\]-4-fluorophenoxy\] acetate, and its acid metabolite, E-1, 2-chloro-5-(4-chloro-5-difluoromethoxy-1-methyl-1*H*-pyrazol-3-yl)-4-fluorophenoxyacetic acid, calculated as the stoichiometric equivalent of pyraflufen-ethyl in or on the commodity. Compliance with the livestock commodity tolerance levels specified in the table is to be determined by measuring only the sum of the parent pyraflufen-ethyl, ethyl 2-\[2-chloro-5-(4-chloro-5-difluoromethoxy)-1-methyl-1*H*-pyrazol-3-yl\]-4-fluorophenoxy\] acetate and its acid metabolites: E-1, 2-chloro-5-(4-chloro-5-difluoromethoxy-1-methyl-1*H*-pyrazol-3-yl)-4-fluorophenoxyacetic acid, and E-9, 2-chloro-5-(4-chloro-5-difluoromethoxy-1*H*-pyrazol-3-yl)-4-fluorophenoxyacetic acid, both calculated as the stoichiometric equivalent of pyraflufen-ethyl in or on the commodity. 
 
 | Commodity                                                        | Parts per million |
 | ---------------------------------------------------------------- | ----------------- |
@@ -43,10 +43,10 @@
 | Wheat, hay                                                       | 0.01              |
 | Wheat, straw                                                     | 0.01              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[68 FR 23055, Apr. 30, 2003, as amended at 68 FR 27739, May 21, 2003; 69 FR 26312, May 12, 2004; 73 FR 51743, Sept. 5, 2008; 76 FR 31484, June 11, 2011; 77 FR 75861, Dec. 26, 2012; 78 FR 13263, Feb. 27, 2013; 84 FR 48076, Sept. 12, 2019\]

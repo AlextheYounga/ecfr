@@ -1,6 +1,6 @@
 ##### § 180.459 Triasulfuron; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide triasulfuron \[3-(6-methoxy-4-methyl-1,3,5-triazin-2-yl)-1-(2-(2-chloroethoxy)phenylsulfonyl)urea\] in or on the following raw agricultural commodities:
+(a) *General.* Tolerances are established for residues of the herbicide triasulfuron \[3-(6-methoxy-4-methyl-1,3,5-triazin-2-yl)-1-(2-(2-chloroethoxy)phenylsulfonyl)urea\] in or on the following raw agricultural commodities: 
 
 | Commodity                              | Parts per million |
 | -------------------------------------- | ----------------- |
@@ -33,10 +33,10 @@
 | Wheat, grain                           | 0.02              |
 | Wheat, straw                           | 2.0               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[60 FR 36731, July 18, 1995, as amended at 63 FR 44152, Aug. 18, 1998; 63 FR 66449, Dec. 2, 1998\]

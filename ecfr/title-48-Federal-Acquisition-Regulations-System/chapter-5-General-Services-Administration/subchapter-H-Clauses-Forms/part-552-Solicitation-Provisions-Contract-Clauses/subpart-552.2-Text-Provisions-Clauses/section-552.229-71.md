@@ -1,6 +1,6 @@
 ##### 552.229-71 Federal Excise Tax—DC Government.
 
-As prescribed in 529.470b, insert the following clause: 
+As prescribed in 529.470b, insert the following clause:
 
 Federal Excise Tax—DC Government (SEP 1999)
 

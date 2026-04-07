@@ -1,10 +1,10 @@
 ##### § 180.511 Buprofezin; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of buprofezin, including its metabolites and degradates in or on the commodities in the table in this paragraph (a). Compliance with the tolerance levels specified in the table in this paragraph (a) is to be determined by measuring only the buprofezin, 2-\[(1,1-dimethylethyl)imino\]tetrahydro-3-(1-methylethyl)-5-phenyl-4*H*-1,3,5-thiadiazin-4-one, in the commodity.
+(a) *General.* Tolerances are established for residues of buprofezin, including its metabolites and degradates in or on the commodities in the table in this paragraph (a). Compliance with the tolerance levels specified in the table in this paragraph (a) is to be determined by measuring only the buprofezin, 2-\[(1,1-dimethylethyl)imino\]tetrahydro-3-(1-methylethyl)-5-phenyl-4*H*-1,3,5-thiadiazin-4-one, in the commodity. 
 
 | Commodity                                                              | Parts per million |
 | ---------------------------------------------------------------------- | ----------------- |
-| Almond, hulls3Brassica,                                                | 2.0               |
+| Almond, hulls                                                          | 2.0               |
 | Apricot 3                                                              | 9.0               |
 | Atemoya                                                                | 0.30              |
 | Avocado                                                                | 0.30              |
@@ -118,10 +118,10 @@
 | 2 There are no U.S. registrations at this time.                        |                   |
 | 3 This tolerance expires on March 2, 2020.                             |                   |
 
-(b) *Section 18 emergency exemption.* \[Reserved\]
+(b) *Section 18 emergency exemption.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[62 FR 40741, July 30, 1997\] Editorial Note:For Federal Register citations affecting § 180.511, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

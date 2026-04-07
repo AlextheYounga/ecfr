@@ -1,6 +1,6 @@
 ##### § 52.471 Classification of regions.
 
-The District of Columbia plan was evaluated on the basis of the following classifications:
+The District of Columbia plan was evaluated on the basis of the following classifications: 
 
 | Air quality control region  | Pollutant |
 | --------------------------- | --------- |

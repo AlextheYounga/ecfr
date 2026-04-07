@@ -1,6 +1,6 @@
 ##### § 180.215 Naled; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide naled (1,2-dibromo-2,2-dichloro-ethyl dimethyl phosphate) and its conversion product 2,2-dichlorovinyl dimethyl phosphate, expressed as naled, resulting from the application of the pesticide to growing crops or from direct application to livestock and poultry, in or on the following raw agricultural commodities:
+(a) *General.* (1) Tolerances are established for residues of the insecticide naled (1,2-dibromo-2,2-dichloro-ethyl dimethyl phosphate) and its conversion product 2,2-dichlorovinyl dimethyl phosphate, expressed as naled, resulting from the application of the pesticide to growing crops or from direct application to livestock and poultry, in or on the following raw agricultural commodities: 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -43,12 +43,12 @@
 | Turnip, greens          | 3                 |
 | Walnut                  | 0.5               |
 
-(2) A tolerance of 0.5 part per million is established for the pesticide naled in or on all raw agricultural commodities, except those otherwise listed in this section, from use of the pesticide for area pest (mosquito and fly) control.
+(2) A tolerance of 0.5 part per million is established for the pesticide naled in or on all raw agricultural commodities, except those otherwise listed in this section, from use of the pesticide for area pest (mosquito and fly) control. 
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[42 FR 46304, Sept. 15, 1977, as amended at 54 FR 20125, May 10, 1989; 63 FR 57074, Oct. 26, 1998; 66 FR 50833, Oct. 5, 2001; 77 FR 59124, Sept. 26, 2012\]

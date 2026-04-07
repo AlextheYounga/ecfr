@@ -1,13 +1,13 @@
 ##### § 180.181 Chlorpropham; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the plant regulator and herbicide chlorpropham (isopropyl m-chlorocarbanilate (CIPC) in or on the following food commodities:
+(a) *General.* (1) Tolerances are established for residues of the plant regulator and herbicide chlorpropham (isopropyl m-chlorocarbanilate (CIPC) in or on the following food commodities: 
 
 | Commodity        | Parts per million |
 | ---------------- | ----------------- |
 | Potato           | 30                |
 | Potato, wet peel | 40                |
 
-(2) Tolerances are established for the combined residues of the plant regulator and herbicide chlorpropham (isopropyl m-chlorocarbanilate (CIPC) and its metabolite 4-hydroxychlorpropham-O-sulfonic acid (4-HSA) in or on the following food commodities:
+(2) Tolerances are established for the combined residues of the plant regulator and herbicide chlorpropham (isopropyl m-chlorocarbanilate (CIPC) and its metabolite 4-hydroxychlorpropham-O-sulfonic acid (4-HSA) in or on the following food commodities: 
 
 | Commodity                             | Parts per million |
 | ------------------------------------- | ----------------- |
@@ -33,10 +33,10 @@
 | Sheep, meat                           | 0.06              |
 | Sheep, meat byproducts except kidney  | 0.06              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[43 FR 52487, Nov. 13, 1978, as amended at 63 FR 57073, Oct. 26, 1998; 72 FR 37653, July 11, 2007\]

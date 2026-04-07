@@ -1,6 +1,6 @@
 ##### § 52.71 Classification of regions.
 
-The Alaska plan was evaluated on the basis of the following classifications:
+The Alaska plan was evaluated on the basis of the following classifications: 
 
 | Air quality control Region      | Pollutant |
 | ------------------------------- | --------- |

@@ -1,11 +1,11 @@
 ##### § 180.582 Pyraclostrobin; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the fungicide pyraclostrobin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyraclostrobin (carbamic acid, \[2-\[\[\[ 1-(4-chlorophenyl)-1H-pyrazol-3-yl\]oxy\] methyl\]phenyl\]methoxy-, methyl ester) and its desmethoxy metabolite (methyl-N-\[\[\[1-(4-chlorophenyl)-1H-pyrazol-3-yl\]oxy\]methyl\] phenylcarbamate), calculated as the stoichiometric equivalent of pyraclostrobin, in or on the commodity.
+(a) *General.* (1) Tolerances are established for residues of the fungicide pyraclostrobin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyraclostrobin (carbamic acid, \[2-\[\[\[ 1-(4-chlorophenyl)-1H-pyrazol-3-yl\]oxy\] methyl\]phenyl\]methoxy-, methyl ester) and its desmethoxy metabolite (methyl-N-\[\[\[1-(4-chlorophenyl)-1H-pyrazol-3-yl\]oxy\]methyl\] phenylcarbamate), calculated as the stoichiometric equivalent of pyraclostrobin, in or on the commodity. 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                           | Parts per million |
 | ------------------------------------------------------------------- | ----------------- |
-| Alfalfa, forageBrassica,                                            | 10                |
+| Alfalfa, forage                                                     | 10                |
 | Alfalfa, hay                                                        | 30                |
 | Almond, hulls                                                       | 7.0               |
 | Apple, wet pomace                                                   | 8.0               |
@@ -103,7 +103,7 @@ Table 1 to Paragraph (a)(1)
 | Wheat, hay                                                          | 6.0               |
 | Wheat, straw                                                        | 8.5               |
 
-(2) Tolerances are established for combined residues of the fungicide pyraclostrobin carbamic acid, \[2-\[\[\[1-(4-chlorophenyl)-1H-pyrazol-3-yl\]oxy\]methyl\]phenyl\]methoxy-, methyl ester and its metabolites convertible to 1-(4-chlorophenyl)-1H-pyrazol-3-ol and 1-(4-chloro-2-hydroxyphenyl)-1H-pyrazol-3-ol, expressed as parent compound, in or on the following raw agricultural commodities.
+(2) Tolerances are established for combined residues of the fungicide pyraclostrobin carbamic acid, \[2-\[\[\[1-(4-chlorophenyl)-1H-pyrazol-3-yl\]oxy\]methyl\]phenyl\]methoxy-, methyl ester and its metabolites convertible to 1-(4-chlorophenyl)-1H-pyrazol-3-ol and 1-(4-chloro-2-hydroxyphenyl)-1H-pyrazol-3-ol, expressed as parent compound, in or on the following raw agricultural commodities. 
 
 | Commodity                             | Parts per million |
 | ------------------------------------- | ----------------- |
@@ -133,10 +133,10 @@ Table 1 to Paragraph (a)(1)
 | Sheep, meat                           | 0.1               |
 | Sheep, meat byproducts, except liver  | 0.2               |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
-\[67 FR 60901, Sept. 27, 2002\] Editorial Note:For Federal Register citations affecting § 180.582, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+\[67 FR 60901, Sept. 27, 2002, as amended at 69 FR 63100, Oct. 29, 2004; 71 FR 17021, Apr. 5, 2006; 72 FR 54569, Sept. 26, 2007; 73 FR 15431, Mar. 24, 2008; 73 FR 21842, Apr. 23, 2008; 73 FR 44167, July 30, 2008; 74 FR 11499, Mar. 18, 2009; 74 FR 51496, Oct. 7, 2009; 75 FR 770, Jan. 6, 2010; 75 FR 42329, July 21, 2010; 75 FR 80346, Dec. 22, 2010; 76 FR 81396, Dec. 28, 2011; 78 FR 53046, Aug. 28, 2013; 80 FR 19238, Apr. 10, 2015; 83 FR 51862, Oct. 15, 2018; 86 FR 52088, Sept. 20, 2021; 88 FR 56776, Aug. 21, 2023; 90 FR 10702, Feb. 26, 2025\]

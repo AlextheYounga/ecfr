@@ -1,8 +1,8 @@
 ##### § 81.457 Ozone Transport Region.
 
-Except as provided in paragraph (a), the Ozone Transport Region is comprised of the areas identified by Congress under 42 U.S.C. 7511c(a).
+Except as provided in paragraph (a), the Ozone Transport Region is comprised of the areas identified by Congress under 42 U.S.C. 7511c(a). 
 
-(a) *Ozone Transport Region boundary.* As of March 14, 2022, the boundary for the Ozone Transport Region consists of the entire States of Connecticut, Delaware, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, and Vermont; portions of Maine identified in this section under Table 1; and the Consolidated Metropolitan Statistical Area that includes the District of Columbia and the following counties and cities in Virginia: Arlington County, Fairfax County, Loudoun County, Prince William County, Strafford County, Alexandria City, Fairfax City, Falls Church City, Manassas City, and Manassas Park City.
+(a) *Ozone Transport Region boundary.* As of March 14, 2022, the boundary for the Ozone Transport Region consists of the entire States of Connecticut, Delaware, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, and Vermont; portions of Maine identified in this section under Table 1; and the Consolidated Metropolitan Statistical Area that includes the District of Columbia and the following counties and cities in Virginia: Arlington County, Fairfax County, Loudoun County, Prince William County, Strafford County, Alexandria City, Fairfax City, Falls Church City, Manassas City, and Manassas Park City. 
 
 Table 1 to Paragraph (a)—Maine Towns and Cities in the Ozone Transport Region
 | Maine towns and cities in the ozone transport region                                                                                                                                                                                                                                                              |

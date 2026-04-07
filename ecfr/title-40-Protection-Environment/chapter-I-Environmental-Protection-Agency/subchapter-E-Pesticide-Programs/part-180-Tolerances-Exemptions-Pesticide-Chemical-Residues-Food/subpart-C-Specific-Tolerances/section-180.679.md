@@ -1,6 +1,6 @@
 ##### § 180.679 Flupyradifurone; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide flupyradifurone, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only flupyradifurone, 4-\[\[(6-chloro-3-pyridinyl)methyl\](2,2-difluoroethyl)amino\]- 2(5*H*)-furanone.
+(a) *General.* Tolerances are established for residues of the insecticide flupyradifurone, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only flupyradifurone, 4-\[\[(6-chloro-3-pyridinyl)methyl\](2,2-difluoroethyl)amino\]- 2(5*H*)-furanone. 
 
 Table 1 to Paragraph (a)
 | Commodity                                                                                       | Parts per million |
@@ -81,9 +81,9 @@ Table 1 to Paragraph (a)
 | Vegetable, tuberous and corm, subgroup 1C                                                       | 0.05              |
 | 1No U.S. registration.                                                                          |                   |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) *Tolerances with regional restrictions.* Tolerances are established for residues of the insecticide flupyradifurone, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only flupyradifurone, 4-\[\[(6-chloro-3-pyridinyl)methyl\](2,2-difluoroethyl)amino\]- 2(5*H*)-furanone.
+(c) *Tolerances with regional restrictions.* Tolerances are established for residues of the insecticide flupyradifurone, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only flupyradifurone, 4-\[\[(6-chloro-3-pyridinyl)methyl\](2,2-difluoroethyl)amino\]- 2(5*H*)-furanone. 
 
 Table 3 to Paragraph (c)
 | Commodity                               | Parts per million |
@@ -92,6 +92,6 @@ Table 3 to Paragraph (c)
 | Clover, hay                             | 30                |
 | Grass, forage, fodder and hay, group 17 | 15                |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[80 FR 3487, Jan. 23, 2015, as amended at 81 FR 65557, Sept. 23, 2016; 82 FR 13256, Mar. 10, 2017; 85 FR 5578, Jan. 31, 2020; 85 FR 51671, Aug. 21, 2020; 86 FR 21947, Apr. 26, 2021; 88 FR 75506, Nov. 3, 2023\]

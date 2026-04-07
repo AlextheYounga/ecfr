@@ -1,8 +1,8 @@
 ##### § 52.626 Compliance schedules.
 
-(a) \[Reserved\]
+(a) \[Reserved\] 
 
-(b) The compliance schedules for the sources identified below are disapproved as not meeting the requirements of Subpart N of this chapter. The regulations cited are air pollution control regulations of the State.
+(b) The compliance schedules for the sources identified below are disapproved as not meeting the requirements of Subpart N of this chapter. The regulations cited are air pollution control regulations of the State. 
 
 | Source                          | Location | Regulation sections   involved | Date of   adoption |
 | ------------------------------- | -------- | ------------------------------ | ------------------ |

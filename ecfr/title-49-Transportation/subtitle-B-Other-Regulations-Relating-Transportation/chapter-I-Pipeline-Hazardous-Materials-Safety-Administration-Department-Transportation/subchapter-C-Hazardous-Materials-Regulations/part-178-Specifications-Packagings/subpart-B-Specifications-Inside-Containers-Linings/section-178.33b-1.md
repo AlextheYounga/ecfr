@@ -1,7 +1,7 @@
 ##### § 178.33b-1 Compliance.
 
-(a) Required in all details. 
+(a) Required in all details.
 
-(b) \[Reserved\] 
+(b) \[Reserved\]
 
 \[74 FR 2268, Jan. 14, 2009\]

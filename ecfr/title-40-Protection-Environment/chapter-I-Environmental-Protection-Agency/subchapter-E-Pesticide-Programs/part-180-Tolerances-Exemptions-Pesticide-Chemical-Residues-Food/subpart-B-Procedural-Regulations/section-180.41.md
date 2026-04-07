@@ -1,21 +1,21 @@
 ##### § 180.41 Crop group tables.
 
-(a) The tables in this section are to be used in conjunction with § 180.40 to establish crop group tolerances.*Crop Group 1:*
+(a) The tables in this section are to be used in conjunction with § 180.40 to establish crop group tolerances. 
 
-(b) Commodities not listed are not considered as included in the groups for the purposes of paragraph (b), and individual tolerances must be established. Miscellaneous commodities intentionally not included in any group include globe artichoke, hops, peanut, and water chestnut.
+(b) Commodities not listed are not considered as included in the groups for the purposes of paragraph (b), and individual tolerances must be established. Miscellaneous commodities intentionally not included in any group include globe artichoke, hops, peanut, and water chestnut. 
 
-(c) Each group is identified by a group name and consists of a list of representative commodities followed by a list of all commodity members for the group. If the group includes subgroups, each subgroup lists the subgroup name, the representative commodity or commodities, and the member commodities for the subgroup. Subgroups, which are a subset of their associated crop group, are established for some but not all crops groups.
+(c) Each group is identified by a group name and consists of a list of representative commodities followed by a list of all commodity members for the group. If the group includes subgroups, each subgroup lists the subgroup name, the representative commodity or commodities, and the member commodities for the subgroup. Subgroups, which are a subset of their associated crop group, are established for some but not all crops groups. 
 
-(1) *Crop Group 1:* Root and Tuber Vegetables Group.
+(1) *Crop Group 1:* Root and Tuber Vegetables Group. 
 
-(i) *Representative commodities.* Carrot, potato, radish, and sugar beet.
+(i) *Representative commodities.* Carrot, potato, radish, and sugar beet. 
 
-(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 1 and identifies the related crop subgroups.
+(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 1 and identifies the related crop subgroups. 
 
-Table 1—Crop Group 1: Root and Tuber VegetablesAllium
+Table 1—Crop Group 1: Root and Tuber Vegetables
 | Commodities                                                        | Related crop subgroups |
 | ------------------------------------------------------------------ | ---------------------- |
-| Arracacha (Arracacia xanthorrhiza)**Crop Subgroup 1A.**            | 1C, 1D                 |
+| Arracacha (Arracacia xanthorrhiza)                                 | 1C, 1D                 |
 | Arrowroot (Maranta arundinacea)                                    | 1C, 1D                 |
 | Artichoke, Chinese (Stachys affinis)                               | 1C, 1D                 |
 | Artichoke, Jerusalem (Helianthus tuberosus)                        | 1C, 1D                 |
@@ -41,7 +41,7 @@ Table 1—Crop Group 1: Root and Tuber VegetablesAllium
 | Radish (Raphanus sativus)                                          | 1A, 1B                 |
 | Radish, oriental (daikon) (Raphanus sativus subvar. longipinnatus) | 1A, 1B                 |
 | Rutabaga (Brassica campestris var. napobrassica)                   | 1A, 1B                 |
-| Salsify (oyster plant) (Tragopogon porrifolius)                    | 1A, 1B                 |
+| Salsify (oyster plant) (Tragopogon porrifolius).                   | 1A, 1B                 |
 | Salsify, black (Scorzonera hispanica)                              | 1A, 1B                 |
 | Salsify, Spanish (Scolymus hispanicus)                             | 1A, 1B                 |
 | Skirret (Sium sisarum)                                             | 1A, 1B                 |
@@ -52,7 +52,7 @@ Table 1—Crop Group 1: Root and Tuber VegetablesAllium
 | Yam bean (jicama, manoic pea) (Pachyrhizus spp.)                   | 1C, 1D                 |
 | Yam, true (Dioscorea spp.)                                         | 1C, 1D                 |
 
-(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 1, specifies the representative commodity(ies) for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 1, specifies the representative commodity(ies) for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 1 Subgroup Listing
 | Representative commodities                                                   | Commodities                                                                                                                                                                                                                                           |
@@ -66,19 +66,19 @@ Table 2—Crop Group 1 Subgroup Listing
 | **Crop Subgroup 1D.** Tuberous and corm vegetables (except potato) subgroup. |                                                                                                                                                                                                                                                       |
 | Sweet potato.                                                                | Arracacha; arrowroot; artichoke, Chinese; artichoke, Jerusalem; canna, edible; cassava, bitter and sweet; chayote (root); chufa; dasheen; ginger; leren; sweet potato; tanier; turmeric; yam bean; yam, true.                                         |
 
-(2) *Crop Group 2.* Leaves of Root and Tuber Vegetables (Human Food or Animal Feed) Group (Human Food or Animal Feed) Group.
+(2) *Crop Group 2.* Leaves of Root and Tuber Vegetables (Human Food or Animal Feed) Group (Human Food or Animal Feed) Group. 
 
-(i) *Representative commodities.* Turnip and garden beet or sugar beet.
+(i) *Representative commodities.* Turnip and garden beet or sugar beet. 
 
-(ii) *Commodities.* The following is a list of all the commodities included in Crop Group 2:
+(ii) *Commodities.* The following is a list of all the commodities included in Crop Group 2: 
 
 Crop Group 2: Leaves of Root and Tuber Vegetables (Human Food or Animal Feed) Group—Commodities Beet, garden (*Beta vulgaris*) Beet, sugar (*Beta vulgaris*) Burdock, edible (*Arctium lappa*) Carrot (*Daucus carota*) Cassava, bitter and sweet (*Manihot esculenta*) Celeriac (celery root) (*Apium graveolens* var. *rapaceum*) Chervil, turnip-rooted (*Chaerophyllum bulbosum*) Chicory (*Cichorium intybus*) Dasheen (taro) (*Colocasia esculenta*) Parsnip (*Pastinaca sativa*) Radish (*Raphanus sativus*) Radish, oriental (daikon) (*Raphanus sativus* subvar. *longipinnatus*) Rutabaga (*Brassica campestris* var. *napobrassica*) Salsify, black (*Scorzonera hispanica*) Sweet potato (*Ipomoea batatas*) Tanier (cocoyam) (*Xanthosoma sagittifolium*) Turnip (*Brassica rapa* var. *rapa*) Yam, true (*Dioscorea* spp.)
 
-(3) *Crop Group 3.* Bulb Vegetables (*Allium* spp.) Group.
+(3) *Crop Group 3.* Bulb Vegetables (*Allium* spp.) Group. 
 
-(i) *Representative commodities.* Onion, green; and onion, dry bulb.
+(i) *Representative commodities.* Onion, green; and onion, dry bulb. 
 
-(ii) *Commodities.* The following is a list of all the commodities in Crop Group 3.
+(ii) *Commodities.* The following is a list of all the commodities in Crop Group 3. 
 
 Crop Group 3: Bulb Vegetable (Allium spp.) Group—Commodities
 | Garlic, bulb (Allium sativum)                                            |
@@ -88,11 +88,11 @@ Crop Group 3: Bulb Vegetable (Allium spp.) Group—Commodities
 | Onion, Welsh, (Allium fistulosum)                                        |
 | Shallot (Allium cepa var. cepa)                                          |
 
-(4) *Crop Group 3-07.* Bulb Vegetable Group.
+(4) *Crop Group 3-07.* Bulb Vegetable Group. 
 
-(i) *Representative Commodities.* Onion, bulb and onion, green.
+(i) *Representative Commodities.* Onion, bulb and onion, green. 
 
-(ii) *Table.* The following Table 1 lists all the commodities listed in Crop Group 3-07 and identifies the related crop subgroups.
+(ii) *Table.* The following Table 1 lists all the commodities listed in Crop Group 3-07 and identifies the related crop subgroups. 
 
 Table 1—Crop Group 3-07: Bulb Vegetable Group
 | Commodities                                                                                                                                                                                       | Related crop subgroups |
@@ -123,9 +123,9 @@ Table 1—Crop Group 3-07: Bulb Vegetable Group
 | Onion, Welsh, tops (Allium fistulosum L.)                                                                                                                                                         | 3-07B                  |
 | Shallot, bulb (Allium cepa var. aggregatum G. Don.)                                                                                                                                               | 3-07A                  |
 | Shallot, fresh leaves (Allium cepa var. aggregatum G. Don.)                                                                                                                                       | 3-07B                  |
-| Cultivars, varieties, and/or hybrids of these                                                                                                                                                     |                        |
+| Cultivars, varieties, and/or hybrids of these.                                                                                                                                                    |                        |
 
-(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 3-07, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup.
+(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 3-07, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 3-07: Subgroup Listing
 | Representative commodities                                       | Commodities                                                                                                                                                                                                                                                                                                          |
@@ -133,11 +133,11 @@ Table 2—Crop Group 3-07: Subgroup Listing
 | **Crop subgroup 3-07A.** Onion, bulb, subgroup.   Onion, bulb.   | Daylily, bulb; fritillaria, bulb; garlic, bulb; garlic, great-headed, bulb; garlic, serpent, bulb; lily, bulb; onion, bulb; onion, Chinese, bulb; onion, pearl; onion, potato, bulb; shallot, bulb; cultivars, varieties, and/or hybrids of these.                                                                   |
 | **Crop subgroup 3-07B.** Onion, green, subgroup.   Onion, green. | Chive, fresh leaves; chive, Chinese, fresh leaves; elegans hosta; fritillaria, leaves; kurrat; lady's leek; leek; leek, wild; Onion, Beltsville bunching; onion, fresh; onion, green; onion, macrostem; onion, tree, tops; onion, Welsh, tops; shallot, fresh leaves; cultivars, varieties, and/or hybrids of these. |
 
-(5) *Crop Group 4.* Leafy Vegetables (Except *Brassica* Vegetables) Group.
+(5) *Crop Group 4.* Leafy Vegetables (Except *Brassica* Vegetables) Group. 
 
-(i) *Representative commodities.* Celery, head lettuce, leaf lettuce, and spinach (*Spinacia oleracea*).
+(i) *Representative commodities.* Celery, head lettuce, leaf lettuce, and spinach (*Spinacia oleracea*). 
 
-(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 4 and identifies the related crop subgroups.
+(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 4 and identifies the related crop subgroups. 
 
 Table 1—Crop Group 4: Leafy Vegetables (Except BRASSICA Vegetables) Group
 | Commodities                                                             | Related crop subgroups |
@@ -170,7 +170,7 @@ Table 1—Crop Group 4: Leafy Vegetables (Except BRASSICA Vegetables) Group
 | Spinach, vine (Malabar spinach, Indian spinach) (Basella alba)          | 4A                     |
 | Swiss chard (Beta vulgaris var. cicla)                                  | 4B                     |
 
-(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 4, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 4, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 4 Subgroup Listing
 | Representative commodities                                     | Commodities                                                                                                                                                                                                                                                                              |
@@ -180,11 +180,11 @@ Table 2—Crop Group 4 Subgroup Listing
 | **Crop Subgroup 4B.** Leaf petioles subgroup.                  |                                                                                                                                                                                                                                                                                          |
 | Celery.                                                        | Cardoon; celery; celery, Chinese; celtuce; fennel, Florence; rhubarb; Swiss chard.                                                                                                                                                                                                       |
 
-(6) *Crop Group 4-16.* Leafy Vegetable Group.
+(6) *Crop Group 4-16.* Leafy Vegetable Group. 
 
-(i) *Representative commodities.* Head lettuce, leaf lettuce, mustard greens, and spinach.
+(i) *Representative commodities.* Head lettuce, leaf lettuce, mustard greens, and spinach. 
 
-(ii) *Commodities.* The following Table 1 lists all commodities included in Crop Group 4-16.
+(ii) *Commodities.* The following Table 1 lists all commodities included in Crop Group 4-16. 
 
 Table 1—Crop Group 4-16: Leafy Vegetable Group
 | Commodities                                                                                                                                                                              | Related crop subgroups |
@@ -253,7 +253,7 @@ Table 1—Crop Group 4-16: Leafy Vegetable Group
 | Watercress (Nasturtium officinale W.T. Aiton)                                                                                                                                            | 4-16B                  |
 | Cultivars, varieties, and hybrids of these commodities                                                                                                                                   |                        |
 
-(iii) *Crop subgroups.* The following Table 2 identifies the crop subgroups for Crop Group 4-16, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Crop subgroups.* The following Table 2 identifies the crop subgroups for Crop Group 4-16, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 4-16: Subgroup Listing
 | Representative commodities                                  | Commodities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -263,11 +263,11 @@ Table 2—Crop Group 4-16: Subgroup Listing
 | **Crop Subgroup 4-16B.** Brassica **leafy greens subgroup** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Mustard greens                                              | Arugula; broccoli, Chinese; broccoli raab; cabbage, abyssinian; cabbage, Chinese, bok choy; cabbage, seakale; collards; cress, garden; cress, upland; hanover salad; kale; maca, leaves; mizuna; mustard greens; radish, leaves; rape greens; rocket, wild; shepherd's purse; turnip greens; watercress; cultivars, varieties, and hybrids of these commodities.                                                                                                                                                                                                                                                                                                                                                   |
 
-(7) *Crop Group 5.Brassica* (Cole) Leafy Vegetables Group.
+(7) *Crop Group 5.Brassica* (Cole) Leafy Vegetables Group. 
 
-(i) *Representative commodities.* Broccoli or cauliflower; cabbage; and mustard greens.
+(i) *Representative commodities.* Broccoli or cauliflower; cabbage; and mustard greens. 
 
-(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 5 and identifies the related crop subgroups.
+(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 5 and identifies the related crop subgroups. 
 
 Table 1—Crop Group 5: Brassica (Cole) Leafy Vegetables
 | Commodities                                               | Related crop subgroups |
@@ -290,7 +290,7 @@ Table 1—Crop Group 5: Brassica (Cole) Leafy Vegetables
 | Mustard spinach (Brassica rapa Perviridis Group)          | 5B                     |
 | Rape greens (Brassica napus)                              | 5B                     |
 
-(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 5, specifies the representative commodity(ies) for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 5, specifies the representative commodity(ies) for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 5 Subgroup Listing
 | Representative commodities                            | Commodities                                                                                                                                       |
@@ -300,11 +300,11 @@ Table 2—Crop Group 5 Subgroup Listing
 | **Crop Subgroup 5B.** Leafy Brassica greens subgroup. |                                                                                                                                                   |
 | Mustard greens                                        | Broccoli raab; cabbage, Chinese (bok choy); collards; kale; mizuna; mustard greens; mustard spinach; rape greens                                  |
 
-(8) *Crop Group 5-16. Brassica* Head and Stem Vegetable Group.
+(8) *Crop Group 5-16. Brassica* Head and Stem Vegetable Group. 
 
-(i) *Representative commodities.* Broccoli or cauliflower and cabbage.
+(i) *Representative commodities.* Broccoli or cauliflower and cabbage. 
 
-(ii) *Commodities.* The following List 1 contains all commodities included in Crop Group 5-16.
+(ii) *Commodities.* The following List 1 contains all commodities included in Crop Group 5-16. 
 
 List 1—Crop Group 5-16: Brassica Head and Stem Vegetable Group
 | Commodities                                                                |  |
@@ -314,13 +314,13 @@ List 1—Crop Group 5-16: Brassica Head and Stem Vegetable Group
 | Cabbage (Brassica oleracea L. var. capitata L.)                            |  |
 | Cabbage, Chinese, napa (Brassica rapa L. subsp. pekinensis (Lour.) Hanelt) |  |
 | Cauliflower (Brassica oleracea L. var. capitata L)                         |  |
-| Cultivars, varieties, and hybrids of these commodities                     |  |
+| Cultivars, varieties, and hybrids of these commodities.                    |  |
 
-(9) *Crop Group 6.* Legume Vegetables (Succulent or Dried) Group.
+(9) *Crop Group 6.* Legume Vegetables (Succulent or Dried) Group. 
 
-(i) *Representative commodities.* Bean (*Phaseolus* spp.; one succulent cultivar and one dried cultivar); pea (*Pisum* spp.; one succulent cultivar and one dried cultivar); and soybean.
+(i) *Representative commodities.* Bean (*Phaseolus* spp.; one succulent cultivar and one dried cultivar); pea (*Pisum* spp.; one succulent cultivar and one dried cultivar); and soybean. 
 
-(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 6 and identifies the related crop subgroups.
+(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 6 and identifies the related crop subgroups. 
 
 Table 1—Crop Group 6: Legume Vegetables (Succulent or Dried)
 | Commodities                                                                                                                                                                                     | Related crop subgroups |
@@ -340,23 +340,23 @@ Table 1—Crop Group 6: Legume Vegetables (Succulent or Dried)
 | Soybean (immature seed) (Glycine max)                                                                                                                                                           | 6A                     |
 | Sword bean (Canavalia gladiata)                                                                                                                                                                 | 6A                     |
 
-(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 6, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 6, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 6 Subgroup Listing
-| Representative commodities                                                                                                         | Commodities                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Crop Subgroup 6A.** Edible-podded legume vegetables subgroup.                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Any one succulent cultivar of edible-podded bean (Phaseolus spp.) and any one succulent cultivar of edible-podded pea (Pisum spp.) | Bean (Phaseolus spp.) (includes runner bean, snap bean, wax bean); bean (Vigna spp.) (includes asparagus bean, Chinese longbean, moth bean, yardlong bean); jackbean; pea (Pisum spp.) (includes dwarf pea, edible-pod pea, snow pea, sugar snap pea); pigeon pea; soybean (immature seed); sword bean.                                                                                                                                                                            |
-| **Crop Subgroup 6B.** Succulent shelled pea and bean subgroup.                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Any succulent shelled cultivar of bean (Phaseolus spp.) and garden pea (Pisum spp.)                                                | Bean (Phaseolus spp.) (includes lima bean (green)); broad bean (succulent); bean (Vigna spp.) (includes blackeyed pea, cowpea, southern pea); pea (Pisum spp.) (includes English pea, garden pea, green pea); pigeon pea.                                                                                                                                                                                                                                                          |
-| **Crop Subgroup 6C.** Dried shelled pea and bean (except soybean) subgroup                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Any one dried cultivar of bean (Phaseolus spp.); and any one dried cultivar of pea (Pisum spp.)                                    | Dried cultivars of bean (Lupinus spp.) (includes grain lupin, sweet lupin, white lupin, and white sweet lupin); (Phaseolus spp.) (includes field bean, kidney bean, lima bean (dry), navy bean, pinto bean; tepary bean; bean (Vigna spp.) (includes adzuki bean, blackeyed pea, catjang, cowpea, Crowder pea, moth bean, mung bean, rice bean, southern pea, urd bean); broad bean (dry); chickpea; guar; lablab bean; lentil; pea (Pisum spp.) (includes field pea); pigeon pea. |
+| Representative commodities                                                                                                          | Commodities                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Crop Subgroup 6A.** Edible-podded legume vegetables subgroup.                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Any one succulent cultivar of edible-podded bean (Phaseolus spp.) and any one succulent cultivar of edible-podded pea (Pisum spp.). | Bean (Phaseolus spp.) (includes runner bean, snap bean, wax bean); bean (Vigna spp.) (includes asparagus bean, Chinese longbean, moth bean, yardlong bean); jackbean; pea (Pisum spp.) (includes dwarf pea, edible-pod pea, snow pea, sugar snap pea); pigeon pea; soybean (immature seed); sword bean.                                                                                                                                                                            |
+| **Crop Subgroup 6B.** Succulent shelled pea and bean subgroup.                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Any succulent shelled cultivar of bean (Phaseolus spp.) and garden pea (Pisum spp.).                                                | Bean (Phaseolus spp.) (includes lima bean (green)); broad bean (succulent); bean (Vigna spp.) (includes blackeyed pea, cowpea, southern pea); pea (Pisum spp.) (includes English pea, garden pea, green pea); pigeon pea.                                                                                                                                                                                                                                                          |
+| **Crop Subgroup 6C.** Dried shelled pea and bean (except soybean) subgroup                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Any one dried cultivar of bean (Phaseolus spp.); and any one dried cultivar of pea (Pisum spp.)                                     | Dried cultivars of bean (Lupinus spp.) (includes grain lupin, sweet lupin, white lupin, and white sweet lupin); (Phaseolus spp.) (includes field bean, kidney bean, lima bean (dry), navy bean, pinto bean; tepary bean; bean (Vigna spp.) (includes adzuki bean, blackeyed pea, catjang, cowpea, Crowder pea, moth bean, mung bean, rice bean, southern pea, urd bean); broad bean (dry); chickpea; guar; lablab bean; lentil; pea (Pisum spp.) (includes field pea); pigeon pea. |
 
-(10) *Crop Group 6-22.* Legume Vegetable Group.
+(10) *Crop Group 6-22.* Legume Vegetable Group. 
 
-(i) *Representative commodities.* Bean (Phaseolus spp. or Vigna spp.; one edible podded cultivar, one succulent shelled cultivar, and one dried seed); Pea (Pisum spp; one edible podded cultivar, one succulent shelled cultivar, and one dried seed); and Soybean, seed.
+(i) *Representative commodities.* Bean (Phaseolus spp. or Vigna spp.; one edible podded cultivar, one succulent shelled cultivar, and one dried seed); Pea (Pisum spp; one edible podded cultivar, one succulent shelled cultivar, and one dried seed); and Soybean, seed. 
 
-(ii) *Commodities.* The following table is a list of all commodities included in Crop Group 6-22 and includes cultivars, varieties and/or hybrids of these commodities.
+(ii) *Commodities.* The following table is a list of all commodities included in Crop Group 6-22 and includes cultivars, varieties and/or hybrids of these commodities. 
 
 Table 1 to Paragraph (c)(10)—Crop Group 6-22: Legume Vegetable Group:
 | Commodities                                                                                                                                                                                                                                                                                        | Related crop   subgroups |
@@ -412,7 +412,7 @@ Table 1 to Paragraph (c)(10)—Crop Group 6-22: Legume Vegetable Group:
 | Winged pea, dry seed, Lotus tetragonolobus L                                                                                                                                                                                                                                                       | 6-22E                    |
 | Cultivars, varieties, and/or hybrids of these commodities                                                                                                                                                                                                                                          |                          |
 
-(iii) *Crop subgroups.* The following table identifies the crop subgroups for Crop Group 6-22, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup.
+(iii) *Crop subgroups.* The following table identifies the crop subgroups for Crop Group 6-22, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup. 
 
 Table 2 to Paragraph (c)(10)—Crop Group 6-22: Subgroup Listing
 | Representative commodities                                                    | Commodities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -430,18 +430,18 @@ Table 2 to Paragraph (c)(10)—Crop Group 6-22: Subgroup Listing
 | **Crop Subgroup 6-22F: Pulses, dried shelled pea subgroup**                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Any one dried seed of pea, Pisum spp                                          | Pea (Pisum spp.; including, but not limited to dry pea, field pea, green pea, yellow pea, wrinkled pea, marrowfat pea, and garden pea); chickpea; grass pea; lentil; pigeon pea; cultivars, varieties, and/or hybrids of these commodities.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-(11) *Crop Group 7.* Foliage of Legume Vegetables Group.
+(11) *Crop Group 7.* Foliage of Legume Vegetables Group. 
 
-(i) *Representative commodities.* Any cultivar of bean (*Phaseolus* spp.), field pea (*Pisum* spp.), and soybean.
+(i) *Representative commodities.* Any cultivar of bean (*Phaseolus* spp.), field pea (*Pisum* spp.), and soybean. 
 
-(ii) *Table.* The following table 1 lists the commodities included in Crop Group 7.
+(ii) *Table.* The following table 1 lists the commodities included in Crop Group 7. 
 
 Table 1—Crop Group 7: Foliage of Legume Vegetables Group
 | Representative commodities                                                                  | Commodities                                                                                             |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | Any cultivar of bean (Phaseolus spp.) and field pea (Pisum spp.), and soybean (Glycine max) | Plant parts of any legume vegetable included in the legume vegetables that will be used as animal feed. |
 
-(iii) *Table.* The following table 2 identifies the crop subgroup for Crop Group 7 and specifies the representative commodities for the subgroup, and lists all the commodities included in the subgroup.
+(iii) *Table.* The following table 2 identifies the crop subgroup for Crop Group 7 and specifies the representative commodities for the subgroup, and lists all the commodities included in the subgroup. 
 
 Table 2—Crop Group 7 Subgroup Listing
 | Representative commodities                                                    | Commodities                                                                                                                     |
@@ -449,18 +449,18 @@ Table 2—Crop Group 7 Subgroup Listing
 | **Crop Subgroup 7A.** Foliage of legume vegetables (except soybeans) subgroup |                                                                                                                                 |
 | Any cultivar of bean (Phaseolus spp.), and field pea (Pisum spp.)             | Plant parts of any legume vegetable (except soybeans) included in the legume vegetables group that will be used as animal feed. |
 
-(12) *Crop Group 7-22.* Forage and Hay Legume Vegetable Group.
+(12) *Crop Group 7-22.* Forage and Hay Legume Vegetable Group. 
 
-(i) *Representative commodities.* Any cultivar of bean (*Phaseolus* spp. or cowpea (*Vigna unguiculata* (L.) Walp)); field pea (*Pisum sativum* L. subsp. *sativum* var. *arvense* (L.) Poir.); and soybean (*Glycine max* (L.) Merr.).
+(i) *Representative commodities.* Any cultivar of bean (*Phaseolus* spp. or cowpea (*Vigna unguiculata* (L.) Walp)); field pea (*Pisum sativum* L. subsp. *sativum* var. *arvense* (L.) Poir.); and soybean (*Glycine max* (L.) Merr.). 
 
-(ii) *Commodities.* The following table lists the commodities included in Crop Group 7-22.
+(ii) *Commodities.* The following table lists the commodities included in Crop Group 7-22. 
 
 Table 1 to Paragraph (c)(12)—Crop Group 7-22: Forage and Hay for Legume Vegetable Group
 | Representative commodities                                                                                                                                                               | Commodities                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Any cultivar of bean (Phaseolus spp. or cowpea (Vigna unguiculata (L.) Walp)); field pea (Pisum sativum L. subsp. sativum var. arvense (L.) Poir.); and soybean (Glycine max (L.) Merr.) | Plant parts of any legume vegetable listed in crop group 6-22 that will be used as animal feed. |
 
-(iii) *Crop subgroup.* The following table identifies the crop subgroup for Crop Group 7-22 and specifies the representative commodities for the subgroup, and lists all the commodities included in the subgroup.
+(iii) *Crop subgroup.* The following table identifies the crop subgroup for Crop Group 7-22 and specifies the representative commodities for the subgroup, and lists all the commodities included in the subgroup. 
 
 Table 2 to Paragraph (c)(12)—Crop Group 7-22 Subgroup Listing
 | Representative commodities                                                                                                                         | Commodities                                                                                                       |
@@ -468,19 +468,19 @@ Table 2 to Paragraph (c)(12)—Crop Group 7-22 Subgroup Listing
 | **Crop Subgroup 7-22A. Forage and hay of legume vegetables (except soybeans) subgroup**                                                            |                                                                                                                   |
 | Any cultivar of bean (Phaseolus spp. or cowpea (Vigna unguiculata (L.) Walp)); field pea (Pisum sativum L. subsp. sativum var. arvense (L.) Poir.) | Plant parts of any legume vegetable listed in crop group 6-22 (except soybeans) that will be used as animal feed. |
 
-(13) *Crop Group 8.* Fruiting Vegetables Group.
+(13) *Crop Group 8.* Fruiting Vegetables Group. 
 
-(i) *Representative commodities.* Tomato, bell pepper, and one cultivar of non-bell pepper.
+(i) *Representative commodities.* Tomato, bell pepper, and one cultivar of non-bell pepper. 
 
-(ii) *Commodities.* The following is a list of all the commodities included in Crop Group 8:
+(ii) *Commodities.* The following is a list of all the commodities included in Crop Group 8: 
 
 Crop Group 8: Fruiting Vegetables (Except Cucurbits)—Commodities Eggplant (*Solanum melongena*) Groundcherry (*Physalis* spp.) Pepino (*Solanum muricatum*) Pepper (*Capsicum* spp.) (includes bell pepper, chili pepper, cooking pepper, pimento, sweet pepper) Tomatillo (*Physalis ixocarpa*) Tomato (*Lycopersicon esculentum*)
 
-(14) *Crop Group 8-10.* Fruiting Vegetable Group.
+(14) *Crop Group 8-10.* Fruiting Vegetable Group. 
 
-(i) *Representative commodities.* Tomato, standard size, and one cultivar of small tomato; bell pepper and one cultivar of small nonbell pepper.
+(i) *Representative commodities.* Tomato, standard size, and one cultivar of small tomato; bell pepper and one cultivar of small nonbell pepper. 
 
-(ii) *Commodities.* The following is a list of all commodities included in the Crop group 8-10.
+(ii) *Commodities.* The following is a list of all commodities included in the Crop group 8-10. 
 
 Table 1—Crop Group 8-10: Fruiting Vegetable Group
 | Commodities                                                                                                                                | Related crop subgroups |
@@ -508,7 +508,7 @@ Table 1—Crop Group 8-10: Fruiting Vegetable Group
 | Tree tomato, Solanum betaceum Cav                                                                                                          | 8-10A                  |
 | Cultivars, varieties and/or hybrids of these                                                                                               |                        |
 
-(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 8-10, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup.
+(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 8-10, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 8-10. Subgroup Listing
 | Representative commodities                                             | Commodities                                                                                                                                                                             |
@@ -520,11 +520,11 @@ Table 2—Crop Group 8-10. Subgroup Listing
 | Crop subgroup 8-10C. Nonbell pepper/Eggplant subgroup                  |                                                                                                                                                                                         |
 | One cultivar of small nonbell pepper or one cultivar of small eggplant | African eggplant; eggplant; martynia; nonbell pepper; okra; pea eggplant; pepino; roselle; scarlet eggplant; cultivars, varieties, and/or hybrids of these.                             |
 
-(15) *Crop Group 9.* Cucurbit Vegetables Group.
+(15) *Crop Group 9.* Cucurbit Vegetables Group. 
 
-(i) *Representative commodities.* Cucumber, muskmelon, and summer squash.
+(i) *Representative commodities.* Cucumber, muskmelon, and summer squash. 
 
-(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 9 and identifies the related subgroups.
+(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 9 and identifies the related subgroups. 
 
 Table 1—Crop Group 9: Cucurbit Vegetables
 | Commodities                                                                                                                                                                                                                                             | Related crop subgroups |
@@ -542,29 +542,29 @@ Table 1—Crop Group 9: Cucurbit Vegetables
 | Squash, winter (Cucurbita maxima;C. moschata) (includes butternut squash, calabaza, hubbard squash); (C. mixta;C. pepo) (includes acorn squash, spaghetti squash)                                                                                       | 9B                     |
 | Watermelon (includes hybrids and/or varieties of Citrullus lanatus)                                                                                                                                                                                     | 9A                     |
 
-(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 9, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 9, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 9 Subgroup Listing
 | Representative commodities                     | Commodities                                                                                                                   |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | **Crop Subgroup 9A.** Melon subgroup           |                                                                                                                               |
-| Cantaloupes                                    | Citron melon; muskmelon; watermelon.                                                                                          |
+| Cantaloupes                                    | Citron melon; muskmelon; watermelon                                                                                           |
 | **Crop Subgroup 9B.** Squash/cucumber subgroup |                                                                                                                               |
 | One cultivar of summer squash and cucumber.    | Chayote (fruit); Chinese waxgourd; cucumber; gherkin; gourd, edible; Momordica spp.; pumpkin; squash, summer; squash, winter. |
 
-(16) *Crop Group 10.* Citrus Fruit Group.
+(16) *Crop Group 10.* Citrus Fruit Group. 
 
-(i) *Representative commodities.* Sweet orange; lemon and grapefruit.
+(i) *Representative commodities.* Sweet orange; lemon and grapefruit. 
 
-(ii) *Commodities.* The following is a list of all the commodities in Crop Group 10:
+(ii) *Commodities.* The following is a list of all the commodities in Crop Group 10: 
 
 Crop Group 10: Citrus Fruits (Citrus spp., Fortunella spp.) Group—Commodities Calamondin (*Citrus mitis* × *Citrofortunella mitis*) Citrus citron (*Citrus medica*) Citrus hybrids (*Citrus* spp.) (includes chironja, tangelo, tangor) Grapefruit (*Citrus paradisi*) Kumquat (*Fortunella* spp.) Lemon (*Citrus jambhiri,Citrus limon*) Lime (*Citrus aurantiifolia*) Mandarin (tangerine) (*Citrus reticulata*) Orange, sour (*Citrus aurantium*) Orange, sweet (*Citrus sinensis*) Pummelo (*Citrus grandis,Citrus maxima*) Satsuma mandarin (*Citrus unshiu*)
 
-(17) *Crop Group 10-10.* Citrus Fruit Group.
+(17) *Crop Group 10-10.* Citrus Fruit Group. 
 
-(i) *Representative commodities.* Orange or Tangerine/Mandarin, Lemon or Lime, and Grapefruit.
+(i) *Representative commodities.* Orange or Tangerine/Mandarin, Lemon or Lime, and Grapefruit. 
 
-(ii) *Commodities.* The following is a list of all the commodities in Crop Group 10-10.
+(ii) *Commodities.* The following is a list of all the commodities in Crop Group 10-10. 
 
 Table 1—Crop Group 10-10: Citrus Fruit Group
 | Commodities                                                                                      | Related crop subgroups |
@@ -599,7 +599,7 @@ Table 1—Crop Group 10-10: Citrus Fruit Group
 | Uniq fruit, Citrus aurantium Tangelo group                                                       | 10-10C                 |
 | Cultivars, varieties and/or hybrids of these                                                     |                        |
 
-(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 10-10, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup.
+(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 10-10, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 10-10: Subgroup Listing
 | Representative commodities                | Commodities                                                                                                                                                                                                                                                |
@@ -611,35 +611,35 @@ Table 2—Crop Group 10-10: Subgroup Listing
 | Crop Subgroup 10-10C. Grapefruit subgroup |                                                                                                                                                                                                                                                            |
 | Grapefruit                                | Grapefruit; Japanese summer grapefruit; pummelo; tangelo; uniq fruit; cultivars, varieties, and/or hybrids of these.                                                                                                                                       |
 
-(18) *Crop Group 11:* Pome Fruits Group.
+(18) *Crop Group 11:* Pome Fruits Group. 
 
-(i) *Representative commodities.* Apple and pear.
+(i) *Representative commodities.* Apple and pear. 
 
-(ii) *Commodities.* The following is a list of all the commodities included in Crop Group 11:
+(ii) *Commodities.* The following is a list of all the commodities included in Crop Group 11: 
 
 Crop Group 11: Pome Fruits Group—Commodities Apple (*Malus domestica*) Crabapple (*Malus* spp.) Loquat (*Eriobotrya japonica*) Mayhaw (*Crataegus aestivalis,C. opaca,* and *C. rufula*) Pear (*Pyrus communis*) Pear, oriental (*Pyrus pyrifolia*) Quince (*Cydonia oblonga*)
 
-(19) *Crop group 11-10.* Pome Fruit Group.
+(19) *Crop group 11-10.* Pome Fruit Group. 
 
-(i) *Representative commodities.* Apple and Pear
+(i) *Representative commodities.* Apple and Pear 
 
-(ii) *Commodities.* The following is a list of all the commodities in Crop Group 11-10.
+(ii) *Commodities.* The following is a list of all the commodities in Crop Group 11-10. 
 
 Crop Group 11-10: Pome Fruit Group—Commodities Apple, *Malus domestica* Borkh. Azarole, *Crataegus azarolus* L. Crabapple, *Malus sylvestris* (L.) Mill., *M. prunifolia* (Willd.) Borkh. Loquat, *Eriobotrya japonica* (Thunb.) Lindl. Mayhaw, *Crataegus aestivalis* (Walter) Torr. & A. Gray, C. *opaca*Hook. & Arn., and *C. rufula* Sarg. Medlar, *Mespilus germanica* L. Pear, *Pyrus communis* L. Pear, Asian, *Pyrus pyrifolia* (Burm. f.) Nakai var. *culta* (Makino) Nakai *Pseudocydonia sinensis* (Thouin) C.K. Schneid. Quince, *Cydonia oblonga* Mill. Quince, Chinese, *Chaenomeles speciosa* (Sweet) Nakai, Quince, Japanese, *Chaenomeles japonica* (Thunb.) Lindl. ex Spach Tejocote, *Crataegus mexicana* DC. Cultivars, varieties and/or hybrids of these.
 
-(20) *Crop Group 12.* Stone Fruits Group.
+(20) *Crop Group 12.* Stone Fruits Group. 
 
-(i) *Representative commodities.* Sweet cherry or tart cherry; peach; and plum or fresh prune (*Prunus domestica, Prunus* spp.)
+(i) *Representative commodities.* Sweet cherry or tart cherry; peach; and plum or fresh prune (*Prunus domestica, Prunus* spp.) 
 
-(ii) *Commodities.* The following is a list of all the commodities included in Crop Group 12:
+(ii) *Commodities.* The following is a list of all the commodities included in Crop Group 12: 
 
 Crop Group 12: Stone Fruits Group—Commodities Apricot (*Prunus armeniaca*) Cherry, sweet (*Prunus avium*), Cherry, tart (*Prunus cerasus*) Nectarine (*Prunus persica*) Peach (*Prunus persica*) Plum (*Prunus domestica,Prunus* spp.) Plum, Chickasaw (*Prunus angustifolia*) Plum, Damson (*Prunus domestica* spp. *insititia*) Plum, Japanese (*Prunus salicina*) Plumcot (*Prunus. armeniaca* × *P. domestica*) Prune (fresh) (*Prunus domestica,Prunus* spp.)
 
-(21) *Crop Group 12-12:* Stone Fruit Group.
+(21) *Crop Group 12-12:* Stone Fruit Group. 
 
-(i) *Representative commodities.* Sweet cherry or Tart cherry; Peach; and Plum or Prune plum.
+(i) *Representative commodities.* Sweet cherry or Tart cherry; Peach; and Plum or Prune plum. 
 
-(ii) *Commodities.* The following Table 1 is a list of all commodities included in Crop Group 12-12.
+(ii) *Commodities.* The following Table 1 is a list of all commodities included in Crop Group 12-12. 
 
 Table 1—Crop Group 12-12: Stone Fruit Group
 | Commodities                                                                  | Related crop subgroup |
@@ -668,7 +668,7 @@ Table 1—Crop Group 12-12: Stone Fruit Group
 | Sloe (Prunus spinosa L.)                                                     | 12-12C                |
 | Cultivars, varieties, and/or hybrids of these                                |                       |
 
-(iii) *Crop subgroups.* The following Table 2 identifies the crop subgroups for Crop Group 12-12, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Crop subgroups.* The following Table 2 identifies the crop subgroups for Crop Group 12-12, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 12-12: Subgroup Listing
 | Representative commodities                | Commodities                                                                                                                                                                                                                                          |
@@ -680,11 +680,11 @@ Table 2—Crop Group 12-12: Subgroup Listing
 | **Crop subgroup 12-12C. Plum subgroup**   |                                                                                                                                                                                                                                                      |
 | Plum or Prune plum                        | Apricot; Apricot, Japanese; Jujube, Chinese; Plum; Plum, American; Plum, beach; Plum, Canada; Plum, cherry; Plum, Chickasaw; Plum, Damson; Plum, Japanese; Plum, Klamath; Plumcot; Plum, prune; Sloe; cultivars, varieties, and/or hybrids of these. |
 
-(22) *Crop Group 13.* Berries Group.
+(22) *Crop Group 13.* Berries Group. 
 
-(i) *Representative commodities.* Any one blackberry or any one raspberry; and blueberry.
+(i) *Representative commodities.* Any one blackberry or any one raspberry; and blueberry. 
 
-(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 13 and identifies the related subgroups.
+(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 13 and identifies the related subgroups. 
 
 Table 1—Crop Group 13: Berries Group
 | Commodities                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Related crop subgroups |
@@ -698,21 +698,21 @@ Table 1—Crop Group 13: Berries Group
 | Loganberry (Rubus loganobaccus)                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 13A                    |
 | Raspberry, black and red (Rubus occidentalis, Rubus strigosus, Rubus idaeus)                                                                                                                                                                                                                                                                                                                                                                                                         | 13A                    |
 
-(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 13, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 13, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 13 Subgroups Listing
 | Representative commodities                                            | Commodities                                                                         |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | **Crop Subgroup 13A.** Caneberry (blackberry and raspberry) subgroup. |                                                                                     |
-| Any one blackberry or any one raspberry                               | Blackberry; loganberry; red and black raspberry; cultivars and/or hybrids of these. |
-| **Crop Subgroup 13B.** Bushberry subgroup                             |                                                                                     |
-| Blueberry, highbush                                                   | Blueberry, highbush and lowbush; currant; elderberry; gooseberry; huckleberry.      |
+| Any one blackberry or any one raspberry.                              | Blackberry; loganberry; red and black raspberry; cultivars and/or hybrids of these. |
+| **Crop Subgroup 13B.** Bushberry subgroup.                            |                                                                                     |
+| Blueberry, highbush.                                                  | Blueberry, highbush and lowbush; currant; elderberry; gooseberry; huckleberry.      |
 
-(23) *Crop Group 13-07.* Berry and Small Fruit Crop Group
+(23) *Crop Group 13-07.* Berry and Small Fruit Crop Group 
 
-(i) *Representative commodities.* Any one blackberry or any one raspberry; highbush blueberry; elderberry or mulberry; grape; fuzzy kiwifruit, and strawberry.
+(i) *Representative commodities.* Any one blackberry or any one raspberry; highbush blueberry; elderberry or mulberry; grape; fuzzy kiwifruit, and strawberry. 
 
-(ii) *Table.* The following Table 1 lists all the commodities listed in Crop Group 13-07 and identifies the related crop subgroups.
+(ii) *Table.* The following Table 1 lists all the commodities listed in Crop Group 13-07 and identifies the related crop subgroups. 
 
 Table 1—Crop Group 13-07: Berry and Small Fruit Crop Group
 | Commodities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Related crop subgroups         |
@@ -764,57 +764,57 @@ Table 1—Crop Group 13-07: Berry and Small Fruit Crop Group
 | Wild raspberry (Rubus muelleri Lefevre ex P.J. Mull)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 13-07A                         |
 | Cultivars, varieties, and/or hybrids of these.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                |
 
-(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 13-07, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup.
+(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 13-07, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 13-07: Subgroup Listing
 | Representative commodities                                                           | Commodities                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Crop Subgroup 13-07A.** Caneberry subgroup                                         |                                                                                                                                                                                                                                                                                                                                                  |
-| Any one blackberry or any one raspberry                                              | Blackberry; loganberry; raspberry, red and black; wild raspberry; cultivars, varieties, and/or hybrids of these.                                                                                                                                                                                                                                 |
-| **Crop Subgroup 13-07B.** Bushberry subgroup                                         |                                                                                                                                                                                                                                                                                                                                                  |
-| Blueberry, highbush                                                                  | Aronia berry; blueberry, highbush; blueberry, lowbush; buffalo currant; Chilean guava; currant, black; currant, red; elderberry; European, barberry; gooseberry; cranberry, highbush; honeysuckle, edible; huckleberry; jostaberry; Juneberry; lingonberry; native currant; salal; sea buckthorn; cultivars, varieties, and/or hybrids of these. |
+| Any one blackberry or any one raspberry.                                             | Blackberry; loganberry; raspberry, red and black; wild raspberry; cultivars, varieties, and/or hybrids of these.                                                                                                                                                                                                                                 |
+| **Crop Subgroup 13-07B.** Bushberry subgroup.                                        |                                                                                                                                                                                                                                                                                                                                                  |
+| Blueberry, highbush.                                                                 | Aronia berry; blueberry, highbush; blueberry, lowbush; buffalo currant; Chilean guava; currant, black; currant, red; elderberry; European, barberry; gooseberry; cranberry, highbush; honeysuckle, edible; huckleberry; jostaberry; Juneberry; lingonberry; native currant; salal; sea buckthorn; cultivars, varieties, and/or hybrids of these. |
 | **Crop Subgroup 13-07C.** Large shrub/tree berry subgroup.                           |                                                                                                                                                                                                                                                                                                                                                  |
-| Elderberry or mulberry                                                               | Bayberry; buffaloberry; che; chokecherry; elderberry; Juneberry; mountain pepper berries; mulberry; phalsa; pincherry; riberry; salal; serviceberry; cultivars, varieties, and/or hybrids of these.                                                                                                                                              |
+| Elderberry or mulberry.                                                              | Bayberry; buffaloberry; che; chokecherry; elderberry; Juneberry; mountain pepper berries; mulberry; phalsa; pincherry; riberry; salal; serviceberry; cultivars, varieties, and/or hybrids of these.                                                                                                                                              |
 | **Crop Subgroup 13-07D.** Small fruit vine climbing subgroup.                        |                                                                                                                                                                                                                                                                                                                                                  |
-| Grape and fuzzy kiwifruit                                                            | Amur river grape; gooseberry; grape; kiwifruit, fuzzy; kiwifruit, hardy; Maypop; schisandra berry; cultivars, varieties, and /or hybrids of these.                                                                                                                                                                                               |
+| Grape and fuzzy kiwifruit.                                                           | Amur river grape; gooseberry; grape; kiwifruit, fuzzy; kiwifruit, hardy; Maypop; schisandra berry; cultivars, varieties, and /or hybrids of these.                                                                                                                                                                                               |
 | **Crop Subgroup 13-07E.** Small fruit vine climbing subgroup, except grape.          |                                                                                                                                                                                                                                                                                                                                                  |
-| Fuzzy kiwifruit                                                                      | Amur river grape; gooseberry; kiwifruit, fuzzy; kiwifruit, hardy; Maypop; schisandra berry; cultivars, varieties, and/or hybrids of these.                                                                                                                                                                                                       |
+| Fuzzy kiwifruit.                                                                     | Amur river grape; gooseberry; kiwifruit, fuzzy; kiwifruit, hardy; Maypop; schisandra berry; cultivars, varieties, and/or hybrids of these.                                                                                                                                                                                                       |
 | **Crop Subgroup 13-07F.** Small fruit vine climbing subgroup except fuzzy kiwifruit. |                                                                                                                                                                                                                                                                                                                                                  |
-| Grape                                                                                | Amur river grape; gooseberry; grape; kiwifruit, hardy; Maypop; schisandra berry; cultivars varieties, and/or hybrids of these.                                                                                                                                                                                                                   |
+| Grape.                                                                               | Amur river grape; gooseberry; grape; kiwifruit, hardy; Maypop; schisandra berry; cultivars varieties, and/or hybrids of these.                                                                                                                                                                                                                   |
 | **Crop Subgroup 13-07G.** Low growing berry subgroup.                                |                                                                                                                                                                                                                                                                                                                                                  |
-| Strawberry                                                                           | Bearberry; bilberry; blueberry, lowbush; cloudberry; cranberry; lingonberry; muntries; partridgeberry; strawberry; cultivars, varieties, and/or hybrids of these.                                                                                                                                                                                |
+| Strawberry.                                                                          | Bearberry; bilberry; blueberry, lowbush; cloudberry; cranberry; lingonberry; muntries; partridgeberry; strawberry; cultivars, varieties, and/or hybrids of these.                                                                                                                                                                                |
 | **Crop Subgroup 13-07H.** Low growing berry subgroup, except strawberry.             |                                                                                                                                                                                                                                                                                                                                                  |
 | Cranberry                                                                            | Bearberry; bilberry; blueberry, lowbush; cloudberry; cranberry; lingonberry; muntries; partridgeberry; cultivars, varieties, and/or cultivars of these.                                                                                                                                                                                          |
 
-(24) *Crop Group 14.* Tree Nuts Group.
+(24) *Crop Group 14.* Tree Nuts Group. 
 
-(i) *Representative commodities.* Almond and pecan.
+(i) *Representative commodities.* Almond and pecan. 
 
-(ii) *Commodities.* The following is a list of all the commodities included in Crop Group 14:
+(ii) *Commodities.* The following is a list of all the commodities included in Crop Group 14: 
 
 Crop Group 14: Tree Nuts—Commodities Almond (*Prunus dulcis*) Beech nut (*Fagus* spp.) Brazil nut (*Bertholletia excelsa*) Butternut (*Juglans cinerea*) Cashew (*Anacardium occidentale*) Chestnut (*Castanea* spp.) Chinquapin (*Castanea pumila*) Filbert (hazelnut) (*Corylus* spp.) Hickory nut (*Carya* spp.) Macadamia nut (bush nut) (*Macadamia* spp.) Pecan (*Carya illinoensis*) Walnut, black and English (Persian) (*Juglans* spp.)
 
-(25) *Crop Group 14-12.* Tree Nut Group.
+(25) *Crop Group 14-12.* Tree Nut Group. 
 
-(i) *Representative commodities.* Almond and Pecan.
+(i) *Representative commodities.* Almond and Pecan. 
 
-(ii) *Commodities.* The following is a list of all commodities included in Crop Group 14-12.
+(ii) *Commodities.* The following is a list of all commodities included in Crop Group 14-12. 
 
 Crop Group 14-12: Tree Nut Group African nut-tree (*Ricinodendron heudelotii* (Baill.) Heckel) Almond (*Prunus dulcis* (Mill.) D.A. Webb) Beechnut (*Fagus grandifolia* Ehrh.; *F. sylvatica* L.) Brazil nut (*Bertholletia excelsa* Humb. & Bonpl.) Brazilian pine (*Araucaria angustifolia* (Bertol.) Kuntze) Bunya (*Araucaria bidwillii* Hook.) Bur oak *(Quercus macrocarpa* Michx.) Butternut (*Juglans cinerea* L.) Cajou nut (*Anacardium giganteum* Hance ex Engl.) Candlenut (*Aleurites moluccanus* (L.) Willd.) Cashew (*Anacardium occidentale* L.) Chestnut (*Castanea crenata* Siebold & Zucc.; *C. dentata* (Marshall) Borkh.; *C. mollissima* Blume; *C. sativa* Mill.) Chinquapin (*Castaneapumila* (L.) Mill.) Coconut (*Cocos nucifera* L.) Coquito nut (*Jubaea chilensis* (Molina) Baill.) Dika nut (*Irvingia gabonensis* (Aubry-Lecomte ex O'Rorke) Baill.) Ginkgo (*Ginkgo biloba* L.) Guiana chestnut (*Pachira aquatica* Aubl.) Hazelnut (Filbert) (*Corylus americana* Marshall; *C. avellana* L.; *C. californica* (A. DC.) Rose; *C. chinensis* Franch.) Heartnut (*Juglans ailantifolia* Carrière var*. cordiformis* (Makino) Rehder) Hickory nut (*Carya cathayensis* Sarg.; *C. glabra* (Mill.) Sweet; *C. laciniosa* (F. Michx.) W. P. C. Barton; *C. myristiciformis* (F. Michx.) Elliott; *C. ovata* (Mill.) K. Koch; *C. tomentosa* (Lam.) Nutt.) Japanese horse-chestnut (*Aesculus turbinate* Blume) Macadamia nut (*Macadamia integrifolia* Maiden & Betche; *M. tetraphylla* L.A.S. Johnson) Mongongo nut (*Schinziophyton rautanenii* (Schinz) Radcl.-Sm.) Monkey-pot (*Lecythis pisonis* Cambess.) Monkey puzzle nut (*Araucaria araucana* (Molina) K. Koch) Okari nut (*Terminalia kaernbachii* Warb.) Pachira nut (*Pachira insignis* (Sw.) Savigny) Peach palm nut (*Bactris gasipaes* Kunth var. *gasipaes*) Pecan (*Carya illinoinensis* (Wangenh.) K. Koch) Pequi (*Caryocar brasiliense* Cambess.; *C. villosum* (Aubl.) Pers; *C. nuciferum* L.) Pili nut (*Canarium ovatum* Engl.; *C. vulgare* Leenh.) Pine nut (*Pinus edulis* Engelm.; *P. koraiensis* Siebold & Zucc.; *P. sibirica* Du Tour; *P. pumila* (Pall.) Regel; *P. gerardiana* Wall. ex D. Don; *P. monophylla* Torr. & Frém.; *P. quadrifolia* Parl. ex Sudw.; *P. pinea* L.) Pistachio (*Pistacia vera* L.) Sapucaia nut (*Lecythis zabucaja* Aubl.) Tropical almond (*Terminalia catappa* L.) Walnut, black (*Juglans nigra* L.; *J. hindsii* Jeps. ex R. E. Sm.; *J. microcarpa* Berland.) Walnut, English (*Juglans regia* L.) Yellowhorn (*Xanthoceras sorbifolium* Bunge) Cultivars, varieties, and/or hybrids of these
 
-(26) *Crop Group 15.* Cereal Grains Group.
+(26) *Crop Group 15.* Cereal Grains Group. 
 
-(i) *Representative commodities.* Corn (fresh sweet corn and dried field corn), rice, sorghum, and wheat.
+(i) *Representative commodities.* Corn (fresh sweet corn and dried field corn), rice, sorghum, and wheat. 
 
-(ii) *Commodities.* The following is a list of all the commodities included in Crop Group 15:
+(ii) *Commodities.* The following is a list of all the commodities included in Crop Group 15: 
 
 Crop Group 15: Cereal Grains—Commodities Barley (*Hordeum* spp.) Buckwheat (*Fagopyrum esculentum*) Corn (*Zea mays*) Millet, pearl (*Pennisetum glaucum*) Millet, proso (*Panicum milliaceum*) Oats (*Avena* spp.) Popcorn (*Zea mays* var. *everta*) Rice (*Oryza sativa*) Rye (*Secale cereale*) Sorghum (milo) (*Sorghum* spp.) Teosinte (*Euchlaena mexicana*) Triticale (*Triticum-Secale* hybrids) Wheat (*Triticum* spp.) Wild rice (*Zizania aquatica*)
 
-(27) *Crop Group 15-22.* Cereal Grain Group.
+(27) *Crop Group 15-22.* Cereal Grain Group. 
 
-(i) *Representative commodities.* Wheat, barley, field corn, sweet corn, rice and either grain sorghum or proso millet.
+(i) *Representative commodities.* Wheat, barley, field corn, sweet corn, rice and either grain sorghum or proso millet. 
 
-(ii) *Commodities.* The following table is a list of all commodities included in Crop Group 15-22 and includes cultivars, varieties and/or hybrids of these commodities.
+(ii) *Commodities.* The following table is a list of all commodities included in Crop Group 15-22 and includes cultivars, varieties and/or hybrids of these commodities. 
 
 Table 1 to Paragraph (c)(27)—Crop Group 15-22: Cereal Grain Group
 | Commodities                                                                                                                    | Related crop   subgroups |
@@ -873,7 +873,7 @@ Table 1 to Paragraph (c)(27)—Crop Group 15-22: Cereal Grain Group
 | Wheat, shot, Triticum aestivum L. subsp. sphaerococcum (Percival) Mackey                                                       | 15-22A                   |
 | Wheat, spelt, Triticum aestivum L. subsp. spelta (L.) Thell                                                                    | 15-22A                   |
 | Wheat, timopheevi, Triticum timopheevii (Zhuk.) Zhuk. subsp. timopheevii                                                       | 15-22A                   |
-| Wheat, vavilovi, Triticum vavilovii Jakubz                                                                                     | 15-22A                   |
+| Wheat, vavilovi, Triticum vavilovii Jakubz.                                                                                    | 15-22A                   |
 | Wheat, wild einkorn, Triticum monococcum L. subsp. aegilopoides (Link) Thell                                                   | 15-22A                   |
 | Wheat, wild emmer, Triticum turgidum L. subsp. dicoccoides (Körn. ex Asch. & Graebn.) Thell                                    | 15-22A                   |
 | Wheatgrass, intermediate, Iseilema prostratum (L.) Andersson                                                                   | 15-22A                   |
@@ -881,7 +881,7 @@ Table 1 to Paragraph (c)(27)—Crop Group 15-22: Cereal Grain Group
 | Wild rice, eastern, Zizania aquatica L                                                                                         | 15-22F                   |
 | Cultivars, varieties, and hybrids of these commodities                                                                         |                          |
 
-(iii) *Crop subgroups.* The following table identifies the crop subgroups for Crop Group 15-22, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup.
+(iii) *Crop subgroups.* The following table identifies the crop subgroups for Crop Group 15-22, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup. 
 
 Table 2 to Paragraph (c)(27)—Crop Group 15-22: Subgroup Listing
 | Representative commodities                                  | Commodities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -899,37 +899,37 @@ Table 2 to Paragraph (c)(27)—Crop Group 15-22: Subgroup Listing
 | **Crop Subgroup 15-22F: Rice subgroup**                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Rice                                                        | Rice; Rice, African; Wild rice; Wild rice, eastern; cultivars, varieties, and hybrids of these commodities.                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-(28) *Crop Group 16.* Forage, Fodder and Straw of Cereal Grains Group.
+(28) *Crop Group 16.* Forage, Fodder and Straw of Cereal Grains Group. 
 
-(i) *Representative commodities.* Corn, wheat, and any other cereal grain crop.
+(i) *Representative commodities.* Corn, wheat, and any other cereal grain crop. 
 
-(ii) *Commodities.* The commodities included in Crop Group 16 are: Forage, fodder, stover, and straw of all commodities included in the group cereal grains group. EPA may establish separate group tolerances on forage, fodder, hay, stover, or straw, if data on the representative commodities indicate differences in the levels of residues on forage, fodder, stover, or straw.
+(ii) *Commodities.* The commodities included in Crop Group 16 are: Forage, fodder, stover, and straw of all commodities included in the group cereal grains group. EPA may establish separate group tolerances on forage, fodder, hay, stover, or straw, if data on the representative commodities indicate differences in the levels of residues on forage, fodder, stover, or straw. 
 
-(29) *Crop Group 16-22.* Forage, Hay, Stover, and Straw of Cereal Grain Group.
+(29) *Crop Group 16-22.* Forage, Hay, Stover, and Straw of Cereal Grain Group. 
 
-(i) *Representative commodities.* Corn, wheat, and any other cereal grain crop.
+(i) *Representative commodities.* Corn, wheat, and any other cereal grain crop. 
 
-(ii) *Commodities.* Crop Group 16-22 includes the forage, hay, stover and straw of the commodities in Crop Group 15-22, including cultivars, varieties and/or hybrids of these commodities.
+(ii) *Commodities.* Crop Group 16-22 includes the forage, hay, stover and straw of the commodities in Crop Group 15-22, including cultivars, varieties and/or hybrids of these commodities. 
 
-(30) *Crop Group 17.* Grass Forage, Fodder, and Hay Group.
+(30) *Crop Group 17.* Grass Forage, Fodder, and Hay Group. 
 
-(i) *Representative commodities.* Bermuda grass; bluegrass; and bromegrass or fescue.
+(i) *Representative commodities.* Bermuda grass; bluegrass; and bromegrass or fescue. 
 
-(ii) *Commodities.* The commodities included in Crop Group 17 are: Forage, fodder, stover, and hay of any grass, *Gramineae/Poaceae* family (either green or cured) except sugarcane and those included in the cereal grains group, that will be fed to or grazed by livestock, all pasture and range grasses and grasses grown for hay or silage. EPA may establish separate group tolerances on forage, fodder, stover, or hay, if data on the representative commodities indicate differences in the levels of residues on forage, fodder, stover, or hay.
+(ii) *Commodities.* The commodities included in Crop Group 17 are: Forage, fodder, stover, and hay of any grass, *Gramineae/Poaceae* family (either green or cured) except sugarcane and those included in the cereal grains group, that will be fed to or grazed by livestock, all pasture and range grasses and grasses grown for hay or silage. EPA may establish separate group tolerances on forage, fodder, stover, or hay, if data on the representative commodities indicate differences in the levels of residues on forage, fodder, stover, or hay. 
 
-(31) *Crop Group 18.* Nongrass Animal Feeds (Forage, Fodder, Straw, and Hay) Group.
+(31) *Crop Group 18.* Nongrass Animal Feeds (Forage, Fodder, Straw, and Hay) Group. 
 
-(i) *Representative commodities.* Alfalfa and clover (*Trifolium* spp.)
+(i) *Representative commodities.* Alfalfa and clover (*Trifolium* spp.) 
 
-(ii) *Commodities.* EPA may establish separate group tolerances on forage, fodder, straw, or hay, if data on the representative commodities indicate differences in the levels of residues on forage, fodder, straw, or hay. The following is a list of all the commodities included in Crop Group 18:
+(ii) *Commodities.* EPA may establish separate group tolerances on forage, fodder, straw, or hay, if data on the representative commodities indicate differences in the levels of residues on forage, fodder, straw, or hay. The following is a list of all the commodities included in Crop Group 18: 
 
-Crop Group 18: Nongrass Animal Feeds (Forage, Fodder, Straw, and Hay) Group—Commodities Alfalfa (*Medicago sativa* subsp. *sativa*) Bean, velvet (*Mucuna pruriens* var. *utilis*) Clover (*Trifolium* spp., *Melilotus* spp.) Kudzu (*Pueraria lobata*) Lespedeza (*Lespedeza* spp.) Lupin (*Lupinus* spp.) Sainfoin (*Onobrychis viciifolia*); Trefoil (*Lotus* spp.) Vetch (*Vicia* spp.) Vetch, crown (*Coronilla varia*) Vetch, milk (*Astragalus* spp.)
+Crop Group 18: Nongrass Animal Feeds (Forage, Fodder, Straw, and Hay) Group—Commodities Alfalfa (*Medicago sativa* subsp. *sativa*) Bean, velvet (*Mucuna pruriens* var. *utilis*) Clover (*Trifolium* spp., *Melilotus* spp.) Kudzu (*Pueraria lobata*) Lespedeza (*Lespedeza* spp.) Lupin (*Lupinus* spp.) Sainfoin (*Onobrychis viciifolia*); Trefoil (*Lotus* spp.) Vetch (*Vicia* spp.) Vetch, crown (*Coronilla varia*) Vetch, milk (*Astragalus* spp).
 
-(32) *Crop Group 19.* Herbs and Spices Group.
+(32) *Crop Group 19.* Herbs and Spices Group. 
 
-(i) *Representative commodities.* Basil (fresh and dried); black pepper; chive; and celery seed or dill seed.
+(i) *Representative commodities.* Basil (fresh and dried); black pepper; chive; and celery seed or dill seed. 
 
-(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 19 and identifies the related subgroups.
+(ii) *Table.* The following table 1 lists all the commodities included in Crop Group 19 and identifies the related subgroups. 
 
 Table 1—Crop Group 19: Herbs and Spices Group
 | Commodities                                                                                              | Related crop subgroups |
@@ -1003,62 +1003,62 @@ Table 1—Crop Group 19: Herbs and Spices Group
 | Woodruff (Galium odorata)                                                                                | 19A                    |
 | Wormwood (Artemisia absinthium)                                                                          | 19A                    |
 
-(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 19, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Table.* The following table 2 identifies the crop subgroups for Crop Group 19, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 19 Subgroups
-| Representative commodities                 | Commodities                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Crop Subgroup 19A.** Herb subgroup.      |                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Basil (fresh and dried) and chive          | Angelica; balm; basil; borage; burnet; camomile; catnip; chervil (dried); chive; chive, Chinese, clary; coriander (leaf); costmary; culantro (leaf); curry (leaf); dillweed; horehound; hyssop; lavender; lemongrass; lovage (leaf); marigold; marjoram (Origanum spp.); nasturtium; parsley (dried); pennyroyal; rosemary; rue; sage; savory, summer and winter; sweet bay; tansy; tarragon; thyme; wintergreen; woodruff; and wormwood. |
-| **Crop Subgroup 19B.** Spice subgroup.     |                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Black pepper; and celery seed or dill seed | Allspice; anise (seed); anise, star; annatto (seed); caper (buds); caraway; caraway, black; cardamom; cassia (buds); celery (seed); cinnamon; clove (buds); coriander (seed); culantro (seed); cumin; dill (seed); fennel, common; fennel, Florence (seed); fenugreek; grains of paradise; juniper (berry); lovage (seed); mace; mustard (seed); nutmeg; pepper, black; pepper, white; poppy (seed); saffron; and vanilla.                |
+| Representative commodities                  | Commodities                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Crop Subgroup 19A.** Herb subgroup.       |                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Basil (fresh and dried) and chive.          | Angelica; balm; basil; borage; burnet; camomile; catnip; chervil (dried); chive; chive, Chinese, clary; coriander (leaf); costmary; culantro (leaf); curry (leaf); dillweed; horehound; hyssop; lavender; lemongrass; lovage (leaf); marigold; marjoram (Origanum spp.); nasturtium; parsley (dried); pennyroyal; rosemary; rue; sage; savory, summer and winter; sweet bay; tansy; tarragon; thyme; wintergreen; woodruff; and wormwood. |
+| **Crop Subgroup 19B.** Spice subgroup.      |                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Black pepper; and celery seed or dill seed. | Allspice; anise (seed); anise, star; annatto (seed); caper (buds); caraway; caraway, black; cardamom; cassia (buds); celery (seed); cinnamon; clove (buds); coriander (seed); culantro (seed); cumin; dill (seed); fennel, common; fennel, Florence (seed); fenugreek; grains of paradise; juniper (berry); lovage (seed); mace; mustard (seed); nutmeg; pepper, black; pepper, white; poppy (seed); saffron; and vanilla.                |
 
-(iv) *Tolerances established after November 6, 2020*. After November 6, 2020, new herb crop group and subgroup tolerances will be established as Crop Group 25 or subgroups 25A and 25B, and new spice crop group tolerances will be established as Crop Group 26.
+(iv) *Tolerances established after November 6, 2020*. After November 6, 2020, new herb crop group and subgroup tolerances will be established as Crop Group 25 or subgroups 25A and 25B, and new spice crop group tolerances will be established as Crop Group 26. 
 
-(33) *Crop Group 20.* Oilseed Group.
+(33) *Crop Group 20.* Oilseed Group. 
 
-(i) *Representative commodities.* Rapeseed (canola varieties only); sunflower, seed and cottonseed.
+(i) *Representative commodities.* Rapeseed (canola varieties only); sunflower, seed and cottonseed. 
 
-(ii) *Table.* The following Table 1 lists all the commodities listed in Crop Group 20 and identifies the related crop subgroups and includes cultivars and/or varieties of these commodities.
+(ii) *Table.* The following Table 1 lists all the commodities listed in Crop Group 20 and identifies the related crop subgroups and includes cultivars and/or varieties of these commodities. 
 
 Table 1—Crop Group 20: Oilseed Group
-| Commodities                                                       | Related crop subgroups |
-| ----------------------------------------------------------------- | ---------------------- |
-| Borage, Borago officinalis L                                      | 20A                    |
-| Calendula, Calendula officinalis L                                | 20B                    |
-| Castor oil plant, Ricinus communis L                              | 20B                    |
-| Chinese tallowtree, Triadica sebifera (L.) Small                  | 20B                    |
-| Cottonseed, Gossypium hirsutum L. Gossypium spp                   | 20C                    |
-| Crambe, Crambe hispanica L.; C. abyssinica Hochst. ex R.E. Fr     | 20A                    |
-| Cuphea, Cuphea hyssopifolia Kunth                                 | 20A                    |
-| Echium, Echium plantagineum L                                     | 20A                    |
-| Euphorbia, Euphorbia esula L                                      | 20B                    |
-| Evening primrose, Oenothera biennis L                             | 20B                    |
-| Flax seed, Linum usitatissimum L                                  | 20A                    |
-| Gold of pleasure, Camelina sativa (L.) Crantz                     | 20A                    |
-| Hare's ear mustard, Conringia orientalis (L.) Dumort              | 20A                    |
-| Jojoba, Simmondsia chinensis (Link) C.K. Schneid                  | 20B                    |
-| Lesquerella, Lesquerella recurvata (Engelm. ex A. Gray) S. Watson | 20A                    |
-| Lunaria, Lunaria annua L                                          | 20A                    |
-| Meadowfoam, Limnanthes alba Hartw. ex Benth                       | 20A                    |
-| Milkweed, Asclepias spp                                           | 20A                    |
-| Mustard seed, Brassica hirta Moench, Sinapis alba L. subsp. Alba. | 20A                    |
-| Niger seed, Guizotia abyssinica (L.f.) Cass                       | 20B                    |
-| Oil radish, Raphanus sativus L. var. oleiformis Pers              | 20A                    |
-| Poppy seed, Papaver somniferum L. subsp. Somniferum               | 20A                    |
-| Rapeseed, Brassica spp.; B. napus L                               | 20A                    |
-| Rose hip, Rosa rubiginosa L                                       | 20B                    |
-| Safflower, Carthamus tinctorious L                                | 20B                    |
-| Sesame, Sesamum indicum L., S. radiatum Schumach. & honn          | 20A                    |
-| Stokes aster, Stokesia laevis (Hill) Greene                       | 20B                    |
-| Sunflower, Helianthus annuus L                                    | 20B                    |
-| Sweet rocket, Hesperis matronalis L                               | 20A                    |
-| Tallowwood, Ximenia americana L                                   | 20B                    |
-| Tea oil plant, Camellia oleifera C. Abel                          | 20B                    |
-| Vernonia, Vernonia galamensis (Cass.) Less                        | 20B                    |
-| Cultivars, varieties, and/or hybrids of these                     |                        |
+| Commodities                                                        | Related crop subgroups |
+| ------------------------------------------------------------------ | ---------------------- |
+| Borage, Borago officinalis L                                       | 20A                    |
+| Calendula, Calendula officinalis L                                 | 20B                    |
+| Castor oil plant, Ricinus communis L                               | 20B                    |
+| Chinese tallowtree, Triadica sebifera (L.) Small                   | 20B                    |
+| Cottonseed, Gossypium hirsutum L. Gossypium spp                    | 20C                    |
+| Crambe, Crambe hispanica L.; C. abyssinica Hochst. ex R.E. Fr      | 20A                    |
+| Cuphea, Cuphea hyssopifolia Kunth                                  | 20A                    |
+| Echium, Echium plantagineum L                                      | 20A                    |
+| Euphorbia, Euphorbia esula L                                       | 20B                    |
+| Evening primrose, Oenothera biennis L                              | 20B                    |
+| Flax seed, Linum usitatissimum L                                   | 20A                    |
+| Gold of pleasure, Camelina sativa (L.) Crantz                      | 20A                    |
+| Hare's ear mustard, Conringia orientalis (L.) Dumort               | 20A                    |
+| Jojoba, Simmondsia chinensis (Link) C.K. Schneid                   | 20B                    |
+| Lesquerella, Lesquerella recurvata (Engelm. ex A. Gray) S. Watson  | 20A                    |
+| Lunaria, Lunaria annua L                                           | 20A                    |
+| Meadowfoam, Limnanthes alba Hartw. ex Benth                        | 20A                    |
+| Milkweed, Asclepias spp                                            | 20A                    |
+| Mustard seed, Brassica hirta Moench, Sinapis alba L. subsp. Alba.. | 20A                    |
+| Niger seed, Guizotia abyssinica (L.f.) Cass                        | 20B                    |
+| Oil radish, Raphanus sativus L. var. oleiformis Pers               | 20A                    |
+| Poppy seed, Papaver somniferum L. subsp. Somniferum                | 20A                    |
+| Rapeseed, Brassica spp.; B. napus L                                | 20A                    |
+| Rose hip, Rosa rubiginosa L                                        | 20B                    |
+| Safflower, Carthamus tinctorious L                                 | 20B                    |
+| Sesame, Sesamum indicum L., S. radiatum Schumach. & honn           | 20A                    |
+| Stokes aster, Stokesia laevis (Hill) Greene                        | 20B                    |
+| Sunflower, Helianthus annuus L                                     | 20B                    |
+| Sweet rocket, Hesperis matronalis L                                | 20A                    |
+| Tallowwood, Ximenia americana L                                    | 20B                    |
+| Tea oil plant, Camellia oleifera C. Abel                           | 20B                    |
+| Vernonia, Vernonia galamensis (Cass.) Less                         | 20B                    |
+| Cultivars, varieties, and/or hybrids of these                      |                        |
 
-(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 20, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup.
+(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 20, specifies the representative commodities for each subgroup and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 20: Subgroup Listing
 | Representative commodities             | Commodities                                                                                                                                                                                                                                      |
@@ -1070,11 +1070,11 @@ Table 2—Crop Group 20: Subgroup Listing
 | Crop subgroup 20C. Cottonseed subgroup |                                                                                                                                                                                                                                                  |
 | Cottonseed                             | Cottonseed; cultivars, varieties, and/or hybrids of these.                                                                                                                                                                                       |
 
-(34) *Crop Group 21.* Edible fungi Group.
+(34) *Crop Group 21.* Edible fungi Group. 
 
-(i) *Representative commodities.* White button mushroom and any one oyster mushroom or any Shiitake mushroom.
+(i) *Representative commodities.* White button mushroom and any one oyster mushroom or any Shiitake mushroom. 
 
-(ii) *Table.* The following is a list of all the commodities in Crop Group 21. There are no related subgroups.
+(ii) *Table.* The following is a list of all the commodities in Crop Group 21. There are no related subgroups. 
 
 Crop Group 21—Edible Fungi Group—Commodities
 | Blewitt (Lepista nuda)                                    |
@@ -1098,11 +1098,11 @@ Crop Group 21—Edible Fungi Group—Commodities
 | White button mushroom (Agaricus bisporous (Lange) Imbach) |
 | White Jelly Fungi (Tremella fuciformis)                   |
 
-(35) *Crop Group 22.* Stalk, Stem and Leaf Petiole Vegetable Group.
+(35) *Crop Group 22.* Stalk, Stem and Leaf Petiole Vegetable Group. 
 
-(i) *Representative commodities.* Asparagus and celery.
+(i) *Representative commodities.* Asparagus and celery. 
 
-(ii) *Commodities.* The following Table 1 lists all commodities included in Crop Group 22.
+(ii) *Commodities.* The following Table 1 lists all commodities included in Crop Group 22. 
 
 Table 1—Crop Group 22: Stalk, Stem and Leaf Petiole Vegetable Group
 | Commodities                                                                                                                                                                       | Related crop   subgroups |
@@ -1128,7 +1128,7 @@ Table 1—Crop Group 22: Stalk, Stem and Leaf Petiole Vegetable Group
 | Zuiki (Colocasia gigantea (Blume) Hook. f.)                                                                                                                                       | 22B                      |
 | Cultivars, varieties, and hybrids of these commodities                                                                                                                            |                          |
 
-(iii) *Crop subgroups.* The following Table 2 identifies the crop subgroups for Crop Group 22, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Crop subgroups.* The following Table 2 identifies the crop subgroups for Crop Group 22, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 22: Subgroup Listing
 | Representative commodities                               | Commodities                                                                                                                                                                                                                                                        |
@@ -1138,11 +1138,11 @@ Table 2—Crop Group 22: Subgroup Listing
 | **Crop Subgroup 22B. Leaf petiole vegetable subgroup**   |                                                                                                                                                                                                                                                                    |
 | Celery                                                   | Cardoon; celery; celery, Chinese; fuki; rhubarb; udo; zuiki; cultivars, varieties, and hybrids of these commodities.                                                                                                                                               |
 
-(36) *Crop Group 23.* Tropical and Subtropical Fruit, Edible Peel Group.
+(36) *Crop Group 23.* Tropical and Subtropical Fruit, Edible Peel Group. 
 
-(i) *Representative commodities.* Date, fig, guava, and olive.
+(i) *Representative commodities.* Date, fig, guava, and olive. 
 
-(ii) *Commodities.* The following Table 1 lists all commodities included in Crop Group 23.
+(ii) *Commodities.* The following Table 1 lists all commodities included in Crop Group 23. 
 
 Table 1—Crop Group 23: Tropical and Subtropical Fruit, Edible Peel Group
 | Commodities                                                                                  | Related crop   subgroups |
@@ -1258,7 +1258,7 @@ Table 1—Crop Group 23: Tropical and Subtropical Fruit, Edible Peel Group
 | Wax jambu (Syzygium samarangense (Blume) Merr. & L.M. Perry)                                 | 23A                      |
 | Cultivars, varieties, and hybrids of these commodities                                       |                          |
 
-(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 23, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 23, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 23: Subgroup Listing
 | Representative commodities                                                                   | Commodities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -1270,11 +1270,11 @@ Table 2—Crop Group 23: Subgroup Listing
 | **Crop Subgroup 23C. Tropical and Subtropical, Palm fruit, edible peel subgroup**            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Date                                                                                         | Açaí; apak palm; bacaba palm; bacaba-de-leque; date; doum palm coconut; jelly palm; patauá; peach palm, fruit; cultivars, varieties, and hybrids of these commodities.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-(37) *Crop Group 24.* Tropical and Subtropical Fruit, Inedible Peel Group.
+(37) *Crop Group 24.* Tropical and Subtropical Fruit, Inedible Peel Group. 
 
-(i) *Representative commodities.* Atemoya or sugar apple, avocado, banana or pomegranate, dragon fruit, lychee, passionfruit, pineapple, and prickly pear, fruit.
+(i) *Representative commodities.* Atemoya or sugar apple, avocado, banana or pomegranate, dragon fruit, lychee, passionfruit, pineapple, and prickly pear, fruit. 
 
-(ii) *Commodities.* The following Table 1 lists all commodities included in Crop Group 24.
+(ii) *Commodities.* The following Table 1 lists all commodities included in Crop Group 24. 
 
 Table 1—Crop Group 24: Tropical and Subtropical Fruit, Inedible Peel Group
 | Commodities                                                                                                            | Related crop subgroups |
@@ -1385,7 +1385,7 @@ Table 1—Crop Group 24: Tropical and Subtropical Fruit, Inedible Peel Group
 | Wild loquat (Uapaca kirkiana Müll. Arg.)                                                                               | 24B                    |
 | Cultivars, varieties, and hybrids of these commodities                                                                 |                        |
 
-(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 24, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Table.* The following Table 2 identifies the crop subgroups for Crop Group 24, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 24: Subgroup Listing
 | Representative commodities                                                                                     | Commodities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -1401,11 +1401,11 @@ Table 2—Crop Group 24: Subgroup Listing
 | **Crop Subgroup 24E. Tropical and Subtropical, Vine, inedible peel subgroup**                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Passionfruit                                                                                                   | Granadilla; granadilla, giant; monstera; passionflower, winged-stem; passionfruit; passionfruit, banana; passionfruit, purple; passionfruit, yellow; cultivars, varieties, and hybrids of these commodities.                                                                                                                                                                                                                                                                                                                                                 |
 
-(38) *Crop Group 25.* Herb Group.
+(38) *Crop Group 25.* Herb Group. 
 
-(i) *Representative commodities.* Basil, dried leaves; Basil, fresh leaves; Mint, dried leaves; and Mint, fresh leaves.
+(i) *Representative commodities.* Basil, dried leaves; Basil, fresh leaves; Mint, dried leaves; and Mint, fresh leaves. 
 
-(ii) *Commodities.* The following Table 1 lists all commodities included in Crop Group 25 and identifies the related crop subgroups.
+(ii) *Commodities.* The following Table 1 lists all commodities included in Crop Group 25 and identifies the related crop subgroups. 
 
 Table 1—Crop Group 25: Herb Group
 | Commodities                                                                                                        | Related crop subgroup |
@@ -1538,8 +1538,8 @@ Table 1—Crop Group 25: Herb Group
 | Eucommia, dried leaves, Eucommia ulmoides Oliv                                                                     | 25B                   |
 | Evening primrose, fresh leaves, Oenothera biennis L                                                                | 25A                   |
 | Evening primrose, dried leaves, Oenothera biennis L                                                                | 25B                   |
-| Eyebright, fresh leaves, Euphrasia officinalis L                                                                   | 25A                   |
-| Eyebright, dried leaves, Euphrasia officinalis L                                                                   | 25B                   |
+| Eyebright, fresh leaves, Euphrasia officinalis L.                                                                  | 25A                   |
+| Eyebright, dried leaves, Euphrasia officinalis L.                                                                  | 25B                   |
 | Fennel, common, fresh leaves, Foeniculum vulgare Mill. subsp. vulgare var. vulgare                                 | 25A                   |
 | Fennel, common, dried leaves, Foeniculum vulgare Mill. subsp. vulgare var. vulgare                                 | 25B                   |
 | Fennel, Florence, dried leaves, Foeniculum vulgare Mill. subsp. vulgare var. azoricum (Mill.) Thell                | 25B                   |
@@ -1561,7 +1561,7 @@ Table 1—Crop Group 25: Herb Group
 | Galega, dried leaves, Galega officinalis L                                                                         | 25B                   |
 | Gambir, fresh leaves, Uncaria gambir (W. Hunter) Roxb                                                              | 25A                   |
 | Gambir, dried leaves, Uncaria gambir (W. Hunter) Roxb                                                              | 25B                   |
-| Geranium, fresh leaves, Pelargonium spp                                                                            | 25A                   |
+| Geranium, fresh leaves, Pelargonium spp.                                                                           | 25A                   |
 | Geranium, dried leaves, Pelargonium spp                                                                            | 25B                   |
 | Geranium, lemon, fresh leaves, Pelargonium crispum (P. J. Bergius) L'Her                                           | 25A                   |
 | Geranium, lemon, dried leaves, Pelargonium crispum (P. J. Bergius) L'Her                                           | 25B                   |
@@ -1816,7 +1816,7 @@ Table 1—Crop Group 25: Herb Group
 | Wood betony, dried leaves, Stachys officinalis (L.) Trevis                                                         | 25B                   |
 | Woodruff, fresh leaves, Galium odoratum (L.) Scop                                                                  | 25A                   |
 | Woodruff, dried leaves, Galium odoratum (L.) Scop                                                                  | 25B                   |
-| Wormwood, fresh leaves, Artemisia absinthium L                                                                     | 25A                   |
+| Wormwood, fresh leaves, Artemisia absinthium L.                                                                    | 25A                   |
 | Wormwood, dried leaves, Artemisia absinthium L                                                                     | 25B                   |
 | Wormwood, Roman, fresh leaves, Artemisia pontica L                                                                 | 25A                   |
 | Wormwood, Roman, dried leaves, Artemisia pontica L                                                                 | 25B                   |
@@ -1830,7 +1830,7 @@ Table 1—Crop Group 25: Herb Group
 | Yomogi, dried leaves, Artemisia princeps L                                                                         | 25B                   |
 | Cultivars, varieties, and hybrids of these commodities                                                             |                       |
 
-(iii) *Crop subgroups.* The following Table 2 identifies the crop subgroups for Crop Group 25, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup.
+(iii) *Crop subgroups.* The following Table 2 identifies the crop subgroups for Crop Group 25, specifies the representative commodities for each subgroup, and lists all the commodities included in each subgroup. 
 
 Table 2—Crop Group 25: Subgroup Listing
 | Representative commodities                        | Commodities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -1840,11 +1840,11 @@ Table 2—Crop Group 25: Subgroup Listing
 | **Crop subgroup 25B. Herb dried leaves subgroup** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Basil, dried leaves and mint, dried leaves        | Agrimony, dried leaves; Amla, dried leaves; Angelica, dried leaves; Angelica, dahurian, dried leaves; Applemint, dried leaves; Avarum, dried leaves; Balloon pea, dried leaves; Balm, dried leaves; Barrenwort, dried leaves; Basil, dried leaves; Basil, American, dried leaves; Basil, Greek, dried leaves; Basil, holy, dried leaves; Basil, lemon, dried leaves; Basil, Russian, dried leaves; Bay, dried leaves; Bearberry, dried leaves; Bisongrass, dried leaves; Blue mallow, dried leaves; Boneset, dried leaves; Borage, dried leaves; Borage, Indian, dried leaves; Burnet, dried leaves; Burnet, garden, dried leaves; Burnet, salad, dried leaves; Butterbur, dried leaves; Calamint, dried leaves; Calamint, large-flower, dried leaves; Calamint, lesser, dried leaves; Calendula, dried leaves; Caltrop, dried leaves; Camomile (Chamomile), dried leaves; Camomile (Chamomile), German, dried leaves; Camomile (Chamomile), Roman, dried leaves; Caraway, dried leaves; Cat's claw, dried leaves; Catnip, dried leaves; Catnip, Japanese, dried leaves; Celandine, greater, dried leaves; Celandine, lesser, dried leaves; Celery, dried leaves; Centaury, dried leaves; Chaste tree, dried leaves; Chaste tree, Chinese, dried leaves; Chervil, dried leaves; Chinese blackberry, dried leaves; Chinese foxglove, dried leaves; Chive, dried leaves; Chive, Chinese, dried leaves; Cicely, sweet, dried leaves; Cilantro, dried leaves; Clary, dried leaves; Coriander, Bolivian, dried leaves; Coriander, Vietnamese, dried leaves; Costmary, dried leaves; Creat, dried leaves; Culantro, dried leaves; Curry leaf, dried leaves; Curryplant, dried leaves; Cut leaf, dried leaves; Damiana, dried leaves; Dillweed, dried leaves; Dokudami, dried leaves; Echinacea, dried leaves; Epazote, dried leaves; Eucommia, dried leaves; Evening primrose, dried leaves; Eyebright, dried leaves; Fennel, common, dried leaves; Fennel, Florence, dried leaves; Fenugreek, dried leaves; Feverfew, dried leaves; Field pennycress, dried leaves; Flowers, edible, dried; Fumitory, dried leaves; Galbanum, dried leaves; Galega, dried leaves; Gambir, dried leaves; Geranium, dried leaves; Geranium, lemon, dried leaves; Geranium, rose, dried leaves; Germander, golden, dried leaves; Goldenrod, European, dried leaves; Goldenseal, dried leaves; Gotu kola, dried leaves; Greater periwinkle, dried leaves; Guayusa, dried leaves; Gumweed, dried leaves; Gymnema, dried leaves; Gypsywort, dried leaves; Hawthorn, dried leaves; Heal-all, dried leaves; Hemp nettle, dried leaves; Honewort, dried leaves; Honeybush, dried leaves; Horehound, dried leaves; Horsemint, dried leaves; Horsetail, dried leaves; Hyssop, dried leaves; Hyssop, anise, dried leaves; Indian tobacco, dried leaves; Ironwort, dried leaves; Ivy, dried leaves; Jamaica dogwood, dried leaves; Jasmine, dried leave; Labrador tea, dried leaves; Lavender, dried leaves; Lemon verbena, dried leaves; Lemongrass, dried leaves; Lovage, dried leaves; Love-in-a-mist, dried leaves; Mamaki, dried leaves; Marigold, dried leaves; Marigold, African, dried leaves; Marigold, Aztec, dried leaves; Marigold, French, dried leaves; Marigold, Irish lace, dried leaves; Marigold, licorice, dried leaves; Marigold, Mexican mint, dried leaves; Marigold, signet, dried leaves; Marjoram, dried leaves; Marjoram, sweet, dried leaves; Marshmallow, dried leaves; Meadowsweet, dried leaves; Mint, dried leaves; Mint, corn, dried leaves; Mint, Korean, dried leaves; Monarda, dried leaves; Moringa, dried leaves; Motherwort, dried leaves; Mountainmint, dried leaves; Mountainmint, clustered, dried leaves; Mountainmint, hoary, dried leaves; Mountainmint, Virginia, dried leaves; Mountainmint, whorled, dried leaves; Mugwort, dried leaves; Mulberry, white, dried leaves; Mullein, dried leaves; Mustard, hedge, dried leaves; Nasturtium, dried leaves; Nasturtium, bush, dried leaves; Nasturtium, garden, dried leaves; Nettle, stinging, dried leaves; Oregano, dried leaves; Oregano, Mexican, dried leaves; Oregano, Puerto Rico, dried leaves; Oswego tea, dried leaves; Pandan leaf, dried leaves; Pansy, dried leaves; Paracress, dried leaves; Parsley, dried leaves; Partridge berry, dried leaves; Patchouli, dried leaves; Pennyroyal, dried leaves; Pepper leaf, black, dried leaves; Peppermint, dried leaves; Perilla, dried leaves; Pill bearing spurge, dried leaves; Pipsissewa, dried leaves; Plantain, common, dried leaves; Rooibos, dried leaves; Rose, dried leaves; Rosemary, dried leaves; Sage, dried leaves; Sage, Greek, dried leaves; Sage, Spanish, dried leaves; Sage, white, dried leaves; Savory, summer, dried leaves; Savory, winter, dried leaves; Senna, dried leaves; Siberian fir, dried leaves; Skullcap, dried leaves; Small flower willow head, dried leaves; Sorrel, dried leaves; Sorrel, French, dried leaves; Sorrel, garden, dried leaves; Southernwood, dried leaves; Spearmint, dried leaves; Spearmint, Scotch, dried leaves; Spilanthes, dried leaves; Spotted beebalm, dried leaves; St. John's Wort, dried leaves; Stevia, dried leaves; Stoneroot, dried leaves; Swamp leaf, dried leaves; Tansy, dried leaves; Tarragon, dried leaves; Thuja, dried leaves; Thyme, dried leaves; Thyme, creeping, dried leaves; Thyme, lemon, dried leaves; Thyme, mastic, dried leaves; Toon, Chinese, dried leaves; Toothed clubmoss, dried leaves; Trailing arbutus, dried leaves; Vasaka, dried leaves; Verbena, blue, dried leaves; Veronica, dried leaves; Violet, dried leaves; Watermint, dried leaves; Waterpepper, dried leaves; Wintergreen, dried leaves; Wood betony, dried leaves; Woodruff, dried leaves; Wormwood, dried leaves; Wormwood, Roman, dried leaves; Yarrow, dried leaves; Yellow gentian, dried leaves; Yerba santa, dried leaves; Yomogi, dried leaves; Fennel, Spanish, dried leaves; Marjoram, pot, dried leaves; Wild bergamot, dried leaves; Cultivars, varieties, and hybrids of these commodities. |
 
-(39) *Crop Group 26.* Spice Group.
+(39) *Crop Group 26.* Spice Group. 
 
-(i) *Representative commodities.* Dill seed or Celery seed.
+(i) *Representative commodities.* Dill seed or Celery seed. 
 
-(ii) *Commodities.* The following table lists all commodities included in Crop Group 26.
+(ii) *Commodities.* The following table lists all commodities included in Crop Group 26. 
 
 Table 1—Crop Group 26: Spice Group
 | Commodities                                                                                     |

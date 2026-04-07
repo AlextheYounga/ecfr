@@ -1,6 +1,6 @@
 ##### § 180.403 Thidiazuron; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the defoliant thidiazuron (N-phenyl-N-1,2,3-thiadiazol-5-ylurea) and its aniline containing metabolites in or on the following food commodities:
+(a) *General.* Tolerances are established for the combined residues of the defoliant thidiazuron (N-phenyl-N-1,2,3-thiadiazol-5-ylurea) and its aniline containing metabolites in or on the following food commodities: 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -23,10 +23,10 @@
 | Sheep, meat             | 0.4               |
 | Sheep, meat byproducts  | 0.4               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[65 FR 33700, May 24, 2000, as amended at 72 FR 53462, Sept. 19, 2007\]

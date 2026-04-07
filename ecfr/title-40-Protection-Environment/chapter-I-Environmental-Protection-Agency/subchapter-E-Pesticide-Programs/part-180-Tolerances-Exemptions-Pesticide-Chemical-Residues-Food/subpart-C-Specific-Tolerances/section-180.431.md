@@ -1,11 +1,11 @@
 ##### § 180.431 Clopyralid; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide clopyralid, including its metabolites and degradates, in or on the commodities in the table below from its application in the acid form or in the form of its salts. Compliance with the tolerance levels specified below is to be determined by measuring only clopyralid, (3,6-dichloro-2-pyridinecarboxylic acid), in or on the following commodities:
+(a) *General.* Tolerances are established for residues of the herbicide clopyralid, including its metabolites and degradates, in or on the commodities in the table below from its application in the acid form or in the form of its salts. Compliance with the tolerance levels specified below is to be determined by measuring only clopyralid, (3,6-dichloro-2-pyridinecarboxylic acid), in or on the following commodities: 
 
 Table 1 to Paragraph (a)
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
-| Barley, branBrassica,                           | 12                |
+| Barley, bran                                    | 12                |
 | Barley, grain                                   | 3.0               |
 | Barley, hay                                     | 9.0               |
 | Barley, pearled barley                          | 12                |
@@ -96,10 +96,10 @@ Table 1 to Paragraph (a)
 | Wheatgrass, intermediate, shorts                | 12                |
 | Wheatgrass, intermediate, straw                 | 9                 |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[52 FR 10566, Apr. 2, 1987\] Editorial Note:For Federal Register citations affecting § 180.431, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

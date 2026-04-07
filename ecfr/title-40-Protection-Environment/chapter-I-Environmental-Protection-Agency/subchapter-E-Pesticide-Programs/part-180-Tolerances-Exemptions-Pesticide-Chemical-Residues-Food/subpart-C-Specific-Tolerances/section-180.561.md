@@ -1,6 +1,6 @@
 ##### § 180.561 Acibenzolar-S-methyl; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of acibenzolar-*S*-methyl, benzo(1,2,3)thiadiazole-7-carbothioic acid-*S*-methyl ester, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only those acibenzolar-*S*-methyl residues convertible to benzo(1,2,3)thiadiazole-7-carboxylic acid (CGA-210007), expressed as the stoichiometric equivalent of acibenzolar-*S*-methyl, in or on the following raw agricultural commodities.
+(a) *General.* (1) Tolerances are established for residues of acibenzolar-*S*-methyl, benzo(1,2,3)thiadiazole-7-carbothioic acid-*S*-methyl ester, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only those acibenzolar-*S*-methyl residues convertible to benzo(1,2,3)thiadiazole-7-carboxylic acid (CGA-210007), expressed as the stoichiometric equivalent of acibenzolar-*S*-methyl, in or on the following raw agricultural commodities. 
 
 | Commodity                                              | Parts per million |
 | ------------------------------------------------------ | ----------------- |
@@ -17,7 +17,7 @@
 | Vegetable, leafy, group 4                              | 0.25              |
 | 1 There are no United States registrations for banana. |                   |
 
-(2) Tolerances are established for residues of acibenzolar- *S* -methyl, benzo(1,2,3)thiadiazole-7-carbothioic acid- *S* -methyl ester, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only those acibenzolar- *S* -methyl residues convertible to benzo(1,2,3)thiadiazole-7-carboxylic acid (CGA-210007), expressed as the Stoichiometric equivalent of acibenzolar- *S* -methyl, in or on the following raw agricultural commodities.
+(2) Tolerances are established for residues of acibenzolar- *S* -methyl, benzo(1,2,3)thiadiazole-7-carbothioic acid- *S* -methyl ester, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only those acibenzolar- *S* -methyl residues convertible to benzo(1,2,3)thiadiazole-7-carboxylic acid (CGA-210007), expressed as the Stoichiometric equivalent of acibenzolar- *S* -methyl, in or on the following raw agricultural commodities. 
 
 | Commodity  | Parts per million | Expiration/revocation date |
 | ---------- | ----------------- | -------------------------- |
@@ -25,10 +25,10 @@
 | Grapefruit | 0.05              | 12/31/15                   |
 | Pear       | 0.05              | 12/31/15                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[65 FR 50446, Aug. 18, 2000, as amended at 70 FR 7861, Feb. 16, 2005; 71 FR 76200, Dec. 20, 2006; 74 FR 24710, May 26, 2009; 76 FR 34886, June 15, 2011; 77 FR 21676, Apr. 11, 2012; 77 FR 30406, May 23, 2012; 80 FR 58620, Sept. 30, 2015\]

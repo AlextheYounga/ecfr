@@ -1,5 +1,5 @@
 ##### § 178.33-3 Inspection.
 
-(a) By competent inspector. 
+(a) By competent inspector.
 
 (b) \[Reserved\]

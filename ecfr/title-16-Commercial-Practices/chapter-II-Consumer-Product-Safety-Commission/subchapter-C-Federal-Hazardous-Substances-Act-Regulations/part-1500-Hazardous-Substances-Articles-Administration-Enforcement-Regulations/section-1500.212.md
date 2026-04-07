@@ -1,12 +1,12 @@
 ##### § 1500.212 Definition of guaranty; suggested forms.
 
-(a) A guaranty or undertaking referred to in section 5(b)(2) of the act may be: 
+(a) A guaranty or undertaking referred to in section 5(b)(2) of the act may be:
 
-(1) Limited to a specific shipment or other delivery of an article, in which case it may be a part of or attached to the invoice or bill of sale covering such shipment of delivery; or 
+(1) Limited to a specific shipment or other delivery of an article, in which case it may be a part of or attached to the invoice or bill of sale covering such shipment of delivery; or
 
-(2) General and continuing, in which case, in its application to any shipment or other delivery of an article, it shall be considered to have been given at the date such article was shipped or delivered, or caused to be shipped or delivered, by the person who gives the guaranty of undertaking. 
+(2) General and continuing, in which case, in its application to any shipment or other delivery of an article, it shall be considered to have been given at the date such article was shipped or delivered, or caused to be shipped or delivered, by the person who gives the guaranty of undertaking.
 
-(b) The following are suggested forms of guaranty or undertaking referred to in section 5(b)(2) of the act. 
+(b) The following are suggested forms of guaranty or undertaking referred to in section 5(b)(2) of the act.
 
 (1) *Limited form for use on invoice or bill of sale.*
 

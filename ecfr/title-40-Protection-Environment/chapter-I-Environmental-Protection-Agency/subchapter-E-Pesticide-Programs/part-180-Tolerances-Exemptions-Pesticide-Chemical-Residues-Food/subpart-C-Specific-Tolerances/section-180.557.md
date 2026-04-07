@@ -1,6 +1,6 @@
 ##### § 180.557 Tetraconazole; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of tetraconazole, including its metabolites and degradates, in or on the commodities listed below. Compliance with the following tolerance levels is to be determined by measuring only tetraconazole (1-\[2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl\]-1H-1,2,4-triazole), in or on the following commodities.
+(a) *General.* Tolerances are established for residues of tetraconazole, including its metabolites and degradates, in or on the commodities listed below. Compliance with the following tolerance levels is to be determined by measuring only tetraconazole (1-\[2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl\]-1H-1,2,4-triazole), in or on the following commodities. 
 
 | Commodity                                                          | Parts per million |
 | ------------------------------------------------------------------ | ----------------- |
@@ -57,10 +57,10 @@
 | Wheat, germ                                                        | 0.50              |
 | Wheat, grain                                                       | 0.05              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[70 FR 20830, Apr. 22, 2005, as amended at 70 FR 31359, June 1, 2005; 72 FR 18134, Apr. 11, 2007; 73 FR 67406, Nov. 14, 2008; 76 FR 53648, Aug. 29, 2011; 82 FR 2905, Jan. 10, 2017; 83 FR 16206, Apr. 16, 2018\]

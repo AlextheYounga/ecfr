@@ -11,8 +11,8 @@ Guam—1971 Sulfur Dioxide NAAQS
 \[Primary and Secondary\]
 | Designated area                                                            | Does not meet primary standards | Does not meet secondary standards | Cannot be classified | Better than national standards |
 | -------------------------------------------------------------------------- | ------------------------------- | --------------------------------- | -------------------- | ------------------------------ |
-| That portion of Guam within a 31⁄2 km radius of the Piti Power Plant       | X                               |                                   |                      |                                |
-| That portion of Guam within a 31⁄2 km radius of the Tanguisson Power Plant | 1 X                             |                                   |                      |                                |
+| That portion of Guam within a 31/2 km radius of the Piti Power Plant       | X                               |                                   |                      |                                |
+| That portion of Guam within a 31/2 km radius of the Tanguisson Power Plant | 1 X                             |                                   |                      |                                |
 | Remainder of State (Guam)                                                  |                                 |                                   |                      | X                              |
 | 1 EPA designation replaces State designation.                              |                                 |                                   |                      |                                |
 

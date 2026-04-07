@@ -1,6 +1,6 @@
 ##### 552.241-70 Availability of Funds for the Next Fiscal Year or Quarter.
 
-As prescribed in 541.501(a), insert the following: 
+As prescribed in 541.501(a), insert the following:
 
 Availability of Funds for the Next Fiscal Year or Quarter (AUG 2010) (Deviation FAR 52.232-19)
 

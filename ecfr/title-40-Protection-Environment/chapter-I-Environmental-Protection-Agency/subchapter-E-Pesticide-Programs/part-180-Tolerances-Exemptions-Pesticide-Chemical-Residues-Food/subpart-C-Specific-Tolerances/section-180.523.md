@@ -1,6 +1,6 @@
 ##### § 180.523 Metaldehyde; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the molluscicide metaldehyde, including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the specified tolerance levels is to be determined by measuring only metaldehyde, 2,4,6,8-tetramethyl-1,3,5,7-tetroxocane, in or on the commodity.
+(a) *General.* Tolerances are established for residues of the molluscicide metaldehyde, including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the specified tolerance levels is to be determined by measuring only metaldehyde, 2,4,6,8-tetramethyl-1,3,5,7-tetroxocane, in or on the commodity. 
 
 | Commodity                                                 | Parts per million |
 | --------------------------------------------------------- | ----------------- |
@@ -34,9 +34,9 @@
 | Vegetable, legume, edible podded subgroup 6A              | 0.80              |
 | Watercress                                                | 3.2               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with a regional registration as defined in § 180.1(l) are established for residues of the molluscicide metaldehyde, including its metabolites and degradates, in or on the following commodities. Compliance with the specified tolerance level is to be determined by measuring only metaldehyde, 2,4,6,8-tetramethyl-1,3,5,7-tetroxocane, in or on the commodity.
+(c) *Tolerances with regional registrations.* Tolerances with a regional registration as defined in § 180.1(l) are established for residues of the molluscicide metaldehyde, including its metabolites and degradates, in or on the following commodities. Compliance with the specified tolerance level is to be determined by measuring only metaldehyde, 2,4,6,8-tetramethyl-1,3,5,7-tetroxocane, in or on the commodity. 
 
 | Commodity            | Parts per million |
 | -------------------- | ----------------- |
@@ -54,6 +54,6 @@
 | Wheat, hay           | 0.05              |
 | Wheat, straw         | 0.05              |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[73 FR 54963, Sept. 24, 2008, as amended at 78 FR 70869, Nov. 27, 2013; 80 FR 11588, Mar. 4, 2015; 81 FR 71638, Oct. 18, 2016\]

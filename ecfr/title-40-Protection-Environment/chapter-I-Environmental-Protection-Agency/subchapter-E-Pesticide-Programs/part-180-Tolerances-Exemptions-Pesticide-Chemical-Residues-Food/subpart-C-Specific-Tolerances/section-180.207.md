@@ -1,11 +1,11 @@
 ##### § 180.207 Trifluralin; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of trifluralin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only trifluralin (2,6-dinitro-N,N-dipropyl-4-(trifluoromethyl)benzenamine).
+(a) *General.* Tolerances are established for residues of trifluralin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only trifluralin (2,6-dinitro-N,N-dipropyl-4-(trifluoromethyl)benzenamine). 
 
 Table 1 to Paragraph (a)
 | Commodity                                                | Parts per million |
 | -------------------------------------------------------- | ----------------- |
-| Alfalfa, forage1                                         | 3.0               |
+| Alfalfa, forage                                          | 3.0               |
 | Alfalfa, hay                                             | 2.0               |
 | Almond, hulls                                            | 0.05              |
 | Asparagus                                                | 0.05              |
@@ -54,10 +54,10 @@ Table 1 to Paragraph (a)
 | Wheat, straw                                             | 0.05              |
 | 1 There are no U.S. registrations as of August 24, 2023. |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[45 FR 42619, June 25, 1980, as amended at 45 FR 56346, Aug. 25, 1980; 45 FR 86493, Dec. 31, 1980; 46 FR 37250, July 20, 1981; 47 FR 13524, Mar. 31, 1982; 47 FR 20309, May 12, 1982; 63 FR 57074, Oct. 26, 1998; 64 FR 39082, July 21, 1999; 70 FR 21643, Apr. 27, 2005; 71 FR 54433, Sept. 15, 2006; 78 FR 46274, July 31, 2013; 84 FR 4351, Feb. 15, 2019; 88 FR 57898, Aug. 24, 2023\]

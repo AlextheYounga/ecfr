@@ -1,6 +1,6 @@
 ##### § 180.220 Atrazine; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the herbicide atrazine (2-chloro-4-ethylamino-6-isopropylamino-s-triazine) and its chlorinated metabolites 2-amino-4-chloro-6-isopropylamino-s-triazine, 2-amino-4-chloro-6-ethylamino-s-triazine, and 2,4-diamino-6-chloro-s-triazine, in or on the following food commodities:
+(a) *General.* Tolerances are established for the combined residues of the herbicide atrazine (2-chloro-4-ethylamino-6-isopropylamino-s-triazine) and its chlorinated metabolites 2-amino-4-chloro-6-isopropylamino-s-triazine, 2-amino-4-chloro-6-ethylamino-s-triazine, and 2,4-diamino-6-chloro-s-triazine, in or on the following food commodities: 
 
 | Commodity                                       | Parts per   million |
 | ----------------------------------------------- | ------------------- |
@@ -40,11 +40,11 @@
 | Wheat, hay                                      | 5.0                 |
 | Wheat, straw                                    | 0.50                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertant residues of atrazine, 2-chloro-4-ethylamino-6-isopropylamino-s-triazine, in or on the following raw agricultural commodity when present therein as a result of application of atrazine to the growing crops in paragraph (a) of this section:
+(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertant residues of atrazine, 2-chloro-4-ethylamino-6-isopropylamino-s-triazine, in or on the following raw agricultural commodity when present therein as a result of application of atrazine to the growing crops in paragraph (a) of this section: 
 
 | Commodity                                  | Parts per million |
 | ------------------------------------------ | ----------------- |

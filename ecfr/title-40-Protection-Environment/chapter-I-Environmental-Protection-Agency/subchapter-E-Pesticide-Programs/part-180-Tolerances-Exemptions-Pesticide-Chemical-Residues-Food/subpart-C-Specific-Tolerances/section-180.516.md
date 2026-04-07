@@ -1,11 +1,11 @@
 ##### § 180.516 Fludioxonil; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the fungicide fludioxonil, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only fludioxonil, 4-(2,2-difluoro-1,3-benzodioxol-4-yl)-1-*H*-pyrrole-3-carbonitrile).
+(a) *General.* (1) Tolerances are established for residues of the fungicide fludioxonil, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only fludioxonil, 4-(2,2-difluoro-1,3-benzodioxol-4-yl)-1-*H*-pyrrole-3-carbonitrile). 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                           | Parts per million |
 | ------------------------------------------------------------------- | ----------------- |
-| Acerola1                                                            | 5.0               |
+| Acerola                                                             | 5.0               |
 | African Tree Nut                                                    | 0.01              |
 | Almond                                                              | 0.2               |
 | Almond, hulls                                                       | 15                |
@@ -131,7 +131,7 @@ Table 1 to Paragraph (a)(1)
 | Yellowhorn                                                          | 0.01              |
 | 1 There are no U.S. registrations as of July 28, 2021.              |                   |
 
-(2) Tolerances are established for residues of the fungicide fludioxonil, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the sum of fludioxonil, 4-(2,2-difluoro-1,3-benzodioxol-4-yl)-1-*H*-pyrrole-3-carbonitrile), and its metabolites converted to 2,2-difluoro-l,3-benzodioxole-4-carboxylic acid, calculated as the stoichiometric equivalent of fludioxonil.
+(2) Tolerances are established for residues of the fungicide fludioxonil, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the sum of fludioxonil, 4-(2,2-difluoro-1,3-benzodioxol-4-yl)-1-*H*-pyrrole-3-carbonitrile), and its metabolites converted to 2,2-difluoro-l,3-benzodioxole-4-carboxylic acid, calculated as the stoichiometric equivalent of fludioxonil. 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -149,10 +149,10 @@ Table 1 to Paragraph (a)(1)
 | Sheep, meat             | 0.01              |
 | Sheep, meat byproducts  | 0.05              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[62 FR 56082, Oct. 29, 1997\] Editorial Note:For Federal Register citations affecting § 180.516, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
 ##### § 180.702 Bixafen; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the fungicide bixafen, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only bixafen, *N*-(3,4-dichloro-5-fluorobiphenyl-2-yl)-3-(difluoromethyl)-1-methylpyrazole-4-carboxamide, in or on the commodity.
+(a) *General.* (1) Tolerances are established for residues of the fungicide bixafen, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only bixafen, *N*-(3,4-dichloro-5-fluorobiphenyl-2-yl)-3-(difluoromethyl)-1-methylpyrazole-4-carboxamide, in or on the commodity. 
 
 | Commodity                                                       | Parts per million |
 | --------------------------------------------------------------- | ----------------- |
@@ -17,7 +17,7 @@
 | Vegetable, root, subgroup 1A                                    | 0.30              |
 | Vegetable, tuberous and corm, subgroup 1C                       | 0.01              |
 
-(2) Tolerances are established for residues of the fungicide bixafen, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of bixafen, *N*-(3,4-dichloro-5-fluorobiphenyl-2-yl)-3-(difluoromethyl)-1-methylpyrazole-4-carboxamide, and its desmethyl metabolite, *N-*(3′,4′-dichloro-5-fluoro\[1,1′-biphenyl\]-2-yl)-3-(difluoromethyl)-1*H*-pyrazole-4-carboxamide, calculated as the stoichiometric equivalent of bixafen, in or on the commodity.
+(2) Tolerances are established for residues of the fungicide bixafen, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of bixafen, *N*-(3,4-dichloro-5-fluorobiphenyl-2-yl)-3-(difluoromethyl)-1-methylpyrazole-4-carboxamide, and its desmethyl metabolite, *N-*(3′,4′-dichloro-5-fluoro\[1,1′-biphenyl\]-2-yl)-3-(difluoromethyl)-1*H*-pyrazole-4-carboxamide, calculated as the stoichiometric equivalent of bixafen, in or on the commodity. 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -35,10 +35,10 @@
 | Sheep, meat byproducts  | 0.40              |
 | Sheep, muscle           | 0.08              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[83 FR 62485, Dec. 4, 2018\]

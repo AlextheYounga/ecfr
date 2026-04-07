@@ -1,6 +1,6 @@
 ##### § 180.467 Carbon disulfide; tolerances for residues.
 
-Tolerances are established for the nematicide, insecticide, and fungicide carbon disulfide, from the application of sodium tetrathiocarbonate, in or on the following raw agricultural commodities. These tolerances expire on January 19, 2024.
+Tolerances are established for the nematicide, insecticide, and fungicide carbon disulfide, from the application of sodium tetrathiocarbonate, in or on the following raw agricultural commodities. These tolerances expire on January 19, 2024. 
 
 | Commodity          | Parts per million |
 | ------------------ | ----------------- |

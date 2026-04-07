@@ -1,16 +1,16 @@
 ##### § 52.825 Compliance schedules.
 
-(a) \[Reserved\]*Regulation for increments of progress.*
+(a) \[Reserved\] 
 
-(b) *Regulation for increments of progress.* (1) Except as provided in paragraph (b)(2) of this section, the owner or operator of any stationary source subject to regulation 4.3.(3)(b), “Rules and Regulations Relating to Air Pollution Control of the Iowa Air Pollution Control Commission” shall, no later than December 31, 1972, submit to the Administrator for approval, a proposed compliance schedule that demonstrates compliance with the applicable regulation as expeditiously as practicable but no later than January 1, 1975. The compliance schedule shall provide for periodic increments of progress towards compliance. The dates for achievement of such increments shall be specified. Increments of progress shall include, but not be limited to: Letting of necessary contract for construction or process changes, if applicable; initiation of construction; completion and start-up of control system; performance tests; and submittal of performance test analysis and results.
+(b) *Regulation for increments of progress.* (1) Except as provided in paragraph (b)(2) of this section, the owner or operator of any stationary source subject to regulation 4.3.(3)(b), “Rules and Regulations Relating to Air Pollution Control of the Iowa Air Pollution Control Commission” shall, no later than December 31, 1972, submit to the Administrator for approval, a proposed compliance schedule that demonstrates compliance with the applicable regulation as expeditiously as practicable but no later than January 1, 1975. The compliance schedule shall provide for periodic increments of progress towards compliance. The dates for achievement of such increments shall be specified. Increments of progress shall include, but not be limited to: Letting of necessary contract for construction or process changes, if applicable; initiation of construction; completion and start-up of control system; performance tests; and submittal of performance test analysis and results. 
 
-(2) Where any such owner or operator demonstrates to the satisfaction of the Administrator that compliance with the applicable regulations will be achieved on or before December 31, 1973, no compliance schedule shall be required.
+(2) Where any such owner or operator demonstrates to the satisfaction of the Administrator that compliance with the applicable regulations will be achieved on or before December 31, 1973, no compliance schedule shall be required. 
 
-(3) Any owner or operator who submits a compliance schedule pursuant to this paragraph shall, within 5 days after the deadline for each increment of progress, certify to the Administrator whether or not the required increment of the approved compliance schedule has been met.
+(3) Any owner or operator who submits a compliance schedule pursuant to this paragraph shall, within 5 days after the deadline for each increment of progress, certify to the Administrator whether or not the required increment of the approved compliance schedule has been met. 
 
-(4) Any compliance schedule adopted by the State and approved by the Administrator shall satisfy the requirements of this paragraph for the affected source.
+(4) Any compliance schedule adopted by the State and approved by the Administrator shall satisfy the requirements of this paragraph for the affected source. 
 
-(c) The compliance schedules for the sources identified below are approved as revisions to the plan pursuant to § 51.104 and subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted.
+(c) The compliance schedules for the sources identified below are approved as revisions to the plan pursuant to § 51.104 and subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted. 
 
 Iowa
 | Source                                                                                                                                                | Location         | Regulation involved | Date adopted  | Variance expiration date | Final compliance date |

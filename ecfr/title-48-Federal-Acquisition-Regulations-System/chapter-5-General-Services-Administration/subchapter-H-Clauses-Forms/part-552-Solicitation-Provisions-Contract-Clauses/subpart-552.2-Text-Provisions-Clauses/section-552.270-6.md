@@ -1,6 +1,6 @@
 ##### 552.270-6 Maintenance of Building and Premises—Right of Entry.
 
-As prescribed in 570.703, insert the following clause: 
+As prescribed in 570.703, insert the following clause:
 
 Maintenance of Building and Premises—Right of Entry (SEP 1999)
 

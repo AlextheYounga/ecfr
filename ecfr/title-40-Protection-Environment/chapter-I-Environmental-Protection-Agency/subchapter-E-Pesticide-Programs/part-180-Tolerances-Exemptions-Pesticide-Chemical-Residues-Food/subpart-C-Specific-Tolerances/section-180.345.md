@@ -1,6 +1,6 @@
 ##### § 180.345 Ethofumesate; tolerances for residues.
 
-(a) *General.* Tolerance are established for residues of the herbicide ethofumesate, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of ethofumesate, 2-ethoxy-2,3-dihydro-3,3-dimethyl-5-benzofuranyl methanesulfonate, and its metabolites 2-hydroxy-2,3-dihydro-3,3-dimethyl-5-benzofuranyl methanesulfonate, and 2,3-dihydro-3,3-dimethyl-2-oxo-5-benzofuranylmethanesulfonate, calculated as the stoichiometric equivalent of ethofumesate, in or on the following food commodities.
+(a) *General.* Tolerance are established for residues of the herbicide ethofumesate, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of ethofumesate, 2-ethoxy-2,3-dihydro-3,3-dimethyl-5-benzofuranyl methanesulfonate, and its metabolites 2-hydroxy-2,3-dihydro-3,3-dimethyl-5-benzofuranyl methanesulfonate, and 2,3-dihydro-3,3-dimethyl-2-oxo-5-benzofuranylmethanesulfonate, calculated as the stoichiometric equivalent of ethofumesate, in or on the following food commodities. 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -27,14 +27,14 @@
 | Sheep, meat             | 0.05              |
 | Sheep, meat byproducts  | 0.05              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* Tolerances with a regional registration, as defined in § 180.1(l) are established for residues of the herbicide ethofumesate, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified is to be determined by measuring only the sum of ethofumesate, 2-ethoxy-2,3-dihydro-3,3-dimethyl-5-benzofuranyl methanesulfonate, and its metabolites 2-hydroxy-2,3-dihydro-3,3-dimethyl-5-benzofuranyl methanesulfonate, and 2,3-dihydro-3,3-dimethyl-2-oxo-5-benzofuranylmethanesulfonate, calculated as the stoichiometric equivalent of ethofumesate, in or on the raw agricultural commodities.
+(c) *Tolerances with regional registrations.* Tolerances with a regional registration, as defined in § 180.1(l) are established for residues of the herbicide ethofumesate, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified is to be determined by measuring only the sum of ethofumesate, 2-ethoxy-2,3-dihydro-3,3-dimethyl-5-benzofuranyl methanesulfonate, and its metabolites 2-hydroxy-2,3-dihydro-3,3-dimethyl-5-benzofuranyl methanesulfonate, and 2,3-dihydro-3,3-dimethyl-2-oxo-5-benzofuranylmethanesulfonate, calculated as the stoichiometric equivalent of ethofumesate, in or on the raw agricultural commodities. 
 
 | Commodity     | Parts per million |
 | ------------- | ----------------- |
 | Carrot, roots | 7.0               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[63 FR 34828, June 26, 1998, as amended at 71 FR 51516, Aug. 30, 2006; 72 FR 52019, Sept. 12, 2007; 82 FR 57158, Dec. 4, 2017\]

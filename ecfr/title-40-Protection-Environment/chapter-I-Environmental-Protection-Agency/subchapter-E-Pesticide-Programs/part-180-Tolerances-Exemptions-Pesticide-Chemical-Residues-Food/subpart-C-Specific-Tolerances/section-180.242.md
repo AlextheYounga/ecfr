@@ -1,11 +1,11 @@
 ##### § 180.242 Thiabendazole; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of thiabendazole, including its metabolites and degradates, in or on the commodities in table 1 to paragraph (a)(1). Compliance with the tolerance levels specified to table 1 to paragraph (a)(1) is to be determined by measuring only thiabendazole in or on the commodity.
+(a) *General.* (1) Tolerances are established for residues of thiabendazole, including its metabolites and degradates, in or on the commodities in table 1 to paragraph (a)(1). Compliance with the tolerance levels specified to table 1 to paragraph (a)(1) is to be determined by measuring only thiabendazole in or on the commodity. 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                      | Parts per   million |
 | -------------------------------------------------------------- | ------------------- |
-| Alfalfa, forage 2Brassica,                                     | 0.02                |
+| Alfalfa, forage 2                                              | 0.02                |
 | Alfalfa, hay 2                                                 | 0.02                |
 | Animal feed, nongrass, group 18                                | 0.01                |
 | Apple, wet pomace                                              | 12.0                |
@@ -72,7 +72,7 @@ Table 1 to Paragraph (a)(1)
 | 1 There are no U.S. registrations on the indicated commodity.  |                     |
 | 2 This tolerance expires on July 26, 2022.                     |                     |
 
-(2) Tolerances are established for residues of thiabendazole, including its metabolites and degradates, in or on the commodities in table 2 to paragraph (a)(2). Compliance with the tolerance levels specified to table 2 to paragraph (a)(2) is to be determined by measuring only the sum of thiabendazole (2-(4-thiazolyl)benzimidazole) and its metabolite 5-hydroxythiabendazole (free and conjugated) calculated as the stoichiometric equivalent of thiabendazole, in or on the commodity.
+(2) Tolerances are established for residues of thiabendazole, including its metabolites and degradates, in or on the commodities in table 2 to paragraph (a)(2). Compliance with the tolerance levels specified to table 2 to paragraph (a)(2) is to be determined by measuring only the sum of thiabendazole (2-(4-thiazolyl)benzimidazole) and its metabolite 5-hydroxythiabendazole (free and conjugated) calculated as the stoichiometric equivalent of thiabendazole, in or on the commodity. 
 
 Table 2 to Paragraph (a)(2)
 | Commodity               | Parts per million |
@@ -85,14 +85,14 @@ Table 2 to Paragraph (a)(2)
 | Milk                    | 0.1               |
 | Sheep, meat byproducts  | 0.4               |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in table 3 to this paragraph (b) are established for residues of the thiabendazole, including its metabolites and degradates, in or on the specified agricultural commodities, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. Compliance with the tolerance levels specified in table 3 to this paragraph (b) is to be determined by measuring only the sum of thiabendazole (2-(4-thiazolyl)benzimidazole) and its metabolite benzimidazole (free and conjugated), calculated as the stoichiometric equivalent of thiabendazole. The tolerances expire on the date specified in table 3 to this paragraph (b).
+(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in table 3 to this paragraph (b) are established for residues of the thiabendazole, including its metabolites and degradates, in or on the specified agricultural commodities, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. Compliance with the tolerance levels specified in table 3 to this paragraph (b) is to be determined by measuring only the sum of thiabendazole (2-(4-thiazolyl)benzimidazole) and its metabolite benzimidazole (free and conjugated), calculated as the stoichiometric equivalent of thiabendazole. The tolerances expire on the date specified in table 3 to this paragraph (b). 
 
 | Commodity    | Parts per   million | Expiration/   revocation   date |
 | ------------ | ------------------- | ------------------------------- |
 | Sweet potato | 10                  | 12/31/22                        |
 
-(c) *Tolerances with regional exemptions.* \[Reserved\]
+(c) *Tolerances with regional exemptions.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[42 FR 32783, June 28, 1977\] Editorial Note:For Federal Register citations affecting § 180.242, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

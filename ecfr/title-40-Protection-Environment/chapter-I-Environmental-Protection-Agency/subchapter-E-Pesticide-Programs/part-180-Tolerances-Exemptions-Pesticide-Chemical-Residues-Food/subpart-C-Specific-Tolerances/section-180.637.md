@@ -1,10 +1,10 @@
 ##### § 180.637 Mandipropamid; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of mandipropamid, including its metabolites and degradates, in or on the commodities listed in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only mandipropamid (4-chloro-*N*-\[2-\[3-methoxy-4-(2-propynyloxy)phenyl\]ethyl\]-α-(2-propynyloxy)benzeneacetamide) in or on the commodity.
+(a) *General.* Tolerances are established for residues of mandipropamid, including its metabolites and degradates, in or on the commodities listed in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only mandipropamid (4-chloro-*N*-\[2-\[3-methoxy-4-(2-propynyloxy)phenyl\]ethyl\]-α-(2-propynyloxy)benzeneacetamide) in or on the commodity. 
 
 | Commodity                                                                                        | Parts per million |
 | ------------------------------------------------------------------------------------------------ | ----------------- |
-| Asparagus bean, edible podded1Brassica,                                                          | 0.90              |
+| Asparagus bean, edible podded                                                                    | 0.90              |
 | Basil, dried leaves                                                                              | 200               |
 | Basil, fresh leaves                                                                              | 30                |
 | Bean (Phaseolus spp.), edible podded                                                             | 0.90              |
@@ -55,14 +55,14 @@
 | Yardlong bean, edible podded                                                                     | 0.90              |
 | 1 There are no U.S. registrations allowing use of mandipropamid on cacao as of October 28, 2019. |                   |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of mandipropamid, including its metabolites and degradates, in or on the commodities listed in the table below resulting from use of the pesticide pursuant to FFIFRA section 18 emergency exemptions. Compliance with the tolerance levels specified below is to be determined by measuring only mandipropamid (4-chloro-*N*-\[2-\[3-methoxy-4-(2-propynyloxy)phenyl\]ethyl\]-α-(2-propynyloxy)benzeneacetamide) in or on the commodity. The tolerances expire on the date specified in the table.
+(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of mandipropamid, including its metabolites and degradates, in or on the commodities listed in the table below resulting from use of the pesticide pursuant to FFIFRA section 18 emergency exemptions. Compliance with the tolerance levels specified below is to be determined by measuring only mandipropamid (4-chloro-*N*-\[2-\[3-methoxy-4-(2-propynyloxy)phenyl\]ethyl\]-α-(2-propynyloxy)benzeneacetamide) in or on the commodity. The tolerances expire on the date specified in the table. 
 
 | Commodity    | Parts per million | Expiration/revocation date |
 | ------------ | ----------------- | -------------------------- |
 | Basil, dried | 240               | 12/31/15                   |
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent tolerances.* \[Reserved\]
+(d) *Indirect or inadvertent tolerances.* \[Reserved\] 
 
 \[73 FR 2816, Jan. 16, 2008, as amended at 74 FR 33169, July 10, 2009; 76 FR 55804, Sept. 9, 2011; 77 FR 74119, Dec. 13, 2012; 78 FR 76992, Dec. 20, 2013; 81 FR 17088, Mar. 28, 2016; 84 FR 10700, Mar. 22, 2019; 84 FR 57621, Oct. 28, 2019\]

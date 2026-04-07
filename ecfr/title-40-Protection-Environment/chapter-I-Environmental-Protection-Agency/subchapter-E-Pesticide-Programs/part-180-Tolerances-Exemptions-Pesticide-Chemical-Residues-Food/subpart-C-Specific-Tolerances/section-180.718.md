@@ -1,11 +1,11 @@
 ##### § 180.718 Picarbutrazox; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide picarbutrazox, including its metabolites and degradates, in or on the commodities to Table 1 of this section. Compliance with the tolerance levels specified in Table 1 is to be determined by measuring only picarbutrazox (1,1-dimethylethyl *N*-\[6-\[\[\[(*Z*)-\[(1-methyl-1*H*-tetrazol-5-yl)phenylmethylene\]amino\]oxy\]methyl\]-2-pyridinyl\]carbamate in or on the commodity.
+(a) *General.* Tolerances are established for residues of the fungicide picarbutrazox, including its metabolites and degradates, in or on the commodities to Table 1 of this section. Compliance with the tolerance levels specified in Table 1 is to be determined by measuring only picarbutrazox (1,1-dimethylethyl *N*-\[6-\[\[\[(*Z*)-\[(1-methyl-1*H*-tetrazol-5-yl)phenylmethylene\]amino\]oxy\]methyl\]-2-pyridinyl\]carbamate in or on the commodity. 
 
 Table 1 to Paragraph (a)
 | Commodity                                                | Parts per   million |
 | -------------------------------------------------------- | ------------------- |
-| Cotton, gin byproductsBrassica,                          | 0.01                |
+| Cotton, gin byproducts                                   | 0.01                |
 | Cotton, undelinted seed                                  | 0.01                |
 | Grain, cereal, except rice, group 15                     | 0.01                |
 | Grain, cereal, forage, fodder, and straw, group 16       | 0.01                |
@@ -24,6 +24,6 @@ Table 1 to Paragraph (a)
 | Vegetable, root, subgroup 1A                             | 0.01                |
 | Vegetable, tuberous and corm, except potato, subgroup 1D | 0.01                |
 
-(b)-(d) \[Reserved\]
+(b)-(d) \[Reserved\] 
 
 \[86 FR 12833, Mar. 5, 2021, as amended at 87 FR 34206, June 6, 2022\]

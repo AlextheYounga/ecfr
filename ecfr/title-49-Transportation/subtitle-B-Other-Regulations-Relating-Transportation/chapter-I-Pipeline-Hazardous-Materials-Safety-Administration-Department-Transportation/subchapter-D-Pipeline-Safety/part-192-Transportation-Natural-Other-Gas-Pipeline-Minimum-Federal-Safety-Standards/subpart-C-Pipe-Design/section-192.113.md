@@ -1,6 +1,6 @@
 ##### § 192.113 Longitudinal joint factor (E) for steel pipe.
 
-(a) The longitudinal joint factor to be used in the design formula in § 192.105 is determined in accordance with the table 1 to this paragraph (a): 
+(a) The longitudinal joint factor to be used in the design formula in § 192.105 is determined in accordance with the table 1 to this paragraph (a):
 
 Table 1 to Paragraph (a)
 | Specification                                            | Pipe class                              | Longitudinal   joint factor   (E) |
@@ -23,6 +23,6 @@ Table 1 to Paragraph (a)
 | Other                                                    | Pipe over 4 inches (102 millimeters)    | .80                               |
 | Other                                                    | Pipe 4 inches (102 millimeters) or less | .60                               |
 
-(b) If the type of longitudinal joint cannot be determined, the joint factor to be used must not exceed that designated for “Other.” 
+(b) If the type of longitudinal joint cannot be determined, the joint factor to be used must not exceed that designated for “Other.”
 
 \[Amdts. 192-135, 195-107, 89 FR 33280, Apr. 29, 2024\]

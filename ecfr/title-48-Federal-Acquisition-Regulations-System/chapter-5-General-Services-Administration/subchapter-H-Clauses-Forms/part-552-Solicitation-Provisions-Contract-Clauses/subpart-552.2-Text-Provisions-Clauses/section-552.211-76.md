@@ -1,6 +1,6 @@
 ##### 552.211-76 Charges for Packaging, Packing, and Marking.
 
-As prescribed in 511.204(b)(3), insert a clause substantially as follows: 
+As prescribed in 511.204(b)(3), insert a clause substantially as follows:
 
 Charges for Packaging, Packing, and Marking
 

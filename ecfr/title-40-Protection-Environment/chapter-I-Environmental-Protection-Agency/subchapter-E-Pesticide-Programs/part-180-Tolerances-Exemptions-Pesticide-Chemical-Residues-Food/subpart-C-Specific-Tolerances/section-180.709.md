@@ -1,11 +1,11 @@
 ##### § 180.709 Tetraniliprole; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of tetraniliprole, including its metabolites and degradates, in or on the commodities in table 1 in this paragraph (a). Compliance with the tolerance levels specified in table 1 in this paragraph (a) is to be determined by measuring only tetraniliprole 1-(3-chloro-2-pyridinyl)-*N*-\[4-cyano-2-methyl-6-\[(methylamino)carbonyl\]phenyl\]-3-\[\[5-(trifluoromethyl)-2*H*-tetrazol-2-yl\]methyl\]-1*H*-pyrazole-5-carboxamide.
+(a) *General.* Tolerances are established for residues of tetraniliprole, including its metabolites and degradates, in or on the commodities in table 1 in this paragraph (a). Compliance with the tolerance levels specified in table 1 in this paragraph (a) is to be determined by measuring only tetraniliprole 1-(3-chloro-2-pyridinyl)-*N*-\[4-cyano-2-methyl-6-\[(methylamino)carbonyl\]phenyl\]-3-\[\[5-(trifluoromethyl)-2*H*-tetrazol-2-yl\]methyl\]-1*H*-pyrazole-5-carboxamide. 
 
 Table 1 to Paragraph (a)
 | Commodity                                                                                    | Parts per   million |
 | -------------------------------------------------------------------------------------------- | ------------------- |
-| Almond, hulls1                                                                               | 4                   |
+| Almond, hulls                                                                                | 4                   |
 | Cattle, fat                                                                                  | 0.04                |
 | Cattle, meat                                                                                 | 0.02                |
 | Cattle, meat byproducts                                                                      | 0.3                 |
@@ -50,9 +50,9 @@ Table 1 to Paragraph (a)
 | Vegetable, tuberous and corm, subgroup 1C                                                    | 0.015               |
 | 1 There is no U.S. Registration for this commodity as of May 15, 2024.                       |                     |
 
-(b)-(c) \[Reserved\]
+(b)-(c) \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of tetraniliprole, including its metabolites and degradates, in or on the commodities in table 2 in this paragraph (d). Compliance with the tolerance levels specified in table 2 in this paragraph (d) is to be determined by measuring only tetraniliprole 1-(3-chloro-2-pyridinyl)-*N*-\[4-cyano-2-methyl-6-\[(methylamino)carbonyl\]phenyl\]-3-\[\[5-(trifluoromethyl)-2*H*-tetrazol-2-yl\]methyl\]-1*H*-pyrazole-5-carboxamide.
+(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of tetraniliprole, including its metabolites and degradates, in or on the commodities in table 2 in this paragraph (d). Compliance with the tolerance levels specified in table 2 in this paragraph (d) is to be determined by measuring only tetraniliprole 1-(3-chloro-2-pyridinyl)-*N*-\[4-cyano-2-methyl-6-\[(methylamino)carbonyl\]phenyl\]-3-\[\[5-(trifluoromethyl)-2*H*-tetrazol-2-yl\]methyl\]-1*H*-pyrazole-5-carboxamide. 
 
 Table 2 to Paragraph (d)
 | Commodity                                                 | Parts per   million |

@@ -1,10 +1,10 @@
 ##### § 180.449 Avermectin B1 and its delta-8,9-isomer; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of abamectin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only avermectin B1 a mixture of avermectins containing greater than or equal to 80% avermectin B1 a (5-*O*-demethyl avermectin A1) and less than or equal to 20% avermectin B1b (5-*O*-demethyl-25-de(1-methylpropyl)-25-(1-methylethyl) avermectin A1) and its delta-8,9-isomer in or on the following commodities:
+(a) *General.* Tolerances are established for residues of abamectin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only avermectin B1 a mixture of avermectins containing greater than or equal to 80% avermectin B1 a (5-*O*-demethyl avermectin A1) and less than or equal to 20% avermectin B1b (5-*O*-demethyl-25-de(1-methylpropyl)-25-(1-methylethyl) avermectin A1) and its delta-8,9-isomer in or on the following commodities: 
 
 | Commodity                                                                                                                                                                                                                        | Parts per   million |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| Acerola1                                                                                                                                                                                                                         | 0.015               |
+| Acerola                                                                                                                                                                                                                          | 0.015               |
 | Almond, hulls                                                                                                                                                                                                                    | 0.10                |
 | Apple, wet pomace                                                                                                                                                                                                                | 0.10                |
 | Arugula                                                                                                                                                                                                                          | 0.1                 |
@@ -93,10 +93,10 @@
 | Wax jambu                                                                                                                                                                                                                        | 0.015               |
 | 1 There are no U.S. registrations for use of abamectin on banana or tea.                                                                                                                                                         |                     |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[62 FR 44095, Aug. 19, 1997\] Editorial Note:For Federal Register citations affecting § 180.449, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

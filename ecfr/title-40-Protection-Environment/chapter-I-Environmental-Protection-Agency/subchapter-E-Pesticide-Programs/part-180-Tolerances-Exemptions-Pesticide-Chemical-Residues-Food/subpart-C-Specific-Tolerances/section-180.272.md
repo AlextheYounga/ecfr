@@ -1,6 +1,6 @@
 ##### § 180.272 Tribuphos; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the defoliant tribuphos (*S,S,S*-tributyl phosphorotrithioate) in or on food commodities as follows:
+(a) *General.* Tolerances are established for residues of the defoliant tribuphos (*S,S,S*-tributyl phosphorotrithioate) in or on food commodities as follows: 
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -23,10 +23,10 @@
 | Sheep, meat             | 0.02              |
 | Sheep, meat byproducts  | 0.02              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[65 FR 33698, May 24, 2000, as amended at 67 FR 49616, July 31, 2002; 72 FR 53460, Sept. 19, 2007\]

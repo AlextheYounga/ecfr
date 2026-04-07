@@ -1,6 +1,6 @@
 ##### 552.241-71 Disputes (Utility Contracts).
 
-As prescribed in 541.501(b), insert the following clause: 
+As prescribed in 541.501(b), insert the following clause:
 
 Disputes (Utility Contracts) (AUG 2010)
 

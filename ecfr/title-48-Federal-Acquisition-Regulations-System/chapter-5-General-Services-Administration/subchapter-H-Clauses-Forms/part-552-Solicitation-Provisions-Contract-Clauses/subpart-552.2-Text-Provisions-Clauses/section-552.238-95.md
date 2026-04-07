@@ -1,10 +1,10 @@
 ##### 552.238-95 Separate Charge for Performance Oriented Packaging (POP).
 
-As prescribed in 538.273(d)(19), insert the following clause: 
+As prescribed in 538.273(d)(19), insert the following clause:
 
 Separate Charge for Performance Oriented Packaging (POP) (MAY 2019)
 
-(a) Offerors are requested to list the hazardous material item to which the separate charge applies in the spaces provided in this paragraph or on a separate attachment. The final price shall be quoted separately at the order level and, if considered reasonable, will be accepted as part of the order. 
+(a) Offerors are requested to list the hazardous material item to which the separate charge applies in the spaces provided in this paragraph or on a separate attachment. The final price shall be quoted separately at the order level and, if considered reasonable, will be accepted as part of the order.
 
 | **ITEMS**                                             |                                 |
 | SINS or Descriptive Name of Articles (as appropriate) | Charge for Performance Oriented |

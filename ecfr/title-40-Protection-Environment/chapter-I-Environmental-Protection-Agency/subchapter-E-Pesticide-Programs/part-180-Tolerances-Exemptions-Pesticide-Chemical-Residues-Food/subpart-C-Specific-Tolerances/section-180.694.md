@@ -1,11 +1,11 @@
 ##### § 180.694 Cyclaniliprole; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide cyclaniliprole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only cyclaniliprole, 3-bromo-N-\[2-bromo-4-chloro-6-\[\[(1-cyclopropylethyl)amino\]carbonyl\]phenyl\]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide, in or on the commodity.
+(a) *General.* Tolerances are established for residues of the insecticide cyclaniliprole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only cyclaniliprole, 3-bromo-N-\[2-bromo-4-chloro-6-\[\[(1-cyclopropylethyl)amino\]carbonyl\]phenyl\]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide, in or on the commodity. 
 
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts   per million |
 | ------------------------------------------------------------------- | ------------------- |
-| Almond, hulls1Brassica,                                             | 6.0                 |
+| Almond, hulls                                                       | 6.0                 |
 | Apple, wet pomace                                                   | 0.50                |
 | Artichoke, globe                                                    | 1.5                 |
 | Berry, low growing, subgroup 13-07G                                 | 0.4                 |
@@ -44,10 +44,10 @@ Table 1 to Paragraph (a)
 | Vegetable, tuberous and corm, subgroup 1C                           | 0.01                |
 | 1 There are no U.S. registrations for tea.                          |                     |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[82 FR 36094, Aug. 3, 2017, as amended at 84 FR 50763, Sept. 26, 2019; 87 FR 69204, Nov. 18, 2022; 89 FR 30280, Apr. 23, 2024\]

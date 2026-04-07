@@ -1291,7 +1291,7 @@ Tennessee—1978 Lead NAAQS
 | Designated area                                                                                                                                  | Designation | Classification |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | -------------- |
 | Shelby County (part)                                                                                                                             | 7/2/2001    | Attainment     |
-| Area encompassed by a circle with a 3⁄4 mile radius with center being the intersection of Castex and Mallory Avenue, Memphis, TN.                |             |                |
+| Area encompassed by a circle with a 3/4 mile radius with center being the intersection of Castex and Mallory Avenue, Memphis, TN.                |             |                |
 | Williamson County (part)                                                                                                                         | 9/10/1999   | Attainment     |
 | Area encompassed by a circle centered on Universal Transverse Mercator coordinate 530.38 E, 3961.60 N (Zone 16) with a radius of 1.5 kilometers. |             |                |
 | Fayette County (part)                                                                                                                            | 10/17/1995  | Attainment     |

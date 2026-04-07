@@ -1,11 +1,11 @@
 ##### § 52.1024 Attainment dates for national standards.
 
-The following table presents the latest dates by which the national standards are to be attained.
+The following table presents the latest dates by which the national standards are to be attained. 
 
 Attainment Dates Established by Clean Air Act of 1990
-| Air quality control region and nonattainment area2                                  | Pollutant |
+| Air quality control region and nonattainment area                                   | Pollutant |
 | ----------------------------------------------------------------------------------- | --------- |
-| AQCR 107:a                                                                          |           |
+| AQCR 107:                                                                           |           |
 | Androscoggin County                                                                 | (a)       |
 | Kennebec County                                                                     | (a)       |
 | Knox County                                                                         | (a)       |

@@ -1,10 +1,10 @@
 ##### § 180.628 Chlorantraniliprole; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide chlorantraniliprole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only chlorantraniliprole, 3-bromo-*N*-\[4-chloro-2-methyl-6-\[(methylamino)carbonyl\]phenyl\]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide.
+(a) *General.* Tolerances are established for residues of the insecticide chlorantraniliprole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only chlorantraniliprole, 3-bromo-*N*-\[4-chloro-2-methyl-6-\[(methylamino)carbonyl\]phenyl\]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide. 
 
 | Commodity                                                                           | Parts per million |
 | ----------------------------------------------------------------------------------- | ----------------- |
-| Acerola1                                                                            | 2.0               |
+| Acerola                                                                             | 2.0               |
 | Alfalfa, seed                                                                       | 7.0               |
 | Almond, hulls                                                                       | 5.0               |
 | Animal feed, nongrass, group 18, forage                                             | 25                |
@@ -143,10 +143,10 @@
 | 1 This tolerance expires on December 14, 2016.                                      |                   |
 | 2 There are no U.S. registrations for use of chlorantraniliprole on this commodity. |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\]
+(b) *Section 18 emergency exemptions.* \[Reserved\] 
 
-(c) *Tolerances with regional registrations.* \[Reserved\]
+(c) *Tolerances with regional registrations.* \[Reserved\] 
 
-(d) *Indirect or inadvertent residues.* \[Reserved\]
+(d) *Indirect or inadvertent residues.* \[Reserved\] 
 
 \[75 FR 5532, Feb. 3, 2010, as amended at 75 FR 17566, Apr. 7, 2010; 76 FR 44821, July 27, 2011; 76 FR 59909, Sept. 28, 2011; 77 FR 60315, Oct. 3, 2012; 77 FR 75561, Dec. 21, 2012; 78 FR 57285, Sept. 18, 2013; 79 FR 7401, Feb. 7, 2014; 81 FR 38604, June 14, 2016; 81 FR 61619, Sept. 7, 2016; 84 FR 53326, Oct. 7, 2019\]

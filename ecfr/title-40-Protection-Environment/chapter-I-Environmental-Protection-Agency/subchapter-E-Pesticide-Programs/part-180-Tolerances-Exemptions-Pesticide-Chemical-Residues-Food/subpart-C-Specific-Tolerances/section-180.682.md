@@ -1,11 +1,11 @@
 ##### § 180.682 Bicyclopyrone; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the herbicide bicyclopyrone (4-hydroxy-3-\[\[2-\[(2-methoxyethoxy)methyl\]-6-(trifluoromethyl)-3-pyridinyl\]carbonyl\]bicyclo\[3.2.1\]oct-3-en-2-one), including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph (a)(1) is to be determined by measuring only the sum of the common moieties SYN503780 (2-\[(2-methoxyethoxy)methyl\]-6-(trifluoromethyl)-3-pyridinecarboxylic acid) and CSCD686480 (2-\[(2-hydroxyethoxy)methyl\]-6-(trifluoromethyl)-3-pyridinecarboxylic acid), calculated as the stoichiometric equivalent of bicyclopyrone, in or on the commodities.
+(a) *General.* (1) Tolerances are established for residues of the herbicide bicyclopyrone (4-hydroxy-3-\[\[2-\[(2-methoxyethoxy)methyl\]-6-(trifluoromethyl)-3-pyridinyl\]carbonyl\]bicyclo\[3.2.1\]oct-3-en-2-one), including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph (a)(1) is to be determined by measuring only the sum of the common moieties SYN503780 (2-\[(2-methoxyethoxy)methyl\]-6-(trifluoromethyl)-3-pyridinecarboxylic acid) and CSCD686480 (2-\[(2-hydroxyethoxy)methyl\]-6-(trifluoromethyl)-3-pyridinecarboxylic acid), calculated as the stoichiometric equivalent of bicyclopyrone, in or on the commodities. 
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                           | Parts per   million |
 | ------------------------------------------------------------------- | ------------------- |
-| Banana1                                                             | 0.01                |
+| Banana                                                              | 0.01                |
 | Barley, bran                                                        | 0.15                |
 | Barley, grain                                                       | 0.07                |
 | Barley, hay                                                         | 0.30                |
@@ -49,8 +49,8 @@ Table 1 to Paragraph (a)(1)
 | Wormwood, fresh                                                     | 0.05                |
 | 1 There are no U.S. Registration on Sugarcane as of March 13, 2015. |                     |
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
 \[80 FR 22654, Apr. 23, 2015, as amended at 81 FR 86965, Dec. 2, 2016; 86 FR 72851, Dec. 23, 2021; 87 FR 15339, Mar. 18, 2022\]
