@@ -12,7 +12,7 @@
 
 (4) The design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, refurbishing, shipment, or transfer (in-country) of a whole plant to make chemical weapons precursors identified in ECCN 1C350, in or by countries other than those listed in Country Group A:3 (Australia Group); or
 
-(5) A 'military-intelligence end use' or a 'military-intelligence end user,' as defined in § 744.22(f) of the EAR, in the People's Republic of China, Russia, or Venezuela; or a country listed in Country Groups E:1 or E:2.
+(5) A 'military-intelligence end use' or a 'military-intelligence end user,' as defined in § 744.22(f) of the EAR, in Burma, the People's Republic of China, Russia, or Venezuela; or a country listed in Country Groups E:1 or E:2.
 
 (6) 'Support' means:
 
@@ -28,10 +28,10 @@
 
 (d) *Exceptions.* (1) No License Exceptions apply to the prohibitions described in paragraphs (b)(1) through (4) of this section.
 
-(2) Notwithstanding the prohibitions in paragraph (b)(5) of this section, U.S. persons who are employees of a department or agency of the U.S. Government may 'support' a 'military-intelligence end use' or a 'military-intelligence end user,' as described in paragraph (b)(5), if the 'support' is provided in the performance of official duties in furtherance of a U.S. Government program that is authorized by law and subject to control by the President by other means. This paragraph does not authorize a department or agency of the U.S. Government to provide 'support' that is otherwise prohibited by other administrative provisions or by statute. 'Contractor support personnel' of a department or agency of the U.S. Government are eligible for this authorization when in the performance of their duties pursuant to the applicable contract or other official duties. 'Contractor support personnel' for the purposes of this paragraph (d)(2) has the same meaning given to that term in § 740.11(b)(2)(ii) of the EAR. This authorization is not available when a department or agency of the U.S. Government acts as an agent on behalf of a non-U.S. Government person.
+(2) Notwithstanding the prohibitions in paragraph (b)(5) of this section, “U.S. persons” who are employees of a department or agency of the U.S. Government may 'support' a 'military-intelligence end use' or a 'military-intelligence end user,' as described in paragraph (b)(5), if the 'support' is provided in the performance of official duties in furtherance of a U.S. Government program that is authorized by law and subject to control by the President by other means. This paragraph does not authorize a department or agency of the U.S. Government to provide 'support' that is otherwise prohibited by other administrative provisions or by statute. 'Contractor support personnel' of a department or agency of the U.S. Government are eligible for this authorization when in the performance of their duties pursuant to the applicable contract or other official duties. 'Contractor support personnel' for the purposes of this paragraph (d)(2) has the same meaning given to that term in § 740.11(b)(2)(ii) of the EAR. This authorization is not available when a department or agency of the U.S. Government acts as an agent on behalf of a non-U.S. Government person.
 
-(e) *License review standards.* (1) Applications for a U.S. person to 'support' (as defined in paragraph (b)(6) of this section) any of the end uses or end users described in paragraphs (b)(1) through (4) of this section will be denied if such support would make a material contribution to the end uses and end users described in paragraphs (b)(1) through (4) of this section.
+(e) *License review standards.* (1) Applications for a “U.S. person” to 'support' (as defined in paragraph (b)(6) of this section) any of the end uses or end users described in paragraphs (b)(1) through (4) of this section will be denied if such support would make a material contribution to the end uses and end users described in paragraphs (b)(1) through (4) of this section.
 
-(2) Applications for a U.S. person to 'support' (as defined in paragraph (b)(6) of this section) a 'military-intelligence end use' or a 'military-intelligence end user' as described in paragraph (b)(5) of this section will be reviewed with a presumption of denial.
+(2) Applications for a “U.S. person” to 'support' (as defined in paragraph (b)(6) of this section) a 'military-intelligence end use' or a 'military-intelligence end user' as described in paragraph (b)(5) of this section will be reviewed with a presumption of denial.
 
-\[86 FR 4871, Jan. 15, 2021\]
+\[86 FR 4871, Jan. 15, 2021, as amended at 86 FR 18436, Apr. 9, 2021\]

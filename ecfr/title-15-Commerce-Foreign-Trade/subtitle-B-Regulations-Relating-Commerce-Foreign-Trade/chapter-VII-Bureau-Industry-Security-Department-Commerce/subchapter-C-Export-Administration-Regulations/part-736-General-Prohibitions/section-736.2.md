@@ -98,7 +98,9 @@
 
 (*4*) The design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, refurbishing, shipment, or transfer (in-country) of a whole plant to make chemical weapons precursors identified in ECCN 1C350, in or by countries other than those listed in Country Group A:3 (Australia Group); or
 
-(*5*) A 'military-intelligence end use' or a 'military-intelligence end user,' as defined in § 744.22(f) of the EAR, in the People's Republic of China, Russia, or Venezuela; or a country listed in Country Groups E:1 or E:2.
+(*5*) A 'military-intelligence end use' or a 'military-intelligence end user,' as defined in § 744.22(f) of the EAR, in Burma, the People's Republic of China, Russia, or Venezuela; or a country listed in Country Groups E:1 or E:2.
+
+(B) \[Reserved\]
 
 (ii) \[Reserved\]
 
