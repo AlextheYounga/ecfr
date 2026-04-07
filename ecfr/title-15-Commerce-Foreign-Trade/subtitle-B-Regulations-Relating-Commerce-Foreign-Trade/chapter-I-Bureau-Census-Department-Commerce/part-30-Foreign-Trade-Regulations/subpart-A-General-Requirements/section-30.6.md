@@ -86,7 +86,7 @@ The information specified in this section is required for EEI transmitted to the
 
 (iv) For definitions of the value to be reported in the EEI for special types of transactions where goods are not being exported pursuant to commercial sales, or where subsidies, government financing or participation, or other unusual conditions are involved, see Subpart C of this part.
 
-(18) *Export information code.* A code that identifies the type of export shipment or condition of the exported items (*e.g.,* goods donated for relief or charity, impelled shipments, shipments under the Foreign Military Sales program, household goods, and all other shipments).
+(18) *Export information code.* A code that identifies the type of export shipment or condition of the exported items (e.g., goods donated for relief or charity, impelled shipments, shipments under the Foreign Military Sales program, household goods, and all other shipments).
 
 (19) *Shipment Reference Number (SRN).* A unique identification number assigned by the filer that allows for the identification of the shipment in the filer's system. The reuse of the SRN is prohibited.
 
@@ -108,13 +108,13 @@ The information specified in this section is required for EEI transmitted to the
 
 (28) *Ultimate consignee type.* Provide the business function of the ultimate consignee that most often applies. If more than one type applies to the ultimate consignee, report the type that applies most often. For purposes of this paragraph, the ultimate consignee will be designated as a Direct Consumer, Government Entity, Reseller, or Other/Unknown, defined as follows:
 
-(i) Direct Consumer - a non-government institution, enterprise, or company that will consume or use the exported good as a consumable, for its own internal processes, as an input to the production of another good or as machinery or equipment that is part of a manufacturing process or a provision of services and will not resell or distribute the good.
+(i) Direct Consumer—a non-government institution, enterprise, or company that will consume or use the exported good as a consumable, for its own internal processes, as an input to the production of another good or as machinery or equipment that is part of a manufacturing process or a provision of services and will not resell or distribute the good.
 
-(ii) Government Entity - a government-owned or government-controlled agency, institution, enterprise, or company.
+(ii) Government Entity—a government-owned or government-controlled agency, institution, enterprise, or company.
 
-(iii) Reseller - a non-government reseller, retailer, wholesaler, distributor, distribution center or trading company.
+(iii) Reseller—a non-government reseller, retailer, wholesaler, distributor, distribution center or trading company.
 
-(iv) Other/Unknown - an entity that is not a Direct Consumer, Government Entity or Reseller, as defined above, or whose ultimate consignee type is not known at the time of export.
+(iv) Other/Unknown—an entity that is not a Direct Consumer, Government Entity or Reseller, as defined above, or whose ultimate consignee type is not known at the time of export.
 
 (b) Conditional data elements are as follows:
 
