@@ -30,211 +30,215 @@
 
 2145 
 
-(4) Bromazepam
+(4) Brexanolone
+
+2400 
+
+(5) Bromazepam
 
 2748 
 
-(5) Camazepam
+(6) Camazepam
 
 2749 
 
-(6) Carisoprodol
+(7) Carisoprodol
 
 8192 
 
-(7) Chloral betaine
+(8) Chloral betaine
 
 2460 
 
-(8) Chloral hydrate
+(9) Chloral hydrate
 
 2465 
 
-(9) Chlordiazepoxide
+(10) Chlordiazepoxide
 
 2744 
 
-(10) Clobazam
+(11) Clobazam
 
 2751 
 
-(11) Clonazepam
+(12) Clonazepam
 
 2737 
 
-(12) Clorazepate
+(13) Clorazepate
 
 2768 
 
-(13) Clotiazepam
+(14) Clotiazepam
 
 2752 
 
-(14) Cloxazolam
+(15) Cloxazolam
 
 2753 
 
-(15) Delorazepam
+(16) Delorazepam
 
 2754 
 
-(16) Diazepam
+(17) Diazepam
 
 2765 
 
-(17) Dichloralphenazone
+(18) Dichloralphenazone
 
 2467 
 
-(18) Estazolam
+(19) Estazolam
 
 2756 
 
-(19) Ethchlorvynol
+(20) Ethchlorvynol
 
 2540 
 
-(20) Ethinamate
+(21) Ethinamate
 
 2545 
 
-(21) Ethyl loflazepate
+(22) Ethyl loflazepate
 
 2758 
 
-(22) Fludiazepam
+(23) Fludiazepam
 
 2759 
 
-(23) Flunitrazepam
+(24) Flunitrazepam
 
 2763 
 
-(24) Flurazepam
+(25) Flurazepam
 
 2767 
 
-(25) Fospropofol
+(26) Fospropofol
 
 2138 
 
-(26) Halazepam
+(27) Halazepam
 
 2762 
 
-(27) Haloxazolam
+(28) Haloxazolam
 
 2771 
 
-(28) Ketazolam
+(29) Ketazolam
 
 2772 
 
-(29) Loprazolam
+(30) Loprazolam
 
 2773 
 
-(30) Lorazepam
+(31) Lorazepam
 
 2885 
 
-(31) Lormetazepam
+(32) Lormetazepam
 
 2774 
 
-(32) Mebutamate
+(33) Mebutamate
 
 2800 
 
-(33) Medazepam
+(34) Medazepam
 
 2836 
 
-(34) Meprobamate
+(35) Meprobamate
 
 2820 
 
-(35) Methohexital
+(36) Methohexital
 
 2264 
 
-(36) Methylphenobarbital (mephobarbital)
+(37) Methylphenobarbital (mephobarbital)
 
 2250 
 
-(37) Midazolam
+(38) Midazolam
 
 2884 
 
-(38) Nimetazepam
+(39) Nimetazepam
 
 2837 
 
-(39) Nitrazepam
+(40) Nitrazepam
 
 2834 
 
-(40) Nordiazepam
+(41) Nordiazepam
 
 2838 
 
-(41) Oxazepam
+(42) Oxazepam
 
 2835 
 
-(42) Oxazolam
+(43) Oxazolam
 
 2839 
 
-(43) Paraldehyde
+(44) Paraldehyde
 
 2585 
 
-(44) Petrichloral
+(45) Petrichloral
 
 2591 
 
-(45) Phenobarbital
+(46) Phenobarbital
 
 2285 
 
-(46) Pinazepam
+(47) Pinazepam
 
 2883 
 
-(47) Prazepam
+(48) Prazepam
 
 2764 
 
-(48) Quazepam
+(49) Quazepam
 
 2881 
 
-(49) Suvorexant
+(50) Suvorexant
 
 2223 
 
-(50) Temazepam
+(51) Temazepam
 
 2925 
 
-(51) Tetrazepam
+(52) Tetrazepam
 
 2886 
 
-(52) Triazolam
+(53) Triazolam
 
 2887 
 
-(53) Zaleplon
+(54) Zaleplon
 
 2781 
 
-(54) Zolpidem
+(55) Zolpidem
 
 2783 
 
-(55) Zopiclone
+(56) Zopiclone
 
 2784
 
@@ -296,7 +300,11 @@
 
 1675 
 
-(12) SPA ((-)-1-dimethylamino- 1,2-diphenylethane)
+(12) Solriamfetol (2-amino-3-phenylpropyl car-bamate; benzenepropanol, beta-amino-, carbamate (ester))
+
+1650 
+
+(13) SPA ((-)-1-dimethylamino- 1,2-diphenylethane)
 
 1635
 
