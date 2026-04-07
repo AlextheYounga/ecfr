@@ -1,6 +1,6 @@
 ##### § 460.204 Mechanical ventilation fan efficacy.
 
-(a) Whole-house mechanical ventilation system fans must meet the minimum efficacy requirements set forth in table 1 to 460.204(a), except as provided in paragraph (b) of this section. The mechanical ventilation fan efficacy requirements are adapted from section R403 of the 2021 IECC. 
+(a) Whole-house mechanical ventilation system fans must meet the minimum efficacy requirements set forth in table 1 to 460.204(a), except as provided in paragraph (b) of this section. The mechanical ventilation fan efficacy requirements are adapted from section R403 of the 2021 IECC.
 
 Table 1 to § 460.204(a)—Mechanical Ventilation System Fan Efficacy
 | Fan type description                                   | Airflow rate   minimum   (cfm) | Minimum   efficacy   (cfm/watt) |

@@ -1,6 +1,6 @@
 ##### § 434.518 Service water heating.
 
-518.1 The service water loads for Prototype and Reference Buildings are defined in terms of Btu/h per person in Table 518.1.1, Service Hot Water Quantities. The service water heating loads from Table 518.1.1 are prescribed assumptions for multi-family high-rise residential buildings and default assumptions for all other buildings. The same service water heating load assumptions shall be made in calculating Design Energy Consumption as were used in calculating the Energy Cost Budget. 
+518.1 The service water loads for Prototype and Reference Buildings are defined in terms of Btu/h per person in Table 518.1.1, Service Hot Water Quantities. The service water heating loads from Table 518.1.1 are prescribed assumptions for multi-family high-rise residential buildings and default assumptions for all other buildings. The same service water heating load assumptions shall be made in calculating Design Energy Consumption as were used in calculating the Energy Cost Budget.
 
 Table 518.1.1—Service Hot water Quantities
 | Building type                                                                                                                                                              | Btu/person-hour 1 |

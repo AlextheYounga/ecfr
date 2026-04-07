@@ -1,6 +1,6 @@
 ##### § 503.37 Cogeneration.
 
-The following table may be used to determine eligibility for a permanent exemption based on oil and natural gas savings. 
+The following table may be used to determine eligibility for a permanent exemption based on oil and natural gas savings.
 
 Average Annual Utilization of Oil and Natural Gas for Electricity Generation by State
 

@@ -1,6 +1,6 @@
 ##### § 434.604 Compliance.
 
-604.1 Compliance with this section is demonstrated if the Design Energy Use is equal to or less than the Energy Use Budget. 
+604.1 Compliance with this section is demonstrated if the Design Energy Use is equal to or less than the Energy Use Budget.
 
 ![](/graphics/er06oc00.031.gif)
 

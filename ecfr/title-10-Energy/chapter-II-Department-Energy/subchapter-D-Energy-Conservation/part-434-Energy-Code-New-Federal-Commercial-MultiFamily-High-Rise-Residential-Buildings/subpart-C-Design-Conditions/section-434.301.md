@@ -1,8 +1,8 @@
 ##### § 434.301 Design criteria.
 
-301.1 The following design parameters shall be used for calculations required under subpart D of this part. 
+301.1 The following design parameters shall be used for calculations required under subpart D of this part.
 
-301.1.1 *Exterior Design Conditions.* Exterior Design Conditions shall be expressed in accordance with Table 301.1. 
+301.1.1 *Exterior Design Conditions.* Exterior Design Conditions shall be expressed in accordance with Table 301.1.
 
 Table 301.1—Exterior Design Conditions
 | Winter Design Dry-Bulb (99%)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |  | Degrees F.      |

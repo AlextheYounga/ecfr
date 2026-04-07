@@ -1,0 +1,3 @@
+##### § 1515.18 What happens if CEQ grants my request in full or in part?
+
+Once you have paid the fees that are due under subpart E of this part (if any), CEQ will promptly provide you with a copy of the records you requested, except for the records or portions of records we have determined to withhold under § 1515.16. We will follow the procedures in § 1515.19 with respect to those records or portions of records.

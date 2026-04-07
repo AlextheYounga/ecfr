@@ -1,6 +1,6 @@
 ##### § 431.196 Energy conservation standards and their effective dates.
 
-(a) *Low-Voltage Dry-Type Distribution Transformers.* (1) The efficiency of a low-voltage, dry-type distribution transformer manufactured on or after January 1, 2007, but before January 1, 2016, shall be no less than that required for the applicable kVA rating in the table below. Low-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating. 
+(a) *Low-Voltage Dry-Type Distribution Transformers.* (1) The efficiency of a low-voltage, dry-type distribution transformer manufactured on or after January 1, 2007, but before January 1, 2016, shall be no less than that required for the applicable kVA rating in the table below. Low-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 | Single-phase | Three-phase |
 | ------------ | ----------- |
@@ -20,7 +20,7 @@ Note 1 to paragraph (a)(1):
 
 All efficiency values are at 35 percent per-unit load.
 
-(2) The efficiency of a low-voltage, dry-type distribution transformer manufactured on or after January 1, 2016, but before April 23, 2029, shall be no less than that required for the applicable kVA rating in the following table. Low-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating. 
+(2) The efficiency of a low-voltage, dry-type distribution transformer manufactured on or after January 1, 2016, but before April 23, 2029, shall be no less than that required for the applicable kVA rating in the following table. Low-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 Table 2 to Paragraph (a)(1)
 | Single-phase                                                                                                                                                                                                                 | Three-phase |
@@ -38,7 +38,7 @@ Table 2 to Paragraph (a)(1)
 |                                                                                                                                                                                                                              |             |
 | **Note:** All efficiency values are at 35 percent of nameplate-rated load, determined according to the DOE Test Method for Measuring the Energy Consumption of Distribution Transformers under appendix A to this subpart K. |             |
 
-(3) The efficiency of a low-voltage dry-type distribution transformer manufactured on or after April 23, 2029, shall be no less than that required for their kVA rating in the following table. Low-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating. 
+(3) The efficiency of a low-voltage dry-type distribution transformer manufactured on or after April 23, 2029, shall be no less than that required for their kVA rating in the following table. Low-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 Table 3 to Paragraph (a)(3)
 | Single-phase                                                                                                                                                                                                                 | Three-phase |
@@ -56,7 +56,7 @@ Table 3 to Paragraph (a)(3)
 |                                                                                                                                                                                                                              |             |
 | **Note:** All efficiency values are at 35 percent of nameplate-rated load, determined according to the DOE Test Method for Measuring the Energy Consumption of Distribution Transformers under appendix A to this subpart K. |             |
 
-(b) *Liquid-Immersed Distribution Transformers.* (1) The efficiency of a liquid-immersed distribution transformer manufactured on or after January 1, 2010, but before January 1, 2016, shall be no less than that required for their kVA rating in the table below. Liquid-immersed distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating. 
+(b) *Liquid-Immersed Distribution Transformers.* (1) The efficiency of a liquid-immersed distribution transformer manufactured on or after January 1, 2010, but before January 1, 2016, shall be no less than that required for their kVA rating in the table below. Liquid-immersed distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 | Single-phase | Three-phase |
 | ------------ | ----------- |
@@ -79,7 +79,7 @@ Note 3 to paragraph (b)(1):
 
 All efficiency values are at 50 percent per-unit load.
 
-(2) The efficiency of a liquid-immersed distribution transformer, including submersible distribution transformers, manufactured on or after January 1, 2016, but before April 23, 2029, shall be no less than that required for their kVA rating in the following table. Liquid-immersed distribution transformers, including submersible distribution transformers, with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating. 
+(2) The efficiency of a liquid-immersed distribution transformer, including submersible distribution transformers, manufactured on or after January 1, 2016, but before April 23, 2029, shall be no less than that required for their kVA rating in the following table. Liquid-immersed distribution transformers, including submersible distribution transformers, with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 Table 5 to Paragraph (b)(2)
 | Single-phase                                                                                                                                             | Three-phase |
@@ -100,7 +100,7 @@ Table 5 to Paragraph (b)(2)
 |                                                                                                                                                          |             |
 | **Note:** All efficiency values are at 50 percent of nameplate-rated load, determined according to the DOE Test—Procedure, appendix A to this subpart K. |             |
 
-(3) The efficiency of a liquid-immersed distribution transformer, that is not a submersible distribution transformer, manufactured on or after April 23, 2029, shall be no less than that required for their kVA rating in the following table. Liquid-immersed distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating. 
+(3) The efficiency of a liquid-immersed distribution transformer, that is not a submersible distribution transformer, manufactured on or after April 23, 2029, shall be no less than that required for their kVA rating in the following table. Liquid-immersed distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 Table 6 to Paragraph (b)(3)
 | Single-phase                                                                                                                                                                                                                 | Three-phase |
@@ -123,7 +123,7 @@ Table 6 to Paragraph (b)(3)
 |                                                                                                                                                                                                                              |             |
 | **Note:** All efficiency values are at 50 percent of nameplate-rated load, determined according to the DOE Test Method for Measuring the Energy Consumption of Distribution Transformers under appendix A to this subpart K. |             |
 
-(4) The efficiency of a submersible distribution transformer, manufactured on or after April 23, 2029, shall be no less than that required for their kVA rating in the following table. Submersible distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating. 
+(4) The efficiency of a submersible distribution transformer, manufactured on or after April 23, 2029, shall be no less than that required for their kVA rating in the following table. Submersible distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 Table 7 to Paragraph (b)(4)
 | Single-phase                                                                                                                                             | Three-phase |
@@ -144,7 +144,7 @@ Table 7 to Paragraph (b)(4)
 |                                                                                                                                                          |             |
 | **Note:** All efficiency values are at 50 percent of nameplate-rated load, determined according to the DOE Test—Procedure, appendix A to this subpart K. |             |
 
-(c) *Medium-Voltage Dry-Type Distribution Transformers.* (1) The efficiency of a medium-voltage dry-type distribution transformer manufactured on or after January 1, 2010, but before January 1, 2016, shall be no less than that required for their kVA and BIL rating in the table below. Medium-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating. 
+(c) *Medium-Voltage Dry-Type Distribution Transformers.* (1) The efficiency of a medium-voltage dry-type distribution transformer manufactured on or after January 1, 2010, but before January 1, 2016, shall be no less than that required for their kVA and BIL rating in the table below. Medium-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 | Single-phase                                 | Three-phase |
 | -------------------------------------------- | ----------- |
@@ -168,7 +168,7 @@ Note 5 to paragraph (c)(1):
 
 All efficiency values are at 50 percent per-unit load.
 
-(2) The efficiency of a medium-voltage dry-type distribution transformer manufactured on or after January 1, 2016, but before April 23, 2029, shall be no less than that required for their kVA and BIL rating in the following table. Medium-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating. 
+(2) The efficiency of a medium-voltage dry-type distribution transformer manufactured on or after January 1, 2016, but before April 23, 2029, shall be no less than that required for their kVA and BIL rating in the following table. Medium-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 Table 9 to Paragraph (c)(2)
 | kVA                                                                                                                                                                                                                          | Single-phase | kVA   | Three-phase |
@@ -190,7 +190,7 @@ Table 9 to Paragraph (c)(2)
 | 1 BIL means basic impulse insulation level.                                                                                                                                                                                  |              |       |             |
 | **Note:** All efficiency values are at 50 percent of nameplate rated load, determined according to the DOE Test Method for Measuring the Energy Consumption of Distribution Transformers under appendix A to this subpart K. |              |       |             |
 
-(3) The efficiency of a medium-voltage dry-type distribution transformer manufactured on or after April 23, 2029, shall be no less than that required for their kVA and BIL rating in the following table. Medium-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating. 
+(3) The efficiency of a medium-voltage dry-type distribution transformer manufactured on or after April 23, 2029, shall be no less than that required for their kVA and BIL rating in the following table. Medium-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 Table 10 to Paragraph (c)(3)
 | kVA                                                                                                                                                                                                                          | Single-phase | kVA   | Three-phase |
@@ -214,8 +214,8 @@ Table 10 to Paragraph (c)(3)
 | 1 BIL means basic impulse insulation level/                                                                                                                                                                                  |              |       |             |
 | **Note:** All efficiency values are at 50 percent of nameplate rated load, determined according to the DOE Test Method for Measuring the Energy Consumption of Distribution Transformers under appendix A to this subpart K. |              |       |             |
 
-(d) *Mining Distribution Transformers.* \[Reserved\] 
+(d) *Mining Distribution Transformers.* \[Reserved\]
 
-(e) *Severability.* The provisions of paragraphs (a) through (d) of this section are separate and severable from one another. Should a court of competent jurisdiction hold any provision(s) of this section to be stayed or invalid, such action shall not affect any other provision of this section. 
+(e) *Severability.* The provisions of paragraphs (a) through (d) of this section are separate and severable from one another. Should a court of competent jurisdiction hold any provision(s) of this section to be stayed or invalid, such action shall not affect any other provision of this section.
 
 \[78 FR 23433, Apr. 18, 2013, as amended at 86 FR 51252, Sept. 14, 2021; 89 FR 30040, Apr. 22, 2024\]

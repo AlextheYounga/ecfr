@@ -1,8 +1,8 @@
 ##### § 51.51 Uranium fuel cycle environmental data—Table S-3.
 
-(a) Under § 51.50, every environmental report prepared for the construction permit stage or early site permit stage or combined license stage of a light-water-cooled nuclear power reactor, and submitted on or after September 4, 1979, shall take Table S-3, Table of Uranium Fuel Cycle Environmental Data, as the basis for evaluating the contribution of the environmental effects of uranium mining and milling, the production of uranium hexafluoride, isotopic enrichment, fuel fabrication, reprocessing of irradiated fuel, transportation of radioactive materials and management of low-level wastes and high-level wastes related to uranium fuel cycle activities to the environmental costs of licensing the nuclear power reactor. Table S-3 shall be included in the environmental report and may be supplemented by a discussion of the environmental significance of the data set forth in the table as weighed in the analysis for the proposed facility. 
+(a) Under § 51.50, every environmental report prepared for the construction permit stage or early site permit stage or combined license stage of a light-water-cooled nuclear power reactor, and submitted on or after September 4, 1979, shall take Table S-3, Table of Uranium Fuel Cycle Environmental Data, as the basis for evaluating the contribution of the environmental effects of uranium mining and milling, the production of uranium hexafluoride, isotopic enrichment, fuel fabrication, reprocessing of irradiated fuel, transportation of radioactive materials and management of low-level wastes and high-level wastes related to uranium fuel cycle activities to the environmental costs of licensing the nuclear power reactor. Table S-3 shall be included in the environmental report and may be supplemented by a discussion of the environmental significance of the data set forth in the table as weighed in the analysis for the proposed facility.
 
-(b) Table S-3. 
+(b) Table S-3.
 
 Table S-3—Table of Uranium Fuel Cycle Environmental Data 1
 
