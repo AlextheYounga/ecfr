@@ -499,7 +499,7 @@ DANGER CONTAINS CADMIUM CANCER HAZARD AVOID CREATING DUST CAN CAUSE LUNG AND KID
 
 (A) The monitoring date, duration, and results in terms of an 8-hour TWA of each sample taken;
 
-(B) The name, social security number, and job classification of the employees monitored and of all other employees whose exposures the monitoring is intended to represent;
+(B) The name and job classification of the employees monitored and of all other employees whose exposures the monitoring is intended to represent;
 
 (C) A description of the sampling and analytical methods used and evidence of their accuracy;
 
@@ -517,7 +517,7 @@ DANGER CONTAINS CADMIUM CANCER HAZARD AVOID CREATING DUST CAN CAUSE LUNG AND KID
 
 (ii) The record shall include at least the following information about the employee:
 
-(A) Name, social security number, and description of the duties;
+(A) Name and description of the duties;
 
 (B) A copy of the physician's written opinions and an explanation sheet for biological monitoring results;
 
@@ -1053,149 +1053,7 @@ C. *Spill Leak and Disposal Procedures.*
 
 1\. *Steps to be taken if the materials is released or spilled.* Do not touch spilled material. Stop leak if you can do it without risk. For small, dry spills, with a clean shovel place material into clean, dry container and cover. Move containers from spill area. For larger spills, dike far ahead of spill for later disposal. Keep unnecessary people away. Isolate hazard and deny entry. The Superfund Amendments and Reauthorization Act of 1986 Section 304 requires that a release equal to or greater than the reportable quantity for this substance (100 pounds) must be immediately reported to the local emergency planning committee, the state emergency response commission, and the National Response Center (800) 424-8802; in Washington, DC Metropolitan area (202) 426-2675.
 
-Appendix C to § 1910.1027 \[Reserved\]Appendix D to § 1910.1027 - Occupational Health History Interview With Reference to Cadmium Exposure Directions (To be read by employee and signed prior to the interview) ![](/graphics/er14my19.017.gif)![](/graphics/er14my19.018.gif)![](/graphics/er14my19.019.gif)![](/graphics/er14my19.020.gif)![](/graphics/er14my19.021.gif)![](/graphics/er14my19.022.gif)![](/graphics/er14my19.023.gif)![](/graphics/er14my19.024.gif)![](/graphics/er14my19.025.gif)![](/graphics/er14my19.026.gif)![](/graphics/er14my19.027.gif)![](/graphics/er14my19.028.gif)![](/graphics/er14my19.029.gif)
-
-Please answer the questions you will be asked as completely and carefully as you can. These questions are asked of everyone who works with cadmium. You will also be asked to give blood and urine samples. The doctor will give your employer a written opinion on whether you are physically capable of working with cadmium. Legally, the doctor cannot share personal information you may tell him/her with your employer. The following information is considered strictly confidential. The results of the tests will go to you, your doctor and your employer. You will also receive an information sheet explaining the results of any biological monitoring or physical examinations performed.
-
-If you are just being hired, the results of this interview and examination will be used to:
-
-(1) Establish your health status and see if working with cadmium might be expected to cause unusual problems,
-
-(2) Determine your health status today and see if there are changes over time,
-
-(3) See if you can wear a respirator safely.
-
-If you are not a new hire:
-
-OSHA says that everyone who works with cadmium can have periodic medical examinations performed by a doctor. The reasons for this are:
-
-(a) If there are changes in your health, either because of cadmium or some other reason, to find them early,
-
-(b) to prevent kidney damage.
-
-Please sign below.
-
-I have read these directions and understand them:
-
-Employee signature Date
-
-Thank you for answering these questions. (Suggested Format)
-
-Name Age Social Security # Company Job
-
-Type of Preplacement Exam:
-
-\[ \] Periodic
-
-\[ \] Termination
-
-\[ \] Initial
-
-\[ \] Other
-
-Blood Pressure Pulse Rate 1\. How long have you worked at the job listed above? \[ \] Not yet hired \[ \] Number of months
-
-\[ \] Number of years
-
-2\. Job Duties etc. 3\. Have you *ever* been told by a doctor that you had bronchitis? \[ \] Yes \[ \] No If yes, how long ago? \[ \] Number of months
-
-\[ \] Number of years
-
-4\. Have you *ever* been told by a doctor that you had emphysema? \[ \] Yes \[ \] No If yes, how long ago? \[ \] Number of years
-
-\[ \] Number of months
-
-5\. Have you ever been told by a doctor that you had other lung problems? \[ \] Yes \[ \] No If yes, please describe type of lung problems and when you had these problems 6\. In the past year, have you had a cough? \[ \] Yes \[ \] No If yes, did you cough up sputum? \[ \] Yes \[ \] No If yes, how long did the cough with sputum production last?
-
-\[ \] Less than 3 months
-
-\[ \] 3 months or longer
-
-If yes, for how many years have you had episodes of cough with sputum production lasting this long?
-
-\[ \] Less than one
-
-\[ \] 1
-
-\[ \] 2
-
-\[ \] Longer than 2
-
-7\. Have you ever smoked cigarettes? \[ \] Yes \[ \] No 8\. Do you now smoke cigarettes? \[ \] Yes \[ \] No 9\. If you smoke or have smoked cigarettes, for how many years have you smoked, or did you smoke? \[ \] Less than 1 year
-
-\[ \] Number of years
-
-What is or was the greatest number of packs per day that you have smoked?
-
-\[ \] Number of packs
-
-If you quit smoking cigarettes, how many years ago did you quit?
-
-\[ \] Less than 1 year
-
-\[ \] Number of years
-
-How many packs a day do you now smoke?
-
-\[ \] Number of packs per day
-
-10\. Have you ever been told by a doctor that you had a kidney or urinary tract disease or disorder? \[ \] Yes \[ \] No 11\. Have you ever had any of these disorders?
-
-Kidney stones
-
-\[ \] Yes
-
-\[ \] No 
-
-Protein in urine
-
-\[ \] Yes
-
-\[ \] No 
-
-Blood in urine
-
-\[ \] Yes
-
-\[ \] No 
-
-Difficulty urinating
-
-\[ \] Yes
-
-\[ \] No 
-
-Other kidney/Urinary disorders
-
-\[ \] Yes
-
-\[ \] No
-
-Please describe problems, age, treatment, and follow up for any kidney or urinary problems you have had:
-
-12\. Have you ever been told by a doctor or other health care provider who took your blood pressure that your blood pressure was high? \[ \] Yes \[ \] No 13\. Have you ever been advised to take any blood pressure medication? \[ \] Yes \[ \] No 14\. Are you presently taking any blood pressure medication? \[ \] Yes \[ \] No 15\. Are you presently taking any other medication? \[ \] Yes \[ \] No 16\. Please list any blood pressure or other medications and describe how long you have been taking each one: Medicine: How Long Taken 17\. Have you ever been told by a doctor that you have diabetes? (sugar in your blood or urine) \[ \] Yes \[ \] No If yes, do you presently see a doctor about your diabetes? \[ \] Yes \[ \] No If yes, how do you control your blood sugar? \[ \] Diet alone \[ \] Diet plus oral medicine \[ \] Diet plus insulin (injection) 18\. Have you ever been told by a doctor that you had:
-
-Anemia
-
-\[ \] Yes
-
-\[ \] No 
-
-A low blood count?
-
-\[ \] Yes
-
-\[ \] No
-
-19\. Do you presently feel that you tire or run out of energy sooner than normal or sooner than other people your age? \[ \] Yes \[ \] No If yes, for how long have you felt that you tire easily? \[ \] Less than 1 year \[ \] Number of years 20\. Have you given blood within the last year? \[ \] Yes \[ \] No If yes, how many times? \[ \] Number of times How long ago was the last time you gave blood? \[ \] Less than 1 month \[ \] Number of months 21\. Within the last year have you had any injuries with heavy bleeding? \[ \] Yes \[ \] No If yes, how long ago? \[ \] Less than 1 month \[ \] Number of months Describe: 22\. Have you recently had any surgery? \[ \] Yes \[ \] No If yes, please describe: 23\. Have you seen any blood lately in your stool or after a bowel movement? \[ \] Yes \[ \] No 24\. Have you ever had a test for blood in your stool? \[ \] Yes \[ \] No If yes, did the test show any blood in the stool? \[ \] Yes \[ \] No What further evaluation and treatment were done? 
-
-The following questions pertain to the ability to wear a respirator. Additional information for the physician can be found in The Respiratory Protective Devices Manual.
-
-25\. Have you ever been told by a doctor that you have asthma? \[ \] Yes \[ \] No If yes, are you presently taking any medication for asthma? Mark all that apply. \[ \] Shots \[ \] Pills \[ \] Inhaler 26\. Have you ever had a heart attack? \[ \] Yes \[ \] No If yes, how long ago? \[ \] Number of years \[ \] Number of months 27\. Have you ever had pains in your chest? \[ \] Yes \[ \] No If yes, when did it usually happen? \[ \] While resting \[ \] While working \[ \] While exercising \[ \] Activity didn't matter 28\. Have you ever had a thyroid problem? \[ \] Yes \[ \] No 29\. Have you ever had a seizure or fits? \[ \] Yes \[ \] No 30\. Have you ever had a stroke (cerebrovascular accident)? \[ \] Yes \[ \] No 31\. Have you ever had a ruptured eardrum or a serious hearing problem? \[ \] Yes \[ \] No 32\. Do you now have a claustrophobia, meaning fear of crowded or closed in spaces or any psychological problems that would make it hard for you to wear a respirator? \[ \] Yes \[ \] No
-
-The following questions pertain to reproductive history.
-
-33\. Have you or your partner had a problem conceiving a child? \[ \] Yes \[ \] No If yes, specify: \[ \] Self \[ \] Present mate \[ \] Previous mate 34\. Have you or your partner consulted a physician for a fertility or other reproductive problem? \[ \] Yes \[ \] No If yes, specify who consulted the physician: \[ \] Self \[ \] Spouse/partner \[ \] Self and partner If yes, specify diagnosis made: 35\. Have you or your partner ever conceived a child resulting in a miscarriage, still birth or deformed offspring? \[ \] Yes \[ \] No If yes, specify: \[ \] Miscarriage \[ \] Still birth \[ \] Deformed offspring If outcome was a deformed offspring, please specify type: 36\. Was this outcome a result of a pregnancy of: \[ \] Yours with present partner \[ \] Yours with a previous partner 37\. Did the timing of any abnormal pregnancy outcome coincide with present employment? \[ \] Yes \[ \] No List dates of occurrences: 38\. What is the occupation of your spouse or partner? For Women Only 39\. Do you have menstrual periods? \[ \] Yes \[ \] No Have you had menstrual irregularities? \[ \] Yes \[ \] No If yes, specify type: If yes, what was the approximated date this problem began? Approximate date problem stopped? For Men Only 40\. Have you ever been diagnosed by a physician as having prostate gland problem(s)? \[ \] Yes \[ \] No If yes, please describe type of problem(s) and what was done to evaluate and treat the problem(s): Appendix E to § 1910.1027 - Cadmium in Workplace Atmospheres Method Number: ID-189 Matrix: Air OSHA Permissible Exposure Limits: 5 µg/m 3 (TWA), 2.5 µg/m 3 (Action Level TWA) Collection Procedure: A known volume of air is drawn through a 37-mm diameter filter cassette containing a 0.8-µm mixed cellulose ester membrane filter (MCEF). Recommended Air Volume: 960 L Recommended Sampling Rate: 2.0 L/min Analytical Procedure: Air filter samples are digested with nitric acid. After digestion, a small amount of hydrochloric acid is added. The samples are then diluted to volume with deionized water and analyzed by either flame atomic absorption spectroscopy (AAS) or flameless atomic absorption spectroscopy using a heated graphite furnace atomizer (AAS-HGA). Detection Limits: Qualitative: 0.2 µg/m 3 for a 200 L sample by Flame AAS, 0.007 µg/m 3 for a 60 L sample by AAS-HGA Quantitative: 0.70 µg/m 3 for a 200 L sample by Flame AAS, 0.025 µg/m 3 for a 60 L sample by AAS-HGA Precision and Accuracy: (Flame AAS Analysis and AAS-HGA Analysis): Validation Level: 2.5 to 10 µg/m 3 for a 400 L air vol, 1.25 to 5.0 µg/m 3 for a 60 L air vol CV1 (pooled): 0.010, 0.043 Analytical Bias: + 4.0%, −5.8% Overall Analytical Error:±6.0%, ±14.2% Method Classification: Validated Date: June, 1992
+Appendix C to § 1910.1027 \[Reserved\]Appendix D to § 1910.1027 - Occupational Health History Interview With Reference to Cadmium Exposure ![](/graphics/er14my19.017.gif)![](/graphics/er14my19.018.gif)![](/graphics/er14my19.019.gif)![](/graphics/er14my19.020.gif)![](/graphics/er14my19.021.gif)![](/graphics/er14my19.022.gif)![](/graphics/er14my19.023.gif)![](/graphics/er14my19.024.gif)![](/graphics/er14my19.025.gif)![](/graphics/er14my19.026.gif)![](/graphics/er14my19.027.gif)![](/graphics/er14my19.028.gif)![](/graphics/er14my19.029.gif)Appendix E to § 1910.1027 - Cadmium in Workplace Atmospheres Method Number: ID-189 Matrix: Air OSHA Permissible Exposure Limits: 5 µg/m 3 (TWA), 2.5 µg/m 3 (Action Level TWA) Collection Procedure: A known volume of air is drawn through a 37-mm diameter filter cassette containing a 0.8-µm mixed cellulose ester membrane filter (MCEF). Recommended Air Volume: 960 L Recommended Sampling Rate: 2.0 L/min Analytical Procedure: Air filter samples are digested with nitric acid. After digestion, a small amount of hydrochloric acid is added. The samples are then diluted to volume with deionized water and analyzed by either flame atomic absorption spectroscopy (AAS) or flameless atomic absorption spectroscopy using a heated graphite furnace atomizer (AAS-HGA). Detection Limits: Qualitative: 0.2 µg/m 3 for a 200 L sample by Flame AAS, 0.007 µg/m 3 for a 60 L sample by AAS-HGA Quantitative: 0.70 µg/m 3 for a 200 L sample by Flame AAS, 0.025 µg/m 3 for a 60 L sample by AAS-HGA Precision and Accuracy: (Flame AAS Analysis and AAS-HGA Analysis): Validation Level: 2.5 to 10 µg/m 3 for a 400 L air vol, 1.25 to 5.0 µg/m 3 for a 60 L air vol CV1 (pooled): 0.010, 0.043 Analytical Bias: + 4.0%, −5.8% Overall Analytical Error:±6.0%, ±14.2% Method Classification: Validated Date: June, 1992
 
 Inorganic Service Branch II, OSHA Salt Lake Technical Center, Salt Lake City, Utah
 
@@ -3545,4 +3403,4 @@ Storage Data
 
 The determination of creatinine in urine by HPLC is a good alternative to the Jaffe method for industrial hygiene laboratories. Sample clarification with SEP-PAKs did not change the amount of creatinine found in urine samples. However, it does protect the analytical column. The results of this creatinine in urine procedure are unaffected by the pH of the urine sample under the conditions tested by this procedure. Therefore, no special measures are required for creatinine analysis whether the urine sample has been stabilized with 10% nitric acid for the Cd analysis or brought to a pH of 7 with 0.11 N NaOH for the B2M analysis.
 
-5\. References 5.1. Clark, L.C.; Thompson, H.L.; *Anal. Chem.* 1949, 21, 1218. 5.2. Peters, J.H.; *J. Biol. Chem.* 1942, 146, 176. 5.3. Hausen, V.A.; Fuchs, D.; Wachter, H.; *J. Clin. Chem. Clin. Biochem.* 1981, 19, 373-378. 5.4. Clark, P.M.S.; Kricka L.J.; Patel, A.; *J. Liq. Chrom.* 1980, 3(7), 1031-1046. 5.5. Ballerini, R.; Chinol, M.; Cambi, A.; *J. Chrom.* 1979, 179, 365-369. 5.6. Ogata, M.; Taguchi, T.; *Industrial Health* 1987, 25, 225-228. 5.7. “Merck Index”, 11th ed.; Windholz, Martha Ed.; Merck: Rahway, N.J., 1989; p 403. 5.8. Kimberly, M.; *“Determination of Cadmium in Urine by Graphite Furnace Atomic Absorption Spectrometry with Zeeman Background Correction.”,* Centers for Disease Control, Atlanta, Georgia, unpublished, update 1990.\[57 FR 42389, Sept. 14, 1992, as amended at 57 FR 49272, Oct. 30, 1992; 58 FR 21781, Apr. 23, 1993; 61 FR 5508, Feb. 13, 1996; 63 FR 1288, Jan. 8, 1998; 70 FR 1142, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50189, Aug. 24, 2006; 73 FR 75585, Dec. 12, 2008; 76 FR 33608, June 8, 2011; 77 FR 17781, Mar. 26, 2012\]
+5\. References 5.1. Clark, L.C.; Thompson, H.L.; *Anal. Chem.* 1949, 21, 1218. 5.2. Peters, J.H.; *J. Biol. Chem.* 1942, 146, 176. 5.3. Hausen, V.A.; Fuchs, D.; Wachter, H.; *J. Clin. Chem. Clin. Biochem.* 1981, 19, 373-378. 5.4. Clark, P.M.S.; Kricka L.J.; Patel, A.; *J. Liq. Chrom.* 1980, 3(7), 1031-1046. 5.5. Ballerini, R.; Chinol, M.; Cambi, A.; *J. Chrom.* 1979, 179, 365-369. 5.6. Ogata, M.; Taguchi, T.; *Industrial Health* 1987, 25, 225-228. 5.7. “Merck Index”, 11th ed.; Windholz, Martha Ed.; Merck: Rahway, N.J., 1989; p 403. 5.8. Kimberly, M.; *“Determination of Cadmium in Urine by Graphite Furnace Atomic Absorption Spectrometry with Zeeman Background Correction.”,* Centers for Disease Control, Atlanta, Georgia, unpublished, update 1990.\[57 FR 42389, Sept. 14, 1992, as amended at 57 FR 49272, Oct. 30, 1992; 58 FR 21781, Apr. 23, 1993; 61 FR 5508, Feb. 13, 1996; 63 FR 1288, Jan. 8, 1998; 70 FR 1142, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50189, Aug. 24, 2006; 73 FR 75585, Dec. 12, 2008; 76 FR 33608, June 8, 2011; 77 FR 17781, Mar. 26, 2012; 84 FR 21477, May 14, 2019\]

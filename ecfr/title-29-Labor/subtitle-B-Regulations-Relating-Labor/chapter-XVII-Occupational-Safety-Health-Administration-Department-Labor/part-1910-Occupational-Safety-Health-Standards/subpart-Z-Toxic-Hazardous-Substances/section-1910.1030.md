@@ -72,7 +72,7 @@
 
 *Work Practice Controls* means controls that reduce the likelihood of exposure by altering the manner in which a task is performed (e.g., prohibiting recapping of needles by a two-handed technique).
 
-(c) *Exposure control* - (1) *Exposure Control Plan.* (i) Each employer having an employee(s) with occupational exposure as defined by paragraph (b) of this section shall establish a written Exposure Control Plan designed to eliminate or minimize employee exposure.
+(c) *Exposure control*—(1) *Exposure Control Plan.* (i) Each employer having an employee(s) with occupational exposure as defined by paragraph (b) of this section shall establish a written Exposure Control Plan designed to eliminate or minimize employee exposure.
 
 (ii) The Exposure Control Plan shall contain at least the following elements:
 
@@ -104,7 +104,7 @@
 
 (ii) This exposure determination shall be made without regard to the use of personal protective equipment.
 
-(d) *Methods of compliance* - (1) *General.* Universal precautions shall be observed to prevent contact with blood or other potentially infectious materials. Under circumstances in which differentiation between body fluid types is difficult or impossible, all body fluids shall be considered potentially infectious materials.
+(d) *Methods of compliance*—(1) *General.* Universal precautions shall be observed to prevent contact with blood or other potentially infectious materials. Under circumstances in which differentiation between body fluid types is difficult or impossible, all body fluids shall be considered potentially infectious materials.
 
 (2) *Engineering and work practice controls.* (i) Engineering and work practice controls shall be used to eliminate or minimize employee exposure. Where occupational exposure remains after institution of these controls, personal protective equipment shall also be used.
 
@@ -156,7 +156,7 @@
 
 (B) The employer shall ensure that this information is conveyed to all affected employees, the servicing representative, and/or the manufacturer, as appropriate, prior to handling, servicing, or shipping so that appropriate precautions will be taken.
 
-(3) *Personal protective equipment* - (i) *Provision.* When there is occupational exposure, the employer shall provide, at no cost to the employee, appropriate personal protective equipment such as, but not limited to, gloves, gowns, laboratory coats, face shields or masks and eye protection, and mouthpieces, resuscitation bags, pocket masks, or other ventilation devices. Personal protective equipment will be considered “appropriate” only if it does not permit blood or other potentially infectious materials to pass through to or reach the employee's work clothes, street clothes, undergarments, skin, eyes, mouth, or other mucous membranes under normal conditions of use and for the duration of time which the protective equipment will be used.
+(3) *Personal protective equipment*—(i) *Provision.* When there is occupational exposure, the employer shall provide, at no cost to the employee, appropriate personal protective equipment such as, but not limited to, gloves, gowns, laboratory coats, face shields or masks and eye protection, and mouthpieces, resuscitation bags, pocket masks, or other ventilation devices. Personal protective equipment will be considered “appropriate” only if it does not permit blood or other potentially infectious materials to pass through to or reach the employee's work clothes, street clothes, undergarments, skin, eyes, mouth, or other mucous membranes under normal conditions of use and for the duration of time which the protective equipment will be used.
 
 (ii) *Use.* The employer shall ensure that the employee uses appropriate personal protective equipment unless the employer shows that the employee temporarily and briefly declined to use personal protective equipment when, under rare and extraordinary circumstances, it was the employee's professional judgment that in the specific instance its use would have prevented the delivery of health care or public safety services or would have posed an increased hazard to the safety of the worker or co-worker. When the employee makes this judgement, the circumstances shall be investigated and documented in order to determine whether changes can be instituted to prevent such occurances in the future.
 
@@ -202,7 +202,7 @@
 
 (xii) Surgical caps or hoods and/or shoe covers or boots shall be worn in instances when gross contamination can reasonably be anticipated (e.g., autopsies, orthopaedic surgery).
 
-(4) *Housekeeping* - (i) *General.* Employers shall ensure that the worksite is maintained in a clean and sanitary condition. The employer shall determine and implement an appropriate written schedule for cleaning and method of decontamination based upon the location within the facility, type of surface to be cleaned, type of soil present, and tasks or procedures being performed in the area.
+(4) *Housekeeping*—(i) *General.* Employers shall ensure that the worksite is maintained in a clean and sanitary condition. The employer shall determine and implement an appropriate written schedule for cleaning and method of decontamination based upon the location within the facility, type of surface to be cleaned, type of soil present, and tasks or procedures being performed in the area.
 
 (ii) All equipment and environmental and working surfaces shall be cleaned and decontaminated after contact with blood or other potentially infectious materials.
 
@@ -216,7 +216,7 @@
 
 (E) Reusable sharps that are contaminated with blood or other potentially infectious materials shall not be stored or processed in a manner that requires employees to reach by hand into the containers where these sharps have been placed.
 
-(iii) *Regulated Waste* - (A) *Contaminated Sharps Discarding and Containment.* (*1*) Contaminated sharps shall be discarded immediately or as soon as feasible in containers that are:
+(iii) *Regulated Waste*—(A) *Contaminated Sharps Discarding and Containment.* (*1*) Contaminated sharps shall be discarded immediately or as soon as feasible in containers that are:
 
 (*i*) Closable;
 
@@ -248,7 +248,7 @@
 
 (*4*) Reusable containers shall not be opened, emptied, or cleaned manually or in any other manner which would expose employees to the risk of percutaneous injury.
 
-(B) *Other Regulated Waste Containment* - (*1*) Regulated waste shall be placed in containers which are:
+(B) *Other Regulated Waste Containment*—(*1*) Regulated waste shall be placed in containers which are:
 
 (*i*) Closable;
 
@@ -338,7 +338,7 @@
 
 (5) *Training Requirements.* Additional training requirements for employees in HIV and HBV research laboratories and HIV and HBV production facilities are specified in paragraph (g)(2)(ix).
 
-(f) *Hepatitis B vaccination and post-exposure evaluation and follow-up* - (1) *General.* (i) The employer shall make available the hepatitis B vaccine and vaccination series to all employees who have occupational exposure, and post-exposure evaluation and follow-up to all employees who have had an exposure incident.
+(f) *Hepatitis B vaccination and post-exposure evaluation and follow-up*—(1) *General.* (i) The employer shall make available the hepatitis B vaccine and vaccination series to all employees who have occupational exposure, and post-exposure evaluation and follow-up to all employees who have had an exposure incident.
 
 (ii) The employer shall ensure that all medical evaluations and procedures including the hepatitis B vaccine and vaccination series and post-exposure evaluation and follow-up, including prophylaxis, are:
 
@@ -412,7 +412,7 @@
 
 (6) *Medical recordkeeping.* Medical records required by this standard shall be maintained in accordance with paragraph (h)(1) of this section.
 
-(g) *Communication of hazards to employees* - (1) *Labels and signs* - (i) *Labels.* (A) Warning labels shall be affixed to containers of regulated waste, refrigerators and freezers containing blood or other potentially infectious material; and other containers used to store, transport or ship blood or other potentially infectious materials, except as provided in paragraph (g)(1)(i)(E), (F) and (G).
+(g) *Communication of hazards to employees*—(1) *Labels and signs*—(i) *Labels.* (A) Warning labels shall be affixed to containers of regulated waste, refrigerators and freezers containing blood or other potentially infectious material; and other containers used to store, transport or ship blood or other potentially infectious materials, except as provided in paragraph (g)(1)(i)(E), (F) and (G).
 
 (B) Labels required by this section shall include the following legend:
 
@@ -494,11 +494,11 @@
 
 (C) The employer shall provide a training program to employees who have no prior experience in handling human pathogens. Initial work activities shall not include the handling of infectious agents. A progression of work activities shall be assigned as techniques are learned and proficiency is developed. The employer shall assure that employees participate in work activities involving infectious agents only after proficiency has been demonstrated.
 
-(h) *Recordkeeping* - (1) *Medical Records.* (i) The employer shall establish and maintain an accurate record for each employee with occupational exposure, in accordance with 29 CFR 1910.1020.
+(h) *Recordkeeping*—(1) *Medical Records.* (i) The employer shall establish and maintain an accurate record for each employee with occupational exposure, in accordance with 29 CFR 1910.1020.
 
 (ii) This record shall include:
 
-(A) The name and social security number of the employee;
+(A) The name of the employee;
 
 (B) A copy of the employee's hepatitis B vaccination status including the dates of all the hepatitis B vaccinations and any medical records relative to the employee's ability to receive vaccination as required by paragraph (f)(2);
 
@@ -548,7 +548,7 @@
 
 (iii) The sharps injury log shall be maintained for the period required by 29 CFR 1904.33.
 
-(i) *Dates* - (1) *Effective Date.* The standard shall become effective on March 6, 1992.
+(i) *Dates*—(1) *Effective Date.* The standard shall become effective on March 6, 1992.
 
 (2) The Exposure Control Plan required by paragraph (c) of this section shall be completed on or before May 5, 1992.
 
@@ -556,7 +556,7 @@
 
 (4) Paragraphs (d)(2) Engineering and Work Practice Controls, (d)(3) Personal Protective Equipment, (d)(4) Housekeeping, (e) HIV and HBV Research Laboratories and Production Facilities, (f) Hepatitis B Vaccination and Post-Exposure Evaluation and Follow-up, and (g)(1) Labels and Signs of this section, shall take effect July 6, 1992.
 
-Appendix A to Section 1910.1030 - Hepatitis B Vaccine Declination (Mandatory)
+Appendix A to Section 1910.1030—Hepatitis B Vaccine Declination (Mandatory)
 
 I understand that due to my occupational exposure to blood or other potentially infectious materials I may be at risk of acquiring hepatitis B virus (HBV) infection. I have been given the opportunity to be vaccinated with hepatitis B vaccine, at no charge to myself. However, I decline hepatitis B vaccination at this time. I understand that by declining this vaccine, I continue to be at risk of acquiring hepatitis B, a serious disease. If in the future I continue to have occupational exposure to blood or other potentially infectious materials and I want to be vaccinated with hepatitis B vaccine, I can receive the vaccination series at no charge to me.
 
