@@ -144,6 +144,60 @@
 
 (v) For the performance year starting on January 1, 2021:
 
+(A) CPT codes:
+
+(*1*) 96160 and 96161 (codes for administration of health risk assessment).
+
+(*2*) 99201 through 99215 (codes for office or other outpatient visit for the evaluation and management of a patient).
+
+(*3*) 99304 through 99318 (codes for professional services furnished in a nursing facility; professional services or services reported on an FQHC or RHC claim identified by these codes are excluded when furnished in a SNF).
+
+(*4*) 99319 through 99340 (codes for patient domiciliary, rest home, or custodial care visit).
+
+(*5*) 99341 through 99350 (codes for evaluation and management services furnished in a patient's home for claims identified by place of service modifier 12).
+
+(*6*) 99354 and 99355 (add-on codes, for prolonged evaluation and management or psychotherapy services beyond the typical service time of the primary procedure; when the base code is also a primary care service code under this paragraph (c)(1)(v)).
+
+(*7*) 99421, 99422, and 99423 (codes for online digital evaluation and management).
+
+(*8*) 99439 (code for non-complex chronic care management).
+
+(*9*) 99483 (code for assessment of and care planning for patients with cognitive impairment).
+
+(*10*) 99484, 99492, 99493 and 99494 (codes for behavioral health integration services).
+
+(*11*) 99487, 99489, 99490 and 99491 (codes for chronic care management).
+
+(*12*) 99495 and 99496 (codes for transitional care management services).
+
+(*13*) 99497 and 99498 (codes for advance care planning; services identified by these codes furnished in an inpatient setting are excluded).
+
+(B) HCPCS codes:
+
+(*1*) G0402 (code for the Welcome to Medicare visit).
+
+(*2*) G0438 and G0439 (codes for the annual wellness visits).
+
+(*3*) G0442 (code for alcohol misuse screening service).
+
+(*4*) G0443 (code for alcohol misuse counseling service).
+
+(*5*) G0444 (code for annual depression screening service).
+
+(*6*) G0463 (code for services furnished in ETA hospitals).
+
+(*7*) G0506 (code for chronic care management).
+
+(*8*) G2010 (code for the remote evaluation of patient video/images).
+
+(*9*) G2012 (code for virtual check-in).
+
+(*10*) G2058 (code for non-complex chronic care management).
+
+(*11*) G2064 and G2065 (codes for principal care management services).
+
+(*12*) G2214 (code for psychiatric collaborative care model).
+
 (vi) For the performance year starting on January 1, 2022, and subsequent performance years as follows:
 
 (A) CPT codes:
