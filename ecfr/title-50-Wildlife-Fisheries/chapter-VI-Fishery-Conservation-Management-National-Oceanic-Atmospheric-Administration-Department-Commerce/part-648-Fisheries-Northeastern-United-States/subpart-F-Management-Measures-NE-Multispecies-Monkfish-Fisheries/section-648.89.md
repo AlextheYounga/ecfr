@@ -5,22 +5,22 @@
 (b) *Recreational minimum and maximum fish sizes*—(1) *Minimum and maximum fish sizes.* Unless further restricted under this section, persons aboard charter or party boats permitted under this part and not fishing under the NE multispecies DAS program or under the restrictions and conditions of an approved sector operations plan, and private recreational fishing vessels may not possess fish in or from the EEZ that are smaller than the minimum fish sizes or larger than the maximum fish sizes, measured in total length, as follows:
 
 Table 1 to Paragraph (b)(1)
-| Species                                             | Charter/party   minimum   size | Private   minimum   size | Maximum   size |
-| --------------------------------------------------- | ------------------------------ | ------------------------ | -------------- |
-| Cod:                                                |                                |                          |                |
-| Inside GOM Regulated Mesh Area 1                    | 22                             | 55.9                     | 22             |
-| Outside GOM Regulated Mesh Area 1                   | 23                             | 58.4                     | 23             |
-| Haddock:                                            |                                |                          |                |
-| Inside GOM Regulated Mesh Area 1                    | 18                             | 45.7                     | 17             |
-| Outside GOM Regulated Mesh Area 1                   | 18                             | 45.7                     | 18             |
-| Pollock                                             | 19                             | 48.3                     | 19             |
-| Witch Flounder (gray sole)                          | 14                             | 35.6                     | 14             |
-| Yellowtail Flounder                                 | 13                             | 33.0                     | 13             |
-| American Plaice (dab)                               | 14                             | 35.6                     | 14             |
-| Atlantic Halibut                                    | 41                             | 104.1                    | 41             |
-| Winter Flounder (black back)                        | 12                             | 30.5                     | 12             |
-| Redfish                                             | 9                              | 22.9                     | 9              |
-| 1 GOM Regulated Mesh Area specified in § 648.80(a). |                                |                          |                |
+| Species                                             | Charter/party   minimum size | Private   minimum size | Maximum   size |
+| --------------------------------------------------- | ---------------------------- | ---------------------- | -------------- |
+| Cod:                                                |                              |                        |                |
+| Inside GOM Regulated Mesh Area 1                    | 23                           | 58.4                   | 23             |
+| Outside GOM Regulated Mesh Area 1                   | 23                           | 58.4                   | 23             |
+| Haddock:                                            |                              |                        |                |
+| Inside GOM Regulated Mesh Area 1                    | 18                           | 45.7                   | 18             |
+| Outside GOM Regulated Mesh Area 1                   | 18                           | 45.7                   | 18             |
+| Pollock                                             | 19                           | 48.3                   | 19             |
+| Witch Flounder (gray sole)                          | 14                           | 35.6                   | 14             |
+| Yellowtail Flounder                                 | 13                           | 33.0                   | 13             |
+| American Plaice (dab)                               | 14                           | 35.6                   | 14             |
+| Atlantic Halibut                                    | 41                           | 104.1                  | 41             |
+| Winter Flounder (black back)                        | 12                           | 30.5                   | 12             |
+| Redfish                                             | 9                            | 22.9                   | 9              |
+| 1 GOM Regulated Mesh Area specified in § 648.80(a). |                              |                        |                |
 
 (2) *Exceptions*—(i) *Fillet size.* Vessels may possess fillets less than the minimum size specified, if the fillets are taken from legal-sized fish and are not offered or intended for sale, trade or barter.
 
@@ -33,28 +33,28 @@ Table 1 to Paragraph (b)(1)
 (i) *Closed season.* Persons aboard private recreational fishing vessels may not possess species, as specified in the column titled “Species” in Table 2 to paragraph (c)(1)(i), in or from the EEZ during that species closed season as specified in the column titled “Closed Season” in Table 2 to paragraph (c)(1)(i).
 
 Table 2 to Paragraph (c)(1)(i)
-| Stock                      | Open season                          | Possession   limit | Closed season                           |
-| -------------------------- | ------------------------------------ | ------------------ | --------------------------------------- |
-| GB Cod                     | September 1-April 30 May 1-31        | 5                  | June 1-August 31.                       |
-| GOM Cod                    | September 1-October 31               | 1                  | May 1-August 31.   November 1-April 30. |
-| GB Haddock                 | All Year                             | Unlimited          | N/A.                                    |
-| GOM Haddock                | May 1-February 28 (or 29) April 1-30 | 10                 | March 1-March 31.                       |
-| GB Yellowtail Flounder     | All Year                             | Unlimited          | N/A.                                    |
-| SNE/MA Yellowtail Flounder | All Year                             | Unlimited          | N/A.                                    |
-| CC/GOM Yellowtail Flounder | All Year                             | Unlimited          | N/A.                                    |
-| American Plaice            | All Year                             | Unlimited          | N/A.                                    |
-| Witch Flounder             | All Year                             | Unlimited          | N/A.                                    |
-| GB Winter Flounder         | All Year                             | Unlimited          | N/A.                                    |
-| GOM Winter Flounder        | All Year                             | Unlimited          | N/A.                                    |
-| SNE/MA Winter Flounder     | All Year                             | Unlimited          | N/A.                                    |
-| Redfish                    | All Year                             | Unlimited          | N/A.                                    |
-| White Hake                 | All Year                             | Unlimited          | N/A.                                    |
-| Pollock                    | All Year                             | Unlimited          | N/A.                                    |
-| N. Windowpane Flounder     | CLOSED                               | No retention       | All Year.                               |
-| S. Windowpane Flounder     | CLOSED                               | No retention       | All Year.                               |
-| Ocean Pout                 | CLOSED                               | No retention       | All Year.                               |
-| Atlantic Halibut           | See paragraph (c)(3).                |                    |                                         |
-| Atlantic Wolffish          | CLOSED                               | No retention       | All Year.                               |
+| Stock                        | Open season                           | Possession limit | Closed season                         |
+| ---------------------------- | ------------------------------------- | ---------------- | ------------------------------------- |
+| GB Cod                       | September 1-April 30; May 1-31        | 5                | June 1-August 31.                     |
+| GOM Cod                      | September 1-October 31                | 1                | May 1-August 31; November 1-April 30. |
+| GB Haddock                   | All Year                              | Unlimited        | N/A.                                  |
+| GOM Haddock                  | May 1-February 28 (or 29); April 1-30 | 15               | March 1-March 31.                     |
+| GB Yellowtail Flounder       | All Year                              | Unlimited        | N/A.                                  |
+| SNE/MA Yellowtail Flounder   | All Year                              | Unlimited        | N/A.                                  |
+| CC/GOM Yellowtail Flounder   | All Year                              | Unlimited        | N/A.                                  |
+| American Plaice              | All Year                              | Unlimited        | N/A.                                  |
+| Witch Flounder               | All Year                              | Unlimited        | N/A.                                  |
+| GB Winter Flounder           | All Year                              | Unlimited        | N/A.                                  |
+| GOM Winter Flounder          | All Year                              | Unlimited        | N/A.                                  |
+| SNE/MA Winter Flounder       | All Year                              | Unlimited        | N/A.                                  |
+| Redfish                      | All Year                              | Unlimited        | N/A.                                  |
+| White Hake                   | All Year                              | Unlimited        | N/A.                                  |
+| Pollock                      | All Year                              | Unlimited        | N/A.                                  |
+| Northern Windowpane Flounder | CLOSED                                | No retention     | All Year.                             |
+| Southern Windowpane Flounder | CLOSED                                | No retention     | All Year.                             |
+| Ocean Pout                   | CLOSED                                | No retention     | All Year.                             |
+| Atlantic Halibut             | See paragraph (c)(3) of this section. |                  |                                       |
+| Atlantic Wolffish            | CLOSED                                | No retention     | All Year.                             |
 
 (ii) \[Reserved\]
 
