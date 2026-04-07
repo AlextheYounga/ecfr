@@ -1,26 +1,28 @@
 ##### § 203.49 Eligibility of adjustable rate mortgages.
 
-Link to an amendment published at 88 FR 12828, Mar. 1, 2023.
-
 A mortgage containing the provisions for periodic adjustments by the mortgagee in the effective rate of interest charged shall be eligible for insurance under this subpart subject to compliance with the additional requirements of this section. This section shall apply only to mortgage loans described under sections 203(b), 203(h) and 203(k) of the National Housing Act.
 
 (a) *Types of mortgages insurable.* The types of adjustable rate mortgages that are insurable are those for which the interest rate may be adjusted annually by the mortgagee, beginning after one, three, five, seven, or ten years from the date of the mortgagor's first debt service payment.
 
-(b) *Interest-rate index.* Changes in the interest rate charged on an adjustable rate mortgage must correspond either to changes in the one-year London Interbank Offered Rate (LIBOR) or to changes in the weekly average yield on U.S. Treasury securities, adjusted to a constant maturity of one year. Except as otherwise provided in this section, each change in the mortgage interest rate must correspond to the upward and downward change in the index.
+(b) *Interest-rate index*—(1) *CMT and SOFR indices.* Changes in the interest rate charged on an adjustable rate mortgage must correspond either to changes in the weekly average yield on U.S. Treasury securities, adjusted to a constant maturity of one year (CMT); to the 30-day average Secured Overnight Financing Rate (SOFR) published by the Federal Reserve Bank of New York (or a successor administrator); or to an alternative SOFR tenor approved by the Secretary. The Secretary may publish approved SOFR tenors as alternatives to the 30-day average SOFR tenor through notice.
+
+(2) *Transition for existing mortgages indexed to LIBOR.* Mortgages with an existing adjustable interest rate indexed to the London Interbank Offered Rate (LIBOR) must be transitioned to the spread-adjusted SOFR replacement index approved by the Secretary by the next interest rate adjustment date for the mortgage on or after the Replacement Date, which means the first London banking day after June 30, 2023, unless the Board of Governors of the Federal Reserve System determines that any LIBOR tenor will cease to be published or cease to be representative on a different date. In such case, Replacement Date means the first business day following the date announced by the Board of Governors of the Federal Reserve System. Notice of the transition to the SOFR replacement index must be sent to the borrower in accordance with the mortgage documents. The Secretary will publish through Mortgagee Letter any additional requirements for the transition of existing mortgages.
+
+(3) *Changes in the mortgage interest rate.* Except as otherwise provided in this section, each change in the mortgage interest rate must correspond to the upward and downward change in the index.
 
 (c) *Amortization provisions.* The mortgage must contain amortization provisions satisfactory to the Secretary, allowing for periodic adjustments in the rate of interest charged corresponding to changes in the interest rate index.
 
 (d) *Frequency of interest rate changes.* (1) The interest rate adjustments must occur annually, calculated from the date of the mortgagor's first debt service payment, except that, for these types of mortgages, the first adjustment shall be no sooner or later than the following:
 
-(i) One-year adjustable rate mortgages - no sooner than 12 months or later than 18 months;
+(i) One-year adjustable rate mortgages—no sooner than 12 months or later than 18 months;
 
-(ii) Three-year adjustable rate mortgages - no sooner than 36 months or later than 42 months;
+(ii) Three-year adjustable rate mortgages—no sooner than 36 months or later than 42 months;
 
-(iii) Five-year adjustable rate mortgages - no sooner than 60 months or later than 66 months;
+(iii) Five-year adjustable rate mortgages—no sooner than 60 months or later than 66 months;
 
-(iv) Seven-year adjustable rate mortgages - no sooner than 84 months or later than 90 months; and
+(iv) Seven-year adjustable rate mortgages—no sooner than 84 months or later than 90 months; and
 
-(v) Ten-year adjustable rate mortgages - no sooner than 120 months or later than 126 months.
+(v) Ten-year adjustable rate mortgages—no sooner than 120 months or later than 126 months.
 
 (2) To set the new interest rate, the mortgagee will determine the change between the initial (*i.e.,* base) index figure and the current index figure, or will add a specific margin to the current index figure. The initial index figure shall be the most recent figure available before the date of mortgage loan origination. The current index figure shall be the most recent index figure available 30 days before the date of each interest rate adjustment, except that for forward mortgages originated on or after January 10, 2015, 30 days shall mean 45 days.
 
@@ -44,4 +46,4 @@ A mortgage containing the provisions for periodic adjustments by the mortgagee i
 
 (k) *Insurance authority.* Mortgages complying with the requirements of this section shall be insured under this subpart pursuant to section 251 of the National Housing Act.
 
-\[49 FR 23584, June 6, 1984, as amended at 53 FR 8881, Mar. 18, 1988; 54 FR 111, Jan. 4, 1989; 55 FR 34805, Aug. 24, 1990; 61 FR 36264, July 9, 1996; 69 FR 11501, Mar. 10, 2004; 70 FR 16082, Mar. 29, 2005; 72 FR 40050, July 20, 2007; 79 FR 50840, Aug. 26, 2014\]
+\[49 FR 23584, June 6, 1984, as amended at 53 FR 8881, Mar. 18, 1988; 54 FR 111, Jan. 4, 1989; 55 FR 34805, Aug. 24, 1990; 61 FR 36264, July 9, 1996; 69 FR 11501, Mar. 10, 2004; 70 FR 16082, Mar. 29, 2005; 72 FR 40050, July 20, 2007; 79 FR 50840, Aug. 26, 2014; 88 FR 12828, Mar. 1, 2023\]

@@ -1,7 +1,5 @@
 ##### § 206.3 Definitions.
 
-Link to an amendment published at 88 FR 12828, Mar. 1, 2023.
-
 As used in this part, the following terms shall have the meaning indicated.
 
 *Bona fide tenant* means a tenant of the property who is not a mortgagor, borrower, a spouse or child of a mortgagor or borrower, or any other member of a mortgagor's or borrower's family.
@@ -34,7 +32,13 @@ As used in this part, the following terms shall have the meaning indicated.
 
 (3) For other services that the provider of the services represents are, in whole or in part, for the purpose of improving a prospective borrower's access to mortgages covered by this part, except where the fee is for services specifically authorized by the Commissioner.
 
-*Expected average mortgage interest rate* means the interest rate used to calculate the principal limit established at closing. For fixed interest rate HECMs, the expected average mortgage interest rate is the same as the fixed mortgage (Note) interest rate and is set simultaneously with the fixed interest rate. For adjustable interest rate HECMs, it is either the sum of the mortgagee's margin plus the weekly average yield for U.S. Treasury securities adjusted to a constant maturity of 10 years, or it is the sum of the mortgagee's margin plus the 10-year LIBOR swap rate, depending on which interest rate index is chosen by the borrower. The margin is determined by the mortgagee and is defined as the amount that is added to the index value to compute the expected average mortgage interest rate. The index type (CMT or LIBOR) used to calculate the expected average mortgage interest rate must be the same index type used to calculate mortgage interest rate adjustments - commingling of index types is not allowed. The mortgagee's margin is the same margin used to determine the initial interest rate and the periodic adjustments to the interest rate. Mortgagees, with the agreement of the borrower, may simultaneously lock in the expected average mortgage interest rate and the mortgagee's margin prior to the date of loan closing or simultaneously establish the expected average mortgage interest rate and the mortgagee's margin on the date of loan closing.
+*Expected average mortgage interest rate* means the interest rate used to calculate the principal limit established at closing.
+
+(1) For fixed interest rate HECMs, the expected average mortgage interest rate is the same as the fixed mortgage (Note) interest rate and is set simultaneously with the fixed interest (Note) rate.
+
+(2) For adjustable interest rate HECMs, the expected average mortgage interest rate is the sum of the mortgagee's margin plus the weekly average yield for U.S. Treasury securities (CMT) adjusted to a constant maturity of 10 years or an additional SOFR index as approved by the Secretary. Commingling the index type used to calculate the expected average mortgage interest rate and the index type used to calculate the adjustable mortgage interest (Note) rate and adjustments is only permissible as provided for by the Secretary.
+
+(3) Mortgagees, with the agreement of the borrower, may simultaneously lock in the expected average mortgage interest rate and the mortgagee's margin prior to the date of mortgage closing or simultaneously establish the expected average mortgage interest rate and the mortgagee's margin on the date of mortgage closing.
 
 *First 12-Month Disbursement Period* means the period beginning on the day of loan closing and ending on the day before the loan closing anniversary date. When the day before the anniversary date of loan closing falls on a Federally-observed holiday, Saturday, or Sunday, the end period will be on the next business day after the Federally-observed holiday, Saturday or Sunday.
 
@@ -53,6 +57,8 @@ As used in this part, the following terms shall have the meaning indicated.
 *Loan documents* mean the credit instrument, or Note, secured by the lien, and the loan agreement.
 
 *Mandatory Obligations* are fees and charges incurred in connection with the origination of the HECM that are requirements for loan approval and which will be paid at closing or during the First 12-Month Disbursement Period in accordance with § 206.25.
+
+*Margin* means the amount added to the index value to compute the expected average mortgage interest rate and the initial mortgage interest (Note) rate and periodic adjustments to the mortgage interest (Note) rate.
 
 *Maximum claim amount* means the lesser of the appraised value of the property, as determined by the appraisal used in underwriting the loan; the sales price of the property being purchased for the sole purpose of being the principal residence; or the national mortgage limit for a one-family residence under subsections 255(g) or (m) of the National Housing Act (as adjusted where applicable under section 214 of the National Housing Act) as of the date of loan closing. The initial mortgage insurance premium must not be taken into account in the calculation of the maximum claim amount. Closing costs must not be taken into account in determining appraised value.
 
@@ -75,3 +81,9 @@ As used in this part, the following terms shall have the meaning indicated.
 *Property charges* means, unless otherwise specified, obligations of the borrower that include property taxes, hazard insurance premiums, any applicable flood insurance premiums, ground rents, condominium fees, planned unit development fees, homeowners' association fees, and any other special assessments that may be levied by municipalities or state law.
 
 *Qualifying Attributes* means the requirements which must be met by a Non-Borrowing Spouse in order to be an Eligible Non-Borrowing Spouse.
+
+*Replacement Date* means the first London banking day after June 30, 2023, unless the Board of Governors of the Federal Reserve System determines that any LIBOR tenor will cease to be published or cease to be representative on a different date. In such case, Replacement Date means the first business day following the date announced by the Board of Governors of the Federal Reserve System.
+
+*SOFR* means the Secured Overnight Financing Rate published by the Federal Reserve Bank of New York (or a successor administrator).
+
+\[82 FR 7117, Jan. 19, 2017, as amended at 88 FR 12828, Mar. 1, 2023\]
