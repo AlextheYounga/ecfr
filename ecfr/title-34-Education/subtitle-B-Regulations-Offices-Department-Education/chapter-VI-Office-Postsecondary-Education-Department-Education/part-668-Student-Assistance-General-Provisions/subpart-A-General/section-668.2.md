@@ -2,7 +2,7 @@
 
 (a) The following definitions are contained in the regulations for Institutional Eligibility under the Higher Education Act of 1965, as amended, 34 CFR part 600:
 
-Accredited Award year Branch campus Clock hour Correspondence course Credit hour Educational program Eligible institution Federal Family Education Loan (FFEL) programs Foreign institution Incarcerated student Institution of higher education Legally authorized Nationally recognized accrediting agency Nonprofit institution One-year training program Postsecondary vocational institution Preaccredited Proprietary institution of higher education Recognized equivalent of a high school diploma Recognized occupation Regular student Secretary State Telecommunications course
+Accredited Award year Branch campus Clock hour Correspondence course Credit hour Distance education Educational program Eligible institution Federal Family Education Loan (FFEL) programs Foreign institution Incarcerated student Institution of higher education Legally authorized Nationally recognized accrediting agency Nonprofit institution One-year training program Postsecondary vocational institution Preaccredited Proprietary institution of higher education Recognized equivalent of a high school diploma Recognized occupation Regular student Secretary State Telecommunications course
 
 (b) The following definitions apply to all Title IV, HEA programs:
 
@@ -304,4 +304,6 @@ Accredited Award year Branch campus Clock hour Correspondence course Credit hour
 
 *William D. Ford Federal Direct Loan (Direct Loan) Program:* The loan program authorized by Title IV, Part D of the HEA.
 
-(Authority: 20 U.S.C. 1087a *et seq.*) \[59 FR 22418, Apr. 29, 1994\] Editorial Note:For Federal Register citations affecting § 668.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Authority: 20 U.S.C. 1087a *et seq.*) \[59 FR 22418, Apr. 29, 1994\] Editorial Notes:1\. For Federal Register citations affecting § 668.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+2\. At 81 FR 92262, Dec. 19, 2016, § 668.2 was amended by amending paragraph (a), effective July 1, 2018. At 83 FR 31296, July 3, 2019, the amendment was delayed until July 1, 2020. At 84 FR 36471, July 29, 2019, the amendment was made effective May 26, 2019 by court order.
