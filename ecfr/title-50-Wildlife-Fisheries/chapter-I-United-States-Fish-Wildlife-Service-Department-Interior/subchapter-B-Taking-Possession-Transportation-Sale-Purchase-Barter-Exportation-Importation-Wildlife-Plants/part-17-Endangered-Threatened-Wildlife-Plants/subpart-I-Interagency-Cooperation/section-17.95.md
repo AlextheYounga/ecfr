@@ -1,10 +1,126 @@
 ##### § 17.95 Critical habitat—fish and wildlife.
 
-Link to an amendment published at 89 FR 16668, Mar. 7, 2024.
-
 (a) *Mammals.*
 
-Indiana Bat (*Myotis sodalis*)
+Florida Bonneted Bat (*Eumops floridanus*)
+
+(1) Critical habitat units are depicted for Charlotte, Collier, DeSoto, Glades, Hardee, Hendry, Highlands, Lee, Miami-Dade, Monroe, Okeechobee, Osceola, and Polk Counties, Florida, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Florida bonneted bat consist of the following components:
+
+(i) Habitats with sufficient darkness that provide for roosting and rearing of offspring. Such habitat provides structural features for rest, digestion of food, social interaction, mating, rearing of young, protection from sunlight and adverse weather conditions, and cover to reduce predation risks for adults and young, and is generally characterized by:
+
+(A) Live or dead trees and tree snags, especially longleaf pine, slash pine, bald cypress, and royal palm, that are sufficiently large (in diameter) and tall and have cavities of a sufficient size for roosts; and
+
+(B) Live or dead trees and tree snags with sufficient cavity height, spacing from adjacent trees, and relative canopy height to provide unobstructed space for Florida bonneted bats to emerge from roost trees; this may include open or semi-open canopy and canopy gaps.
+
+(ii) Habitats that provide adequate prey and space for foraging, which may vary widely across the Florida bonneted bat's range, in accordance with ecological conditions, seasons, and disturbance regimes that influence vegetation structure and prey species' distributions. Foraging habitat may be separate and relatively far from roosting habitat. Essential foraging habitat consists of sufficiently dark open areas in or near areas of high insect production or congregation, commonly including, but not limited to:
+
+(A) Freshwater edges, and freshwater herbaceous wetlands (permanent or seasonal);
+
+(B) Prairies;
+
+(C) Wetland and upland shrub; and/or
+
+(D) Wetland and upland forests.
+
+(iii) A dynamic disturbance regime (e.g., fire, hurricanes, forest management) that maintains and regenerates forested habitat, including plant communities, open habitat structure, and temporary gaps, which is conducive to promoting a continual supply of roosting sites, prey items, and suitable foraging conditions.
+
+(iv) A sufficient quantity and diversity of habitats to enable the species to be resilient to short-term impacts associated with disturbance over time (e.g., drought, forest disease). The ecological communities the Florida bonneted bat inhabits differ in hydrology, fire frequency/intensity, climate, prey species, roosting sites, and threats, and include, but are not limited to:
+
+(A) Pine rocklands;
+
+(B) Cypress communities (cypress swamps, strand swamps, domes, sloughs, ponds);
+
+(C) Hydric pine flatwoods (wet flatwoods);
+
+(D) Mesic pine flatwoods; and
+
+(E) High pine.
+
+(v) Habitats that provide structural connectivity where needed to allow for dispersal, gene flow, and natural and adaptive movements, including those that may be necessitated by climate change. These connections may include linear corridors such as vegetated, riverine, or open-water habitat with opportunities for roosting and/or foraging, or patches (*i.e.,* stepping stones) such as tree islands or other isolated natural areas within a matrix of otherwise low-quality habitat.
+
+(vi) A subtropical climate that provides tolerable conditions for the species such that normal behavior, successful reproduction, and rearing of offspring are possible.
+
+(3) Critical habitat does not include human-made structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on April 8, 2024.
+
+(4) Data layers defining map units were created using ESRI ArcGIS mapping software along with various spatial data layers. ArcGIS was also used to calculate the size of habitat areas. The projection used in mapping and calculating distances and locations within the units was World Geodetic System 1984, Universal Transverse Mercator Zone 17 North. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2019-0106, the Florida bonneted bat species web page at *https://www.fws.gov/species/florida-bonneted-bat-eumops-floridanus,* and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map follows:
+
+Figure 1 to Florida Bonneted Bat (*Eumops floridanus*) Paragraph (5) ![](/graphics/er07mr24.000.gif)
+
+(6) Unit 1: Kissimmee Unit; Polk, Osceola, Highlands, and Okeechobee Counties, Florida.
+
+(i) Unit 1 encompasses 175,735 acres (ac) (71,118 hectares (ha)) of lands in Polk, Osceola, Highlands, and Okeechobee Counties, Florida. This unit consists of two subunits generally located along the eastern bank of Lake Kissimmee northeast to SR-192, north of SR-60; and along portions of the Kissimmee River, south of SR-60.
+
+(ii) Map of Unit 1 follows:
+
+Figure 2 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (6)(ii) ![](/graphics/er07mr24.001.gif)
+
+(7) Unit 2: Peace River Unit; Hardee, DeSoto, and Charlotte Counties, Florida.
+
+(i) Unit 2 encompasses 28,046 ac (11,350 ha) of lands in Hardee, DeSoto, and Charlotte Counties, Florida. This unit consists of four subunits located along portions of the Peace River and its tributaries (e.g., Shell Creek, Charlie Creek), south of CR-64 with the majority west of U.S.-17.
+
+(ii) Map of Unit 2 follows:
+
+Figure 3 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (7)(ii) ![](/graphics/er07mr24.002.gif)
+
+(8) Unit 3: Babcock Unit; Charlotte, Lee, and Glades Counties, Florida.
+
+(i) Unit 3 encompasses 134,677 ac (54,502 ha) of lands in Charlotte, Lee, and Glades Counties, Florida. This unit consists of two subunits, with the majority of Unit 3 located in Charlotte County, east of I-75; other portions are in northern Lee and western Glades Counties.
+
+(ii) Map of Unit 3 follows:
+
+Figure 4 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (8)(ii) ![](/graphics/er07mr24.003.gif)
+
+(9) Unit 4: Fisheating Creek Unit; Glades and Highlands Counties, Florida.
+
+(i) Unit 4 encompasses 12,995 ac (5,259 ha) of lands in Glades and Highlands Counties, Florida. The majority of Unit 4 is located in Glades County, west of U.S.-27; the remainder of the unit extends north into southern Highlands County.
+
+(ii) Map of Unit 4 follows:
+
+Figure 5 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (9)(ii) ![](/graphics/er07mr24.004.gif)
+
+(10) Unit 5: Corkscrew Unit; Lee and Collier Counties, Florida.
+
+(i) Unit 5 encompasses 48,865 ac (19,775 ha) of lands in Lee and Collier Counties, Florida. This unit straddles the Lee/Collier county line, east of I-75.
+
+(ii) Map of Unit 5 follows:
+
+Figure 6 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (10)(ii) ![](/graphics/er07mr24.005.gif)
+
+(11) Unit 6: Big Cypress Unit; Collier, Hendry, and Monroe Counties, Florida.
+
+(i) Unit 6 encompasses 714,085 ac (288,980 ha) of lands in Collier, Hendry, and Monroe Counties, Florida. The majority of Unit 6 is located in Collier County, south of I-75; the remainder of the unit occurs in southern Hendry County and mainland portions of Monroe County.
+
+(ii) Map of Unit 6 follows:
+
+Figure 7 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (11)(ii) ![](/graphics/er07mr24.006.gif)
+
+(12) Unit 7: Everglades Tree Islands Unit; Miami-Dade County, Florida.
+
+(i) Unit 7 encompasses 16,604 ac (6,719 ha) of lands in Miami-Dade County, Florida, south of Tamiami Trail and west of Krome Avenue.
+
+(ii) Map of Unit 7 follows:
+
+Figure 8 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (12)(ii) ![](/graphics/er07mr24.007.gif)
+
+(13) Unit 8: Long Pine Key Unit; Miami-Dade County, Florida.
+
+(i) Unit 8 encompasses 25,337 ac (10,253 ha) of lands in Miami-Dade County, Florida, along Main Park Road (SR-9336) between Mahogany Hammock and SW 237th Avenue.
+
+(ii) Map of Unit 8 follows:
+
+![](/graphics/er07mr24.008.gif)Figure 9 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (13)(ii)
+
+(14) Unit 9: Miami Rocklands Unit; Miami-Dade County, Florida.
+
+(i) Unit 9 encompasses 4,281 ac (1,732 ha) of lands in Miami-Dade County, Florida. This unit consists of 36 subunits located between Tamiami Trail to the north and SR-9336 to the south, and is surrounded by a dense urban matrix typical of the Miami metropolitan area.
+
+(ii) Maps of Unit 9 follow:
+
+![](/graphics/er07mr24.009.gif)Figure 10 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (14)(ii) ![](/graphics/er07mr24.010.gif)Figure 11 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (14)(ii) ![](/graphics/er07mr24.011.gif)Figure 12 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (14)(ii) Indiana Bat (*Myotis sodalis*)
 
 *Illinois.* The Blackball Mine, La Salle County.
 
