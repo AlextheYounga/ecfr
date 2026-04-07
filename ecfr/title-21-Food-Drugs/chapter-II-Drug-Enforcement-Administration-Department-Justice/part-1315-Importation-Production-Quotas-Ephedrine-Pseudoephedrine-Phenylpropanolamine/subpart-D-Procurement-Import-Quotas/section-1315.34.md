@@ -18,15 +18,15 @@
 
 (7) For the current and preceding two calendar years, expressed in terms of base:
 
-(i) Distribution/Sales - name, address, and registration number (if applicable) of each customer and the amount sold.
+(i) Distribution/Sales—name, address, and registration number (if applicable) of each customer and the amount sold.
 
-(ii) Inventory as of December 31 (each form - bulk, in-process, finished dosage form).
+(ii) Inventory as of December 31 (each form—bulk, in-process, finished dosage form).
 
-(iii) Acquisition - imports.
+(iii) Acquisition—imports.
 
 (c) For each form of the chemical (bulk or dosage unit), the applicant must state the quantity desired for import during the next calendar year.
 
-(d) DEA Form 488 must be filed on or before April 1 of the year preceding the calendar year for which the import quota is being applied. Copies of DEA Form 488 may be obtained from the Office of Diversion Control Web site, and must be filed with the Drug & Chemical Evaluation Section. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+(d) DEA Form 488 must be filed on or before April 1 of the year preceding the calendar year for which the import quota is being applied. Copies of DEA Form 488 may be obtained from the Office of Diversion Control Web site, and must be filed with the UN Reporting & Quota Section, Diversion Control Division, Drug Enforcement Administration . See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 
 (e) The Administrator may at his discretion request additional information from an applicant.
 
