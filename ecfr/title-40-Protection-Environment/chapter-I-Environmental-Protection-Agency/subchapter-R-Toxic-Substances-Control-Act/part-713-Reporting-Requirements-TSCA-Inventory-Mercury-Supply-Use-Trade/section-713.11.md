@@ -1,0 +1,39 @@
+##### § 713.11 Specific requirements for which information must be reported.
+
+Except as described at § 713.7: 
+
+(a) Any person who manufactures (including imports) mercury must specify, as applicable, the specific mercury compound(s) from a pre-selected list (as listed in Table 1 of this part). 
+
+(b) Any person who manufactures (including imports) a mercury-added product must specify as applicable, the specific category(ies) and subcategory(ies) from a pre-selected list, as listed in Table 2 of this part: 
+
+Table 2—Categories and Subcategories of Mercury-Added Products
+| Category                                                                               | Subcategory                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Batteries                                                                              | —Button cell, silver.   —Button cell, zinc-air.   —Button cell, alkaline.   —Stacked button cell batteries.   —Manganese oxide.   —Silver oxide.   —Mercuric oxide, non-button cell.   —Button cell, mercuric oxide.   —Button cell, zinc carbon.   —Other (specify).                                                                                                                                                                                                                                                                           |
+| Dental amalgam                                                                         | \[No subcategories\].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Formulated products (includes uses in cosmetics, pesticides, and laboratory chemicals) | —Skin-lightening creams.   —Lotions.   —Soaps and sanitizers.   —Bath oils and salts.   —Topical antiseptics.   —Preservatives (e.g., for use in vaccines and eye-area cosmetics when no preservative alternatives are available).   —Pharmaceuticals (including prescription and over-the-counter drug products).   —Cleaning products (not registered as pesticides under the Federal Insecticide, Fungicide, and Rodenticide Act).   —Pesticides.   —Paints.   —Dyes.   —Reagents (e.g., catalysts, buffers, fixatives).   —Other (specify). |
+| Lighting, lamps, bulbs                                                                 | —Linear fluorescent.   —Compact fluorescent.   —U-tube and circular fluorescent.   —Cold cathode fluorescent.   —External electrode fluorescent.   —Mercury vapor.   —Metal halide.   —High pressure sodium.   —Mercury short arc.   —Neon.   —Other (specify).                                                                                                                                                                                                                                                                                 |
+| Measuring instruments                                                                  | —Barometer.   —Fever thermometer.   —Flow meter.   —Hydrometer.   —Hygrometer/psychrometer.   —Manometer.   —Non-fever thermometer.   —Pyrometer.   —Sphygmomanometer.   —Other (specify).                                                                                                                                                                                                                                                                                                                                                      |
+| Pump seals                                                                             | \[No subcategories\].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Switches, relays, sensors, valves                                                      | —Tilt switch.   —Vibration switch.   —Float switch.   —Pressure switch.   —Temperature switch.   —Displacement relay.   —Wetted reed relay.   —Contact relay.   —Flame sensor.   —Thermostat.   —Other (specify).                                                                                                                                                                                                                                                                                                                               |
+| Miscellaneous/novelty mercury-added products                                           | —Wheel weights.   —Wheel rotation balancers/stabilizers.   —Firearm recoil suppressors.   —Carburetor synchronizers.   —Joint support/shock absorption bands.   —Other (specify).                                                                                                                                                                                                                                                                                                                                                               |
+
+(c) Any person who otherwise intentionally uses mercury in a manufacturing process, other than the manufacture of a mercury compound or a mercury-added product, must identify, as applicable: 
+
+(1) The specific manufacturing process for which mercury is otherwise intentionally used from a pre-selected list, as listed in Table 3 of this part: 
+
+Table 3—Manufacturing Process for Which Mercury Is Otherwise Intentionally Used
+| Chlorine production (e.g., mercury-cell chlor-alkali process). |
+| Acetaldehyde production.                                       |
+| Sodium/potassium methylate/ethylate production.                |
+| Polyurethane/plastic production.                               |
+| Other (specify).                                               |
+
+(2) The specific use of mercury in a manufacturing process from a pre-selected list, as listed in Table 4 of this part: 
+
+Table 4—Specific Use of Mercury in a Manufacturing Process
+| Catalyst.        |
+| Cathode.         |
+| Reactant.        |
+| Reagent.         |
+| Other (specify). |
