@@ -1,8 +1,8 @@
 ##### § 157.208 Construction, acquisition, operation, replacement, and miscellaneous rearrangement of facilities.
 
-(a) *Automatic authorization.* If the project cost does not exceed the cost limitations set forth in column 1 of Table I, under paragraph (d) of this section, or if the project is required to restore service in an emergency, the certificate holder is authorized to make miscellaneous rearrangements of any facility, or acquire, construct, replace, or operate any eligible facility. The certificate holder shall not segment projects in order to meet the cost limitations set forth in column 1 of Table I.
+(a) *Automatic authorization.* If the project cost does not exceed the cost limitations set forth in column 1 of table 1 to paragraph (d) of this section, or if the project is required to restore service in an emergency, the certificate holder is authorized to make miscellaneous rearrangements of any facility, or acquire, construct, replace, or operate any eligible facility. The certificate holder shall not segment projects in order to meet the cost limitations set forth in column 1 of table 1 to paragraph (d).
 
-(b) *Prior notice.* If the project cost is greater than the amount specified in column 1 of Table I, but less than the amount specified in column 2 of Table I, the certificate holder is authorized to make miscellaneous rearrangements of any facility, or acquire, construct, replace, or operate any eligible facility. The certificate holder shall not segment projects in order to meet the cost limitations set forth in column 2 of Table I.
+(b) *Prior notice.* If the project cost is greater than the amount specified in column 1 of table 1 to paragraph (d) of this section, but less than the amount specified in column 2 of table 1 to paragraph (d), the certificate holder is authorized to make miscellaneous rearrangements of any facility, or acquire, construct, replace, or operate any eligible facility. The certificate holder shall not segment projects in order to meet the cost limitations set forth in column 2 of table 1 to paragraph (d).
 
 (c) *Contents of request.* In addition to the requirements of § 157.205(b), requests filed for activities described under paragraph (b) of this section shall contain:
 
@@ -30,10 +30,9 @@
 
 (10) A commitment to having the Environmental Inspector's report filed every week.
 
-(d) *Limits and inflation adjustment.* The limits specified in Tables I and II shall be adjusted each calendar year to reflect the “GDP implicit price deflator” published by the Department of Commerce for the previous calendar year. The Director of the Office of Energy Projects is authorized to compute and publish limits for future calendar years as a part of Tables I and II, pursuant to § 375.308(x)(1) of this chapter.
+(d) *Limits and inflation adjustment.* The limits specified in table 1 to this paragraph (d) and table 1 to § 157.215(a)(5) shall be adjusted each calendar year to reflect the “GDP implicit price deflator” published by the Department of Commerce for the previous calendar year. The Director of the Office of Energy Projects is authorized to compute and publish limits for future calendar years as a part of table 1 to this paragraph (d) and table 1 to § 157.215(a)(5), pursuant to § 375.308(x)(1) of this chapter.
 
-Table I to Paragraph (d)
-
+Table 1 to Paragraph (d)
 | Year | Limit      |
 | ---- | ---------- |
 | 1982 | $4,200,000 |
@@ -78,6 +77,7 @@ Table I to Paragraph (d)
 | 2021 | 12,600,000 |
 | 2022 | 13,100,000 |
 | 2023 | 14,000,000 |
+| 2024 | 14,500,000 |
 
 (e) *Reporting requirements.* For each facility completed during the calendar year pursuant to paragraph (a) of this section and § 157.213(a), the certificate holder shall file in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter as part of the required annual report under § 157.207(a) the information described in paragraphs (e)(1)-(5) of this section. For each facility completed during the calendar year pursuant to paragraph (b) of this section, and §§ 157.210, 157.212, and 157.213(b), the certificate holder shall file in the manner prescribed above only the information described in paragraph (e)(3) of this section.
 
@@ -101,10 +101,10 @@ Table I to Paragraph (d)
 
 (ii) The amounts recorded in the accounts of the vendor (seller or lessor) that apply to the facilities acquired and the accumulated provisions for depreciation, depletion, and amortization.
 
-(f) *Special conditions.* (1) For purposes of comparing the project cost of leased facilities with the per-project cost limitations in Table I of this section, the project cost of leased facilities shall be the annual lease charge multiplied by the number of years of the lease.
+(f) *Special conditions.* (1) For purposes of comparing the project cost of leased facilities with the per-project cost limitations in table 1 to paragraph (d) of this section, the project cost of leased facilities shall be the annual lease charge multiplied by the number of years of the lease.
 
 (2) In the interest of safety and reliability of service, facilities authorized by the certificate shall not be operated at pressures exceeding the maximum operating pressure set forth in the request. In the event that the certificate holder thereafter wishes to change the maximum operating pressure of supply or delivery lateral facilities constructed under section 7(c) of the Natural Gas Act or facilities constructed under this section, it shall file an appropriate request pursuant to the procedures set forth in § 157.205(b). Such request shall include the reasons for the proposed change. Nothing contained herein authorizes the certificate holder to operate any facility at a pressure above the maximum prescribed by State law, if such law requires a lower pressure than authorized hereby.
 
-(g) If the actual cost of the project exceeds the per-project cost authorized under a blanket certificate in Table I of this section, the certificate holder shall apply to the Director of the Office of Energy Projects for a waiver of those project cost limits.
+(g) If the actual cost of the project exceeds the per-project cost authorized under a blanket certificate in table 1 to paragraph (d) of this section, the certificate holder shall apply to the Director of the Office of Energy Projects for a waiver of those project cost limits.
 
 \[Order 234, 47 FR 24266, June 4, 1982\] Editorial Note:For Federal Register citations affecting § 157.208, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
