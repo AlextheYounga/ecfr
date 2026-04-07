@@ -755,4 +755,16 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 9098 
 
-\[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+\[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1\. At 83 FR 31882, July 10, 2018, § 1308.11 was amended by adding paragraphs (h)(31) through (h)(35) effective July 10, 2018, through July 10, 2020. At 85 FR 42296, July 13, 2020, the effective period was extended to July 10, 2021, effective July 10, 2020.
+
+2\. At 83 FR 44478, Aug. 31, 2018, § 1308.11 was amended by adding paragraph (h)(36) effective Aug. 31, 2018, through Aug. 31, 2020. At 85 FR 52915, Aug. 27, 2020, the effective period was extended to Aug. 31, 2021.
+
+3\. At 84 FR 15511, Apr. 16, 2019, § 1308.11 was amended by adding paragraphs (h)(37) through (h)(41) effective Apr. 16, 2019, through Apr. 16, 2021. At 86 FR 16669, Mar. 31, 2021, the effective period was extended to Apr. 16, 2022.
+
+4\. At 84 FR 34297, July 17, 2019, § 1308.11 was amended by adding paragraphs (h)(42) through (h)(47) effective July 18, 2019, through July 18, 2021.
+
+5.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114.
+
+6\. At 85 51346, Aug. 20, 2020, § 1308.11 was amended by adding paragraph (h)(48), effective Aug. 20, 2020, through Aug. 20, 2022.
+
+7\. At 86 FR 11866, Mar. 1, 2021, § 1308.11 was amended by adding paragraph (h)(49), effective Mar. 1, 2021 through Mar. 1, 2023.
