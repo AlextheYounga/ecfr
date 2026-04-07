@@ -791,11 +791,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (ii) This definition includes, but is not limited to, the following substances: (A)-(B) \[Reserved\]
 
-(31)-(48) \[Reserved\] 
-
-(49) 1-(1-(1-(4-bromophenyl)ethyl)piperidin-4-yl)-1,3-dihydro-2H-benzo\[d\]imidazol-2-one, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: brorphine; 1-\[1-\[1-(4-bromophenyl)ethyl\]-4-piperidinyl\]-1,3-dihydro-2H-benzimidazol-2-one)
-
-9098 
+(31)-(49) \[Reserved\] 
 
 (50) 2-(2-(4-butoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Butonitazene)
 
@@ -829,6 +825,4 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 1.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114. Effective May 4, 2021, Congress extended the effective period for paragraph (h)(30) until October 22, 2021, by Public Law 117-12. Effective Sept. 30, 2021, Congress extended the effective period for paragraph (h)(30) until Jan. 28, 2022, by Public Law 117-43. Effective Jan. 13, 2022, Congress extended the effective period for paragraph (h)(30) until Feb. 18, 2022, by Public Law 117-70. Effective Feb. 18, 2022, Congress extended the effective period for paragraph (h)(30) until Mar. 11, 2022, by Public Law 117-86. Effective Mar. 11, 2022, Congress extended the effective period for paragraph (h)(30) until Mar. 15, 2022 by Public Law 117-95. Effective Mar. 15, 2022, Congress extended the effective period for paragraph (h)(30) until Dec. 31, 2022 by Public Law No. 117-103. Effective Dec. 29, 2022, Congress extended the effective period for paragraph (h)(30) until Dec. 31, 2024 by Public Law No. 117-328.
 
-2\. At 86 FR 11866, Mar. 1, 2021, § 1308.11 was amended by adding paragraph (h)(49), effective Mar. 1, 2021 through Mar. 1, 2023.
-
-3\. At 87 FR 21561, Apr. 12, 2022, § 1308.11 was amended by adding paragraphs (h)(50) through (h)(56), effective Apr. 12, 2022 through Apr. 12, 2024.
+2\. At 87 FR 21561, Apr. 12, 2022, § 1308.11 was amended by adding paragraphs (h)(50) through (h)(56), effective Apr. 12, 2022 through Apr. 12, 2024.

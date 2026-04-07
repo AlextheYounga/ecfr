@@ -2,9 +2,9 @@
 
 (a) This subpart provides policies, procedures, and standards for use in the evaluation of a contractor's material management and accounting system (MMAS).
 
-(b) The policies, procedures, and standards in this subpart -
+(b) The policies, procedures, and standards in this subpart—
 
-(1) Apply only when the contractor has contracts exceeding the simplified acquisition threshold that are not for the acquisition ofcommercial products or commercial services and are either -
+(1) Apply only when the contractor has contracts exceeding the simplified acquisition threshold that are not for the acquisition of commercial products or commercial services and are either—
 
 (i) Cost-reimbursement contracts; or
 
