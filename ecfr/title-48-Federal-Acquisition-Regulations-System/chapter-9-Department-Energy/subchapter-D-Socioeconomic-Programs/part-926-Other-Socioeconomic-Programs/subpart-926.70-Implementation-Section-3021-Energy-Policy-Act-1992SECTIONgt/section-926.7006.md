@@ -1,5 +1,7 @@
 ##### 926.7006 Goal measurement and reporting requirements.
 
+Link to an amendment published at 89 FR 89753, Nov. 13, 2024.
+
 (a) *General.* The following types of contract awards for Energy Policy Act procurements shall be counted toward achievement by DOE of the 10 percent goal—
 
 (1) Any award set-aside for small disadvantaged business;

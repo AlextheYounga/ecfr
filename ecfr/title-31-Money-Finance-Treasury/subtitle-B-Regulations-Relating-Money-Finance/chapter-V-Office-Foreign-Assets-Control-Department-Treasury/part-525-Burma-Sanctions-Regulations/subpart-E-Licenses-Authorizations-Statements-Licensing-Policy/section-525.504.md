@@ -4,4 +4,4 @@ Any payment of funds or transfer of credit in which a person whose property and 
 
 Note 1 to § 525.504.
 
-*See* § 501.603 of this chapter for mandatory reporting requirements regarding financial transfers. *See also* § 525.203 concerning the obligation to hold blocked funds in interest-bearing accounts.
+*See* § 501.603 of this chapter for mandatory reporting requirements regarding financial transfers. *See also* § 525.204 concerning the obligation to hold blocked funds in interest-bearing accounts.

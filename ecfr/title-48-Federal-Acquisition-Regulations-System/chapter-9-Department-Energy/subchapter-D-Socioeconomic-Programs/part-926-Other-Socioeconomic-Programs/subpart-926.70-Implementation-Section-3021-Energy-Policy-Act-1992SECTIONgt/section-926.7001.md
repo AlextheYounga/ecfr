@@ -1,5 +1,7 @@
 ##### 926.7001 Policy.
 
+Link to an amendment published at 89 FR 89753, Nov. 13, 2024.
+
 (a) Section 3021(a) of the Energy Policy Act of 1992 (Pub. L. 102-486) specifies that the Department of Energy (DOE) shall, to the extent practicable, provide that not less than 10 percent of the total combined amounts obligated for competitively awarded contracts and subcontracts under the Energy Policy Act be expended with—
 
 (1) Small business concerns controlled by socially and economically disadvantaged individuals or by women;

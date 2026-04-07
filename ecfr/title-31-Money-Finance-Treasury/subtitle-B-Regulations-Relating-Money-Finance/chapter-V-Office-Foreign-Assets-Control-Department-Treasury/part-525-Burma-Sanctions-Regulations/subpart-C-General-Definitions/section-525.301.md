@@ -4,4 +4,4 @@ The terms *blocked account* and *blocked property* mean any account or property 
 
 Note 1 to § 525.301.
 
-*See* § 525.406 concerning the blocked status of property and interests in property of an entity that is directly or indirectly owned, whether individually or in the aggregate, 50 percent or more by one or more persons whose property and interests in property are blocked pursuant to § 525.201.
+*See* § 525.411 concerning the blocked status of property and interests in property of an entity that is directly or indirectly owned, whether individually or in the aggregate, 50 percent or more by one or more persons whose property and interests in property are blocked pursuant to § 525.201.
