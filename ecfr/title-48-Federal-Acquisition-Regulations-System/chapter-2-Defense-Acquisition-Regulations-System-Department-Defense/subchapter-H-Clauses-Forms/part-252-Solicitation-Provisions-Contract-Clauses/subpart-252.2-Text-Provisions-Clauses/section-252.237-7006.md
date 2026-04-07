@@ -1,6 +1,6 @@
 ##### 252.237-7006 Subcontracting.
 
-As prescribed in 237.7003(a) and (a)(4), use the following clause:
+As prescribed in 237.7003(a) and (a)(4), use the following clause: 
 
 Subcontracting (DEC 1991)
 

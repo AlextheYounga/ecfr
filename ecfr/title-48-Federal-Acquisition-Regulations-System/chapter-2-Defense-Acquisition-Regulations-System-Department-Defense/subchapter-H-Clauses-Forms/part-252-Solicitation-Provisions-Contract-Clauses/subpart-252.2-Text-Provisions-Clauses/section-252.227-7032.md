@@ -1,6 +1,6 @@
 ##### 252.227-7032 Rights in technical data and computer software (foreign).
 
-As prescribed in 227.7103-17, use the following clause:
+As prescribed in 227.7103-17, use the following clause: 
 
 Rights in Technical Data and Computer Software (Foreign) (JUN 1975)
 

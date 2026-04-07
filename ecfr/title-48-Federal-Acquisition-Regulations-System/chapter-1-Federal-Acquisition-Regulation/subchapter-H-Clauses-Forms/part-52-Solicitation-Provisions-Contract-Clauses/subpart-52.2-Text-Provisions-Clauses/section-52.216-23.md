@@ -1,6 +1,6 @@
 ##### 52.216-23 Execution and Commencement of Work.
 
-As prescribed in 16.603-4(b)(1), insert the following clause in solicitations and contracts when a letter contract is contemplated, except that it may be omitted from letter contracts awarded on SF 26:
+As prescribed in 16.603-4(b)(1), insert the following clause in solicitations and contracts when a letter contract is contemplated, except that it may be omitted from letter contracts awarded on SF 26: 
 
 Execution and Commencement of Work (APR 1984)
 

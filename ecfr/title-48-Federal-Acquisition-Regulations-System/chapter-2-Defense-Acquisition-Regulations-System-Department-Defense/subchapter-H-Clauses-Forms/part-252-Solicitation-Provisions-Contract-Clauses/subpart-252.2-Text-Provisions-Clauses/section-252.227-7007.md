@@ -1,6 +1,6 @@
 ##### 252.227-7007 License term—running royalty.
 
-As prescribed at 227.7009-4(b), insert the following clause in patent releases, license agreements, and assignments:
+As prescribed at 227.7009-4(b), insert the following clause in patent releases, license agreements, and assignments: 
 
 License Term—Running Royalty (AUG 1984)
 

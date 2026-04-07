@@ -1,6 +1,6 @@
 ##### 252.216-7002 Alternate A, Time-and-Materials/Labor-Hour Proposal Requirements—Other Than Commercial Acquisition with Adequate Price Competition.
 
-As prescribed in 216.601(e), substitute the following paragraph (c) for paragraph (c) of the provision at FAR 52.216-29:
+As prescribed in 216.601(e), substitute the following paragraph (c) for paragraph (c) of the provision at FAR 52.216-29: 
 
 Alternate A, Time-and-Materials/Labor-Hour Proposal Requirements—Other Than Commercial Acquisition With Adequate Price Competition (JAN 2023)
 

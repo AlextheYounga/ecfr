@@ -1,6 +1,6 @@
 ##### 252.237-7018 Special definitions of Government property.
 
-As prescribed in 237.7101(g), use the following clause:
+As prescribed in 237.7101(g), use the following clause: 
 
 Special Definitions of Government Property (DEC 1991)
 

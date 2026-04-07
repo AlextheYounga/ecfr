@@ -1,6 +1,6 @@
 ##### 52.215-17 Waiver of Facilities Capital Cost of Money.
 
-As prescribed in 15.408(i), insert the following clause:
+As prescribed in 15.408(i), insert the following clause: 
 
 Waiver of Facilities Capital Cost of Money (OCT 1997)
 

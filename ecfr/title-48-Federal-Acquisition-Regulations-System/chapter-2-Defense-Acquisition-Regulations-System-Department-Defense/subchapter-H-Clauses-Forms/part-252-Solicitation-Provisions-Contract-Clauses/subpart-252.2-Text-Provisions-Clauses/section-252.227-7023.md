@@ -1,6 +1,6 @@
 ##### 252.227-7023 Drawings and other data to become property of Government.
 
-As prescribed at 227.7107-1(b), use the following clause:
+As prescribed at 227.7107-1(b), use the following clause: 
 
 Drawings and Other Data to Become Property of Government (MAR 1979)
 

@@ -1,6 +1,6 @@
 ##### 52.244-4 Subcontractors and outside associates and consultants (Architect-engineer services).
 
-As prescribed in 44.204(b), insert the following clause:
+As prescribed in 44.204(b), insert the following clause: 
 
 Subcontractors and Outside Associates and Consultants (Architect-Engineer Services) (AUG 1998)
 

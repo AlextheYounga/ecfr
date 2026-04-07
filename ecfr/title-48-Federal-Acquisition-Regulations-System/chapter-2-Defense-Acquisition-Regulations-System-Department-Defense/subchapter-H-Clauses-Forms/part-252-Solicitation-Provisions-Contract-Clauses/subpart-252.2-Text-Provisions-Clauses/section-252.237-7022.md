@@ -1,6 +1,6 @@
 ##### 252.237-7022 Services at installations being closed.
 
-As prescribed in 237.7402, use the following clause:
+As prescribed in 237.7402, use the following clause: 
 
 Services at Installations Being Closed (MAY 1995)
 

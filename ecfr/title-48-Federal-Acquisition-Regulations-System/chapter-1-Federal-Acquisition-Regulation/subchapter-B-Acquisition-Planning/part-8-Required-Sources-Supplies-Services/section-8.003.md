@@ -1,13 +1,13 @@
 ##### 8.003 Use of other mandatory sources.
 
-Agencies shall satisfy requirements for the following supplies or services from or through specified sources, as applicable:
+Agencies shall satisfy requirements for the following supplies or services from or through specified sources, as applicable: 
 
-(a) Public utility services (see part 41).
+(a) Public utility services (see part 41). 
 
-(b) Printing and related supplies (see subpart 8.8).
+(b) Printing and related supplies (see subpart 8.8). 
 
-(c) Leased motor vehicles (see subpart 8.11).
+(c) Leased motor vehicles (see subpart 8.11). 
 
-(d) Strategic and critical materials (*e.g.,* metals and ores) from inventories exceeding Defense National Stockpile requirements (detailed information is available from the DLA Strategic Materials, 8725 John J. Kingman Rd., Suite 3229, Fort Belvoir, VA 22060-6223.
+(d) Strategic and critical materials (*e.g.,* metals and ores) from inventories exceeding Defense National Stockpile requirements (detailed information is available from the DLA Strategic Materials, 8725 John J. Kingman Rd., Suite 3229, Fort Belvoir, VA 22060-6223. 
 
 \[78 FR 80378, Dec. 31, 2013, as amended at 88 FR 25476, Apr. 26, 2023\]

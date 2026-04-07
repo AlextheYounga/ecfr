@@ -1,6 +1,6 @@
 ##### 52.236-24 Work Oversight in Architect-Engineer Contracts.
 
-As prescribed in 36.609-3, insert the following clause:
+As prescribed in 36.609-3, insert the following clause: 
 
 Work Oversight in Architect-Engineer Contracts (APR 1984)
 

@@ -1,6 +1,6 @@
 ##### 252.215-7012 Requirements for Submission of Proposals via Electronic Media.
 
-As prescribed in 215.408(5)(iii), use the following provision:
+As prescribed in 215.408(5)(iii), use the following provision: 
 
 Requirements for Submission of Proposals Via Electronic Media (JAN 2018)
 

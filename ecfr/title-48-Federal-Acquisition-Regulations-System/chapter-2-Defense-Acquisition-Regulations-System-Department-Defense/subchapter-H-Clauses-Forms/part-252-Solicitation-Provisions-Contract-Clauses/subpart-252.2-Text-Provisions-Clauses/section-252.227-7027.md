@@ -1,6 +1,6 @@
 ##### 252.227-7027 Deferred ordering of technical data or computer software.
 
-As prescribed at 227.7103-8(b), use the following clause:
+As prescribed at 227.7103-8(b), use the following clause: 
 
 Deferred Ordering of Technical Data or Computer Software (APR 1988)
 

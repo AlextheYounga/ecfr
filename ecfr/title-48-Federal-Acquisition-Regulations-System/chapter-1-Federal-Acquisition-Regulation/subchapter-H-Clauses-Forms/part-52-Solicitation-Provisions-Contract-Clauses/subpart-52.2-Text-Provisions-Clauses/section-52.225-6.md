@@ -1,14 +1,14 @@
 ##### 52.225-6 Trade Agreements Certificate.
 
-As prescribed in 25.1101(c)(2), insert the following provision:
+As prescribed in 25.1101(c)(2), insert the following provision: 
 
 Trade Agreements Certificate (FEB 2021)
 
-(a) The offeror certifies that each end product, except those listed in paragraph (b) of this provision, is a U.S.-made or designated country end product, as defined in the clause of this solicitation entitled “Trade Agreements.”
+(a) The offeror certifies that each end product, except those listed in paragraph (b) of this provision, is a U.S.-made or designated country end product, as defined in the clause of this solicitation entitled “Trade Agreements.” 
 
-(b) The offeror shall list as other end products those supplies that are not U.S.-made or designated country end products.
+(b) The offeror shall list as other end products those supplies that are not U.S.-made or designated country end products. 
 
-Other End Products:
+Other End Products: 
 
 | Line item No. | Country of origin |
 | ------------- | ----------------- |

@@ -1,6 +1,6 @@
 ##### 52.247-56 Transit Arrangements.
 
-As prescribed in 47.305-13(a)(3)(ii), insert the following provision in solicitations when benefits may accrue to the Government because transit arrangements may apply:
+As prescribed in 47.305-13(a)(3)(ii), insert the following provision in solicitations when benefits may accrue to the Government because transit arrangements may apply: 
 
 Transit Arrangements (APR 1984)
 

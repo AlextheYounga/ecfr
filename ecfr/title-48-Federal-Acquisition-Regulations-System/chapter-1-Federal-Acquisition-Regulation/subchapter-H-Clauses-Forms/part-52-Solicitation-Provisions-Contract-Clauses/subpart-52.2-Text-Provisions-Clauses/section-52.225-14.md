@@ -1,6 +1,6 @@
 ##### 52.225-14 Inconsistency between English Version and Translation of Contract.
 
-As prescribed in 25.1103(b), insert the following clause:
+As prescribed in 25.1103(b), insert the following clause: 
 
 Inconsistency Between English Version and Translation of Contract (FEB 2000)
 

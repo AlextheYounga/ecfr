@@ -1,6 +1,6 @@
 ##### 252.241-7001 Government access.
 
-As prescribed in 241.501-70(b), use the following clause:
+As prescribed in 241.501-70(b), use the following clause: 
 
 Government Access (DEC 1991)
 

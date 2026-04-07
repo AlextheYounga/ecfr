@@ -1,6 +1,6 @@
 ##### 52.247-28 Contractor's Invoices.
 
-As prescribed in 47.207-9(c), insert the following clause in solicitations and contracts for drayage or other term contracts for transportation or for transportation-related services:
+As prescribed in 47.207-9(c), insert the following clause in solicitations and contracts for drayage or other term contracts for transportation or for transportation-related services: 
 
 Contractor's Invoices (APR 1984)
 

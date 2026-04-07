@@ -1,6 +1,6 @@
 ##### 42.1105 Assignment of criticality designator.
 
-Contracting officers shall assign a criticality designator to each contract in the space for designating the contract administration office, as follows:
+Contracting officers shall assign a criticality designator to each contract in the space for designating the contract administration office, as follows: 
 
 | Criticality Designator | Criterion                                                                                                                                                                                                    |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

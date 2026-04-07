@@ -1,6 +1,6 @@
 ##### 25.002 Applicability of subparts.
 
-The following table shows the applicability of the subparts. Subpart 25.5 provides comprehensive procedures for offer evaluation and examples.
+The following table shows the applicability of the subparts. Subpart 25.5 provides comprehensive procedures for offer evaluation and examples. 
 
 |       | Subpart                                                                            | Supplies for use | Construction | Services   performed |
 | ----- | ---------------------------------------------------------------------------------- | ---------------- | ------------ | -------------------- |
