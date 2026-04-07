@@ -6,7 +6,7 @@
 
 (3) In addition to the amount that a national bank or savings association may lend to one borrower under § 32.3, an eligible national bank or eligible savings association may make small farm loans or extensions of credit to one borrower in the lesser of the following two amounts: 10 percent of its capital and surplus; or the percent of its capital and surplus, in excess of 15 percent, that a State bank or savings association is permitted to lend under the State lending limit that is available for small farm loans or unsecured loans in the State where the main office of the national bank or savings association is located.
 
-(4) The total outstanding amount of a national bank's or savings association's loans and extensions of credit to one borrower made under §§ 32.3(a) and (b), together with loans and extensions of credit to the borrower made pursuant to paragraphs (a)(1), (2), and (3) of this section, shall not exceed 25 percent of the bank's or savings association's capital and surplus.
+(4) The total outstanding amount of a national bank's or savings association's loans and extensions of credit to one borrower made under § 32.3(a) and (b), together with loans and extensions of credit to the borrower made pursuant to paragraphs (a)(1), (2), and (3) of this section, shall not exceed 25 percent of the bank's or savings association's capital and surplus.
 
 (5) The total outstanding amount of a national bank's or savings association's loans and extensions of credit to all of its borrowers made pursuant to the supplemental lending limits provided in paragraphs (a)(1), (2), and (3) of this section may not exceed 100 percent of the bank's or savings association's capital and surplus.
 

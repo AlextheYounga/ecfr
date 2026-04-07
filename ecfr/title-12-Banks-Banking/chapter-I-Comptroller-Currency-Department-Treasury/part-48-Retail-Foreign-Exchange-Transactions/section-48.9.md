@@ -36,7 +36,7 @@
 
 (c) *Separate margin account.* Margin collected by the national bank from a retail forex customer for retail forex transactions or pledged by a retail forex customer for retail forex transactions must be placed into a separate account.
 
-(d) *Margin calls; liquidation of position* - (1) For each retail forex customer, at least once per day, a national bank must:
+(d) *Margin calls; liquidation of position.* (1) For each retail forex customer, at least once per day, a national bank must:
 
 (i) Mark the value of the retail forex customer's open retail forex positions to market;
 
