@@ -8,7 +8,7 @@ The Commission maintains several offices and receipt locations. Applications and
 
 (i) Documents submitted by mail to this office should be addressed to: Federal Communications Commission, Washington, DC 20554.
 
-(ii) Hand-carried documents should be delivered to the Secretary's Office at 445 12th Street, SW., Washington, DC 20554.
+(ii) All hand-carried documents should be addressed to the Commission's Secretary, Office of the Secretary, Federal Communications Commission and delivered to 9050 Junction Drive, Annapolis Junction, MD 20701.
 
 (iii) Electronic filings, where required, recommended, or permitted, must be transmitted as specified by the Commission or relevant Bureau or Office.
 
