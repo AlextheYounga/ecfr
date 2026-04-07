@@ -1,5 +1,7 @@
 ##### § 301.91-5 Issuance and cancellation of certificates and limited permits.
 
+Link to an amendment published at 87 FR 80018, Dec. 29, 2022.
+
 (a) A certificate shall be issued by an inspector, except as provided in paragraph (c) of this section, for the movement of a regulated article if such inspector:
 
 (1)(i) Determines based on inspection of the premises of origin that the premises are free from European larch canker; or

@@ -1,5 +1,7 @@
 ##### § 301.91-6 Compliance agreement and cancellation thereof.
 
+Link to an amendment published at 87 FR 80018, Dec. 29, 2022.
+
 (a) Any person engaged in the business of growing, handling, or moving regulated articles may enter into a compliance agreement to facilitate the movement of regulated articles under this subpart. 4 The compliance agreement shall be a written agreement between a person engaged in such a business and Plant Protection and Quarantine, wherein the person agrees to comply with the provisions of this subpart and any conditions imposed pursuant thereto.
 
 4 Compliance agreement forms are available without charge from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Domestic and Emergency Operations, 4700 River Road Unit 134, Riverdale, Maryland 20737-1236, and from local offices of the Plant Protection and Quarantine. (Local offices are listed in telephone directories).

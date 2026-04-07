@@ -1,5 +1,7 @@
 ##### § 301.87-2 Regulated articles.
 
+Link to an amendment published at 87 FR 80015, Dec. 29, 2022.
+
 (a) Sugarcane plants, whole or in part, including true seed and bagasse, but not including pieces of cane boiled for a minimum of 30 minutes during processing into sugarcane chews;
 
 (b) Used sugarcane processing equipment (sugarcane mill equipment, such as equipment used for extracting and refining sugarcane juice; and experimental devices, such as devices used for extracting sugarcane juice);

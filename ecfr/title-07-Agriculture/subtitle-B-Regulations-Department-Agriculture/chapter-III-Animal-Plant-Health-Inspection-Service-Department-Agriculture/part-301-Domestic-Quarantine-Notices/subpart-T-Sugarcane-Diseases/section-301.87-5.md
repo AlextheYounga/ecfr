@@ -1,5 +1,7 @@
 ##### § 301.87-5 Issuance and cancellation of certificates and limited permits.
 
+Link to an amendment published at 87 FR 80016, Dec. 29, 2022.
+
 (a) A certificate shall be issued by an inspector for the movement of a regulated article if the inspector:
 
 (1)(i) Determines that it has been treated under the direction of an inspector 4 in accordance with part 305 of this chapter, or

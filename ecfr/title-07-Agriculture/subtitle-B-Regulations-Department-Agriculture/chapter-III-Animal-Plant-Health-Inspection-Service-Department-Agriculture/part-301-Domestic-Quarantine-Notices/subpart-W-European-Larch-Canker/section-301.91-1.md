@@ -1,5 +1,7 @@
 ##### § 301.91-1 Definitions.
 
+Link to an amendment published at 87 FR 80017, Dec. 29, 2022.
+
 Terms used in the singular form in this subpart shall be construed as the plural and vice versa, as the case may demand. The following terms, when used in this subpart, shall be construed, respectively, to mean:
 
 *Certificate.* A document which is issued for a regulated article by an inspector or by a person operating under a compliance agreement, and which represents that such article is eligible for interstate movement in accordance with § 301.91-5(a).

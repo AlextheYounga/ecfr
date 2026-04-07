@@ -1,5 +1,7 @@
 ##### § 301.91-2 Regulated articles.
 
+Link to an amendment published at 87 FR 80017, Dec. 29, 2022.
+
 The following are regulated articles:
 
 (a) Logs, pulpwood, branches, twigs, plants, scion and other propagative material of the *Larix* or *Pseudolarix* spp. except seeds;

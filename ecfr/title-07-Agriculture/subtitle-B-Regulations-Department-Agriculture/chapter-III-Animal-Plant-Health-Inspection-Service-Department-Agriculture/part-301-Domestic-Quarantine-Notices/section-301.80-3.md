@@ -1,5 +1,7 @@
 ##### § 301.80-3 Conditions governing the interstate movement of regulated articles from quarantined States. 3
 
+Link to an amendment published at 87 FR 80012, Dec. 29, 2022.
+
 3 Requirements under all other applicable Federal domestic plant quarantines must also be met.
 
 (a) Any regulated articles, except soil samples for processing, testing, or analysis, may be moved interstate from any quarantined State under the following conditions:

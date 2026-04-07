@@ -1,5 +1,7 @@
 ##### § 301.91-3 Regulated areas.
 
+Link to an amendment published at 87 FR 80017, Dec. 29, 2022.
+
 (a) Except as otherwise provided in paragraph (b) of this section, the Deputy Administrator shall list as a regulated area in paragraph (c) of this section, the State, or any portion thereof, in which European larch canker has been found by an inspector or in which the Deputy Administrator has reason to believe that European larch canker is present, or any portion of a quarantined State which the Deputy Administrator deems necessary to regulate because of its proximity to a European larch canker infestation or its inseparability for quarantine enforcement purpose from localities in which European larch canker occurs. Less than an entire quarantined State will be designated as a regulated area only if the Deputy Administrator determines that:
 
 (1) The State has adopted and is enforcing a quarantine or regulation which imposes restrictions on the intrastate movement of the regulated articles which are substantially the same as those which are imposed with respect to the interstate movement of such articles under this subpart; and
