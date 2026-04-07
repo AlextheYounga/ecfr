@@ -1482,7 +1482,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Chicago              | 12, 19, \*21, 27, 29, 31, 43, 44, 45, \*47          |
 | Decatur              | 17, 22                                              |
 | East St. Louis       | 47                                                  |
-| Freeport             | 41                                                  |
+| Freeport             | 9, 41                                               |
 | Galesburg            | 8                                                   |
 | Harrisburg           | 34                                                  |
 | Jacksonville         | \*15                                                |
